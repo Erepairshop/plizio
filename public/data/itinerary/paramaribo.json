@@ -1,0 +1,912 @@
+{
+  "city_id": "paramaribo",
+  "anchor": {
+    "name": "Fort Zeelandia",
+    "coords": [
+      -55.1486,
+      5.8256
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort Zeelandia",
+            "hu": "Zeelandia-erőd",
+            "ro": "Fort Zeelandia",
+            "en": "Fort Zeelandia"
+          },
+          "coords": [
+            -55.1486,
+            5.8256
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Suriname Museum.",
+            "hu": "Látogasd meg a Suriname Múzeumot.",
+            "ro": "Vizitați Muzeul Suriname.",
+            "en": "Visit the Suriname Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmengarten",
+            "hu": "Pálmakert",
+            "ro": "Grădina de Palmieri",
+            "en": "Palmentuin"
+          },
+          "coords": [
+            -55.15,
+            5.8285
+          ],
+          "category": "park",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schatten unter hunderten Palmen.",
+            "hu": "Árnyék több száz pálma alatt.",
+            "ro": "Umbră sub sute de palmieri.",
+            "en": "Shade under hundreds of palms."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter und Paul Kathedrale",
+            "hu": "Szent Péter és Pál székesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "St. Peter and Paul Cathedral"
+          },
+          "coords": [
+            -55.1555,
+            5.828
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Imposante Holzarchitektur.",
+            "hu": "Lenyűgöző faépítészet.",
+            "ro": "Arhitectură din lemn impresionantă.",
+            "en": "Impressive wooden architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Markt",
+            "hu": "Központi piac",
+            "ro": "Piața Centrală",
+            "en": "Central Market"
+          },
+          "coords": [
+            -55.1585,
+            5.8235
+          ],
+          "category": "market",
+          "arrive_at": "13:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie frisches Obst.",
+            "hu": "Kóstoljon friss gyümölcsöt.",
+            "ro": "Gustați fructe proaspete.",
+            "en": "Try fresh fruit."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterkant",
+            "hu": "Waterkant sétány",
+            "ro": "Promenada Waterkant",
+            "en": "Waterkant"
+          },
+          "coords": [
+            -55.155,
+            5.822
+          ],
+          "category": "harbor",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Blick auf den Suriname-Fluss.",
+            "hu": "Kilátás a Suriname-folyóra.",
+            "ro": "Vedere spre râul Suriname.",
+            "en": "View of the Suriname River."
+          }
+        },
+        {
+          "name": {
+            "de": "Unabhängigkeitsplatz",
+            "hu": "Függetlenség tere",
+            "ro": "Piața Independenței",
+            "en": "Independence Square"
+          },
+          "coords": [
+            -55.1515,
+            5.8265
+          ],
+          "category": "square",
+          "arrive_at": "15:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Historische Regierungsgebäude.",
+            "hu": "Történelmi kormányzati épületek.",
+            "ro": "Clădiri guvernamentale istorice.",
+            "en": "Historical government buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Neveh Shalom",
+            "hu": "Neveh Shalom zsinagóga",
+            "ro": "Sinagoga Neveh Shalom",
+            "en": "Neveh Shalom Synagogue"
+          },
+          "coords": [
+            -55.161,
+            5.827
+          ],
+          "category": "religious",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sandiger Hallenboden.",
+            "hu": "Homokos belső padló.",
+            "ro": "Podea interioară cu nisip.",
+            "en": "Sandy indoor floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Keizerstraat Moschee",
+            "hu": "Keizerstraat mecset",
+            "ro": "Moscheea Keizerstraat",
+            "en": "Keizerstraat Mosque"
+          },
+          "coords": [
+            -55.1615,
+            5.8275
+          ],
+          "category": "religious",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Synagoge.",
+            "hu": "Közvetlenül a zsinagóga mellett.",
+            "ro": "Chiar lângă sinagogă.",
+            "en": "Right next to the synagogue."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Paramaribos reiche Kultur zu Fuß. Starten Sie am Fort Zeelandia und spazieren Sie durch den kühlen Palmengarten zur hölzernen Kathedrale. Erleben Sie den belebten Markt und die Waterkant promenade, bevor Sie den Unabhängigkeitsplatz und die friedliche Nachbarschaft von Synagoge und Moschee besuchen.",
+        "hu": "Fedezze fel Paramaribo gazdag kultúráját gyalogosan. Kezdje a Zeelandia-erődnél, sétáljon át a hűvös Pálmakerten a székesegyházhoz. Tapasztalja meg a nyüzsgő piacot és a Waterkant sétányt, mielőtt meglátogatná a Függetlenség terét, valamint a zsinagóga és a mecset békés szomszédságát.",
+        "ro": "Descoperiți cultura bogată a orașului Paramaribo pe jos. Începeți la Fort Zeelandia și plimbați-vă prin Grădina de Palmieri răcoroasă până la catedrală. Experimentați piața plină de viață și promenada Waterkant înainte de a vizita Piața Independenței și vecinătatea pașnică a sinagogii și moscheii.",
+        "en": "Discover Paramaribo's rich culture on foot. Start at Fort Zeelandia and stroll through the cool Palmentuin to the cathedral. Experience the bustling market and Waterkant promenade before visiting Independence Square and the peaceful neighborhood of the synagogue and mosque."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souposo",
+            "tip": "Lokale Suppen"
+          },
+          {
+            "name": "Blauwgrond",
+            "tip": "Indonesisches Saté"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souposo",
+            "tip": "Helyi levesek"
+          },
+          {
+            "name": "Blauwgrond",
+            "tip": "Indonéz saté"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souposo",
+            "tip": "Supe locale"
+          },
+          {
+            "name": "Blauwgrond",
+            "tip": "Saté indonezian"
+          }
+        ],
+        "en": [
+          {
+            "name": "Souposo",
+            "tip": "Local soups"
+          },
+          {
+            "name": "Blauwgrond",
+            "tip": "Indonesian saté"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waterkant",
+            "tip": "Flussblick bei Sonnenuntergang",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waterkant",
+            "tip": "Folyami kilátás naplementekor",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Waterkant",
+            "tip": "Vedere la râu la apus",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterkant",
+            "tip": "River view at sunset",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Central Market",
+            "tip": "Gewürze und Handwerk"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Fűszerek és kézművesség"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Condimente și artizanat"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Spices and crafts"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie den Markt früh.",
+          "Trinken Sie viel Wasser."
+        ],
+        "hu": [
+          "Látogassa el a piacra korán.",
+          "Igyon sok vizet."
+        ],
+        "ro": [
+          "Vizitați piața devreme.",
+          "Beți multă apă."
+        ],
+        "en": [
+          "Visit the market early.",
+          "Drink plenty of water."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Waterkant",
+            "hu": "Waterkant",
+            "ro": "Waterkant",
+            "en": "Waterkant"
+          },
+          "coords": [
+            -55.155,
+            5.822
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radtour-Start.",
+            "hu": "Kerékpártúra kezdete.",
+            "ro": "Start tur bicicletă.",
+            "en": "Bike tour start."
+          }
+        },
+        {
+          "name": {
+            "de": "Peperpot Park",
+            "hu": "Peperpot Park",
+            "ro": "Parcul Peperpot",
+            "en": "Peperpot Park"
+          },
+          "coords": [
+            -55.125,
+            5.805
+          ],
+          "category": "forest",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Dschungel-Pfade.",
+            "hu": "Dzsungel ösvények.",
+            "ro": "Poteci prin junglă.",
+            "en": "Jungle trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Leonsberg",
+            "hu": "Leonsberg",
+            "ro": "Leonsberg",
+            "en": "Leonsberg"
+          },
+          "coords": [
+            -55.12,
+            5.865
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Flussmündung.",
+            "hu": "Folyótorkolat.",
+            "ro": "Gura de vărsare.",
+            "en": "River mouth."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Nieuw Amsterdam",
+            "hu": "Új-Amszterdam erőd",
+            "ro": "Fortul Nieuw Amsterdam",
+            "en": "Fort Nieuw Amsterdam"
+          },
+          "coords": [
+            -55.0885,
+            5.889
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Freilichtmuseum.",
+            "hu": "Szabadtéri múzeum.",
+            "ro": "Muzeu în aer liber.",
+            "en": "Open-air museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Paramaribo mit dem Rad. Besuchen Sie den Peperpot Nature Park und radeln Sie zur Mündung des Suriname-Flusses nach Nieuw Amsterdam.",
+        "hu": "Fedezze fel Paramaribo környékét kerékpárral. Látogasson el a Peperpot Természeti Parkba, és tekerjen a Suriname-folyó torkolatához, Új-Amszterdamba.",
+        "ro": "Explorați împrejurimile orașului Paramaribo cu bicicleta. Vizitați Parcul Natural Peperpot și pedalați până la gura de vărsare a râului Suriname la Nieuw Amsterdam.",
+        "en": "Explore the surroundings of Paramaribo by bike. Visit Peperpot Nature Park and cycle to the mouth of the Suriname River at Nieuw Amsterdam."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peperpot Cafe",
+            "tip": "Kaffee"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peperpot Cafe",
+            "tip": "Kávé"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peperpot Cafe",
+            "tip": "Cafea"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peperpot Cafe",
+            "tip": "Coffee"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Peperpot Park",
+            "tip": "Natur",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peperpot Park",
+            "tip": "Természet",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Peperpot",
+            "tip": "Natură",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peperpot Park",
+            "tip": "Nature",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fort Shop",
+            "tip": "Andenken"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erőd bolt",
+            "tip": "Emléktárgyak"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Fort",
+            "tip": "Amintiri"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort Shop",
+            "tip": "Souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mückenschutz nutzen"
+        ],
+        "hu": [
+          "Használjon szúnyogriasztót"
+        ],
+        "ro": [
+          "Folosiți spray contra țânțarilor"
+        ],
+        "en": [
+          "Use mosquito repellent"
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 42,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort Zeelandia",
+            "hu": "Zeelandia-erőd",
+            "ro": "Fort Zeelandia",
+            "en": "Fort Zeelandia"
+          },
+          "coords": [
+            -55.1486,
+            5.8256
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken im Zentrum.",
+            "hu": "Parkolás a központban.",
+            "ro": "Parcare în centru.",
+            "en": "Parking in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Jodensavanne",
+            "hu": "Jodensavanne",
+            "ro": "Jodensavanne",
+            "en": "Jodensavanne"
+          },
+          "coords": [
+            -54.985,
+            5.435
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 95,
+          "hop_from_prev_km": 35,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe.",
+            "hu": "UNESCO Világörökség.",
+            "ro": "Patrimoniu UNESCO.",
+            "en": "UNESCO World Heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Blauwgrond",
+            "hu": "Blauwgrond",
+            "ro": "Blauwgrond",
+            "en": "Blauwgrond"
+          },
+          "coords": [
+            -55.145,
+            5.855
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 38,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Indonesische Küche.",
+            "hu": "Indonéz konyha.",
+            "ro": "Bucătărie indoneziană.",
+            "en": "Indonesian cuisine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Besuchen Sie die historische Jodensavanne südlich der Stadt und genießen Sie danach erstklassiges indonesisches Essen im Viertel Blauwgrond.",
+        "hu": "Látogassa meg a történelmi Jodensavannét a várostól délre, majd élvezze a kiváló indonéz ételeket Blauwgrond negyedében.",
+        "ro": "Vizitați istoricul Jodensavanne la sud de oraș și apoi bucurați-vă de mâncare indoneziană de primă clasă în cartierul Blauwgrond.",
+        "en": "Visit the historical Jodensavanne south of the city and then enjoy first-class Indonesian food in the Blauwgrond district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mi Gado",
+            "tip": "Saté"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mi Gado",
+            "tip": "Saté"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mi Gado",
+            "tip": "Saté"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mi Gado",
+            "tip": "Saté"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jodensavanne",
+            "tip": "Ruhe",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jodensavanne",
+            "tip": "A romok csendje",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jodensavanne",
+            "tip": "Liniștea ruinelor",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jodensavanne",
+            "tip": "Quiet",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenir Market",
+            "tip": "Schmuck"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenír piac",
+            "tip": "Ékszerek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de suveniruri",
+            "tip": "Bijuterii"
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Market",
+            "tip": "Jewelry"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Auto im Schatten parken"
+        ],
+        "hu": [
+          "Parkoljon árnyékban"
+        ],
+        "ro": [
+          "Parcați la umbră"
+        ],
+        "en": [
+          "Park in the shade"
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Waterkant",
+            "hu": "Waterkant",
+            "ro": "Waterkant",
+            "en": "Waterkant"
+          },
+          "coords": [
+            -55.155,
+            5.822
+          ],
+          "category": "harbor",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus-Hub.",
+            "hu": "Buszközpont.",
+            "ro": "Hub de autobuz.",
+            "en": "Bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Lalla Rookh Museum",
+            "hu": "Lalla Rookh Múzeum",
+            "ro": "Muzeul Lalla Rookh",
+            "en": "Lalla Rookh Museum"
+          },
+          "coords": [
+            -55.185,
+            5.815
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kulturgeschichte.",
+            "hu": "Kultúrtörténet.",
+            "ro": "Istorie culturală.",
+            "en": "Cultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmengarten",
+            "hu": "Pálmakert",
+            "ro": "Grădina de Palmieri",
+            "en": "Palmentuin"
+          },
+          "coords": [
+            -55.15,
+            5.8285
+          ],
+          "category": "park",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zurück im Zentrum.",
+            "hu": "Visszatérés a központba.",
+            "ro": "Revenire în centru.",
+            "en": "Back in center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie lokale Minibusse, um Museen außerhalb zu besuchen. Kehren Sie dann ins Zentrum zurück.",
+        "hu": "Használja a helyi mikrobuszokat a külső múzeumok meglátogatásához, majd térjen vissza a központba.",
+        "ro": "Folosiți microbuzele locale pentru a vizita muzeele exterioare, apoi reveniți în centru.",
+        "en": "Use local minibuses to visit outer museums, then return to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Roti Shop",
+            "tip": "Curry"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roti üzlet",
+            "tip": "Curry"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Roti",
+            "tip": "Curry"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roti Shop",
+            "tip": "Curry"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palmengarten",
+            "tip": "Stille",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pálmakert",
+            "tip": "Csend",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de Palmieri",
+            "tip": "Liniște",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palmentuin",
+            "tip": "Quiet",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Waterkant Market",
+            "tip": "Souvenirs"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waterkant piac",
+            "tip": "Szuvenírek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Waterkant",
+            "tip": "Suveniruri"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterkant Market",
+            "tip": "Souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kleingeld bereit halten"
+        ],
+        "hu": [
+          "Készítsen aprópénzt"
+        ],
+        "ro": [
+          "Pregătiți restul"
+        ],
+        "en": [
+          "Have change ready"
+        ]
+      }
+    }
+  }
+}

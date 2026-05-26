@@ -1,0 +1,1372 @@
+{
+  "city_id": "rome",
+  "anchor": {
+    "name": "Colosseum",
+    "coords": [
+      12.4922,
+      41.8902
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kolosseum",
+            "hu": "Colosseum",
+            "ro": "Colosseum",
+            "en": "Colosseum"
+          },
+          "coords": [
+            12.4922,
+            41.8902
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie Ihr Ticket online, um die Warteschlange an der Kasse zu umgehen, die bis zu 2 Stunden dauern kann.",
+            "hu": "Foglalj jegyet online, hogy elkerüld a akár 2 órás sort a pénztárnál.",
+            "ro": "Rezervați biletul online pentru a evita coada de la casa de bilete, care poate dura și 2 ore.",
+            "en": "Book your ticket online to skip the ticket office queue, which can be up to 2 hours long."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum Romanum",
+            "hu": "Forum Romanum",
+            "ro": "Forumul Roman",
+            "en": "Roman Forum"
+          },
+          "coords": [
+            12.4853,
+            41.8925
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Eintritt ist in Ihrem Kolosseum-Ticket enthalten. Betreten Sie es vom Palatin-Hügel aus für weniger Andrang.",
+            "hu": "A belépést a Colosseum-jegyed tartalmazza. A Palatinus-domb felől lépj be, ott kisebb a tömeg.",
+            "ro": "Intrarea este inclusă în biletul pentru Colosseum. Intrați de pe Dealul Palatin pentru a evita aglomerația.",
+            "en": "Entrance is included with your Colosseum ticket. Enter from the Palatine Hill side for smaller crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapitolshügel",
+            "hu": "Capitolium-domb",
+            "ro": "Dealul Capitolin",
+            "en": "Capitoline Hill"
+          },
+          "coords": [
+            12.4827,
+            41.893
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie hinter das Senatorenpalast für eine kostenlose, atemberaubende Aussicht auf das Forum Romanum.",
+            "hu": "Menj a Palazzo Senatorio mögé az ingyenes, lenyűgöző kilátásért a Forum Romanumra.",
+            "ro": "Mergeți în spatele Palazzo Senatorio pentru o vedere gratuită și uimitoare asupra Forumului Roman.",
+            "en": "Go behind the Palazzo Senatorio for a free, stunning viewpoint over the Roman Forum."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantheon",
+            "hu": "Pantheon",
+            "ro": "Panteonul",
+            "en": "Pantheon"
+          },
+          "coords": [
+            12.4769,
+            41.8986
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei, aber an Wochenenden ist eine Reservierung erforderlich. Achten Sie auf den Oculus.",
+            "hu": "A belépés ingyenes, de hétvégén foglalás szükséges. Figyeld meg az oculust, a tetőn lévő nyílást.",
+            "ro": "Intrarea este gratuită, dar în weekend este necesară rezervarea. Fiți atenți la oculus.",
+            "en": "Entry is free, but booking is required on weekends. Pay attention to the oculus."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Pantheons",
+            "hu": "Ebéd a Pantheon közelében",
+            "ro": "Prânz lângă Panteon",
+            "en": "Lunch near the Pantheon"
+          },
+          "coords": [
+            12.4755,
+            41.8995
+          ],
+          "category": "gastro",
+          "arrive_at": "14:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vermeiden Sie die touristischen Menüs auf der Piazza. Suchen Sie nach 'Trattoria' in einer Seitengasse.",
+            "hu": "Kerüld a turista menüket a téren. Keress egy 'Trattoria'-t egy mellékutcában.",
+            "ro": "Evitați meniurile turistice din piață. Căutați o 'Trattoria' pe o alee laterală.",
+            "en": "Avoid the tourist menus on the piazza. Look for a 'Trattoria' down a side alley."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Navona",
+            "hu": "Piazza Navona",
+            "ro": "Piazza Navona",
+            "en": "Piazza Navona"
+          },
+          "coords": [
+            12.4731,
+            41.8992
+          ],
+          "category": "square",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bestaunen Sie Berninis Vierströmebrunnen, das Herzstück des Platzes.",
+            "hu": "Csodáld meg Bernini Négy Folyó kútját, a tér központi elemét.",
+            "ro": "Admirați Fântâna celor Patru Fluvii a lui Bernini, piesa centrală a pieței.",
+            "en": "Marvel at Bernini's Fountain of the Four Rivers, the centerpiece of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Trevi-Brunnen",
+            "hu": "Trevi-kút",
+            "ro": "Fontana di Trevi",
+            "en": "Trevi Fountain"
+          },
+          "coords": [
+            12.4833,
+            41.9009
+          ],
+          "category": "landmark",
+          "arrive_at": "16:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Werfen Sie eine Münze über Ihre linke Schulter, um Ihre Rückkehr nach Rom zu sichern.",
+            "hu": "Dobj egy érmét a bal vállad felett, hogy biztosítsd a visszatérésed Rómába.",
+            "ro": "Aruncați o monedă peste umărul stâng pentru a vă asigura întoarcerea la Roma.",
+            "en": "Throw a coin over your left shoulder to ensure your return to Rome."
+          }
+        },
+        {
+          "name": {
+            "de": "Spanische Treppe",
+            "hu": "Spanyol lépcső",
+            "ro": "Treptele Spaniole",
+            "en": "Spanish Steps"
+          },
+          "coords": [
+            12.4828,
+            41.9059
+          ],
+          "category": "landmark",
+          "arrive_at": "17:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Sitzen auf der Treppe ist seit 2019 verboten, aber die Aussicht von oben ist es wert.",
+            "hu": "2019 óta tilos leülni a lépcsőre, de a fenti kilátás megéri a fáradságot.",
+            "ro": "Statul pe trepte este interzis din 2019, dar priveliștea de sus merită urcușul.",
+            "en": "Sitting on the steps has been forbidden since 2019, but the view from the top is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Kolosseum, dem Symbol des Römischen Reiches. Mittags schlendern Sie durch antike Ruinen zum Pantheon, einem Meisterwerk der Baukunst. Am Nachmittag erleben Sie das barocke Rom an der Piazza Navona und dem Trevi-Brunnen. Der Tag endet auf der Spanischen Treppe, wo Sie das römische Stadtleben beobachten.",
+        "hu": "A nap a Római Birodalom szimbólumánál, a Colosseumnál kezdődik. Délben ókori romok között sétálsz a Pantheon, az építészet mesterműve felé. Délután a barokk Rómát fedezed fel a Piazza Navonánál és a Trevi-kútnál. A nap a Spanyol lépcsőn ér véget, ahonnan a római városi életet figyelheted.",
+        "ro": "Ziua începe la Colosseum, simbolul Imperiului Roman. La prânz, vă plimbați printre ruine antice spre Panteon, o capodoperă a ingineriei. După-amiaza, experimentați Roma barocă în Piazza Navona și la Fontana di Trevi. Ziua se încheie la Treptele Spaniole, privind forfota orașului.",
+        "en": "Your day begins at the Colosseum, the symbol of the Roman Empire. At midday, you'll stroll through ancient ruins to the Pantheon, a masterpiece of engineering. In the afternoon, experience Baroque Rome at Piazza Navona and the Trevi Fountain. The day concludes at the Spanish Steps, watching Roman city life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cacio e Pepe",
+            "tip": "Ein einfaches, aber köstliches römisches Pastagericht. Probieren Sie es bei Da Enzo al 29."
+          },
+          {
+            "name": "Saltimbocca alla Romana",
+            "tip": "Kalbsschnitzel mit Prosciutto und Salbei. Eine Spezialität bei Roscioli Salumeria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cacio e Pepe",
+            "tip": "Egyszerű, de ízletes római tésztaétel. Kóstold meg a Da Enzo al 29-ben."
+          },
+          {
+            "name": "Saltimbocca alla Romana",
+            "tip": "Borjúszelet pármai sonkával és zsályával. A Roscioli Salumeria specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cacio e Pepe",
+            "tip": "Un fel de paste roman simplu, dar delicios. Încercați-l la Da Enzo al 29."
+          },
+          {
+            "name": "Saltimbocca alla Romana",
+            "tip": "Șnițel de vițel cu prosciutto și salvie. O specialitate la Roscioli Salumeria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cacio e Pepe",
+            "tip": "A simple yet delicious Roman pasta dish. Try it at Da Enzo al 29."
+          },
+          {
+            "name": "Saltimbocca alla Romana",
+            "tip": "Veal cutlet with prosciutto and sage. A specialty at Roscioli Salumeria."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aventin-Hügel & Orangengarten",
+            "tip": "Ein friedlicher Ort mit einem berühmten Blick durch ein Schlüsselloch.",
+            "emoji": "🍊"
+          },
+          {
+            "name": "Villa Borghese Gärten",
+            "tip": "Mieten Sie ein Ruderboot auf dem See für eine ruhige Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aventinus-domb és a Narancskert",
+            "tip": "Békés hely egy híres kulcslyuk-kilátással.",
+            "emoji": "🍊"
+          },
+          {
+            "name": "Villa Borghese kertjei",
+            "tip": "Bérelj csónakot a tavon egy csendes pihenőhöz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Aventin și Grădina de Portocali",
+            "tip": "Un loc pașnic cu o faimoasă priveliște printr-o gaură de cheie.",
+            "emoji": "🍊"
+          },
+          {
+            "name": "Grădinile Villa Borghese",
+            "tip": "Închiriați o barcă cu vâsle pe lac pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aventine Hill & Orange Garden",
+            "tip": "A peaceful spot with a famous keyhole view.",
+            "emoji": "🍊"
+          },
+          {
+            "name": "Villa Borghese Gardens",
+            "tip": "Rent a rowboat on the lake for a tranquil break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Campo de' Fiori Markt",
+            "tip": "Ein lebhafter Morgenmarkt für lokale Produkte und Souvenirs."
+          },
+          {
+            "name": "Via del Corso",
+            "tip": "Roms Haupteinkaufsstraße mit bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Campo de' Fiori piac",
+            "tip": "Élénk reggeli piac helyi termékekkel és szuvenírekkel."
+          },
+          {
+            "name": "Via del Corso",
+            "tip": "Róma fő bevásárlóutcája ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Campo de' Fiori",
+            "tip": "O piață de dimineață plină de viață pentru produse locale și suveniruri."
+          },
+          {
+            "name": "Via del Corso",
+            "tip": "Strada principală de cumpărături din Roma, cu mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Campo de' Fiori Market",
+            "tip": "A lively morning market for local produce and souvenirs."
+          },
+          {
+            "name": "Via del Corso",
+            "tip": "Rome's main shopping street with high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie äußerst bequeme Schuhe; das Kopfsteinpflaster ist unerbittlich.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit und füllen Sie sie an den 'Nasoni'-Brunnen auf.",
+          "Passen Sie auf Taschendiebe in überfüllten Gegenden wie dem Trevi-Brunnen auf."
+        ],
+        "hu": [
+          "Viselj rendkívül kényelmes cipőt; a macskakő kíméletlen.",
+          "Vigyél magaddal újratölthető vizes palackot, és töltsd fel a 'nasoni' kutaknál.",
+          "Vigyázz a zsebtolvajokra a zsúfolt helyeken, mint a Trevi-kút."
+        ],
+        "ro": [
+          "Purtați încălțăminte extrem de confortabilă; pietrele cubice sunt nemiloase.",
+          "Luați o sticlă de apă reutilizabilă și umpleți-o de la fântânile 'nasoni'.",
+          "Fiți atenți la hoții de buzunare în zonele aglomerate precum Fontana di Trevi."
+        ],
+        "en": [
+          "Wear extremely comfortable shoes; the cobblestones are unforgiving.",
+          "Bring a reusable water bottle and refill it at the 'nasoni' public fountains.",
+          "Be aware of pickpockets in crowded areas like the Trevi Fountain."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Via Appia Antica",
+            "hu": "Via Appia Antica",
+            "ro": "Via Appia Antica",
+            "en": "Appian Way"
+          },
+          "coords": [
+            12.5189,
+            41.859
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Parkeingangs. Sonntags ist die Straße für Autos gesperrt.",
+            "hu": "Bérelj kerékpárt a park bejáratánál. Vasárnap az út le van zárva az autók elől.",
+            "ro": "Închiriați o bicicletă lângă intrarea în parc. Duminica, drumul este închis pentru mașini.",
+            "en": "Rent a bike near the park entrance. On Sundays, the road is closed to cars."
+          }
+        },
+        {
+          "name": {
+            "de": "Caracalla-Thermen",
+            "hu": "Caracalla termái",
+            "ro": "Termele lui Caracalla",
+            "en": "Baths of Caracalla"
+          },
+          "coords": [
+            12.4975,
+            41.8787
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Diese riesigen antiken Bäder sind weniger überlaufen als das Kolosseum und ebenso beeindruckend.",
+            "hu": "Ezek a hatalmas ókori fürdők kevésbé zsúfoltak, mint a Colosseum, de ugyanolyan lenyűgözőek.",
+            "ro": "Aceste băi antice vaste sunt mai puțin aglomerate decât Colosseumul și la fel de impresionante.",
+            "en": "These vast ancient baths are less crowded than the Colosseum and just as impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Circus Maximus",
+            "hu": "Circus Maximus",
+            "ro": "Circus Maximus",
+            "en": "Circus Maximus"
+          },
+          "coords": [
+            12.4851,
+            41.8858
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie sich die Wagenrennen vor, die hier stattfanden. Heute ist es ein großer öffentlicher Park.",
+            "hu": "Képzeld el a szekérversenyeket, amik itt zajlottak. Ma egy nagy közpark.",
+            "ro": "Imaginați-vă cursele de care care aveau loc aici. Astăzi este un mare parc public.",
+            "en": "Imagine the chariot races that took place here. Today it's a large public park."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Trastevere",
+            "hu": "Ebéd Trasteverében",
+            "ro": "Prânz în Trastevere",
+            "en": "Lunch in Trastevere"
+          },
+          "coords": [
+            12.4678,
+            41.887
+          ],
+          "category": "gastro",
+          "arrive_at": "12:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab und verirren Sie sich in den charmanten Gassen auf der Suche nach einer Trattoria.",
+            "hu": "Zárd le jól a biciklidet, és tévedj el a hangulatos sikátorokban egy trattoriát keresve.",
+            "ro": "Legați-vă bine bicicleta și pierdeți-vă pe aleile fermecătoare în căutarea unei trattoria.",
+            "en": "Lock your bike securely and get lost in the charming alleys to find a trattoria."
+          }
+        },
+        {
+          "name": {
+            "de": "Gianicolo-Hügel",
+            "hu": "Janiculum-domb (Gianicolo)",
+            "ro": "Dealul Janiculum (Gianicolo)",
+            "en": "Janiculum Hill (Gianicolo)"
+          },
+          "coords": [
+            12.4616,
+            41.8911
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber der Panoramablick auf Rom ist die Mühe wert. Um 12 Uhr mittags wird eine Kanone abgefeuert.",
+            "hu": "Meredek az emelkedő, de a panorámás kilátás Rómára megéri. Délben ágyúlövés dördül.",
+            "ro": "Urcușul este abrupt, dar vederea panoramică asupra Romei merită efortul. Un tun trage la ora 12:00.",
+            "en": "The climb is steep, but the panoramic view of Rome is worth the effort. A cannon fires at noon."
+          }
+        },
+        {
+          "name": {
+            "de": "Engelsburg",
+            "hu": "Angyalvár",
+            "ro": "Castelul Sant'Angelo",
+            "en": "Castel Sant'Angelo"
+          },
+          "coords": [
+            12.4663,
+            41.903
+          ],
+          "category": "historical",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ursprünglich ein Mausoleum, dann eine Festung. Die Aussicht von der Spitze ist großartig.",
+            "hu": "Eredetileg mauzóleum, majd erődítmény. A kilátás a tetejéről nagyszerű.",
+            "ro": "Inițial un mausoleu, apoi o fortăreață. Priveliștea de sus este superbă.",
+            "en": "Originally a mausoleum, then a fortress. The view from the top terrace is magnificent."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Pincio-Hügel",
+            "hu": "Naplemente a Pincio-dombon",
+            "ro": "Apus de soare pe Dealul Pincian",
+            "en": "Sunset at Pincian Hill"
+          },
+          "coords": [
+            12.4811,
+            41.9103
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein klassischer Ort, um den Sonnenuntergang über der Piazza del Popolo und der Stadt zu beobachten.",
+            "hu": "Klasszikus hely a naplemente megcsodálására a Piazza del Popolo és a város felett.",
+            "ro": "Un loc clasic pentru a privi apusul peste Piazza del Popolo și oraș.",
+            "en": "A classic spot to watch the sunset over Piazza del Popolo and the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag auf der antiken Via Appia. Mittags fahren Sie durch Trastevere, wo Sie ein authentisches römisches Mittagessen genießen. Am Nachmittag erklimmen Sie den Gianicolo-Hügel für eine atemberaubende Aussicht, bevor Sie zur Engelsburg weiterfahren. Beenden Sie den Tag mit einem malerischen Sonnenuntergang von den Gärten der Villa Borghese aus.",
+        "hu": "Kezdje a biciklis napot az ókori Via Appián. Délben tekerjen át Trasteverén egy autentikus római ebédért. Délután mássza meg a Janiculum-dombot a lélegzetelállító kilátásért, majd irány az Angyalvár. A napot a Villa Borghese kertjéből nézett festői naplementével zárja.",
+        "ro": "Începeți ziua pe bicicletă pe antica Via Appia. La prânz, pedalați prin Trastevere pentru un prânz roman autentic. După-amiaza, urcați pe Dealul Janiculum pentru o priveliște uimitoare, înainte de a ajunge la Castelul Sant'Angelo. Încheiați ziua cu un apus pitoresc din grădinile Villa Borghese.",
+        "en": "Start your cycling day on the ancient Appian Way. At midday, ride through Trastevere for an authentic Roman lunch. In the afternoon, climb Janiculum Hill for a breathtaking view before heading to Castel Sant'Angelo. End the day watching a scenic sunset from the Villa Borghese gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trapizzino",
+            "tip": "Eine moderne römische Street-Food-Kreation, perfekt für einen schnellen Bissen. In Trastevere erhältlich."
+          },
+          {
+            "name": "Pasta alla Gricia",
+            "tip": "Der Vorläufer der Amatriciana, ohne Tomaten. Einfach und köstlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trapizzino",
+            "tip": "Modern római street food, tökéletes egy gyors harapnivalóhoz. Trasteverében kapható."
+          },
+          {
+            "name": "Pasta alla Gricia",
+            "tip": "Az Amatriciana paradicsom nélküli elődje. Egyszerű és finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trapizzino",
+            "tip": "O creație modernă de street-food roman, perfectă pentru o gustare rapidă. Disponibil în Trastevere."
+          },
+          {
+            "name": "Pasta alla Gricia",
+            "tip": "Precursorul pastei Amatriciana, fără roșii. Simplu și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trapizzino",
+            "tip": "A modern Roman street food creation, perfect for a quick bite. Available in Trastevere."
+          },
+          {
+            "name": "Pasta alla Gricia",
+            "tip": "The ancestor of Amatriciana, made without tomatoes. Simple and delicious."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park der Aquädukte",
+            "tip": "Eine ruhige Flucht aus der Stadt mit beeindruckenden römischen Aquädukten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Protestantischer Friedhof",
+            "tip": "Ein unerwartet friedlicher und schöner Ort in der Nähe der Cestius-Pyramide.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vízvezetékek parkja",
+            "tip": "Csendes menekülés a városból lenyűgöző római vízvezetékekkel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Protestáns temető",
+            "tip": "Váratlanul békés és szép hely a Cestius-piramis közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Apeductelor",
+            "tip": "O evadare liniștită din oraș, cu apeducte romane impresionante.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Protestant",
+            "tip": "Un loc neașteptat de pașnic și frumos lângă Piramida lui Cestius.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park of the Aqueducts",
+            "tip": "A quiet escape from the city featuring impressive Roman aqueducts.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Protestant Cemetery",
+            "tip": "An unexpectedly peaceful and beautiful spot near the Pyramid of Cestius.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Porta Portese Flohmarkt",
+            "tip": "Nur sonntagmorgens, ein riesiger Markt für alles von Antiquitäten bis Kleidung."
+          },
+          {
+            "name": "Via dei Giubbonari",
+            "tip": "Eine belebte Straße in der Nähe des Campo de' Fiori mit unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porta Portese bolhapiac",
+            "tip": "Csak vasárnap reggel, egy hatalmas piac, ahol az antikvitásoktól a ruhákig mindent megtalálsz."
+          },
+          {
+            "name": "Via dei Giubbonari",
+            "tip": "Élénk utca a Campo de' Fiori közelében, független boltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târgul de vechituri Porta Portese",
+            "tip": "Doar duminica dimineața, o piață uriașă pentru orice, de la antichități la haine."
+          },
+          {
+            "name": "Via dei Giubbonari",
+            "tip": "O stradă aglomerată lângă Campo de' Fiori, cu magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porta Portese Flea Market",
+            "tip": "Sunday mornings only, a huge market for everything from antiques to clothes."
+          },
+          {
+            "name": "Via dei Giubbonari",
+            "tip": "A busy street near Campo de' Fiori with independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Roms Verkehr ist chaotisch; seien Sie selbstbewusst, aber vorsichtig.",
+          "Ein E-Bike wird für die Hügel wie den Gianicolo dringend empfohlen.",
+          "Verwenden Sie eine gute Fahrradsperre und sichern Sie Ihr Fahrrad an einem festen Gegenstand."
+        ],
+        "hu": [
+          "A római közlekedés kaotikus; légy magabiztos, de óvatos.",
+          "E-bike erősen ajánlott a dombokhoz, mint a Janiculum.",
+          "Használj jó kerékpárzárat, és rögzítsd a biciklit egy fix tárgyhoz."
+        ],
+        "ro": [
+          "Traficul din Roma este haotic; fiți încrezători, dar prudenți.",
+          "O bicicletă electrică este foarte recomandată pentru dealuri precum Janiculum.",
+          "Folosiți un antifurt bun și legați bicicleta de un obiect fix."
+        ],
+        "en": [
+          "Rome's traffic is chaotic; be confident but cautious.",
+          "An e-bike is highly recommended for the hills like Janiculum.",
+          "Use a good quality bike lock and secure your bike to a fixed object."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:21",
+      "total_km": 25.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vatikanische Museen",
+            "hu": "Vatikáni Múzeumok",
+            "ro": "Muzeele Vaticane",
+            "en": "Vatican Museums"
+          },
+          "coords": [
+            12.456,
+            41.9065
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie früh, um den Menschenmassen zu entgehen. Die Sixtinische Kapelle befindet sich am Ende der Route.",
+            "hu": "Kezdj korán, hogy elkerüld a tömeget. A Sixtus-kápolna az útvonal végén található.",
+            "ro": "Începeți devreme pentru a evita mulțimile. Capela Sixtină este la capătul traseului.",
+            "en": "Start early to beat the crowds. The Sistine Chapel is at the very end of the route."
+          }
+        },
+        {
+          "name": {
+            "de": "Petersdom",
+            "hu": "Szent Péter-bazilika",
+            "ro": "Bazilica Sfântul Petru",
+            "en": "St. Peter's Basilica"
+          },
+          "coords": [
+            12.4539,
+            41.9022
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei, aber die Sicherheitskontrolle kann lange dauern. Bedecken Sie Schultern und Knie.",
+            "hu": "A belépés ingyenes, de a biztonsági ellenőrzés hosszú lehet. Takard el a vállad és a térded.",
+            "ro": "Intrarea este gratuită, dar controlul de securitate poate dura. Acoperiți-vă umerii și genunchii.",
+            "en": "Admission is free, but the security line can be long. Cover your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Appia Antica Park",
+            "hu": "Appia Antica Park",
+            "ro": "Parcul Appia Antica",
+            "en": "Appian Way Park"
+          },
+          "coords": [
+            12.5189,
+            41.859
+          ],
+          "category": "park",
+          "arrive_at": "14:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Eingangs und spazieren Sie entlang der antiken Straße und der römischen Ruinen.",
+            "hu": "Parkolj a bejárat közelében, és sétálj az ókori úton a római romok mentén.",
+            "ro": "Parcați lângă intrare și plimbați-vă de-a lungul drumului antic și al ruinelor romane.",
+            "en": "Park near the entrance and take a walk along the ancient road and Roman ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Via Appia",
+            "hu": "Ebéd az Appia út közelében",
+            "ro": "Prânz lângă Via Appia",
+            "en": "Lunch near Appian Way"
+          },
+          "coords": [
+            12.522,
+            41.855
+          ],
+          "category": "gastro",
+          "arrive_at": "15:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt mehrere traditionelle Restaurants entlang der Straße, die eine rustikale Atmosphäre bieten.",
+            "hu": "Több hagyományos étterem is található az út mentén, rusztikus hangulatot kínálva.",
+            "ro": "Există mai multe restaurante tradiționale de-a lungul drumului care oferă o atmosferă rustică.",
+            "en": "There are several traditional restaurants along the road offering a rustic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Gianicolo-Hügel Aussichtspunkt",
+            "hu": "Janiculum-domb kilátó",
+            "ro": "Punct de belvedere Dealul Janiculum",
+            "en": "Janiculum Hill Viewpoint"
+          },
+          "coords": [
+            12.4616,
+            41.8911
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:31",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie für den besten Panoramablick auf die Stadt zum Sonnenuntergang hierher.",
+            "hu": "Vezess ide naplementekor a város legjobb panorámás kilátásáért.",
+            "ro": "Conduceți aici la apus pentru cea mai bună vedere panoramică a orașului.",
+            "en": "Drive here for sunset for the best panoramic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Trastevere",
+            "hu": "Vacsora Trasteverében",
+            "ro": "Cină în Trastevere",
+            "en": "Dinner in Trastevere"
+          },
+          "coords": [
+            12.4678,
+            41.887
+          ],
+          "category": "gastro",
+          "arrive_at": "18:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Gianicolo und gehen Sie zum Abendessen in dieses charmante Viertel.",
+            "hu": "Parkolj a Janiculum közelében, és sétálj le vacsorázni ebbe a bájos negyedbe.",
+            "ro": "Parcați lângă Janiculum și mergeți pe jos în acest cartier fermecător pentru cină.",
+            "en": "Park near Janiculum and walk down to this charming neighborhood for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt zum Vatikan, um die Museen und den Petersdom zu erkunden. Mittags fahren Sie aus der Stadt zur antiken Via Appia für einen Spaziergang und ein Mittagessen auf dem Land. Am späten Nachmittag kehren Sie in die Stadt zurück und fahren auf den Gianicolo-Hügel, um den Sonnenuntergang zu erleben. Der Abend endet mit einem Spaziergang nach Trastevere für ein unvergessliches römisches Abendessen.",
+        "hu": "A nap a Vatikánba vezet, hogy felfedezd a múzeumokat és a Szent Péter-bazilikát. Délben kocsikázz ki a városból az ókori Via Appiához egy sétára és egy vidéki ebédre. Késő délután térj vissza a városba a Janiculum-dombra a naplementéért. Az este egy sétával zárul Trasteverébe egy emlékezetes római vacsoráért.",
+        "ro": "Ziua începe cu o călătorie cu mașina la Vatican pentru a explora muzeele și Bazilica Sf. Petru. La prânz, ieșiți din oraș spre antica Via Appia pentru o plimbare și un prânz la țară. Spre seară, reveniți în oraș urcând pe Dealul Janiculum pentru apus. Seara se încheie cu o plimbare până în Trastevere pentru o cină romană memorabilă.",
+        "en": "Your day starts with a drive to the Vatican to explore the Museums and St. Peter's Basilica. At midday, you'll drive out of the city to the ancient Appian Way for a walk and a countryside lunch. In the late afternoon, return to the city and drive up Janiculum Hill for sunset. The evening concludes with a walk down to Trastevere for a memorable Roman dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coda alla Vaccinara",
+            "tip": "Ein traditioneller römischer Ochsenschwanz-Eintopf, langsam gekocht."
+          },
+          {
+            "name": "Artischocken römischer Art (Carciofi alla Romana)",
+            "tip": "Eine lokale Delikatesse, besonders im Frühling."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coda alla Vaccinara",
+            "tip": "Hagyományos római ököruszály-ragu, lassan főzve."
+          },
+          {
+            "name": "Articsóka római módra (Carciofi alla Romana)",
+            "tip": "Helyi finomság, különösen tavasszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coda alla Vaccinara",
+            "tip": "O tocană tradițională romană de coadă de bou, gătită lent."
+          },
+          {
+            "name": "Anghinare în stil roman (Carciofi alla Romana)",
+            "tip": "O delicatesă locală, în special primăvara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coda alla Vaccinara",
+            "tip": "A traditional Roman oxtail stew, slow-cooked."
+          },
+          {
+            "name": "Roman-style artichokes (Carciofi alla Romana)",
+            "tip": "A local delicacy, especially in spring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino degli Aranci",
+            "tip": "Der 'Orangengarten' auf dem Aventin-Hügel bietet eine ruhige Atmosphäre und eine herrliche Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Doria Pamphilj Park",
+            "tip": "Roms größter Landschaftspark, ideal für einen langen, ruhigen Spaziergang.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardino degli Aranci",
+            "tip": "Az Aventinus-dombon található 'Narancskert' békés hangulatot és nagyszerű kilátást kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Doria Pamphilj Park",
+            "tip": "Róma legnagyobb parkja, ideális egy hosszú, csendes sétához.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardino degli Aranci",
+            "tip": "'Grădina de portocali' de pe Dealul Aventin oferă o atmosferă liniștită și vederi minunate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Doria Pamphilj",
+            "tip": "Cel mai mare parc amenajat din Roma, perfect pentru o plimbare lungă și liniștită.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardino degli Aranci",
+            "tip": "The 'Orange Garden' on Aventine Hill offers a tranquil atmosphere and lovely views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Doria Pamphilj Park",
+            "tip": "Rome's largest landscaped park, perfect for a long, quiet walk.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eataly Roma",
+            "tip": "Ein riesiger Lebensmittelmarkt in einem ehemaligen Bahnhof. Perfekt für Gourmet-Souvenirs."
+          },
+          {
+            "name": "Via del Governo Vecchio",
+            "tip": "Bekannt für ihre Vintage-Läden und einzigartigen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eataly Roma",
+            "tip": "Hatalmas élelmiszerpiac egy egykori vasútállomáson. Tökéletes ínyenc szuvenírekhez."
+          },
+          {
+            "name": "Via del Governo Vecchio",
+            "tip": "Vintage boltjairól és egyedi butikjairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eataly Roma",
+            "tip": "O piață alimentară uriașă într-o fostă gară. Perfect pentru suveniruri gourmet."
+          },
+          {
+            "name": "Via del Governo Vecchio",
+            "tip": "Cunoscută pentru magazinele sale vintage și buticurile unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eataly Roma",
+            "tip": "A huge food hall in a former train terminal. Perfect for gourmet souvenirs."
+          },
+          {
+            "name": "Via del Governo Vecchio",
+            "tip": "Known for its vintage shops and unique boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie genau auf ZTL-Zonen (verkehrsberuhigte Bereiche); das Befahren ohne Genehmigung ist teuer.",
+          "Parken ist extrem schwierig und teuer. Nutzen Sie bewachte Parkhäuser.",
+          "Ein Auto ist nützlich, um die Außenbezirke zu erkunden, aber im historischen Zentrum unpraktisch."
+        ],
+        "hu": [
+          "Figyelj a ZTL (korlátozott forgalmú) zónákra; engedély nélküli behajtás drága.",
+          "A parkolás rendkívül nehéz és drága. Használj őrzött parkolóházakat.",
+          "Az autó hasznos a külvárosok felfedezéséhez, de a történelmi központban nem praktikus."
+        ],
+        "ro": [
+          "Fiți foarte atenți la zonele ZTL (Zone cu Trafic Limitat); intrarea fără permis este costisitoare.",
+          "Parcarea este extrem de dificilă și scumpă. Folosiți parcări cu plată.",
+          "O mașină este utilă pentru a explora periferia, dar nepractică în centrul istoric."
+        ],
+        "en": [
+          "Pay close attention to ZTL (Limited Traffic) zones; driving in without a permit is expensive.",
+          "Parking is extremely difficult and expensive. Use paid parking garages.",
+          "A car is useful for exploring the outskirts but impractical in the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:03",
+      "total_km": 7.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kolosseum",
+            "hu": "Colosseum",
+            "ro": "Colosseum",
+            "en": "Colosseum"
+          },
+          "coords": [
+            12.4922,
+            41.8902
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Leicht erreichbar mit der Metro-Linie B, Haltestelle 'Colosseo'.",
+            "hu": "Könnyen megközelíthető a B metróval, a 'Colosseo' megállónál.",
+            "ro": "Ușor accesibil cu linia B de metrou, stația 'Colosseo'.",
+            "en": "Easily accessible via Metro Line B, 'Colosseo' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum Romanum",
+            "hu": "Forum Romanum",
+            "ro": "Forumul Roman",
+            "en": "Roman Forum"
+          },
+          "coords": [
+            12.4853,
+            41.8925
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es liegt direkt neben dem Kolosseum, ein kurzer Spaziergang entfernt.",
+            "hu": "Közvetlenül a Colosseum mellett található, egy rövid sétára.",
+            "ro": "Este chiar lângă Colosseum, la o scurtă plimbare pe jos.",
+            "en": "It's right next to the Colosseum, just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Spanische Treppe",
+            "hu": "Spanyol lépcső",
+            "ro": "Treptele Spaniole",
+            "en": "Spanish Steps"
+          },
+          "coords": [
+            12.4828,
+            41.9059
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Metro von Colosseo nach Spagna (Umsteigen in Termini).",
+            "hu": "Menj metróval a Colosseótól a Spagnáig (átszállás a Termininél).",
+            "ro": "Luați metroul de la Colosseo la Spagna (cu schimbare la Termini).",
+            "en": "Take the Metro from Colosseo to Spagna (change at Termini)."
+          }
+        },
+        {
+          "name": {
+            "de": "Trevi-Brunnen",
+            "hu": "Trevi-kút",
+            "ro": "Fontana di Trevi",
+            "en": "Trevi Fountain"
+          },
+          "coords": [
+            12.4833,
+            41.9009
+          ],
+          "category": "landmark",
+          "arrive_at": "13:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Spanischen Treppe. Folgen Sie den Schildern und den Menschenmassen.",
+            "hu": "Rövid séta a Spanyol lépcsőtől. Kövesd a táblákat és a tömeget.",
+            "ro": "O scurtă plimbare de la Treptele Spaniole. Urmați indicatoarele și mulțimea.",
+            "en": "A short walk from the Spanish Steps. Follow the signs and the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantheon & Mittagessen",
+            "hu": "Pantheon és ebéd",
+            "ro": "Panteon și prânz",
+            "en": "Pantheon & Lunch"
+          },
+          "coords": [
+            12.4769,
+            41.8986
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Besuch des Pantheons finden Sie in den umliegenden Straßen viele gute Mittagsoptionen.",
+            "hu": "A Pantheon meglátogatása után a környező utcákban számos jó ebédlehetőséget találsz.",
+            "ro": "După vizitarea Panteonului, veți găsi multe opțiuni bune de prânz pe străzile din jur.",
+            "en": "After visiting the Pantheon, find many great lunch options on the surrounding streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria in Trastevere",
+            "hu": "Santa Maria in Trastevere",
+            "ro": "Santa Maria in Trastevere",
+            "en": "Santa Maria in Trastevere"
+          },
+          "coords": [
+            12.4645,
+            41.8897
+          ],
+          "category": "religious",
+          "arrive_at": "16:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinie 8 von der Haltestelle Arenula/Cairoli nach Trastevere.",
+            "hu": "Szállj fel a 8-as villamosra az Arenula/Cairoli megállónál Trastevere felé.",
+            "ro": "Luați tramvaiul 8 de la stația Arenula/Cairoli până în Trastevere.",
+            "en": "Take Tram line 8 from the Arenula/Cairoli stop to get to Trastevere."
+          }
+        },
+        {
+          "name": {
+            "de": "Aperitivo in Trastevere",
+            "hu": "Aperitivo Trasteverében",
+            "ro": "Aperitivo în Trastevere",
+            "en": "Aperitivo in Trastevere"
+          },
+          "coords": [
+            12.4678,
+            41.887
+          ],
+          "category": "gastro",
+          "arrive_at": "17:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Drink vor dem Abendessen und Snacks in einer der vielen Bars in diesem Viertel.",
+            "hu": "Élvezz egy vacsora előtti italt és harapnivalókat a negyed számos bárjának egyikében.",
+            "ro": "Bucurați-vă de o băutură înainte de cină și de gustări la unul dintre numeroasele baruri din cartier.",
+            "en": "Enjoy a pre-dinner drink and snacks at one of the many bars in the neighborhood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Kolosseum, das Sie mit der U-Bahn erreichen. Nach der Erkundung des antiken Roms bringt Sie die Metro ins Herz des Modeviertels an der Spanischen Treppe. Der Nachmittag ist ein Spaziergang durch das barocke Zentrum, der mit der Straßenbahn nach Trastevere endet. Erleben Sie den Abend bei einem Aperitivo in den charmanten, mit Efeu bewachsenen Gassen.",
+        "hu": "Kezdj a Colosseumnál, metróval érkezve. Az ókori Róma felfedezése után a metró a divatnegyed szívébe, a Spanyol lépcsőhöz visz. A délután egy séta a barokk központban, amely villamossal végződik Trasteverében. Töltsd az estét egy aperitivóval a hangulatos, borostyánnal benőtt sikátorokban.",
+        "ro": "Începeți de la Colosseum, ajungând cu metroul. După ce explorați Roma antică, metroul vă duce în inima districtului modei, la Treptele Spaniole. După-amiaza este o plimbare prin centrul baroc, care se termină cu o călătorie cu tramvaiul spre Trastevere. Petreceți seara bucurându-vă de un aperitivo pe aleile fermecătoare acoperite de iederă.",
+        "en": "Begin at the Colosseum, arriving by metro. After exploring ancient Rome, the metro takes you to the heart of the fashion district at the Spanish Steps. The afternoon is a walk through the Baroque center, ending with a tram ride to Trastevere. Experience the evening enjoying an aperitivo in the charming, ivy-clad alleys."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Supplì",
+            "tip": "Gebratene Reisbällchen mit Mozzarella-Füllung. Ein klassisches römisches Street Food."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Probieren Sie es bei 'Fatamorgana' oder 'Giolitti' für einige der besten der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Supplì",
+            "tip": "Sült rizsgombóc mozzarella töltelékkel. Klasszikus római street food."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Kóstold meg a 'Fatamorgana' vagy a 'Giolitti' fagyizókban a város legjobbjaiért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supplì",
+            "tip": "Găluște de orez prăjite umplute cu mozzarella. Un street food roman clasic."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Încercați la 'Fatamorgana' sau 'Giolitti' pentru unele dintre cele mai bune din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supplì",
+            "tip": "Fried rice balls with a mozzarella filling. A classic Roman street food."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Try it at 'Fatamorgana' or 'Giolitti' for some of the city's best."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chiostro del Bramante",
+            "tip": "Ein friedlicher Renaissance-Kreuzgang in der Nähe der Piazza Navona, oft mit Kunstausstellungen.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Tiberinsel",
+            "tip": "Ein kleiner, ruhiger Ort mitten im Fluss Tiber.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiostro del Bramante",
+            "tip": "Békés reneszánsz kerengő a Piazza Navona közelében, gyakran művészeti kiállításokkal.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Tiberis-sziget",
+            "tip": "Kicsi, csendes hely a Tiberis folyó közepén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiostro del Bramante",
+            "tip": "Un claustru renascentist pașnic lângă Piazza Navona, care găzduiește adesea expoziții de artă.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Insula Tiberina",
+            "tip": "Un loc mic și liniștit în mijlocul râului Tibru.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiostro del Bramante",
+            "tip": "A peaceful Renaissance cloister near Piazza Navona, often hosting art exhibitions.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Tiber Island",
+            "tip": "A small, quiet spot in the middle of the Tiber River.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via dei Coronari",
+            "tip": "Berühmt für ihre Antiquitätengeschäfte und Kunstgalerien."
+          },
+          {
+            "name": "La Rinascente",
+            "tip": "Ein Luxus-Kaufhaus mit einer Dachterrasse mit Blick auf die Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via dei Coronari",
+            "tip": "Antikváriumairól és művészeti galériáiról híres."
+          },
+          {
+            "name": "La Rinascente",
+            "tip": "Luxus áruház, tetőteraszáról kilátás nyílik a városra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via dei Coronari",
+            "tip": "Faimoasă pentru magazinele sale de antichități și galeriile de artă."
+          },
+          {
+            "name": "La Rinascente",
+            "tip": "Un magazin universal de lux cu o terasă pe acoperiș cu vedere la oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via dei Coronari",
+            "tip": "Famous for its antique shops and art galleries."
+          },
+          {
+            "name": "La Rinascente",
+            "tip": "A luxury department store with a rooftop bar overlooking the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein 24-Stunden-Ticket (ROMA24) für unbegrenzte Fahrten mit Bussen, Straßenbahnen und der U-Bahn.",
+          "Entwerten Sie Ihr Ticket in den Automaten, bevor Sie in den Bus oder die Straßenbahn einsteigen.",
+          "Die Metro ist am schnellsten, aber Busse und Straßenbahnen bieten bessere Aussichten."
+        ],
+        "hu": [
+          "Vegyél 24 órás jegyet (ROMA24) a korlátlan utazáshoz buszon, villamoson és metrón.",
+          "Érvényesítsd a jegyed a buszra vagy villamosra szállás előtt.",
+          "A metró a leggyorsabb, de a buszok és villamosok szebb kilátást nyújtanak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 de ore (ROMA24) pentru călătorii nelimitate cu autobuzul, tramvaiul și metroul.",
+          "Validați biletul în aparate înainte de a urca în autobuz sau tramvai.",
+          "Metroul este cel mai rapid, dar autobuzele și tramvaiele oferă priveliști mai bune."
+        ],
+        "en": [
+          "Buy a 24-hour ticket (ROMA24) for unlimited travel on buses, trams, and metro.",
+          "Validate your ticket in the machines before getting on a bus or tram.",
+          "The metro is fastest, but buses and trams offer better views."
+        ]
+      }
+    }
+  }
+}

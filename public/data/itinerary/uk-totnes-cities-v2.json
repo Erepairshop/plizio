@@ -1,0 +1,306 @@
+{
+  "city_id": "uk-totnes-cities-v2",
+  "anchor": {
+    "name": "Totnes Castle",
+    "coords": [
+      -3.6845,
+      50.4312
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Market Square",
+          "coords": [
+            -3.685,
+            50.4305
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den lokalen Markt am Freitag.",
+            "hu": "Látogasson el a pénteki helyi piacra.",
+            "ro": "Vizitați piața locală de vineri.",
+            "en": "Visit the local market on Friday."
+          }
+        },
+        {
+          "name": "Totnes Castle",
+          "coords": [
+            -3.6845,
+            50.4312
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besteigen Sie die Mauer für den Ausblick.",
+            "hu": "Másszon fel a falra a kilátásért.",
+            "ro": "Urcați pe zid pentru vedere.",
+            "en": "Climb the wall for the view."
+          }
+        },
+        {
+          "name": "St Mary's Church",
+          "coords": [
+            -3.6865,
+            50.4308
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die geschnitzte Lettner-Wand.",
+            "hu": "Csodálja meg a faragott szentélyrekesztőt.",
+            "ro": "Admirați iconostasul sculptat.",
+            "en": "Admire the carved rood screen."
+          }
+        },
+        {
+          "name": "Elizabethan House Museum",
+          "coords": [
+            -3.6875,
+            50.431
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einblick in das Leben der Tudor-Zeit.",
+            "hu": "Bepillantás a Tudor-kori életbe.",
+            "ro": "Incursiune în viața din epoca Tudor.",
+            "en": "Insight into Tudor-era life."
+          }
+        },
+        {
+          "name": "High Street / The Narrows",
+          "coords": [
+            -3.689,
+            50.4315
+          ],
+          "category": "shopping",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stöbern Sie in unabhängigen Läden.",
+            "hu": "Böngésszen a független boltokban.",
+            "ro": "Explorați magazinele independente.",
+            "en": "Browse the independent shops."
+          }
+        },
+        {
+          "name": "Steamer Quay",
+          "coords": [
+            -3.68,
+            50.428
+          ],
+          "category": "park",
+          "arrive_at": "15:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Fluss Dart.",
+            "hu": "Lazítson a Dart folyó partján.",
+            "ro": "Relaxați-vă pe malul râului Dart.",
+            "en": "Relax by the River Dart."
+          }
+        },
+        {
+          "name": "South Devon Railway",
+          "coords": [
+            -3.688,
+            50.437
+          ],
+          "category": "historical",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Sehen Sie die Dampflokomotiven.",
+            "hu": "Nézze meg a gőzmozdonyokat.",
+            "ro": "Vedeți locomotivele cu aburi.",
+            "en": "See the steam locomotives."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag auf dem lebhaften Marktplatz und erklimmen Sie dann die Festungsmauern von Totnes Castle. Nach dem Besuch der St. Mary's Church und des Elizabethan Museums schlendern Sie durch 'The Narrows' mit seinen alternativen Läden. Ein entspannter Spaziergang am Steamer Quay führt Sie schließlich zur historischen Dampfeisenbahn.",
+        "hu": "Kezdje a napot a pezsgő piactéren, majd másszon fel a Totnes-i vár falaira. A Szent Lőrinc-templom és az Erzsébet-kori múzeum megtekintése után barangoljon a 'The Narrows' negyed alternatív boltjai között. Egy pihentető séta a Steamer Quay mentén végül a történelmi gőzvasúthoz vezet.",
+        "ro": "Începeți ziua în piața vibrantă, apoi urcați pe zidurile Castelului Totnes. După vizitarea Bisericii Sf. Maria și a muzeului elisabetan, plimbați-vă prin „The Narrows” cu magazinele sale alternative. O plimbare relaxantă pe Steamer Quay vă va conduce în final la trenul istoric cu aburi.",
+        "en": "Start the day at the vibrant Market Square, then climb the walls of Totnes Castle. After visiting St Mary's Church and the Elizabethan House Museum, wander through 'The Narrows' with its alternative shops. A relaxed stroll by Steamer Quay leads you finally to the historic steam railway."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Bull Inn",
+            "tip": "Biologische und saisonale Küche."
+          },
+          {
+            "name": "Waterside Bistro",
+            "tip": "Essen am Ufer des Dart."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Bull Inn",
+            "tip": "Bio és szezonális ételek."
+          },
+          {
+            "name": "Waterside Bistro",
+            "tip": "Étkezés a Dart folyó partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Bull Inn",
+            "tip": "Bucătărie organică și sezonieră."
+          },
+          {
+            "name": "Waterside Bistro",
+            "tip": "Masă pe malul râului Dart."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bull Inn",
+            "tip": "Organic and seasonal cuisine."
+          },
+          {
+            "name": "Waterside Bistro",
+            "tip": "Dining on the banks of the Dart."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vire Island",
+            "tip": "Ruhiger Park im Fluss",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Castle Meadow",
+            "tip": "Grünfläche unter der Burg",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vire Island",
+            "tip": "Csendes park a folyóban",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Castle Meadow",
+            "tip": "Zöldterület a vár alatt",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vire Island",
+            "tip": "Parc liniștit în râu",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Castle Meadow",
+            "tip": "Spațiu verde sub castel",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vire Island",
+            "tip": "Quiet park in the river",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Castle Meadow",
+            "tip": "Green space under the castle",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Totnes Market",
+            "tip": "Lokales Kunsthandwerk und Bio-Produkte."
+          },
+          {
+            "name": "The Narrows",
+            "tip": "Unabhängige Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Totnes Market",
+            "tip": "Helyi kézműves termékek és bioáruk."
+          },
+          {
+            "name": "The Narrows",
+            "tip": "Független butikok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Totnes Market",
+            "tip": "Artizanat local și produse organice."
+          },
+          {
+            "name": "The Narrows",
+            "tip": "Boutique-uri independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Totnes Market",
+            "tip": "Local crafts and organic produce."
+          },
+          {
+            "name": "The Narrows",
+            "tip": "Independent boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Totnes ist sehr steil, bequeme Schuhe sind wichtig.",
+          "Die Stadt ist für ihren alternativen Geist bekannt, seien Sie offen."
+        ],
+        "hu": [
+          "Totnes nagyon meredek, a kényelmes cipő fontos.",
+          "A város az alternatív szelleméről ismert, legyen nyitott."
+        ],
+        "ro": [
+          "Totnes este foarte abrupt, pantofii confortabili sunt importanți.",
+          "Orașul este cunoscut pentru spiritul său alternativ, fiți deschiși."
+        ],
+        "en": [
+          "Totnes is very steep, comfortable shoes are important.",
+          "The town is known for its alternative spirit, be open-minded."
+        ]
+      }
+    }
+  }
+}

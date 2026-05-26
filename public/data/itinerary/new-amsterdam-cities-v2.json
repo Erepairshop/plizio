@@ -1,0 +1,247 @@
+{
+  "city_id": "new-amsterdam-cities-v2",
+  "anchor": {
+    "name": "New Amsterdam Town Hall",
+    "coords": [
+      -57.5186,
+      6.2464
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "New Amsterdam Town Hall",
+            "hu": "Városháza",
+            "ro": "Primăria New Amsterdam",
+            "en": "New Amsterdam Town Hall"
+          },
+          "coords": [
+            -57.5186,
+            6.2464
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für koloniale Architektur.",
+            "hu": "A gyarmati építészet szép példája.",
+            "ro": "Un exemplu frumos de arhitectură colonială.",
+            "en": "A beautiful landmark of colonial-style architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "New Amsterdam Market",
+            "hu": "Helyi piac",
+            "ro": "Piața locală",
+            "en": "New Amsterdam Market"
+          },
+          "coords": [
+            -57.5215,
+            6.2455
+          ],
+          "category": "market",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie exotische Früchte und Gewürze.",
+            "hu": "Fedezz fel egzotikus gyümölcsöket és fűszereket.",
+            "ro": "Descoperiți fructe exotice și condimente locale.",
+            "en": "Explore exotic tropical fruits and local spices."
+          }
+        },
+        {
+          "name": {
+            "de": "Mission Chapel",
+            "hu": "Missziós kápolna",
+            "ro": "Capela Misiunii",
+            "en": "Mission Chapel"
+          },
+          "coords": [
+            -57.5165,
+            6.2485
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Historische Kirche mit großer Bedeutung für die Gemeinde.",
+            "hu": "Történelmi templom, mely fontos a közösség számára.",
+            "ro": "Biserică istorică de mare importanță pentru comunitate.",
+            "en": "A historic church with deep roots in the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Main Street",
+            "hu": "Ebéd a Main Streeten",
+            "ro": "Prânz pe Main Street",
+            "en": "Main Street Lunch"
+          },
+          "coords": [
+            -57.5175,
+            6.2475
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Curry oder Roti in einem der Cafés.",
+            "hu": "Kóstolj curry-t vagy roti-t az egyik kávézóban.",
+            "ro": "Încercați curry sau roti în una dintre cafenele.",
+            "en": "Try some authentic local curry or roti at a nearby cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade Park",
+            "hu": "Eszplanád Park",
+            "ro": "Parcul Esplanade",
+            "en": "Esplanade Park"
+          },
+          "coords": [
+            -57.5235,
+            6.2425
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Schatten der großen Bäume.",
+            "hu": "Pihenj a hatalmas fák árnyékában.",
+            "ro": "Relaxați-vă la umbra copacilor mari din parc.",
+            "en": "Relax under the shade of massive trees in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Spazieren Sie durch die entspannte Atmosphäre von New Amsterdam. Bewundern Sie das Rathaus und die Mission Chapel, bevor Sie das geschäftige Treiben auf dem Markt erleben. Genießen Sie ein lokales Curry zum Mittagessen und entspannen Sie sich am Nachmittag im Esplanade Park.",
+        "hu": "Sétáljon New Amsterdam nyugodt légkörében. Csodálja meg a Városházát és a Missziós kápolnát, mielőtt megtapasztalná a piac nyüzsgését. Élvezzen egy helyi curry-t ebédre, délután pedig pihenjen az Eszplanád Parkban.",
+        "ro": "Plimbați-vă prin atmosfera relaxată a orașului New Amsterdam. Admirați Primăria și Capela Misiunii înainte de a experimenta agitația pieței. Savurați un curry local la prânz și relaxați-vă după-amiaza în Parcul Esplanade.",
+        "en": "Stroll through the relaxed atmosphere of New Amsterdam. Admire the Town Hall and Mission Chapel before experiencing the local market buzz. Enjoy a local curry for lunch and unwind in the afternoon at Esplanade Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Local Roti Shop",
+            "tip": "Frisches Roti mit Hühnchen-Curry."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Roti Bolt",
+            "tip": "Friss roti csirke curry-vel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Roti Shop local",
+            "tip": "Roti proaspăt cu curry de pui."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Roti Shop",
+            "tip": "Best fresh roti with spicy chicken curry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Esplanade Park",
+            "tip": "Grüne Oase zum Durchatmen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eszplanád Park",
+            "tip": "Zöld oázis a kikapcsolódáshoz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Esplanade",
+            "tip": "Oază verde pentru relaxare.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Esplanade Park",
+            "tip": "A peaceful green haven to catch your breath.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "New Amsterdam Market",
+            "tip": "Frische Lebensmittel und Haushaltswaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "New Amsterdam piac",
+            "tip": "Friss élelmiszerek és háztartási cikkek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața New Amsterdam",
+            "tip": "Alimente proaspete și articole de uz casnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "New Amsterdam Market",
+            "tip": "Fresh local produce and general household goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trinken Sie viel Wasser bei der Hitze.",
+          "Die Stadt ist am Vormittag am belebtesten.",
+          "Fragen Sie die Einheimischen nach dem Weg."
+        ],
+        "hu": [
+          "Igyál sok vizet a hőségben.",
+          "A város délelőtt a legélénkebb.",
+          "Nyugodtan kérj útbaigazítást a helyiektől."
+        ],
+        "ro": [
+          "Beți multă apă din cauza căldurii.",
+          "Orașul este cel mai animat în timpul dimineții.",
+          "Cereți localnicilor indicații de orientare."
+        ],
+        "en": [
+          "Drink plenty of water throughout the heat of the day.",
+          "The town is most active during the morning hours.",
+          "Don't hesitate to ask locals for directions."
+        ]
+      }
+    }
+  }
+}

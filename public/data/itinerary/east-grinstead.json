@@ -1,0 +1,1280 @@
+{
+  "city_id": "east-grinstead",
+  "anchor": {
+    "name": "East Grinstead High Street",
+    "coords": [
+      -0.0131,
+      51.1275
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof East Grinstead",
+            "hu": "East Grinstead vasútállomás",
+            "ro": "Gara East Grinstead",
+            "en": "East Grinstead Station"
+          },
+          "coords": [
+            -0.0175,
+            51.1295
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt der Reise, gut an London Victoria angebunden.",
+            "hu": "A túra kezdőpontja, közvetlen vonatok Londonból.",
+            "ro": "Punctul de plecare, bine conectat cu Londra.",
+            "en": "Starting point, well-connected to London Victoria."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische High Street",
+            "hu": "Történelmi főutca",
+            "ro": "High Street istorică",
+            "en": "Historic High Street"
+          },
+          "coords": [
+            -0.0131,
+            51.1275
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fachwerkhäuser aus dem 14. Jahrhundert.",
+            "hu": "Csodálja meg a 14. századi fagerendás házakat.",
+            "ro": "Admirați casele cu cadru de lemn din secolul al XIV-lea.",
+            "en": "Admire the continuous row of 14th-century timber-framed buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Sackville College",
+            "hu": "Sackville College",
+            "ro": "Colegiul Sackville",
+            "en": "Sackville College"
+          },
+          "coords": [
+            -0.0118,
+            51.1268
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein jakobinisches Armenhaus von 1609.",
+            "hu": "1609-ben alapított jakobinus stílusú szegényház.",
+            "ro": "O casă de pomană iacobeană din 1609.",
+            "en": "A stunning Jacobean almshouse founded in 1609."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Swithun Kirche",
+            "hu": "Szent Swithun-templom",
+            "ro": "Biserica St. Swithun",
+            "en": "St Swithun's Church"
+          },
+          "coords": [
+            -0.0135,
+            51.1265
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Denkmal der Märtyrer von East Grinstead.",
+            "hu": "Nézze meg az East Grinstead-i mártírok emlékművét.",
+            "ro": "Vizitați monumentul martirilor din East Grinstead.",
+            "en": "See the memorial to the East Grinstead Martyrs."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Pub",
+            "hu": "Ebéd egy helyi pubban",
+            "ro": "Prânz la un pub local",
+            "en": "Lunch at a Local Pub"
+          },
+          "coords": [
+            -0.0125,
+            51.1272
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Ale im Dorset Arms.",
+            "hu": "Kóstoljon meg egy helyi sört a Dorset Arms-ban.",
+            "ro": "Încercați o bere locală la Dorset Arms.",
+            "en": "Try a local Sussex ale at the historic Dorset Arms."
+          }
+        },
+        {
+          "name": {
+            "de": "East Court Estate (Nullmeridian)",
+            "hu": "East Court Estate (Nullmeridián)",
+            "ro": "East Court Estate (Meridianul Zero)",
+            "en": "East Court Estate (Prime Meridian)"
+          },
+          "coords": [
+            -0.0051,
+            51.1303
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stehen Sie mit beiden Beinen auf verschiedenen Erdhalbkugeln.",
+            "hu": "Álljon egyszerre a keleti és a nyugati féltekén.",
+            "ro": "Stați pe ambele emisfere în același timp.",
+            "en": "Stand on the line where the Prime Meridian passes through."
+          }
+        },
+        {
+          "name": {
+            "de": "Chequer Mead Theater & Garten",
+            "hu": "Chequer Mead Színház és Kert",
+            "ro": "Teatrul și Grădina Chequer Mead",
+            "en": "Chequer Mead Theatre & Garden"
+          },
+          "coords": [
+            -0.0115,
+            51.1278
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kulturelles Zentrum mit einem schönen kleinen Park.",
+            "hu": "Kulturális központ egy szép kis parkkal.",
+            "ro": "Un centru cultural cu un mic parc frumos.",
+            "en": "A cultural hub with a pleasant garden for a quick break."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsgetränk",
+            "hu": "Búcsúital",
+            "ro": "Băutură de adio",
+            "en": "Farewell Drink"
+          },
+          "coords": [
+            -0.0135,
+            51.1274
+          ],
+          "category": "gastro",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in der High Street ausklingen.",
+            "hu": "Zárja a napot a hangulatos főutcán.",
+            "ro": "Încheiați ziua pe strada principală primitoare.",
+            "en": "Relax in one of the historic inns before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Bahnhof, von wo aus Sie zur historischen High Street spazieren. Hier bewundern Sie die beeindruckenden Fachwerkhäuser aus dem 14. Jahrhundert.\n\nMittags besuchen Sie das berühmte Sackville College, ein jakobinisches Armenhaus, bevor Sie ein traditionelles Mittagessen in einem der gemütlichen Pubs genießen.\n\nAm Nachmittag wandern Sie zum East Court Estate, um direkt auf dem Nullmeridian zu stehen und die Aussicht auf den High Weald zu genießen.\n\nDer Abend klingt entspannt in der Altstadt aus, wo Sie bei einem Getränk die reiche Geschichte dieser Marktstadt Revue passieren lassen.",
+        "hu": "A nap az állomáson indul, majd a történelmi főutcán folytatódik, ahol Anglia egyik leghosszabb fagerendás épületsora várja. Csodálja meg a 14. századi építészetet!\n\nDélben látogasson el a Sackville College-ba, amely egy 1609-ben épült szegényház, majd fogyasszon el egy hamisítatlan angol ebédet egy helyi pubban.\n\nDélután tegyen egy sétát az East Court Estate-hez, ahol átlépheti a nulla hosszúsági kört, és gyönyörködhet a High Weald lankáiban.\n\nAz estét töltse a városközpontban, ahol egy ital mellett pihenheti ki a nap fáradalmait, mielőtt visszatérne az állomásra.",
+        "ro": "Ziua începe la gară, urmată de o plimbare spre High Street, unde veți vedea unul dintre cele mai lungi șiruri de clădiri medievale din Anglia.\n\nLa prânz, vizitați Colegiul Sackville, o clădire iacobeană superbă din 1609, apoi bucurați-vă de o masă tradițională într-un pub istoric.\n\nDupă-amiaza este dedicată Meridianului Zero la East Court Estate, unde puteți sta literalmente pe linia care separă estul de vest.\n\nSeara se încheie relaxat în centrul vechi, oferindu-vă ocazia de a reflecta asupra istoriei bogate a orașului înainte de plecare.",
+        "en": "Start your journey at the station and walk to the historic High Street, home to a world-class row of 14th-century timber-framed buildings.\n\nMidday features a visit to the Jacobean Sackville College, followed by a hearty English lunch in a traditional Sussex pub.\n\nIn the afternoon, head to the East Court Estate to find the Prime Meridian line and enjoy the views across the High Weald countryside.\n\nWrap up your day back in the town centre with a farewell drink, soaking in the medieval atmosphere of this unique market town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Dorset Arms",
+            "tip": "Historischer Pub mit exzellentem lokalen Bier."
+          },
+          {
+            "name": "Sackville College Tea",
+            "tip": "Traditioneller Nachmittagstee in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Dorset Arms",
+            "tip": "Történelmi pub kiváló helyi sörökkel."
+          },
+          {
+            "name": "Sackville College Tea",
+            "tip": "Hagyományos délutáni tea történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Dorset Arms",
+            "tip": "Pub istoric cu bere locală excelentă."
+          },
+          {
+            "name": "Sackville College Tea",
+            "tip": "Ceai tradițional de după-amiază într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Dorset Arms",
+            "tip": "Historic pub offering excellent local Sussex ales."
+          },
+          {
+            "name": "Sackville College Tea",
+            "tip": "Traditional afternoon tea in a stunning Jacobean setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Swithun Kirchhof",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "East Court Gärten",
+            "tip": "Weite Rasenflächen mit Blick auf den High Weald.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Swithun templomkert",
+            "tip": "Csendes hely az elmélyüléshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "East Court kertek",
+            "tip": "Tágas park kilátással a High Wealdre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Bisericii St. Swithun",
+            "tip": "Un loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile East Court",
+            "tip": "Pajiști vaste cu vedere spre High Weald.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Swithun's Churchyard",
+            "tip": "A peaceful spot for a quiet moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "East Court Gardens",
+            "tip": "Expansive lawns with panoramic countryside views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Bookshop",
+            "tip": "Ein charmanter unabhängiger Buchladen in der High Street."
+          },
+          {
+            "name": "East Grinstead Country Market",
+            "tip": "Lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Bookshop",
+            "tip": "Bájos független könyvesbolt a főutcán."
+          },
+          {
+            "name": "East Grinstead Country Market",
+            "tip": "Helyi termékek és kézműves áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Bookshop",
+            "tip": "O librărie independentă fermecătoare pe strada principală."
+          },
+          {
+            "name": "Piața Locală East Grinstead",
+            "tip": "Produse locale și obiecte artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bookshop",
+            "tip": "A charming independent bookshop on the historic High Street."
+          },
+          {
+            "name": "East Grinstead Country Market",
+            "tip": "Great for local produce and handmade gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die High Street.",
+          "Überprüfen Sie die Öffnungszeiten des Sackville College im Voraus.",
+          "Der Meridian-Marker befindet sich hinter dem Haupthaus in East Court.",
+          "Kombinieren Sie den Spaziergang mit einem Besuch des Bluebell Railway Museums."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a történelmi utcákhoz.",
+          "Ellenőrizze a Sackville College nyitvatartását látogatás előtt.",
+          "A meridián vonalat az East Court épülete mögött találja.",
+          "Érdemes korán érkezni, hogy elkerülje a tömeget a főutcán."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru mersul pe High Street.",
+          "Verificați programul de vizitare la Sackville College în avans.",
+          "Marcajul meridianului se află în spatele clădirii principale East Court.",
+          "Rezervați-vă timp pentru a explora magazinele independente."
+        ],
+        "en": [
+          "Wear comfortable walking shoes for the medieval High Street.",
+          "Check Sackville College opening times as it's still a residence.",
+          "The Meridian marker is located in the gardens behind East Court house.",
+          "Early morning is the best time for photos of the timber-framed buildings."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "High Street Start",
+            "hu": "High Street rajt",
+            "ro": "High Street Start",
+            "en": "High Street Start"
+          },
+          "coords": [
+            -0.0131,
+            51.1275
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bereiten Sie Ihr Rad in der Altstadt vor.",
+            "hu": "Készítse fel kerékpárját az óvárosban.",
+            "ro": "Pregătiți bicicleta în centrul vechi.",
+            "en": "Prep your bike in the historic heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "East Court Loop",
+            "hu": "East Court kör",
+            "ro": "Bucla East Court",
+            "en": "East Court Loop"
+          },
+          "coords": [
+            -0.0051,
+            51.1303
+          ],
+          "category": "park",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöne Wege rund um das Anwesen.",
+            "hu": "Szép ösvények a birtok körül.",
+            "ro": "Trasee frumoase în jurul domeniului.",
+            "en": "Enjoy the smooth paths around the Meridian estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Worth Way Radweg",
+            "hu": "Worth Way kerékpárút",
+            "ro": "Pista Worth Way",
+            "en": "Worth Way Cycle Path"
+          },
+          "coords": [
+            -0.025,
+            51.132
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Radweg auf einer ehemaligen Eisenbahnstrecke.",
+            "hu": "Kerékpárút egy egykori vasútvonal mentén.",
+            "ro": "Pistă de biciclete pe o fostă cale ferată.",
+            "en": "A flat, leafy path along a former railway line."
+          }
+        },
+        {
+          "name": {
+            "de": "Selsfield Common",
+            "hu": "Selsfield Common",
+            "ro": "Selsfield Common",
+            "en": "Selsfield Common"
+          },
+          "coords": [
+            -0.075,
+            51.105
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:30",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Atemberaubende Aussicht nach einer kleinen Auffahrt.",
+            "hu": "Lélegzetelállító kilátás egy kis emelkedő után.",
+            "ro": "Vedere uluitoare după o mică urcare.",
+            "en": "Rewarding views after a short climb on the ridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Bluebell Railway (Kingscote)",
+            "hu": "Bluebell Railway (Kingscote)",
+            "ro": "Bluebell Railway (Kingscote)",
+            "en": "Bluebell Railway (Kingscote)"
+          },
+          "coords": [
+            -0.035,
+            51.105
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Dampfzüge am Bahnhof.",
+            "hu": "Nézze meg a gőzmozdonyokat az állomáson.",
+            "ro": "Urmăriți trenurile cu aburi la gară.",
+            "en": "A perfect spot to watch heritage steam trains."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Hill Manor Außenansicht",
+            "hu": "Saint Hill Manor",
+            "ro": "Saint Hill Manor",
+            "en": "Saint Hill Manor"
+          },
+          "coords": [
+            -0.032,
+            51.115
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beeindruckendes Herrenhaus am Stadtrand.",
+            "hu": "Impozáns kúria a város szélén.",
+            "ro": "Conac impresionant la marginea orașului.",
+            "en": "Imposing historic manor house on the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr & Kaffee",
+            "hu": "Visszatérés és kávé",
+            "ro": "Întoarcere și cafea",
+            "en": "Return & Coffee"
+          },
+          "coords": [
+            -0.013,
+            51.127
+          ],
+          "category": "gastro",
+          "arrive_at": "15:10",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Verdiente Pause in der High Street.",
+            "hu": "Megérdemelt pihenő a főutcán.",
+            "ro": "O pauză binemeritată pe strada principală.",
+            "en": "A well-earned break in a High Street café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in der Altstadt und erkunden Sie zunächst die Wege rund um das East Court Estate.\n\nFahren Sie dann auf den Worth Way, einen flachen Radweg auf einer alten Eisenbahnlinie, der ideal für entspanntes Fahren ist.\n\nNach einem kleinen Anstieg zum Selsfield Common genießen Sie den Blick über das Umland und radeln weiter zum historischen Bahnhof Kingscote.\n\nBeenden Sie Ihre Tour mit einer entspannten Abfahrt zurück ins Zentrum für einen Kaffee in der High Street.",
+        "hu": "Kezdje a kerékpártúrát az óvárosban, majd fedezze fel az East Court Estate körüli kellemes ösvényeket.\n\nIrány a Worth Way, egy egykori vasútvonal helyén kialakított sík kerékpárút, amely tökéletes a pihentető tekeréshez.\n\nEgy rövid emelkedő után a Selsfield Commonról csodálhatja meg a panorámát, mielőtt legurulna a Kingscote állomáshoz.\n\nA túrát a városközpontba való visszatéréssel zárja, ahol egy frissítő kávé várja a történelmi főutcán.",
+        "ro": "Începeți turul cu bicicleta în centrul istoric și explorați traseele din jurul domeniului East Court.\n\nÎndreptați-vă spre Worth Way, o pistă de biciclete plată pe o fostă cale ferată, ideală pentru o plimbare relaxantă.\n\nDupă o scurtă urcare spre Selsfield Common, bucurați-vă de panoramă și pedalați spre gara istorică Kingscote.\n\nÎncheiați turul cu o coborâre relaxată înapoi în centru pentru o cafea pe strada principală.",
+        "en": "Start your cycling trip in the old town and explore the leafy paths around the East Court Estate.\n\nHead onto the Worth Way, a flat cycle path built on an old railway line, perfect for easy riding through nature.\n\nAfter a short climb to Selsfield Common, enjoy the views and cycle down to the heritage Kingscote Station.\n\nFinish your loop with a relaxed ride back to the centre for a well-deserved coffee on the High Street."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffe Nero High St",
+            "tip": "Guter Stopp für Radfahrer im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffe Nero High St",
+            "tip": "Népszerű megálló kerékpárosoknak a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffe Nero High St",
+            "tip": "Un loc bun pentru bicicliști în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffe Nero High St",
+            "tip": "A popular spot for cyclists to refuel in the centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Worth Way",
+            "tip": "Ruhiger Naturpfad ohne Autoverkehr.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Worth Way",
+            "tip": "Csendes természeti ösvény autóforgalom nélkül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Worth Way",
+            "tip": "Traseu natural liniștit, fără mașini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Worth Way",
+            "tip": "A peaceful nature trail away from road traffic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bike Shop EG",
+            "tip": "Falls Sie Ersatzteile oder Service benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bike Shop EG",
+            "tip": "Ha alkatrészre vagy szervizre van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bike Shop EG",
+            "tip": "Dacă aveți nevoie de piese sau service."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop EG",
+            "tip": "For any spare parts or quick repairs during your trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Worth Way kann nach Regen schlammig sein.",
+          "Achten Sie auf Fußgänger auf dem kombinierten Radweg.",
+          "Nehmen Sie ausreichend Wasser für den Anstieg zum Common mit.",
+          "Die Strecke ist größtenteils autofrei."
+        ],
+        "hu": [
+          "A Worth Way eső után sáros lehet.",
+          "Figyeljen a gyalogosokra a közös használatú utakon.",
+          "Vigyen elég vizet a Selsfield Common emelkedőjéhez.",
+          "Az útvonal nagy része mentes a gépjárműforgalomtól."
+        ],
+        "ro": [
+          "Worth Way poate fi noroios după ploaie.",
+          "Atenție la pietoni pe traseele comune.",
+          "Luați suficientă apă pentru urcarea spre Common.",
+          "Traseul este în mare parte ferit de mașini."
+        ],
+        "en": [
+          "The Worth Way can be muddy after rain, so check conditions.",
+          "Be mindful of walkers on shared-use paths.",
+          "Bring enough water for the climb towards Selsfield Common.",
+          "Most of this route is traffic-free and family-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 32.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "High Street Parkplatz",
+            "hu": "Főutcai parkoló",
+            "ro": "Parcare High Street",
+            "en": "High Street Cluster"
+          },
+          "coords": [
+            -0.013,
+            51.127
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Altstadt zu Fuß.",
+            "hu": "Parkoljon le, és fedezze fel az óvárost gyalog.",
+            "ro": "Parcați aici și explorați centrul vechi pe jos.",
+            "en": "Park once to explore the 14th-century High Street and College."
+          }
+        },
+        {
+          "name": {
+            "de": "Sackville College",
+            "hu": "Sackville College",
+            "ro": "Colegiul Sackville",
+            "en": "Sackville College"
+          },
+          "coords": [
+            -0.011,
+            51.126
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein historisches Juwel nur einen kurzen Fußweg entfernt.",
+            "hu": "Történelmi gyöngyszem egy rövid sétára a parkolótól.",
+            "ro": "O bijuterie istorică la o scurtă plimbare de parcare.",
+            "en": "A historic gem just a short walk from the main parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "East Court Estate",
+            "hu": "East Court birtok",
+            "ro": "Domeniul East Court",
+            "en": "East Court Estate"
+          },
+          "coords": [
+            -0.005,
+            51.13
+          ],
+          "category": "landmark",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Nullmeridian-Anwesen.",
+            "hu": "Parkoljon közvetlenül a meridián birtoknál.",
+            "ro": "Parcați chiar lângă domeniul meridianului.",
+            "en": "Ample parking is available right at the Meridian marker site."
+          }
+        },
+        {
+          "name": {
+            "de": "Bluebell Railway (EG Station)",
+            "hu": "Bluebell Railway",
+            "ro": "Bluebell Railway",
+            "en": "Bluebell Railway"
+          },
+          "coords": [
+            -0.017,
+            51.129
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Dampfzüge am Bahnhof.",
+            "hu": "Látogasson el a nosztalgiavasúthoz.",
+            "ro": "Vizitați calea ferată cu aburi.",
+            "en": "The northern terminus of this famous heritage steam line."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Hartfield",
+            "hu": "Ebéd Hartfieldben",
+            "ro": "Prânz în Hartfield",
+            "en": "Lunch in Hartfield"
+          },
+          "coords": [
+            0.108,
+            51.1
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Stopp im Dorf von Winnie-the-Pooh.",
+            "hu": "Hangulatos ebéd Micimackó falujában.",
+            "ro": "Un prânz relaxat în satul lui Winnie-the-Pooh.",
+            "en": "Enjoy a traditional lunch in the heart of Pooh Country."
+          }
+        },
+        {
+          "name": {
+            "de": "Pooh Corner & Wald",
+            "hu": "Micimackó-sarok",
+            "ro": "Pooh Corner",
+            "en": "Pooh Corner"
+          },
+          "coords": [
+            0.11,
+            51.101
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans der Geschichten von A.A. Milne.",
+            "hu": "Kihagyhatatlan hely A.A. Milne rajongói számára.",
+            "ro": "Un loc obligatoriu pentru fanii lui A.A. Milne.",
+            "en": "The ultimate destination for fans of the famous bear."
+          }
+        },
+        {
+          "name": {
+            "de": "Standen House",
+            "hu": "Standen House",
+            "ro": "Standen House",
+            "en": "Standen House"
+          },
+          "coords": [
+            -0.015,
+            51.105
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Arts-and-Crafts-Bewegung.",
+            "hu": "Az Arts and Crafts mozgalom egyik remekműve.",
+            "ro": "O capodoperă a mișcării Arts and Crafts.",
+            "en": "A beautiful Arts and Crafts house with Morris & Co interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Standen",
+            "hu": "Standen kilátó",
+            "ro": "Punct de belvedere Standen",
+            "en": "Standen Viewpoint"
+          },
+          "coords": [
+            -0.016,
+            51.106
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Letzter Blick über die Hügel von Sussex.",
+            "hu": "Utolsó pillantás Sussex dombjaira.",
+            "ro": "Ultima vedere asupra dealurilor din Sussex.",
+            "en": "Take in the final panoramic views before driving home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie am Vormittag das Stadtzentrum und den Nullmeridian bequem per Auto, mit kurzen Spaziergängen zwischen den Sehenswürdigkeiten.\n\nMittags fahren Sie in den Ashdown Forest nach Hartfield, die Heimat von Winnie-the-Pooh, für ein entspanntes Mittagessen.\n\nNachmittags besuchen Sie Pooh Corner und fahren dann zum beeindruckenden Standen House, einem Juwel der Arts-and-Crafts-Bewegung.\n\nDer Tag endet mit einem spektakulären Ausblick über die Landschaft von Sussex, bevor Sie die Heimreise antreten.",
+        "hu": "A délelőtt folyamán fedezze fel a városközpontot és a meridiánt autóval, rövid sétákat téve a történelmi épületek között.\n\nDélben irány az Ashdown-erdő és Hartfield falu, Micimackó otthona, ahol egy hangulatos ebédet fogyaszthat el.\n\nDélután látogasson el a Pooh Cornerhez, majd fedezze fel a lenyűgöző Standen House-t, az Arts and Crafts mozgalom remekét.\n\nA napot egy csodálatos panorámával zárja Sussex lankás dombjai felett, mielőtt hazaindulna.",
+        "ro": "Dimineața este dedicată centrului orașului și Meridianului Zero, folosind mașina pentru a ajunge rapid între punctele de interes principale.\n\nLa prânz, conduceți spre Pădurea Ashdown până în satul Hartfield, casa lui Winnie-the-Pooh, pentru o masă relaxată.\n\nDupă-amiaza, vizitați Pooh Corner și apoi impresionanta Standen House, o bijuterie a designului Arts and Crafts.\n\nZiua se încheie cu o priveliște spectaculoasă asupra dealurilor din Sussex înainte de plecarea spre casă.",
+        "en": "Spend your morning exploring the historic centre and the Prime Meridian by car, with short walks between the key landmarks.\n\nMidday takes you on a scenic drive to Ashdown Forest and Hartfield village, the home of Winnie-the-Pooh, for lunch.\n\nIn the afternoon, visit Pooh Corner and then head to the magnificent Standen House, an Arts and Crafts movement masterpiece.\n\nWrap up your day with a final panoramic view across the Sussex countryside from the Standen estate before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Anchor Inn, Hartfield",
+            "tip": "Idyllischer Pub im Pooh-Land."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anchor Inn, Hartfield",
+            "tip": "Idilli pub Micimackó birodalmában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anchor Inn, Hartfield",
+            "tip": "Pub idilic în ținutul lui Winnie-the-Pooh."
+          }
+        ],
+        "en": [
+          {
+            "name": "Anchor Inn, Hartfield",
+            "tip": "A quintessential country pub in the heart of Pooh Country."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ashdown Forest Trails",
+            "tip": "Endlose Weite und absolute Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ashdown Forest ösvények",
+            "tip": "Végtelen nyugalom az erdő mélyén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trasee Pădurea Ashdown",
+            "tip": "Liniște deplină și peisaje vaste.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ashdown Forest Trails",
+            "tip": "Endless horizons and absolute peace in the forest.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pooh Corner Shop",
+            "tip": "Alles rund um den berühmten Bären."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pooh Corner Shop",
+            "tip": "Minden, ami Micimackóval kapcsolatos."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pooh Corner Shop",
+            "tip": "Totul despre faimosul ursuleț."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pooh Corner Shop",
+            "tip": "The world's largest selection of Pooh-related items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Ashdown Forest können schmal sein.",
+          "Parkplätze am Standen House sind oft schnell belegt.",
+          "Nutzen Sie die Park-and-Walk Strategie im Zentrum.",
+          "Hartfield ist nur eine kurze Fahrt von East Grinstead entfernt."
+        ],
+        "hu": [
+          "Az Ashdown-erdő útjai néhol keskenyek lehetnek.",
+          "A Standen House parkolója hamar megtelhet.",
+          "A városközpontban érdemes egyszer leparkolni a túra alatt.",
+          "Hartfield mindössze 15-20 perces autóútra van."
+        ],
+        "ro": [
+          "Drumurile din Pădurea Ashdown pot fi înguste.",
+          "Parcarea la Standen House se poate ocupa rapid.",
+          "Folosiți strategia parcare-și-mers în centru.",
+          "Hartfield se află la o scurtă distanță de condus."
+        ],
+        "en": [
+          "Be prepared for narrow country lanes in Ashdown Forest.",
+          "Standen House parking is free but can be busy on weekends.",
+          "Park at the High Street for the central clusters of sights.",
+          "A car is essential for reaching Pooh Country efficiently."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 14.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof East Grinstead",
+            "hu": "East Grinstead vasútállomás",
+            "ro": "Gara East Grinstead",
+            "en": "East Grinstead Station"
+          },
+          "coords": [
+            -0.0175,
+            51.1295
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftsort für Züge aus London.",
+            "hu": "Központi érkezési pont a londoni vonatokhoz.",
+            "ro": "Punct central de sosire pentru trenurile din Londra.",
+            "en": "Main hub for rail services from London and local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "High Street (Bus Stop)",
+            "hu": "Főutca (Buszmegálló)",
+            "ro": "High Street (Stație de autobuz)",
+            "en": "High Street District"
+          },
+          "coords": [
+            -0.013,
+            51.127
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten direkt an der High Street.",
+            "hu": "A legtöbb buszjárat megáll a főutcán.",
+            "ro": "Majoritatea liniilor de autobuz opresc la High Street.",
+            "en": "A short walk from the station or a quick bus ride."
+          }
+        },
+        {
+          "name": {
+            "de": "East Court (Bus 281/400)",
+            "hu": "East Court (281/400-as busz)",
+            "ro": "East Court (Autobuz 281/400)",
+            "en": "East Court District"
+          },
+          "coords": [
+            -0.005,
+            51.13
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt zum Meridian-Anwesen.",
+            "hu": "Rövid buszozás a meridián birtokhoz.",
+            "ro": "O scurtă călătorie cu autobuzul până la domeniu.",
+            "en": "Reach the Prime Meridian marker via local bus routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bluebell Railway",
+            "hu": "Bluebell Railway",
+            "ro": "Bluebell Railway",
+            "en": "Bluebell Railway"
+          },
+          "coords": [
+            -0.018,
+            51.129
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Hauptbahnhof gelegen.",
+            "hu": "Közvetlenül a nagyállomás mellett található.",
+            "ro": "Situat chiar lângă gara principală.",
+            "en": "Conveniently located adjacent to the mainline station."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen (Zentrum)",
+            "hu": "Késői ebéd (Központ)",
+            "ro": "Prânz târziu (Centru)",
+            "en": "Late Lunch (Centre)"
+          },
+          "coords": [
+            -0.012,
+            51.127
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum für eine Stärkung.",
+            "hu": "Visszatérés a központba egy jó ebédre.",
+            "ro": "Înapoi în centru pentru o masă bună.",
+            "en": "Explore more High Street options for a quick bite."
+          }
+        },
+        {
+          "name": {
+            "de": "Standen (Bus 473)",
+            "hu": "Standen (473-as busz)",
+            "ro": "Standen (Autobuz 473)",
+            "en": "Standen House"
+          },
+          "coords": [
+            -0.015,
+            51.105
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Saisonaler Shuttlebus zum National Trust Anwesen.",
+            "hu": "Szezonális buszjárat a Standen House-hoz.",
+            "ro": "Autobuz sezonier către domeniul Standen.",
+            "en": "Check the seasonal Metrobus 473 schedule for this stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Rückkehr",
+            "hu": "Visszatérés az állomásra",
+            "ro": "Întoarcere la gară",
+            "en": "Station Farewell"
+          },
+          "coords": [
+            -0.017,
+            51.129
+          ],
+          "category": "transport",
+          "arrive_at": "16:50",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Pufferzeit vor der Zugfahrt nach London.",
+            "hu": "Időkeret a vonat indulása előtt.",
+            "ro": "Timp tampon înainte de trenul spre casă.",
+            "en": "Ample time to catch your return train to London."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um zwischen den historischen Highlights der Stadt und dem Nullmeridian zu pendeln.\n\nMittags besuchen Sie die berühmte Bluebell Railway, die direkt am Bahnhof beginnt und Technikgeschichte zum Anfassen bietet.\n\nAm Nachmittag bringt Sie der Bus zum Standen House, wo Sie die beeindruckende Architektur und die Gärten bewundern können.\n\nDer Tag endet wieder am Bahnhof, von wo aus Sie bequem mit dem Zug Ihre Heimreise antreten können.",
+        "hu": "Használja a helyi buszhálózatot a város történelmi látnivalói és a meridián közötti közlekedéshez.\n\nDélben látogasson el a híres Bluebell Railway-hez, amely közvetlenül a vasútállomás mellől indul.\n\nDélután buszozzon el a Standen House-hoz, ahol az egyedülálló építészet és a kertek várják.\n\nA túra a vasútállomáson zárul, ahonnan kényelmesen utazhat vissza London irányába.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru a naviga între reperele istorice și Meridianul Zero din East Court.\n\nLa prânz, vizitați celebra Bluebell Railway, situată chiar lângă gara principală, pentru o experiență feroviară de epocă.\n\nDupă-amiaza, luați autobuzul spre Standen House pentru a explora arhitectura impresionantă și grădinile domeniului.\n\nZiua se încheie înapoi la gară, oferindu-vă o conexiune facilă pentru călătoria de întoarcere.",
+        "en": "Navigate between the town's historic highlights and the Prime Meridian using the efficient local bus network.\n\nMidday is dedicated to the Bluebell Railway, a heritage gem located conveniently next to the mainline station.\n\nIn the afternoon, catch a bus to the National Trust's Standen House to admire its gardens and unique Arts and Crafts design.\n\nYour day concludes back at the railway station, providing a seamless transition for your return journey by train."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Station Buffet",
+            "tip": "Schneller Snack am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Station Buffet",
+            "tip": "Gyors falatok az állomáson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Station Buffet",
+            "tip": "Gustări rapide la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Buffet",
+            "tip": "Convenient for a quick bite before your train arrives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "East Court Plateau",
+            "tip": "Ruhiger Parkplatz mit Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "East Court fennsík",
+            "tip": "Csendes parkrész kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podișul East Court",
+            "tip": "Zonă liniștită de parc cu vedere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "East Court Plateau",
+            "tip": "A quiet part of the estate with great vistas.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "WHSmith Station",
+            "tip": "Reisebedarf und Zeitungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "WHSmith Station",
+            "tip": "Újságok és utazási kellékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "WHSmith Station",
+            "tip": "Presă și accesorii de călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "WHSmith Station",
+            "tip": "Useful for travel essentials and reading material."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich eine Tageskarte für den Bus.",
+          "Die Busse verkehren am Wochenende seltener.",
+          "Achten Sie auf die Abfahrtszeiten der Züge nach London.",
+          "Planen Sie Pufferzeit für den Fußweg zwischen den Haltestellen ein."
+        ],
+        "hu": [
+          "Érdemes napijegyet váltani a buszokra.",
+          "Hétvégén a buszjáratok ritkábban közlekednek.",
+          "Figyeljen a londoni vonatok indulási idejére.",
+          "Hagyjon elég időt a buszmegállók közötti sétára."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz.",
+          "Autobuzele circulă mai rar în weekend.",
+          "Verificați orele de plecare ale trenurilor spre Londra.",
+          "Alocați timp suficient pentru mersul pe jos între stații."
+        ],
+        "en": [
+          "Consider a bus day pass for better value.",
+          "Be aware that weekend bus services can be limited.",
+          "Keep an eye on the live rail departure boards at the station.",
+          "Allow buffer time for short walks from bus stops to sights."
+        ]
+      }
+    }
+  }
+}

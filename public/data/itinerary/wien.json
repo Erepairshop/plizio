@@ -1,0 +1,1470 @@
+{
+  "city_id": "wien",
+  "anchor": {
+    "name": "Stephansdom",
+    "coords": [
+      16.3738,
+      48.2082
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 2.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stephansdom",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Sfântul Ștefan",
+            "en": "St. Stephen's Cathedral"
+          },
+          "coords": [
+            16.3738,
+            48.2082
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie ein Kombiticket, um den Süd- und Nordturm zu besteigen.",
+            "hu": "Érdemes kombinált jegyet venni a déli és északi toronyba is.",
+            "ro": "Cumpărați un bilet combinat pentru a urca atât în Turnul de Sud, cât și în cel de Nord.",
+            "en": "Buy a combined ticket to climb both the South and North towers for different views."
+          }
+        },
+        {
+          "name": {
+            "de": "Graben und Pestsäule",
+            "hu": "Graben és a Pestis-oszlop",
+            "ro": "Strada Graben și Coloana Ciumei",
+            "en": "Graben and the Plague Column"
+          },
+          "coords": [
+            16.3714,
+            48.2089
+          ],
+          "category": "monument",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die luxuriösen Geschäfte und historischen Fassaden.",
+            "hu": "Nézze meg a luxusüzleteket és a történelmi homlokzatokat.",
+            "ro": "Observați magazinele de lux și fațadele istorice din jur.",
+            "en": "Look closely at the intricate details of the 17th-century column."
+          }
+        },
+        {
+          "name": {
+            "de": "Hofburg Palast",
+            "hu": "Hofburg",
+            "ro": "Palatul Hofburg",
+            "en": "Hofburg Palace"
+          },
+          "coords": [
+            16.3666,
+            48.2081
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Kaiserappartements geben einen Einblick in das Leben von Kaiserin Sisi.",
+            "hu": "A Császári lakosztályok bepillantást engednek Sisi császárné életébe.",
+            "ro": "Apartamentele Imperiale oferă o imagine a vieții împărătesei Sisi.",
+            "en": "Focus on the Imperial Apartments for a glimpse into Empress Sisi's life."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksgarten",
+            "hu": "Volksgarten",
+            "ro": "Grădina Poporului (Volksgarten)",
+            "en": "Volksgarten"
+          },
+          "coords": [
+            16.3627,
+            48.2091
+          ],
+          "category": "garden",
+          "arrive_at": "12:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Rosengarten mit über 3.000 Rosensträuchern im Juni.",
+            "hu": "Júniusban látogasson el a rózsakertbe, ahol több mint 3000 rózsabokor található.",
+            "ro": "Vizitați grădina de trandafiri în iunie, cu peste 3.000 de tufe.",
+            "en": "Visit in June to see the rose garden with its over 3,000 rose bushes in full bloom."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Spittelberg",
+            "hu": "Ebéd a Spittelberg negyedben",
+            "ro": "Prânz în cartierul Spittelberg",
+            "en": "Lunch at Spittelberg Quarter"
+          },
+          "coords": [
+            16.3598,
+            48.204
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie ein traditionelles Beisl für authentische Wiener Küche.",
+            "hu": "Próbáljon ki egy hagyományos 'Beisl'-t az autentikus bécsi konyháért.",
+            "ro": "Încercați un 'Beisl' tradițional pentru bucătărie vieneză autentică.",
+            "en": "Try a traditional 'Beisl' for authentic Viennese cuisine away from the main crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthistorisches Museum",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Istorie a Artei",
+            "en": "Kunsthistorisches Museum"
+          },
+          "coords": [
+            16.3614,
+            48.2047
+          ],
+          "category": "museum",
+          "arrive_at": "14:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Bruegel-Sammlung, die größte der Welt.",
+            "hu": "Ne hagyja ki a világ legnagyobb Bruegel-gyűjteményét.",
+            "ro": "Nu ratați colecția Bruegel, cea mai mare din lume.",
+            "en": "Don't miss the Bruegel collection, the largest in the world, on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Wiener Staatsoper",
+            "hu": "Bécsi Állami Operaház",
+            "ro": "Opera de Stat din Viena",
+            "en": "Vienna State Opera"
+          },
+          "coords": [
+            16.3693,
+            48.2031
+          ],
+          "category": "landmark",
+          "arrive_at": "16:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stehplatzkarten sind eine günstige Möglichkeit, eine Vorstellung zu erleben.",
+            "hu": "Az állójegyek olcsó lehetőséget kínálnak egy előadás megtekintésére.",
+            "ro": "Biletele în picioare sunt o modalitate ieftină de a vedea un spectacol.",
+            "en": "Standing room tickets are a cheap way to experience a performance if you're flexible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am gotischen Stephansdom, dem Herzen Wiens. Nach einem Spaziergang durch die eleganten Straßen Graben und Kohlmarkt erreichen Sie die Hofburg, die ehemalige Machtzentrale der Habsburger. Mittags entspannen Sie im Volksgarten, bevor Sie in einem traditionellen Beisl zu Mittag essen. Der Nachmittag ist der Kunst gewidmet, mit einem Besuch im weltberühmten Kunsthistorischen Museum. Der Tag endet mit einem Blick auf die prachtvolle Wiener Staatsoper, während die Abendsonne die Fassade beleuchtet.",
+        "hu": "A reggel a gótikus Szent István-székesegyháznál, Bécs szívében kezdődik. A Graben és a Kohlmarkt elegáns utcáin tett séta után elérjük a Hofburgot, a Habsburgok egykori hatalmi központját. Délben a Volksgartenben pihenhet, mielőtt egy hagyományos Beislben ebédel. A délután a művészeté, a világhírű Szépművészeti Múzeum meglátogatásával. A nap a csodálatos Bécsi Állami Operaház megtekintésével zárul, ahogy az esti nap megvilágítja a homlokzatát.",
+        "ro": "Dimineața începe la Catedrala gotică Sf. Ștefan, inima Vienei. După o plimbare pe străzile elegante Graben și Kohlmarkt, ajungeți la Palatul Hofburg, fostul centru de putere al Habsburgilor. La prânz, vă relaxați în Volksgarten înainte de a lua masa la un 'Beisl' tradițional. După-amiaza este dedicată artei, cu o vizită la renumitul Muzeu de Istorie a Artei. Ziua se încheie cu o privire la magnifica Operă de Stat din Viena, în timp ce soarele de seară îi luminează fațada.",
+        "en": "The morning starts at the Gothic St. Stephen's Cathedral, the heart of Vienna. After a stroll down the elegant Graben and Kohlmarkt streets, you reach the Hofburg Palace, the former power center of the Habsburgs. At noon, you'll relax in the Volksgarten before having lunch at a traditional 'Beisl'. The afternoon is dedicated to art with a visit to the world-renowned Kunsthistorisches Museum. The day concludes with a view of the magnificent Vienna State Opera as the evening sun lights up its facade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wiener Schnitzel bei Figlmüller",
+            "tip": "Das Original, hauchdünn und größer als der Teller. Reservieren Sie unbedingt."
+          },
+          {
+            "name": "Sachertorte im Café Sacher",
+            "tip": "Probieren Sie die berühmteste Schokoladentorte der Welt mit ungesüßter Schlagsahne."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "In fast jedem Kaffeehaus zu finden, am besten warm mit Vanillesauce serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bécsi szelet a Figlmüllernél",
+            "tip": "Az eredeti, papírvékony és nagyobb, mint a tányér. Foglaljon előre."
+          },
+          {
+            "name": "Sacher-torta a Café Sacherben",
+            "tip": "Kóstolja meg a világ leghíresebb csokitortáját cukrozatlan tejszínhabbal."
+          },
+          {
+            "name": "Almásrétes",
+            "tip": "Szinte minden kávézóban megtalálható, melegen, vaníliaszósszal a legjobb."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șnițel vienez la Figlmüller",
+            "tip": "Originalul, subțire și mai mare decât farfuria. Rezervați în avans."
+          },
+          {
+            "name": "Tort Sacher la Café Sacher",
+            "tip": "Încercați cel mai faimos tort de ciocolată din lume cu frișcă neîndulcită."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Găsit în aproape orice cafenea, cel mai bun servit cald cu sos de vanilie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wiener Schnitzel at Figlmüller",
+            "tip": "The original, paper-thin and bigger than the plate. Be sure to reserve."
+          },
+          {
+            "name": "Sachertorte at Café Sacher",
+            "tip": "Try the world's most famous chocolate cake with unsweetened whipped cream."
+          },
+          {
+            "name": "Apfelstrudel (Apple Strudel)",
+            "tip": "Found in almost any coffee house, best served warm with vanilla sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burggarten",
+            "tip": "Entspannen Sie am Teich hinter der Hofburg und besuchen Sie das Palmenhaus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Donaukanal",
+            "tip": "Ein Spaziergang entlang des Kanals mit seinen Graffitis und Strandbars.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Josefsplatz",
+            "tip": "Ein ruhiger, von Palästen umgebener Platz, Heimat der Nationalbibliothek.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burggarten",
+            "tip": "Pihenjen a Hofburg mögötti tónál és látogasson el a Pálmaházba.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Duna-csatorna",
+            "tip": "Séta a csatorna mentén, graffitikkel és strandbárokkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Josefsplatz",
+            "tip": "Csendes, palotákkal körülvett tér, a Nemzeti Könyvtár otthona.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burggarten",
+            "tip": "Relaxați-vă lângă iazul din spatele Hofburgului și vizitați Palmenhaus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Canalul Dunării",
+            "tip": "O plimbare de-a lungul canalului, cu graffiti și baruri pe plajă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piața Iosif (Josefsplatz)",
+            "tip": "O piață liniștită, înconjurată de palate, unde se află Biblioteca Națională.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Burggarten",
+            "tip": "Relax by the pond behind the Hofburg and visit the Palm House.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Danube Canal",
+            "tip": "A walk along the canal with its graffiti art and beach bars.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Josefsplatz",
+            "tip": "A quiet square surrounded by palaces, home to the National Library.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Graben & Kohlmarkt",
+            "tip": "Luxusmarken und traditionelle Hoflieferanten in historischer Umgebung."
+          },
+          {
+            "name": "Naschmarkt",
+            "tip": "Kaufen Sie exotische Gewürze, lokale Produkte und genießen Sie das internationale Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Graben és Kohlmarkt",
+            "tip": "Luxusmárkák és hagyományos udvari beszállítók történelmi környezetben."
+          },
+          {
+            "name": "Naschmarkt",
+            "tip": "Vásároljon egzotikus fűszereket, helyi termékeket és élvezze a nemzetközi hangulatot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Graben și Kohlmarkt",
+            "tip": "Mărci de lux și furnizori tradiționali ai curții imperiale într-un cadru istoric."
+          },
+          {
+            "name": "Piața Naschmarkt",
+            "tip": "Cumpărați condimente exotice, produse locale și bucurați-vă de atmosfera internațională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Graben & Kohlmarkt",
+            "tip": "Luxury brands and traditional purveyors to the imperial court in a historic setting."
+          },
+          {
+            "name": "Naschmarkt",
+            "tip": "Shop for exotic spices, local produce, and enjoy the international atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster ermüdend sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nutzen Sie die vielen öffentlichen Trinkbrunnen mit frischem Alpenwasser.",
+          "Achten Sie auf Fiaker (Pferdekutschen), die sich die Straßen mit Fußgängern teilen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő fárasztó lehet.",
+          "A belváros legtöbb látnivalója könnyen elérhető gyalog.",
+          "Használja a számos ivókutat, melyek friss alpesi vizet szolgáltatnak.",
+          "Vigyázzon a fiákerekre (lovas hintókra), amelyek a gyalogosokkal osztoznak az utakon."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul poate fi obositor.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Folosiți numeroasele fântâni publice cu apă proaspătă de izvor alpin.",
+          "Fiți atenți la Fiakers (trăsuri trase de cai) care împart străzile cu pietonii."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be tiring.",
+          "Most sights in the city center are within easy walking distance.",
+          "Take advantage of the many public drinking fountains with fresh alpine water.",
+          "Watch out for Fiakers (horse-drawn carriages) that share the roads with pedestrians."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria (Rathaus)",
+            "en": "City Hall (Rathaus)"
+          },
+          "coords": [
+            16.3575,
+            48.2109
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Im Winter findet hier der berühmte Christkindlmarkt statt.",
+            "hu": "Télen itt tartják a híres karácsonyi vásárt.",
+            "ro": "Iarna, faimoasa Piață de Crăciun are loc aici.",
+            "en": "In winter, the famous Christkindlmarkt (Christmas market) is held here."
+          }
+        },
+        {
+          "name": {
+            "de": "Österreichisches Parlament",
+            "hu": "Osztrák Parlament",
+            "ro": "Parlamentul Austriac",
+            "en": "Austrian Parliament"
+          },
+          "coords": [
+            16.3585,
+            48.2082
+          ],
+          "category": "landmark",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Pallas-Athene-Statue vor dem Gebäude ist ein großartiges Fotomotiv.",
+            "hu": "Az épület előtti Pallasz Athéné-szobor remek fotótéma.",
+            "ro": "Statuia Pallas Athena din fața clădirii este un subiect grozav pentru fotografii.",
+            "en": "The Pallas Athene statue in front of the building makes for a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Hofburg Palast",
+            "hu": "Hofburg",
+            "ro": "Palatul Hofburg",
+            "en": "Hofburg Palace"
+          },
+          "coords": [
+            16.3666,
+            48.2081
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Radfahren Sie durch den Heldenplatz für eine beeindruckende Aussicht.",
+            "hu": "Biciklizzen át a Hősök terén (Heldenplatz) a lenyűgöző kilátásért.",
+            "ro": "Traversați cu bicicleta Piața Eroilor (Heldenplatz) pentru o priveliște impresionantă.",
+            "en": "Cycle through Heldenplatz (Heroes' Square) for an impressive view of the palace complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark & Johann Strauss Denkmal",
+            "hu": "Városliget és Johann Strauss-emlékmű",
+            "ro": "Parcul Orașului și Monumentul Johann Strauss",
+            "en": "City Park & Johann Strauss Monument"
+          },
+          "coords": [
+            16.3789,
+            48.2058
+          ],
+          "category": "park",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Das goldene Strauss-Denkmal ist eines der meistfotografierten Motive Wiens.",
+            "hu": "Az arany Strauss-emlékmű Bécs egyik legtöbbet fotózott látványossága.",
+            "ro": "Monumentul auriu al lui Strauss este unul dintre cele mai fotografiate obiective din Viena.",
+            "en": "The golden Strauss monument is one of the most photographed landmarks in Vienna."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen nahe Wien Mitte",
+            "hu": "Ebéd a Wien Mitte környékén",
+            "ro": "Prânz lângă Wien Mitte",
+            "en": "Lunch near Wien Mitte"
+          },
+          "coords": [
+            16.3842,
+            48.2078
+          ],
+          "category": "gastro",
+          "arrive_at": "12:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier finden Sie viele moderne Restaurants und Take-aways.",
+            "hu": "Sok modern étterem és elviteles hely található itt.",
+            "ro": "Aici veți găsi multe restaurante moderne și opțiuni la pachet.",
+            "en": "You'll find many modern restaurants and take-away options here."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundertwasserhaus",
+            "hu": "Hundertwasser-ház",
+            "ro": "Casa Hundertwasser",
+            "en": "Hundertwasserhaus"
+          },
+          "coords": [
+            16.3944,
+            48.2072
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das Gebäude kann nur von außen besichtigt werden, aber das nahegelegene Hundertwasser Village ist zugänglich.",
+            "hu": "Az épület csak kívülről látogatható, de a közeli Hundertwasser Village nyitva áll.",
+            "ro": "Clădirea poate fi văzută doar din exterior, dar satul Hundertwasser din apropiere este accesibil.",
+            "en": "The building can only be viewed from outside, but the nearby Hundertwasser Village is accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Prater & Wiener Riesenrad",
+            "hu": "Práter és Óriáskerék",
+            "ro": "Parcul Prater și Roata Mare",
+            "en": "Prater Park & Giant Ferris Wheel"
+          },
+          "coords": [
+            16.396,
+            48.216
+          ],
+          "category": "park",
+          "arrive_at": "15:06",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Riesenrad für einen klassischen Blick auf die Stadt bei Sonnenuntergang.",
+            "hu": "Utazzon az Óriáskerékkel a klasszikus városi panorámáért naplementekor.",
+            "ro": "Faceți o plimbare cu Roata Mare pentru o priveliște clasică a orașului la apus.",
+            "en": "Take a ride on the Giant Ferris Wheel for a classic city view at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour startet am neugotischen Rathaus und führt entlang der prächtigen Ringstraße zum Parlament und der Hofburg. Sie radeln durch das kaiserliche Zentrum, bevor Sie eine Pause im grünen Stadtpark einlegen. Nach dem Mittagessen führt die Route Sie zum farbenfrohen Hundertwasserhaus, einem architektonischen Unikat. Der Nachmittag findet seinen Höhepunkt im Prater, wo eine Fahrt mit dem historischen Riesenrad einen unvergesslichen Abschluss des Tages bietet.",
+        "hu": "A kerékpártúra az újgótikus Városházától indul, és a csodálatos Ringstrassén vezet a Parlament és a Hofburg felé. Átteker a császári központon, mielőtt pihenőt tartana a zöld Stadtparkban. Ebéd után az útvonal a színes Hundertwasser-házhoz, egy építészeti unikumhoz vezet. A délután a Práterben csúcsosodik ki, ahol a történelmi Óriáskerékkel tett utazás felejthetetlen lezárást nyújt a napnak.",
+        "ro": "Turul cu bicicleta începe de la Primăria neogotică și continuă de-a lungul magnificului bulevard Ringstraße spre Parlament și Palatul Hofburg. Pedalați prin centrul imperial înainte de a face o pauză în parcul verde Stadtpark. După prânz, traseul vă duce la colorata Casă Hundertwasser, o bijuterie arhitecturală unică. După-amiaza culminează în parcul Prater, unde o plimbare cu istorica Roată Mare oferă o încheiere de neuitat a zilei.",
+        "en": "The bike tour starts at the neo-Gothic City Hall and follows the magnificent Ringstrasse to the Parliament and Hofburg Palace. You'll cycle through the imperial center before taking a break in the green Stadtpark. After lunch, the route takes you to the colorful Hundertwasserhaus, a unique architectural gem. The afternoon culminates in the Prater park, where a ride on the historic Giant Ferris Wheel provides an unforgettable end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsekrainer am Würstelstand",
+            "tip": "Eine gegrillte Wurst mit Käse gefüllt, ein beliebter Wiener Snack."
+          },
+          {
+            "name": "Stelze im Schweizerhaus",
+            "tip": "Im Prater gelegen, berühmt für seine riesige, knusprige Schweinshaxe."
+          },
+          {
+            "name": "Palatschinken",
+            "tip": "Dünne Pfannkuchen, oft mit Marillenmarmelade gefüllt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtos kolbász (Käsekrainer) egy Würstelstandnál",
+            "tip": "Grillezett, sajttal töltött kolbász, népszerű bécsi snack."
+          },
+          {
+            "name": "Csülök a Schweizerhausban",
+            "tip": "A Práterben található, híres a hatalmas, ropogós sertéscsülkéről."
+          },
+          {
+            "name": "Palacsinta",
+            "tip": "Vékony palacsinta, gyakran sárgabaracklekvárral töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käsekrainer la un Würstelstand",
+            "tip": "Un cârnat la grătar umplut cu brânză, o gustare vieneză populară."
+          },
+          {
+            "name": "Ciolan de porc la Schweizerhaus",
+            "tip": "Situat în Prater, renumit pentru ciolanul său de porc uriaș și crocant."
+          },
+          {
+            "name": "Clătite (Palatschinken)",
+            "tip": "Clătite subțiri, adesea umplute cu gem de caise."
+          }
+        ],
+        "en": [
+          {
+            "name": "Käsekrainer at a Würstelstand",
+            "tip": "A grilled sausage filled with cheese, a popular Viennese snack."
+          },
+          {
+            "name": "Pork Knuckle at Schweizerhaus",
+            "tip": "Located in the Prater, famous for its huge, crispy pork knuckle."
+          },
+          {
+            "name": "Palatschinken (Crêpes)",
+            "tip": "Thin pancakes, often filled with apricot jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donauinsel",
+            "tip": "Eine lange, schmale Insel, perfekt für eine ausgedehnte Radtour abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Augarten",
+            "tip": "Ein Barockgarten mit alten Flaktürmen aus dem Zweiten Weltkrieg, der eine seltsame Ruhe ausstrahlt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Setagaya Park",
+            "tip": "Ein authentischer japanischer Garten, der für seine friedliche Atmosphäre bekannt ist.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna-sziget (Donauinsel)",
+            "tip": "Hosszú, keskeny sziget, tökéletes egy hosszabb biciklitúrához a városi forgalomtól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Augarten",
+            "tip": "Barokk kert régi második világháborús légvédelmi tornyokkal, ami különös nyugalmat áraszt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Setagaya Park",
+            "tip": "Autentikus japán kert, amely békés hangulatáról ismert.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Dunării (Donauinsel)",
+            "tip": "O insulă lungă și îngustă, perfectă pentru o plimbare lungă cu bicicleta departe de traficul urban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Augarten",
+            "tip": "O grădină barocă cu turnuri antiaeriene vechi din Al Doilea Război Mondial, emanând o liniște ciudată.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Setagaya",
+            "tip": "O grădină japoneză autentică, cunoscută pentru atmosfera sa pașnică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube Island (Donauinsel)",
+            "tip": "A long, narrow island perfect for an extended bike ride away from city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Augarten",
+            "tip": "A Baroque garden with old WWII flak towers, exuding a strange sense of calm.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Setagaya Park",
+            "tip": "An authentic Japanese garden known for its peaceful atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mariahilfer Straße",
+            "tip": "Wiens längste Einkaufsstraße mit einer Mischung aus großen Ketten und lokalen Geschäften."
+          },
+          {
+            "name": "Karmelitermarkt",
+            "tip": "Ein trendiger Markt mit lokalen Produkten, Street Food und Designläden in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mariahilfer Straße",
+            "tip": "Bécs leghosszabb bevásárlóutcája, nagy láncok és helyi üzletek keverékével."
+          },
+          {
+            "name": "Karmelitermarkt",
+            "tip": "Trendi piac helyi termékekkel, street fooddal és dizájnboltokkal a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mariahilfer Straße",
+            "tip": "Cea mai lungă stradă comercială din Viena, cu un amestec de lanțuri mari și magazine locale."
+          },
+          {
+            "name": "Piața Karmeliter",
+            "tip": "O piață la modă cu produse locale, mâncare stradală și magazine de design în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mariahilfer Straße",
+            "tip": "Vienna's longest shopping street, with a mix of major chains and local shops."
+          },
+          {
+            "name": "Karmelitermarkt",
+            "tip": "A trendy market with local produce, street food, and nearby design shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Citybike-System für kurze Fahrten; die erste Stunde ist kostenlos.",
+          "Wien hat über 1.300 km Radwege; der Ringstraßen-Radweg ist ein Muss.",
+          "Achten Sie auf Straßenbahnschienen, diese können für Fahrradreifen gefährlich sein.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten."
+        ],
+        "hu": [
+          "Használja a Citybike rendszert rövid utakra; az első óra ingyenes.",
+          "Bécs több mint 1300 km kerékpárúttal rendelkezik; a Ringstrasse kerékpárút kötelező.",
+          "Vigyázzon a villamossínekre, veszélyesek lehetnek a kerékpárgumikra.",
+          "Mindig zárja le jól a kerékpárját, különösen forgalmas helyeken."
+        ],
+        "ro": [
+          "Folosiți sistemul Citybike pentru călătorii scurte; prima oră este gratuită.",
+          "Viena are peste 1.300 km de piste de biciclete; pista de pe Ringstraße este obligatorie.",
+          "Fiți atenți la șinele de tramvai, pot fi periculoase pentru anvelopele de bicicletă.",
+          "Asigurați-vă întotdeauna bine bicicleta, mai ales în locurile aglomerate."
+        ],
+        "en": [
+          "Use the Citybike system for short trips; the first hour is free.",
+          "Vienna has over 1,300 km of bike paths; the Ringstrasse path is a must-ride.",
+          "Be careful of tram tracks, as they can be dangerous for bike tires.",
+          "Always lock your bike securely, especially in busy areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 24.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Schönbrunn",
+            "hu": "Schönbrunni kastély",
+            "ro": "Palatul Schönbrunn",
+            "en": "Schönbrunn Palace"
+          },
+          "coords": [
+            16.3125,
+            48.1849
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Buchen Sie Ihre Tickets online, um lange Warteschlangen am Eingang zu vermeiden.",
+            "hu": "Foglalja le jegyét online, hogy elkerülje a hosszú sorokat a bejáratnál.",
+            "ro": "Rezervați biletele online pentru a evita cozile lungi de la intrare.",
+            "en": "Book your tickets online in advance to avoid long queues at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloriette",
+            "hu": "Gloriette",
+            "ro": "Gloriette",
+            "en": "Gloriette"
+          },
+          "coords": [
+            16.3101,
+            48.1793
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg wird mit einem der besten Panoramablicke auf Wien belohnt.",
+            "hu": "A felfelé vezető út jutalma az egyik legjobb bécsi panoráma.",
+            "ro": "Urcarea este răsplătită cu una dintre cele mai bune vederi panoramice ale Vienei.",
+            "en": "The uphill walk is rewarded with one of the best panoramic views of Vienna."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen nahe Schönbrunn",
+            "hu": "Ebéd Schönbrunn közelében",
+            "ro": "Prânz lângă Schönbrunn",
+            "en": "Lunch near Schönbrunn"
+          },
+          "coords": [
+            16.318,
+            48.187
+          ],
+          "category": "gastro",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach einem Heurigen in der Nähe für ein traditionelles Erlebnis.",
+            "hu": "Keressen egy közeli Heurigent a hagyományos élményért.",
+            "ro": "Căutați un 'Heuriger' (tavernă de vin) în apropiere pentru o experiență tradițională.",
+            "en": "Look for a nearby 'Heuriger' (wine tavern) for a traditional experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Belvedere",
+            "hu": "Belvedere-kastély",
+            "ro": "Palatul Belvedere",
+            "en": "Belvedere Palace"
+          },
+          "coords": [
+            16.3808,
+            48.1914
+          ],
+          "category": "museum",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das Obere Belvedere beherbergt 'Der Kuss' von Gustav Klimt.",
+            "hu": "A Felső-Belvedere ad otthont Gustav Klimt 'A csók' című festményének.",
+            "ro": "Belvedere-ul Superior găzduiește 'Sărutul' de Gustav Klimt.",
+            "en": "The Upper Belvedere is home to 'The Kiss' by Gustav Klimt."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Gärten",
+            "hu": "Belvedere-kert",
+            "ro": "Grădinile Belvedere",
+            "en": "Belvedere Gardens"
+          },
+          "coords": [
+            16.3813,
+            48.1945
+          ],
+          "category": "garden",
+          "arrive_at": "14:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie bergab zum Unteren Belvedere für die beste Aussicht auf das Schloss.",
+            "hu": "Sétáljon lefelé az Alsó-Belvedere felé a legjobb kilátásért a kastélyra.",
+            "ro": "Plimbați-vă la vale spre Belvedere-ul Inferior pentru cea mai bună priveliște a palatului.",
+            "en": "Walk downhill towards the Lower Belvedere for the best view of the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kahlenberg",
+            "hu": "Kahlenberg",
+            "ro": "Dealul Kahlenberg",
+            "en": "Kahlenberg Hill"
+          },
+          "coords": [
+            16.35,
+            48.2764
+          ],
+          "category": "sunset",
+          "arrive_at": "16:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang über Wien und den Weinbergen zu beobachten.",
+            "hu": "Tökéletes hely a naplemente megtekintésére Bécs és a szőlőültetvények felett.",
+            "ro": "Locul perfect pentru a privi apusul peste Viena și podgorii.",
+            "en": "The perfect spot to watch the sunset over Vienna and the surrounding vineyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Fahrt zum prächtigen Schloss Schönbrunn, der ehemaligen Sommerresidenz der Habsburger. Nach der Erkundung des Palastes und der Gärten fahren Sie zum Schloss Belvedere, um Klimts 'Kuss' zu bewundern. Der Nachmittag führt Sie aus der Stadt hinaus in die Wienerwaldhügel zum Kahlenberg. Von hier aus genießen Sie einen atemberaubenden Panoramablick auf die Stadt im Licht der untergehenden Sonne.",
+        "hu": "A nap a csodálatos Schönbrunni kastélyhoz, a Habsburgok egykori nyári rezidenciájához való autózással kezdődik. A kastély és a kertek felfedezése után a Belvedere-kastélyhoz hajt, hogy megcsodálja Klimt 'A csók' című művét. A délután a városból a Bécsi-erdő hegyeibe, a Kahlenbergre vezet. Innen lélegzetelállító panorámában gyönyörködhet a lemenő nap fényében úszó városban.",
+        "ro": "Ziua începe cu o călătorie cu mașina la magnificul Palat Schönbrunn, fosta reședință de vară a Habsburgilor. După explorarea palatului și a grădinilor, conduceți spre Palatul Belvedere pentru a admira 'Sărutul' lui Klimt. După-amiaza vă scoate din oraș spre dealurile Pădurii Vieneze, la Kahlenberg. De aici, vă bucurați de o vedere panoramică uluitoare a orașului în lumina apusului.",
+        "en": "The day begins with a drive to the magnificent Schönbrunn Palace, the former summer residence of the Habsburgs. After exploring the palace and gardens, you'll drive to the Belvedere Palace to admire Klimt's 'The Kiss'. The afternoon takes you out of the city to the Vienna Woods hills at Kahlenberg. From here, you'll enjoy a breathtaking panoramic view of the city in the light of the setting sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger im Wienerwald",
+            "tip": "Probieren Sie lokalen Wein und eine Brettljause (kalte Platte) in einer traditionellen Weinstube."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein fluffiger, zerrissener Pfannkuchen, oft mit Puderzucker und Fruchtkompott serviert."
+          },
+          {
+            "name": "Tafelspitz",
+            "tip": "Gekochtes Rindfleisch, ein klassisches Gericht, das Kaiser Franz Joseph liebte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger a Bécsi-erdőben",
+            "tip": "Kóstoljon helyi bort és egy 'Brettljause'-t (hidegtálat) egy hagyományos borozóban."
+          },
+          {
+            "name": "Császármorzsa (Kaiserschmarrn)",
+            "tip": "Könnyű, tépett palacsinta, gyakran porcukorral és gyümölcskompóttal tálalva."
+          },
+          {
+            "name": "Tafelspitz",
+            "tip": "Főtt marhahús, klasszikus étel, amelyet Ferenc József császár is kedvelt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger în Pădurea Vieneză",
+            "tip": "Gustați vin local și un 'Brettljause' (platou rece) la o tavernă tradițională."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită pufoasă, ruptă, adesea servită cu zahăr pudră și compot de fructe."
+          },
+          {
+            "name": "Tafelspitz",
+            "tip": "Carne de vită fiartă, un fel de mâncare clasic iubit de împăratul Franz Joseph."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger in the Vienna Woods",
+            "tip": "Try local wine and a 'Brettljause' (cold platter) at a traditional wine tavern."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A fluffy shredded pancake, often served with powdered sugar and fruit compote."
+          },
+          {
+            "name": "Tafelspitz",
+            "tip": "Boiled beef, a classic dish beloved by Emperor Franz Joseph."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kahlenberg",
+            "tip": "Der ultimative Panoramablick auf die Stadt, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lainzer Tiergarten",
+            "tip": "Ein riesiges Naturschutzgebiet, in dem Sie Wildschweinen und Hirschen begegnen können.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zentralfriedhof",
+            "tip": "Besuchen Sie die Gräber von Beethoven, Brahms und Falco in dieser ruhigen, parkähnlichen Anlage.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kahlenberg",
+            "tip": "A városra nyíló legszebb panoráma, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lainzi Vadaspark",
+            "tip": "Hatalmas természetvédelmi terület, ahol vaddisznókkal és szarvasokkal találkozhat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Központi Temető (Zentralfriedhof)",
+            "tip": "Látogassa meg Beethoven, Brahms és Falco sírját ebben a csendes, parkszerű létesítményben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Kahlenberg",
+            "tip": "Priveliștea panoramică supremă a orașului, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lainzer Tiergarten",
+            "tip": "O rezervație naturală uriașă unde puteți întâlni porci mistreți și căprioare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Central (Zentralfriedhof)",
+            "tip": "Vizitați mormintele lui Beethoven, Brahms și Falco în acest loc liniștit, asemănător unui parc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kahlenberg Hill",
+            "tip": "The ultimate panoramic viewpoint over the city, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lainzer Tiergarten",
+            "tip": "A vast nature preserve where you can encounter wild boars and deer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Central Cemetery (Zentralfriedhof)",
+            "tip": "Visit the graves of Beethoven, Brahms, and Falco in this quiet, park-like setting.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Shopping City Süd",
+            "tip": "Eines der größten Einkaufszentren Europas, etwas außerhalb der Stadt."
+          },
+          {
+            "name": "Weingüter am Kahlenberg",
+            "tip": "Kaufen Sie lokalen Wein direkt vom Erzeuger nach der Verkostung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shopping City Süd",
+            "tip": "Európa egyik legnagyobb bevásárlóközpontja, kissé a városon kívül."
+          },
+          {
+            "name": "Borpincészetek a Kahlenbergen",
+            "tip": "Vásároljon helyi bort közvetlenül a termelőtől a kóstolás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Shopping City Süd",
+            "tip": "Unul dintre cele mai mari centre comerciale din Europa, situat chiar în afara orașului."
+          },
+          {
+            "name": "Cramele de pe Kahlenberg",
+            "tip": "Cumpărați vin local direct de la producător după o degustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping City Süd",
+            "tip": "One of Europe's largest shopping centers, located just outside the city."
+          },
+          {
+            "name": "Wineries on Kahlenberg",
+            "tip": "Buy local wine directly from the producer after your tasting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie das Fahren im Stadtzentrum; nutzen Sie Park & Ride-Anlagen am Stadtrand.",
+          "Ein 'Pickerl' (Vignette) ist für die Fahrt auf österreichischen Autobahnen erforderlich.",
+          "Parken in Wien ist kompliziert und teuer; prüfen Sie die Kurzparkzonen genau.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Stoßzeiten."
+        ],
+        "hu": [
+          "Kerülje a vezetést a belvárosban; használja a város szélén található P+R parkolókat.",
+          "Az osztrák autópályákon való közlekedéshez matrica ('Pickerl') szükséges.",
+          "A parkolás Bécsben bonyolult és drága; alaposan ellenőrizze a rövid távú parkolási zónákat.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Evitați să conduceți în centrul orașului; folosiți facilitățile Park & Ride de la periferie.",
+          "O vinietă ('Pickerl') este necesară pentru a conduce pe autostrăzile austriece.",
+          "Parcarea în Viena este complicată și scumpă; verificați cu atenție zonele de parcare pe termen scurt.",
+          "Planificați timp suplimentar pentru trafic, în special în orele de vârf."
+        ],
+        "en": [
+          "Avoid driving in the city center; use Park & Ride facilities on the outskirts.",
+          "A 'Pickerl' (vignette) is required for driving on Austrian motorways.",
+          "Parking in Vienna is complicated and expensive; check the short-term parking zones carefully.",
+          "Allow extra time for traffic, especially during rush hour."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:59",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stephansdom",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Sfântul Ștefan",
+            "en": "St. Stephen's Cathedral"
+          },
+          "coords": [
+            16.3738,
+            48.2082
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der U-Bahnhof Stephansplatz (U1, U3) bringt Sie direkt ins Herz der Stadt.",
+            "hu": "A Stephansplatz metróállomás (U1, U3) közvetlenül a város szívébe visz.",
+            "ro": "Stația de metrou Stephansplatz (U1, U3) vă aduce direct în inima orașului.",
+            "en": "The Stephansplatz U-Bahn station (U1, U3) drops you right in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hofburg Palast",
+            "hu": "Hofburg",
+            "ro": "Palatul Hofburg",
+            "en": "Hofburg Palace"
+          },
+          "coords": [
+            16.3666,
+            48.2081
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang von Stephansdom durch die Innenstadt ist ein Erlebnis für sich.",
+            "hu": "A séta a Stephansdomtól a belvároson keresztül önmagában is élmény.",
+            "ro": "Plimbarea de la Catedrala Sf. Ștefan prin centrul orașului este o experiență în sine.",
+            "en": "The walk from St. Stephen's through the city center is an experience in itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlskirche",
+            "hu": "Károly-templom",
+            "ro": "Biserica Sfântul Carol (Karlskirche)",
+            "en": "St. Charles's Church"
+          },
+          "coords": [
+            16.372,
+            48.1983
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Panoramaaufzug im Inneren für einen genauen Blick auf die Deckenfresken.",
+            "hu": "Használja a belső panorámaliftet, hogy közelről megnézhesse a mennyezeti freskókat.",
+            "ro": "Luați liftul panoramic din interior pentru o privire de aproape la frescele de pe tavan.",
+            "en": "Take the panoramic elevator inside for a close-up look at the ceiling frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Naschmarkt",
+            "hu": "Ebéd a Naschmarkton",
+            "ro": "Prânz la Piața Naschmarkt",
+            "en": "Lunch at Naschmarkt"
+          },
+          "coords": [
+            16.3653,
+            48.1994
+          ],
+          "category": "gastro",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Gerichte aus aller Welt an den zahlreichen Essensständen.",
+            "hu": "Kóstoljon ételeket a világ minden tájáról a számos ételstandnál.",
+            "ro": "Încercați mâncăruri din întreaga lume la numeroasele standuri alimentare.",
+            "en": "Sample dishes from all over the world at the numerous food stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "MuseumsQuartier",
+            "hu": "Múzeumnegyed",
+            "ro": "Cartierul Muzeelor",
+            "en": "MuseumsQuartier"
+          },
+          "coords": [
+            16.3598,
+            48.204
+          ],
+          "category": "museum",
+          "arrive_at": "14:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Leopold Museum für Schiele und Klimt oder entspannen Sie einfach im Innenhof.",
+            "hu": "Látogassa meg a Leopold Múzeumot Schiele és Klimt műveiért, vagy csak pihenjen a belső udvaron.",
+            "ro": "Vizitați Muzeul Leopold pentru Schiele și Klimt sau pur și simplu relaxați-vă în curtea interioară.",
+            "en": "Visit the Leopold Museum for Schiele and Klimt, or just relax in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Albertina Museum",
+            "hu": "Albertina Múzeum",
+            "ro": "Muzeul Albertina",
+            "en": "Albertina Museum"
+          },
+          "coords": [
+            16.3683,
+            48.2047
+          ],
+          "category": "museum",
+          "arrive_at": "16:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Terrasse bietet einen berühmten Blick über die Wiener Staatsoper.",
+            "hu": "A teraszról híres kilátás nyílik a Bécsi Állami Operaházra.",
+            "ro": "Terasa oferă o priveliște renumită asupra Operei de Stat din Viena.",
+            "en": "The terrace offers a famous viewpoint over the Vienna State Opera."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Herzen Wiens, am Stephansdom. Nach der Erkundung der Hofburg bringt Sie die U-Bahn zur beeindruckenden Karlskirche. Nach einem multikulturellen Mittagessen am Naschmarkt geht es weiter ins MuseumsQuartier, einem Zentrum für moderne Kunst. Der Tag endet im Albertina Museum, das nicht nur Meisterwerke, sondern auch eine fantastische Aussicht auf die Oper bietet, während der Abend anbricht.",
+        "hu": "A nap Bécs szívében, a Szent István-székesegyháznál kezdődik. A Hofburg felfedezése után a metró a lenyűgöző Károly-templomhoz visz. Egy multikulturális ebéd után a Naschmarkton a Múzeumnegyed, a modern művészet központja felé veszi az irányt. A nap az Albertina Múzeumban ér véget, amely nemcsak mesterműveket, hanem fantasztikus kilátást is nyújt az Operaházra az este leszálltával.",
+        "ro": "Ziua începe în inima Vienei, la Catedrala Sf. Ștefan. După explorarea Palatului Hofburg, metroul vă duce la impresionanta Biserică Sf. Carol. După un prânz multicultural la Piața Naschmarkt, vă îndreptați spre Cartierul Muzeelor, un centru de artă modernă. Ziua se încheie la Muzeul Albertina, care oferă nu numai capodopere, ci și o priveliște fantastică asupra Operei, pe măsură ce se lasă seara.",
+        "en": "The day starts in the heart of Vienna at St. Stephen's Cathedral. After exploring the Hofburg, the U-Bahn takes you to the impressive St. Charles's Church. After a multicultural lunch at Naschmarkt, you'll head to the MuseumsQuartier, a hub of modern art. The day concludes at the Albertina Museum, offering not just masterpieces but also a fantastic view of the Opera as evening sets in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Essen am Naschmarkt",
+            "tip": "Probieren Sie Falafel, Meeresfrüchte oder orientalische Spezialitäten."
+          },
+          {
+            "name": "Trzesniewski",
+            "tip": "Berühmt für seine winzigen, offenen Sandwiches ('Brötchen')."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Ein historisches Kaffeehaus, das einst von Freud und Trotzki besucht wurde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étkezés a Naschmarkton",
+            "tip": "Kóstoljon falafelt, tenger gyümölcseit vagy keleti specialitásokat."
+          },
+          {
+            "name": "Trzesniewski",
+            "tip": "Híres az apró, nyitott szendvicseiről ('Brötchen')."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Történelmi kávéház, amelyet egykor Freud és Trockij is látogatott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncare la Naschmarkt",
+            "tip": "Încercați falafel, fructe de mare sau specialități orientale."
+          },
+          {
+            "name": "Trzesniewski",
+            "tip": "Renumit pentru sandvișurile sale mici, deschise ('Brötchen')."
+          },
+          {
+            "name": "Café Central",
+            "tip": "O cafenea istorică, frecventată odinioară de Freud și Troțki."
+          }
+        ],
+        "en": [
+          {
+            "name": "Food at Naschmarkt",
+            "tip": "Try falafel, seafood, or oriental specialties."
+          },
+          {
+            "name": "Trzesniewski",
+            "tip": "Famous for its tiny, open-faced sandwiches ('Brötchen')."
+          },
+          {
+            "name": "Café Central",
+            "tip": "A historic coffeehouse once frequented by Freud and Trotsky."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof der Namenlosen",
+            "tip": "Ein kleiner, melancholischer Friedhof für die unbekannten Opfer der Donau.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der Schmetterlinghaus",
+            "tip": "Ein tropisches Gewächshaus voller frei fliegender Schmetterlinge im Burggarten.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Alte Donau",
+            "tip": "Mieten Sie ein Tretboot und genießen Sie die Ruhe auf diesem alten Arm der Donau.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Névtelenek Temetője",
+            "tip": "Kicsi, melankolikus temető a Duna ismeretlen áldozatainak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pillangóház (Schmetterlinghaus)",
+            "tip": "Trópusi üvegház tele szabadon repkedő pillangókkal a Burggartenben.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Öreg-Duna (Alte Donau)",
+            "tip": "Béreljen vízibiciklit és élvezze a nyugalmat a Duna ezen régi ágán.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul celor fără nume",
+            "tip": "Un cimitir mic și melancolic pentru victimele necunoscute ale Dunării.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Casa Fluturilor (Schmetterlinghaus)",
+            "tip": "O seră tropicală plină de fluturi care zboară liber în Burggarten.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Dunărea Veche (Alte Donau)",
+            "tip": "Închiriați o hidrobicicletă și bucurați-vă de liniște pe acest vechi braț al Dunării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery of the Nameless",
+            "tip": "A small, melancholic cemetery for the unknown victims of the Danube.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The Butterfly House (Schmetterlinghaus)",
+            "tip": "A tropical greenhouse full of free-flying butterflies in the Burggarten.",
+            "emoji": "🦋"
+          },
+          {
+            "name": "Old Danube (Alte Donau)",
+            "tip": "Rent a paddleboat and enjoy the tranquility on this old arm of the Danube.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Samstags-Flohmarkt am Naschmarkt",
+            "tip": "Ein riesiger Flohmarkt, perfekt für die Suche nach Antiquitäten und Kuriositäten."
+          },
+          {
+            "name": "Die Kärntner Straße",
+            "tip": "Die Hauptfußgängerzone, die den Stephansplatz mit der Oper verbindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szombati bolhapiac a Naschmarkton",
+            "tip": "Hatalmas bolhapiac, tökéletes régiségek és érdekességek felkutatására."
+          },
+          {
+            "name": "Kärntner Straße",
+            "tip": "A fő sétálóutca, amely a Stephansplatzot köti össze az Operával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târgul de vechituri de sâmbătă de la Naschmarkt",
+            "tip": "Un târg de vechituri imens, perfect pentru a căuta antichități și curiozități."
+          },
+          {
+            "name": "Strada Kärntner",
+            "tip": "Principala zonă pietonală care leagă Piața Sf. Ștefan de Operă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saturday Flea Market at Naschmarkt",
+            "tip": "A huge flea market, perfect for hunting for antiques and curiosities."
+          },
+          {
+            "name": "Kärntner Straße",
+            "tip": "The main pedestrian shopping street connecting St. Stephen's Square to the Opera."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 24-Stunden- oder 48-Stunden-Karte für unbegrenzte Fahrten.",
+          "Die Wiener Linien App ist nützlich für die Routenplanung in Echtzeit.",
+          "Vergessen Sie nicht, Ihr Ticket vor der ersten Fahrt zu entwerten.",
+          "Die U-Bahn ist der schnellste Weg, um größere Entfernungen in der Stadt zurückzulegen."
+        ],
+        "hu": [
+          "Vásároljon 24 vagy 48 órás jegyet a korlátlan utazáshoz.",
+          "A Wiener Linien alkalmazás hasznos a valós idejű útvonaltervezéshez.",
+          "Ne felejtse el érvényesíteni a jegyét az első utazás előtt.",
+          "A metró a leggyorsabb módja a nagyobb távolságok megtételének a városban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 sau 48 de ore pentru călătorii nelimitate.",
+          "Aplicația Wiener Linien este utilă pentru planificarea rutelor în timp real.",
+          "Nu uitați să vă validați biletul înainte de prima călătorie.",
+          "Metroul este cel mai rapid mod de a parcurge distanțe mai mari în oraș."
+        ],
+        "en": [
+          "Buy a 24-hour or 48-hour pass for unlimited travel.",
+          "The Wiener Linien app is useful for real-time route planning.",
+          "Don't forget to validate your ticket before your first journey.",
+          "The U-Bahn (subway) is the fastest way to cover longer distances in the city."
+        ]
+      }
+    }
+  }
+}

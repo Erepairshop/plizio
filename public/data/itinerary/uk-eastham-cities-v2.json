@@ -1,0 +1,836 @@
+{
+  "city_id": "uk-eastham-cities-v2",
+  "anchor": {
+    "name": "Eastham",
+    "coords": [
+      53.313,
+      -2.962
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "St Mary's Church",
+          "coords": [
+            53.3135,
+            -2.964
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die 1000-jährige Eibe.",
+            "hu": "Nézze meg az 1000 éves tiszafát.",
+            "ro": "Vizitați tisa de 1000 de ani.",
+            "en": "Visit the 1000-year-old yew tree."
+          }
+        },
+        {
+          "name": "Eastham Village (Old Core)",
+          "coords": [
+            53.314,
+            -2.965
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Reetdachhäuser.",
+            "hu": "Csodálja meg a nádtetős házakat.",
+            "ro": "Admirați căsuțele cu acoperiș de stuf.",
+            "en": "Admire the thatched cottages."
+          }
+        },
+        {
+          "name": "Eastham Country Park",
+          "coords": [
+            53.318,
+            -2.958
+          ],
+          "category": "natural",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Reste der Lustgärten.",
+            "hu": "Fedezze fel a szórakoztató kertek maradványait.",
+            "ro": "Descoperiți resturile grădinilor de agrement.",
+            "en": "Discover the remains of the pleasure gardens."
+          }
+        },
+        {
+          "name": "Lunch at The Tap",
+          "coords": [
+            53.321,
+            -2.955
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historisches Pub mit Mersey-Blick.",
+            "hu": "Történelmi pub Mersey-kilátással.",
+            "ro": "Pub istoric cu vedere spre Mersey.",
+            "en": "Historic pub with Mersey views."
+          }
+        },
+        {
+          "name": "Manchester Ship Canal Locks",
+          "coords": [
+            53.322,
+            -2.953
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie große Schiffe.",
+            "hu": "Figyeljen meg hatalmas hajókat.",
+            "ro": "Urmăriți navele mari.",
+            "en": "Watch large ships passing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang durch die Geschichte der Wirral. Von der uralten Eibe in der Kirche bis zu den beeindruckenden Kanalschleusen am Mersey.",
+        "hu": "Egy pihentető séta a Wirral történelmén keresztül. A templom ősi tiszafájától a Mersey-nél található lenyűgöző csatornazsilipekig.",
+        "ro": "O plimbare relaxantă prin istoria Wirral. De la tisa străveche din biserică la ecluzele impresionante ale canalului de pe Mersey.",
+        "en": "A relaxed walk through the history of the Wirral. From the ancient yew tree in the church to the impressive canal locks on the Mersey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Ferry Hotel",
+            "tip": "Traditionelle britische Gerichte am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Ferry Hotel",
+            "tip": "Hagyományos brit ételek a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Ferry Hotel",
+            "tip": "Mâncăruri tradiționale britanice pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Ferry Hotel",
+            "tip": "Traditional British dishes by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eastham Woods",
+            "tip": "Schattige Pfade unter alten Eichen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eastham Woods",
+            "tip": "Árnyas ösvények ősi tölgyek alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile Eastham",
+            "tip": "Poteci umbroase sub stejari străvechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Eastham Woods",
+            "tip": "Shady paths under ancient oaks.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Craft Fairs",
+            "tip": "Gelegentlich im Country Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves vásárok",
+            "tip": "Alkalmanként a Country Parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târguri de artizanat locale",
+            "tip": "Ocazional în Country Park."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Fairs",
+            "tip": "Occasionally held in the Country Park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein Fernglas für die Schiffsbeobachtung mit.",
+          "Eastham ist sonntags sehr ruhig."
+        ],
+        "hu": [
+          "Hozzon távcsövet a hajómegfigyeléshez.",
+          "Eastham vasárnap nagyon csendes."
+        ],
+        "ro": [
+          "Aduceți binoclu pentru observarea navelor.",
+          "Eastham este foarte liniștit duminica."
+        ],
+        "en": [
+          "Bring binoculars for ship spotting.",
+          "Eastham is very quiet on Sundays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Eastham Village",
+          "coords": [
+            53.314,
+            -2.965
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger Start im Dorf.",
+            "hu": "Csendes kezdés a faluban.",
+            "ro": "Început liniștit în sat.",
+            "en": "Quiet start in the village."
+          }
+        },
+        {
+          "name": "Eastham Country Park",
+          "coords": [
+            53.318,
+            -2.958
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radfahren auf den Waldwegen.",
+            "hu": "Kerékpározás az erdei utakon.",
+            "ro": "Mersul cu bicicleta pe potecile din pădure.",
+            "en": "Cycling on the woodland paths."
+          }
+        },
+        {
+          "name": "Manchester Ship Canal (Locks)",
+          "coords": [
+            53.322,
+            -2.953
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sehen Sie die Schleusentore.",
+            "hu": "Nézze meg a zsilipkapukat.",
+            "ro": "Vedeți porțile ecluzelor.",
+            "en": "See the lock gates."
+          }
+        },
+        {
+          "name": "Mersey Estuary Path",
+          "coords": [
+            53.33,
+            -2.945
+          ],
+          "category": "natural",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Blick auf das gegenüberliegende Ufer.",
+            "hu": "Kilátás a szemközti partra.",
+            "ro": "Vedere spre malul opus.",
+            "en": "View of the opposite shore."
+          }
+        },
+        {
+          "name": "Queen's Park",
+          "coords": [
+            53.31,
+            -2.98
+          ],
+          "category": "recreational",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein lokaler Erholungspark.",
+            "hu": "Helyi kikapcsolódási park.",
+            "ro": "Un parc local de recreere.",
+            "en": "A local recreation park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Eastham und seine grüne Umgebung auf zwei Rädern. Die Tour verbindet das historische Dorf mit der industriellen Kraft des Kanals.",
+        "hu": "Fedezze fel Easthamet és zöld környezetét két keréken. A túra összeköti a történelmi falut a csatorna ipari erejével.",
+        "ro": "Explorați Eastham și împrejurimile sale verzi pe două roți. Turul conectează satul istoric cu puterea industrială a canalului.",
+        "en": "Explore Eastham and its green surroundings on two wheels. The tour connects the historic village with the industrial power of the canal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Tap Pub",
+            "tip": "Perfekter Stopp für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Tap Pub",
+            "tip": "Tökéletes megálló bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Tap Pub",
+            "tip": "Oprire perfectă pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Tap Pub",
+            "tip": "Perfect stop for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "River Mersey Banks",
+            "tip": "Ruhe am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mersey-folyó partja",
+            "tip": "Nyugalom a víznél.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mersey",
+            "tip": "Liniște lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Mersey Banks",
+            "tip": "Tranquility by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eastham Post Office",
+            "tip": "Lokale Souvenirs und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eastham posta",
+            "tip": "Helyi szuvenírek és kártyák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poșta Eastham",
+            "tip": "Suveniruri și cărți locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eastham Post Office",
+            "tip": "Local souvenirs and cards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Wege im Park können eng sein, achten Sie auf Fußgänger.",
+          "Die Route am Kanal ist sehr eben."
+        ],
+        "hu": [
+          "Néhány ösvény a parkban szűk lehet, figyeljen a gyalogosokra.",
+          "Az útvonal a csatornánál nagyon sík."
+        ],
+        "ro": [
+          "Unele poteci din parc pot fi înguste, atenție la pietoni.",
+          "Traseul de lângă canal este foarte plat."
+        ],
+        "en": [
+          "Some paths in the park can be narrow, watch out for pedestrians.",
+          "The route by the canal is very flat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "St Mary's Church",
+          "coords": [
+            53.3135,
+            -2.964
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kleiner Parkplatz vor der Kirche.",
+            "hu": "Kis parkoló a templom előtt.",
+            "ro": "Mică parcare în fața bisericii.",
+            "en": "Small parking area in front of the church."
+          }
+        },
+        {
+          "name": "Eastham Country Park",
+          "coords": [
+            53.318,
+            -2.958
+          ],
+          "category": "natural",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großer Hauptparkplatz vorhanden.",
+            "hu": "Nagy főparkoló rendelkezésre áll.",
+            "ro": "Parcare principală mare disponibilă.",
+            "en": "Large main car park available."
+          }
+        },
+        {
+          "name": "Eastham Ferry & Locks",
+          "coords": [
+            53.322,
+            -2.953
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Blick auf den Manchester Ship Canal.",
+            "hu": "Kilátás a Manchesteri-hajócsatornára.",
+            "ro": "Vedere spre Canalul Navigabil Manchester.",
+            "en": "View of the Manchester Ship Canal."
+          }
+        },
+        {
+          "name": "Lunch at The Tap",
+          "coords": [
+            53.321,
+            -2.955
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beliebter Stopp für Ausflügler.",
+            "hu": "Népszerű megálló kirándulóknak.",
+            "ro": "Oprire populară pentru excursioniști.",
+            "en": "Popular stop for day-trippers."
+          }
+        },
+        {
+          "name": "Port Sunlight (Nearby)",
+          "coords": [
+            53.35,
+            -2.99
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein kurzes Stück Fahrt zu diesem Modelldorf.",
+            "hu": "Egy rövid autóút ehhez a modellfaluhoz.",
+            "ro": "O scurtă călătorie până la acest sat model.",
+            "en": "A short drive to this model village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um Eastham und das nahe gelegene Port Sunlight zu verbinden. Erleben Sie viktorianische Planung und maritime Industriegeschichte.",
+        "hu": "Használja az autót Eastham és a közeli Port Sunlight összekapcsolásához. Tapasztalja meg a viktoriánus tervezést és a tengeri ipartörténetet.",
+        "ro": "Folosiți mașina pentru a conecta Eastham și Port Sunlight din apropiere. Experimentați planificarea victoriană și istoria industrială maritimă.",
+        "en": "Use the car to connect Eastham and nearby Port Sunlight. Experience Victorian planning and maritime industrial history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Argyll",
+            "tip": "Britisches Pub-Essen im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Argyll",
+            "tip": "Brit pub ételek a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Argyll",
+            "tip": "Mâncare de pub britanic în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Argyll",
+            "tip": "British pub food in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ferry Slipway",
+            "tip": "Stille am Ende des Tages.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferry rámpa",
+            "tip": "Csend a nap végén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rampa de feribot",
+            "tip": "Liniște la finalul zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferry Slipway",
+            "tip": "Quiet at the end of the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bromborough Retail Park",
+            "tip": "Große Auswahl in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bromborough Retail Park",
+            "tip": "Nagy választék a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bromborough Retail Park",
+            "tip": "O gamă largă în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bromborough Retail Park",
+            "tip": "Wide selection nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die M53 Autobahn ist nah für eine schnelle Anreise.",
+          "Der Country Park hat gute Picknickplätze."
+        ],
+        "hu": [
+          "Az M53-as autópálya közel van a gyors érkezéshez.",
+          "A Country Park jó piknikezőhelyekkel rendelkezik."
+        ],
+        "ro": [
+          "Autostrada M53 este aproape pentru un acces rapid.",
+          "Country Park are locuri bune de picnic."
+        ],
+        "en": [
+          "The M53 motorway is close for a quick arrival.",
+          "The Country Park has good picnic spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Eastham Rake Station",
+          "coords": [
+            53.305,
+            -2.99
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ankunft mit der Merseyrail.",
+            "hu": "Érkezés a Merseyrail-lel.",
+            "ro": "Sosirea cu Merseyrail.",
+            "en": "Arrival with Merseyrail."
+          }
+        },
+        {
+          "name": "Eastham Village (Bus)",
+          "coords": [
+            53.314,
+            -2.965
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bus 38 verbindet Station und Dorf.",
+            "hu": "A 38-as busz összeköti az állomást és a falut.",
+            "ro": "Autobuzul 38 leagă gara de sat.",
+            "en": "Bus 38 connects station and village."
+          }
+        },
+        {
+          "name": "Eastham Country Park",
+          "coords": [
+            53.318,
+            -2.958
+          ],
+          "category": "natural",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Dorf.",
+            "hu": "Rövid séta a falutól.",
+            "ro": "Scurtă plimbare din sat.",
+            "en": "Short walk from the village."
+          }
+        },
+        {
+          "name": "Eastham Ferry (Transit Cluster)",
+          "coords": [
+            53.322,
+            -2.953
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Schleusen zu Fuß.",
+            "hu": "Fedezze fel a zsilipeket gyalog.",
+            "ro": "Explorați ecluzele pe jos.",
+            "en": "Explore the locks on foot."
+          }
+        },
+        {
+          "name": "Return to Station",
+          "coords": [
+            53.305,
+            -2.99
+          ],
+          "category": "civic",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Rückfahrt nach Liverpool oder Chester.",
+            "hu": "Visszautazás Liverpoolba vagy Chesterbe.",
+            "ro": "Întoarcerea spre Liverpool sau Chester.",
+            "en": "Return journey to Liverpool or Chester."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Merseyrail und lokale Busse. Ein kompakter Tag, der perfekt zeigt, wie gut Eastham an die Region angebunden ist.",
+        "hu": "Használja a Merseyrail-t és a helyi buszokat. Kompakt nap, amely tökéletesen megmutatja, milyen jól kapcsolódik Eastham a régióhoz.",
+        "ro": "Folosiți Merseyrail și autobuzele locale. O zi compactă care arată perfect cât de bine este conectat Eastham la regiune.",
+        "en": "Use the Merseyrail and local buses. A compact day that perfectly shows how well Eastham is connected to the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Hooton Hotel",
+            "tip": "In der Nähe der Station."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Hooton Hotel",
+            "tip": "Az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Hooton Hotel",
+            "tip": "În apropierea gării."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Hooton Hotel",
+            "tip": "Near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Yew Tree Bench",
+            "tip": "Sitzen Sie unter der alten Eibe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiszafa pad",
+            "tip": "Üljön le az ősi tiszafa alá.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banca de lângă tisa",
+            "tip": "Stați sub tisa străveche.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Yew Tree Bench",
+            "tip": "Sit under the ancient yew tree.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eastham Village Shop",
+            "tip": "Lokaler Treffpunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eastham falusi bolt",
+            "tip": "Helyi találkozóhely."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul din satul Eastham",
+            "tip": "Punct de întâlnire local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eastham Village Shop",
+            "tip": "Local meeting point."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Merseyrail Züge fahren alle 15 Minuten.",
+          "Achten Sie auf die Gezeiten am Mersey-Ufer."
+        ],
+        "hu": [
+          "A Merseyrail vonatok 15 percenként járnak.",
+          "Ügyeljen az árapályra a Mersey partján."
+        ],
+        "ro": [
+          "Trenurile Merseyrail circulă la fiecare 15 minute.",
+          "Fiți atenți la mareele de pe malul Mersey."
+        ],
+        "en": [
+          "Merseyrail trains run every 15 minutes.",
+          "Be aware of the tides on the Mersey shore."
+        ]
+      }
+    }
+  }
+}

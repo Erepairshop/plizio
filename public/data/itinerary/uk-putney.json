@@ -1,0 +1,236 @@
+{
+  "city_id": "uk-putney",
+  "anchor": {
+    "name": "Putney",
+    "coords": [
+      -0.2211,
+      51.4649
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Putney Bridge",
+          "coords": [
+            -0.2135,
+            51.4675
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginn des berühmten Boat Race.",
+            "hu": "A híres egyetemi evezősverseny rajtja.",
+            "ro": "Punctul de start al celebrei curse Boat Race.",
+            "en": "Start point of the famous Boat Race."
+          }
+        },
+        {
+          "name": "St Mary's Church",
+          "coords": [
+            -0.2128,
+            51.4665
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Café im Inneren.",
+            "hu": "Próbáld ki a belső kávézót.",
+            "ro": "Vizitați cafeneaua din interior.",
+            "en": "Visit the cafe inside."
+          }
+        },
+        {
+          "name": "Putney Sculpture Trail",
+          "coords": [
+            -0.215,
+            51.466
+          ],
+          "category": "cultural",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie die Skulpturen am Flussufer.",
+            "hu": "Keresd a szobrokat a folyóparton.",
+            "ro": "Căutați sculpturile de pe malul râului.",
+            "en": "Look for the sculptures along the river."
+          }
+        },
+        {
+          "name": "Putney Exchange",
+          "coords": [
+            -0.2175,
+            51.4625
+          ],
+          "category": "civic",
+          "arrive_at": "12:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für eine kurze Pause.",
+            "hu": "Ideális egy rövid pihenőre.",
+            "ro": "Ideal pentru o scurtă pauză.",
+            "en": "Ideal for a quick break."
+          }
+        },
+        {
+          "name": "Putney Arts Theatre",
+          "coords": [
+            -0.224,
+            51.461
+          ],
+          "category": "cultural",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie das lokale Programm.",
+            "hu": "Nézd meg a helyi műsort.",
+            "ro": "Verificați programul local.",
+            "en": "Check the local program."
+          }
+        },
+        {
+          "name": "Putney Heath",
+          "coords": [
+            -0.235,
+            51.4505
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Windmill Tearoom.",
+            "hu": "Látogasd meg a szélmalom teázót.",
+            "ro": "Vizitați ceainăria de la moară.",
+            "en": "Visit the Windmill Tearoom."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der Putney Bridge mit Blick auf die Ruderer. Nach dem Besuch der geschichtsträchtigen St Mary's Church folgen Sie dem Skulpturenweg entlang der Themse. Nach einem Bummel durch das Putney Exchange tauchen Sie in die weite Natur von Putney Heath ein, wo Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Kezdjen a Putney Bridge-en, figyelve az evezősöket. A történelmi Szent Mária-templom után kövesse a szoborsétányt a Temze mentén. A bevásárlóközpont után merüljön el a Putney Heath tágas természetében, ahol nyugodtan zárhatja a napot.",
+        "ro": "Începeți la Putney Bridge urmărind canotorii. După vizita la Biserica St Mary, urmați traseul sculpturilor pe malul Tamisei. După o plimbare prin Putney Exchange, relaxați-vă în natura vastă din Putney Heath, încheind ziua într-o notă liniștită.",
+        "en": "Start at Putney Bridge watching the rowers. After visiting historic St Mary's Church, follow the sculpture trail along the Thames. After a stroll through Putney Exchange, immerse yourself in the vast nature of Putney Heath for a relaxed end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Boathouse",
+            "tip": "Essen mit Blick auf die Themse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Boathouse",
+            "tip": "Étterem kilátással a Temzére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Boathouse",
+            "tip": "Masă cu vedere la Tamisa."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Boathouse",
+            "tip": "Dining with a view of the Thames."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Putney Heath",
+            "tip": "Weite Grünflächen zum Entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Putney Heath",
+            "tip": "Tágas zöldterületek pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Putney Heath",
+            "tip": "Spații verzi vaste pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Putney Heath",
+            "tip": "Vast green spaces for relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Putney Exchange",
+            "tip": "Beliebtes Einkaufszentrum im Viertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Putney Exchange",
+            "tip": "Népszerű helyi bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Putney Exchange",
+            "tip": "Centru comercial local popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Putney Exchange",
+            "tip": "Popular local shopping center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Spaziergang am Fluss ist am schönsten bei Ebbe.",
+          "Buchen Sie das Arts Theatre im Voraus."
+        ],
+        "hu": [
+          "A folyóparti séta apálykor a legszebb.",
+          "Foglald le előre a színházjegyeket."
+        ],
+        "ro": [
+          "Plimbarea pe malul râului este cea mai frumoasă la reflux.",
+          "Rezervați biletele la teatru în avans."
+        ],
+        "en": [
+          "Riverside walk is best at low tide.",
+          "Book Arts Theatre tickets in advance."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,929 @@
+{
+  "city_id": "ho-chi-minh-city-cities-v2",
+  "anchor": {
+    "name": "District 1 (Saigon)",
+    "coords": [
+      106.6967,
+      10.7761
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kriegsopfermuseum",
+            "hu": "Háborús Emlékmúzeum",
+            "ro": "Muzeul Rămășițelor de Război",
+            "en": "War Remnants Museum"
+          },
+          "coords": [
+            106.6925,
+            10.7794
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ergreifende Ausstellungen, die einen bleibenden Eindruck hinterlassen.",
+            "hu": "Mélyen megindító kiállítások, amelyek tartós nyomot hagynak.",
+            "ro": "Expoziții emoționante care lasă o impresie de durată.",
+            "en": "Poignant exhibits that leave a lasting impression."
+          }
+        },
+        {
+          "name": {
+            "de": "Wiedervereinigungspalast",
+            "hu": "Újraegyesítési Palota",
+            "ro": "Palatul Reunificării",
+            "en": "Independence Palace"
+          },
+          "coords": [
+            106.6953,
+            10.777
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Zeitkapsel-Palast aus den 1960er Jahren.",
+            "hu": "Egy időkapszula-palota az 1960-as évekből.",
+            "ro": "Un palat capsulă a timpului din anii 1960.",
+            "en": "A time-capsule palace preserved from the 1960s."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame székesegyház",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre Dame Cathedral"
+          },
+          "coords": [
+            106.6991,
+            10.7797
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wahrzeichen aus roten Backsteinen aus Frankreich.",
+            "hu": "Franciaországból hozott vörös téglákból épült jelkép.",
+            "ro": "Simbol construit din cărămidă roșie adusă din Franța.",
+            "en": "Iconic landmark built with red bricks imported from France."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptpostamt",
+            "hu": "Központi Posta",
+            "ro": "Poșta Centrală",
+            "en": "Saigon Central Post Office"
+          },
+          "coords": [
+            106.6999,
+            10.7798
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entworfen von Gustave Eiffel, noch in Betrieb.",
+            "hu": "Gustave Eiffel tervezte, ma is aktív posta.",
+            "ro": "Proiectată de Gustave Eiffel, încă funcțională.",
+            "en": "Designed by Gustave Eiffel, it's still a working post office."
+          }
+        },
+        {
+          "name": {
+            "de": "Dong-Khoi-Straße (Mittag/Shopping)",
+            "hu": "Dong Khoi utca (Ebéd/Vásárlás)",
+            "ro": "Strada Dong Khoi (Prânz/Shopping)",
+            "en": "Dong Khoi Street (Lunch/Shopping)"
+          },
+          "coords": [
+            106.702,
+            10.775
+          ],
+          "category": "shopping",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Elegante Allee mit Cafés und Boutiquen.",
+            "hu": "Elegáns sugárút kávézókkal és butikokkal.",
+            "ro": "Bulevard elegant cu cafenele și buticuri.",
+            "en": "Elegant avenue lined with cafes and boutiques."
+          }
+        },
+        {
+          "name": {
+            "de": "Bitexco Financial Tower",
+            "hu": "Bitexco Financial Tower",
+            "ro": "Turnul Bitexco",
+            "en": "Bitexco Financial Tower"
+          },
+          "coords": [
+            106.7044,
+            10.7716
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick vom Saigon Skydeck bei Sonnenuntergang.",
+            "hu": "Élvezze a kilátást a Saigon Skydeckről naplementekor.",
+            "ro": "Bucurați-vă de vederea de pe Saigon Skydeck la apus.",
+            "en": "Enjoy the view from the Saigon Skydeck at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das dynamische Herz Saigons zu Fuß. Vom emotionalen Besuch des Kriegsmuseums über den prachtvollen Wiedervereinigungspalast bis hin zur französischen Architektur der Kathedrale und des Postamts. Der Tag endet modern mit einem Panoramablick über die Millionenstadt.",
+        "hu": "Fedezze fel Saigon dinamikus szívét gyalog. A háborús múzeum érzelemdús látogatásától a pompás Újraegyesítési palotáig, majd a katedrális és a posta francia építészetéig. A napot modern stílusban, a metropolisz panorámájával zárjuk.",
+        "ro": "Descoperiți inima dinamică a Saigonului la pas. De la vizita emoționantă la muzeul războiului, la palatul reunificării și arhitectura franceză a catedralei și poștei. Ziua se încheie modern, cu o panoramă asupra metropolei.",
+        "en": "Discover the dynamic heart of Saigon on foot. From the emotional visit to the War Remnants Museum to the grand Independence Palace and the French architecture of the Cathedral and Post Office. The day ends in modern style with a panoramic view of the metropolis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bếp Mẹ Ỉn",
+            "tip": "Hervorragendes Streetfood in schickem Ambiente."
+          },
+          {
+            "name": "Pizza 4P's",
+            "tip": "Legendäre handgemachte Pizza mit vietnamesischem Touch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bếp Mẹ Ỉn",
+            "tip": "Kiváló utcai étel elegáns környezetben."
+          },
+          {
+            "name": "Pizza 4P's",
+            "tip": "Legendás kézműves pizza vietnámi beütéssel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bếp Mẹ Ỉn",
+            "tip": "Street food excelent într-un ambient șic."
+          },
+          {
+            "name": "Pizza 4P's",
+            "tip": "Pizza artizanală legendară cu o notă vietnameză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bếp Mẹ Ỉn",
+            "tip": "Excellent street food in a chic setting."
+          },
+          {
+            "name": "Pizza 4P's",
+            "tip": "Legendary artisan pizza with a Vietnamese touch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tao-Dan-Park",
+            "tip": "Grüne Lunge mit Vogelgezwitscher am Morgen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tao Dan park",
+            "tip": "Zöld sziget madárcsicsergéssel a reggeli órákban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Tao Dan",
+            "tip": "Oază verde cu cântece de păsări dimineața.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tao Dan Park",
+            "tip": "Green lung where locals bring their birds in the morning.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bến-Thành-Markt",
+            "tip": "Der berühmteste Markt für Souvenirs und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ben Thanh piac",
+            "tip": "A leghíresebb piac szuvenírekhez és falatokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Ben Thanh",
+            "tip": "Cea mai faimoasă piață pentru suveniruri și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ben Thanh Market",
+            "tip": "The most famous market for souvenirs and local snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überqueren Sie Straßen langsam und stetig; die Mopedfahrer weichen Ihnen aus.",
+          "Das Postamt schließt sonntags früher."
+        ],
+        "hu": [
+          "Lassan és egyenletesen keljen át az úton; a motorosok kikerülik Önt.",
+          "A posta vasárnap korábban zár."
+        ],
+        "ro": [
+          "Traversați strada lent și constant; motocicliștii vă vor ocoli.",
+          "Poșta se închide mai devreme duminica."
+        ],
+        "en": [
+          "Cross roads slowly and steadily; motorbike riders will dodge around you.",
+          "The post office closes earlier on Sundays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jade-Kaiser-Pagode",
+            "hu": "Jáde császár pagoda",
+            "ro": "Pagoda Împăratului de Jad",
+            "en": "Jade Emperor Pagoda"
+          },
+          "coords": [
+            106.7001,
+            10.7918
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Tempel mit dichter Weihrauchatmosphäre.",
+            "hu": "Gyönyörű templom sűrű füstölő-illattal és misztikus hangulattal.",
+            "ro": "Templu superb cu o atmosferă densă de tămâie.",
+            "en": "A beautiful temple with a dense atmosphere of incense."
+          }
+        },
+        {
+          "name": {
+            "de": "Saigon Zoo & Botanischer Garten",
+            "hu": "Saigoni Állat- és Botanikus Kert",
+            "ro": "Grădina Zoologică și Botanică",
+            "en": "Saigon Zoo & Botanical Garden"
+          },
+          "coords": [
+            106.7049,
+            10.7875
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspanntes Radfahren auf den breiten Wegen.",
+            "hu": "Kellemes kerékpározás a széles ösvényeken.",
+            "ro": "Ciclism relaxat pe aleile largi ale grădinii.",
+            "en": "Relaxing cycling along the wide pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Vinh-Mes-Brücke / Flussufer",
+            "hu": "Vinh Mes híd / Folyópart",
+            "ro": "Podul Vinh Mes / Malul râului",
+            "en": "Vinh Mes Bridge / Riverside"
+          },
+          "coords": [
+            106.7083,
+            10.7725
+          ],
+          "category": "park",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Moderner Radweg am Saigon-Fluss.",
+            "hu": "Modern kerékpárút a Saigon-folyó mentén.",
+            "ro": "Pistă modernă de biciclete pe malul râului Saigon.",
+            "en": "Modern cycling path along the Saigon River."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Distrikt 4",
+            "hu": "Ebéd a 4. negyedben",
+            "ro": "Prânz în Districtul 4",
+            "en": "Lunch in District 4"
+          },
+          "coords": [
+            106.705,
+            10.765
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Viertel für die besten Schneckengerichte (Oc).",
+            "hu": "A legjobb csigás ételek (Oc) lelőhelye.",
+            "ro": "Cartierul pentru cele mai bune preparate din melci (Oc).",
+            "en": "The district for the best local snail dishes (Oc)."
+          }
+        },
+        {
+          "name": {
+            "de": "Saigon Opernhaus",
+            "hu": "Saigoni Operaház",
+            "ro": "Opera din Saigon",
+            "en": "Saigon Opera House"
+          },
+          "coords": [
+            106.7032,
+            10.7766
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Wunderschön beleuchtet am späten Nachmittag.",
+            "hu": "Késő délután gyönyörűen megvilágítva.",
+            "ro": "Frumos iluminată la lăsarea serii.",
+            "en": "Beautifully lit in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die weniger befahrenen Wege Saigons mit dem Fahrrad. Diese Route führt Sie durch grüne Gärten, zu versteckten Pagoden und entlang der revitalisierten Flussufer, wo Sie die Brise und die moderne Seite der Stadt genießen können.",
+        "hu": "Fedezze fel Saigon kevésbé forgalmas útjait kerékpárral. Ez az útvonal zöld kerteken, rejtett pagodákon és a felújított folyóparton vezet keresztül, ahol élvezheti a szellőt és a város modern arcát.",
+        "ro": "Explorați căile mai puțin circulate ale Saigonului cu bicicleta. Acest traseu vă poartă prin grădini verzi, către pagode ascunse și de-a lungul malurilor revitalizate ale râului, unde vă puteți bucura de briză și de latura modernă a orașului.",
+        "en": "Explore Saigon's less-traveled paths by bike. This route takes you through lush gardens, to hidden pagodas, and along the revitalized riverbanks where you can enjoy the breeze and the city's modern side."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vinh Khanh Street",
+            "tip": "Das Mekka für Streetfood und Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinh Khanh utca",
+            "tip": "A street food és a tengeri herentyűk mekkája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Vinh Khanh",
+            "tip": "Mecca pentru street food și fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinh Khanh Street",
+            "tip": "The mecca for street food and seafood enthusiasts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bình Quới Village",
+            "tip": "Traditionelles Dorf-Ambiente am Flussrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bình Quới falu",
+            "tip": "Hagyományos falusi környezet a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Bình Quới",
+            "tip": "Ambianță tradițională de sat pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bình Quới Village",
+            "tip": "Traditional village ambiance by the riverbank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The New Playground",
+            "tip": "Unterirdische Shopping-Mall für lokale Modemarken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The New Playground",
+            "tip": "Föld alatti pláza helyi divatmárkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The New Playground",
+            "tip": "Mall subteran pentru branduri locale de modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The New Playground",
+            "tip": "Underground mall for trendy local fashion brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Radfahren ist im Park am angenehmsten; meiden Sie Hauptverkehrsstraßen.",
+          "Mieten Sie Ihr Rad bei organisierten Tour-Anbietern für beste Qualität."
+        ],
+        "hu": [
+          "A kerékpározás a parkban a legkellemesebb; kerülje a főutakat.",
+          "Béreljen kerékpárt szervezett túraszervezőktől a legjobb minőségért."
+        ],
+        "ro": [
+          "Ciclismul este cel mai plăcut în parcuri; evitați drumurile principale.",
+          "Închiriați bicicleta de la operatori de turism pentru cea mai bună calitate."
+        ],
+        "en": [
+          "Cycling is most pleasant in parks; avoid main thoroughfares.",
+          "Rent your bike from organized tour providers for the best quality."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 85.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cu Chi Tunnel (Ben Dinh)",
+            "hu": "Cu Chi alagutak (Ben Dinh)",
+            "ro": "Tunelurile Cu Chi (Ben Dinh)",
+            "en": "Cu Chi Tunnels (Ben Dinh)"
+          },
+          "coords": [
+            106.5,
+            11.05
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 60.0,
+          "tip_5lang": {
+            "de": "Frühmorgens ab Saigon, um der Hitze zu entgehen.",
+            "hu": "Induljon korán Saigonból, hogy elkerülje a hőséget.",
+            "ro": "Plecarea devreme din Saigon pentru a evita căldura.",
+            "en": "Leave Saigon early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Cu Chi",
+            "hu": "Ebéd Cu Chi-ben",
+            "ro": "Prânz în Cu Chi",
+            "en": "Lunch in Cu Chi"
+          },
+          "coords": [
+            106.49,
+            11.04
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Probieren Sie gedämpften Maniok, die Nahrung der Guerillas.",
+            "hu": "Kóstolja meg a gőzölt maniókát, a gerillák eledelét.",
+            "ro": "Încercați manioc la abur, hrana gherilelor.",
+            "en": "Try steamed tapioca (cassava), the staple food of the guerrillas."
+          }
+        },
+        {
+          "name": {
+            "de": "Tan-Dinh-Kirche (Cluster A)",
+            "hu": "Tan Dinh templom (A-klaszter)",
+            "ro": "Biserica Tan Dinh (Cluster A)",
+            "en": "Tan Dinh Church (Cluster A)"
+          },
+          "coords": [
+            106.6908,
+            10.7891
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 55.0,
+          "tip_5lang": {
+            "de": "Die berühmte 'Pink Church' von Saigon.",
+            "hu": "Saigon híres 'Rózsaszín temploma'.",
+            "ro": "Faimoasa 'Biserică Roz' din Saigon.",
+            "en": "The famous 'Pink Church' of Saigon."
+          }
+        },
+        {
+          "name": {
+            "de": "Le-Van-Tam-Park",
+            "hu": "Le Van Tam park",
+            "ro": "Parcul Le Van Tam",
+            "en": "Le Van Tam Park"
+          },
+          "coords": [
+            106.6925,
+            10.7915
+          ],
+          "category": "park",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur 5 Minuten zu Fuß von der Kirche.",
+            "hu": "Csak 5 perc séta a templomtól.",
+            "ro": "La doar 5 minute de mers de biserică.",
+            "en": "Just a 5-minute walk from the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tagestour führt Sie aus dem Stadtzentrum hinaus zu den historischen Cu-Chi-Tunneln. Erfahren Sie alles über die Guerilla-Kriegsführung, bevor Sie nach Saigon zurückkehren, um die fotogene rosa Tan-Dinh-Kirche und die umliegenden Parks zu besuchen.",
+        "hu": "Ez az egynapos túra kivezeti Önt a városközpontból a történelmi Cu Chi alagutakhoz. Ismerje meg a gerilla-hadviselést, mielőtt visszatérne Saigonba a fotogén rózsaszín Tan Dinh templomhoz és a környező parkokhoz.",
+        "ro": "Această excursie de o zi vă scoate din centrul orașului către istoricele tuneluri Cu Chi. Aflați totul despre războiul de gherilă înainte de a reveni în Saigon pentru a vizita fotogenica Biserică Roz Tan Dinh și parcurile din jur.",
+        "en": "This day tour takes you out of the city center to the historic Cu Chi Tunnels. Learn about guerrilla warfare before returning to Saigon to visit the photogenic pink Tan Dinh Church and nearby parks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bò Tơ Xuân Đào",
+            "tip": "Spezialisiert auf zartes Cu Chi-Kalbfleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bò Tơ Xuân Đào",
+            "tip": "Híres puha Cu Chi borjúhúsra specializálódott hely."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bò Tơ Xuân Đào",
+            "tip": "Specializat în carne de vițel fragedă din Cu Chi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bò Tơ Xuân Đào",
+            "tip": "Specializing in tender Cu Chi veal dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ba Thien Hau Tempel",
+            "tip": "Atmosphärischer Tempel in Cholon.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ba Thien Hau templom",
+            "tip": "Hangulatos templom Cholon negyedben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul Ba Thien Hau",
+            "tip": "Templu plin de atmosferă în cartierul Cholon.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ba Thien Hau Temple",
+            "tip": "Atmospheric temple in the Cholon district.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "An Dong Markt",
+            "tip": "Großhandelsmarkt für Textilien und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "An Dong piac",
+            "tip": "Nagykereskedelmi piac textilárukhoz és kézműves termékekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața An Dong",
+            "tip": "Piață en-gros pentru textile și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "An Dong Market",
+            "tip": "Wholesale market for textiles and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie einen privaten Fahrer, um die Parkplatzsuche in der Stadt zu vermeiden.",
+          "Bringen Sie Mückenschutz für den Besuch der Tunnel mit."
+        ],
+        "hu": [
+          "Foglaljon magánsofőrt, hogy elkerülje a városi parkolási nehézségeket.",
+          "Hozzon szúnyogriasztót az alagutak látogatásához."
+        ],
+        "ro": [
+          "Rezervați un șofer privat pentru a evita problemele de parcare în oraș.",
+          "Aduceți spray împotriva insectelor pentru vizita la tuneluri."
+        ],
+        "en": [
+          "Hire a private driver to avoid parking hassles in the city center.",
+          "Bring insect repellent for the tunnel visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ben-Thanh-Markt (Busknotenpunkt)",
+            "hu": "Ben Thanh piac (Buszcsomópont)",
+            "ro": "Piața Ben Thanh (Nod de autobuz)",
+            "en": "Ben Thanh Market (Bus Hub)"
+          },
+          "coords": [
+            106.698,
+            10.7719
+          ],
+          "category": "shopping",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Busbahnhof direkt vor dem Nordeingang.",
+            "hu": "Központi buszállomás közvetlenül az északi bejárat előtt.",
+            "ro": "Gara centrală de autobuze chiar în fața intrării de nord.",
+            "en": "Central bus station is located right in front of the north entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariamman Hindu-Tempel",
+            "hu": "Mariamman hindu templom",
+            "ro": "Templul Hindu Mariamman",
+            "en": "Mariamman Hindu Temple"
+          },
+          "coords": [
+            106.695,
+            10.7735
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Ben-Thanh-Markt.",
+            "hu": "Rövid séta a Ben Thanh piactól.",
+            "ro": "Scurtă plimbare de la piața Ben Thanh.",
+            "en": "A short walk from the Ben Thanh Market area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cholon (China Town / Bus 01)",
+            "hu": "Cholon (Kínai negyed / 01-es busz)",
+            "ro": "Cholon (China Town / Autobuz 01)",
+            "en": "Cholon (China Town / Bus 01)"
+          },
+          "coords": [
+            106.658,
+            10.751
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Binh-Tay-Markt und die Pagoden.",
+            "hu": "Fedezze fel a Binh Tay piacot és a pagodákat.",
+            "ro": "Explorați piața Binh Tay și pagodele din zonă.",
+            "en": "Explore the Binh Tay Market and nearby pagodas."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum (District 1)",
+            "hu": "Történeti Múzeum (1. negyed)",
+            "ro": "Muzeul de Istorie (District 1)",
+            "en": "History Museum (District 1)"
+          },
+          "coords": [
+            106.7049,
+            10.7875
+          ],
+          "category": "museum",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "In der Nähe des Zoos, schöne Kolonialarchitektur.",
+            "hu": "Az állatkert közelében, szép gyarmati építészet.",
+            "ro": "Lângă grădina zoologică, arhitectură colonială frumoasă.",
+            "en": "Located near the zoo, housed in a fine colonial building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Saigons Busnetz, um die Vielfalt der Distrikte zu erleben. Starten Sie am zentralen Ben Thanh, tauchen Sie ein in das bunte Treiben von Cholon (Chinatown) und kehren Sie für einen kulturellen Abschluss ins Herz von Distrikt 1 zurück.",
+        "hu": "Használja Saigon buszhálózatát a negyedek sokszínűségének felfedezéséhez. Kezdjen a központi Ben Thanh piacnál, merüljön el Cholon (Kínai negyed) forgatagában, majd térjen vissza az 1. negyed szívébe egy kulturális zárásra.",
+        "ro": "Folosiți rețeaua de autobuze din Saigon pentru a experimenta diversitatea districtelor. Începeți la Ben Thanh, scufundați-vă în agitația din Cholon (Chinatown) și reveniți în inima Districtului 1 pentru un final cultural.",
+        "en": "Use Saigon's bus network to experience the diversity of its districts. Start at central Ben Thanh, dive into the colorful bustle of Cholon (Chinatown), and return to the heart of District 1 for a cultural finale."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bánh Mì Huỳnh Hoa",
+            "tip": "Das wohl beste Bánh Mì der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bánh Mì Huỳnh Hoa",
+            "tip": "Valószínűleg a város legjobb Bánh Mì-je."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bánh Mì Huỳnh Hoa",
+            "tip": "Probabil cel mai bun Bánh Mì din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bánh Mì Huỳnh Hoa",
+            "tip": "Arguably the best Bánh Mì in the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Phu-My-Hung-Viertel",
+            "tip": "Modernes, ruhiges Viertel am Wasser mit Parks.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Phu My Hung negyed",
+            "tip": "Modern, csendes vízparti negyed parkokkal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Phu My Hung",
+            "tip": "Zonă modernă și liniștită lângă apă, cu parcuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Phu My Hung Area",
+            "tip": "Modern, quiet riverside district with parks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Saigon Square",
+            "tip": "Beliebter Ort für Mode und Elektronik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saigon Square",
+            "tip": "Népszerű hely divatárukhoz és elektronikához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saigon Square",
+            "tip": "Loc popular pentru modă și electronice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saigon Square",
+            "tip": "Popular spot for fashion and electronics bargains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App 'Moovit' oder 'BusMap' für die Routenplanung.",
+          "Achten Sie auf Ihre Wertsachen in vollen Bussen."
+        ],
+        "hu": [
+          "Töltse le a 'Moovit' vagy 'BusMap' alkalmazást az útvonaltervezéshez.",
+          "Ügyeljen értékeire a zsúfolt buszokon."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Moovit' sau 'BusMap' pentru planificarea rutelor.",
+          "Aveți grijă de obiectele de valoare în autobuzele aglomerate."
+        ],
+        "en": [
+          "Download the 'Moovit' or 'BusMap' app for route planning.",
+          "Keep an eye on your valuables in crowded buses."
+        ]
+      }
+    }
+  }
+}

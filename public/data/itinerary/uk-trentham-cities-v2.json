@@ -1,0 +1,1037 @@
+{
+  "city_id": "uk-trentham-cities-v2",
+  "anchor": {
+    "name": "Trentham Gardens Entrance",
+    "coords": [
+      -2.205,
+      52.966
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.8,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Trentham Shopping Village",
+            "hu": "Trentham bevásárlófalu",
+            "ro": "Satul comercial Trentham",
+            "en": "Trentham Shopping Village"
+          },
+          "coords": [
+            -2.205,
+            52.966
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hübsche Holzhütten mit lokalen Produkten.",
+            "hu": "Csinos faházak helyi termékekkel.",
+            "ro": "Căsuțe de lemn drăguțe cu produse locale.",
+            "en": "Charming timber lodges with local crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Italienische Gärten",
+            "hu": "Olasz kertek",
+            "ro": "Grădinile italiene",
+            "en": "Italian Gardens"
+          },
+          "coords": [
+            -2.208,
+            52.963
+          ],
+          "category": "garden",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Blumenbeete am Seeufer.",
+            "hu": "Látványos virágágyások a tóparton.",
+            "ro": "Straturi de flori spectaculoase pe malul lacului.",
+            "en": "Spectacular flower displays along the lakeside."
+          }
+        },
+        {
+          "name": {
+            "de": "Trentham Lake Walk",
+            "hu": "Trentham tóparti séta",
+            "ro": "Plimbare pe lacul Trentham",
+            "en": "Trentham Lake Walk"
+          },
+          "coords": [
+            -2.215,
+            52.955
+          ],
+          "category": "nature",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den Feenskulpturen am Weg.",
+            "hu": "Keresse a tündérszobrokat az út mentén.",
+            "ro": "Căutați sculpturile zânelor de-a lungul potecii.",
+            "en": "Look for the wire fairy sculptures along the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch im Italian Garden Tea Room",
+            "hu": "Ebéd az olasz kerti teázóban",
+            "ro": "Prânz la Italian Garden Tea Room",
+            "en": "Lunch at Italian Garden Tea Room"
+          },
+          "coords": [
+            -2.207,
+            52.964
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Terrasse mit Blick auf die Gärten.",
+            "hu": "Terasz kilátással a kertekre.",
+            "ro": "Terasă cu vedere la grădini.",
+            "en": "Outdoor terrace with views over the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Trentham Monkey Forest",
+            "hu": "Trentham majomerdő",
+            "ro": "Pădurea maimuțelor Trentham",
+            "en": "Trentham Monkey Forest"
+          },
+          "coords": [
+            -2.228,
+            52.956
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Begegnen Sie freilaufenden Berberaffen.",
+            "hu": "Találkozzon szabadon kószáló berber makákókkal.",
+            "ro": "Întâlniți macaci de Barbaria în libertate.",
+            "en": "Walk among free-roaming Barbary macaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Trentham Hall",
+            "hu": "Trentham Hall romjai",
+            "ro": "Ruinele Trentham Hall",
+            "en": "Trentham Hall Ruins"
+          },
+          "coords": [
+            -2.203,
+            52.961
+          ],
+          "category": "historical",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Überreste eines einst prächtigen Herrenhauses.",
+            "hu": "Egy egykor pompás kúria maradványai.",
+            "ro": "Rămășițele unui conac odinioară grandios.",
+            "en": "Remnants of a once magnificent stately home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Trentham bietet einen ganzen Tag voller Natur und Abenteuer. Starten Sie im Shopping Village für einen entspannten Bummel. Die preisgekrönten Italienischen Gärten am See sind das Highlight des Vormittags. Nach einer Umrundung des Sees und einem Mittagessen im Freien erwartet Sie ein einzigartiges Erlebnis im Monkey Forest. Den Abschluss bildet der Blick auf die romantischen Ruinen der Trentham Hall, bevor Sie zum Ausgang zurückkehren.",
+        "hu": "Trentham egy egész napos természetközeli kalandot kínál. Kezdjen a bevásárlófaluban egy pihentető nézelődéssel. A délelőtt csúcspontja a díjnyertes olasz kertek a tó partján. A tó körüli séta és a szabadtéri ebéd után egyedülálló élmény várja a majomerdőben. A napot a Trentham Hall romantikus romjainak megtekintése zárja, mielőtt visszatérne a kijárathoz.",
+        "ro": "Trentham oferă o zi întreagă de natură și aventură. Începeți în satul comercial pentru o plimbare relaxată. Punctul culminant al dimineții sunt premiatele grădini italiene de pe malul lacului. După o plimbare în jurul lacului și un prânz în aer liber, vă așteaptă o experiență unică în Pădurea Maimuțelor. Încheiați cu vizionarea ruinelor romantice ale Trentham Hall înainte de a reveni la ieșire.",
+        "en": "Trentham offers a full day of nature and adventure. Start at the Shopping Village for a relaxed browse. The award-winning Italian Gardens by the lake are the highlight of the morning. After a stroll around the lake and lunch outdoors, a unique experience awaits at the Monkey Forest. Conclude with a look at the romantic ruins of Trentham Hall before returning to the exit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pieminister",
+            "tip": "Berühmte britische Pies im Shopping Village."
+          },
+          {
+            "name": "Trentham Garden Centre Café",
+            "tip": "Hausgemachter Kuchen und Scones."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pieminister",
+            "tip": "Híres brit piték a bevásárlófaluban."
+          },
+          {
+            "name": "Trentham Garden Centre Café",
+            "tip": "Házias sütemények és pogácsák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pieminister",
+            "tip": "Plăcinte britanice faimoase în satul comercial."
+          },
+          {
+            "name": "Cafeneaua Trentham Garden Centre",
+            "tip": "Prăjituri și scone-uri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pieminister",
+            "tip": "Famous British pies located in the Shopping Village."
+          },
+          {
+            "name": "Trentham Garden Centre Café",
+            "tip": "Home-baked cakes and traditional afternoon scones."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Trentham Lake (Fernseite)",
+            "tip": "Ruhigerer Teil des Uferwegs.",
+            "emoji": "🦢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trentham-tó (távolabbi oldal)",
+            "tip": "A tóparti sétány csendesebb szakasza.",
+            "emoji": "🦢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Trentham (partea îndepărtată)",
+            "tip": "Secțiunea mai liniștită a potecii de pe mal.",
+            "emoji": "🦢"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trentham Lake (Far Side)",
+            "tip": "Quiet sections of the lakeside circular path.",
+            "emoji": "🦢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Brown and Merry",
+            "tip": "Einzigartige Geschenkartikel und Deko."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brown and Merry",
+            "tip": "Egyedi ajándéktárgyak és dekoráció."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brown and Merry",
+            "tip": "Articole de cadou și decorațiuni unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brown and Merry",
+            "tip": "Unique giftware and home decor in a timber lodge."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für die Gärten online.",
+          "Der Monkey Forest ist ein separates Ticket.",
+          "Planen Sie viel Zeit für das Shopping Village ein."
+        ],
+        "hu": [
+          "Foglalja le a jegyeket a kertekbe online.",
+          "A majomerdő külön jeggyel látogatható.",
+          "Szánjon bőven időt a bevásárlófalura."
+        ],
+        "ro": [
+          "Rezervați biletele pentru grădini online.",
+          "Pădurea Maimuțelor necesită bilet separat.",
+          "Alocați mult timp pentru satul comercial."
+        ],
+        "en": [
+          "Book garden tickets online in advance to save time.",
+          "The Monkey Forest is a separate attraction requiring its own ticket.",
+          "The estate is very large, so allow a full day to see everything."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Trentham Gardens Entrance",
+            "hu": "Trentham Gardens bejárat",
+            "ro": "Intrarea Trentham Gardens",
+            "en": "Trentham Gardens Entrance"
+          },
+          "coords": [
+            -2.205,
+            52.966
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Haupteingang ab.",
+            "hu": "Hagyja a kerékpárját a főbejáratnál.",
+            "ro": "Lăsați bicicleta la intrarea principală.",
+            "en": "Safe cycle parking available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Barlaston Village",
+            "hu": "Barlaston falu",
+            "ro": "Satul Barlaston",
+            "en": "Barlaston Village"
+          },
+          "coords": [
+            -2.152,
+            52.946
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein hübsches Dorf am Kanal.",
+            "hu": "Szép falu a csatorna partján.",
+            "ro": "Un sat drăguț pe malul canalului.",
+            "en": "A lovely village bordering the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "World of Wedgwood",
+            "hu": "World of Wedgwood",
+            "ro": "World of Wedgwood",
+            "en": "World of Wedgwood"
+          },
+          "coords": [
+            -2.148,
+            52.949
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Erbe der weltberühmten Keramik.",
+            "hu": "Fedezze fel a világhírű kerámia örökségét.",
+            "ro": "Explorați moștenirea ceramicii de renume mondial.",
+            "en": "Explore the home of world-famous pottery."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch im Wedgwood Tea Room",
+            "hu": "Ebéd a Wedgwood teázóban",
+            "ro": "Prânz la Wedgwood Tea Room",
+            "en": "Lunch at Wedgwood Tea Room"
+          },
+          "coords": [
+            -2.147,
+            52.95
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Essen Sie von feinstem Porzellan.",
+            "hu": "Egyen a legfinomabb porcelánból.",
+            "ro": "Mâncați din cel mai fin porțelan.",
+            "en": "Dine on fine bone china in an elegant setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanalweg nach Trentham",
+            "hu": "Csatornaparti út Trentham felé",
+            "ro": "Drumul canalului spre Trentham",
+            "en": "Canal Path to Trentham"
+          },
+          "coords": [
+            -2.175,
+            52.958
+          ],
+          "category": "nature",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Flacher Uferweg entlang des Grand Union Canal.",
+            "hu": "Sík út a Grand Union-csatorna mentén.",
+            "ro": "Drum plat de-a lungul Canalului Grand Union.",
+            "en": "Flat towpath ride along the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Strongford Lake View",
+            "hu": "Strongford tó kilátás",
+            "ro": "Vedere peste lacul Strongford",
+            "en": "Strongford Lake View"
+          },
+          "coords": [
+            -2.195,
+            52.964
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein schöner Aussichtspunkt zum Abschluss.",
+            "hu": "Szép kilátópont a nap végén.",
+            "ro": "Un punct de observație frumos la final.",
+            "en": "A scenic viewpoint to end your ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour verbindet das Trentham Estate mit dem Keramikerbe von Stoke-on-Trent. Radeln Sie von Trentham aus durch das Dorf Barlaston zur beeindruckenden World of Wedgwood. Nach einem exzellenten Mittagessen auf feinstem Porzellan führt die Route entspannt entlang des Grand Union Canal zurück. Die flache Strecke am Wasser ist ideal, um die grüne Landschaft von Staffordshire zu genießen, bevor Sie wieder Trentham erreichen.",
+        "hu": "Ez a túra összeköti a Trentham birtokot Stoke-on-Trent kerámiaörökségével. Tekerjen Trenthamből Barlaston falun keresztül a lenyűgöző World of Wedgwood-ig. A finom porcelánból tálalt kiváló ebéd után az útvonal békésen vezet vissza a Grand Union-csatorna mentén. A vízi sík szakasz ideális Staffordshire zöld tájainak élvezetéhez, mielőtt visszaérne Trenthambe.",
+        "ro": "Acest tur conectează domeniul Trentham cu moștenirea ceramicii din Stoke-on-Trent. Pedalați din Trentham prin satul Barlaston până la impresionantul World of Wedgwood. După un prânz excelent servit pe cel mai fin porțelan, traseul vă duce înapoi relaxat de-a lungul Canalului Grand Union. Segmentul plat de pe malul apei este ideal pentru a vă bucura de peisajul verde din Staffordshire.",
+        "en": "This tour links the Trentham Estate with the pottery heritage of Stoke-on-Trent. Cycle from Trentham through Barlaston village to the impressive World of Wedgwood. After an excellent lunch served on fine china, the route leads back peacefully along the Grand Union Canal. The flat towpath section is ideal for enjoying Staffordshire's green landscapes before arriving back at Trentham."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plume of Feathers, Barlaston",
+            "tip": "Historischer Pub für eine Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plume of Feathers, Barlaston",
+            "tip": "Történelmi pub egy frissítőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plume of Feathers, Barlaston",
+            "tip": "Pub istoric pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plume of Feathers, Barlaston",
+            "tip": "A popular historic pub for a mid-ride drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal Towpath",
+            "tip": "Friedliche Fahrt am Wasser.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csatorna menti út",
+            "tip": "Békés tekerés a víznél.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul canalului",
+            "tip": "Plimbare liniștită pe malul apei.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal Towpath",
+            "tip": "Peaceful cycling along the water's edge.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wedgwood Factory Shop",
+            "tip": "Hochwertiges Porzellan zu Fabrikpreisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wedgwood gyári bolt",
+            "tip": "Kiváló porcelán gyári áron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de fabrică Wedgwood",
+            "tip": "Ceramică de înaltă calitate la preț de fabrică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wedgwood Factory Shop",
+            "tip": "High-quality pottery at factory outlet prices."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Kanalweg kann bei Nässe rutschig sein.",
+          "Achten Sie auf Fußgänger auf dem Treidelpfad.",
+          "Wedgwood ist montags und dienstags oft geschlossen."
+        ],
+        "hu": [
+          "A csatorna menti út esőben csúszós lehet.",
+          "Figyeljen a gyalogosokra a vontatóúton.",
+          "A Wedgwood hétfőn és kedden gyakran zárva tart."
+        ],
+        "ro": [
+          "Poteca canalului poate fi alunecoasă pe ploaie.",
+          "Atenție la pietonii de pe drumul de halaj.",
+          "Wedgwood este adesea închis lunea și marțea."
+        ],
+        "en": [
+          "The canal towpath can be muddy after rainfall.",
+          "Always ring your bell when passing pedestrians on the towpath.",
+          "Check World of Wedgwood opening days as they vary seasonally."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 35.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Trentham Gardens",
+            "hu": "Trentham kertek",
+            "ro": "Grădinile Trentham",
+            "en": "Trentham Gardens"
+          },
+          "coords": [
+            -2.205,
+            52.966
+          ],
+          "category": "garden",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken ist für Besucher kostenlos.",
+            "hu": "A parkolás látogatóknak ingyenes.",
+            "ro": "Parcarea este gratuită pentru vizitatori.",
+            "en": "Ample free parking available on-site."
+          }
+        },
+        {
+          "name": {
+            "de": "Trentham Monkey Forest",
+            "hu": "Trentham majomerdő",
+            "ro": "Pădurea maimuțelor Trentham",
+            "en": "Trentham Monkey Forest"
+          },
+          "coords": [
+            -2.228,
+            52.956
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt innerhalb des Estates.",
+            "hu": "Csak rövid út a birtokon belül.",
+            "ro": "O scurtă călătorie în interiorul domeniului.",
+            "en": "Short drive to the far side of the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch im Shopping Village",
+            "hu": "Ebéd a bevásárlófaluban",
+            "ro": "Prânz în satul comercial",
+            "en": "Lunch at Shopping Village"
+          },
+          "coords": [
+            -2.205,
+            52.966
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Große Auswahl an verschiedenen Restaurants.",
+            "hu": "Éttermek széles választéka.",
+            "ro": "O selecție largă de restaurante.",
+            "en": "Variety of dining options from cafes to pubs."
+          }
+        },
+        {
+          "name": {
+            "de": "Gladstone Pottery Museum",
+            "hu": "Gladstone Kerámia Múzeum",
+            "ro": "Muzeul de ceramică Gladstone",
+            "en": "Gladstone Pottery Museum"
+          },
+          "coords": [
+            -2.133,
+            52.987
+          ],
+          "category": "museum",
+          "arrive_at": "14:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Einzigartige viktorianische Keramikfabrik.",
+            "hu": "Egyedülálló viktoriánus kerámiagyár.",
+            "ro": "Fabrică de ceramică victoriană unică.",
+            "en": "Traditional Victorian pottery factory with bottle kilns."
+          }
+        },
+        {
+          "name": {
+            "de": "Longton Park (Queens Park)",
+            "hu": "Longton Park (Queens Park)",
+            "ro": "Parcul Longton (Queens Park)",
+            "en": "Longton Park (Queens Park)"
+          },
+          "coords": [
+            -2.128,
+            52.981
+          ],
+          "category": "park",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wunderschöner viktorianischer Park.",
+            "hu": "Gyönyörű viktoriánus park.",
+            "ro": "Parc victorian superb.",
+            "en": "One of the finest Victorian parks in the UK."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Trentham",
+            "hu": "Visszautazás Trenthambe",
+            "ro": "Întoarcerea la Trentham",
+            "en": "Return to Trentham"
+          },
+          "coords": [
+            -2.205,
+            52.966
+          ],
+          "category": "transit",
+          "arrive_at": "17:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Gemütlicher Abschluss im Shopping Village.",
+            "hu": "Kellemes zárás a bevásárlófaluban.",
+            "ro": "Încheiere plăcută în satul comercial.",
+            "en": "Enjoy a final coffee before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt es Ihnen, Trentham mit dem industriellen Erbe von Stoke-on-Trent zu verbinden. Nach einem Vormittag in den Trentham Gardens und im Monkey Forest fahren Sie ins nahegelegene Longton. Dort besuchen Sie das faszinierende Gladstone Pottery Museum mit seinen charakteristischen Flaschenöfen. Ein Abstecher in den prächtigen Longton Park rundet den Nachmittag ab, bevor Sie für einen letzten Bummel durch das Shopping Village nach Trentham zurückkehren.",
+        "hu": "Az autó lehetővé teszi, hogy Trenthamet összekösse Stoke-on-Trent ipari örökségével. A Trentham Gardens-ben és a majomerdőben töltött délelőtt után utazzon a közeli Longtonba. Ott látogassa meg a lenyűgöző Gladstone Kerámia Múzeumot a jellegzetes palackkemencéivel. Egy kitérő a pompás Longton Parkba teljessé teszi a délutánt, mielőtt visszatérne Trenthambe egy utolsó sétára a bevásárlófaluban.",
+        "ro": "Mașina vă permite să conectați Trentham cu moștenirea industrială din Stoke-on-Trent. După o dimineață în Grădinile Trentham și Pădurea Maimuțelor, conduceți spre Longton. Acolo vizitați fascinantul Muzeu de Ceramică Gladstone, cu cuptoarele sale în formă de sticlă. O scurtă vizită în parcul Longton completează după-amiaza, înainte de a reveni la Trentham pentru o ultimă plimbare în satul comercial.",
+        "en": "A car allows you to combine Trentham with the industrial heritage of Stoke-on-Trent. After a morning at Trentham Gardens and the Monkey Forest, drive to nearby Longton. Visit the fascinating Gladstone Pottery Museum with its iconic bottle kilns. A short trip to the grand Longton Park completes the afternoon before returning to Trentham for a final browse through the Shopping Village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Willow",
+            "tip": "Gehobene Küche im Trentham Estate."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Willow",
+            "tip": "Igényes gasztronómia a Trentham birtokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Willow",
+            "tip": "Bucătărie rafinată pe domeniul Trentham."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Willow",
+            "tip": "Brasserie-style dining at the Trentham Estate."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Longton Park Lakes",
+            "tip": "Ruhige Seen im Herzen des Parks.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Longton Park tavak",
+            "tip": "Csendes tavak a park szívében.",
+            "emoji": "🦆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacurile din parcul Longton",
+            "tip": "Lacuri liniștite în inima parcului.",
+            "emoji": "🦆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Longton Park Lakes",
+            "tip": "Tranquil lakes located in the heart of the park.",
+            "emoji": "🦆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trentham Garden Centre",
+            "tip": "Eines der größten Gartencenter der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trentham Kertészeti Központ",
+            "tip": "A régió egyik legnagyobb kertészeti központja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de grădinărit Trentham",
+            "tip": "Unul dintre cele mai mari din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trentham Garden Centre",
+            "tip": "Massive garden center with plants and home gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Navigieren Sie zwischen den Attraktionen über die A34.",
+          "Parken im Shopping Village ist am späten Nachmittag entspannter.",
+          "Gladstone ist ein toller Ort für Fotos."
+        ],
+        "hu": [
+          "A látnivalók között az A34-es úton közlekedhet.",
+          "A bevásárlófaluban a parkolás késő délután nyugodtabb.",
+          "A Gladstone múzeum nagyszerű hely fotózáshoz."
+        ],
+        "ro": [
+          "Navigați între atracții folosind drumul A34.",
+          "Parcarea în satul comercial este mai liberă după-amiaza.",
+          "Gladstone este un loc excelent pentru fotografii."
+        ],
+        "en": [
+          "Use the A34 for easy navigation between attractions.",
+          "Parking near the Shopping Village is easier in the late afternoon.",
+          "Gladstone Pottery Museum is very photogenic with its bottle kilns."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stoke-on-Trent Bahnhof",
+            "hu": "Stoke-on-Trent vasútállomás",
+            "ro": "Gara Stoke-on-Trent",
+            "en": "Stoke-on-Trent Railway Station"
+          },
+          "coords": [
+            -2.179,
+            53.007
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bus 101 fährt direkt nach Trentham.",
+            "hu": "A 101-es busz közvetlenül Trenthambe megy.",
+            "ro": "Autobuzul 101 merge direct spre Trentham.",
+            "en": "Bus 101 provides a frequent service to Trentham."
+          }
+        },
+        {
+          "name": {
+            "de": "Trentham Shopping Village",
+            "hu": "Trentham bevásárlófalu",
+            "ro": "Satul comercial Trentham",
+            "en": "Trentham Shopping Village"
+          },
+          "coords": [
+            -2.205,
+            52.966
+          ],
+          "category": "market",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle am Haupteingang.",
+            "hu": "Központi megálló a főbejáratnál.",
+            "ro": "Stație centrală la intrarea principală.",
+            "en": "Bus stop is located right by the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Trentham Gardens & Lunch",
+            "hu": "Trentham kertek és ebéd",
+            "ro": "Grădinile Trentham și prânz",
+            "en": "Trentham Gardens & Lunch"
+          },
+          "coords": [
+            -2.207,
+            52.964
+          ],
+          "category": "garden",
+          "arrive_at": "11:30",
+          "stay_min": 240,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Großteil des Tages in den Gärten.",
+            "hu": "Töltse a nap nagy részét a kertekben.",
+            "ro": "Petreceți cea mai mare parte a zilei în grădini.",
+            "en": "Spend the main part of your day exploring the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Shopping & Kaffee",
+            "hu": "Vásárlás és kávé",
+            "ro": "Cumpărături și cafea",
+            "en": "Shopping & Coffee"
+          },
+          "coords": [
+            -2.205,
+            52.966
+          ],
+          "category": "shopping",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannter Ausklang vor der Rückfahrt.",
+            "hu": "Pihentető zárás a visszautazás előtt.",
+            "ro": "Încheiere relaxată înainte de întoarcere.",
+            "en": "Relax at one of the village cafes before your bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt zum Bahnhof",
+            "hu": "Visszautazás az állomásra",
+            "ro": "Întoarcerea la gară",
+            "en": "Return to Station"
+          },
+          "coords": [
+            -2.179,
+            53.007
+          ],
+          "category": "transit",
+          "arrive_at": "17:30",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Bus 101 zurück nach Stoke.",
+            "hu": "101-es busz vissza Stoke-ba.",
+            "ro": "Autobuzul 101 înapoi spre Stoke.",
+            "en": "Bus 101 returns to Stoke-on-Trent station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Trentham ist durch den Bus 101 sehr gut an den Bahnhof von Stoke-on-Trent angebunden. Nach Ihrer Ankunft können Sie den ganzen Tag auf dem weitläufigen Estate verbringen. Genießen Sie die Italienischen Gärten, den See und ein entspanntes Mittagessen, ohne sich um das Parken kümmern zu müssen. Der Nachmittag bietet Zeit für ausgiebiges Shopping im Village, bevor Sie bequem mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Trentham kiváló buszkapcsolattal (101-es) rendelkezik Stoke-on-Trent vasútállomásáról. Érkezés után az egész napot a kiterjedt birtokon töltheti. Élvezze az olasz kerteket, a tavat és a kényelmes ebédet anélkül, hogy a parkolás miatt aggódna. A délután időt biztosít a faluban való vásárlásra, mielőtt busszal kényelmesen visszatérne az állomásra.",
+        "ro": "Trentham este foarte bine conectat prin autobuzul 101 de gara din Stoke-on-Trent. După sosire, puteți petrece întreaga zi pe vastul domeniu. Bucurați-vă de grădinile italiene, lac și un prânz relaxat fără grija parcării. După-amiaza oferă timp pentru cumpărături în sat, înainte de a lua autobuzul înapoi la gară.",
+        "en": "Trentham is very well connected by the 101 bus from Stoke-on-Trent railway station. Upon arrival, you can spend the entire day on the expansive estate. Enjoy the Italian Gardens, the lake, and a relaxed lunch without worrying about parking. The afternoon provides time for extensive shopping in the village before catching the bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cadwaladers",
+            "tip": "Legendäres Eis und Heißgetränke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cadwaladers",
+            "tip": "Legendás fagylalt és forró italok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cadwaladers",
+            "tip": "Înghețată legendară și băuturi calde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cadwaladers",
+            "tip": "Famous for their ice cream and great coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riverside Grasslands",
+            "tip": "Wiesen am Fluss Trent.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti rétek",
+            "tip": "Rétek a Trent folyó mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pășunile de pe malul râului",
+            "tip": "Pajiști liniștite pe râul Trent.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Grasslands",
+            "tip": "Peaceful meadows by the River Trent.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portmeirion Outlet",
+            "tip": "Lokales Keramik-Design."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portmeirion Outlet",
+            "tip": "Helyi kerámia dizájn termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portmeirion Outlet",
+            "tip": "Design de ceramică locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Portmeirion Outlet",
+            "tip": "Find classic local pottery designs at great prices."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bus 101 verkehrt etwa alle 20 Minuten.",
+          "Die Bushaltestelle ist nur 2 Gehminuten vom Eingang entfernt.",
+          "Bewahren Sie Ihre Quittungen für den Shopper-Rabatt auf."
+        ],
+        "hu": [
+          "A 101-es busz kb. 20 percenként jár.",
+          "A buszmegálló mindössze 2 perc séta a bejárattól.",
+          "Őrizze meg a nyugtákat a vásárlói kedvezményekhez."
+        ],
+        "ro": [
+          "Autobuzul 101 circulă la aproximativ 20 de minute.",
+          "Stația de autobuz este la 2 minute de mers pe jos.",
+          "Păstrați chitanțele pentru eventuale reduceri."
+        ],
+        "en": [
+          "Bus 101 runs approximately every 20 minutes daily.",
+          "The bus stop is a very short walk from the Shopping Village entrance.",
+          "The estate is very walkable once you arrive."
+        ]
+      }
+    }
+  }
+}

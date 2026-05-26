@@ -1,0 +1,1398 @@
+{
+  "city_id": "siófok",
+  "anchor": {
+    "name": "Siófok főtere",
+    "coords": [
+      46.904,
+      18.058
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Siófok főtér",
+          "coords": [
+            46.904,
+            18.058
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Morgens ist der Platz noch ruhig – ideal für einen ersten Kaffee.",
+            "hu": "Reggelente még csendes a tér – tökéletes az első kávéhoz.",
+            "ro": "Dimineața piața este liniștită – perfectă pentru prima cafea.",
+            "en": "The square is still quiet in the morning – perfect for a first coffee."
+          }
+        },
+        {
+          "name": "Siófoki evangélikus templom",
+          "coords": [
+            46.905,
+            18.059
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die schlichte, aber schöne Innenausstattung an.",
+            "hu": "Nézd meg az egyszerű, de szép belső berendezést.",
+            "ro": "Privește interiorul simplu, dar frumos.",
+            "en": "Check out the simple but beautiful interior."
+          }
+        },
+        {
+          "name": "Siófoki Városi Múzeum",
+          "coords": [
+            46.906,
+            18.057
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Ausstellung über die Geschichte des Balatons ist sehr informativ.",
+            "hu": "A Balaton történetét bemutató kiállítás nagyon informatív.",
+            "ro": "Expoziția despre istoria Balatonului este foarte informativă.",
+            "en": "The exhibition on the history of Lake Balaton is very informative."
+          }
+        },
+        {
+          "name": "Siófoki sétány",
+          "coords": [
+            46.907,
+            18.055
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier kann man wunderbar spazieren gehen und die Seeluft genießen.",
+            "hu": "Itt csodálatosan lehet sétálni és élvezni a tavi levegőt.",
+            "ro": "Aici poți face o plimbare minunată și te poți bucura de aerul lacului.",
+            "en": "Here you can take a wonderful walk and enjoy the lake air."
+          }
+        },
+        {
+          "name": "Balaton-parti strand",
+          "coords": [
+            46.908,
+            18.053
+          ],
+          "category": "beach",
+          "arrive_at": "13:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Abkühlung im Balaton – das Wasser ist im Sommer herrlich.",
+            "hu": "Merülj el a Balatonban – a víz nyáron csodálatos.",
+            "ro": "Fă o baie în Balaton – apa este minunată vara.",
+            "en": "Take a dip in Lake Balaton – the water is wonderful in summer."
+          }
+        },
+        {
+          "name": "Halászcsárda",
+          "coords": [
+            46.906,
+            18.056
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die Fischsuppe – ein lokaler Klassiker.",
+            "hu": "Kóstold meg a halászlevet – egy helyi klasszikus.",
+            "ro": "Încearcă supa de pește – un clasic local.",
+            "en": "Try the fish soup – a local classic."
+          }
+        },
+        {
+          "name": "Siófoki kilátó",
+          "coords": [
+            46.903,
+            18.06
+          ],
+          "category": "sunset",
+          "arrive_at": "18:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Sonnenuntergang über dem Balaton ist atemberaubend – kommen Sie früh.",
+            "hu": "A Balaton feletti naplemente lenyűgöző – gyere korán.",
+            "ro": "Apusul de soare peste Balaton este uluitor – vino devreme.",
+            "en": "The sunset over Lake Balaton is breathtaking – come early."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem Hauptplatz von Siófok, wo die ersten Sonnenstrahlen die Stadt erwärmen. Ein kurzer Spaziergang führt zur evangelischen Kirche, deren schlichte Eleganz beeindruckt. Das Stadtmuseum bietet einen tiefen Einblick in die Geschichte des Balatons. Am späten Vormittag schlendern Sie die Uferpromenade entlang, die zum Verweilen einlädt. Der Nachmittag gehört dem Strand – Sonne, Wasser und Entspannung pur. Am Abend genießen Sie in der Halászcsárda eine traditionelle Fischsuppe. Den Tag krönt ein atemberaubender Sonnenuntergang vom Aussichtspunkt aus.",
+        "hu": "A reggel Siófok főterén kezdődik, ahol az első napsugarak felmelegítik a várost. Egy rövid séta az evangélikus templomhoz vezet, melynek egyszerű eleganciája lenyűgöző. A Városi Múzeum mély betekintést nyújt a Balaton történetébe. Késő délelőtt a sétányon sétál, ami pihenésre hív. A délután a strandé – nap, víz és tökéletes kikapcsolódás. Este a Halászcsárdában egy hagyományos halászlevet élvezhet. A napot egy lélegzetelállító naplemente koronázza a kilátóból.",
+        "ro": "Dimineața începe în Piața Principală din Siófok, unde primele raze de soare încălzesc orașul. O scurtă plimbare duce la biserica evanghelică, a cărei eleganță simplă impresionează. Muzeul Orășenesc oferă o perspectivă profundă asupra istoriei Balatonului. Spre sfârșitul dimineții, vă plimbați pe faleză, care invită la relaxare. După-amiaza este dedicată plajei – soare, apă și relaxare totală. Seara, la Halászcsárda, vă bucurați de o supă tradițională de pește. Ziua este încununată de un apus de soare spectaculos de la punctul de belvedere.",
+        "en": "The morning starts on Siófok's main square, where the first rays of sun warm the city. A short walk leads to the Lutheran church, whose simple elegance impresses. The City Museum offers deep insight into the history of Lake Balaton. Late morning, you stroll along the promenade, inviting you to linger. The afternoon belongs to the beach – sun, water, and pure relaxation. In the evening, enjoy a traditional fish soup at Halászcsárda. The day is crowned by a breathtaking sunset from the viewpoint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Fischsuppe und gegrillter Fogasch"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Ungarische Hausmannskost mit Balaton-Fisch"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Leichte Gerichte mit Seeblick"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Halászlé és sült fogas"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Magyaros házias ízek balatoni hallal"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Könnyű ételek tavi kilátással"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Supă de pește și știucă la grătar"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Bucătărie ungurească de casă cu pește din Balaton"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Mâncăruri ușoare cu vedere la lac"
+          }
+        ],
+        "en": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Fish soup and grilled pike-perch"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Hungarian home-style cooking with Balaton fish"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Light meals with lake view"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Siófoki Aussichtspunkt",
+            "tip": "Spektakulärer Sonnenuntergang über dem Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferpromenade",
+            "tip": "Ruhiger Spaziergang am Wasser",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase zum Meditieren",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Siófoki kilátó",
+            "tip": "Látványos naplemente a Balaton felett",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parti sétány",
+            "tip": "Csendes séta a vízparton",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a meditációhoz",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Siófok",
+            "tip": "Apus spectaculos peste Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Faleza",
+            "tip": "Plimbare liniștită pe malul apei",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde pentru meditație",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Siófok Viewpoint",
+            "tip": "Spectacular sunset over Lake Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lakeside Promenade",
+            "tip": "Quiet walk by the water",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park",
+            "tip": "Green oasis for meditation",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Siófoki Wochenmarkt",
+            "tip": "Frische lokale Produkte und Souvenirs"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Typische Mitbringsel vom Balaton"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Siófoki hetipiac",
+            "tip": "Friss helyi termékek és ajándéktárgyak"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Tipikus balatoni emléktárgyak"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Siófok",
+            "tip": "Produse locale proaspete și suveniruri"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Suveniruri tipice de la Balaton"
+          }
+        ],
+        "en": [
+          {
+            "name": "Siófok Weekly Market",
+            "tip": "Fresh local produce and souvenirs"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Typical Lake Balaton souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe – die Stadt lässt sich am besten zu Fuß erkunden.",
+          "Planen Sie genug Zeit für den Strand ein – das Wasser ist ein Highlight.",
+          "Der Sonnenuntergang vom Aussichtspunkt ist ein Muss.",
+          "Probieren Sie unbedingt die Fischsuppe in einem der lokalen Restaurants.",
+          "Morgens ist es auf dem Hauptplatz noch ruhig – ideal für Fotos."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt – a várost legjobban gyalog lehet felfedezni.",
+          "Tervezz elég időt a strandra – a víz az egyik fénypont.",
+          "A naplemente a kilátóból kötelező program.",
+          "Feltétlenül kóstold meg a halászlét valamelyik helyi étteremben.",
+          "Reggelente a főtér még csendes – tökéletes fotókhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă – orașul se explorează cel mai bine pe jos.",
+          "Planificați suficient timp pentru plajă – apa este un punct culminant.",
+          "Apusul de soare de la punctul de belvedere este obligatoriu.",
+          "Nu ratați supa de pește la unul dintre restaurantele locale.",
+          "Dimineața, piața principală este încă liniștită – ideală pentru fotografii."
+        ],
+        "en": [
+          "Wear comfortable shoes – the city is best explored on foot.",
+          "Plan enough time for the beach – the water is a highlight.",
+          "The sunset from the viewpoint is a must.",
+          "Be sure to try the fish soup at one of the local restaurants.",
+          "In the morning, the main square is still quiet – perfect for photos."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Siófok főtér",
+          "coords": [
+            46.904,
+            18.058
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Rand ab und genießen Sie den Morgen.",
+            "hu": "Tedd le a biciklit a szélén és élvezd a reggelt.",
+            "ro": "Lăsați bicicleta la margine și bucurați-vă de dimineață.",
+            "en": "Park your bike at the edge and enjoy the morning."
+          }
+        },
+        {
+          "name": "Siófoki evangélikus templom",
+          "coords": [
+            46.905,
+            18.059
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrradständer gibt es direkt vor der Kirche.",
+            "hu": "Biciklitároló közvetlenül a templom előtt van.",
+            "ro": "Suport pentru biciclete chiar în fața bisericii.",
+            "en": "Bike rack right in front of the church."
+          }
+        },
+        {
+          "name": "Siófoki Városi Múzeum",
+          "coords": [
+            46.906,
+            18.057
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahrräder können Sie im Innenhof abstellen.",
+            "hu": "A bicikliket az udvarban lehet tárolni.",
+            "ro": "Bicicletele pot fi lăsate în curte.",
+            "en": "Bikes can be parked in the courtyard."
+          }
+        },
+        {
+          "name": "Siófoki sétány",
+          "coords": [
+            46.907,
+            18.055
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Promenade – der Blick auf den See ist herrlich.",
+            "hu": "Tekercs a sétány mentén – a tóra nyíló kilátás csodálatos.",
+            "ro": "Pedalați de-a lungul falezei – priveliștea lacului este minunată.",
+            "en": "Cycle along the promenade – the view of the lake is wonderful."
+          }
+        },
+        {
+          "name": "Balaton-parti strand",
+          "coords": [
+            46.908,
+            18.053
+          ],
+          "category": "beach",
+          "arrive_at": "13:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahrradständer gibt es am Strandeingang.",
+            "hu": "Biciklitároló a strand bejáratánál.",
+            "ro": "Suport pentru biciclete la intrarea în plajă.",
+            "en": "Bike rack at the beach entrance."
+          }
+        },
+        {
+          "name": "Halászcsárda",
+          "coords": [
+            46.906,
+            18.056
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Fahrrad gut – der Bereich ist belebt.",
+            "hu": "Rögzítsd jól a biciklit – a környék forgalmas.",
+            "ro": "Asigurați bine bicicleta – zona este aglomerată.",
+            "en": "Lock your bike well – the area is busy."
+          }
+        },
+        {
+          "name": "Siófoki kilátó",
+          "coords": [
+            46.903,
+            18.06
+          ],
+          "category": "sunset",
+          "arrive_at": "18:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg zu Fuß lohnt sich – der Blick ist fantastisch.",
+            "hu": "A gyalogos feljutás megéri – a kilátás fantasztikus.",
+            "ro": "Urcarea pe jos merită – priveliștea este fantastică.",
+            "en": "The walk up is worth it – the view is fantastic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten Sie am Hauptplatz und radeln gemütlich zur Kirche. Das Museum ist der erste längere Stopp – viel Geschichte auf zwei Rädern. Die Promenade entlang zu fahren ist ein Genuss, der Blick auf den Balaton begleitet Sie. Am Strand gönnen Sie sich eine lange Pause – Baden und Sonne. Das Abendessen in der Halászcsárda belohnt die Radtour. Den Abschluss bildet der Sonnenuntergang vom Aussichtspunkt – ein unvergesslicher Anblick.",
+        "hu": "Biciklivel indul a nap a főtéren, majd kényelmesen tekerünk a templomhoz. A múzeum az első hosszabb állomás – sok történelem két keréken. A sétányon tekerni élvezet, a Balaton látványa elkísér. A strandon hosszú szünetet tartasz – fürdés és napozás. A vacsora a Halászcsárdában jutalmazza a biciklitúrát. A napot a kilátóból nézett naplemente zárja – felejthetetlen látvány.",
+        "ro": "Cu bicicleta, ziua începe în piața principală, apoi pedalați confortabil până la biserică. Muzeul este prima oprire mai lungă – multă istorie pe două roți. Plimbarea pe faleză este o plăcere, priveliștea Balatonului vă însoțește. Pe plajă faceți o pauză lungă – baie și soare. Cina la Halászcsárda răsplătește turul cu bicicleta. Ziua se încheie cu apusul de soare de la punctul de belvedere – o priveliște de neuitat.",
+        "en": "By bike, the day starts at the main square, then you cycle comfortably to the church. The museum is the first longer stop – lots of history on two wheels. Cycling along the promenade is a pleasure, the view of Lake Balaton accompanies you. At the beach you take a long break – swimming and sunbathing. Dinner at Halászcsárda rewards the bike tour. The day ends with the sunset from the viewpoint – an unforgettable sight."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Fischsuppe und gegrillter Fogasch"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Ungarische Hausmannskost mit Balaton-Fisch"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Leichte Gerichte mit Seeblick"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Halászlé és sült fogas"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Magyaros házias ízek balatoni hallal"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Könnyű ételek tavi kilátással"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Supă de pește și știucă la grătar"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Bucătărie ungurească de casă cu pește din Balaton"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Mâncăruri ușoare cu vedere la lac"
+          }
+        ],
+        "en": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Fish soup and grilled pike-perch"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Hungarian home-style cooking with Balaton fish"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Light meals with lake view"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Siófoki Aussichtspunkt",
+            "tip": "Spektakulärer Sonnenuntergang über dem Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferpromenade",
+            "tip": "Ruhiger Spaziergang am Wasser",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase zum Meditieren",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Siófoki kilátó",
+            "tip": "Látványos naplemente a Balaton felett",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parti sétány",
+            "tip": "Csendes séta a vízparton",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a meditációhoz",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Siófok",
+            "tip": "Apus spectaculos peste Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Faleza",
+            "tip": "Plimbare liniștită pe malul apei",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde pentru meditație",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Siófok Viewpoint",
+            "tip": "Spectacular sunset over Lake Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lakeside Promenade",
+            "tip": "Quiet walk by the water",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park",
+            "tip": "Green oasis for meditation",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Siófoki Wochenmarkt",
+            "tip": "Frische lokale Produkte und Souvenirs"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Typische Mitbringsel vom Balaton"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Siófoki hetipiac",
+            "tip": "Friss helyi termékek és ajándéktárgyak"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Tipikus balatoni emléktárgyak"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Siófok",
+            "tip": "Produse locale proaspete și suveniruri"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Suveniruri tipice de la Balaton"
+          }
+        ],
+        "en": [
+          {
+            "name": "Siófok Weekly Market",
+            "tip": "Fresh local produce and souvenirs"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Typical Lake Balaton souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Fahrrad ist ideal, um die Stadt und die Uferpromenade zu erkunden.",
+          "Achten Sie auf Fußgänger auf der Promenade – fahren Sie langsam.",
+          "Planen Sie eine Badehose ein – der Strand ist ein Muss.",
+          "Die Radtour zum Aussichtspunkt ist kurz, aber der Aufstieg zu Fuß.",
+          "Schließen Sie Ihr Fahrrad immer gut ab – besonders in belebten Gegenden."
+        ],
+        "hu": [
+          "A bicikli ideális a város és a sétány felfedezéséhez.",
+          "Figyelj a gyalogosokra a sétányon – lassan haladj.",
+          "Tervezz fürdőruhát – a strand kötelező.",
+          "A kilátóhoz vezető bicikliút rövid, de a feljutás gyalogos.",
+          "Mindig jól zárd le a biciklit – főleg forgalmas helyeken."
+        ],
+        "ro": [
+          "Bicicleta este ideală pentru a explora orașul și faleza.",
+          "Aveți grijă la pietoni pe faleză – mergeți încet.",
+          "Planificați un costum de baie – plaja este obligatorie.",
+          "Traseul cu bicicleta până la punctul de belvedere este scurt, dar urcarea pe jos.",
+          "Încuiați întotdeauna bine bicicleta – mai ales în zonele aglomerate."
+        ],
+        "en": [
+          "A bike is ideal for exploring the city and the promenade.",
+          "Watch out for pedestrians on the promenade – ride slowly.",
+          "Pack a swimsuit – the beach is a must.",
+          "The bike ride to the viewpoint is short, but the climb is on foot.",
+          "Always lock your bike well – especially in busy areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 38.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Siófok főtér",
+          "coords": [
+            46.904,
+            18.058
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am besten am Rand des Platzes.",
+            "hu": "A legjobb a tér szélén parkolni.",
+            "ro": "Cel mai bine parcați la marginea pieței.",
+            "en": "Best to park at the edge of the square."
+          }
+        },
+        {
+          "name": "Siófoki evangélikus templom",
+          "coords": [
+            46.905,
+            18.059
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz – das Auto bleibt stehen.",
+            "hu": "Rövid séta a parkolótól – az autó marad.",
+            "ro": "Scurtă plimbare de la parcare – mașina rămâne.",
+            "en": "Short walk from the parking lot – the car stays."
+          }
+        },
+        {
+          "name": "Siófoki Városi Múzeum",
+          "coords": [
+            46.906,
+            18.057
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist fußläufig von der Kirche entfernt.",
+            "hu": "A múzeum gyalogosan elérhető a templomtól.",
+            "ro": "Muzeul este la distanță de mers pe jos de biserică.",
+            "en": "The museum is within walking distance from the church."
+          }
+        },
+        {
+          "name": "Siófoki sétány",
+          "coords": [
+            46.907,
+            18.055
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Museum zur Promenade – ein schöner Fußweg.",
+            "hu": "A múzeumtól a sétányig – egy szép séta.",
+            "ro": "De la muzeu la faleză – o plimbare frumoasă.",
+            "en": "From the museum to the promenade – a nice walk."
+          }
+        },
+        {
+          "name": "Balaton-parti strand",
+          "coords": [
+            46.908,
+            18.053
+          ],
+          "category": "beach",
+          "arrive_at": "13:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Parkplatz am Strand sind es nur wenige Schritte.",
+            "hu": "A strand parkolójától csak néhány lépés.",
+            "ro": "De la parcarea plajei sunt doar câțiva pași.",
+            "en": "From the beach parking lot it's just a few steps."
+          }
+        },
+        {
+          "name": "Halászcsárda",
+          "coords": [
+            46.906,
+            18.056
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Restaurant ist fußläufig vom Strand erreichbar.",
+            "hu": "Az étterem gyalogosan elérhető a strandtól.",
+            "ro": "Restaurantul este la distanță de mers pe jos de plajă.",
+            "en": "The restaurant is within walking distance from the beach."
+          }
+        },
+        {
+          "name": "Siófoki kilátó",
+          "coords": [
+            46.903,
+            18.06
+          ],
+          "category": "sunset",
+          "arrive_at": "18:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Restaurant zum Aussichtspunkt – ein kurzer Spaziergang.",
+            "hu": "Az étteremtől a kilátóig – egy rövid séta.",
+            "ro": "De la restaurant la punctul de belvedere – o scurtă plimbare.",
+            "en": "From the restaurant to the viewpoint – a short walk."
+          }
+        },
+        {
+          "name": "Tihanyi Bencés Apátság",
+          "coords": [
+            46.913,
+            17.889
+          ],
+          "category": "historical",
+          "arrive_at": "19:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Ein lohnender Ausflug mit dem Auto – die Aussicht ist atemberaubend.",
+            "hu": "Egy autós kitérővel megéri – a kilátás lenyűgöző.",
+            "ro": "O excursie cu mașina care merită – priveliștea este uluitoare.",
+            "en": "A worthwhile car trip – the view is breathtaking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie am Hauptplatz, erkunden die Innenstadt zu Fuß – Kirche und Museum liegen nah beieinander. Ein Spaziergang führt zur Promenade und dann zum Strand, wo Sie den Nachmittag verbringen. Nach dem Abendessen in der Halászcsárda fahren Sie zum Aussichtspunkt für den Sonnenuntergang. Ein letzter Abstecher mit dem Auto führt zur Tihanyer Abtei – ein historisches Highlight mit Panoramablick über den Balaton.",
+        "hu": "Autóval indul a nap a főtéren, majd gyalog fedezed fel a belvárost – a templom és a múzeum közel van egymáshoz. Egy séta vezet a sétányra, majd a strandra, ahol a délutánt töltöd. A Halászcsárdában vacsora után autózol a kilátóhoz a naplementéért. Egy utolsó autós kitérő a tihanyi apátsághoz vezet – egy történelmi fénypont panorámás kilátással a Balatonra.",
+        "ro": "Cu mașina, ziua începe în piața principală, apoi explorați centrul orașului pe jos – biserica și muzeul sunt aproape una de alta. O plimbare duce la faleză, apoi la plajă, unde petreceți după-amiaza. După cină la Halászcsárda, conduceți la punctul de belvedere pentru apus. Un ultim ocol cu mașina duce la abația din Tihany – un punct istoric cu vedere panoramică asupra Balatonului.",
+        "en": "By car, you start at the main square, then explore the city center on foot – the church and museum are close together. A walk leads to the promenade and then to the beach, where you spend the afternoon. After dinner at Halászcsárda, you drive to the viewpoint for sunset. A final car trip takes you to Tihany Abbey – a historical highlight with panoramic views over Lake Balaton."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Fischsuppe und gegrillter Fogasch"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Ungarische Hausmannskost mit Balaton-Fisch"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Leichte Gerichte mit Seeblick"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Halászlé és sült fogas"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Magyaros házias ízek balatoni hallal"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Könnyű ételek tavi kilátással"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Supă de pește și știucă la grătar"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Bucătărie ungurească de casă cu pește din Balaton"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Mâncăruri ușoare cu vedere la lac"
+          }
+        ],
+        "en": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Fish soup and grilled pike-perch"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Hungarian home-style cooking with Balaton fish"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Light meals with lake view"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Siófoki Aussichtspunkt",
+            "tip": "Spektakulärer Sonnenuntergang über dem Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tihanyer Aussichtspunkt",
+            "tip": "Panoramablick von der Abtei",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase zum Meditieren",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Siófoki kilátó",
+            "tip": "Látványos naplemente a Balaton felett",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tihanyi kilátó",
+            "tip": "Panorámás kilátás az apátságtól",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a meditációhoz",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Siófok",
+            "tip": "Apus spectaculos peste Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Punct de belvedere Tihany",
+            "tip": "Vedere panoramică de la abație",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde pentru meditație",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Siófok Viewpoint",
+            "tip": "Spectacular sunset over Lake Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tihany Viewpoint",
+            "tip": "Panoramic view from the abbey",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park",
+            "tip": "Green oasis for meditation",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Siófoki Wochenmarkt",
+            "tip": "Frische lokale Produkte und Souvenirs"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Typische Mitbringsel vom Balaton"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Siófoki hetipiac",
+            "tip": "Friss helyi termékek és ajándéktárgyak"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Tipikus balatoni emléktárgyak"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Siófok",
+            "tip": "Produse locale proaspete și suveniruri"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Suveniruri tipice de la Balaton"
+          }
+        ],
+        "en": [
+          {
+            "name": "Siófok Weekly Market",
+            "tip": "Fresh local produce and souvenirs"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Typical Lake Balaton souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie am besten am Stadtrand und erkunden Sie die Innenstadt zu Fuß.",
+          "Der Ausflug nach Tihany ist mit dem Auto schnell erledigt und lohnt sich.",
+          "Planen Sie genug Zeit für den Strand ein – das Wasser ist ein Highlight.",
+          "Der Sonnenuntergang vom Aussichtspunkt ist ein Muss.",
+          "Probieren Sie unbedingt die Fischsuppe in einem der lokalen Restaurants."
+        ],
+        "hu": [
+          "A legjobb a város szélén parkolni, és gyalog felfedezni a belvárost.",
+          "A tihanyi kitérő autóval gyorsan megvan és megéri.",
+          "Tervezz elég időt a strandra – a víz az egyik fénypont.",
+          "A naplemente a kilátóból kötelező program.",
+          "Feltétlenül kóstold meg a halászlét valamelyik helyi étteremben."
+        ],
+        "ro": [
+          "Cel mai bine parcați la marginea orașului și explorați centrul pe jos.",
+          "Excursia la Tihany cu mașina este rapidă și merită.",
+          "Planificați suficient timp pentru plajă – apa este un punct culminant.",
+          "Apusul de soare de la punctul de belvedere este obligatoriu.",
+          "Nu ratați supa de pește la unul dintre restaurantele locale."
+        ],
+        "en": [
+          "Best to park at the edge of town and explore the city center on foot.",
+          "The trip to Tihany by car is quick and worth it.",
+          "Plan enough time for the beach – the water is a highlight.",
+          "The sunset from the viewpoint is a must.",
+          "Be sure to try the fish soup at one of the local restaurants."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Siófok főtér",
+          "coords": [
+            46.904,
+            18.058
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist direkt am Platz.",
+            "hu": "A buszmegálló közvetlenül a téren van.",
+            "ro": "Stația de autobuz este chiar în piață.",
+            "en": "The bus stop is right on the square."
+          }
+        },
+        {
+          "name": "Siófoki evangélikus templom",
+          "coords": [
+            46.905,
+            18.059
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Platz zur Kirche – ein kurzer Fußweg.",
+            "hu": "A tértől a templomig – egy rövid séta.",
+            "ro": "De la piață la biserică – o scurtă plimbare.",
+            "en": "From the square to the church – a short walk."
+          }
+        },
+        {
+          "name": "Siófoki Városi Múzeum",
+          "coords": [
+            46.906,
+            18.057
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist fußläufig von der Kirche entfernt.",
+            "hu": "A múzeum gyalogosan elérhető a templomtól.",
+            "ro": "Muzeul este la distanță de mers pe jos de biserică.",
+            "en": "The museum is within walking distance from the church."
+          }
+        },
+        {
+          "name": "Siófoki sétány",
+          "coords": [
+            46.907,
+            18.055
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Museum zur Promenade – ein schöner Fußweg.",
+            "hu": "A múzeumtól a sétányig – egy szép séta.",
+            "ro": "De la muzeu la faleză – o plimbare frumoasă.",
+            "en": "From the museum to the promenade – a nice walk."
+          }
+        },
+        {
+          "name": "Balaton-parti strand",
+          "coords": [
+            46.908,
+            18.053
+          ],
+          "category": "beach",
+          "arrive_at": "13:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Parkplatz am Strand sind es nur wenige Schritte.",
+            "hu": "A strand parkolójától csak néhány lépés.",
+            "ro": "De la parcarea plajei sunt doar câțiva pași.",
+            "en": "From the beach parking lot it's just a few steps."
+          }
+        },
+        {
+          "name": "Halászcsárda",
+          "coords": [
+            46.906,
+            18.056
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Restaurant ist fußläufig vom Strand erreichbar.",
+            "hu": "Az étterem gyalogosan elérhető a strandtól.",
+            "ro": "Restaurantul este la distanță de mers pe jos de plajă.",
+            "en": "The restaurant is within walking distance from the beach."
+          }
+        },
+        {
+          "name": "Siófoki kilátó",
+          "coords": [
+            46.903,
+            18.06
+          ],
+          "category": "sunset",
+          "arrive_at": "18:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Restaurant zum Aussichtspunkt – ein kurzer Spaziergang.",
+            "hu": "Az étteremtől a kilátóig – egy rövid séta.",
+            "ro": "De la restaurant la punctul de belvedere – o scurtă plimbare.",
+            "en": "From the restaurant to the viewpoint – a short walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen Sie bequem den Hauptplatz. Von dort erkunden Sie die Innenstadt zu Fuß – Kirche und Museum sind nah. Ein Spaziergang führt zur Promenade und dann zum Strand, wo Sie den Nachmittag verbringen. Nach dem Abendessen in der Halászcsárda gehen Sie zum Aussichtspunkt für den Sonnenuntergang. Die Busse fahren regelmäßig – ideal für einen entspannten Tag.",
+        "hu": "Busszal kényelmesen eléred a főteret. Onnan gyalog fedezed fel a belvárost – a templom és a múzeum közel van. Egy séta vezet a sétányra, majd a strandra, ahol a délutánt töltöd. A Halászcsárdában vacsora után elsétálsz a kilátóhoz a naplementéért. A buszok rendszeresen járnak – ideális egy pihentető naphoz.",
+        "ro": "Cu autobuzul ajungeți confortabil în piața principală. De acolo explorați centrul orașului pe jos – biserica și muzeul sunt aproape. O plimbare duce la faleză, apoi la plajă, unde petreceți după-amiaza. După cină la Halászcsárda, mergeți pe jos la punctul de belvedere pentru apus. Autobuzele circulă regulat – ideal pentru o zi relaxantă.",
+        "en": "By bus you comfortably reach the main square. From there you explore the city center on foot – the church and museum are close. A walk leads to the promenade and then to the beach, where you spend the afternoon. After dinner at Halászcsárda, you walk to the viewpoint for sunset. Buses run regularly – ideal for a relaxing day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Fischsuppe und gegrillter Fogasch"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Ungarische Hausmannskost mit Balaton-Fisch"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Leichte Gerichte mit Seeblick"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Halászlé és sült fogas"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Magyaros házias ízek balatoni hallal"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Könnyű ételek tavi kilátással"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Supă de pește și știucă la grătar"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Bucătărie ungurească de casă cu pește din Balaton"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Mâncăruri ușoare cu vedere la lac"
+          }
+        ],
+        "en": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Fish soup and grilled pike-perch"
+          },
+          {
+            "name": "Korona Étterem",
+            "tip": "Hungarian home-style cooking with Balaton fish"
+          },
+          {
+            "name": "Móló Bistro",
+            "tip": "Light meals with lake view"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Siófoki Aussichtspunkt",
+            "tip": "Spektakulärer Sonnenuntergang über dem Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferpromenade",
+            "tip": "Ruhiger Spaziergang am Wasser",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase zum Meditieren",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Siófoki kilátó",
+            "tip": "Látványos naplemente a Balaton felett",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parti sétány",
+            "tip": "Csendes séta a vízparton",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a meditációhoz",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Siófok",
+            "tip": "Apus spectaculos peste Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Faleza",
+            "tip": "Plimbare liniștită pe malul apei",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde pentru meditație",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Siófok Viewpoint",
+            "tip": "Spectacular sunset over Lake Balaton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lakeside Promenade",
+            "tip": "Quiet walk by the water",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park",
+            "tip": "Green oasis for meditation",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Siófoki Wochenmarkt",
+            "tip": "Frische lokale Produkte und Souvenirs"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Typische Mitbringsel vom Balaton"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Siófoki hetipiac",
+            "tip": "Friss helyi termékek és ajándéktárgyak"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Tipikus balatoni emléktárgyak"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Siófok",
+            "tip": "Produse locale proaspete și suveniruri"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Suveniruri tipice de la Balaton"
+          }
+        ],
+        "en": [
+          {
+            "name": "Siófok Weekly Market",
+            "tip": "Fresh local produce and souvenirs"
+          },
+          {
+            "name": "Balaton Souvenir Shop",
+            "tip": "Typical Lake Balaton souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Bus – das lohnt sich.",
+          "Die Innenstadt ist fußläufig – steigen Sie am Hauptplatz aus.",
+          "Planen Sie genug Zeit für den Strand ein – das Wasser ist ein Highlight.",
+          "Der Sonnenuntergang vom Aussichtspunkt ist ein Muss.",
+          "Probieren Sie unbedingt die Fischsuppe in einem der lokalen Restaurants."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra – megéri.",
+          "A belváros gyalogosan bejárható – szállj le a főtéren.",
+          "Tervezz elég időt a strandra – a víz az egyik fénypont.",
+          "A naplemente a kilátóból kötelező program.",
+          "Feltétlenül kóstold meg a halászlét valamelyik helyi étteremben."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz – merită.",
+          "Centrul orașului se poate explora pe jos – coborâți în piața principală.",
+          "Planificați suficient timp pentru plajă – apa este un punct culminant.",
+          "Apusul de soare de la punctul de belvedere este obligatoriu.",
+          "Nu ratați supa de pește la unul dintre restaurantele locale."
+        ],
+        "en": [
+          "Buy a day ticket for the bus – it's worth it.",
+          "The city center is walkable – get off at the main square.",
+          "Plan enough time for the beach – the water is a highlight.",
+          "The sunset from the viewpoint is a must.",
+          "Be sure to try the fish soup at one of the local restaurants."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1105 @@
+{
+  "city_id": "baku",
+  "anchor": {
+    "name": "Maiden Tower",
+    "coords": [
+      49.8373,
+      40.3661
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jungfrauenturm (Qız Qalası)",
+            "hu": "Szűz-torony",
+            "ro": "Turnul Fecioarei",
+            "en": "Maiden Tower"
+          },
+          "coords": [
+            49.8373,
+            40.3661
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm früh, um die Hitze und Menschenmassen zu vermeiden.",
+            "hu": "Érdemes korán érkezni a kilátás és a tömeg elkerülése miatt.",
+            "ro": "Urcați devreme pentru a evita căldura și aglomerația.",
+            "en": "Climb early to avoid crowds and enjoy the panoramic Caspian view."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Schirwanschahs",
+            "hu": "Sirvánsahok palotája",
+            "ro": "Palatul Șirvanșahilor",
+            "en": "Palace of the Shirvanshahs"
+          },
+          "coords": [
+            49.8335,
+            40.3661
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Audioguide erklärt die komplexe Geschichte der Dynastie hervorragend.",
+            "hu": "Az ingyenes brossúrák segítenek megérteni a dinasztia történetét.",
+            "ro": "Audioghidul este esențial pentru a înțelege istoria dinastiei.",
+            "en": "The complex includes a mosque, burial vault, and a mausoleum."
+          }
+        },
+        {
+          "name": {
+            "de": "Philharmonia-Garten",
+            "hu": "Filharmónia-kert",
+            "ro": "Grădina Filarmonicii",
+            "en": "Philharmonia Garden"
+          },
+          "coords": [
+            49.8315,
+            40.3635
+          ],
+          "category": "garden",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Klassische Musik aus den Lautsprechern sorgt für Entspannung am Brunnen.",
+            "hu": "A hangszórókból szóló komolyzene tökéletes a pihenéshez.",
+            "ro": "Muzica clasică de fundal creează o atmosferă relaxantă lângă fântâni.",
+            "en": "Classical music plays from speakers near the ornate fountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Teppichmuseum von Aserbaidschan",
+            "hu": "Azerbajdzsáni Szőnyegmúzeum",
+            "ro": "Muzeul Covorului din Azerbaidjan",
+            "en": "Azerbaijan Carpet Museum"
+          },
+          "coords": [
+            49.8355,
+            40.3595
+          ],
+          "category": "museum",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Gebäude selbst hat die Form eines zusammengerollten Teppichs.",
+            "hu": "Az épület egy összetekert szőnyeget formáz, belül pedig pazar tárlat vár.",
+            "ro": "Clădirea are forma unui covor rulat; interiorul este spectaculos.",
+            "en": "The building is shaped like a rolled carpet; inside, it's a textile gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleines Venedig (Mini-Venice)",
+            "hu": "Kis Velence",
+            "ro": "Mica Veneție",
+            "en": "Little Venice"
+          },
+          "coords": [
+            49.8345,
+            40.3585
+          ],
+          "category": "park",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine kurze Gondelfahrt bietet eine charmante Pause vom Gehen.",
+            "hu": "A gondolázás rövid, de hangulatos pihenő a sétálás közben.",
+            "ro": "O plimbare cu gondola oferă o pauză relaxantă pe canalele artificiale.",
+            "en": "A short gondola ride offers a charming break from walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Nizami-Straße (Torgovaya)",
+            "hu": "Nizami utca",
+            "ro": "Strada Nizami",
+            "en": "Nizami Street"
+          },
+          "coords": [
+            49.8405,
+            40.3725
+          ],
+          "category": "shopping",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Perfekt für das Abendessen und um die Architektur der Jahrhundertwende zu bewundern.",
+            "hu": "Kiváló hely vacsorához és a századfordulós építészet megcsodálásához.",
+            "ro": "Ideală pentru cină și admirarea arhitecturii de la începutul secolului.",
+            "en": "The architectural lighting in the evening is simply magical."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Icherisheher, der UNESCO-geschützten Altstadt, wo mittelalterliche Gassen zum mysteriösen Jungfrauenturm führen.\n\nMittags schlendern Sie durch die grünen Anlagen des Philharmonia-Gartens in Richtung der modernen Uferpromenade.\n\nDer Nachmittag steht im Zeichen der Kunst im einzigartigen Teppichmuseum, gefolgt von einer entspannten Pause im Mini-Venedig.\n\nLassen Sie den Tag auf der belebten Nizami-Straße ausklingen, wo historische Pracht auf modernes Stadtleben trifft.",
+        "hu": "Kezdje a napot az Icherisheher szívében, az UNESCO világörökség részét képező óvárosban, ahol középkori sikátorok vezetnek a rejtélyes Szűz-toronyhoz.\n\nDélben sétáljon át a Filharmónia-kert zöld fái alatt a modern tengerparti sétány felé.\n\nA délután a művészeté: látogasson el az egyedülálló Szőnyegmúzeumba, majd pihenjen meg a Kis Velence csatornái között.\n\nA napot a nyüzsgő Nizami utcán zárja, ahol a történelmi pompa és a modern városi élet találkozik.",
+        "ro": "Începeți ziua în inima cartierului Icherisheher, orașul vechi protejat de UNESCO, unde străduțele medievale duc spre misteriosul Turn al Fecioarei.\n\nLa prânz, plimbați-vă prin Grădina Filarmonicii spre faleza modernă a Mării Caspice.\n\nDupă-amiaza este dedicată artei la Muzeul Covorului, urmată de o pauză relaxantă în Mica Veneție.\n\nÎncheiați ziua pe strada Nizami, unde arhitectura impresionantă de la sfârșitul secolului al XIX-lea găzduiește restaurante vibrante.",
+        "en": "Start your day in the heart of Icherisheher, the UNESCO-listed Old City, where medieval alleys lead to the mysterious Maiden Tower.\n\nAt midday, stroll through the lush Philharmonia Garden towards the modern Caspian waterfront.\n\nSpend your afternoon exploring the world-class Carpet Museum and taking a boat ride in the charming Little Venice.\n\nEnd your day on the pedestrian Nizami Street, famous for its grand architecture and lively evening atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Qazmaq Cafe",
+            "tip": "Probieren Sie Piti, einen traditionellen Lammeintopf aus Sheki."
+          },
+          {
+            "name": "Firuze",
+            "tip": "Unterirdisches Restaurant mit fantastischen Kutaby (gefüllten Fladenbroten)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Qazmaq Cafe",
+            "tip": "Kóstolja meg a Pitit, a hagyományos birkaételt."
+          },
+          {
+            "name": "Firuze",
+            "tip": "Föld alatti étterem, ahol a legjobb Kutaby-t készítik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Qazmaq Cafe",
+            "tip": "Încercați Piti, o mâncare tradițională de miel servită în vas de lut."
+          },
+          {
+            "name": "Firuze",
+            "tip": "Restaurant subteran cu decor tradițional și Kutaby delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Qazmaq Cafe",
+            "tip": "Try the Piti, a traditional lamb stew served in clay pots."
+          },
+          {
+            "name": "Firuze",
+            "tip": "Underground gem famous for its meat and herb Kutaby."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Mauern",
+            "tip": "Ein ruhiger Spaziergang entlang der alten Festungsmauern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sabayil Beach",
+            "tip": "Ein ruhigerer Ort etwas außerhalb für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi falak",
+            "tip": "Csendes séta a régi várfalak mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kaspi-parti móló",
+            "tip": "Nézzük a naplementét a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile Cetății",
+            "tip": "O plimbare liniștită de-a lungul zidurilor medievale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Faleza Veche",
+            "tip": "Loc perfect pentru a admira marea în liniște la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old City Walls",
+            "tip": "A peaceful stroll along the restored fortress fortifications.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Caspian Pier",
+            "tip": "Perfect spot to watch the sun set over the oil rigs in the distance.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Icherisheher Souvenirs",
+            "tip": "Handgefertigte Keramik und Miniaturteppiche."
+          },
+          {
+            "name": "Yasil Bazar",
+            "tip": "Der 'Grüne Markt' für lokalen Safran und Kaviar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Icherisheher bazár",
+            "tip": "Kézzel készített kerámiák és selyemsálak."
+          },
+          {
+            "name": "Yasil Bazar",
+            "tip": "A 'Zöld Piac' a legjobb hely sáfrányért és teáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Icherisheher",
+            "tip": "Ceramică pictată manual și eșarfe de mătase."
+          },
+          {
+            "name": "Yasil Bazar",
+            "tip": "Piața Verde este ideală pentru șofran, nuci și caviar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Icherisheher Alleys",
+            "tip": "Authentic copperware, silk scarves, and carpets."
+          },
+          {
+            "name": "Yasil Bazar",
+            "tip": "The Green Market is the place for saffron, spices, and tea."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben ist.",
+          "Teehäuser (Chaykhana) sind der beste Ort, um die lokale Kultur kennenzulernen.",
+          "Handeln ist auf den Märkten und in Souvenirläden absolut üblich.",
+          "Baku kann sehr windig sein; eine leichte Jacke ist auch im Sommer ratsam."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az óváros macskakövei próbára teszik a lábat.",
+          "A teaházak (Csajhána) a legjobb helyek a helyi kultúra megtapasztalásához.",
+          "A piacokon és szuvenírboltokban bátran alkudozzon.",
+          "Baku szeles város, egy könnyű kabát nyáron is jól jöhet."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă; pavajul din orașul vechi este neregulat.",
+          "Ceainăriile (Chaykhana) sunt esențiale pentru experiența locală autentică.",
+          "Negocierea este o practică obișnuită în bazaruri și magazinele de suveniruri.",
+          "Fiți pregătiți pentru vânt; o jachetă subțire este utilă chiar și vara."
+        ],
+        "en": [
+          "Wear comfortable shoes as the Old City cobblestones can be uneven.",
+          "Tea houses (Chaykhanas) are the best spots to soak in the local atmosphere.",
+          "Bargaining is expected in the Old City souvenir shops and local markets.",
+          "Baku is the 'City of Winds', so bring a light jacket even in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt (Icherisheher)",
+            "hu": "Óváros",
+            "ro": "Orașul Vechi",
+            "en": "Old City"
+          },
+          "coords": [
+            49.8365,
+            40.3661
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Rande der Altstadt; drinnen ist es fast autofrei.",
+            "hu": "Parkoljon az óváros szélén, bent gyalog érdemes közlekedni.",
+            "ro": "Parcați la intrarea în cetate; zona interioară este pietonală.",
+            "en": "Park outside the gates; the interior is best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heydar-Aliyev-Zentrum",
+            "hu": "Heydar Aliyev Központ",
+            "ro": "Centrul Heydar Aliyev",
+            "en": "Heydar Aliyev Center"
+          },
+          "coords": [
+            49.8672,
+            40.3953
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Das Meisterwerk von Zaha Hadid ist ein Muss für Architekturfans.",
+            "hu": "Zaha Hadid remekműve az építészet kedvelőinek kötelező program.",
+            "ro": "Capodopera arhitectei Zaha Hadid este simbolul Bakului modern.",
+            "en": "Zaha Hadid's architectural masterpiece is stunning from every angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Modern Art Museum",
+            "hu": "Modern Művészetek Múzeuma",
+            "ro": "Muzeul de Artă Modernă",
+            "en": "Museum of Modern Art"
+          },
+          "coords": [
+            49.8655,
+            40.3855
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Avantgardistische aserbaidschanische Kunst in einem lichtdurchfluteten Raum.",
+            "hu": "Avantgárd azeri művészet egy lenyűgöző modern térben.",
+            "ro": "Artă avangardistă azeră într-un spațiu arhitectural deosebit.",
+            "en": "Avant-garde Azerbaijani art in a brilliant, open-plan space."
+          }
+        },
+        {
+          "name": {
+            "de": "Bibi-Heybat-Moschee",
+            "hu": "Bibi-Heybat-mecset",
+            "ro": "Moscheea Bibi-Heybat",
+            "en": "Bibi-Heybat Mosque"
+          },
+          "coords": [
+            49.8205,
+            40.3085
+          ],
+          "category": "religious",
+          "arrive_at": "14:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Eine prächtige Rekonstruktion einer Moschee aus dem 13. Jahrhundert.",
+            "hu": "Egy 13. századi mecset pompás modern rekonstrukciója.",
+            "ro": "O reconstrucție superbă a unei moschei istorice distruse în epoca sovietică.",
+            "en": "A spiritual site with intricate green interior tiling and Caspian views."
+          }
+        },
+        {
+          "name": {
+            "de": "Highland Park (Dağüstü Park)",
+            "hu": "Hegyi park",
+            "ro": "Parcul Highland",
+            "en": "Highland Park"
+          },
+          "coords": [
+            49.8275,
+            40.3585
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Der beste Ort, um die Flammentürme aus nächster Nähe zu sehen.",
+            "hu": "A legjobb hely a Lángtornyok közeli megtekintéséhez.",
+            "ro": "Cel mai bun punct de belvedere asupra orașului și a Turnurilor Flacără.",
+            "en": "The ultimate viewpoint for the Flame Towers and the entire bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um die architektonischen Kontraste Bakus zu erleben, von der Antike bis zur futuristischen Vision Zaha Hadids.\n\nNach der Erkundung der Altstadt fahren Sie zum Heydar-Aliyev-Zentrum, dessen fließende Formen die Schwerkraft zu besiegen scheinen.\n\nAm Nachmittag führt Sie die Fahrt entlang der Küste zur Bibi-Heybat-Moschee, einem spirituellen Zentrum mit Blick auf die Ölfelder.\n\nBeenden Sie die Tour im Highland Park, wo Sie den Sonnenuntergang über dem Kaspischen Meer und den leuchtenden Flammentürmen genießen können.",
+        "hu": "Használja az autót Baku építészeti kontrasztjainak felfedezéséhez, az ókortól Zaha Hadid futurisztikus víziójáig.\n\nAz óvárosi séta után guruljon el a Heydar Aliyev Központhoz, melynek hullámzó formái az építészet csúcsát képviselik.\n\nDélután a part menti úton haladva érje el a Bibi-Heybat-mecsetet, a város egyik legfontosabb szakrális helyszínét.\n\nA napot a Hegyi parkban zárja, ahonnan páratlan kilátás nyílik a lemenő nap fényében úszó Lángtornyokra.",
+        "ro": "Folosiți mașina pentru a descoperi contrastele fascinante ale Bakului, de la istoria medievală la viziunea futuristă a prezentului.\n\nDupă o incursiune în Orașul Vechi, mergeți spre Centrul Heydar Aliyev, a cărui formă fluidă a devenit emblema modernismului azer.\n\nDupă-amiaza, conduceți spre sud de-a lungul coastei pentru a vizita Moscheea Bibi-Heybat, situată într-un peisaj industrial unic.\n\nÎncheiați ziua în Parcul Highland, de unde puteți admira luminile orașului reflectate în apele Mării Caspice.",
+        "en": "Use the car to bridge the vast distances between Baku's architectural icons, from medieval fortresses to Zaha Hadid's fluid curves.\n\nAfter soaking in the Old City's history, head to the Heydar Aliyev Center, a structural marvel that defies traditional geometry.\n\nIn the afternoon, drive south along the Caspian coast to the Bibi-Heybat Mosque, a spiritual anchor amidst the famous oil fields.\n\nFinish your journey at Highland Park, providing the perfect vantage point for the Flame Towers' nightly light show."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shirvanshah Museum Restaurant",
+            "tip": "Essen Sie in einem ehemaligen Badehaus inmitten von Antiquitäten."
+          },
+          {
+            "name": "Sumakh",
+            "tip": "Moderne Interpretation der klassischen aserbaidschanischen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shirvanshah Múzeum Étterem",
+            "tip": "Vacsora egy régi fürdőben, antik tárgyak között."
+          },
+          {
+            "name": "Sumakh",
+            "tip": "A klasszikus azeri konyha modern és elegáns változata."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Shirvanshah Museum Restaurant",
+            "tip": "Luați masa într-o fostă baie publică transformată în muzeu gastronomic."
+          },
+          {
+            "name": "Sumakh",
+            "tip": "Bucătărie azeră autentică servită într-un decor contemporan rafinat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shirvanshah Museum Restaurant",
+            "tip": "Dine inside a historic bathhouse filled with local artifacts."
+          },
+          {
+            "name": "Sumakh",
+            "tip": "High-end Azerbaijani cuisine with a focus on fresh regional ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Heydar Aliyev Zentrum",
+            "tip": "Große Rasenflächen zum Entspannen vor der weißen Kulisse.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Park",
+            "tip": "Tágas zöldfelület a modern város közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Heydar Aliyev",
+            "tip": "Pajiști vaste și liniște în jurul centrului cultural.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Highland Park Terrace",
+            "tip": "Quiet corners with spectacular views of the bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Port Baku Mall",
+            "tip": "Luxusmarken und modernes Shopping-Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Port Baku Mall",
+            "tip": "Világmárkák és luxus vásárlási környezet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Port Baku Mall",
+            "tip": "Destinația principală pentru branduri de lux și modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Baku Mall",
+            "tip": "Baku's premier luxury shopping destination near the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Verkehr in Baku kann zur Rushhour sehr dicht sein; planen Sie Pufferzeiten ein.",
+          "In der Innenstadt gibt es viele unterirdische Parkhäuser.",
+          "Tanken ist in Aserbaidschan im Vergleich zu Europa sehr günstig.",
+          "Achten Sie auf die Kameras zur Geschwindigkeitsmessung; sie sind fast überall."
+        ],
+        "hu": [
+          "Baku forgalma csúcsidőben nagyon sűrű lehet, tervezzen előre.",
+          "A belvárosban több modern mélygarázs is rendelkezésre áll.",
+          "Az üzemanyag Azerbajdzsánban nagyon olcsó európai szemmel.",
+          "Vigyázzon a sebességmérő kamerákkal, rengeteg van belőlük."
+        ],
+        "ro": [
+          "Traficul în Baku poate fi foarte intens; evitați orele de vârf.",
+          "Există parcări subterane moderne în majoritatea zonelor centrale.",
+          "Prețul combustibilului este mult mai mic decât în Uniunea Europeană.",
+          "Respectați limitele de viteză; orașul este monitorizat video intens."
+        ],
+        "en": [
+          "Traffic can be heavy during rush hours; plan your hops accordingly.",
+          "Use the large underground parking lots in the city center to avoid fines.",
+          "Petrol is very affordable in Azerbaijan, making car trips cost-effective.",
+          "Speed cameras are everywhere; stick strictly to the indicated limits."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Icherisheher (Altstadt-U-Bahn)",
+            "hu": "Icherisheher metróállomás",
+            "ro": "Stația Icherisheher",
+            "en": "Icherisheher Metro Station"
+          },
+          "coords": [
+            49.8315,
+            40.3665
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Glaspyramide des Bahnhofs ist ein modernes Wahrzeichen am Rande der Mauern.",
+            "hu": "Az állomás üvegpiramisa modern látványosság a várfal szélén.",
+            "ro": "Piramida de sticlă a stației este un reper modern lângă zidurile vechi.",
+            "en": "The glass pyramid entrance is a modern landmark near the old walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Nizami-Museum für Literatur",
+            "hu": "Nizami Irodalmi Múzeum",
+            "ro": "Muzeul Literaturii Nizami",
+            "en": "Nizami Museum of Literature"
+          },
+          "coords": [
+            49.8365,
+            40.3705
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statuen aserbaidschanischer Dichter an der Fassade.",
+            "hu": "Csodálja meg az azeri költők szobrait a homlokzaton.",
+            "ro": "Admirați statuile poeților azeri care decorează fațada clădirii.",
+            "en": "Look up to see the statues of great poets on the ornate facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Fountain Square (Fevvareler Meydani)",
+            "hu": "Szökőkút tér",
+            "ro": "Piața Fântânilor",
+            "en": "Fountain Square"
+          },
+          "coords": [
+            49.8375,
+            40.3715
+          ],
+          "category": "square",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Herz des gesellschaftlichen Lebens mit unzähligen Cafés.",
+            "hu": "A társasági élet szíve rengeteg kávézóval.",
+            "ro": "Centrul vieții sociale, ideal pentru o pauză la cafea.",
+            "en": "The social heart of the city, perfect for people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Heydar Aliyev Kulturzentrum (per Metro)",
+            "hu": "Heydar Aliyev Központ (metróval)",
+            "ro": "Centrul Heydar Aliyev (via Metro)",
+            "en": "Heydar Aliyev Center (via Metro)"
+          },
+          "coords": [
+            49.8672,
+            40.3953
+          ],
+          "category": "museum",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zur Station Nariman Narimanov; von dort sind es 10 Min. Fußweg.",
+            "hu": "Utazzon a Nariman Narimanov állomásig, onnan 10 perc séta.",
+            "ro": "Coborâți la stația Nariman Narimanov și mergeți 10 minute pe jos.",
+            "en": "Take the red line to Nariman Narimanov station followed by a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Baku Funicular (Standseilbahn)",
+            "hu": "Bakui sikló",
+            "ro": "Funicularul din Baku",
+            "en": "Baku Funicular"
+          },
+          "coords": [
+            49.8315,
+            40.3605
+          ],
+          "category": "transit",
+          "arrive_at": "16:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine kurze, steile Fahrt mit großartigem Panoramablick.",
+            "hu": "Rövid, meredek utazás nagyszerű panorámával.",
+            "ro": "O urcare scurtă și abruptă cu o vedere panoramică excelentă.",
+            "en": "A brief but scenic ride connecting the boulevard with the hilltop."
+          }
+        },
+        {
+          "name": {
+            "de": "Märtyrerallee (Şəhidlər Xiyabanı)",
+            "hu": "Mártírok útja",
+            "ro": "Aleea Martirilor",
+            "en": "Martyrs' Lane"
+          },
+          "coords": [
+            49.8285,
+            40.3585
+          ],
+          "category": "monument",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Besinnung mit der ewigen Flamme am Ende der Allee.",
+            "hu": "Emlékhely az út végén található örökmécsessel.",
+            "ro": "Un loc solemn cu flacăra eternă și vedere spre golful Baku.",
+            "en": "A solemn site offering the best view of the Caspian Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Baku wie ein Einheimischer mit der Metro, deren Stationen kleine Kunstwerke sind.\n\nBeginnen Sie an der gläsernen Station Icherisheher und tauchen Sie in das Literaturviertel rund um den Fountain Square ein.\n\nNachmittags bringt Sie die rote Linie in den Norden zum futuristischen Heydar-Aliyev-Zentrum, einer Oase der Moderne.\n\nKrönen Sie den Tag mit einer Fahrt in der historischen Standseilbahn, die Sie direkt zu den Füßen der Flammentürme und zur Märtyrerallee bringt.",
+        "hu": "Fedezze fel Bakut úgy, mint egy helyi: használja a metrót, melynek állomásai gyakran művészeti alkotások.\n\nInduljon az Icherisheher üvegpiramisától, majd merüljön el az irodalmi negyed és a Szökőkút tér hangulatában.\n\nDélután a piros vonallal utazzon északra a futurisztikus Heydar Aliyev Központhoz.\n\nA napot a történelmi siklóval zárja, amely egyenesen a Lángtornyok lábához és a Mártírok útjához repíti.",
+        "ro": "Explorați Baku cu metroul, un mod eficient de a descoperi atât cartierele istorice, cât și pe cele noi.\n\nÎncepeți la stația Icherisheher și explorați zona pietonală din jurul Pieței Fântânilor, centrul vibrant al orașului.\n\nDupă-amiaza, folosiți magistrala roșie pentru a ajunge la Centrul Heydar Aliyev, trecând prin cartiere rezidențiale animate.\n\nFinalizați ziua cu funicularul istoric, care vă va urca pe dealul unde Turnurile Flacără veghează asupra întregului golf.",
+        "en": "Experience Baku through its underground and funicular, blending Soviet heritage with modern efficiency.\n\nStart at the striking Icherisheher station and wander through the cultural hub of Fountain Square.\n\nTake the red line to the northern districts to witness the sweeping curves of the Heydar Aliyev Center.\n\nFinish your day with a ride on the iconic funicular, ascending to the city's highest point for a breathtaking evening view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nargiz Restaurant",
+            "tip": "Probieren Sie Shah Plov, den König der aserbaidschanischen Reispilaws."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nargiz Étterem",
+            "tip": "Kóstolja meg a Shah Plov-ot, az azeri rizses ételek királyát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Nargiz",
+            "tip": "Încercați Shah Plov, coroana bucătăriei azere, servit în crustă de aluat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nargiz Restaurant",
+            "tip": "A must-try for Shah Plov, the king of Azerbaijani pilafs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Märtyrerallee Aussichtspunkt",
+            "tip": "Stille und Panorama hoch über der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mártírok útja kilátó",
+            "tip": "Csend és nyugalom a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Aleea Martirilor",
+            "tip": "Liniște și o panoramă spectaculoasă asupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Martyrs' Lane Overlook",
+            "tip": "A quiet, reflective spot with the best sea breeze.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nizami Street Shops",
+            "tip": "Von internationalen Marken bis hin zu lokalen Buchläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nizami utca üzletei",
+            "tip": "A nemzetközi márkáktól a helyi könyvesboltokig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Strada Nizami",
+            "tip": "De la branduri globale la anticariate locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nizami Pedestrian Street",
+            "tip": "Boutiques, bookstores, and international retailers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine BakiKart an den Automaten in den Metrostationen.",
+          "Die Metro-Stationen sind oft tief unter der Erde; nutzen Sie die langen Rolltreppen.",
+          "Busse ergänzen das Metro-Netz hervorragend, nutzen Sie Apps zur Navigation.",
+          "Die Standseilbahn fährt alle 10-15 Minuten und ist sehr preiswert."
+        ],
+        "hu": [
+          "Vásároljon BakiKart-ot a metróállomások automatáiban.",
+          "A metróállomások gyakran nagyon mélyen vannak, készüljön hosszú mozgólépcsőzésre.",
+          "A buszok jól kiegészítik a metróhálózatot, használjon útvonaltervezőt.",
+          "A sikló 10-15 percenként jár és nagyon olcsó."
+        ],
+        "ro": [
+          "Cumpărați un card BakiKart de la automatele din stațiile de metrou.",
+          "Stațiile de metrou sunt foarte adânci; bucurați-vă de arhitectura lor socialistă.",
+          "Autobuzele noi sunt dotate cu aer condiționat și sunt foarte eficiente.",
+          "Funicularul este un mod pitoresc și ieftin de a evita urcarea treptelor."
+        ],
+        "en": [
+          "Get a BakiKart at any metro station; it works for both metro and buses.",
+          "Baku metro stations are very deep; enjoy the grand Soviet-era architecture.",
+          "The red and green lines cover most tourist interest points.",
+          "The funicular is a cheap and scenic way to reach the Highland Park."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Weißer Stadtpark (White City)",
+            "hu": "Fehér Város park",
+            "ro": "Parcul White City",
+            "en": "White City Park"
+          },
+          "coords": [
+            49.8855,
+            40.3805
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Radtour am östlichen Ende der Promenade.",
+            "hu": "A sétány keleti végén lévő ideális indópont kerékpározáshoz.",
+            "ro": "Punctul de plecare perfect pentru o tură pe faleză.",
+            "en": "Great starting point with modern bike lanes and open space."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Baku Boulevard",
+            "hu": "Port Baku sugárút",
+            "ro": "Bulevardul Port Baku",
+            "en": "Port Baku Boulevard"
+          },
+          "coords": [
+            49.8555,
+            40.3755
+          ],
+          "category": "park",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Breite Wege entlang des modernen Yachthafens.",
+            "hu": "Széles utak a modern jachtkikötő mentén.",
+            "ro": "Piste largi și vederi superbe spre portul de iahturi.",
+            "en": "Wide paths along the modern yacht marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Regierungsgebäude (Hökumət Evi)",
+            "hu": "Kormányzati Palota",
+            "ro": "Casa Guvernului",
+            "en": "Government House"
+          },
+          "coords": [
+            49.8525,
+            40.3745
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Imposantes Gebäude im Barockstil der Stalin-Ära.",
+            "hu": "Impozáns épület a sztálini barokk stílusában.",
+            "ro": "O clădire masivă în stil baroc stalinist, reper pe faleză.",
+            "en": "A massive, ornate building in Stalinist Baroque style."
+          }
+        },
+        {
+          "name": {
+            "de": "Caspian Waterfront Mall",
+            "hu": "Caspian Waterfront Mall",
+            "ro": "Caspian Waterfront Mall",
+            "en": "Caspian Waterfront Mall"
+          },
+          "coords": [
+            49.8375,
+            40.3585
+          ],
+          "category": "shopping",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Das Design ist von der Nationalblume Aserbaidschans inspiriert.",
+            "hu": "A dizájnt Azerbajdzsán nemzeti virága ihlette.",
+            "ro": "Design inspirat de floarea națională, cu multe opțiuni de masă.",
+            "en": "The flower-shaped building offers great lunch options and AC."
+          }
+        },
+        {
+          "name": {
+            "de": "Baku Eye (Riesenrad)",
+            "hu": "Baku Eye (óriáskerék)",
+            "ro": "Baku Eye (Roata mare)",
+            "en": "Baku Eye (Ferris Wheel)"
+          },
+          "coords": [
+            49.8325,
+            40.3525
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Bucht von oben.",
+            "hu": "Élvezze az öbölre nyíló kilátást felülről.",
+            "ro": "Admirați întreaga faleză de la înălțime.",
+            "en": "Enjoy a bird's-eye view of the Caspian waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Baku Crystal Hall Area",
+            "hu": "Baku Crystal Hall környéke",
+            "ro": "Zona Baku Crystal Hall",
+            "en": "Baku Crystal Hall Area"
+          },
+          "coords": [
+            49.8455,
+            40.3425
+          ],
+          "category": "landmark",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Der Ort des Eurovision Song Contest 2012 am Ende der Halbinsel.",
+            "hu": "A 2012-es Eurovíziós Dalfesztivál helyszíne a félsziget végén.",
+            "ro": "Locul unde a avut loc Eurovision 2012, la capătul peninsulei.",
+            "en": "The venue of Eurovision 2012 at the very tip of the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Baku besitzt eine der längsten Uferpromenaden der Welt, ideal für eine entspannte Radtour am Meer.\n\nStarten Sie in der futuristischen White City und radeln Sie westwärts vorbei an Luxushotels und dem prächtigen Regierungsgebäude.\n\nNach einer Mittagspause im blumenförmigen Waterfront Mall geht es weiter zum Riesenrad für einen Panoramablick.\n\nDen Abschluss bildet die Fahrt zur Crystal Hall an der Spitze der Bucht, wo die Meeresbrise am stärksten ist.",
+        "hu": "Baku rendelkezik a világ egyik leghosszabb tengerparti sétányával, amely tökéletes egy kerékpáros túrához.\n\nInduljon a futurisztikus Fehér Városból, és tekerjen nyugat felé a luxusszállodák és a pompás Kormányzati Palota mellett.\n\nEgy ebéd után a virág alakú tengerparti plázában, folytassa útját az óriáskerék felé.\n\nA túrát a Crystal Hallnál zárja az öböl csücskében, ahol a legerősebb a tengeri szél.",
+        "ro": "Baku are una dintre cele mai lungi faleze din lume, oferind condiții excelente pentru ciclism pe malul mării.\n\nÎncepeți în White City și pedalați spre vest, trecând pe lângă Port Baku și impozanta Casă a Guvernului.\n\nDupă o pauză de prânz în Caspian Waterfront Mall, continuați spre roata panoramică pentru vederi spectaculoase.\n\nFinalizați traseul la Crystal Hall, punctul extrem al falezei, unde briza mării este cea mai reconfortantă.",
+        "en": "Baku's promenade is one of the world's longest coastal parks, making it a cyclist's dream with dedicated lanes.\n\nBegin in the sleek White City district and cruise westward past luxury developments and the grand Government House.\n\nRefuel at the stunning Waterfront Mall before pedaling to the Baku Eye for a fresh perspective of the skyline.\n\nYour journey ends at the Crystal Hall, where the open Caspian Sea meets the tip of the city's bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sahil Bar & Restaurant",
+            "tip": "Elegantes Restaurant am Boulevard mit toller Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sahil Bár és Étterem",
+            "tip": "Elegáns étterem a sétányon, pazar kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sahil Bar & Restaurant",
+            "tip": "Restaurant rafinat pe faleză cu vederi excelente la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sahil Bar & Restaurant",
+            "tip": "High-end dining on the boulevard with local and seafood specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade am Crystal Hall",
+            "tip": "Weniger Menschen und viel Meeresrauschen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crystal Hall sétány",
+            "tip": "Kevesebb ember és több tengerzúgás.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza de lângă Crystal Hall",
+            "tip": "Zonă mai puțin aglomerată, ideală pentru relaxare.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "End of the Boulevard",
+            "tip": "The quietest stretch near the Crystal Hall area.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Caspian Waterfront Mall",
+            "tip": "Modernste Mall in Baku direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caspian Waterfront Mall",
+            "tip": "A legmodernebb pláza Baku tengerpartján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caspian Waterfront Mall",
+            "tip": "Centru comercial modern cu arhitectură spectaculoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caspian Waterfront Mall",
+            "tip": "Architectural gem with high-street brands and a cinema."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie Fahrräder an den Stationen entlang des Boulevards.",
+          "Die Radwege sind gut markiert; bitte bleiben Sie auf der Spur.",
+          "Mittags kann es auf dem Boulevard sehr heiß werden; nutzen Sie Sonnenschutz.",
+          "An Wochenenden ist der Boulevard sehr belebt, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a sétány mentén található állomásokon.",
+          "A kerékpárutak jól jelzettek, kérjük, maradjon a sávban.",
+          "Délidőben nagyon erős lehet a napsütés a sétányon, használjon naptejet.",
+          "Hétvégén a sétány zsúfolt lehet, tekerjen óvatosan."
+        ],
+        "ro": [
+          "Închiriați biciclete de la punctele self-service de pe faleză.",
+          "Pistele de biciclete sunt clar marcate; respectați regulile de circulație.",
+          "Folosiți cremă de protecție solară, deoarece pe faleză este puțină umbră.",
+          "În weekend faleza devine foarte aglomerată cu pietoni."
+        ],
+        "en": [
+          "Rent a bike from the dedicated stands along the Boulevard.",
+          "Stick to the marked bike lanes to avoid conflicts with pedestrians.",
+          "There is little shade on the promenade; sunscreen is a must in summer.",
+          "The boulevard gets very crowded on weekend evenings; cycle with care."
+        ]
+      }
+    }
+  }
+}

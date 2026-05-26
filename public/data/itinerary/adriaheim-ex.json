@@ -1,0 +1,1447 @@
+{
+  "city_id": "adriaheim-ex",
+  "anchor": {
+    "name": "St. Michael's Square",
+    "coords": [
+      43.112,
+      14.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Michaels-Platz",
+            "hu": "Szent Mihály tér",
+            "ro": "Piața Sfântul Mihail",
+            "en": "St. Michael's Square"
+          },
+          "coords": [
+            43.112,
+            14.55
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie den Kaffee in einem der Cafés am Morgen.",
+            "hu": "Reggel kóstolj meg egy kávét az egyik téren lévő kávézóban.",
+            "ro": "Încearcă o cafea dimineața la una din cafenelele din piață.",
+            "en": "Try a coffee in one of the morning cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Adriaheim",
+            "hu": "Adriaheim Katedrális",
+            "ro": "Catedrala din Adriaheim",
+            "en": "Adriaheim Cathedral"
+          },
+          "coords": [
+            43.113,
+            14.551
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Details des gotischen Rosettenfensters.",
+            "hu": "Figyeld meg a gótikus rózsaablak részleteit!",
+            "ro": "Fiți atenți la detaliile rozetei gotice.",
+            "en": "Pay attention to the details of the Gothic rose window."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Vechea Primărie",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            43.112,
+            14.549
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Innenhof ist oft für die Öffentlichkeit zugänglich.",
+            "hu": "A belső udvar gyakran nyitva áll a látogatók előtt.",
+            "ro": "Curtea interioară este adesea deschisă publicului.",
+            "en": "The inner courtyard is often open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Riva-Promenade & Mittagessen",
+            "hu": "Riva sétány és ebéd",
+            "ro": "Promenada Riva și prânz",
+            "en": "Riva Promenade & Lunch"
+          },
+          "coords": [
+            43.111,
+            14.549
+          ],
+          "category": "gastro",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf den Hafen.",
+            "hu": "Válassz egy éttermet, ahonnan kilátás nyílik a kikötőre.",
+            "ro": "Alegeți un restaurant cu vedere la port.",
+            "en": "Choose a restaurant with a view of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            43.11,
+            14.548
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Sammlung antiker Amphoren ist beeindruckend.",
+            "hu": "Az ókori amforák gyűjteménye lenyűgöző.",
+            "ro": "Colecția de amfore antice este impresionantă.",
+            "en": "The collection of ancient amphorae is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Grüner Markt",
+            "hu": "Zöld Piac",
+            "ro": "Piața Verde",
+            "en": "Green Market"
+          },
+          "coords": [
+            43.114,
+            14.553
+          ],
+          "category": "market",
+          "arrive_at": "14:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kaufen Sie lokalen Honig oder Olivenöl als Souvenir.",
+            "hu": "Vásárolj helyi mézet vagy olívaolajat szuvenírként.",
+            "ro": "Cumpărați miere locală sau ulei de măsline ca suvenir.",
+            "en": "Buy local honey or olive oil as a souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten der Heiligen Lucia",
+            "hu": "Szent Lúcia kertje",
+            "ro": "Grădina Sfânta Lucia",
+            "en": "St. Lucia's Garden"
+          },
+          "coords": [
+            43.116,
+            14.555
+          ],
+          "category": "garden",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen.",
+            "hu": "Csendes hely a nap befejezéséhez.",
+            "ro": "Un loc liniștit pentru a încheia ziua.",
+            "en": "A quiet place to end the day's explorations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften St.-Michaels-Platz und erkunden Sie die historischen Gassen der Altstadt. Nach dem Mittagessen an der Riva-Promenade tauchen Sie in die maritime Geschichte ein. Am Nachmittag erleben Sie das lokale Leben auf dem Grünen Markt und finden Ruhe im Garten der Heiligen Lucia. Ein perfekter Tag zu Fuß durch das Herz von Adriaheim.",
+        "hu": "Kezdje a napot a nyüzsgő Szent Mihály téren, majd fedezze fel az óváros történelmi sikátorait. Ebédeljen a Riva sétányon, majd merüljön el a tengerészeti történelemben. Délután tapasztalja meg a helyi életet a Zöld Piacon, és találjon nyugalmat a Szent Lúcia kertjében. Egy tökéletes gyalogos nap Adriaheim szívében.",
+        "ro": "Începeți ziua în vibranta Piață Sfântul Mihail și explorați străduțele istorice ale orașului vechi. După prânzul pe promenada Riva, cufundați-vă în istoria maritimă. După-amiaza, experimentați viața locală la Piața Verde și găsiți liniștea în Grădina Sfânta Lucia. O zi perfectă de plimbare prin inima Adriaheimului.",
+        "en": "Start your day at the lively St. Michael's Square and explore the historic alleys of the Old Town. After lunch on the Riva promenade, delve into maritime history. In the afternoon, experience local life at the Green Market and find peace in St. Lucia's Garden. A perfect day on foot through the heart of Adriaheim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Risotto (Crni rižot)",
+            "tip": "Ein lokaler Klassiker, mit Tintenfischtinte gefärbt."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus der Adria, serviert mit Olivenöl und Knoblauch."
+          },
+          {
+            "name": "Restaurant 'Stari Ribar'",
+            "tip": "Bekannt für seine authentischen Fischgerichte direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete rizottó (Crni rižot)",
+            "tip": "Helyi klasszikus, tintahal tintájával színezve."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen az Adriából, olívaolajjal és fokhagymával tálalva."
+          },
+          {
+            "name": "'Stari Ribar' Étterem",
+            "tip": "Híres az autentikus halételeiről, közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto negru (Crni rižot)",
+            "tip": "Un clasic local, colorat cu cerneală de sepie."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Adriatică, servită cu ulei de măsline și usturoi."
+          },
+          {
+            "name": "Restaurant 'Stari Ribar'",
+            "tip": "Renumit pentru preparatele sale autentice din pește, chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Risotto (Crni rižot)",
+            "tip": "A local classic, colored with cuttlefish ink."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Adriatic, served with olive oil and garlic."
+          },
+          {
+            "name": "'Stari Ribar' Restaurant",
+            "tip": "Known for its authentic fish dishes right at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Heiligen Lucia",
+            "tip": "Ein verstecktes Juwel abseits der Menschenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Fischerkai",
+            "tip": "Beobachten Sie die Fischer bei ihrer Rückkehr.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sonnenuntergang am Sunset Beach",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt für eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Lúcia kertje",
+            "tip": "Rejtett gyöngyszem a tömegtől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a halászkikötőben",
+            "tip": "Figyeld a halászok visszatérését.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Naplemente a Sunset Beachen",
+            "tip": "Rövid séta a központtól a lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Sfânta Lucia",
+            "tip": "O bijuterie ascunsă, departe de aglomerație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la cheiul pescarilor",
+            "tip": "Priviți pescarii cum se întorc.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Apus la Sunset Beach",
+            "tip": "O scurtă plimbare de centru pentru o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Lucia's Garden",
+            "tip": "A hidden gem away from the crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the fishing pier",
+            "tip": "Watch the fishermen return with their catch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sunset at Sunset Beach",
+            "tip": "A short walk from the center for a stunning view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grüner Markt",
+            "tip": "Kaufen Sie lokales Olivenöl, Honig und handgefertigte Souvenirs."
+          },
+          {
+            "name": "Gassen der Altstadt",
+            "tip": "Kleine Boutiquen mit Schmuck und lokaler Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zöld Piac",
+            "tip": "Vásárolj helyi olívaolajat, mézet és kézműves ajándéktárgyakat."
+          },
+          {
+            "name": "Óvárosi sikátorok",
+            "tip": "Kis butikok ékszerekkel és helyi művészeti alkotásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Verde",
+            "tip": "Cumpărați ulei de măsline local, miere și suveniruri artizanale."
+          },
+          {
+            "name": "Străduțele din Centrul Vechi",
+            "tip": "Mici buticuri cu bijuterii și artă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Green Market",
+            "tip": "Shop for local olive oil, honey, and handmade souvenirs."
+          },
+          {
+            "name": "Old Town Alleys",
+            "tip": "Small boutiques with jewelry and local art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt mehrere öffentliche Brunnen.",
+          "Die meisten Geschäfte in der Altstadt akzeptieren Karten, aber Bargeld ist auf dem Markt nützlich.",
+          "Verlieren Sie sich in den kleinen Gassen; dort finden Sie die besten Fotomotive."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert a macskakövek egyenetlenek lehetnek.",
+          "Hozz magaddal újratölthető vizes palackot; több nyilvános kút is van.",
+          "Az óváros legtöbb üzletében elfogadják a kártyát, de a piacon hasznos a készpénz.",
+          "Tévedj el a kis sikátorokban; ott találod a legjobb fotótémákat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele pot fi denivelate.",
+          "Luați o sticlă de apă reutilizabilă; există mai multe fântâni publice.",
+          "Majoritatea magazinelor din Centrul Vechi acceptă carduri, dar numerarul este util la piață.",
+          "Pierdeți-vă pe străduțele mici; acolo veți găsi cele mai bune locuri pentru fotografii."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Bring a reusable water bottle; there are several public fountains.",
+          "Most shops in the old town accept cards, but cash is useful for the market.",
+          "Get lost in the small alleys; that's where you'll find the best photo opportunities."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Riva-Promenade",
+            "hu": "Kerékpárkölcsönzés és Riva sétány",
+            "ro": "Închiriere biciclete & Promenada Riva",
+            "en": "Bike Rental & Riva Promenade"
+          },
+          "coords": [
+            43.111,
+            14.549
+          ],
+          "category": "activity",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein City-Bike für eine entspannte Fahrt.",
+            "hu": "Bérelj egy városi kerékpárt a kényelmes tekeréshez.",
+            "ro": "Închiriați o bicicletă de oraș pentru o plimbare relaxantă.",
+            "en": "Rent a city bike for a comfortable ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerbastion",
+            "hu": "Halászbástya",
+            "ro": "Bastionul Pescarilor",
+            "en": "Fisherman's Bastion"
+          },
+          "coords": [
+            43.109,
+            14.547
+          ],
+          "category": "monument",
+          "arrive_at": "09:42",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Panoramafoto des Hafens.",
+            "hu": "Tökéletes hely egy panorámaképhez a kikötőről.",
+            "ro": "Locul perfect pentru o fotografie panoramică a portului.",
+            "en": "Perfect spot for a panoramic photo of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Beach (Plaža Zalazak)",
+            "hu": "Sunset Beach (Plaža Zalazak)",
+            "ro": "Plaja Sunset (Plaža Zalazak)",
+            "en": "Sunset Beach (Plaža Zalazak)"
+          },
+          "coords": [
+            43.105,
+            14.545
+          ],
+          "category": "beach",
+          "arrive_at": "10:14",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad vor dem Mittagessen.",
+            "hu": "Egy frissítő úszás ebéd előtt.",
+            "ro": "O baie răcoritoare înainte de prânz.",
+            "en": "A refreshing swim before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Strandbar",
+            "hu": "Ebéd egy strandbárban",
+            "ro": "Prânz la un bar pe plajă",
+            "en": "Lunch at a Beach Bar"
+          },
+          "coords": [
+            43.106,
+            14.545
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie die gegrillten Sardinen.",
+            "hu": "Kóstold meg a grillezett szardíniát!",
+            "ro": "Încercați sardinele la grătar.",
+            "en": "Try the grilled sardines."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Michaels-Platz & Altstadt",
+            "hu": "Szent Mihály tér és Óváros",
+            "ro": "Piața Sf. Mihail și Centrul Vechi",
+            "en": "St. Michael's Square & Old Town"
+          },
+          "coords": [
+            43.112,
+            14.55
+          ],
+          "category": "square",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Tedd le a biciklit és fedezd fel gyalog a sikátorokat.",
+            "ro": "Parcați bicicleta și explorați străduțele pe jos.",
+            "en": "Park your bike and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten der Heiligen Lucia",
+            "hu": "Szent Lúcia kertje",
+            "ro": "Grădina Sfânta Lucia",
+            "en": "St. Lucia's Garden"
+          },
+          "coords": [
+            43.116,
+            14.555
+          ],
+          "category": "garden",
+          "arrive_at": "16:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach der Radtour im Schatten der Pinien.",
+            "hu": "Pihenj a fenyők árnyékában a biciklizés után.",
+            "ro": "Relaxați-vă la umbra pinilor după turul cu bicicleta.",
+            "en": "Relax under the shade of the pine trees after your ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag auf zwei Rädern an der Riva. Radeln Sie die Küste entlang, genießen Sie die Meeresbrise an der Fischerbastion und nehmen Sie ein Bad am Sunset Beach. Nach einem leichten Mittagessen am Strand erkunden Sie die historische Altstadt. Beenden Sie den Tag entspannt im ruhigen Garten der Heiligen Lucia. Eine aktive und erfrischende Art, Adriaheim zu entdecken.",
+        "hu": "Kezdje a napot két keréken a Riván. Tekerjen végig a tengerparton, élvezze a tengeri szellőt a Halászbástyánál, és csobbanjon egyet a Sunset Beachen. Egy könnyű tengerparti ebéd után fedezze fel a történelmi óvárost. Zárja a napot pihenéssel a csendes Szent Lúcia kertjében. Aktív és frissítő módja Adriaheim felfedezésének.",
+        "ro": "Începeți ziua pe două roți pe promenada Riva. Pedalați de-a lungul coastei, bucurați-vă de briza mării la Bastionul Pescarilor și faceți o baie la Plaja Sunset. După un prânz ușor pe plajă, explorați centrul vechi istoric. Încheiați ziua relaxându-vă în liniștita Grădină Sfânta Lucia. Un mod activ și revigorant de a descoperi Adriaheim.",
+        "en": "Start your day on two wheels at the Riva. Cycle along the coast, enjoy the sea breeze at the Fisherman's Bastion, and take a dip at Sunset Beach. After a light lunch by the sea, explore the historic Old Town. End your day relaxing in the peaceful St. Lucia's Garden. An active and refreshing way to discover Adriaheim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frisch vom Tagesfang, in Strandbars serviert."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Erfrischend nach einer Radtour."
+          },
+          {
+            "name": "Fritule (Krapfen)",
+            "tip": "Ein süßer Snack, oft an der Promenade verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen fogott, a strandbárokban szolgálják fel."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Frissítő egy biciklitúra után."
+          },
+          {
+            "name": "Fritule (fánk)",
+            "tip": "Édes harapnivaló, gyakran árulják a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt prins în acea zi, servit la barurile de pe plajă."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Răcoritoare după un tur cu bicicleta."
+          },
+          {
+            "name": "Fritule (gogoși)",
+            "tip": "O gustare dulce, adesea vândută pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled fish",
+            "tip": "Fresh from the day's catch, served at beach bars."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Refreshing after a bike ride."
+          },
+          {
+            "name": "Fritule (doughnuts)",
+            "tip": "A sweet snack often sold on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Bucht südlich von Sunset Beach",
+            "tip": "Ein kurzer Abstecher für absolute Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pinienwald oberhalb der Küste",
+            "tip": "Bietet schattige Wege und tolle Ausblicke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenaufgang an der Riva",
+            "tip": "Für Frühaufsteher, die Stille vor dem Trubel suchen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett öböl a Sunset Beachtől délre",
+            "tip": "Rövid kitérő a teljes nyugalomért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fenyőerdő a part felett",
+            "tip": "Árnyékos ösvényeket és nagyszerű kilátást kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Napfelkelte a Riván",
+            "tip": "Korán kelőknek, akik a nyüzsgés előtti csendet keresik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golf ascuns la sud de Plaja Sunset",
+            "tip": "Un scurt ocol pentru liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea de pini de deasupra coastei",
+            "tip": "Oferă poteci umbroase și priveliști minunate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Răsărit pe Riva",
+            "tip": "Pentru cei matinali care caută liniștea dinaintea agitației.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden cove south of Sunset Beach",
+            "tip": "A short detour for absolute tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pine forest above the coast",
+            "tip": "Offers shady paths and great views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunrise on the Riva",
+            "tip": "For early birds seeking silence before the bustle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Entlang der Küstenstraße finden sich kleine Ateliers."
+          },
+          {
+            "name": "Lavendelprodukte",
+            "tip": "Säckchen, Öle und Seifen sind ein typisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "A parti út mentén kis műtermek találhatók."
+          },
+          {
+            "name": "Levendula termékek",
+            "tip": "Zsákok, olajok és szappanok tipikus ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Mici ateliere se găsesc de-a lungul drumului de coastă."
+          },
+          {
+            "name": "Produse din lavandă",
+            "tip": "Săculeți, uleiuri și săpunuri sunt un suvenir tipic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local art galleries",
+            "tip": "Small studios can be found along the coastal road."
+          },
+          {
+            "name": "Lavender products",
+            "tip": "Sachets, oils, and soaps are a typical souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+          "Nehmen Sie viel Wasser mit, besonders an heißen Tagen.",
+          "Einige Abschnitte der Küstenstraße können mit Fußgängern geteilt werden, fahren Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a fékeket és a gumikat.",
+          "Vigyél magaddal sok vizet, különösen meleg napokon.",
+          "A parti út egyes szakaszait meg kell osztani a gyalogosokkal, vezess óvatosan.",
+          "Mindig zárd le a kerékpárodat, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Verificați frânele și anvelopele înainte de a porni.",
+          "Luați multă apă, mai ales în zilele caniculare.",
+          "Unele porțiuni ale drumului de coastă pot fi partajate cu pietonii, conduceți cu prudență.",
+          "Încuiati întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Check your brakes and tires before you start.",
+          "Bring plenty of water, especially on hot days.",
+          "Some parts of the coastal path are shared with pedestrians, ride carefully.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 30.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Michaels-Platz (Cluster A)",
+            "hu": "Szent Mihály tér (A Klaszter)",
+            "ro": "Piața Sf. Mihail (Cluster A)",
+            "en": "St. Michael's Square (Cluster A)"
+          },
+          "coords": [
+            43.112,
+            14.55
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Rande der Altstadt und gehen Sie zum Platz.",
+            "hu": "Parkolj az óváros szélén, és sétálj a térre.",
+            "ro": "Parcați la marginea orașului vechi și mergeți pe jos până în piață.",
+            "en": "Park on the edge of the old town and walk to the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Altes Rathaus (Cluster A)",
+            "hu": "Katedrális és Régi Városháza (A Klaszter)",
+            "ro": "Catedrala și Vechea Primărie (Cluster A)",
+            "en": "Cathedral & Old Town Hall (Cluster A)"
+          },
+          "coords": [
+            43.113,
+            14.551
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beide Sehenswürdigkeiten liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Mindkét látnivaló csak néhány lépésre van egymástól.",
+            "ro": "Ambele atracții sunt la doar câțiva pași una de cealaltă.",
+            "en": "Both sights are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Punta Bianca (Cluster B)",
+            "hu": "Punta Bianca világítótorony (B Klaszter)",
+            "ro": "Farul Punta Bianca (Cluster B)",
+            "en": "Punta Bianca Lighthouse (Cluster B)"
+          },
+          "coords": [
+            43.15,
+            14.65
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Atemberaubende Aussicht auf die Küste und die Inseln.",
+            "hu": "Lélegzetelállító kilátás a partra és a szigetekre.",
+            "ro": "Vederi uluitoare ale coastei și insulelor.",
+            "en": "Breathtaking views of the coast and islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba (Cluster B)",
+            "hu": "Ebéd egy Konobában (B Klaszter)",
+            "ro": "Prânz la o Konoba (Cluster B)",
+            "en": "Lunch at a Konoba (Cluster B)"
+          },
+          "coords": [
+            43.149,
+            14.648
+          ],
+          "category": "gastro",
+          "arrive_at": "11:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Lamm vom Spieß, eine Spezialität der Region.",
+            "hu": "Kóstolja meg a nyárson sült bárányt, a régió specialitását.",
+            "ro": "Încercați miel la proțap, o specialitate a regiunii.",
+            "en": "Try lamb on the spit, a specialty of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Beach (Cluster C)",
+            "hu": "Sunset Beach (C Klaszter)",
+            "ro": "Plaja Sunset (Cluster C)",
+            "en": "Sunset Beach (Cluster C)"
+          },
+          "coords": [
+            43.105,
+            14.545
+          ],
+          "category": "beach",
+          "arrive_at": "13:59",
+          "stay_min": 120,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 17.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető délutánhoz.",
+            "ro": "Locul perfect pentru o după-amiază relaxantă.",
+            "en": "The perfect place for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Fischerkai (Cluster C)",
+            "hu": "Vacsora a halászkikötőnél (C Klaszter)",
+            "ro": "Cină la cheiul pescarilor (Cluster C)",
+            "en": "Dinner at the Fishing Pier (Cluster C)"
+          },
+          "coords": [
+            43.109,
+            14.547
+          ],
+          "category": "gastro",
+          "arrive_at": "16:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den frischesten Fisch mit Blick auf den Sonnenuntergang.",
+            "hu": "Élvezze a legfrissebb halat a naplemente látványával.",
+            "ro": "Bucurați-vă de cel mai proaspăt pește cu vedere la apus.",
+            "en": "Enjoy the freshest fish with a view of the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im historischen Herzen von Adriaheim, bevor Sie zum Panoramablick am Leuchtturm Punta Bianca fahren. Nach einem traditionellen Mittagessen fahren Sie zur Küste für einen entspannten Nachmittag am Sunset Beach. Beenden Sie den Tag mit einem köstlichen Abendessen am Fischerkai. Dieser Ausflug kombiniert Stadtkultur mit atemberaubender Natur.",
+        "hu": "Kezdje Adriaheim történelmi szívében, majd hajtson el a panorámás Punta Bianca világítótoronyhoz. Egy hagyományos ebéd után irány a part egy pihentető délutánra a Sunset Beachen. Zárja a napot egy finom vacsorával a halászkikötőnél. Ez az útvonal ötvözi a városi kultúrát a lélegzetelállító természettel.",
+        "ro": "Începeți în inima istorică a Adriaheimului, apoi conduceți la farul Punta Bianca pentru vederi panoramice. După un prânz tradițional, mergeți la coastă pentru o după-amiază relaxantă la Plaja Sunset. Încheiați ziua cu o cină delicioasă la cheiul pescarilor. Această excursie combină cultura orașului cu natura uluitoare.",
+        "en": "Start in the historic heart of Adriaheim before driving to the panoramic views at Punta Bianca Lighthouse. After a traditional lunch, head to the coast for a relaxing afternoon at Sunset Beach. End the day with a delicious dinner at the fishing pier. This trip combines city culture with breathtaking nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm vom Spieß (Janjetina s ražnja)",
+            "tip": "Eine herzhafte Spezialität des Hinterlandes."
+          },
+          {
+            "name": "Peka",
+            "tip": "Fleisch und Gemüse, das unter einer Glocke in der Glut gegart wird."
+          },
+          {
+            "name": "Hausgemachter Wein",
+            "tip": "Viele Konobas servieren ihren eigenen Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány (Janjetina s ražnja)",
+            "tip": "A hátország kiadós specialitása."
+          },
+          {
+            "name": "Peka",
+            "tip": "Hús és zöldségek parázs alatt, harang alakú edényben sütve."
+          },
+          {
+            "name": "Házi bor",
+            "tip": "Sok konoba saját bort szolgál fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap (Janjetina s ražnja)",
+            "tip": "O specialitate consistentă din hinterland."
+          },
+          {
+            "name": "Peka",
+            "tip": "Carne și legume gătite sub un clopot în jar."
+          },
+          {
+            "name": "Vin de casă",
+            "tip": "Multe konobe servesc propriul vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb on the spit (Janjetina s ražnja)",
+            "tip": "A hearty specialty of the hinterland."
+          },
+          {
+            "name": "Peka",
+            "tip": "Meat and vegetables cooked under a bell-like lid in embers."
+          },
+          {
+            "name": "Homemade wine",
+            "tip": "Many konobas serve their own wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Leuchtturm",
+            "tip": "Weit weg von der Hektik der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Bucht in der Nähe von Punta Bianca",
+            "tip": "Fragen Sie die Einheimischen nach ihrem Geheimtipp.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang bei Sonnenuntergang",
+            "tip": "Am Sunset Beach, weg vom Parkplatz.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a világítótoronynál",
+            "tip": "Távol a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes öböl Punta Bianca közelében",
+            "tip": "Kérdezd a helyieket a titkos tippjükről.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente séta",
+            "tip": "A Sunset Beachen, távol a parkolótól.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la far",
+            "tip": "Departe de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un golf liniștit lângă Punta Bianca",
+            "tip": "Întrebați localnicii despre pontul lor secret.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare la apus",
+            "tip": "Pe Plaja Sunset, departe de parcare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at the lighthouse",
+            "tip": "Far from the hustle and bustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet cove near Punta Bianca",
+            "tip": "Ask locals for their secret spot.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset walk",
+            "tip": "On Sunset Beach, away from the parking area.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käse aus dem Hinterland",
+            "tip": "Suchen Sie nach 'Paški sir' oder lokalen Ziegenkäsesorten."
+          },
+          {
+            "name": "Olivenöl von kleinen Produzenten",
+            "tip": "Oft an Ständen entlang der Landstraßen verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajt a hátországból",
+            "tip": "Keresd a 'Paški sir'-t vagy a helyi kecskesajtokat."
+          },
+          {
+            "name": "Olívaolaj kis termelőktől",
+            "tip": "Gyakran árulják az országutak menti standokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză din hinterland",
+            "tip": "Căutați 'Paški sir' sau sortimente locale de brânză de capră."
+          },
+          {
+            "name": "Ulei de măsline de la micii producători",
+            "tip": "Adesea vândut la tarabe de-a lungul drumurilor naționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese from the hinterland",
+            "tip": "Look for 'Paški sir' or local goat cheese varieties."
+          },
+          {
+            "name": "Olive oil from small producers",
+            "tip": "Often sold at stalls along country roads."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können im Sommer überfüllt sein, planen Sie zusätzliche Fahrzeit ein.",
+          "Parkplätze in der Nähe von Sehenswürdigkeiten sind oft gebührenpflichtig.",
+          "Achten Sie auf Roller und Motorräder, besonders in der Stadt.",
+          "Ein GPS ist unerlässlich, um sich auf den Landstraßen zurechtzufinden."
+        ],
+        "hu": [
+          "Az utak nyáron zsúfoltak lehetnek, tervezz extra utazási idővel.",
+          "A látnivalók közelében a parkolás gyakran fizetős.",
+          "Figyelj a robogókra és motorokra, különösen a városban.",
+          "A GPS elengedhetetlen a vidéki utakon való tájékozódáshoz."
+        ],
+        "ro": [
+          "Drumurile pot fi aglomerate vara, planificați timp suplimentar de condus.",
+          "Parcarea lângă atracții este adesea cu plată.",
+          "Fiți atenți la scutere și motociclete, în special în oraș.",
+          "Un GPS este esențial pentru a naviga pe drumurile de țară."
+        ],
+        "en": [
+          "Roads can be crowded in summer, plan for extra travel time.",
+          "Parking near attractions is often paid.",
+          "Watch out for scooters and motorcycles, especially in the city.",
+          "A GPS is essential for navigating the country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Michaels-Platz (Bezirk A)",
+            "hu": "Szent Mihály tér (A negyed)",
+            "ro": "Piața Sf. Mihail (District A)",
+            "en": "St. Michael's Square (District A)"
+          },
+          "coords": [
+            43.112,
+            14.55
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am Hauptbusknotenpunkt der Altstadt.",
+            "hu": "Kezdje az óváros fő buszcsomópontjánál.",
+            "ro": "Începeți de la nodul principal de autobuz din orașul vechi.",
+            "en": "Start at the main bus hub of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Grüner Markt (Bezirk A)",
+            "hu": "Zöld Piac (A negyed)",
+            "ro": "Piața Verde (District A)",
+            "en": "Green Market (District A)"
+          },
+          "coords": [
+            43.114,
+            14.553
+          ],
+          "category": "market",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie das geschäftige Treiben am Morgen.",
+            "hu": "Tapasztalja meg a reggeli nyüzsgést.",
+            "ro": "Experimentați agitația de dimineață.",
+            "en": "Experience the morning hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum (Bezirk A)",
+            "hu": "Tengerészeti Múzeum (A negyed)",
+            "ro": "Muzeul Maritim (District A)",
+            "en": "Maritime Museum (District A)"
+          },
+          "coords": [
+            43.11,
+            14.548
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte.",
+            "hu": "A történelem iránt érdeklődőknek kötelező.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie.",
+            "en": "A must-visit for history enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Künstlerviertel (Bezirk B)",
+            "hu": "Művésznegyed (B negyed)",
+            "ro": "Cartierul Artiștilor (District B)",
+            "en": "Artists' Quarter (District B)"
+          },
+          "coords": [
+            43.12,
+            14.565
+          ],
+          "category": "shopping",
+          "arrive_at": "12:33",
+          "stay_min": 50,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Nr. 5 vom alten Hafen.",
+            "hu": "Menj az 5-ös busszal a régi kikötőből.",
+            "ro": "Luați autobuzul nr. 5 din portul vechi.",
+            "en": "Take bus #5 from the old port."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie für Moderne Kunst & Mittagessen (Bezirk B)",
+            "hu": "Modern Művészeti Galéria és Ebéd (B negyed)",
+            "ro": "Galeria de Artă Modernă și Prânz (District B)",
+            "en": "Modern Art Gallery & Lunch (District B)"
+          },
+          "coords": [
+            43.121,
+            14.566
+          ],
+          "category": "museum",
+          "arrive_at": "13:28",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Kunstgenuss mit einem leichten Mittagessen im Museumscafé.",
+            "hu": "Kösse össze a művészet élvezetét egy könnyű ebéddel a múzeumi kávézóban.",
+            "ro": "Combinați arta cu un prânz ușor la cafeneaua muzeului.",
+            "en": "Combine art appreciation with a light lunch at the museum cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Riva-Promenade für den Sonnenuntergang",
+            "hu": "Riva sétány naplementéhez",
+            "ro": "Promenada Riva pentru apus",
+            "en": "Riva Promenade for Sunset"
+          },
+          "coords": [
+            43.111,
+            14.549
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 4.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um den Tag am Meer ausklingen zu lassen.",
+            "hu": "Térjen vissza a központba, hogy a tengerparton fejezze be a napot.",
+            "ro": "Întoarceți-vă în centru pentru a încheia ziua la malul mării.",
+            "en": "Head back to the center to end the day by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie am Vormittag den historischen Kern von Adriaheim zu Fuß. Nehmen Sie dann den Bus in das unkonventionelle Künstlerviertel für einen Nachmittag voller moderner Kunst und kreativer Atmosphäre. Kehren Sie bei Sonnenuntergang ins Zentrum zurück, um die malerische Aussicht auf die Riva zu genießen. Eine Reise, die das alte und das neue Adriaheim verbindet.",
+        "hu": "Délelőtt fedezze fel gyalog Adriaheim történelmi magját. Délután busszal utazzon a bohém művésznegyedbe, ahol modern művészet és kreatív légkör várja. Naplementekor térjen vissza a központba, hogy élvezze a Riva festői látványát. Egy utazás, amely összeköti a régi és az új Adriaheimot.",
+        "ro": "Explorați nucleul istoric al Adriaheimului pe jos dimineața. Apoi, luați autobuzul spre cartierul boem al artiștilor pentru o după-amiază de artă modernă și atmosferă creativă. Întoarceți-vă în centru la apus pentru a vă bucura de priveliștea pitorească a Rivei. O călătorie care leagă vechiul și noul Adriaheim.",
+        "en": "Explore the historic core of Adriaheim on foot in the morning. Then, take a bus to the bohemian Artists' Quarter for an afternoon of modern art and creative atmosphere. Return to the center at sunset to enjoy the picturesque view from the Riva. A journey connecting the old and new Adriaheim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Street Food im Künstlerviertel",
+            "tip": "Probieren Sie innovative Burger oder vegane Wraps."
+          },
+          {
+            "name": "Eis an der Riva",
+            "tip": "Ein Muss bei Sonnenuntergang."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, perfekt für einen schnellen Imbiss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Street Food a Művésznegyedben",
+            "tip": "Kóstolj innovatív hamburgereket vagy vegán wrapeket."
+          },
+          {
+            "name": "Fagylalt a Riván",
+            "tip": "Kötelező naplementekor."
+          },
+          {
+            "name": "Burek",
+            "tip": "Sós péksütemény, tökéletes egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Street Food în Cartierul Artiștilor",
+            "tip": "Încercați burgeri inovatori sau wrap-uri vegane."
+          },
+          {
+            "name": "Înghețată pe Riva",
+            "tip": "O necesitate la apus."
+          },
+          {
+            "name": "Burek",
+            "tip": "O plăcintă sărată, perfectă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street food in the Artists' Quarter",
+            "tip": "Try innovative burgers or vegan wraps."
+          },
+          {
+            "name": "Ice cream on the Riva",
+            "tip": "A must-have at sunset."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory pastry, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof der Galerie für Moderne Kunst",
+            "tip": "Eine Oase der Ruhe im Künstlerviertel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank am Ende der Riva",
+            "tip": "Beobachten Sie die abfahrenden Fähren.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lesen im Garten der Heiligen Lucia",
+            "tip": "Leicht mit dem Bus zu erreichen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Modern Művészeti Galéria belső udvara",
+            "tip": "A nyugalom oázisa a Művésznegyedben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Riva végén",
+            "tip": "Figyeld a távozó komphajókat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olvasás a Szent Lúcia kertjében",
+            "tip": "Könnyen megközelíthető busszal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a Galeriei de Artă Modernă",
+            "tip": "O oază de liniște în Cartierul Artiștilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă la capătul Rivei",
+            "tip": "Priviți feriboturile care pleacă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Citind în Grădina Sfânta Lucia",
+            "tip": "Ușor accesibil cu autobuzul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The courtyard of the Modern Art Gallery",
+            "tip": "An oasis of calm in the Artists' Quarter.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench at the far end of the Riva",
+            "tip": "Watch the ferries depart.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Reading in St. Lucia's Garden",
+            "tip": "Easily accessible by a short bus ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ateliers im Künstlerviertel",
+            "tip": "Kaufen Sie Kunst direkt vom Künstler."
+          },
+          {
+            "name": "Design-Shops",
+            "tip": "Finden Sie einzigartige Kleidung und Wohnaccessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Műtermek a Művésznegyedben",
+            "tip": "Vásárolj művészetet közvetlenül a művésztől."
+          },
+          {
+            "name": "Dizájn boltok",
+            "tip": "Találj egyedi ruhákat és lakberendezési tárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere în Cartierul Artiștilor",
+            "tip": "Cumpărați artă direct de la artist."
+          },
+          {
+            "name": "Magazine de design",
+            "tip": "Găsiți haine unice și accesorii pentru casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Studios in the Artists' Quarter",
+            "tip": "Buy art directly from the artist."
+          },
+          {
+            "name": "Design shops",
+            "tip": "Find unique clothing and home accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, es ist günstiger.",
+          "Validieren Sie Ihr Ticket beim Einsteigen.",
+          "Busfahrpläne finden Sie an den Haltestellen und online.",
+          "Die Busse können in der Hochsaison voll sein, seien Sie also auf Stehplätze vorbereitet."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, olcsóbb.",
+          "Érvényesítsd a jegyed felszálláskor.",
+          "A buszmenetrendeket a megállókban és online is megtalálod.",
+          "A buszok főszezonban zsúfoltak lehetnek, készülj fel az állóhelyekre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, este mai ieftin.",
+          "Validați biletul la urcare.",
+          "Orarul autobuzelor este disponibil la stații și online.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf, așa că fiți pregătiți să stați în picioare."
+        ],
+        "en": [
+          "Buy a daily bus ticket, it's cheaper.",
+          "Validate your ticket when you board.",
+          "Bus schedules are available at the stops and online.",
+          "Buses can be crowded during peak season, so be prepared to stand."
+        ]
+      }
+    }
+  }
+}

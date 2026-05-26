@@ -1,0 +1,1077 @@
+{
+  "city_id": "egham-hythe",
+  "anchor": {
+    "name": "Egham Hythe Bridge",
+    "coords": [
+      -0.5358,
+      51.4311
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Staines Brücke",
+            "hu": "Staines-híd",
+            "ro": "Podul Staines",
+            "en": "Staines Bridge"
+          },
+          "coords": [
+            -0.518,
+            51.432
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den ersten Blick auf die Themse.",
+            "hu": "Élvezze az első pillantást a Temzére.",
+            "ro": "Bucurați-vă de prima vedere asupra Tamisei.",
+            "en": "Enjoy the first view of the Thames."
+          }
+        },
+        {
+          "name": {
+            "de": "Themse-Pfad (Nordwärts)",
+            "hu": "Temze-ösvény (észak felé)",
+            "ro": "Calea Tamisei (spre nord)",
+            "en": "Thames Path (Northbound)"
+          },
+          "coords": [
+            -0.525,
+            51.435
+          ],
+          "category": "park",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Schwäne am Ufer.",
+            "hu": "Figyelje a hattyúkat a parton.",
+            "ro": "Observați lebedele de pe mal.",
+            "en": "Watch the swans on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Lammas Erholungsgelände",
+            "hu": "Lammas pihenőpark",
+            "ro": "Terenul de recreere Lammas",
+            "en": "Lammas Recreation Ground"
+          },
+          "coords": [
+            -0.535,
+            51.43
+          ],
+          "category": "park",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick oder eine kleine Pause.",
+            "hu": "Ideális egy piknikhez vagy egy kis pihenőhöz.",
+            "ro": "Ideal pentru un picnic sau o scurtă pauză.",
+            "en": "Ideal for a picnic or a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "The Swan Hotel Lunch",
+            "hu": "The Swan Hotel ebéd",
+            "ro": "Prânz la Hotelul Swan",
+            "en": "The Swan Hotel Lunch"
+          },
+          "coords": [
+            -0.536,
+            51.432
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Historisches Gasthaus direkt am Wasser.",
+            "hu": "Történelmi fogadó közvetlenül a víznél.",
+            "ro": "Han istoric chiar pe malul apei.",
+            "en": "Historic inn right on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Hythe Park",
+            "hu": "Hythe Park",
+            "ro": "Parcul Hythe",
+            "en": "Hythe Park"
+          },
+          "coords": [
+            -0.545,
+            51.428
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger lokaler Park.",
+            "hu": "Egy csendes helyi park.",
+            "ro": "Un parc local liniștit.",
+            "en": "A quiet local park."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul's Kirche",
+            "hu": "Szent Pál-templom",
+            "ro": "Biserica Sf. Paul",
+            "en": "St Paul's Church"
+          },
+          "coords": [
+            -0.54,
+            51.425
+          ],
+          "category": "religious",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort für Besinnung.",
+            "hu": "Békés hely az elmélkedéshez.",
+            "ro": "Un loc liniștit pentru reflecție.",
+            "en": "A peaceful place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Themse-Ufer Sunset",
+            "hu": "Temze-parti naplemente",
+            "ro": "Apus de soare pe malul Tamisei",
+            "en": "Thames Bank Sunset"
+          },
+          "coords": [
+            -0.535,
+            51.431
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das Licht auf dem Wasser.",
+            "hu": "Élvezze a fényeket a vízen.",
+            "ro": "Bucurați-vă de luminile de pe apă.",
+            "en": "Enjoy the light on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Egham Hythe bei einem gemütlichen Spaziergang entlang der Themse. Starten Sie an der Staines Brücke und folgen Sie dem Flusslauf bis zum Lammas Erholungsgelände. Nach einem traditionellen Mittagessen im Swan Hotel entdecken Sie die grünen Ecken des Viertels und beenden den Tag bei einem stimmungsvollen Sonnenuntergang am Ufer.",
+        "hu": "Fedezze fel Egham Hythe-t egy kellemes sétával a Temze mentén. Induljon a Staines-hídtól, és kövesse a folyó folyását a Lammas pihenőparkig. A Swan Hotelben elfogyasztott hagyományos ebéd után fedezze fel a negyed zöld zugait, majd zárja a napot egy hangulatos naplementével a folyóparton.",
+        "ro": "Experimentați Egham Hythe printr-o plimbare relaxantă de-a lungul Tamisei. Începeți la Podul Staines și urmați cursul râului până la terenul de recreere Lammas. După un prânz tradițional la Hotelul Swan, descoperiți colțurile verzi ale cartierului și încheiați ziua cu un apus de soare atmosferic pe malul râului.",
+        "en": "Experience Egham Hythe with a leisurely stroll along the Thames. Start at Staines Bridge and follow the river flow to the Lammas Recreation Ground. After a traditional lunch at The Swan Hotel, discover the green corners of the district and end the day with an atmospheric sunset on the riverbank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Swan Hotel",
+            "tip": "Britisches Essen mit Flussblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Swan Hotel",
+            "tip": "Brit ételek folyóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Swan Hotel",
+            "tip": "Mâncare britanică cu vedere la râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Swan Hotel",
+            "tip": "British food with river views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lammas Meadow",
+            "tip": "Vogelbeobachtung direkt am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lammas Meadow",
+            "tip": "Madármegfigyelés közvetlenül a víznél.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lunca Lammas",
+            "tip": "Observarea păsărilor chiar pe apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lammas Meadow",
+            "tip": "Birdwatching right by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Staines High Street",
+            "tip": "Kurzer Spaziergang über die Brücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Staines High Street",
+            "tip": "Rövid séta a hídon át."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Staines High Street",
+            "tip": "Scurtă plimbare peste pod."
+          }
+        ],
+        "en": [
+          {
+            "name": "Staines High Street",
+            "tip": "Short walk across the bridge."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Füttern Sie die Vögel nur mit geeignetem Futter.",
+          "Der Pfad kann bei Hochwasser gesperrt sein."
+        ],
+        "hu": [
+          "A madarakat csak megfelelő eledellel etesse.",
+          "Az ösvényt áradáskor lezárhatják."
+        ],
+        "ro": [
+          "Hrăniți păsările doar cu mâncare adecvată.",
+          "Calea poate fi închisă în caz de inundații."
+        ],
+        "en": [
+          "Only feed birds with appropriate food.",
+          "The path may be closed during high water levels."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Themse-Radweg",
+            "hu": "Temze-kerékpárút",
+            "ro": "Pista de biciclete Tamisa",
+            "en": "Thames Cycle Path"
+          },
+          "coords": [
+            -0.518,
+            51.432
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Fahrt flussaufwärts.",
+            "hu": "Kezdje a túrát a folyásirányban felfelé.",
+            "ro": "Începeți plimbarea în amonte.",
+            "en": "Start your ride heading upstream."
+          }
+        },
+        {
+          "name": {
+            "de": "Runnymede Memorials",
+            "hu": "Runnymede emlékművek",
+            "ro": "Monumentele Runnymede",
+            "en": "Runnymede Memorials"
+          },
+          "coords": [
+            -0.565,
+            51.445
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Magna Carta Denkmal.",
+            "hu": "Látogasson el a Magna Carta emlékműhöz.",
+            "ro": "Vizitați monumentul Magna Carta.",
+            "en": "Visit the Magna Carta Memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "National Trust Café",
+            "hu": "National Trust Kávézó",
+            "ro": "Cafeneaua National Trust",
+            "en": "National Trust Café"
+          },
+          "coords": [
+            -0.56,
+            51.442
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine Pause im historischen Ambiente.",
+            "hu": "Egy kis pihenő történelmi környezetben.",
+            "ro": "O pauză într-o ambianță istorică.",
+            "en": "A break in a historic ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ankerwycke Yew",
+            "hu": "Ankerwycke tiszafa",
+            "ro": "Tisa Ankerwycke",
+            "en": "Ankerwycke Yew"
+          },
+          "coords": [
+            -0.555,
+            51.44
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein 2500 Jahre alter Baum.",
+            "hu": "Egy 2500 éves fa.",
+            "ro": "Un copac vechi de 2500 de ani.",
+            "en": "A 2500-year-old tree."
+          }
+        },
+        {
+          "name": {
+            "de": "Egham Hythe Promenade",
+            "hu": "Egham Hythe sétány",
+            "ro": "Promenada Egham Hythe",
+            "en": "Egham Hythe Promenade"
+          },
+          "coords": [
+            -0.535,
+            51.431
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schöner Rückweg am Fluss.",
+            "hu": "Szép visszaút a folyó mentén.",
+            "ro": "Întoarcere frumoasă pe malul râului.",
+            "en": "Nice return journey along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "The White Lion",
+            "hu": "The White Lion",
+            "ro": "The White Lion",
+            "en": "The White Lion"
+          },
+          "coords": [
+            -0.538,
+            51.428
+          ],
+          "category": "gastro",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kühles Getränk zum Abschluss.",
+            "hu": "Egy hűsítő ital a nap végére.",
+            "ro": "O băutură răcoritoare la final.",
+            "en": "A cool drink to finish the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese flache Radtour führt Sie von Egham Hythe zu den geschichtsträchtigen Wiesen von Runnymede. Folgen Sie dem Themse-Radweg, besichtigen Sie das Magna Carta Denkmal und bestaunen Sie die uralte Ankerwycke-Eibe. Eine perfekte Mischung aus Natur und Geschichte auf zwei Rädern.",
+        "hu": "Ez a sík terepű kerékpártúra Egham Hythe-ból Runnymede történelmi mezőire vezet. Kövesse a Temze-kerékpárutat, nézze meg a Magna Carta emlékművet és csodálja meg az ősi Ankerwycke tiszafát. A természet és a történelem tökéletes keveréke két keréken.",
+        "ro": "Această plimbare cu bicicleta pe teren plat vă duce de la Egham Hythe la câmpiile pline de istorie din Runnymede. Urmați pista de biciclete Tamisa, vizitați monumentul Magna Carta și admirați tisa antică Ankerwycke. O combinație perfectă de natură și istorie pe două roți.",
+        "en": "This flat bike tour takes you from Egham Hythe to the historic meadows of Runnymede. Follow the Thames Cycle Path, visit the Magna Carta Memorial and marvel at the ancient Ankerwycke Yew. A perfect blend of nature and history on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "National Trust Café",
+            "tip": "Hausgemachte Kuchen und Tee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "National Trust Café",
+            "tip": "Házias sütemények és tea."
+          }
+        ],
+        "ro": [
+          {
+            "name": "National Trust Café",
+            "tip": "Prăjituri de casă și ceai."
+          }
+        ],
+        "en": [
+          {
+            "name": "National Trust Café",
+            "tip": "Homemade cakes and tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ankerwycke Yew",
+            "tip": "Spiritueller Ort im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ankerwycke tiszafa",
+            "tip": "Spirituális hely a zöldben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tisa Ankerwycke",
+            "tip": "Loc spiritual în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ankerwycke Yew",
+            "tip": "Spiritual spot in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Der Pfad kann am Wochenende belebt sein.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Az ösvény hétvégén forgalmas lehet.",
+          "Vigyen magával elég vizet."
+        ],
+        "ro": [
+          "Calea poate fi aglomerată în weekend.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "The path can be busy on weekends.",
+          "Bring plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Egham Hythe Ufer",
+            "hu": "Egham Hythe folyópart",
+            "ro": "Malul Egham Hythe",
+            "en": "Egham Hythe Riverside"
+          },
+          "coords": [
+            -0.535,
+            51.431
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Wasser.",
+            "hu": "Parkoló közvetlenül a víznél.",
+            "ro": "Parcare chiar lângă apă.",
+            "en": "Car park right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul's Egham Hythe",
+            "hu": "Szent Pál Egham Hythe",
+            "ro": "Sf. Paul Egham Hythe",
+            "en": "St Paul's Egham Hythe"
+          },
+          "coords": [
+            -0.54,
+            51.425
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Blick in die lokale Gemeindekirche.",
+            "hu": "Tekintsen be a helyi közösségi templomba.",
+            "ro": "O privire în biserica parohială locală.",
+            "en": "A look into the local community church."
+          }
+        },
+        {
+          "name": {
+            "de": "Runnymede Parkplatz",
+            "hu": "Runnymede parkoló",
+            "ro": "Parcare Runnymede",
+            "en": "Runnymede Car Park"
+          },
+          "coords": [
+            -0.565,
+            51.445
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Cluster: Magna Carta & JFK Memorial.",
+            "hu": "Klaszter: Magna Carta és JFK emlékmű.",
+            "ro": "Cluster: Monumentele Magna Carta și JFK.",
+            "en": "Cluster: Magna Carta & JFK Memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Forces Memorial",
+            "hu": "Légierő Emlékmű",
+            "ro": "Memorialul Forțelor Aeriene",
+            "en": "Air Forces Memorial"
+          },
+          "coords": [
+            -0.568,
+            51.438
+          ],
+          "category": "monument",
+          "arrive_at": "12:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Aussicht über das Tal.",
+            "hu": "Lenyűgöző kilátás a völgyre.",
+            "ro": "Vedere impresionantă asupra văii.",
+            "en": "Impressive views over the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "The Armstrong Gun Lunch",
+            "hu": "The Armstrong Gun ebéd",
+            "ro": "Prânz la The Armstrong Gun",
+            "en": "The Armstrong Gun Lunch"
+          },
+          "coords": [
+            -0.59,
+            51.43
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Pub in Englefield Green.",
+            "hu": "Hangulatos pub Englefield Greenben.",
+            "ro": "Un pub primitor în Englefield Green.",
+            "en": "A cozy pub in Englefield Green."
+          }
+        },
+        {
+          "name": {
+            "de": "Windsor Great Park (Savill Garden)",
+            "hu": "Windsori Nagy Park (Savill Garden)",
+            "ro": "Windsor Great Park (Savill Garden)",
+            "en": "Windsor Great Park (Savill Garden)"
+          },
+          "coords": [
+            -0.595,
+            51.425
+          ],
+          "category": "garden",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wunderschöne botanische Anlagen.",
+            "hu": "Gyönyörű botanikus kert.",
+            "ro": "Grădini botanice superbe.",
+            "en": "Beautiful botanical gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Copper Horse Statue View",
+            "hu": "Rézló szobor kilátás",
+            "ro": "Vedere statuia Copper Horse",
+            "en": "Copper Horse Statue View"
+          },
+          "coords": [
+            -0.605,
+            51.435
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick auf Windsor Castle.",
+            "hu": "Látványos kilátás a Windsori kastélyra.",
+            "ro": "Vedere spectaculoasă spre Castelul Windsor.",
+            "en": "Spectacular view of Windsor Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Egham Hythe Sunset",
+            "hu": "Egham Hythe naplemente",
+            "ro": "Apus Egham Hythe",
+            "en": "Egham Hythe Sunset"
+          },
+          "coords": [
+            -0.535,
+            51.431
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Rückkehr zum Ausgangspunkt.",
+            "hu": "Visszatérés a kiindulóponthoz.",
+            "ro": "Întoarcere la punctul de plecare.",
+            "en": "Return to the starting point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um die königliche Umgebung von Egham Hythe zu erkunden. Besuchen Sie die historischen Denkmäler von Runnymede und das beeindruckende Air Forces Memorial. Genießen Sie die Weite des Windsor Great Park und beenden Sie den Tag mit einem Blick auf das berühmte Schloss Windsor, bevor Sie ans Flussufer zurückkehren.",
+        "hu": "Használja az autót Egham Hythe királyi környékének felfedezéséhez. Látogassa meg Runnymede történelmi emlékműveit és a lenyűgöző Légierő Emlékművet. Élvezze a Windsori Nagy Park tágasságát, majd zárja a napot a híres Windsori kastély látványával, mielőtt visszatérne a folyópartra.",
+        "ro": "Folosiți mașina pentru a explora împrejurimile regale ale Egham Hythe. Vizitați monumentele istorice din Runnymede și impresionantul Memorial al Forțelor Aeriene. Bucurați-vă de vastitatea Parcului Mare Windsor și încheiați ziua cu o vedere spre faimosul Castel Windsor, înainte de a reveni pe malul râului.",
+        "en": "Use the car to explore the royal surroundings of Egham Hythe. Visit the historic monuments of Runnymede and the impressive Air Forces Memorial. Enjoy the vastness of Windsor Great Park and finish the day with a view of the famous Windsor Castle before returning to the riverside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Armstrong Gun",
+            "tip": "Traditioneller Dorfpub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Armstrong Gun",
+            "tip": "Hagyományos falusi pub."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Armstrong Gun",
+            "tip": "Pub tradițional de sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Armstrong Gun",
+            "tip": "Traditional village pub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Air Forces Memorial",
+            "tip": "Ort der Stille und Ehre.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Légierő Emlékmű",
+            "tip": "A csend és a tisztelet helye.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Memorialul Forțelor Aeriene",
+            "tip": "Loc de liniște și onoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Air Forces Memorial",
+            "tip": "Place of silence and honor.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Egham Town Centre",
+            "tip": "Lokale Geschäfte und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egham városközpont",
+            "tip": "Helyi üzletek és kávézók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul orașului Egham",
+            "tip": "Magazine locale și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Egham Town Centre",
+            "tip": "Local shops and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren in Runnymede beachten.",
+          "Ideal für einen sonnigen Ausflug."
+        ],
+        "hu": [
+          "Ügyeljen a parkolási díjakra Runnymede-ben.",
+          "Ideális egy napsütéses kiránduláshoz."
+        ],
+        "ro": [
+          "Atenție la taxele de parcare în Runnymede.",
+          "Ideal pentru o excursie însorită."
+        ],
+        "en": [
+          "Be aware of parking charges at Runnymede.",
+          "Ideal for a sunny day trip."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Staines Bahnhof",
+            "hu": "Staines vasútállomás",
+            "ro": "Gara Staines",
+            "en": "Staines Railway Station"
+          },
+          "coords": [
+            -0.51,
+            51.435
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt mit guter Anbindung.",
+            "hu": "Jól megközelíthető indítási pont.",
+            "ro": "Punct de plecare bine conectat.",
+            "en": "Well-connected starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Egham Hythe (The Hythe)",
+            "hu": "Egham Hythe (The Hythe)",
+            "ro": "Egham Hythe (The Hythe)",
+            "en": "Egham Hythe (The Hythe)"
+          },
+          "coords": [
+            -0.535,
+            51.431
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt vom Bahnhof.",
+            "hu": "Rövid buszút az állomástól.",
+            "ro": "Scurtă călătorie cu autobuzul de la gară.",
+            "en": "Short bus ride from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Egham High Street",
+            "hu": "Egham High Street",
+            "ro": "Egham High Street",
+            "en": "Egham High Street"
+          },
+          "coords": [
+            -0.548,
+            51.428
+          ],
+          "category": "shopping",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Shoppen im lokalen Zentrum.",
+            "hu": "Vásárlás a helyi központban.",
+            "ro": "Cumpărături în centrul local.",
+            "en": "Shopping in the local center."
+          }
+        },
+        {
+          "name": {
+            "de": "The Red Lion Lunch",
+            "hu": "The Red Lion ebéd",
+            "ro": "Prânz la The Red Lion",
+            "en": "The Red Lion Lunch"
+          },
+          "coords": [
+            -0.55,
+            51.43
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gute Mittagskarte.",
+            "hu": "Jó ebédkínálat.",
+            "ro": "Meniu de prânz bun.",
+            "en": "Good lunch menu."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Holloway Founder's Building",
+            "hu": "Royal Holloway Founder's Building",
+            "ro": "Royal Holloway Founder's Building",
+            "en": "Royal Holloway Founder's Building"
+          },
+          "coords": [
+            -0.565,
+            51.425
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein architektonisches Meisterwerk.",
+            "hu": "Egy építészeti remekmű.",
+            "ro": "O capodoperă arhitecturală.",
+            "en": "An architectural masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Staines Riverside Walk",
+            "hu": "Staines folyóparti séta",
+            "ro": "Plimbare pe malul Staines",
+            "en": "Staines Riverside Walk"
+          },
+          "coords": [
+            -0.52,
+            51.433
+          ],
+          "category": "park",
+          "arrive_at": "15:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss am Wasser.",
+            "hu": "Pihentető befejezés a víznél.",
+            "ro": "Un final relaxant pe malul apei.",
+            "en": "A relaxing end by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Egham Hythe und Umgebung mit Bus und Bahn. Starten Sie in Staines, erkunden Sie den lokalen Charakter von The Hythe und schlendern Sie durch Egham. Ein Höhepunkt ist der Besuch des spektakulären Royal Holloway Campus, bevor Sie den Tag am Ufer der Themse ausklingen lassen.",
+        "hu": "Fedezze fel Egham Hythe-t és környékét busszal és vonattal. Induljon Staines-ből, fedezze fel The Hythe helyi karakterét, és sétáljon végig Eghamon. A nap fénypontja a látványos Royal Holloway campus meglátogatása, mielőtt a Temze partján zárná a napot.",
+        "ro": "Descoperiți Egham Hythe și împrejurimile cu autobuzul și trenul. Începeți în Staines, explorați caracterul local al The Hythe și plimbați-vă prin Egham. Un punct culminant este vizitarea spectaculosului campus Royal Holloway, înainte de a încheia ziua pe malul Tamisei.",
+        "en": "Discover Egham Hythe and surroundings by bus and train. Start in Staines, explore the local character of The Hythe and stroll through Egham. A highlight is a visit to the spectacular Royal Holloway campus before finishing the day on the banks of the Thames."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Red Lion",
+            "tip": "Hervorragendes Essen und freundliche Bedienung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Red Lion",
+            "tip": "Kiváló ételek és barátságos kiszolgálás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Red Lion",
+            "tip": "Mâncare excelentă și servire prietenoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Red Lion",
+            "tip": "Excellent food and friendly service."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riverside Path",
+            "tip": "Besonders ruhig am frühen Abend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti ösvény",
+            "tip": "Kora este különösen csendes.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărarea de pe mal",
+            "tip": "Deosebit de liniștită seara devreme.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Path",
+            "tip": "Particularly quiet in the early evening.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Elmsleigh Centre",
+            "tip": "Einkaufszentrum in Staines."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elmsleigh Centre",
+            "tip": "Bevásárlóközpont Staines-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Elmsleigh Centre",
+            "tip": "Centru comercial în Staines."
+          }
+        ],
+        "en": [
+          {
+            "name": "Elmsleigh Centre",
+            "tip": "Shopping center in Staines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App für Buszeiten.",
+          "Viele Wege sind barrierefrei."
+        ],
+        "hu": [
+          "Használja az alkalmazást a buszmenetrendhez.",
+          "Sok útvonal akadálymentesített."
+        ],
+        "ro": [
+          "Folosiți aplicația pentru orarul autobuzelor.",
+          "Multe căi sunt accesibile."
+        ],
+        "en": [
+          "Use the app for bus times.",
+          "Many paths are wheelchair accessible."
+        ]
+      }
+    }
+  }
+}

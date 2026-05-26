@@ -1,0 +1,380 @@
+{
+  "city_id": "bahla",
+  "anchor": {
+    "name": "Bahla Fort",
+    "coords": [
+      57.2992,
+      22.9691
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.2,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahla Fort",
+            "hu": "Bahla-erőd",
+            "ro": "Fortul Bahla",
+            "en": "Bahla Fort"
+          },
+          "coords": [
+            57.2992,
+            22.9691
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe. Erkunden Sie das riesige Labyrinth aus Lehmziegeln.",
+            "hu": "UNESCO Világörökség. Fedezze fel a hatalmas vályogtégla labirintust.",
+            "ro": "Patrimoniul mondial UNESCO. Explorați vastul labirint din cărămizi de pământ.",
+            "en": "UNESCO World Heritage site. Explore the vast mud-brick labyrinth."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahla Stadtmauer",
+            "hu": "Bahla városfala",
+            "ro": "Zidul orașului Bahla",
+            "en": "Bahla Town Wall"
+          },
+          "coords": [
+            57.302,
+            22.97
+          ],
+          "category": "monument",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Teil der 12 km langen historischen Befestigungsanlage.",
+            "hu": "A 12 km hosszú történelmi erődrendszer egy része.",
+            "ro": "O parte din fortificația istorică lungă de 12 km.",
+            "en": "Part of the 12 km long historic fortification."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Töpferei",
+            "hu": "Hagyományos fazekasműhely",
+            "ro": "Olărit tradițional",
+            "en": "Traditional Pottery Workshop"
+          },
+          "coords": [
+            57.305,
+            22.968
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie Meister bei der Arbeit mit uralten Techniken.",
+            "hu": "Nézze meg, hogyan dolgoznak a mesterek ősi technikákkal.",
+            "ro": "Urmăriți maeștrii lucrând cu tehnici ancestrale.",
+            "en": "Watch masters working with ancient techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahla Souq",
+            "hu": "Bahla szúk (piac)",
+            "ro": "Souq Bahla",
+            "en": "Bahla Souq"
+          },
+          "coords": [
+            57.301,
+            32.967
+          ],
+          "category": "market",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Traditioneller Markt im Schatten alter Bäume.",
+            "hu": "Hagyományos piac öreg fák árnyékában.",
+            "ro": "Piață tradițională la umbra copacilor bătrâni.",
+            "en": "Traditional market in the shade of old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Lehmhaussiedlung",
+            "hu": "Régi vályogházas negyed",
+            "ro": "Așezarea veche de chirpici",
+            "en": "Old Mud-brick Settlement"
+          },
+          "coords": [
+            57.298,
+            22.966
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die verlassenen Gassen der Altstadt.",
+            "hu": "Sétáljon az óváros elhagyatott utcáin.",
+            "ro": "Plimbați-vă prin străzile abandonate ale orașului vechi.",
+            "en": "Wander through the abandoned alleys of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bahla ist eine Stadt voller Legenden und Lehmziegel-Architektur. Beginnen Sie Ihren Rundgang im majestätischen Bahla Fort, dem ältesten des Landes. Folgen Sie der massiven Stadtmauer und besuchen Sie die berühmten Töpferwerkstätten, in denen die Zeit stillzustehen scheint. Ein Spaziergang durch den Souq und die verlassenen Lehmhaussiedlungen rundet das mystische Erlebnis ab.",
+        "hu": "Bahla a legendák és a vályogtégla építészet városa. Kezdje túráját a fenséges Bahla-erődben, az ország legrégebbi várában. Kövesse a masszív városfalat, és látogassa meg a híres fazekasműhelyeket, ahol megállt az idő. A szúk és az elhagyatott vályogházas negyedek bejárása teszi teljessé ezt a misztikus élményt.",
+        "ro": "Bahla este un oraș al legendelor și al arhitecturii din chirpici. Începeți turul la maiestuosul Fort Bahla, cel mai vechi din țară. Urmați zidul masiv al orașului și vizitați faimoasele ateliere de olărit, unde timpul pare să fi stat în loc. O plimbare prin souq și așezările abandonate de chirpici completează această experiență mistică.",
+        "en": "Bahla is a city of legends and mud-brick architecture. Start your tour at the majestic Bahla Fort, the oldest in the country. Follow the massive town wall and visit the famous pottery workshops where time seems to stand still. A stroll through the souq and the abandoned mud-brick settlements completes this mystical experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Omani Halwa",
+            "tip": "Probieren Sie diese süße Delikatesse direkt am Souq."
+          },
+          {
+            "name": "Omanischer Kaffee (Kahwa)",
+            "tip": "Wird traditionell mit Datteln serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ománi halva",
+            "tip": "Kóstolja meg ezt az édes különlegességet közvetlenül a piacon."
+          },
+          {
+            "name": "Ománi kávé (Kahwa)",
+            "tip": "Hagyományosan datolyával felszolgálva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halva omaneză",
+            "tip": "Gustați această delicatesă dulce direct în souq."
+          },
+          {
+            "name": "Cafea omaneză (Kahwa)",
+            "tip": "Servită tradițional cu curmale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Omani Halwa",
+            "tip": "Try this sweet delicacy directly at the souq."
+          },
+          {
+            "name": "Omani Coffee (Kahwa)",
+            "tip": "Traditionally served with dates."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alte Oase",
+            "tip": "Ruhiger Schatten unter den Dattelpalmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi oázis",
+            "tip": "Csendes árnyék a datolyapálmák alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vechea oază",
+            "tip": "Umbră liniștită sub palmierii de curmale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Oasis",
+            "tip": "Quiet shade under the date palms.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahla Keramik",
+            "tip": "Handgefertigte Töpfe und Schalen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahla kerámia",
+            "tip": "Kézzel készített edények és tálak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică de Bahla",
+            "tip": "Oale și boluri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahla Ceramics",
+            "tip": "Handmade pots and bowls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Fort ist am frühen Morgen am kühlsten zu besichtigen.",
+          "Achten Sie auf die Legenden über Jinn (Geister), die Bahla berühmt machen.",
+          "Passende Kleidung für religiöse und ländliche Gebiete ist wichtig."
+        ],
+        "hu": [
+          "Az erőd kora reggel látogatható a legkellemesebb hőmérsékletben.",
+          "Figyeljen a dzsinnekről (szellemekről) szóló legendákra, amelyekről Bahla híres.",
+          "Fontos a vallási és vidéki területeken a megfelelő öltözködés."
+        ],
+        "ro": [
+          "Fortul este cel mai bine de vizitat dimineața devreme, când e răcoare.",
+          "Fiți atenți la legendele despre jinn (spirite) care fac Bahla faimos.",
+          "Îmbrăcămintea adecvată pentru zonele religioase și rurale este importantă."
+        ],
+        "en": [
+          "The fort is best visited early in the morning when it's cooler.",
+          "Listen to the legends about Jinn (spirits) that make Bahla famous.",
+          "Modest dress for religious and rural areas is important."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 45.0,
+      "stop_count": 6,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    }
+  }
+}

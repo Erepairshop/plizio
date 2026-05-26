@@ -1,0 +1,283 @@
+{
+  "city_id": "vn-hochiminh",
+  "anchor": {
+    "name": "Notre-Dame Cathedral",
+    "coords": [
+      106.6991,
+      10.7797
+    ]
+  },
+  "modes": {
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 85.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame székesegyház",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            106.6991,
+            10.7797
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen aus der französischen Kolonialzeit (Parkplatz in der Nähe).",
+            "hu": "Francia gyarmati kori jelkép (parkoló a közelben).",
+            "ro": "Un reper din era colonială franceză (parcare în apropiere).",
+            "en": "A French colonial era landmark (parking available nearby)."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptpostamt",
+            "hu": "Központi Posta",
+            "ro": "Oficiul Poștal Central",
+            "en": "Central Post Office"
+          },
+          "coords": [
+            106.6998,
+            10.7798
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Von Gustave Eiffel entworfen, ein architektonisches Juwel.",
+            "hu": "Gustave Eiffel tervezte, építészeti ékszerdoboz.",
+            "ro": "Proiectat de Gustave Eiffel, o bijuterie arhitecturală.",
+            "en": "Designed by Gustave Eiffel, an architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Wiedervereinigung",
+            "hu": "Függetlenségi palota",
+            "ro": "Palatul Reîntregirii",
+            "en": "Independence Palace"
+          },
+          "coords": [
+            106.6952,
+            10.7771
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Regierungsräume und den Kriegsbunker.",
+            "hu": "Fedezze fel a kormányzati termeket és a háborús bunkert.",
+            "ro": "Explorați sălile guvernamentale și buncărul de război.",
+            "en": "Explore the government rooms and the war bunker."
+          }
+        },
+        {
+          "name": {
+            "de": "Cu-Chi-Tunnel (Cluster B)",
+            "hu": "Cu Chi alagutak (B klaszter)",
+            "ro": "Tunelurile Cu Chi (Cluster B)",
+            "en": "Cu Chi Tunnels (Cluster B)"
+          },
+          "coords": [
+            106.4633,
+            11.1417
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 45.0,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes unterirdisches Netzwerk aus dem Krieg.",
+            "hu": "Lenyűgöző föld alatti hálózat a háborúból.",
+            "ro": "O rețea subterană impresionantă din timpul războiului.",
+            "en": "An impressive underground network from the war."
+          }
+        },
+        {
+          "name": {
+            "de": "Landmark 81 (Cluster C)",
+            "hu": "Landmark 81 (C klaszter)",
+            "ro": "Landmark 81 (Cluster C)",
+            "en": "Landmark 81 (Cluster C)"
+          },
+          "coords": [
+            106.7218,
+            10.7951
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 35.0,
+          "tip_5lang": {
+            "de": "Das höchste Gebäude Vietnams mit spektakulärer Aussicht.",
+            "hu": "Vietnam legmagasabb épülete, látványos kilátással.",
+            "ro": "Cea mai înaltă clădire din Vietnam, cu vederi superbe.",
+            "en": "The tallest building in Vietnam with spectacular views."
+          }
+        },
+        {
+          "name": {
+            "de": "Saigon River Promenade",
+            "hu": "Saigon-folyó sétány",
+            "ro": "Promenada râului Saigon",
+            "en": "Saigon River Promenade"
+          },
+          "coords": [
+            106.7072,
+            10.7725
+          ],
+          "category": "park",
+          "arrive_at": "17:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine kühle Brise zum Sonnenuntergang.",
+            "hu": "Tökéletes hely egy kis szellőhöz naplementekor.",
+            "ro": "Perfect pentru o briză răcoroasă la apus.",
+            "en": "Perfect for a cool breeze at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Ben-Thanh-Markt (Shopping)",
+            "hu": "Ben Thanh piac (vásárlás)",
+            "ro": "Piața Ben Thanh (Shopping)",
+            "en": "Ben Thanh Market (Shopping)"
+          },
+          "coords": [
+            106.6985,
+            10.7719
+          ],
+          "category": "shopping",
+          "arrive_at": "18:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Handeln Sie bei Souvenirs und Kleidung.",
+            "hu": "Alkukozzon a szuvenírekre és ruhákra.",
+            "ro": "Negociați pentru suveniruri și haine.",
+            "en": "Bargain for souvenirs and clothing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um sowohl das koloniale Herz als auch die ferneren historischen Stätten von Ho-Chi-Minh-Stadt zu erkunden. Der Morgen ist den Wahrzeichen im Distrikt 1 gewidmet, gefolgt von einem Ausflug zu den legendären Cu-Chi-Tunneln. Am späten Nachmittag kehren Sie in die Stadt zurück, um den Landmark 81 zu bestaunen und den Abend am Flussufer und auf dem Ben-Thanh-Markt zu genießen.",
+        "hu": "Használja az autót Ho Si Minh-város koloniális szívének és a távolabbi történelmi helyszíneinek felfedezéséhez. A reggel az 1. kerület jelképeié, majd kirándulást teszünk a legendás Cu Chi alagutakhoz. Késő délután térünk vissza a városba, hogy megcsodáljuk a Landmark 81-et, és élvezzük az estét a folyóparton, valamint a Ben Thanh piacon.",
+        "ro": "Folosiți mașina pentru a explora inima colonială și siturile istorice mai îndepărtate. Dimineața este dedicată reperelor din Districtul 1, urmată de o excursie la legendarele tuneluri Cu Chi. După-amiaza târziu, reveniți în oraș pentru a vedea Landmark 81 și a vă bucura de seară pe malul râului și la piața Ben Thanh.",
+        "en": "Use a car to explore both the colonial heart and the more distant historical sites of Ho Chi Minh City. The morning is dedicated to landmarks in District 1, followed by a trip to the legendary Cu Chi Tunnels. In the late afternoon, return to the city to admire Landmark 81 and enjoy the evening at the riverbank and Ben Thanh Market."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cục Gạch Quán",
+            "tip": "Traditionelle vietnamesische Küche in einem charmanten alten Haus."
+          },
+          {
+            "name": "Secret Garden",
+            "tip": "Rooftop-Dining mit authentischem Hausmannskost-Stil."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cục Gạch Quán",
+            "tip": "Hagyományos vietnámi konyha egy bájos régi házban."
+          },
+          {
+            "name": "Secret Garden",
+            "tip": "Tetőtéri vacsora autentikus házias stílusban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cục Gạch Quán",
+            "tip": "Bucătărie tradițională într-o casă veche fermecătoare."
+          },
+          {
+            "name": "Secret Garden",
+            "tip": "Cină pe acoperiș cu stil autentic de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cục Gạch Quán",
+            "tip": "Traditional Vietnamese cuisine in a charming old house."
+          },
+          {
+            "name": "Secret Garden",
+            "tip": "Rooftop dining with an authentic home-style feel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bình-Quới-Dorf",
+            "tip": "Eine grüne Oase im Mekong-Delta-Stil innerhalb der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bình Quới falu",
+            "tip": "Mekong-delta stílusú zöld oázis a városon belül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Bình Quới",
+            "tip": "O oază verde în stilul Deltei Mekong în interiorul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bình Quới Village",
+            "tip": "A green oasis in Mekong Delta style within the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie ein Auto mit Fahrer für den Ausflug zu den Cu-Chi-Tunneln.",
+          "Vermeiden Sie die Rushhour (07:00-09:00 und 17:00-19:00).",
+          "Trinken Sie ausreichend Wasser, die Luftfeuchtigkeit ist hoch."
+        ],
+        "hu": [
+          "Foglaljon autót sofőrrel a Cu Chi alagutakhoz.",
+          "Kerülje a csúcsforgalmat (07:00-09:00 és 17:00-19:00).",
+          "Igyon sok vizet, a páratartalom magas."
+        ],
+        "ro": [
+          "Rezervați o mașină cu șofer pentru excursia la tunelurile Cu Chi.",
+          "Evitați orele de vârf (07:00-09:00 și 17:00-19:00).",
+          "Hidratați-vă bine, umiditatea este ridicată."
+        ],
+        "en": [
+          "Book a car with a driver for the Cu Chi Tunnels excursion.",
+          "Avoid rush hour (07:00-09:00 and 17:00-19:00).",
+          "Stay hydrated as the humidity is very high."
+        ]
+      }
+    }
+  }
+}

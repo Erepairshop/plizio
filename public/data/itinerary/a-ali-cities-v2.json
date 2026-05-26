@@ -1,0 +1,243 @@
+{
+  "city_id": "a-ali-cities-v2",
+  "anchor": {
+    "name": "Dilmun Burial Mounds",
+    "coords": [
+      50.512,
+      26.152
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "UNESCO-Grabhügel Park",
+            "hu": "UNESCO-halomsír park",
+            "ro": "Parcul Movilelor Funerare UNESCO",
+            "en": "UNESCO Burial Mound Park"
+          },
+          "coords": [
+            50.512,
+            26.152
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bringen Sie Wasser und Sonnenschutz mit.",
+            "hu": "Vigyél vizet és fényvédőt.",
+            "ro": "Aduceți apă și protecție solară.",
+            "en": "Bring water and sun protection."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Grabhügel",
+            "hu": "Királyi halomsírok",
+            "ro": "Movile Funerare Regale",
+            "en": "Royal Burial Mounds"
+          },
+          "coords": [
+            50.515,
+            26.155
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die größten Hügel sind hier zu sehen.",
+            "hu": "A legnagyobb halmok itt láthatók.",
+            "ro": "Cele mai mari movile pot fi văzute aici.",
+            "en": "The largest mounds can be seen here."
+          }
+        },
+        {
+          "name": {
+            "de": "Töpferei-Viertel",
+            "hu": "Fazekas-negyed",
+            "ro": "Cartierul Olăritului",
+            "en": "Pottery District"
+          },
+          "coords": [
+            50.518,
+            26.158
+          ],
+          "category": "cultural",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Töpfer bei der Arbeit.",
+            "hu": "Nézd meg a fazekasokat munka közben.",
+            "ro": "Urmăriți olarii la lucru.",
+            "en": "Watch the potters at work."
+          }
+        },
+        {
+          "name": {
+            "de": "A'ali Pottery Werkstatt",
+            "hu": "A'ali fazekasműhely",
+            "ro": "Atelierul de Olărit A'ali",
+            "en": "A'ali Pottery Workshop"
+          },
+          "coords": [
+            50.519,
+            26.159
+          ],
+          "category": "shopping",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kaufen Sie handgemachte Keramik.",
+            "hu": "Vegyél kézzel készített kerámiát.",
+            "ro": "Cumpărați ceramică artizanală.",
+            "en": "Buy handmade ceramics."
+          }
+        },
+        {
+          "name": {
+            "de": "Local Coffee Shop",
+            "hu": "Helyi kávézó",
+            "ro": "Cafenea locală",
+            "en": "Local Coffee Shop"
+          },
+          "coords": [
+            50.515,
+            26.15
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Arabischer Kaffee und Datteln.",
+            "hu": "Arab kávé és datolya.",
+            "ro": "Cafea arabă și curmale.",
+            "en": "Arabic coffee and dates."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "A'ali ist ein Ort, an dem die Zeit stillzustehen scheint. Von den jahrtausendealten Grabhügeln spazieren Sie direkt in die Werkstätten, in denen heute noch nach denselben Techniken wie einst gearbeitet wird.",
+        "hu": "A'ali egy olyan hely, ahol az idő megállni látszik. Az évezredes halomsíroktól egyenesen a műhelyekbe sétálhatsz, ahol ma is ugyanazokkal a technikákkal dolgoznak, mint egykor.",
+        "ro": "A'ali este un loc unde timpul pare să stea în loc. De la movilele funerare milenare, puteți merge direct la atelierele unde se lucrează și astăzi folosind aceleași tehnici ca odinioară.",
+        "en": "A'ali is a place where time seems to stand still. From the millennia-old burial mounds, you can walk directly to the workshops where they still work today using the same techniques as once before."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arabic Coffee",
+            "tip": "Mit Kardamom verfeinert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arab kávé",
+            "tip": "Kardamommal ízesítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafea arabă",
+            "tip": "Aromatizată cu cardamom."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arabic Coffee",
+            "tip": "Flavored with cardamom."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mound Fields",
+            "tip": "Ein meditativer Ort in der Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halomsír mezők",
+            "tip": "Meditatív hely a történelemben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpurile cu movile",
+            "tip": "Un loc meditativ în istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mound Fields",
+            "tip": "A meditative place in history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Clay Pots",
+            "tip": "Große Terrakotta-Töpfe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agyagedények",
+            "tip": "Nagy terrakotta edények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oale de lut",
+            "tip": "Oale mari de teracotă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Clay Pots",
+            "tip": "Large terracotta pots."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie, ob Sie die Drehscheibe ausprobieren dürfen.",
+          "Das Licht ist kurz vor Sonnenuntergang magisch."
+        ],
+        "hu": [
+          "Kérdezd meg, kipróbálhatod-e a korongozót.",
+          "A fény közvetlenül naplemente előtt varázslatos."
+        ],
+        "ro": [
+          "Întrebați dacă puteți încerca roata olarului.",
+          "Lumina este magică chiar înainte de apus."
+        ],
+        "en": [
+          "Ask if you can try the potter's wheel.",
+          "The light is magical just before sunset."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "city_id": "uk-portland",
+  "anchor": {
+    "name": "Portland",
+    "coords": [
+      -2.4417,
+      50.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Portland Castle",
+          "coords": [
+            -2.445,
+            50.5675
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Früh ankommen für tolle Fotos.",
+            "hu": "Érkezz korán a legjobb fotókért.",
+            "ro": "Sosiți devreme pentru fotografii superbe.",
+            "en": "Arrive early for the best photos."
+          }
+        },
+        {
+          "name": "Castletown D-Day Centre",
+          "coords": [
+            -2.4435,
+            50.5668
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Interaktive Panzer-Exponate.",
+            "hu": "Interaktív tank kiállítások.",
+            "ro": "Expoziții interactive cu tancuri.",
+            "en": "Interactive tank exhibits."
+          }
+        },
+        {
+          "name": "Tout Quarry Sculpture Park",
+          "coords": [
+            -2.4485,
+            50.5562
+          ],
+          "category": "cultural",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem versteckten 'Still Falling'.",
+            "hu": "Keresd az elrejtett 'Still Falling' szobrot.",
+            "ro": "Căutați sculptura ascunsă 'Still Falling'.",
+            "en": "Look for the hidden 'Still Falling' sculpture."
+          }
+        },
+        {
+          "name": "Olympic Rings Stone",
+          "coords": [
+            -2.4422,
+            50.5595
+          ],
+          "category": "civic",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf den Hafen.",
+            "hu": "A legjobb panoráma a kikötőre.",
+            "ro": "Cea mai bună panoramă asupra portului.",
+            "en": "Best panoramic view of the harbor."
+          }
+        },
+        {
+          "name": "Portland Museum",
+          "coords": [
+            -2.4335,
+            50.5405
+          ],
+          "category": "museum",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über Marie Stopes.",
+            "hu": "Ismerd meg Marie Stopes történetét.",
+            "ro": "Aflați povestea lui Marie Stopes.",
+            "en": "Learn the story of Marie Stopes."
+          }
+        },
+        {
+          "name": "Church Ope Cove",
+          "coords": [
+            -2.4312,
+            50.5392
+          ],
+          "category": "natural",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steile Treppen, aber der Strand lohnt sich.",
+            "hu": "Meredek lépcsők, de a strand megéri.",
+            "ro": "Scări abrupte, dar plaja merită efortul.",
+            "en": "Steep steps, but the beach is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die gewaltigen Mauern von Portland Castle, bevor Sie in die D-Day-Geschichte eintauchen. Mittags wandern Sie durch den Tout Quarry, wo Kunst auf rohen Fels trifft. Der Nachmittag bietet olympische Aussichten und Einblicke in das Inselmuseum. Den Abend lassen Sie in der verborgenen Bucht Church Ope Cove ausklingen.",
+        "hu": "Reggel a Portland Castle falaival és a D-nap történetével kezdünk. Délben a Tout Quarry szoborparkjában sétálunk a nyers sziklák között. Délután az olimpiai kilátópont és a helyi múzeum vár ránk, majd a napot a rejtett Church Ope-öbölben zárjuk, ahol a tenger morajlása kísér.",
+        "ro": "Dimineața începe cu zidurile masive ale Castelului Portland și istoria Zilei Z. La prânz, explorăm sculpturile din Tout Quarry printre stâncile brute. După-amiaza oferă vederi olimpice și vizite la muzeul local, încheind ziua la Church Ope Cove, o golfuleț ascuns cu o atmosferă magică.",
+        "en": "Morning starts with the massive walls of Portland Castle and D-Day history. At midday, wander through Tout Quarry where art meets raw rock. The afternoon offers Olympic views and insights into the local museum, finishing the day at Church Ope Cove, a hidden gem with a serene atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Quiddles Cafe",
+            "tip": "Frische Meeresfrüchte direkt an der Esplanade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quiddles Cafe",
+            "tip": "Friss tengeri herkenyűk közvetlenül a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quiddles Cafe",
+            "tip": "Fructe de mare proaspete direct pe esplanadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quiddles Cafe",
+            "tip": "Fresh seafood right on the esplanade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tout Quarry",
+            "tip": "Stille Ecken zwischen Skulpturen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tout Quarry",
+            "tip": "Csendes zugok a szobrok között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tout Quarry",
+            "tip": "Colțuri liniștite între sculpturi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tout Quarry",
+            "tip": "Quiet corners among sculptures.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portland Stone Carvings",
+            "tip": "Kleine Skulpturen aus dem berühmten Stein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portlandi kőfaragványok",
+            "tip": "Apró szobrok a híres helyi kőből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sculpturi în piatră de Portland",
+            "tip": "Mici sculpturi din celebra piatră locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Portland Stone Carvings",
+            "tip": "Small sculptures made of the famous stone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes Schuhwerk für die Steinbrüche.",
+          "Wetterfest kleiden, da es auf der Insel windig sein kann."
+        ],
+        "hu": [
+          "Viselj kényelmes túracipőt a kőfejtőkhöz.",
+          "Készülj szélálló ruhával, a szigeten gyakori az erős szél."
+        ],
+        "ro": [
+          "Purtați încălțăminte robustă pentru cariere.",
+          "Îmbrăcați-vă stratificat, insula poate fi foarte vântoasă."
+        ],
+        "en": [
+          "Wear sturdy shoes for the quarries.",
+          "Be prepared for wind; the island can be quite breezy."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Portland Castle",
+          "coords": [
+            -2.445,
+            50.5675
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken direkt am Schloss.",
+            "hu": "Parkolás közvetlenül a várnál.",
+            "ro": "Parcare chiar lângă castel.",
+            "en": "Parking right at the castle."
+          }
+        },
+        {
+          "name": "Olympic Rings Stone",
+          "coords": [
+            -2.4422,
+            50.5595
+          ],
+          "category": "civic",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Aussichtspunkt.",
+            "hu": "Nagy parkoló a kilátópontnál.",
+            "ro": "Parcare mare la punctul de belvedere.",
+            "en": "Large car park at the viewpoint."
+          }
+        },
+        {
+          "name": "Tout Quarry",
+          "coords": [
+            -2.4485,
+            50.5562
+          ],
+          "category": "cultural",
+          "arrive_at": "11:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Olympic Rings Parkplatz.",
+            "hu": "Gyalog az olimpiai gyűrűk parkolójától.",
+            "ro": "Pe jos de la parcarea Olympic Rings.",
+            "en": "Walk from the Olympic Rings car park."
+          }
+        },
+        {
+          "name": "Pulpit Inn (Lunch)",
+          "coords": [
+            -2.457,
+            50.515
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Traditionelle Pub-Küche am Südende.",
+            "hu": "Hagyományos pub ételek a déli végen.",
+            "ro": "Mâncare tradițională de pub la capătul sudic.",
+            "en": "Traditional pub food at the south end."
+          }
+        },
+        {
+          "name": "Portland Bill Lighthouse",
+          "coords": [
+            -2.458,
+            50.514
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Besucherzentrum.",
+            "hu": "Látogasd meg a látogatóközpontot.",
+            "ro": "Vizitați centrul pentru vizitatori.",
+            "en": "Visit the visitor center."
+          }
+        },
+        {
+          "name": "Pulpit Rock",
+          "coords": [
+            -2.459,
+            50.513
+          ],
+          "category": "natural",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spektakuläre Fotokulisse.",
+            "hu": "Látványos fotóhelyszín.",
+            "ro": "Locație spectaculoasă pentru poze.",
+            "en": "Spectacular photo backdrop."
+          }
+        },
+        {
+          "name": "Church Ope Cove",
+          "coords": [
+            -2.4312,
+            50.5392
+          ],
+          "category": "natural",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.6,
+          "tip_5lang": {
+            "de": "Parkplatz an der Worth Road.",
+            "hu": "Parkoló a Worth Roadon.",
+            "ro": "Parcare pe Worth Road.",
+            "en": "Parking on Worth Road."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die historischen Festungen im Norden mit der wilden Natur im Süden. Nach dem Schlossbesuch genießen Sie den Rundblick am Heights Hotel, wandern durch den Skulpturenpark und fahren dann zur dramatischen Südspitze am Portland Bill. Der Tag endet an der versteckten Kieselbucht von Church Ope.",
+        "hu": "Ez az autós túra összeköti az északi erődöket a déli vad tájakkal. A vár után élvezzük a panorámát a Heights Hotelnél, sétálunk a Tout Quarry-ben, majd lehajtunk a sziget legdélebbi pontjára, a Portland Billhez. A napot a rejtett Church Ope-öböl kavicsos partján fejezzük be.",
+        "ro": "Acest tur cu mașina leagă fortificațiile din nord cu peisajele sălbatice din sud. După castel, savurăm panorama de la Heights Hotel, explorăm Tout Quarry, apoi conducem spre capătul sudic la Portland Bill. Încheiem ziua la golful Church Ope, cu plaja sa de pietriș și ruine romantice.",
+        "en": "This car tour links northern fortresses with wild southern landscapes. After the castle, enjoy panoramic views at the Heights Hotel, walk through Tout Quarry, then drive to the dramatic southern tip at Portland Bill. End the day at the hidden pebble beach of Church Ope Cove."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Pulpit Inn",
+            "tip": "Berühmt für Fish and Chips."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Pulpit Inn",
+            "tip": "Híres a halételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Pulpit Inn",
+            "tip": "Faimos pentru fish and chips."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Pulpit Inn",
+            "tip": "Famous for fish and chips."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Portland Bill",
+            "tip": "Abends bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portland Bill",
+            "tip": "Csendes elmélkedés naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portland Bill",
+            "tip": "Liniște la apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Portland Bill",
+            "tip": "Quiet reflection at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lighthouse Souvenirs",
+            "tip": "Nautische Geschenke im Besucherzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Világítótorony ajándékbolt",
+            "tip": "Tengerész ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la far",
+            "tip": "Cadouri nautice la centrul de vizitatori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lighthouse Souvenirs",
+            "tip": "Nautical gifts at the visitor center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie am Heights Hotel für die mittleren Sights.",
+          "Die Straßen im Süden sind schmal, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Parkolj a Heights Hotelnél a középső látnivalókhoz.",
+          "A déli utakon vezess óvatosan, mert szűkek."
+        ],
+        "ro": [
+          "Parcați la Heights Hotel pentru obiectivele centrale.",
+          "Drumurile din sud sunt înguste, conduceți cu atenție."
+        ],
+        "en": [
+          "Park at the Heights Hotel for central sights.",
+          "Southern roads are narrow; drive with care."
+        ]
+      }
+    }
+  }
+}

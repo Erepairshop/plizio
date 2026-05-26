@@ -1,0 +1,1012 @@
+{
+  "city_id": "pliziogo",
+  "anchor": {
+    "name": "Piața Unirii",
+    "coords": [
+      23.588,
+      46.77
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            23.588,
+            46.77
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Früh morgens ist der Platz noch ruhig – perfekt für Fotos.",
+            "hu": "Kora reggel még csendes a tér – tökéletes fotózáshoz.",
+            "ro": "Dimineața devreme piața e liniștită – perfect pentru poze.",
+            "en": "Early morning the square is quiet – perfect for photos."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            23.589,
+            46.769
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Fresken im Inneren sind atemberaubend – unbedingt ansehen.",
+            "hu": "A belső freskók lenyűgözőek – mindenképp nézd meg.",
+            "ro": "Frescele din interior sunt uimitoare – neapărat de văzut.",
+            "en": "The frescoes inside are stunning – a must-see."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            23.591,
+            46.768
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Dauerausstellung zeigt lokale Künstler – sehr sehenswert.",
+            "hu": "Az állandó kiállítás helyi művészeket mutat be – nagyon érdemes megnézni.",
+            "ro": "Expoziția permanentă prezintă artiști locali – foarte de văzut.",
+            "en": "The permanent exhibition features local artists – well worth seeing."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            23.593,
+            46.766
+          ],
+          "category": "park",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Picknick im Park ist ideal – es gibt schöne Bänke unter den Bäumen.",
+            "hu": "A parkban piknikezni ideális – szép padok vannak a fák alatt.",
+            "ro": "Picnicul în parc este ideal – sunt bănci frumoase sub copaci.",
+            "en": "Picnicking in the park is ideal – there are nice benches under the trees."
+          }
+        },
+        {
+          "name": "Lacul cu Lebede",
+          "coords": [
+            23.595,
+            46.765
+          ],
+          "category": "garden",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Schwäne sind sehr zutraulich – aber bitte nicht füttern.",
+            "hu": "A hattyúk nagyon szelídek – de ne etesd őket.",
+            "ro": "Lebedele sunt foarte blânde – dar nu le hrăniți.",
+            "en": "The swans are very tame – but please don't feed them."
+          }
+        },
+        {
+          "name": "Restaurantul La Cetate",
+          "coords": [
+            23.59,
+            46.767
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probier die Mici mit Senf – ein lokaler Klassiker.",
+            "hu": "Kóstold meg a Mici-t mustárral – egy helyi klasszikus.",
+            "ro": "Încearcă mici cu muștar – un clasic local.",
+            "en": "Try the mici with mustard – a local classic."
+          }
+        },
+        {
+          "name": "Piața Unirii (esti)",
+          "coords": [
+            23.588,
+            46.77
+          ],
+          "category": "sunset",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Sonnenuntergang hinter den Gebäuden ist magisch.",
+            "hu": "A naplemente az épületek mögött varázslatos.",
+            "ro": "Apusul de soare în spatele clădirilor este magic.",
+            "en": "The sunset behind the buildings is magical."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf der Piața Unirii, dem pulsierenden Herzen der Stadt. Nach einem kurzen Besuch in der Biserica Sfântul Mihail tauchst du in die Kunst des Muzeul de Artă ein. Der Vormittag vergeht wie im Flug.",
+        "hu": "A reggel a Piața Unirii-n kezdődik, a város lüktető szívében. A Biserica Sfântul Mihail rövid látogatása után elmerülsz a Muzeul de Artă művészetében. A délelőtt repül.",
+        "ro": "Dimineața începe în Piața Unirii, inima vibrantă a orașului. După o scurtă vizită la Biserica Sfântul Mihail, te cufunzi în arta Muzeului de Artă. Dimineața zboară.",
+        "en": "The morning starts at Piața Unirii, the vibrant heart of the city. After a short visit to Biserica Sfântul Mihail, you immerse yourself in the art of Muzeul de Artă. The morning flies by."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Senf",
+            "tip": "Im Restaurant La Cetate probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici mustárral",
+            "tip": "A La Cetate étteremben kóstold meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu muștar",
+            "tip": "Încearcă la Restaurantul La Cetate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with mustard",
+            "tip": "Try it at Restaurant La Cetate."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Ruhige Oase im Park.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Csendes oázis a parkban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Oază liniștită în parc.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Quiet oasis in the park.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Keramik",
+            "tip": "Am Marktstand in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "A régi város piacán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică făcută manual",
+            "tip": "La taraba din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade ceramics",
+            "tip": "At the market stall in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trage bequeme Schuhe.",
+          "Nimm Wasser mit.",
+          "Der Park ist morgens am schönsten.",
+          "Plane genug Zeit für das Museum ein."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt.",
+          "Vigyél magaddal vizet.",
+          "A park reggel a legszebb.",
+          "Szánj elég időt a múzeumra."
+        ],
+        "ro": [
+          "Poartă încălțăminte confortabilă.",
+          "Ia apă cu tine.",
+          "Parcul e cel mai frumos dimineața.",
+          "Alocă suficient timp muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Bring water.",
+          "The park is most beautiful in the morning.",
+          "Allocate enough time for the museum."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            23.588,
+            46.77
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starte früh – der Platz ist dann noch leer.",
+            "hu": "Indulj korán – a tér ekkor még üres.",
+            "ro": "Pornește devreme – piața e încă goală.",
+            "en": "Start early – the square is still empty then."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            23.589,
+            46.769
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrradständer gibt es vor der Kirche.",
+            "hu": "A templom előtt kerékpártároló van.",
+            "ro": "În fața bisericii sunt suporturi de biciclete.",
+            "en": "Bike racks are available in front of the church."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            23.593,
+            46.766
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Durch den Park radeln ist erlaubt – genieße die Alleen.",
+            "hu": "A parkon át lehet biciklizni – élvezd a fasorokat.",
+            "ro": "Se poate merge cu bicicleta prin parc – bucură-te de alei.",
+            "en": "Cycling through the park is allowed – enjoy the avenues."
+          }
+        },
+        {
+          "name": "Lacul cu Lebede",
+          "coords": [
+            23.595,
+            46.765
+          ],
+          "category": "garden",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier kann man das Fahrrad gut abstellen und die Ruhe genießen.",
+            "hu": "Itt jól le lehet tenni a biciklit és élvezni a csendet.",
+            "ro": "Aici poți lăsa bicicleta și te poți bucura de liniște.",
+            "en": "You can park your bike here and enjoy the peace."
+          }
+        },
+        {
+          "name": "Restaurantul La Cetate",
+          "coords": [
+            23.59,
+            46.767
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahrradparkplatz direkt am Restaurant.",
+            "hu": "Kerékpárparkoló közvetlenül az étterem mellett.",
+            "ro": "Parcare de biciclete chiar lângă restaurant.",
+            "en": "Bike parking right next to the restaurant."
+          }
+        },
+        {
+          "name": "Piața Unirii (esti)",
+          "coords": [
+            23.588,
+            46.77
+          ],
+          "category": "sunset",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Rückweg ist kurz – ideal für den Sonnenuntergang.",
+            "hu": "A visszaút rövid – ideális a naplementéhez.",
+            "ro": "Drumul de întoarcere e scurt – ideal pentru apus.",
+            "en": "The way back is short – ideal for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkundest du die Stadt flott und flexibel. Vom belebten Platz aus radelst du zur Kirche, dann durch den grünen Park zum See. Der Nachmittag gehört dem Essen und dem Sonnenuntergang.",
+        "hu": "Kerékpárral gyorsan és rugalmasan fedezed fel a várost. A nyüzsgő térről a templomhoz tekeresz, majd a zöld parkon át a tóhoz. A délután az evésé és a naplementéé.",
+        "ro": "Cu bicicleta explorezi orașul rapid și flexibil. Din piața aglomerată pedalezi spre biserică, apoi prin parcul verde spre lac. După-amiaza este pentru mâncare și apus.",
+        "en": "By bike you explore the city quickly and flexibly. From the bustling square you cycle to the church, then through the green park to the lake. The afternoon is for food and sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Senf",
+            "tip": "Im Restaurant La Cetate probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici mustárral",
+            "tip": "A La Cetate étteremben kóstold meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu muștar",
+            "tip": "Încearcă la Restaurantul La Cetate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with mustard",
+            "tip": "Try it at Restaurant La Cetate."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Ruhige Oase im Park.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Csendes oázis a parkban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Oază liniștită în parc.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Quiet oasis in the park.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Keramik",
+            "tip": "Am Marktstand in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "A régi város piacán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică făcută manual",
+            "tip": "La taraba din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade ceramics",
+            "tip": "At the market stall in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrradhelm ist Pflicht.",
+          "Schloss nicht vergessen.",
+          "Die Wege im Park sind gut asphaltiert.",
+          "Abends wird es kühl – Jacke einpacken."
+        ],
+        "hu": [
+          "Kötelező a biciklisisak.",
+          "Ne felejtsd el a lakatot.",
+          "A parkban az utak jól aszfaltozottak.",
+          "Este hűvös lesz – vigyél kabátot."
+        ],
+        "ro": [
+          "Casca de bicicletă este obligatorie.",
+          "Nu uita de lacăt.",
+          "Drumurile din parc sunt bine asfaltate.",
+          "Seara se răcește – ia o geacă."
+        ],
+        "en": [
+          "Helmet is mandatory.",
+          "Don't forget the lock.",
+          "The paths in the park are well paved.",
+          "It gets cool in the evening – bring a jacket."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            23.588,
+            46.77
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken in der Tiefgarage unter dem Platz.",
+            "hu": "Parkolj a tér alatti mélygarázsban.",
+            "ro": "Parcare în garajul subteran de sub piață.",
+            "en": "Park in the underground garage under the square."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            23.589,
+            46.769
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Parkhaus aus zu Fuß erreichbar.",
+            "hu": "A parkolóházból gyalog is elérhető.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking garage."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            23.591,
+            46.768
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum ist nur 5 Gehminuten von der Kirche entfernt.",
+            "hu": "A múzeum csak 5 perces sétára van a templomtól.",
+            "ro": "Muzeul este la doar 5 minute de mers pe jos de biserică.",
+            "en": "The museum is only a 5-minute walk from the church."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            23.593,
+            46.766
+          ],
+          "category": "park",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Museum aus durch die Altstadt zum Park spazieren.",
+            "hu": "A múzeumból a régi városon át sétálj a parkba.",
+            "ro": "De la muzeu, plimbă-te prin orașul vechi până în parc.",
+            "en": "From the museum, stroll through the old town to the park."
+          }
+        },
+        {
+          "name": "Lacul cu Lebede",
+          "coords": [
+            23.595,
+            46.765
+          ],
+          "category": "garden",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der See ist ein ruhiger Ort im Park.",
+            "hu": "A tó egy csendes hely a parkban.",
+            "ro": "Lacul este un loc liniștit în parc.",
+            "en": "The lake is a quiet spot in the park."
+          }
+        },
+        {
+          "name": "Restaurantul La Cetate",
+          "coords": [
+            23.59,
+            46.767
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Restaurant ist bekannt für seine traditionelle Küche.",
+            "hu": "Az étterem híres a hagyományos konyhájáról.",
+            "ro": "Restaurantul este renumit pentru bucătăria tradițională.",
+            "en": "The restaurant is famous for its traditional cuisine."
+          }
+        },
+        {
+          "name": "Piața Unirii (esti)",
+          "coords": [
+            23.588,
+            46.77
+          ],
+          "category": "sunset",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Platz ist abends wunderschön beleuchtet.",
+            "hu": "A tér este gyönyörűen ki van világítva.",
+            "ro": "Piața este frumos iluminată seara.",
+            "en": "The square is beautifully lit in the evening."
+          }
+        },
+        {
+          "name": "Cetatea Pliziogo",
+          "coords": [
+            23.6,
+            46.78
+          ],
+          "category": "historical",
+          "arrive_at": "17:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Festung bietet einen tollen Blick über die Stadt.",
+            "hu": "Az erődítmény remek kilátást nyújt a városra.",
+            "ro": "Fortăreața oferă o priveliște minunată asupra orașului.",
+            "en": "The fortress offers a great view over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto startest du am Hauptplatz, parkst in der Tiefgarage und erkundest die Innenstadt zu Fuß. Nach dem Museum und dem Park fährst du zur nahegelegenen Festung. Der Tag endet mit einem Abendessen und Sonnenuntergang.",
+        "hu": "Autóval indulj a főtéren, parkolj a mélygarázsban, és fedezd fel a belvárost gyalog. A múzeum és a park után menj a közeli erődítményhez. A nap vacsorával és naplementével zárul.",
+        "ro": "Cu mașina pornești din piața principală, parchezi în garajul subteran și explorezi centrul orașului pe jos. După muzeu și parc, mergi la fortăreața din apropiere. Ziua se încheie cu cină și apus.",
+        "en": "By car you start at the main square, park in the underground garage and explore the city center on foot. After the museum and park, drive to the nearby fortress. The day ends with dinner and sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Senf",
+            "tip": "Im Restaurant La Cetate probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici mustárral",
+            "tip": "A La Cetate étteremben kóstold meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu muștar",
+            "tip": "Încearcă la Restaurantul La Cetate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with mustard",
+            "tip": "Try it at Restaurant La Cetate."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cetatea Pliziogo",
+            "tip": "Ruhiger Ort mit Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pliziogo erőd",
+            "tip": "Csendes hely panorámás kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cetatea Pliziogo",
+            "tip": "Loc liniștit cu vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pliziogo Fortress",
+            "tip": "Quiet place with panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Keramik",
+            "tip": "Am Marktstand in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "A régi város piacán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică făcută manual",
+            "tip": "La taraba din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade ceramics",
+            "tip": "At the market stall in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkhaus unter dem Platz nutzen.",
+          "In der Altstadt nur zu Fuß.",
+          "Festung lohnt sich am Nachmittag.",
+          "Abends weniger Verkehr."
+        ],
+        "hu": [
+          "Használd a tér alatti parkolóházat.",
+          "A régi városban csak gyalog.",
+          "Az erődítmény délután éri meg.",
+          "Este kevesebb a forgalom."
+        ],
+        "ro": [
+          "Folosește parcarea subterană de sub piață.",
+          "În orașul vechi doar pe jos.",
+          "Fortăreața merită după-amiaza.",
+          "Seara e mai puțin trafic."
+        ],
+        "en": [
+          "Use the underground parking under the square.",
+          "In the old town only on foot.",
+          "The fortress is worth it in the afternoon.",
+          "Less traffic in the evening."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            23.588,
+            46.77
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist direkt am Platz.",
+            "hu": "A buszmegálló közvetlenül a téren van.",
+            "ro": "Stația de autobuz este chiar în piață.",
+            "en": "The bus stop is right on the square."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            23.589,
+            46.769
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Platz aus zu Fuß erreichbar.",
+            "hu": "A térről gyalog is elérhető.",
+            "ro": "Accesibil pe jos din piață.",
+            "en": "Accessible on foot from the square."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            23.591,
+            46.768
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum ist nur 5 Gehminuten von der Kirche entfernt.",
+            "hu": "A múzeum csak 5 perces sétára van a templomtól.",
+            "ro": "Muzeul este la doar 5 minute de mers pe jos de biserică.",
+            "en": "The museum is only a 5-minute walk from the church."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            23.593,
+            46.766
+          ],
+          "category": "park",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Museum aus durch die Altstadt zum Park spazieren.",
+            "hu": "A múzeumból a régi városon át sétálj a parkba.",
+            "ro": "De la muzeu, plimbă-te prin orașul vechi până în parc.",
+            "en": "From the museum, stroll through the old town to the park."
+          }
+        },
+        {
+          "name": "Lacul cu Lebede",
+          "coords": [
+            23.595,
+            46.765
+          ],
+          "category": "garden",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der See ist ein ruhiger Ort im Park.",
+            "hu": "A tó egy csendes hely a parkban.",
+            "ro": "Lacul este un loc liniștit în parc.",
+            "en": "The lake is a quiet spot in the park."
+          }
+        },
+        {
+          "name": "Restaurantul La Cetate",
+          "coords": [
+            23.59,
+            46.767
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Restaurant ist bekannt für seine traditionelle Küche.",
+            "hu": "Az étterem híres a hagyományos konyhájáról.",
+            "ro": "Restaurantul este renumit pentru bucătăria tradițională.",
+            "en": "The restaurant is famous for its traditional cuisine."
+          }
+        },
+        {
+          "name": "Piața Unirii (esti)",
+          "coords": [
+            23.588,
+            46.77
+          ],
+          "category": "sunset",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Platz ist abends wunderschön beleuchtet.",
+            "hu": "A tér este gyönyörűen ki van világítva.",
+            "ro": "Piața este frumos iluminată seara.",
+            "en": "The square is beautifully lit in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichst du schnell das Zentrum. Vom Hauptplatz aus erkundest du die Innenstadt zu Fuß. Nach dem Museum und dem Park fährst du mit dem Bus zurück zum Platz. Der Tag endet mit einem Abendessen und Sonnenuntergang.",
+        "hu": "Busszal gyorsan eléred a központot. A főtérről gyalog fedezed fel a belvárost. A múzeum és a park után busszal térsz vissza a térre. A nap vacsorával és naplementével zárul.",
+        "ro": "Cu autobuzul ajungi rapid în centru. Din piața principală explorezi centrul orașului pe jos. După muzeu și parc, te întorci cu autobuzul în piață. Ziua se încheie cu cină și apus.",
+        "en": "By bus you quickly reach the center. From the main square you explore the city center on foot. After the museum and park, you take the bus back to the square. The day ends with dinner and sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Senf",
+            "tip": "Im Restaurant La Cetate probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici mustárral",
+            "tip": "A La Cetate étteremben kóstold meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu muștar",
+            "tip": "Încearcă la Restaurantul La Cetate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with mustard",
+            "tip": "Try it at Restaurant La Cetate."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Ruhige Oase im Park.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Csendes oázis a parkban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Oază liniștită în parc.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lacul cu Lebede",
+            "tip": "Quiet oasis in the park.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Keramik",
+            "tip": "Am Marktstand in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "A régi város piacán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică făcută manual",
+            "tip": "La taraba din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade ceramics",
+            "tip": "At the market stall in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buslinie 1 fährt direkt zum Zentrum.",
+          "Kaufe ein Tagesticket.",
+          "Die Haltestellen sind gut beschildert.",
+          "Abends fahren Busse seltener."
+        ],
+        "hu": [
+          "Az 1-es busz közvetlenül a központba megy.",
+          "Vegyél napijegyet.",
+          "A megállók jól ki vannak táblázva.",
+          "Este ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Autobuzul linia 1 merge direct în centru.",
+          "Cumpără un bilet de zi.",
+          "Stațiile sunt bine semnalizate.",
+          "Seara autobuzele circulă mai rar."
+        ],
+        "en": [
+          "Bus line 1 goes directly to the center.",
+          "Buy a day ticket.",
+          "The stops are well signposted.",
+          "Buses run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

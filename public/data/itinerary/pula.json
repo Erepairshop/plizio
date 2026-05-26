@@ -3,2654 +3,339 @@
   "anchor": {
     "name": "Pula Arena",
     "coords": [
-      13.8502,
-      44.8732
+      13.8496,
+      44.8683
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "15:45",
-      "total_km": 2.1,
+      "end_estimate": "17:15",
+      "total_km": 3.2,
       "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Arena von Pula",
-            "hu": "Pulai amfiteátrum",
-            "ro": "Arena din Pula",
-            "en": "Pula Arena"
+            "de": "Amphitheater (Arena)",
+            "hu": "Amfiteátrum (Aréna)",
+            "ro": "Amfiteatrul (Arena)",
+            "en": "Amphitheater (Arena)"
           },
           "coords": [
-            13.8502,
-            44.8732
+            13.8496,
+            44.8683
           ],
           "category": "historical",
-          "arrive_at": "09:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Früh kommen, um die unterirdischen Olivenöl-Ausstellungen ohne Massen zu sehen.",
-            "hu": "Érdemes korán érkezni a föld alatti olívaolaj-kiállítás miatt.",
-            "ro": "Veniți devreme pentru a vedea expozițiile de ulei de măsline din subteran.",
-            "en": "Arrive early to see the underground olive oil exhibitions without crowds."
-          }
-        },
-        {
-          "name": {
-            "de": "Doppeltor (Dvojna vrata)",
-            "hu": "Kettős kapu",
-            "ro": "Poarta Dublă",
-            "en": "Twin Gates"
-          },
-          "coords": [
-            13.8495,
-            44.8705
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "10:05",
-          "stay_min": 15,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Dieses Tor führt direkt zum Archäologischen Museum und zum Kastel.",
-            "hu": "Ez a kapu vezet közvetlenül a Régészeti Múzeumhoz és a várhoz.",
-            "ro": "Această poartă duce direct la Muzeul Arheologic și la Kastel.",
-            "en": "This gate leads directly to the Archaeological Museum and the Castle."
-          }
-        },
-        {
-          "name": {
-            "de": "Archäologisches Museum Istriens",
-            "hu": "Isztriai Régészeti Múzeum",
-            "ro": "Muzeul Arheologic al Istriei",
-            "en": "Archaeological Museum of Istria"
-          },
-          "coords": [
-            13.848,
-            44.8715
-          ],
-          "category": "museums",
-          "arrive_at": "10:25",
-          "stay_min": 75,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Hinter dem Museum befindet sich ein kleines römisches Theater im Freien.",
-            "hu": "A múzeum mögött egy kis szabadtéri római színház található.",
-            "ro": "În spatele muzeului se află un mic teatru roman în aer liber.",
-            "en": "Behind the museum, there is a small Roman outdoor theater."
-          }
-        },
-        {
-          "name": {
-            "de": "Herkulestor",
-            "hu": "Herkules-kapu",
-            "ro": "Poarta lui Hercule",
-            "en": "Hercules Gate"
-          },
-          "coords": [
-            13.8488,
-            44.8692
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "11:45",
-          "stay_min": 10,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Achten Sie auf das stark verwitterte Relief des Herkules-Kopfes oben.",
-            "hu": "Figyeld meg a Herkules fejét ábrázoló kopott domborművet a kapu tetején.",
-            "ro": "Observați relieful erodat al capului lui Hercule din partea de sus.",
-            "en": "Look for the weathered relief of Hercules' head at the top of the gate."
-          }
-        },
-        {
-          "name": {
-            "de": "Sergierbogen",
-            "hu": "Sergius-diadalív",
-            "ro": "Arcul lui Sergius",
-            "en": "Arch of the Sergii"
-          },
-          "coords": [
-            13.8475,
-            44.8682
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "12:00",
-          "stay_min": 20,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Ein idealer Ort für Fotos, bevor man in die Haupteinkaufsstraße einbiegt.",
-            "hu": "Tökéletes fotópont, mielőtt belépnél a fő bevásárlóutcába.",
-            "ro": "Un loc ideal pentru fotografii înainte de a intra pe strada principală.",
-            "en": "An ideal spot for photos before entering the main shopping street."
-          }
-        },
-        {
-          "name": {
-            "de": "Forum & Augustustempel",
-            "hu": "Fórum és Augustus temploma",
-            "ro": "Forumul și Templul lui Augustus",
-            "en": "Forum & Temple of Augustus"
-          },
-          "coords": [
-            13.8428,
-            44.8702
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "12:30",
+          "arrive_at": "09:10",
           "stay_min": 90,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Genießen Sie ein Mittagessen am Platz mit Blick auf den Tempel aus dem 1. Jahrhundert.",
-            "hu": "Ebédelj a téren, rálátással az 1. századi római templomra.",
-            "ro": "Savurați prânzul în piață cu vedere la templul roman din secolul I.",
-            "en": "Enjoy lunch in the square with a view of the 1st-century Roman temple."
-          }
-        },
-        {
-          "name": {
-            "de": "Kastel",
-            "hu": "Kastel erőd",
-            "ro": "Kastel",
-            "en": "Kastel Fortress"
-          },
-          "coords": [
-            13.8465,
-            44.8705
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "14:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Steigen Sie auf die Mauern für den besten Panoramablick über ganz Pula.",
-            "hu": "Menj fel a falakra a legjobb panorámáért Pula városa felett.",
-            "ro": "Urcați pe ziduri pentru cea mai bună vedere panoramică asupra Pulei.",
-            "en": "Climb the walls for the best panoramic view over the entire city of Pula."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag an der beeindruckenden Arena, einem der am besten erhaltenen römischen Amphitheater. Spazieren Sie durch die antiken Tore der Stadt und tauchen Sie im Archäologischen Museum in die Geschichte ein. Mittags entspannen Sie am Forum, dem Herzen des antiken Pula, direkt neben dem Augustustempel. Den Nachmittag krönen Sie mit einem Besuch der venezianischen Festung Kastel, von der aus Sie den Hafen und die Arena aus der Vogelperspektive bestaunen können.",
-        "hu": "Kezdje a napot a lenyűgöző Arénánál, amely a világ egyik legjobb állapotban fennmaradt római amfiteátruma. Sétáljon át az ókori városkapukon, és merüljön el a történelemben a Régészeti Múzeumban. Délben pihenjen a Fórumon, az ókori Pula szívében, közvetlenül Augustus temploma mellett. A délutánt koronázza meg a velencei Kastel erőd meglátogatásával, ahonnan madártávlatból csodálhatja meg a kikötőt és az Arénát.",
-        "ro": "Începeți ziua la impresionanta Arenă, unul dintre cele mai bine conservate amfiteatre romane din lume. Plimbați-vă prin porțile antice ale orașului și descoperiți istoria la Muzeul Arheologic. La prânz, relaxați-vă în Forum, inima Pulei antice, chiar lângă Templul lui Augustus. Încheiați după-amiaza cu o vizită la fortăreața venețiană Kastel, de unde puteți admira portul și Arena de la înălțime.",
-        "en": "Start your day at the impressive Arena, one of the best-preserved Roman amphitheaters in the world. Walk through the ancient city gates and dive into history at the Archaeological Museum. At midday, relax at the Forum, the heart of ancient Pula, right next to the Temple of Augustus. Crown the afternoon with a visit to the Venetian Kastel fortress, offering a bird's-eye view of the harbor and the Arena."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Konoba Batelina",
-            "tip": "Frischer Fisch und Meeresfrüchte nach traditioneller Art."
-          },
-          {
-            "name": "Istrianischer Schinken (Pršut)",
-            "tip": "Probieren Sie ihn in einer der kleinen Bars am Forum."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Konoba Batelina",
-            "tip": "Friss halak és tenger gyümölcsei hagyományos módon elkészítve."
-          },
-          {
-            "name": "Isztriai sonka (Pršut)",
-            "tip": "Kóstolja meg a Fórum menti kis bárok egyikében."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Konoba Batelina",
-            "tip": "Pește proaspăt și fructe de mare gătite în mod tradițional."
-          },
-          {
-            "name": "Șuncă istriană (Pršut)",
-            "tip": "Încercați-o într-unul dintre micile baruri din Forum."
-          }
-        ],
-        "en": [
-          {
-            "name": "Konoba Batelina",
-            "tip": "Fresh fish and seafood prepared in a traditional style."
-          },
-          {
-            "name": "Istrian Ham (Pršut)",
-            "tip": "Try it in one of the small bars along the Forum."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Hügel Monte Zaro",
-            "tip": "Ein ruhiger Park mit Blick auf die Sternwarte.",
-            "emoji": "🌿"
-          },
-          {
-            "name": "Hafenmole",
-            "tip": "Ideal für einen ruhigen Spaziergang zum Sonnenuntergang.",
-            "emoji": "🌅"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Monte Zaro domb",
-            "tip": "Csendes park kilátással a csillagvizsgálóra.",
-            "emoji": "🌿"
-          },
-          {
-            "name": "Kikötői móló",
-            "tip": "Ideális egy nyugodt sétához naplementekor.",
-            "emoji": "🌅"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Dealul Monte Zaro",
-            "tip": "Un parc liniștit cu vedere la observatorul astronomic.",
-            "emoji": "🌿"
-          },
-          {
-            "name": "Digul portului",
-            "tip": "Ideal pentru o plimbare liniștită la apus.",
-            "emoji": "🌅"
-          }
-        ],
-        "en": [
-          {
-            "name": "Monte Zaro Hill",
-            "tip": "A quiet park with a view of the astronomical observatory.",
-            "emoji": "🌿"
-          },
-          {
-            "name": "Harbor Pier",
-            "tip": "Ideal for a peaceful walk at sunset.",
-            "emoji": "🌅"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Markthalle Pula",
-            "tip": "Ein wunderschönes Jugendstilgebäude mit lokalen Produkten."
-          },
-          {
-            "name": "Olivenöl-Fachgeschäfte",
-            "tip": "Kaufen Sie preisgekröntes istrisches Olivenöl."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Pulai Vásárcsarnok",
-            "tip": "Gyönyörű szecessziós épület helyi termékekkel."
-          },
-          {
-            "name": "Olívaolaj szaküzletek",
-            "tip": "Vásároljon díjnyertes isztriai olívaolajat."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Piața Centrală din Pula",
-            "tip": "O clădire Art Nouveau superbă cu produse locale."
-          },
-          {
-            "name": "Magazine de ulei de măsline",
-            "tip": "Cumpărați ulei de măsline istrian premiat."
-          }
-        ],
-        "en": [
-          {
-            "name": "Pula City Market",
-            "tip": "A beautiful Art Nouveau building with local fresh products."
-          },
-          {
-            "name": "Olive Oil Specialty Shops",
-            "tip": "Buy award-winning Istrian olive oil."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Die Altstadt ist fast komplett verkehrsberuhigt.",
-          "Tragen Sie bequeme Schuhe für das römische Kopfsteinpflaster.",
-          "Kombinieren Sie den Besuch der Arena mit dem unterirdischen Museum.",
-          "Das Forum bietet die beste Atmosphäre für eine Kaffeepause."
-        ],
-        "hu": [
-          "Az óváros szinte teljes egészében gyalogosövezet.",
-          "Viseljen kényelmes cipőt a római kori macskakövek miatt.",
-          "Az Aréna látogatását kösse össze a föld alatti múzeummal.",
-          "A Fórum kínálja a legjobb hangulatot egy kávészünethez."
-        ],
-        "ro": [
-          "Centrul vechi este aproape în întregime zonă pietonală.",
-          "Purtați încălțăminte confortabilă pentru pavajul roman.",
-          "Combinați vizita la Arenă cu muzeul subteran.",
-          "Forumul oferă cea mai bună atmosferă pentru o pauză de cafea."
-        ],
-        "en": [
-          "The old town is almost entirely a pedestrian zone.",
-          "Wear comfortable shoes for the Roman cobblestone streets.",
-          "Combine your Arena visit with the underground museum.",
-          "The Forum offers the best atmosphere for a coffee break."
-        ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Beginnen Sie Ihren Tag an der beeindruckenden Arena, einem der am besten erhaltenen römischen Amphitheater. Spazieren Sie durch die antiken Tore der Stadt und tauchen Sie im Archäologischen Museum in die Geschichte ein. Mittags entspannen Sie am Forum, dem Herzen des antiken Pula, direkt neben dem Augustustempel. Den Nachmittag krönen Sie mit einem Besuch der venezianischen Festung Kastel, von der aus Sie den Hafen und die Arena aus der Vogelperspektive bestaunen können.",
-            "hu": "Kezdje a napot a lenyűgöző Arénánál, amely a világ egyik legjobb állapotban fennmaradt római amfiteátruma. Sétáljon át az ókori városkapukon, és merüljön el a történelemben a Régészeti Múzeumban. Délben pihenjen a Fórumon, az ókori Pula szívében, közvetlenül Augustus temploma mellett. A délutánt koronázza meg a velencei Kastel erőd meglátogatásával, ahonnan madártávlatból csodálhatja meg a kikötőt és az Arénát.",
-            "ro": "Începeți ziua la impresionanta Arenă, unul dintre cele mai bine conservate amfiteatre romane din lume. Plimbați-vă prin porțile antice ale orașului și descoperiți istoria la Muzeul Arheologic. La prânz, relaxați-vă în Forum, inima Pulei antice, chiar lângă Templul lui Augustus. Încheiați după-amiaza cu o vizită la fortăreața venețiană Kastel, de unde puteți admira portul și Arena de la înălțime.",
-            "en": "Start your day at the impressive Arena, one of the best-preserved Roman amphitheaters in the world. Walk through the ancient city gates and dive into history at the Archaeological Museum. At midday, relax at the Forum, the heart of ancient Pula, right next to the Temple of Augustus. Crown the afternoon with a visit to the Venetian Kastel fortress, offering a bird's-eye view of the harbor and the Arena."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Arena von Pula",
-                "hu": "Pulai amfiteátrum",
-                "ro": "Arena din Pula",
-                "en": "Pula Arena"
-              },
-              "tip_5lang": {
-                "de": "Früh kommen, um die unterirdischen Olivenöl-Ausstellungen ohne Massen zu sehen.",
-                "hu": "Érdemes korán érkezni a föld alatti olívaolaj-kiállítás miatt.",
-                "ro": "Veniți devreme pentru a vedea expozițiile de ulei de măsline din subteran.",
-                "en": "Arrive early to see the underground olive oil exhibitions without crowds."
-              }
-            },
-            {
-              "name": {
-                "de": "Doppeltor (Dvojna vrata)",
-                "hu": "Kettős kapu",
-                "ro": "Poarta Dublă",
-                "en": "Twin Gates"
-              },
-              "tip_5lang": {
-                "de": "Dieses Tor führt direkt zum Archäologischen Museum und zum Kastel.",
-                "hu": "Ez a kapu vezet közvetlenül a Régészeti Múzeumhoz és a várhoz.",
-                "ro": "Această poartă duce direct la Muzeul Arheologic și la Kastel.",
-                "en": "This gate leads directly to the Archaeological Museum and the Castle."
-              }
-            },
-            {
-              "name": {
-                "de": "Archäologisches Museum Istriens",
-                "hu": "Isztriai Régészeti Múzeum",
-                "ro": "Muzeul Arheologic al Istriei",
-                "en": "Archaeological Museum of Istria"
-              },
-              "tip_5lang": {
-                "de": "Hinter dem Museum befindet sich ein kleines römisches Theater im Freien.",
-                "hu": "A múzeum mögött egy kis szabadtéri római színház található.",
-                "ro": "În spatele muzeului se află un mic teatru roman în aer liber.",
-                "en": "Behind the museum, there is a small Roman outdoor theater."
-              }
-            },
-            {
-              "name": {
-                "de": "Herkulestor",
-                "hu": "Herkules-kapu",
-                "ro": "Poarta lui Hercule",
-                "en": "Hercules Gate"
-              },
-              "tip_5lang": {
-                "de": "Achten Sie auf das stark verwitterte Relief des Herkules-Kopfes oben.",
-                "hu": "Figyeld meg a Herkules fejét ábrázoló kopott domborművet a kapu tetején.",
-                "ro": "Observați relieful erodat al capului lui Hercule din partea de sus.",
-                "en": "Look for the weathered relief of Hercules' head at the top of the gate."
-              }
-            },
-            {
-              "name": {
-                "de": "Sergierbogen",
-                "hu": "Sergius-diadalív",
-                "ro": "Arcul lui Sergius",
-                "en": "Arch of the Sergii"
-              },
-              "tip_5lang": {
-                "de": "Ein idealer Ort für Fotos, bevor man in die Haupteinkaufsstraße einbiegt.",
-                "hu": "Tökéletes fotópont, mielőtt belépnél a fő bevásárlóutcába.",
-                "ro": "Un loc ideal pentru fotografii înainte de a intra pe strada principală.",
-                "en": "An ideal spot for photos before entering the main shopping street."
-              }
-            },
-            {
-              "name": {
-                "de": "Forum & Augustustempel",
-                "hu": "Fórum és Augustus temploma",
-                "ro": "Forumul și Templul lui Augustus",
-                "en": "Forum & Temple of Augustus"
-              },
-              "tip_5lang": {
-                "de": "Genießen Sie ein Mittagessen am Platz mit Blick auf den Tempel aus dem 1. Jahrhundert.",
-                "hu": "Ebédelj a téren, rálátással az 1. századi római templomra.",
-                "ro": "Savurați prânzul în piață cu vedere la templul roman din secolul I.",
-                "en": "Enjoy lunch in the square with a view of the 1st-century Roman temple."
-              }
-            },
-            {
-              "name": {
-                "de": "Kastel",
-                "hu": "Kastel erőd",
-                "ro": "Kastel",
-                "en": "Kastel Fortress"
-              },
-              "tip_5lang": {
-                "de": "Steigen Sie auf die Mauern für den besten Panoramablick über ganz Pula.",
-                "hu": "Menj fel a falakra a legjobb panorámáért Pula városa felett.",
-                "ro": "Urcați pe ziduri pentru cea mai bună vedere panoramică asupra Pulei.",
-                "en": "Climb the walls for the best panoramic view over the entire city of Pula."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Konoba Batelina",
-                "tip": "Frischer Fisch und Meeresfrüchte nach traditioneller Art."
-              },
-              {
-                "name": "Istrianischer Schinken (Pršut)",
-                "tip": "Probieren Sie ihn in einer der kleinen Bars am Forum."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Konoba Batelina",
-                "tip": "Friss halak és tenger gyümölcsei hagyományos módon elkészítve."
-              },
-              {
-                "name": "Isztriai sonka (Pršut)",
-                "tip": "Kóstolja meg a Fórum menti kis bárok egyikében."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Konoba Batelina",
-                "tip": "Pește proaspăt și fructe de mare gătite în mod tradițional."
-              },
-              {
-                "name": "Șuncă istriană (Pršut)",
-                "tip": "Încercați-o într-unul dintre micile baruri din Forum."
-              }
-            ],
-            "en": [
-              {
-                "name": "Konoba Batelina",
-                "tip": "Fresh fish and seafood prepared in a traditional style."
-              },
-              {
-                "name": "Istrian Ham (Pršut)",
-                "tip": "Try it in one of the small bars along the Forum."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Hügel Monte Zaro",
-                "tip": "Ein ruhiger Park mit Blick auf die Sternwarte.",
-                "emoji": "🌿"
-              },
-              {
-                "name": "Hafenmole",
-                "tip": "Ideal für einen ruhigen Spaziergang zum Sonnenuntergang.",
-                "emoji": "🌅"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Monte Zaro domb",
-                "tip": "Csendes park kilátással a csillagvizsgálóra.",
-                "emoji": "🌿"
-              },
-              {
-                "name": "Kikötői móló",
-                "tip": "Ideális egy nyugodt sétához naplementekor.",
-                "emoji": "🌅"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Dealul Monte Zaro",
-                "tip": "Un parc liniștit cu vedere la observatorul astronomic.",
-                "emoji": "🌿"
-              },
-              {
-                "name": "Digul portului",
-                "tip": "Ideal pentru o plimbare liniștită la apus.",
-                "emoji": "🌅"
-              }
-            ],
-            "en": [
-              {
-                "name": "Monte Zaro Hill",
-                "tip": "A quiet park with a view of the astronomical observatory.",
-                "emoji": "🌿"
-              },
-              {
-                "name": "Harbor Pier",
-                "tip": "Ideal for a peaceful walk at sunset.",
-                "emoji": "🌅"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Markthalle Pula",
-                "tip": "Ein wunderschönes Jugendstilgebäude mit lokalen Produkten."
-              },
-              {
-                "name": "Olivenöl-Fachgeschäfte",
-                "tip": "Kaufen Sie preisgekröntes istrisches Olivenöl."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Pulai Vásárcsarnok",
-                "tip": "Gyönyörű szecessziós épület helyi termékekkel."
-              },
-              {
-                "name": "Olívaolaj szaküzletek",
-                "tip": "Vásároljon díjnyertes isztriai olívaolajat."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Piața Centrală din Pula",
-                "tip": "O clădire Art Nouveau superbă cu produse locale."
-              },
-              {
-                "name": "Magazine de ulei de măsline",
-                "tip": "Cumpărați ulei de măsline istrian premiat."
-              }
-            ],
-            "en": [
-              {
-                "name": "Pula City Market",
-                "tip": "A beautiful Art Nouveau building with local fresh products."
-              },
-              {
-                "name": "Olive Oil Specialty Shops",
-                "tip": "Buy award-winning Istrian olive oil."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Die Altstadt ist fast komplett verkehrsberuhigt.",
-              "Tragen Sie bequeme Schuhe für das römische Kopfsteinpflaster.",
-              "Kombinieren Sie den Besuch der Arena mit dem unterirdischen Museum.",
-              "Das Forum bietet die beste Atmosphäre für eine Kaffeepause."
-            ],
-            "hu": [
-              "Az óváros szinte teljes egészében gyalogosövezet.",
-              "Viseljen kényelmes cipőt a római kori macskakövek miatt.",
-              "Az Aréna látogatását kösse össze a föld alatti múzeummal.",
-              "A Fórum kínálja a legjobb hangulatot egy kávészünethez."
-            ],
-            "ro": [
-              "Centrul vechi este aproape în întregime zonă pietonală.",
-              "Purtați încălțăminte confortabilă pentru pavajul roman.",
-              "Combinați vizita la Arenă cu muzeul subteran.",
-              "Forumul oferă cea mai bună atmosferă pentru o pauză de cafea."
-            ],
-            "en": [
-              "The old town is almost entirely a pedestrian zone.",
-              "Wear comfortable shoes for the Roman cobblestone streets.",
-              "Combine your Arena visit with the underground museum.",
-              "The Forum offers the best atmosphere for a coffee break."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Morgens bietet das Amphitheater Schutz in seinen unterirdischen Gängen. Mittags erkunden wir das Archäologische Museum, ideal bei Regen. Nachmittags suchen wir die Cafés am Forum auf, während der Regen auf das antike Pflaster prasselt. Den Tag lassen wir in den Ausstellungsräumen der Festung Kastel ausklingen, die einen trockenen Zufluchtsort mit historischem Flair bieten.",
-            "hu": "Reggel az Aréna föld alatti kiállításai nyújtanak menedéket az eső elől. Délben az Isztriai Régészeti Múzeum belső tereiben kalandozunk. Délután a Fórum árkádjai alatt kávézunk, figyelve az eső áztatta ókori köveket. A napot a Kastel várfalai között zárjuk, ahol a Történeti Múzeum beltéri tárlatai és a tengeri vihar látványa vár minket.",
-            "ro": "Dimineața, galeriile subterane ale Arenei oferă adăpost împotriva ploii. La prânz, explorăm Muzeul de Arheologie, un refugiu cultural perfect. După-amiaza ne relaxăm la o cafenea în Forum, privind ploaia pe templele antice. Încheiem ziua în interiorul fortăreței Kastel, unde expozițiile muzeului istoric ne țin la adăpost în timp ce admirăm marea agitată.",
-            "en": "Morning finds us in the Arena's underground passages, safe from the rain. At noon, the Archaeological Museum provides a dry cultural escape. In the afternoon, we retreat to the cafes of the Forum to watch the rain on the ancient stones. We end the day inside the Kastel fortress, exploring the indoor museum exhibits while staying warm and dry."
-          },
-          "stops": [
-            {
-              "name": "Pula Arena",
-              "tip_5lang": {
-                "de": "Besuchen Sie die unterirdische Ausstellung zur Olivenölproduktion, um trocken zu bleiben.",
-                "hu": "Látogass el a föld alatti olívaolaj-kiállításra, ott garantáltan nem ázol meg.",
-                "ro": "Vizitează expoziția subterană despre producția de ulei de măsline pentru a rămâne uscat.",
-                "en": "Visit the underground exhibition on olive oil production to stay dry and sheltered."
-              }
-            },
-            {
-              "name": "Twin Gates",
-              "tip_5lang": {
-                "de": "Ein kurzes Foto unter dem Regenschirm; die Steine können bei Nässe rutschig sein.",
-                "hu": "Gyors fotó az esernyő alatt; a kövek nedvesen csúszósak lehetnek.",
-                "ro": "O fotografie rapidă sub umbrelă; pietrele pot fi alunecoase când sunt ude.",
-                "en": "A quick photo under the umbrella; the stones can be slippery when wet."
-              }
-            },
-            {
-              "name": "Archaeological Museum of Istria",
-              "tip_5lang": {
-                "de": "Der perfekte Ort, um einen heftigen Regenschauer bei antiker Kunst abzuwarten.",
-                "hu": "Tökéletes helyszín egy nagyobb zápor átvészelésére az antik művészetek társaságában.",
-                "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale printre artefacte antice.",
-                "en": "The perfect place to wait out a heavy downpour surrounded by ancient art."
-              }
-            },
-            {
-              "name": "Hercules Gate",
-              "tip_5lang": {
-                "de": "Kurzer Stopp; achten Sie auf Pfützen in den engen Gassen der Altstadt.",
-                "hu": "Rövid megálló; ügyelj a tócsákra az óváros szűk, lejtős utcáin.",
-                "ro": "Oprire scurtă; atenție la bălți pe străzile înguste ale orașului vechi.",
-                "en": "Short stop; watch out for puddles in the narrow streets of the old town."
-              }
-            },
-            {
-              "name": "Arch of the Sergii",
-              "tip_5lang": {
-                "de": "Die nahen Geschäfte bieten gute Möglichkeiten, sich kurz unterzustellen.",
-                "hu": "A közeli üzletek és árkádok jó lehetőséget kínálnak egy kis fedezékre.",
-                "ro": "Magazinele din apropiere oferă opțiuni bune pentru a te adăposti scurt timp.",
-                "en": "Nearby shops and arcades offer good options for a quick temporary shelter."
-              }
-            },
-            {
-              "name": "Forum & Temple of Augustus",
-              "tip_5lang": {
-                "de": "Genießen Sie einen Kaffee in den Arkaden mit Blick auf den nassen Tempel.",
-                "hu": "Igyál meg egy kávét az árkádok alatt, élvezve a vizes templom látványát.",
-                "ro": "Savurează o cafea sub arcade, admirând templul sub ploaie.",
-                "en": "Enjoy a coffee under the arcades with a view of the rain-drenched temple."
-              }
-            },
-            {
-              "name": "Kastel Fortress",
-              "tip_5lang": {
-                "de": "Nutzen Sie den Innenbereich des Historischen Museums, um den Tag trocken zu beenden.",
-                "hu": "Használd ki a Történeti Múzeum belső tereit, hogy szárazon fejezd be a napot.",
-                "ro": "Folosește interiorul Muzeului de Istorie pentru a încheia ziua la adăpost.",
-                "en": "Utilize the indoor areas of the Historical Museum to end the day dry."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Tragen Sie wasserfeste Schuhe, da das antike Pflaster sehr glatt wird.",
-              "Das Forum bietet die beste Dichte an Cafés mit überdachten Außenplätzen.",
-              "Die Arena hat einen großen unterirdischen Bereich, der komplett regengeschützt ist.",
-              "Museen in Pula sind montags oft geschlossen, prüfen Sie die Zeiten vorab."
-            ],
-            "hu": [
-              "Viselj vízálló cipőt, mert az ókori kövezett burkolat nagyon csúszóssá válik.",
-              "A Fórum környékén sok a fedett teraszos kávézó, ahol megpihenhetsz.",
-              "Az Aréna alagsora teljesen esővédett és izgalmas kiállítást rejt.",
-              "Esőben a városnézés lassabb, kalkulálj több időt a beltéri múzeumokra."
-            ],
-            "ro": [
-              "Poartă încălțăminte impermeabilă, pavajul vechi devine extrem de alunecos.",
-              "Forumul are cea mai mare densitate de cafenele cu terase acoperite.",
-              "Subsolul Arenei este complet protejat de ploaie și găzduiește o expoziție.",
-              "Muzeele sunt refugiul ideal; verifică programul de funcționare în prealabil."
-            ],
-            "en": [
-              "Wear waterproof shoes as the ancient stone pavement becomes very slippery.",
-              "The Forum offers the best density of cafes with covered outdoor seating.",
-              "The Arena's basement is completely rain-proof and holds a great exhibit.",
-              "Pula's museums are great shelters; check their schedules before heading out."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Der Wintermorgen an der Arena ist ruhig und ohne Menschenmassen. Mittags wärmen wir uns in den Museen der Altstadt auf, wenn der Bora-Wind bläst. Nachmittags genießen wir die tiefstehende Sonne am Forum bei einem warmen Getränk. Pünktlich zum frühen Sonnenuntergang steigen wir zur Festung Kastel hinauf, um das goldene Licht über der Adria zu erleben.",
-            "hu": "A téli reggel az Arénánál csendes, tömegek nélkül élvezhetjük a látványt. Délben az óváros múzeumaiban melegszünk fel, ha fúj a bóra szél. Délután a Fórumon élvezzük az alacsonyan járó nap sugarait egy forró ital mellett. A korai naplementére felkapaszkodunk a Kastelba, hogy lássuk az Adria feletti aranyló fényeket.",
-            "ro": "Dimineața de iarnă la Arenă este liniștită, fără mulțimi de turiști. La prânz, ne încălzim în muzeele din orașul vechi dacă bate vântul Bora. După-amiaza, ne bucurăm de soarele blând în Forum cu o băutură caldă. Pentru apusul timpuriu, urcăm la fortăreața Kastel pentru a vedea lumina aurie peste Adriatica.",
-            "en": "A winter morning at the Arena is peaceful, free from summer crowds. At noon, we warm up in the old town museums if the Bora wind picks up. In the afternoon, we enjoy the low sun at the Forum with a hot drink. For the early sunset, we climb to the Kastel fortress to witness the golden light over the Adriatic Sea."
-          },
-          "stops": [
-            {
-              "name": "Pula Arena",
-              "tip_5lang": {
-                "de": "Warme Kleidung ist wichtig, da der Wind durch die offenen Bögen weht.",
-                "hu": "Öltözz rétegesen, mert a szél átfúj a nyitott boltívek között.",
-                "ro": "Îmbracă-te gros, deoarece vântul suflă prin arcadele deschise.",
-                "en": "Dress warmly as the wind blows through the open arches of the structure."
-              }
-            },
-            {
-              "name": "Twin Gates",
-              "tip_5lang": {
-                "de": "Das Licht am Vormittag ist ideal für Fotos ohne harte Schatten.",
-                "hu": "A délelőtti fények tökéletesek a fotózáshoz, nincsenek erős árnyékok.",
-                "ro": "Lumina dimineții este ideală pentru fotografii fără umbre dure.",
-                "en": "The morning light is ideal for photos without harsh winter shadows."
-              }
-            },
-            {
-              "name": "Archaeological Museum of Istria",
-              "tip_5lang": {
-                "de": "Ein gut beheizter Ort, um die Kälte für eine Weile zu vergessen.",
-                "hu": "Jól fűtött helyszín, ahol egy időre elfelejtheted a kinti hideget.",
-                "ro": "Un loc bine încălzit unde poți uita de frig pentru o perioadă.",
-                "en": "A well-heated indoor space to escape the cold for a while."
-              }
-            },
-            {
-              "name": "Hercules Gate",
-              "tip_5lang": {
-                "de": "Kurzer Halt; die Steine können im Schatten sehr kalt und frostig sein.",
-                "hu": "Rövid megálló; az árnyékos részeken a kövek jegesek lehetnek.",
-                "ro": "Oprire scurtă; pietrele pot fi reci sau înghețate în zonele cu umbră.",
-                "en": "Short stop; stones can be very cold or frosty in shaded areas."
-              }
-            },
-            {
-              "name": "Arch of the Sergii",
-              "tip_5lang": {
-                "de": "Besuchen Sie die nahegelegenen Cafés für eine heiße Schokolade.",
-                "hu": "Látogass el a közeli kávézókba egy forró csokoládéra.",
-                "ro": "Vizitează cafenelele din apropiere pentru o ciocolată caldă.",
-                "en": "Visit the nearby cafes for a hot chocolate to keep your energy up."
-              }
-            },
-            {
-              "name": "Forum & Temple of Augustus",
-              "tip_5lang": {
-                "de": "Suchen Sie sich einen Platz in der Sonne, um die Wärme zu maximieren.",
-                "hu": "Keress egy napos helyet a téren, hogy kiélvezd a gyenge meleget.",
-                "ro": "Caută un loc însorit în piață pentru a maximiza căldura.",
-                "en": "Find a sunny spot in the square to maximize the winter warmth."
-              }
-            },
-            {
-              "name": "Kastel Fortress",
-              "tip_5lang": {
-                "de": "Kommen Sie vor 16:30 Uhr an, um den Sonnenuntergang nicht zu verpassen.",
-                "hu": "Érkezz meg 16:30 előtt, hogy ne maradj le a naplementéről.",
-                "ro": "Ajungi înainte de ora 16:30 pentru a nu rata apusul de soare.",
-                "en": "Arrive before 4:30 PM so you don't miss the early winter sunset."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
-              "Die Bora (kalter Fallwind) kann die gefühlte Temperatur stark senken.",
-              "Viele kleine Souvenirläden haben im Winter eingeschränkte Öffnungszeiten.",
-              "Nutzen Sie die Mittagsstunden für Außenbesichtigungen, wenn es am wärmsten ist."
-            ],
-            "hu": [
-              "A naplemente télen már 16:30 körül bekövetkezik, tervezz előre.",
-              "A bóra szél jelentősen csökkentheti a hőérzetet, legyen nálad sál.",
-              "Sok kisebb ajándékbolt zárva tarthat vagy hamarabb bezár télen.",
-              "A déli órákat használd a kültéri látnivalókra, ekkor a legmelegebb."
-            ],
-            "ro": [
-              "Apusul de soare în timpul iernii este în jurul orei 16:30.",
-              "Vântul Bora poate scădea semnificativ temperatura resimțită.",
-              "Multe magazine de suveniruri au program redus în extrasezon.",
-              "Folosește orele amiezii pentru vizite exterioare, când este mai cald."
-            ],
-            "en": [
-              "Sunset in winter is around 4:30 PM, so plan your daylight activities.",
-              "The Bora wind can significantly lower the perceived temperature.",
-              "Many small souvenir shops have restricted opening hours in winter.",
-              "Use the midday hours for outdoor sightseeing when it's warmest."
-            ]
-          }
-        }
-      }
-    },
-    "bike": {
-      "mode": "bike",
-      "speed_kmh": 12,
-      "start": "09:00",
-      "end_estimate": "14:30",
-      "total_km": 12.5,
-      "stop_count": 6,
-      "stops": [
-        {
-          "name": {
-            "de": "Arena von Pula",
-            "hu": "Pulai amfiteátrum",
-            "ro": "Arena din Pula",
-            "en": "Pula Arena"
-          },
-          "coords": [
-            13.8502,
-            44.8732
-          ],
-          "category": "historical",
-          "arrive_at": "09:00",
-          "stay_min": 45,
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Startpunkt mit ausreichend Fahrradständern.",
-            "hu": "Kiindulópont elegendő kerékpártárolóval.",
-            "ro": "Punct de plecare cu suficiente rastele pentru biciclete.",
-            "en": "Starting point with plenty of bike racks."
-          }
-        },
-        {
-          "name": {
-            "de": "Lungomare Promenade",
-            "hu": "Lungomare sétány",
-            "ro": "Promenada Lungomare",
-            "en": "Lungomare Promenade"
-          },
-          "coords": [
-            13.832,
-            44.851
-          ],
-          "category": "park/beach",
-          "arrive_at": "10:05",
-          "stay_min": 30,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 4.0,
-          "tip_5lang": {
-            "de": "Wunderschöner Radweg direkt am Meer unter Pinien.",
-            "hu": "Gyönyörű kerékpárút a tenger mentén, fenyőfák alatt.",
-            "ro": "Pistă de biciclete superbă la malul mării, sub pini.",
-            "en": "Beautiful bike path along the sea under pine trees."
-          }
-        },
-        {
-          "name": {
-            "de": "Verudela Strand",
-            "hu": "Verudela strand",
-            "ro": "Plaja Verudela",
-            "en": "Verudela Beach"
-          },
-          "coords": [
-            13.834,
-            44.838
-          ],
-          "category": "park/beach",
-          "arrive_at": "10:50",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Perfekt für eine Erfrischung im kristallklaren Wasser.",
-            "hu": "Tökéletes egy frissítő csobbanáshoz a kristálytiszta vízben.",
-            "ro": "Perfect pentru o bălăceală răcoritoare în apa cristalină.",
-            "en": "Perfect for a refreshing dip in the crystal-clear water."
-          }
-        },
-        {
-          "name": {
-            "de": "Sergierbogen",
-            "hu": "Sergius-diadalív",
-            "ro": "Arcul lui Sergius",
-            "en": "Arch of the Sergii"
-          },
-          "coords": [
-            13.8475,
-            44.8682
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "12:45",
-          "stay_min": 15,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Stellen Sie das Rad kurz ab für ein Foto.",
-            "hu": "Tegye le a biciklit egy rövid fotóra.",
-            "ro": "Lăsați bicicleta pentru o scurtă fotografie.",
-            "en": "Park your bike briefly for a quick photo."
-          }
-        },
-        {
-          "name": {
-            "de": "Forum",
-            "hu": "Fórum",
-            "ro": "Forum",
-            "en": "Forum"
-          },
-          "coords": [
-            13.8428,
-            44.8702
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "13:10",
-          "stay_min": 45,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.8,
-          "tip_5lang": {
-            "de": "Fahrradfreundliche Cafés direkt am Platz.",
-            "hu": "Kerékpárosbarát kávézók közvetlenül a téren.",
-            "ro": "Cafenele bike-friendly direct în piață.",
-            "en": "Bike-friendly cafes right on the square."
-          }
-        },
-        {
-          "name": {
-            "de": "Kastel",
-            "hu": "Kastel erőd",
-            "ro": "Kastel",
-            "en": "Kastel Fortress"
-          },
-          "coords": [
-            13.8465,
-            44.8705
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "14:05",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.7,
-          "tip_5lang": {
-            "de": "Kurzer, steiler Anstieg, aber die Aussicht lohnt sich.",
-            "hu": "Rövid, meredek emelkedő, de a kilátás megéri.",
-            "ro": "Urcare scurtă și abruptă, dar priveliștea merită.",
-            "en": "Short, steep climb, but the view is worth it."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Erkunden Sie Pula auf zwei Rädern! Nach dem Start an der Arena führt Sie die Route entlang der malerischen Lungomare-Promenade bis zur Halbinsel Verudela, wo Sie eine Badepause einlegen können. Auf dem Rückweg durchqueren Sie das Stadtzentrum, passieren den Sergierbogen und das Forum, bevor Sie den Tag mit einem kurzen Anstieg zum Kastel und einem weiten Blick über die Adria abschließen.",
-        "hu": "Fedezze fel Pulát két keréken! Az Arénától indulva az út a festői Lungomare sétányon vezet a Verudela-félszigetig, ahol megmártózhat a tengerben. Visszafelé a városközponton keresztül kerekezhet, érintve a Sergius-diadalívet és a Fórumot, majd a napot egy rövid emelkedővel zárja a Kastel erődöz, ahonnan pazar kilátás nyílik az Adriára.",
-        "ro": "Explorați Pula pe două roți! După pornirea de la Arenă, traseul vă poartă pe faleza pitorească Lungomare până în peninsula Verudela, unde puteți face o pauză de înot. La întoarcere, traversați centrul orașului, trecând pe lângă Arcul lui Sergius și Forum, înainte de a încheia ziua cu o scurtă urcare la Kastel pentru o vedere panoramică asupra Adriaticii.",
-        "en": "Explore Pula on two wheels! After starting at the Arena, the route takes you along the scenic Lungomare promenade to the Verudela peninsula, where you can take a swim break. On the way back, cycle through the city center past the Arch of the Sergii and the Forum, before ending the day with a short climb to the Kastel for a grand view over the Adriatic."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Bistro Alighieri",
-            "tip": "Leichte Pasta-Gerichte, ideal für Radfahrer."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Bistro Alighieri",
-            "tip": "Könnyű tésztaételek, ideális kerékpárosoknak."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Bistro Alighieri",
-            "tip": "Paste ușoare, ideale pentru bicicliști."
-          }
-        ],
-        "en": [
-          {
-            "name": "Bistro Alighieri",
-            "tip": "Light pasta dishes, ideal for cyclists."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Gortans Bucht",
-            "tip": "Ruhiger Kieselstrand an der Lungomare.",
-            "emoji": "🧘"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Gortan-öböl",
-            "tip": "Csendes kavicsos strand a Lungomare mentén.",
-            "emoji": "🧘"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Golful Gortan",
-            "tip": "Plajă liniștită cu pietriș pe Lungomare.",
-            "emoji": "🧘"
-          }
-        ],
-        "en": [
-          {
-            "name": "Gortan's Bay",
-            "tip": "Quiet pebble beach along the Lungomare.",
-            "emoji": "🧘"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Fahrradverleih Pula",
-            "tip": "Mieten Sie E-Bikes für die Hügel der Stadt."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Kerékpárkölcsönző Pula",
-            "tip": "Béreljen e-bike-ot a városi dombokhoz."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Închirieri biciclete Pula",
-            "tip": "Închiriați e-bike pentru dealurile orașului."
-          }
-        ],
-        "en": [
-          {
-            "name": "Pula Bike Rental",
-            "tip": "Rent e-bikes for the city's hills."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Nutzen Sie die markierten Radwege an der Küste.",
-          "In der Fußgängerzone müssen Sie das Rad schieben.",
-          "Ein Schloss ist bei Besichtigungen unerlässlich."
-        ],
-        "hu": [
-          "Használja a kijelölt kerékpárutakat a parton.",
-          "A sétálóutcákban tolni kell a biciklit.",
-          "A lakat elengedhetetlen a városnézés során."
-        ],
-        "ro": [
-          "Folosiți pistele de biciclete marcate de pe coastă.",
-          "În zona pietonală trebuie să mergeți pe lângă bicicletă.",
-          "Un lacăt este esențial în timpul vizitelor."
-        ],
-        "en": [
-          "Use the marked bike paths along the coast.",
-          "In the pedestrian zone, you must walk your bike.",
-          "A lock is essential during sightseeing."
-        ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Erkunden Sie Pula auf zwei Rädern! Nach dem Start an der Arena führt Sie die Route entlang der malerischen Lungomare-Promenade bis zur Halbinsel Verudela, wo Sie eine Badepause einlegen können. Auf dem Rückweg durchqueren Sie das Stadtzentrum, passieren den Sergierbogen und das Forum, bevor Sie den Tag mit einem kurzen Anstieg zum Kastel und einem weiten Blick über die Adria abschließen.",
-            "hu": "Fedezze fel Pulát két keréken! Az Arénától indulva az út a festői Lungomare sétányon vezet a Verudela-félszigetig, ahol megmártózhat a tengerben. Visszafelé a városközponton keresztül kerekezhet, érintve a Sergius-diadalívet és a Fórumot, majd a napot egy rövid emelkedővel zárja a Kastel erődöz, ahonnan pazar kilátás nyílik az Adriára.",
-            "ro": "Explorați Pula pe două roți! După pornirea de la Arenă, traseul vă poartă pe faleza pitorească Lungomare până în peninsula Verudela, unde puteți face o pauză de înot. La întoarcere, traversați centrul orașului, trecând pe lângă Arcul lui Sergius și Forum, înainte de a încheia ziua cu o scurtă urcare la Kastel pentru o vedere panoramică asupra Adriaticii.",
-            "en": "Explore Pula on two wheels! After starting at the Arena, the route takes you along the scenic Lungomare promenade to the Verudela peninsula, where you can take a swim break. On the way back, cycle through the city center past the Arch of the Sergii and the Forum, before ending the day with a short climb to the Kastel for a grand view over the Adriatic."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Arena von Pula",
-                "hu": "Pulai amfiteátrum",
-                "ro": "Arena din Pula",
-                "en": "Pula Arena"
-              },
-              "tip_5lang": {
-                "de": "Startpunkt mit ausreichend Fahrradständern.",
-                "hu": "Kiindulópont elegendő kerékpártárolóval.",
-                "ro": "Punct de plecare cu suficiente rastele pentru biciclete.",
-                "en": "Starting point with plenty of bike racks."
-              }
-            },
-            {
-              "name": {
-                "de": "Lungomare Promenade",
-                "hu": "Lungomare sétány",
-                "ro": "Promenada Lungomare",
-                "en": "Lungomare Promenade"
-              },
-              "tip_5lang": {
-                "de": "Wunderschöner Radweg direkt am Meer unter Pinien.",
-                "hu": "Gyönyörű kerékpárút a tenger mentén, fenyőfák alatt.",
-                "ro": "Pistă de biciclete superbă la malul mării, sub pini.",
-                "en": "Beautiful bike path along the sea under pine trees."
-              }
-            },
-            {
-              "name": {
-                "de": "Verudela Strand",
-                "hu": "Verudela strand",
-                "ro": "Plaja Verudela",
-                "en": "Verudela Beach"
-              },
-              "tip_5lang": {
-                "de": "Perfekt für eine Erfrischung im kristallklaren Wasser.",
-                "hu": "Tökéletes egy frissítő csobbanáshoz a kristálytiszta vízben.",
-                "ro": "Perfect pentru o bălăceală răcoritoare în apa cristalină.",
-                "en": "Perfect for a refreshing dip in the crystal-clear water."
-              }
-            },
-            {
-              "name": {
-                "de": "Sergierbogen",
-                "hu": "Sergius-diadalív",
-                "ro": "Arcul lui Sergius",
-                "en": "Arch of the Sergii"
-              },
-              "tip_5lang": {
-                "de": "Stellen Sie das Rad kurz ab für ein Foto.",
-                "hu": "Tegye le a biciklit egy rövid fotóra.",
-                "ro": "Lăsați bicicleta pentru o scurtă fotografie.",
-                "en": "Park your bike briefly for a quick photo."
-              }
-            },
-            {
-              "name": {
-                "de": "Forum",
-                "hu": "Fórum",
-                "ro": "Forum",
-                "en": "Forum"
-              },
-              "tip_5lang": {
-                "de": "Fahrradfreundliche Cafés direkt am Platz.",
-                "hu": "Kerékpárosbarát kávézók közvetlenül a téren.",
-                "ro": "Cafenele bike-friendly direct în piață.",
-                "en": "Bike-friendly cafes right on the square."
-              }
-            },
-            {
-              "name": {
-                "de": "Kastel",
-                "hu": "Kastel erőd",
-                "ro": "Kastel",
-                "en": "Kastel Fortress"
-              },
-              "tip_5lang": {
-                "de": "Kurzer, steiler Anstieg, aber die Aussicht lohnt sich.",
-                "hu": "Rövid, meredek emelkedő, de a kilátás megéri.",
-                "ro": "Urcare scurtă și abruptă, dar priveliștea merită.",
-                "en": "Short, steep climb, but the view is worth it."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Bistro Alighieri",
-                "tip": "Leichte Pasta-Gerichte, ideal für Radfahrer."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Bistro Alighieri",
-                "tip": "Könnyű tésztaételek, ideális kerékpárosoknak."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Bistro Alighieri",
-                "tip": "Paste ușoare, ideale pentru bicicliști."
-              }
-            ],
-            "en": [
-              {
-                "name": "Bistro Alighieri",
-                "tip": "Light pasta dishes, ideal for cyclists."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Gortans Bucht",
-                "tip": "Ruhiger Kieselstrand an der Lungomare.",
-                "emoji": "🧘"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Gortan-öböl",
-                "tip": "Csendes kavicsos strand a Lungomare mentén.",
-                "emoji": "🧘"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Golful Gortan",
-                "tip": "Plajă liniștită cu pietriș pe Lungomare.",
-                "emoji": "🧘"
-              }
-            ],
-            "en": [
-              {
-                "name": "Gortan's Bay",
-                "tip": "Quiet pebble beach along the Lungomare.",
-                "emoji": "🧘"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Fahrradverleih Pula",
-                "tip": "Mieten Sie E-Bikes für die Hügel der Stadt."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Kerékpárkölcsönző Pula",
-                "tip": "Béreljen e-bike-ot a városi dombokhoz."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Închirieri biciclete Pula",
-                "tip": "Închiriați e-bike pentru dealurile orașului."
-              }
-            ],
-            "en": [
-              {
-                "name": "Pula Bike Rental",
-                "tip": "Rent e-bikes for the city's hills."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Nutzen Sie die markierten Radwege an der Küste.",
-              "In der Fußgängerzone müssen Sie das Rad schieben.",
-              "Ein Schloss ist bei Besichtigungen unerlässlich."
-            ],
-            "hu": [
-              "Használja a kijelölt kerékpárutakat a parton.",
-              "A sétálóutcákban tolni kell a biciklit.",
-              "A lakat elengedhetetlen a városnézés során."
-            ],
-            "ro": [
-              "Folosiți pistele de biciclete marcate de pe coastă.",
-              "În zona pietonală trebuie să mergeți pe lângă bicicletă.",
-              "Un lacăt este esențial în timpul vizitelor."
-            ],
-            "en": [
-              "Use the marked bike paths along the coast.",
-              "In the pedestrian zone, you must walk your bike.",
-              "A lock is essential during sightseeing."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Trotz Regen starten wir an der Arena mit wasserfester Ausrüstung. Die Fahrt entlang der Lungomare bietet dramatische Ausblicke auf die aufgewühlte Adria. Mittags suchen wir Schutz in Verudela, wo das Aquarium eine perfekte Indoor-Alternative bietet. Zurück in der Stadt nutzen wir die befestigten Wege zum Forum und beenden die Tour sicher am Kastel.",
-            "hu": "Az eső ellenére vízálló felszerelésben indulunk az Arénától. A Lungomare menti tekerés drámai kilátást nyújt a felkavart Adriára. Délben Verudelán keresünk menedéket, ahol az Akvárium tökéletes beltéri program. Visszatérve a városba, a kiépített utakon tekerünk a Fórumig, majd a Kastelnél fejezzük be a túrát.",
-            "ro": "În ciuda ploii, pornim de la Arenă cu echipament impermeabil. Drumul de-a lungul Lungomare oferă vederi dramatice ale Adriaticii agitate. La prânz căutăm adăpost în Verudela, unde Acvariul este alternativa perfectă de interior. Revenind în oraș, folosim drumurile pavate spre Forum și încheiem turul la Kastel.",
-            "en": "Despite the rain, we start at the Arena with waterproof gear. The ride along Lungomare offers dramatic views of the choppy Adriatic. At noon, we seek shelter in Verudela, where the Aquarium is a perfect indoor alternative. Back in town, we use paved paths to the Forum and end the tour safely at Kastel."
-          },
-          "stops": [
-            {
-              "name": "Pula Arena",
-              "tip_5lang": {
-                "de": "Vorsicht beim Losfahren; die weißen Steine sind extrem rutschig.",
-                "hu": "Vigyázz az indulásnál; a fehér kövek extrém módon csúsznak.",
-                "ro": "Atenție la pornire; pietrele albe sunt extrem de alunecoase.",
-                "en": "Be careful when starting; the white stones are extremely slippery."
-              }
-            },
-            {
-              "name": "Lungomare Promenade",
-              "tip_5lang": {
-                "de": "Halten Sie Abstand zur Uferkante, falls hohe Wellen überschwappen.",
-                "hu": "Tarts távolságot a part szélétől, ha nagy hullámok csapnak ki.",
-                "ro": "Păstrează distanța de marginea țărmului dacă valurile sunt mari.",
-                "en": "Keep a safe distance from the shore edge if high waves are crashing."
-              }
-            },
-            {
-              "name": "Verudela Beach",
-              "tip_5lang": {
-                "de": "Parken Sie das Rad und besuchen Sie das nahegelegene Aquarium.",
-                "hu": "Parkold le a bringát és látogasd meg a közeli Akváriumot.",
-                "ro": "Parchează bicicleta și vizitează Acvariul din apropiere.",
-                "en": "Park your bike and visit the nearby Aquarium to stay dry."
-              }
-            },
-            {
-              "name": "Arch of the Sergii",
-              "tip_5lang": {
-                "de": "Vermeiden Sie scharfes Bremsen auf dem nassen Steinpflaster.",
-                "hu": "Kerüld az erős fékezést a nedves kőburkolaton.",
-                "ro": "Evită frânările bruște pe pavajul umed din piatră.",
-                "en": "Avoid sharp braking on the wet stone pavement to prevent sliding."
-              }
-            },
-            {
-              "name": "Forum",
-              "tip_5lang": {
-                "de": "Stellen Sie die Räder unter und wärmen Sie sich in einem Café auf.",
-                "hu": "Támaszd le a bringát fedett helyre és melegedj fel egy kávézóban.",
-                "ro": "Lasă bicicleta la adăpost și încălzește-te într-o cafenea.",
-                "en": "Park the bikes under cover and warm up in a nearby cafe."
-              }
-            },
-            {
-              "name": "Kastel Fortress",
-              "tip_5lang": {
-                "de": "Der Anstieg ist steil; bei Nässe lieber schieben, falls nötig.",
-                "hu": "A meredek emelkedőn nedves időben érdemes tolni a biciklit.",
-                "ro": "Urcarea este abruptă; pe ploaie e mai bine să împingi bicicleta.",
-                "en": "The climb is steep; it's better to push the bike if it's too slippery."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
-              "Tragen Sie eine Warnweste, da die Sicht bei Regen deutlich schlechter ist.",
-              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg.",
-              "Schutzbleche am Rad sind bei diesem Wetter absolut notwendig."
-            ],
-            "hu": [
-              "Kerüld a tócsákat, mert mély kátyúkat rejthetnek az út mentén.",
-              "Viselj láthatósági mellényt, mert esőben sokat romlik a láthatóság.",
-              "Ellenőrizd a fékeket; a nedves felületen nő a fékút.",
-              "A sárvédő használata elengedhetetlen, ha nem akarsz teljesen elázni."
-            ],
-            "ro": [
-              "Evită bălțile, deoarece pot ascunde gropi adânci.",
-              "Poartă o vestă reflectorizantă, vizibilitatea scade mult pe ploaie.",
-              "Verifică frânele; umiditatea prelungește distanța de frânare.",
-              "Aripile la bicicletă sunt absolut necesare pe acest tip de vreme."
-            ],
-            "en": [
-              "Avoid puddles as they can hide deep potholes along the road.",
-              "Wear a high-visibility vest; visibility is much lower in the rain.",
-              "Check your brakes before starting; wetness extends braking distance.",
-              "Mudguards are absolutely necessary in this weather to stay clean."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Frische Meeresluft erwartet uns am Morgen an der Arena. Die Fahrt entlang der Küste bei Lungomare ist im Winter besonders belebend, wenn auch windig. Mittags erreichen wir Verudela, wo wir die Sonne ohne Hitze genießen können. Nachmittags radeln wir zurück durch die ruhigen Gassen der Stadt und beenden die Tour bei der Festung zum Sonnenuntergang.",
-            "hu": "Friss tengeri levegő fogad minket reggel az Arénánál. A parti tekerés a Lungomare mentén télen különösen üdítő, bár szeles. Délben Verudelára érünk, ahol hőség nélkül élvezhetjük a napsütést. Délután a város nyugodt utcáin tekerünk vissza, majd a várnál zárjuk a túrát a naplementében.",
-            "ro": "Aerul proaspăt marin ne așteaptă dimineața la Arenă. Drumul pe coastă la Lungomare este revigorant iarna, deși vântos. La prânz ajungem în Verudela, unde ne bucurăm de soare fără arșiță. După-amiaza pedalăm înapoi prin străzile liniștite și încheiem turul la cetate la apus.",
-            "en": "Fresh sea air awaits us in the morning at the Arena. The coastal ride along Lungomare is especially invigorating in winter, albeit windy. At noon, we reach Verudela, enjoying the sun without the summer heat. In the afternoon, we cycle back through the quiet streets and end the tour at the fortress for sunset."
-          },
-          "stops": [
-            {
-              "name": "Pula Arena",
-              "tip_5lang": {
-                "de": "Handschuhe sind bei der morgendlichen Kälte sehr empfehlenswert.",
-                "hu": "A reggeli hidegben a kesztyű használata erősen ajánlott.",
-                "ro": "Mănușile sunt foarte recomandate din cauza frigului de dimineață.",
-                "en": "Gloves are highly recommended for the chilly morning start."
-              }
-            },
-            {
-              "name": "Lungomare Promenade",
-              "tip_5lang": {
-                "de": "Achten Sie auf starken Seitenwind, der vom Meer her wehen kann.",
-                "hu": "Ügyelj az erős oldalszélre, ami a tenger felől fújhat.",
-                "ro": "Atenție la vântul lateral puternic care poate sufla dinspre mare.",
-                "en": "Watch out for strong side-winds that can blow from the sea."
-              }
-            },
-            {
-              "name": "Verudela Beach",
-              "tip_5lang": {
-                "de": "Perfekt für eine Pause in der Mittagssonne, um Vitamin D zu tanken.",
-                "hu": "Tökéletes hely egy pihenőre a déli napon, hogy feltöltődj D-vitaminnal.",
-                "ro": "Perfect pentru o pauză la soarele amiezii pentru vitamina D.",
-                "en": "Perfect for a break in the midday sun to soak up some Vitamin D."
-              }
-            },
-            {
-              "name": "Arch of the Sergii",
-              "tip_5lang": {
-                "de": "Die Altstadt ist leerer, was das Radfahren deutlich entspannter macht.",
-                "hu": "Az óváros üresebb, így a bringázás sokkal nyugodtabb élmény.",
-                "ro": "Orașul vechi este mai gol, ceea ce face pedalatul mult mai relaxant.",
-                "en": "The old town is emptier, making cycling much more relaxed."
-              }
-            },
-            {
-              "name": "Forum",
-              "tip_5lang": {
-                "de": "Halten Sie für einen warmen Tee an, bevor es schattig und kühler wird.",
-                "hu": "Állj meg egy meleg teára, mielőtt árnyékosabb és hűvösebb lesz.",
-                "ro": "Oprește-te pentru un ceai cald înainte să devină umbrit și răcoare.",
-                "en": "Stop for a hot tea before the area gets shady and cooler."
-              }
-            },
-            {
-              "name": "Kastel Fortress",
-              "tip_5lang": {
-                "de": "Genießen Sie den Panoramablick; die Luft ist im Winter oft klarer.",
-                "hu": "Élvezd a panorámát; télen a levegő gyakran sokkal tisztább.",
-                "ro": "Bucură-te de panorama orașului; aerul este adesea mai clar iarna.",
-                "en": "Enjoy the panoramic view; the air is often much clearer in winter."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Kleiden Sie sich nach dem Zwiebelprinzip, um auf Temperaturwechsel zu reagieren.",
-              "Die Sonne geht früh unter; stellen Sie sicher, dass Ihr Licht funktioniert.",
-              "Vermeiden Sie schattige Waldwege, die länger feucht und rutschig bleiben können.",
-              "Trinken Sie trotz Kälte genug Wasser während der Fahrt."
-            ],
-            "hu": [
-              "Öltözz rétegesen, hogy tudd követni a hőmérséklet változását.",
-              "A nap korán nyugszik; győződj meg róla, hogy működik a világításod.",
-              "Kerüld az árnyékos erdei utakat, mert azok sokáig nedvesek maradhatnak.",
-              "A hideg ellenére is igyál elég vizet a tekerés közben."
-            ],
-            "ro": [
-              "Îmbracă-te în straturi pentru a reacționa la schimbările de temperatură.",
-              "Soarele apune devreme; asigură-te că luminile bicicletei funcționează.",
-              "Evită potecile umbrite din pădure, pot rămâne umede și alunecoase.",
-              "Bea suficientă apă în timpul plimbării, în ciuda frigului."
-            ],
-            "en": [
-              "Dress in layers to adjust to temperature changes during the ride.",
-              "The sun sets early; make sure your bike lights are working properly.",
-              "Avoid shaded forest paths as they stay damp and slippery longer.",
-              "Stay hydrated during the ride, even if you don't feel thirsty in the cold."
-            ]
-          }
-        }
-      }
-    },
-    "car": {
-      "mode": "car",
-      "speed_kmh": 22,
-      "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 29.5,
-      "stop_count": 5,
-      "stops": [
-        {
-          "name": {
-            "de": "Arena von Pula",
-            "hu": "Pulai amfiteátrum",
-            "ro": "Arena din Pula",
-            "en": "Pula Arena"
-          },
-          "coords": [
-            13.8502,
-            44.8732
-          ],
-          "category": "historical",
-          "arrive_at": "09:00",
-          "stay_min": 45,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Parkhaus 'Karolina' liegt direkt gegenüber.",
-            "hu": "A 'Karolina' parkolóház közvetlenül szemben található.",
-            "ro": "Parcarea 'Karolina' este chiar vizavi.",
-            "en": "The 'Karolina' parking lot is right across the street."
+            "de": "Eines der besterhaltenen der Welt.",
+            "hu": "A világ egyik legjobb állapotú arénája.",
+            "ro": "Unul dintre cele mai bine conservate din lume.",
+            "en": "One of the best-preserved in the world."
           }
         },
         {
           "name": {
             "de": "Augustustempel & Forum",
-            "hu": "Augustus temploma és Fórum",
+            "hu": "Augustus-templom és Fórum",
             "ro": "Templul lui Augustus și Forumul",
             "en": "Temple of Augustus & Forum"
           },
           "coords": [
-            13.8428,
-            44.8702
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "10:00",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Parken Sie am Hafen und gehen Sie 5 Min. zu Fuß.",
-            "hu": "Parkoljon a kikötőnél, onnan 5 perc séta.",
-            "ro": "Parcați în port și mergeți 5 minute pe jos.",
-            "en": "Park at the harbor and walk 5 minutes."
-          }
-        },
-        {
-          "name": {
-            "de": "Kap Kamenjak (Naturschutzgebiet)",
-            "hu": "Kamenjak-fok (Természetvédelmi terület)",
-            "ro": "Capul Kamenjak (Rezervație)",
-            "en": "Cape Kamenjak (Nature Reserve)"
-          },
-          "coords": [
-            13.911,
-            44.762
-          ],
-          "category": "park/beach",
-          "arrive_at": "11:15",
-          "stay_min": 180,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 12.0,
-          "tip_5lang": {
-            "de": "Eintritt für Autos ist kostenpflichtig, aber es lohnt sich.",
-            "hu": "Autóval fizetős a belépés, de megéri.",
-            "ro": "Intrarea cu mașina este contra cost, dar merită.",
-            "en": "Car entry is paid, but it's worth it."
-          }
-        },
-        {
-          "name": {
-            "de": "Safari Bar",
-            "hu": "Safari Bar",
-            "ro": "Safari Bar",
-            "en": "Safari Bar"
-          },
-          "coords": [
-            13.91,
-            44.758
-          ],
-          "category": "gastro",
-          "arrive_at": "14:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 1.0,
-          "tip_5lang": {
-            "de": "Kult-Bar inmitten von Schilf und Natur.",
-            "hu": "Kultikus bár a nádas és a természet lágy ölén.",
-            "ro": "Un bar cult în mijlocul stufului și al naturii.",
-            "en": "A cult bar in the middle of reeds and nature."
-          }
-        },
-        {
-          "name": {
-            "de": "Kastel",
-            "hu": "Kastel erőd",
-            "ro": "Kastel",
-            "en": "Kastel Fortress"
-          },
-          "coords": [
-            13.8465,
-            44.8705
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "16:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 45,
-          "hop_from_prev_km": 15.0,
-          "tip_5lang": {
-            "de": "Letzter Stopp für den Sonnenuntergang über der Stadt.",
-            "hu": "Utolsó megálló a város feletti naplementéhez.",
-            "ro": "Ultima oprire pentru apusul peste oraș.",
-            "en": "Last stop for sunset over the city."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Mit dem Auto verbinden Sie die antiken Schätze Pulas mit der wilden Natur Südistriens. Nach der Besichtigung der Arena und des Forums fahren Sie zum Kap Kamenjak, einem unberührten Naturschutzgebiet mit spektakulären Klippen und versteckten Buchten. Genießen Sie ein Mittagessen in der legendären Safari Bar, bevor Sie am späten Nachmittag nach Pula zurückkehren, um den Tag auf der Festung Kastel ausklingen zu lassen.",
-        "hu": "Autóval összekötheti Pula ókori kincseit Dél-Isztria vad természetével. Az Aréna és a Fórum megtekintése után irány a Kamenjak-fok, egy érintetlen természetvédelmi terület látványos sziklákkal és rejtett öblökkel. Ebédeljen a legendás Safari Barban, majd késő délután térjen vissza Pulába, hogy a napot a Kastel erődben zárja.",
-        "ro": "Cu mașina, îmbinați comorile antice ale Pulei cu natura sălbatică a Istriei de Sud. După Arena și Forum, conduceți spre Capul Kamenjak, o rezervație naturală virgină cu stânci spectaculoase și golfuri ascunse. Savurați prânzul la legendarul Safari Bar, apoi reveniți în Pula spre seară pentru a încheia ziua la fortăreața Kastel.",
-        "en": "By car, you can combine Pula's ancient treasures with the wild nature of southern Istria. After visiting the Arena and the Forum, drive to Cape Kamenjak, a pristine nature reserve with spectacular cliffs and hidden bays. Enjoy lunch at the legendary Safari Bar before returning to Pula in the late afternoon to end the day at the Kastel fortress."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Safari Bar",
-            "tip": "Probieren Sie die Sangria und den Gyros in besonderer Atmosphäre."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Safari Bar",
-            "tip": "Kóstolja meg a sangriát és a gyrost ebben a különleges környezetben."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Safari Bar",
-            "tip": "Încercați sangria și gyrosul într-o atmosferă deosebită."
-          }
-        ],
-        "en": [
-          {
-            "name": "Safari Bar",
-            "tip": "Try the sangria and gyros in a very unique atmosphere."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Klippen von Kamenjak",
-            "tip": "Beobachten Sie mutige Klippenspringer.",
-            "emoji": "🌊"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Kamenjak sziklái",
-            "tip": "Figyelje meg a bátor sziklaugrókat.",
-            "emoji": "🌊"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Stâncile din Kamenjak",
-            "tip": "Urmăriți săritorii curajoși de pe stânci.",
-            "emoji": "🌊"
-          }
-        ],
-        "en": [
-          {
-            "name": "Kamenjak Cliffs",
-            "tip": "Watch the brave cliff divers.",
-            "emoji": "🌊"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Max City Mall",
-            "tip": "Modernes Einkaufszentrum am Stadtrand mit Parkplätzen."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Max City Pláza",
-            "tip": "Modern bevásárlóközpont a város szélén, jó parkolással."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Max City Mall",
-            "tip": "Centru comercial modern la marginea orașului, cu parcare."
-          }
-        ],
-        "en": [
-          {
-            "name": "Max City Mall",
-            "tip": "Modern shopping mall on the outskirts with easy parking."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Parken in Pula kann im Sommer schwierig sein, nutzen Sie große Parkplätze.",
-          "Kamenjak verlangt Eintritt pro Fahrzeug.",
-          "Die Straßen auf Kamenjak sind staubige Schotterpisten."
-        ],
-        "hu": [
-          "A parkolás Pulában nyáron nehéz lehet, használja a nagy parkolókat.",
-          "Kamenjakra járművenként kell belépőt fizetni.",
-          "Kamenjak útjai poros murvás utak."
-        ],
-        "ro": [
-          "Parcarea în Pula poate fi dificilă vara, folosiți parcările mari.",
-          "Kamenjak percepe taxă de intrare pe vehicul.",
-          "Drumurile din Kamenjak sunt de pământ și praf."
-        ],
-        "en": [
-          "Parking in Pula can be tough in summer, use the large lots.",
-          "Kamenjak charges an entry fee per vehicle.",
-          "The roads in Kamenjak are dusty gravel tracks."
-        ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Mit dem Auto verbinden Sie die antiken Schätze Pulas mit der wilden Natur Südistriens. Nach der Besichtigung der Arena und des Forums fahren Sie zum Kap Kamenjak, einem unberührten Naturschutzgebiet mit spektakulären Klippen und versteckten Buchten. Genießen Sie ein Mittagessen in der legendären Safari Bar, bevor Sie am späten Nachmittag nach Pula zurückkehren, um den Tag auf der Festung Kastel ausklingen zu lassen.",
-            "hu": "Autóval összekötheti Pula ókori kincseit Dél-Isztria vad természetével. Az Aréna és a Fórum megtekintése után irány a Kamenjak-fok, egy érintetlen természetvédelmi terület látványos sziklákkal és rejtett öblökkel. Ebédeljen a legendás Safari Barban, majd késő délután térjen vissza Pulába, hogy a napot a Kastel erődben zárja.",
-            "ro": "Cu mașina, îmbinați comorile antice ale Pulei cu natura sălbatică a Istriei de Sud. După Arena și Forum, conduceți spre Capul Kamenjak, o rezervație naturală virgină cu stânci spectaculoase și golfuri ascunse. Savurați prânzul la legendarul Safari Bar, apoi reveniți în Pula spre seară pentru a încheia ziua la fortăreața Kastel.",
-            "en": "By car, you can combine Pula's ancient treasures with the wild nature of southern Istria. After visiting the Arena and the Forum, drive to Cape Kamenjak, a pristine nature reserve with spectacular cliffs and hidden bays. Enjoy lunch at the legendary Safari Bar before returning to Pula in the late afternoon to end the day at the Kastel fortress."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Arena von Pula",
-                "hu": "Pulai amfiteátrum",
-                "ro": "Arena din Pula",
-                "en": "Pula Arena"
-              },
-              "tip_5lang": {
-                "de": "Parkhaus 'Karolina' liegt direkt gegenüber.",
-                "hu": "A 'Karolina' parkolóház közvetlenül szemben található.",
-                "ro": "Parcarea 'Karolina' este chiar vizavi.",
-                "en": "The 'Karolina' parking lot is right across the street."
-              }
-            },
-            {
-              "name": {
-                "de": "Augustustempel & Forum",
-                "hu": "Augustus temploma és Fórum",
-                "ro": "Templul lui Augustus și Forumul",
-                "en": "Temple of Augustus & Forum"
-              },
-              "tip_5lang": {
-                "de": "Parken Sie am Hafen und gehen Sie 5 Min. zu Fuß.",
-                "hu": "Parkoljon a kikötőnél, onnan 5 perc séta.",
-                "ro": "Parcați în port și mergeți 5 minute pe jos.",
-                "en": "Park at the harbor and walk 5 minutes."
-              }
-            },
-            {
-              "name": {
-                "de": "Kap Kamenjak (Naturschutzgebiet)",
-                "hu": "Kamenjak-fok (Természetvédelmi terület)",
-                "ro": "Capul Kamenjak (Rezervație)",
-                "en": "Cape Kamenjak (Nature Reserve)"
-              },
-              "tip_5lang": {
-                "de": "Eintritt für Autos ist kostenpflichtig, aber es lohnt sich.",
-                "hu": "Autóval fizetős a belépés, de megéri.",
-                "ro": "Intrarea cu mașina este contra cost, dar merită.",
-                "en": "Car entry is paid, but it's worth it."
-              }
-            },
-            {
-              "name": {
-                "de": "Safari Bar",
-                "hu": "Safari Bar",
-                "ro": "Safari Bar",
-                "en": "Safari Bar"
-              },
-              "tip_5lang": {
-                "de": "Kult-Bar inmitten von Schilf und Natur.",
-                "hu": "Kultikus bár a nádas és a természet lágy ölén.",
-                "ro": "Un bar cult în mijlocul stufului și al naturii.",
-                "en": "A cult bar in the middle of reeds and nature."
-              }
-            },
-            {
-              "name": {
-                "de": "Kastel",
-                "hu": "Kastel erőd",
-                "ro": "Kastel",
-                "en": "Kastel Fortress"
-              },
-              "tip_5lang": {
-                "de": "Letzter Stopp für den Sonnenuntergang über der Stadt.",
-                "hu": "Utolsó megálló a város feletti naplementéhez.",
-                "ro": "Ultima oprire pentru apusul peste oraș.",
-                "en": "Last stop for sunset over the city."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Safari Bar",
-                "tip": "Probieren Sie die Sangria und den Gyros in besonderer Atmosphäre."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Safari Bar",
-                "tip": "Kóstolja meg a sangriát és a gyrost ebben a különleges környezetben."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Safari Bar",
-                "tip": "Încercați sangria și gyrosul într-o atmosferă deosebită."
-              }
-            ],
-            "en": [
-              {
-                "name": "Safari Bar",
-                "tip": "Try the sangria and gyros in a very unique atmosphere."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Klippen von Kamenjak",
-                "tip": "Beobachten Sie mutige Klippenspringer.",
-                "emoji": "🌊"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Kamenjak sziklái",
-                "tip": "Figyelje meg a bátor sziklaugrókat.",
-                "emoji": "🌊"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Stâncile din Kamenjak",
-                "tip": "Urmăriți săritorii curajoși de pe stânci.",
-                "emoji": "🌊"
-              }
-            ],
-            "en": [
-              {
-                "name": "Kamenjak Cliffs",
-                "tip": "Watch the brave cliff divers.",
-                "emoji": "🌊"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Max City Mall",
-                "tip": "Modernes Einkaufszentrum am Stadtrand mit Parkplätzen."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Max City Pláza",
-                "tip": "Modern bevásárlóközpont a város szélén, jó parkolással."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Max City Mall",
-                "tip": "Centru comercial modern la marginea orașului, cu parcare."
-              }
-            ],
-            "en": [
-              {
-                "name": "Max City Mall",
-                "tip": "Modern shopping mall on the outskirts with easy parking."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Parken in Pula kann im Sommer schwierig sein, nutzen Sie große Parkplätze.",
-              "Kamenjak verlangt Eintritt pro Fahrzeug.",
-              "Die Straßen auf Kamenjak sind staubige Schotterpisten."
-            ],
-            "hu": [
-              "A parkolás Pulában nyáron nehéz lehet, használja a nagy parkolókat.",
-              "Kamenjakra járművenként kell belépőt fizetni.",
-              "Kamenjak útjai poros murvás utak."
-            ],
-            "ro": [
-              "Parcarea în Pula poate fi dificilă vara, folosiți parcările mari.",
-              "Kamenjak percepe taxă de intrare pe vehicul.",
-              "Drumurile din Kamenjak sunt de pământ și praf."
-            ],
-            "en": [
-              "Parking in Pula can be tough in summer, use the large lots.",
-              "Kamenjak charges an entry fee per vehicle.",
-              "The roads in Kamenjak are dusty gravel tracks."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Wir starten komfortabel an der Arena und nutzen das Auto für die Fahrt zum Forum. Mittags geht es in den Süden zum Kap Kamenjak, wo die raue Natur bei Regen besonders imposant wirkt. Nach einem langen Aufenthalt im Safari Bar, der einen rustikalen Schutz bietet, fahren wir zurück in die Stadt und beenden die Tour bei der Festung Kastel.",
-            "hu": "Kényelmesen indulunk az Arénától, az autót használva a Fórumhoz való eljutáshoz. Délben délre, a Kamenjak-fokhoz hajtunk, ahol a vad természet esőben is lenyűgöző. Egy hosszabb pihenő után a Safari Bar rusztikus menedékében visszatérünk a városba, és a Kastel váránál zárjuk a napot.",
-            "ro": "Pornim confortabil de la Arenă și folosim mașina spre Forum. La prânz mergem spre sud la Capul Kamenjak, unde natura sălbatică este impunătoare pe ploaie. După o oprire lungă la Safari Bar, care oferă un adăpost rustic, ne întoarcem în oraș și încheiem turul la fortăreața Kastel.",
-            "en": "We start comfortably at the Arena, using the car to reach the Forum area easily. At noon, we drive south to Cape Kamenjak, where the raw nature looks impressive in the rain. After a long stay at the Safari Bar, which offers rustic shelter, we drive back to the city and end at the Kastel fortress."
-          },
-          "stops": [
-            {
-              "name": "Pula Arena",
-              "tip_5lang": {
-                "de": "Nutzen Sie den nahegelegenen Parkplatz Karolina, um kurze Wege zu haben.",
-                "hu": "Használd a közeli Karolina parkolót, hogy keveset kelljen gyalogolnod.",
-                "ro": "Folosește parcarea Karolina din apropiere pentru distanțe scurte.",
-                "en": "Use the nearby Karolina parking lot to minimize walking in the rain."
-              }
-            },
-            {
-              "name": "Temple of Augustus & Forum",
-              "tip_5lang": {
-                "de": "Parken Sie am Hafen und gehen Sie das kurze Stück zum überdachten Forum.",
-                "hu": "Parkolj a kikötőnél, és sétálj el a fedett részekkel rendelkező Fórumig.",
-                "ro": "Parchează în port și mergi pe jos distanța scurtă până la Forum.",
-                "en": "Park at the waterfront and walk the short distance to the Forum."
-              }
-            },
-            {
-              "name": "Cape Kamenjak (Nature Reserve)",
-              "tip_5lang": {
-                "de": "Vorsicht auf den unbefestigten Straßen; sie können sehr schlammig sein.",
-                "hu": "Vigyázz a földutakon; esőben nagyon sárosak és csúszósak lehetnek.",
-                "ro": "Atenție pe drumurile de pământ; pot deveni foarte noroioase.",
-                "en": "Be careful on the dirt roads; they can become very muddy in the rain."
-              }
-            },
-            {
-              "name": "Safari Bar",
-              "tip_5lang": {
-                "de": "Die dichte Vegetation bietet natürlichen Schutz vor leichtem Regen.",
-                "hu": "A sűrű növényzet természetes védelmet nyújt a szemerkélő eső ellen.",
-                "ro": "Vegetația deasă oferă protecție naturală împotriva ploii ușoare.",
-                "en": "The dense vegetation provides natural shelter from light rain."
-              }
-            },
-            {
-              "name": "Kastel Fortress",
-              "tip_5lang": {
-                "de": "Der Parkplatz direkt unter der Festung erspart Ihnen den nassen Aufstieg.",
-                "hu": "A közvetlenül a vár alatt található parkolóval megúszod a vizes emelkedőt.",
-                "ro": "Parcarea de sub fortăreață te scutește de urcarea prin ploaie.",
-                "en": "The parking lot right under the fortress saves you from a wet climb."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Kamenjak ist ein Naturschutzgebiet; bei starkem Regen können Wege gesperrt sein.",
-              "Achten Sie auf Schlaglöcher, die sich in Pfützen auf den Feldwegen verstecken.",
-              "Halten Sie die Fenster leicht offen oder nutzen Sie die Klima gegen Beschlag.",
-              "Das Parken in Pula ist bei Regen oft einfacher, da weniger Touristen unterwegs sind."
-            ],
-            "hu": [
-              "Kamenjak természetvédelmi terület; heves esőben egyes utak lezárva lehetnek.",
-              "Ügyelj a kátyúkra, amik a tócsák alatt bújnak meg a földutakon.",
-              "Használd a légkondit a párásodás ellen, hogy jól láss ki az ablakon.",
-              "Esőben gyakran könnyebb parkolóhelyet találni Pula központjában."
-            ],
-            "ro": [
-              "Kamenjak este rezervație naturală; pe ploaie torențială drumurile pot fi închise.",
-              "Atenție la gropile ascunse sub bălți pe drumurile neasfaltate.",
-              "Folosește aerul condiționat pentru a dezaburi geamurile eficient.",
-              "Parcarea în Pula este adesea mai ușoară pe ploaie, fiind mai puțini turiști."
-            ],
-            "en": [
-              "Kamenjak is a nature reserve; some roads might be closed during heavy rain.",
-              "Watch out for potholes hidden under puddles on the dirt tracks.",
-              "Use your air conditioning to prevent the windows from fogging up.",
-              "Parking in Pula is often easier in the rain due to fewer tourists."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein ruhiger Start an der Arena ohne Parkplatzsorgen. Mittags genießen wir die Fahrt zum Kap Kamenjak, wo die Wintersonne das Meer glitzern lässt. Im Safari Bar wärmen wir uns auf, bevor wir zurück in die Stadt fahren. Den Nachmittag verbringen wir in der Altstadt und erleben den frühen Sonnenuntergang von der Festung Kastel aus.",
-            "hu": "Nyugodt kezdés az Arénánál, parkolási gondok nélkül. Délben a Kamenjak-fokhoz autózunk, ahol a téli napfény megcsillan a tengeren. A Safari Barban melegszünk fel, mielőtt visszatérnénk a városba. A délutánt az óvárosban töltjük, majd a Kastel várából nézzük végig a korai naplementét.",
-            "ro": "Un început liniștit la Arenă fără griji pentru parcare. La prânz ne bucurăm de drumul spre Capul Kamenjak, unde soarele de iarnă face marea să sclipească. Ne încălzim la Safari Bar înainte de a ne întoarce în oraș. Petrecem după-amiaza în orașul vechi și admirăm apusul de la Kastel.",
-            "en": "A peaceful start at the Arena without parking worries. At noon, we enjoy the drive to Cape Kamenjak, where the winter sun makes the sea sparkle. We warm up at the Safari Bar before driving back to the city. The afternoon is spent in the old town, finishing with the early sunset from the Kastel fortress."
-          },
-          "stops": [
-            {
-              "name": "Pula Arena",
-              "tip_5lang": {
-                "de": "Parkplätze sind im Winter oft kostenlos oder deutlich günstiger.",
-                "hu": "Télen a parkolás gyakran ingyenes vagy sokkal olcsóbb.",
-                "ro": "Parcarea este adesea gratuită sau mult mai ieftină iarna.",
-                "en": "Parking is often free or significantly cheaper during the winter months."
-              }
-            },
-            {
-              "name": "Temple of Augustus & Forum",
-              "tip_5lang": {
-                "de": "Die Sonne steht tief und leuchtet den Tempel wunderschön an.",
-                "hu": "A nap alacsonyan jár, és gyönyörűen megvilágítja a templomot.",
-                "ro": "Soarele este jos pe cer și luminează templul superb.",
-                "en": "The low winter sun illuminates the temple beautifully for photos."
-              }
-            },
-            {
-              "name": "Cape Kamenjak (Nature Reserve)",
-              "tip_5lang": {
-                "de": "Die Einfahrtsgebühr ist im Winter oft reduziert oder entfällt.",
-                "hu": "A belépődíj télen gyakran kedvezményes vagy elmarad.",
-                "ro": "Taxa de intrare este adesea redusă sau eliminată iarna.",
-                "en": "The entry fee for cars is often reduced or waived during winter."
-              }
-            },
-            {
-              "name": "Safari Bar",
-              "tip_5lang": {
-                "de": "Bringen Sie eine Decke mit, um es sich trotz der Kälte gemütlich zu machen.",
-                "hu": "Hozz magaddal egy pokrócot, hogy a hideg ellenére is kényelmes legyen.",
-                "ro": "Adu o pătură pentru a te simți confortabil în ciuda frigului.",
-                "en": "Bring a small blanket to stay cozy while enjoying the rustic vibes."
-              }
-            },
-            {
-              "name": "Kastel Fortress",
-              "tip_5lang": {
-                "de": "Bester Spot für den Sonnenuntergang; achten Sie auf die Schließzeit.",
-                "hu": "A legjobb helyszín a naplementéhez; ügyelj a záróra időpontjára.",
-                "ro": "Cel mai bun loc pentru apus; atenție la ora de închidere.",
-                "en": "Best spot for the sunset; check the winter closing times beforehand."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Der Eintritt zum Kap Kamenjak für Autos ist im Winter meist frei.",
-              "Die Straßen in Pula sind deutlich leerer als in der Hochsaison.",
-              "Achten Sie auf Wildtiere am Kap Kamenjak, die im Winter aktiver sind.",
-              "Die Heizung im Auto ist Ihr bester Freund nach einem windigen Spaziergang."
-            ],
-            "hu": [
-              "A belépés a Kamenjak-fokhoz autóval télen általában ingyenes.",
-              "Pula utcái sokkal üresebbek, mint a főszezonban, könnyű a közlekedés.",
-              "Ügyelj a vadállatokra a Kamenjak-foknál, télen aktívabbak lehetnek.",
-              "Az autó fűtése a legjobb barátod lesz egy szeles tengerparti séta után."
-            ],
-            "ro": [
-              "Intrarea cu mașina la Capul Kamenjak este de obicei liberă iarna.",
-              "Străzile din Pula sunt mult mai libere decât în plin sezon.",
-              "Atenție la animalele sălbatice din rezervație, sunt mai active iarna.",
-              "Sistemul de încălzire este esențial după o plimbare lungă în vânt."
-            ],
-            "en": [
-              "Entrance to Cape Kamenjak for cars is usually free in winter.",
-              "Pula's streets are much less crowded than during the high season.",
-              "Watch out for wildlife at Cape Kamenjak, as they are more active in winter.",
-              "The car heater is your best friend after a windy coastal walk."
-            ]
-          }
-        }
-      }
-    },
-    "transit": {
-      "mode": "transit",
-      "speed_kmh": 18,
-      "start": "09:00",
-      "end_estimate": "16:00",
-      "total_km": 12.5,
-      "stop_count": 5,
-      "stops": [
-        {
-          "name": {
-            "de": "Arena von Pula",
-            "hu": "Pulai amfiteátrum",
-            "ro": "Arena din Pula",
-            "en": "Pula Arena"
-          },
-          "coords": [
-            13.8502,
-            44.8732
+            13.842,
+            44.87
           ],
           "category": "historical",
-          "arrive_at": "09:00",
+          "arrive_at": "11:00",
           "stay_min": 60,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Viele Buslinien halten direkt vor der Arena.",
-            "hu": "Számos buszjárat megáll közvetlenül az Aréna előtt.",
-            "ro": "Multe linii de autobuz opresc chiar în fața Arenei.",
-            "en": "Many bus lines stop right in front of the Arena."
+            "de": "Das antike Zentrum der Stadt.",
+            "hu": "A város ókori központja.",
+            "ro": "Centrul antic al orașului.",
+            "en": "The ancient center of the city."
           }
         },
         {
           "name": {
-            "de": "Sergierbogen",
+            "de": "Sergierbogen (Goldenes Tor)",
             "hu": "Sergius-diadalív",
-            "ro": "Arcul lui Sergius",
+            "ro": "Arcul Sergiilor",
             "en": "Arch of the Sergii"
           },
           "coords": [
             13.8475,
-            44.8682
+            44.8685
           ],
-          "category": "monuments/statues",
-          "arrive_at": "10:15",
-          "stay_min": 30,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.2,
+          "category": "monument",
+          "arrive_at": "12:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Der Knotenpunkt 'Giardini' ist nur wenige Schritte entfernt.",
-            "hu": "A 'Giardini' csomópont csak pár lépésre van.",
-            "ro": "Nodul 'Giardini' este la doar câțiva pași distanță.",
-            "en": "The 'Giardini' transit hub is just a few steps away."
+            "de": "Prachtvolles römisches Stadttor.",
+            "hu": "Pompás római városkapu.",
+            "ro": "Poartă romană impunătoare.",
+            "en": "Magnificent Roman city gate."
           }
         },
         {
           "name": {
-            "de": "Forum & Augustustempel",
-            "hu": "Fórum és Augustus temploma",
-            "ro": "Forumul și Templul lui Augustus",
-            "en": "Forum & Temple of Augustus"
+            "de": "Markthalle Pula",
+            "hu": "Pulai vásárcsarnok",
+            "ro": "Piața Centrală Pula",
+            "en": "Pula Market Hall"
           },
           "coords": [
-            13.8428,
-            44.8702
+            13.851,
+            44.867
           ],
-          "category": "squares/old-town",
-          "arrive_at": "11:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
+          "category": "market",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Spaziergang durch die Fußgängerzone vom Giardini.",
-            "hu": "Séta a sétálóutcán keresztül a Giardini felől.",
-            "ro": "Plimbare prin zona pietonală de la Giardini.",
-            "en": "Walk through the pedestrian zone from Giardini."
+            "de": "Jugendstil-Architektur und Fischmarkt.",
+            "hu": "Szecessziós építészet és halpiac.",
+            "ro": "Arhitectură Art Nouveau și piață de pește.",
+            "en": "Art Nouveau architecture and fish market."
           }
         },
         {
           "name": {
-            "de": "Verudela (Aquarium Pula)",
-            "hu": "Verudela (Pulai Akvárium)",
-            "ro": "Verudela (Avariul Pula)",
-            "en": "Verudela (Pula Aquarium)"
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
           },
           "coords": [
-            13.832,
-            44.835
+            13.845,
+            44.868
           ],
-          "category": "museums",
-          "arrive_at": "12:30",
-          "stay_min": 90,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 5.0,
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Nehmen Sie die Linie 2a oder 3a vom Zentrum.",
-            "hu": "Használja a 2a vagy 3a buszt a központból.",
-            "ro": "Luați linia 2a sau 3a din centru.",
-            "en": "Take line 2a or 3a from the center."
+            "de": "Probieren Sie istrische Trüffel.",
+            "hu": "Kóstolja meg az isztriai szarvasgombát.",
+            "ro": "Încercați trufele istriene.",
+            "en": "Try some Istrian truffles."
           }
         },
         {
           "name": {
-            "de": "Kastel",
-            "hu": "Kastel erőd",
-            "ro": "Kastel",
-            "en": "Kastel Fortress"
+            "de": "Kastell (Festung)",
+            "hu": "Kastély (erőd)",
+            "ro": "Cetatea (Kastel)",
+            "en": "Kastel (Fortress)"
           },
           "coords": [
             13.8465,
             44.8705
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "14:45",
-          "stay_min": 45,
-          "hop_from_prev_min": 45,
-          "hop_from_prev_km": 5.5,
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Rückfahrt zum Zentrum und kurzer Aufstieg zu Fuß.",
-            "hu": "Visszautazás a központba, majd rövid séta fel az erődhöz.",
-            "ro": "Întoarcere în centru și urcare scurtă pe jos.",
-            "en": "Return to the center and a short walk up to the fortress."
+            "de": "Panoramablick über den Hafen.",
+            "hu": "Panorámás kilátás a kikötőre.",
+            "ro": "Vedere panoramică asupra portului.",
+            "en": "Panoramic view over the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Zerostrasse Tunnelsystem",
+            "hu": "Zerostrasse alagútrendszer",
+            "ro": "Sistemul de tuneluri Zerostrasse",
+            "en": "Zerostrasse Tunnel System"
+          },
+          "coords": [
+            13.848,
+            44.87
+          ],
+          "category": "historical",
+          "arrive_at": "17:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kühle Gänge aus dem 1. Weltkrieg.",
+            "hu": "Hűvös járatok az első világháborúból.",
+            "ro": "Coridoare răcoroase din Primul Război Mondial.",
+            "en": "Cool tunnels from World War I."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie das effiziente Bussystem von Pula, um Stadt und Strand zu verbinden. Beginnen Sie antik an der Arena und schlendern Sie zum Sergierbogen. Nach einem Besuch am Forum bringt Sie der Bus bequem zur Halbinsel Verudela, wo Sie das Aquarium in einer alten Festung besuchen oder am Meer entspannen können. Zum Abschluss kehren Sie ins Zentrum zurück, um den Panoramablick vom Kastel zu genießen.",
-        "hu": "Használja Pula hatékony buszhálózatát a város és a strand összekötésére. Kezdjen az Arénánál, majd sétáljon el a Sergius-diadalívhez. A Fórum után busszal kényelmesen kijuthat a Verudela-félszigetre, ahol megnézheti az akváriumot egy régi erődben, vagy pihenhet a tengerparton. Végezetül térjen vissza a központba a Kastel panorámájáért.",
-        "ro": "Folosiți rețeaua eficientă de autobuze din Pula pentru a lega orașul de plajă. Începeți la Arenă și plimbați-vă până la Arcul lui Sergius. După Forum, autobuzul vă duce confortabil în peninsula Verudela, unde puteți vizita acvariul într-o veche fortăreață sau vă puteți relaxa la malul mării. La final, reveniți în centru pentru panorama de la Kastel.",
-        "en": "Use Pula's efficient bus system to connect the city with the beach. Start at the ancient Arena and stroll to the Arch of the Sergii. After the Forum, the bus conveniently takes you to the Verudela peninsula, where you can visit the aquarium in an old fortress or relax by the sea. Finally, return to the center to enjoy the panoramic view from the Kastel."
+        "de": "Pula ist ein offenes Geschichtsbuch der Römerzeit. Beginnen Sie Ihren Tag im monumentalen Amphitheater und spazieren Sie dann zum antiken Forum mit dem Augustustempel. Nach einem kurzen Stopp am Sergierbogen tauchen Sie ein in das geschäftige Treiben der Jugendstil-Markthalle. Der Nachmittag bietet istrische Kulinarik, einen Aufstieg zur Festung für den besten Überblick und eine geheimnisvolle Tour durch das unterirdische Tunnelsystem Zerostrasse.",
+        "hu": "Pula a római kor nyitott történelemkönyve. Kezdje a napot a monumentális amfiteátrumban, majd sétáljon el az ókori fórumhoz az Augustus-templommal. A Sergius-diadalívnél tett rövid megálló után merüljön el a szecessziós vásárcsarnok forgatagában. A délután isztriai gasztronómiát, az erődbe való feljutást a legjobb kilátásért, és a Zerostrasse földalatti alagútrendszer rejtélyes bejárását kínálja.",
+        "ro": "Pula este o carte de istorie deschisă a epocii romane. Începeți ziua la monumentul Amfiteatru și apoi plimbați-vă spre Forumul antic cu Templul lui Augustus. După o scurtă oprire la Arcul Sergiilor, cufundați-vă în agitația pieței centrale Art Nouveau. După-amiaza oferă delicii culinare istriene, o urcare la cetate pentru cea mai bună panoramă și un tur misterios prin sistemul de tuneluri subterane Zerostrasse.",
+        "en": "Pula is an open history book of the Roman era. Start your day at the monumental Amphitheater and then walk to the ancient Forum with the Temple of Augustus. After a quick stop at the Arch of the Sergii, immerse yourself in the bustle of the Art Nouveau market hall. The afternoon offers Istrian culinary delights, a climb to the fortress for the best overview, and a mysterious tour through the underground Zerostrasse tunnel system."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Pizzeria Jupiter",
-            "tip": "Beliebte Pizzeria in der Nähe der Arena."
+            "name": "Jupiter Pizzeria",
+            "tip": "Beste Pizza und lokale Pasta Fuži."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Weltklasse Fischküche (nahe Pula)."
           }
         ],
         "hu": [
           {
-            "name": "Jupiter Pizzéria",
-            "tip": "Népszerű pizzéria az Aréna közelében."
+            "name": "Jupiter Pizzeria",
+            "tip": "A legjobb pizza és helyi fuži tészta."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Világszínvonalú halkonyha (Pula mellett)."
           }
         ],
         "ro": [
           {
-            "name": "Pizzeria Jupiter",
-            "tip": "Pizzerie populară lângă Arenă."
+            "name": "Jupiter Pizzeria",
+            "tip": "Cea mai bună pizza și paste locale fuži."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Bucătărie de pește de clasă mondială (lângă Pula)."
           }
         ],
         "en": [
           {
-            "name": "Pizzeria Jupiter",
-            "tip": "Popular pizzeria near the Arena."
+            "name": "Jupiter Pizzeria",
+            "tip": "Best pizza and local Fuži pasta."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "World-class fish cuisine (near Pula)."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Aquarium Park",
-            "tip": "Ruhiger Parkbereich auf Verudela.",
-            "emoji": "🍃"
+            "name": "Brijuni Nationalpark",
+            "tip": "Tagesausflug zur Inseloase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leuchtende Giganten",
+            "tip": "Lichtshow im Hafen bei Nacht.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Akvárium park",
-            "tip": "Csendes parkos rész Verudelán.",
-            "emoji": "🍃"
+            "name": "Brijuni Nemzeti Park",
+            "tip": "Egynapos kirándulás a szigeti oázisba.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Világító Óriások",
+            "tip": "Fényshow a kikötőben éjszaka.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Acvariului",
-            "tip": "Zonă liniștită de parc în Verudela.",
-            "emoji": "🍃"
+            "name": "Parcul Național Brijuni",
+            "tip": "Excursie de o zi spre oaza insulară.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Giganții luminați",
+            "tip": "Spectacol de lumini în port noaptea.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Aquarium Park",
-            "tip": "Quiet park area on Verudela.",
-            "emoji": "🍃"
+            "name": "Brijuni National Park",
+            "tip": "Day trip to the island oasis.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lighting Giants",
+            "tip": "Light show in the harbor at night.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Kiosk Tickets",
-            "tip": "Kaufen Sie Busfahrkarten vorab am Kiosk für günstigere Preise."
+            "name": "Pulaer Markt",
+            "tip": "Istrisches Olivenöl und Wein."
+          },
+          {
+            "name": "Sergijevaca Straße",
+            "tip": "Souvenirs und Kunsthandwerk."
           }
         ],
         "hu": [
           {
-            "name": "Újságos jegyek",
-            "tip": "Vásároljon buszjegyet előre az újságosnál az olcsóbb árért."
+            "name": "Pulai piac",
+            "tip": "Isztriai olívaolaj és bor."
+          },
+          {
+            "name": "Sergijevaca utca",
+            "tip": "Szuvenírek és kézműves termékek."
           }
         ],
         "ro": [
           {
-            "name": "Bilete la chioșc",
-            "tip": "Cumpărați bilete de autobuz în avans de la chioșc pentru prețuri mai mici."
+            "name": "Piața din Pula",
+            "tip": "Ulei de măsline istrian și vin."
+          },
+          {
+            "name": "Strada Sergijevaca",
+            "tip": "Suveniruri și artizanat."
           }
         ],
         "en": [
           {
-            "name": "Kiosk Tickets",
-            "tip": "Buy bus tickets in advance at a kiosk for better prices."
+            "name": "Pula Market",
+            "tip": "Istrian olive oil and wine."
+          },
+          {
+            "name": "Sergijevaca Street",
+            "tip": "Souvenirs and handicrafts."
           }
         ]
       },
       "tips": {
         "de": [
-          "Buskarten beim Fahrer sind teurer als am Kiosk.",
-          "Die Linien 2 und 3 fahren im 20-Minuten-Takt nach Verudela.",
-          "Die Haltestelle 'Giardini' ist der zentrale Umsteigepunkt."
+          "Die Arena ist nachts wunderschön beleuchtet.",
+          "Kaufen Sie Trüffelprodukte in versiegelten Gläsern."
         ],
         "hu": [
-          "A sofőrnél váltott jegy drágább, mint az újságosnál.",
-          "A 2-es és 3-as busz 20 percenként jár Verudelára.",
-          "A 'Giardini' megálló a központi átszállási pont."
+          "Az Aréna éjszaka gyönyörűen ki van világítva.",
+          "Vegyen szarvasgomba termékeket lezárt üvegekben."
         ],
         "ro": [
-          "Biletele luate de la șofer sunt mai scumpe decât cele de la chioșc.",
-          "Liniile 2 și 3 circulă la fiecare 20 de minute spre Verudela.",
-          "Stația 'Giardini' este principalul punct de transfer."
+          "Arena este luminată superb noaptea.",
+          "Cumpărați produse cu trufe în borcane sigilate."
         ],
         "en": [
-          "Bus tickets from the driver are more expensive than at kiosks.",
-          "Lines 2 and 3 run every 20 minutes to Verudela.",
-          "The 'Giardini' stop is the central transfer point."
+          "The Arena is beautifully illuminated at night.",
+          "Buy truffle products in sealed jars."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Nutzen Sie das effiziente Bussystem von Pula, um Stadt und Strand zu verbinden. Beginnen Sie antik an der Arena und schlendern Sie zum Sergierbogen. Nach einem Besuch am Forum bringt Sie der Bus bequem zur Halbinsel Verudela, wo Sie das Aquarium in einer alten Festung besuchen oder am Meer entspannen können. Zum Abschluss kehren Sie ins Zentrum zurück, um den Panoramablick vom Kastel zu genießen.",
-            "hu": "Használja Pula hatékony buszhálózatát a város és a strand összekötésére. Kezdjen az Arénánál, majd sétáljon el a Sergius-diadalívhez. A Fórum után busszal kényelmesen kijuthat a Verudela-félszigetre, ahol megnézheti az akváriumot egy régi erődben, vagy pihenhet a tengerparton. Végezetül térjen vissza a központba a Kastel panorámájáért.",
-            "ro": "Folosiți rețeaua eficientă de autobuze din Pula pentru a lega orașul de plajă. Începeți la Arenă și plimbați-vă până la Arcul lui Sergius. După Forum, autobuzul vă duce confortabil în peninsula Verudela, unde puteți vizita acvariul într-o veche fortăreață sau vă puteți relaxa la malul mării. La final, reveniți în centru pentru panorama de la Kastel.",
-            "en": "Use Pula's efficient bus system to connect the city with the beach. Start at the ancient Arena and stroll to the Arch of the Sergii. After the Forum, the bus conveniently takes you to the Verudela peninsula, where you can visit the aquarium in an old fortress or relax by the sea. Finally, return to the center to enjoy the panoramic view from the Kastel."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Arena von Pula",
-                "hu": "Pulai amfiteátrum",
-                "ro": "Arena din Pula",
-                "en": "Pula Arena"
-              },
-              "tip_5lang": {
-                "de": "Viele Buslinien halten direkt vor der Arena.",
-                "hu": "Számos buszjárat megáll közvetlenül az Aréna előtt.",
-                "ro": "Multe linii de autobuz opresc chiar în fața Arenei.",
-                "en": "Many bus lines stop right in front of the Arena."
-              }
-            },
-            {
-              "name": {
-                "de": "Sergierbogen",
-                "hu": "Sergius-diadalív",
-                "ro": "Arcul lui Sergius",
-                "en": "Arch of the Sergii"
-              },
-              "tip_5lang": {
-                "de": "Der Knotenpunkt 'Giardini' ist nur wenige Schritte entfernt.",
-                "hu": "A 'Giardini' csomópont csak pár lépésre van.",
-                "ro": "Nodul 'Giardini' este la doar câțiva pași distanță.",
-                "en": "The 'Giardini' transit hub is just a few steps away."
-              }
-            },
-            {
-              "name": {
-                "de": "Forum & Augustustempel",
-                "hu": "Fórum és Augustus temploma",
-                "ro": "Forumul și Templul lui Augustus",
-                "en": "Forum & Temple of Augustus"
-              },
-              "tip_5lang": {
-                "de": "Spaziergang durch die Fußgängerzone vom Giardini.",
-                "hu": "Séta a sétálóutcán keresztül a Giardini felől.",
-                "ro": "Plimbare prin zona pietonală de la Giardini.",
-                "en": "Walk through the pedestrian zone from Giardini."
-              }
-            },
-            {
-              "name": {
-                "de": "Verudela (Aquarium Pula)",
-                "hu": "Verudela (Pulai Akvárium)",
-                "ro": "Verudela (Avariul Pula)",
-                "en": "Verudela (Pula Aquarium)"
-              },
-              "tip_5lang": {
-                "de": "Nehmen Sie die Linie 2a oder 3a vom Zentrum.",
-                "hu": "Használja a 2a vagy 3a buszt a központból.",
-                "ro": "Luați linia 2a sau 3a din centru.",
-                "en": "Take line 2a or 3a from the center."
-              }
-            },
-            {
-              "name": {
-                "de": "Kastel",
-                "hu": "Kastel erőd",
-                "ro": "Kastel",
-                "en": "Kastel Fortress"
-              },
-              "tip_5lang": {
-                "de": "Rückfahrt zum Zentrum und kurzer Aufstieg zu Fuß.",
-                "hu": "Visszautazás a központba, majd rövid séta fel az erődhöz.",
-                "ro": "Întoarcere în centru și urcare scurtă pe jos.",
-                "en": "Return to the center and a short walk up to the fortress."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Pizzeria Jupiter",
-                "tip": "Beliebte Pizzeria in der Nähe der Arena."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Jupiter Pizzéria",
-                "tip": "Népszerű pizzéria az Aréna közelében."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Pizzeria Jupiter",
-                "tip": "Pizzerie populară lângă Arenă."
-              }
-            ],
-            "en": [
-              {
-                "name": "Pizzeria Jupiter",
-                "tip": "Popular pizzeria near the Arena."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Aquarium Park",
-                "tip": "Ruhiger Parkbereich auf Verudela.",
-                "emoji": "🍃"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Akvárium park",
-                "tip": "Csendes parkos rész Verudelán.",
-                "emoji": "🍃"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Parcul Acvariului",
-                "tip": "Zonă liniștită de parc în Verudela.",
-                "emoji": "🍃"
-              }
-            ],
-            "en": [
-              {
-                "name": "Aquarium Park",
-                "tip": "Quiet park area on Verudela.",
-                "emoji": "🍃"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Kiosk Tickets",
-                "tip": "Kaufen Sie Busfahrkarten vorab am Kiosk für günstigere Preise."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Újságos jegyek",
-                "tip": "Vásároljon buszjegyet előre az újságosnál az olcsóbb árért."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Bilete la chioșc",
-                "tip": "Cumpărați bilete de autobuz în avans de la chioșc pentru prețuri mai mici."
-              }
-            ],
-            "en": [
-              {
-                "name": "Kiosk Tickets",
-                "tip": "Buy bus tickets in advance at a kiosk for better prices."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Buskarten beim Fahrer sind teurer als am Kiosk.",
-              "Die Linien 2 und 3 fahren im 20-Minuten-Takt nach Verudela.",
-              "Die Haltestelle 'Giardini' ist der zentrale Umsteigepunkt."
-            ],
-            "hu": [
-              "A sofőrnél váltott jegy drágább, mint az újságosnál.",
-              "A 2-es és 3-as busz 20 percenként jár Verudelára.",
-              "A 'Giardini' megálló a központi átszállási pont."
-            ],
-            "ro": [
-              "Biletele luate de la șofer sunt mai scumpe decât cele de la chioșc.",
-              "Liniile 2 și 3 circulă la fiecare 20 de minute spre Verudela.",
-              "Stația 'Giardini' este principalul punct de transfer."
-            ],
-            "en": [
-              "Bus tickets from the driver are more expensive than at kiosks.",
-              "Lines 2 and 3 run every 20 minutes to Verudela.",
-              "The 'Giardini' stop is the central transfer point."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Bequem erreichen wir die Arena mit dem Bus. Mittags fahren wir mit der Linie zum Forum und besichtigen den Tempel. Da es regnet, nutzen wir den Bus nach Verudela, um das Aquarium zu besuchen – der ideale Ort für schlechtes Wetter. Den Tag beenden wir mit einer kurzen Fahrt zurück ins Zentrum und dem Aufstieg zur Festung.",
-            "hu": "Kényelmesen, busszal érkezünk az Arénához. Délben a helyi járattal a Fórumhoz megyünk és megnézzük a templomot. Mivel esik, busszal megyünk ki Verudelára az Akváriumba – ez a legjobb program rossz időben. A napot egy rövid visszautazással a központba és a várhoz való feljutással zárjuk.",
-            "ro": "Ajungem confortabil la Arenă cu autobuzul. La prânz luăm linia locală spre Forum pentru a vizita templul. Deoarece plouă, mergem cu autobuzul la Verudela pentru a vizita Acvariul. Încheiem ziua cu o scurtă călătorie înapoi în centru și urcarea la fortăreață.",
-            "en": "We reach the Arena easily by bus. At noon, we take the local line to the Forum to see the temple. Since it's raining, we ride the bus out to Verudela to visit the Aquarium – the ideal spot for bad weather. We end the day with a short trip back to the center and a climb to the fortress."
-          },
-          "stops": [
-            {
-              "name": "Pula Arena",
-              "tip_5lang": {
-                "de": "Die Bushaltestelle liegt direkt vor dem Amphitheater; wenig Gehzeit.",
-                "hu": "A buszmegálló közvetlenül az amfiteátrum előtt van; kevés séta.",
-                "ro": "Stația de autobuz este chiar în fața amfiteatrului; puțin de mers.",
-                "en": "The bus stop is right in front of the amphitheater; very little walking."
-              }
-            },
-            {
-              "name": "Arch of the Sergii",
-              "tip_5lang": {
-                "de": "Nutzen Sie den Busknotenpunkt Giardini für schnellen Wechsel.",
-                "hu": "Használd a Giardini buszcsomópontot a gyors átszálláshoz.",
-                "ro": "Folosește nodul de transport Giardini pentru transferuri rapide.",
-                "en": "Use the Giardini bus hub for quick transfers between lines."
-              }
-            },
-            {
-              "name": "Forum & Temple of Augustus",
-              "tip_5lang": {
-                "de": "Vom Hafen aus sind es nur wenige Schritte bis zum überdachten Forum.",
-                "hu": "A kikötőtől csak pár lépés a fedett részekkel rendelkező Fórum.",
-                "ro": "De la port sunt doar câțiva pași până la zonele acoperite ale Forumului.",
-                "en": "From the waterfront stop, it's just a few steps to the covered Forum."
-              }
-            },
-            {
-              "name": "Verudela (Pula Aquarium)",
-              "tip_5lang": {
-                "de": "Der Bus hält nah am Eingang, sodass Sie kaum nass werden.",
-                "hu": "A busz közel áll meg a bejárathoz, így alig fogsz megázni.",
-                "ro": "Autobuzul oprește aproape de intrare, deci nu te vei uda prea tare.",
-                "en": "The bus stops close to the entrance, so you won't get very wet."
-              }
-            },
-            {
-              "name": "Kastel Fortress",
-              "tip_5lang": {
-                "de": "Fahren Sie bis zum nächsten Punkt am Hügel, um den Aufstieg zu verkürzen.",
-                "hu": "Utazz a dombhoz legközelebbi megállóig, hogy rövidítsd az emelkedőt.",
-                "ro": "Mergi până la cea mai apropiată stație de deal pentru a scurta urcarea.",
-                "en": "Ride to the stop closest to the hill to shorten the walk up."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Kaufen Sie Tickets vorab am Kiosk, um Zeit beim Einsteigen zu sparen.",
-              "Nutzen Sie die App 'Pulapromet' für Echtzeit-Fahrpläne bei Regen.",
-              "Die Busse können bei Regen voller sein; planen Sie etwas Pufferzeit ein.",
-              "An den Haltestellen gibt es oft Unterstände, die vor Regen schützen."
-            ],
-            "hu": [
-              "Vegyél jegyet előre az újságosnál, hogy spórolj az idővel a felszállásnál.",
-              "Használd a 'Pulapromet' alkalmazást a valós idejű menetrendhez.",
-              "Esőben a buszok zsúfoltabbak lehetnek, számolj egy kis ráhagyással.",
-              "A legtöbb megállóban van fedett várakozó, ahol megpihenhetsz."
-            ],
-            "ro": [
-              "Cumpără bilete în avans de la chioșcuri pentru a economisi timp.",
-              "Folosește aplicația 'Pulapromet' pentru orarul în timp real pe ploaie.",
-              "Autobuzele pot fi mai aglomerate pe ploaie; planifică timp suplimentar.",
-              "Stațiile au de obicei adăposturi unde te poți feri de ploaie."
-            ],
-            "en": [
-              "Buy tickets in advance at kiosks to save time when boarding.",
-              "Use the 'Pulapromet' app for real-time bus schedules during rain.",
-              "Buses can be more crowded in the rain; allow some extra time.",
-              "Most bus stops have shelters where you can stay dry while waiting."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Am Morgen nutzen wir die ruhigen Busse zur Arena. Mittags fahren wir zum Forum und genießen die winterliche Stille der Altstadt. Die Linie nach Verudela bringt uns zum Aquarium, das auch im Winter ein Highlight ist. Nachmittags kehren wir ins Zentrum zurück und erklimmen die Festung rechtzeitig zum Sonnenuntergang über der Stadt.",
-            "hu": "Reggel a csendes buszjáratokkal megyünk az Arénához. Délben a Fórumhoz utazunk, élvezve az óváros téli nyugalmát. A verudelai járat az Akváriumhoz visz, ami télen is nagyszerű program. Délután visszatérünk a központba, és időben felérünk a várba a város feletti naplementére.",
-            "ro": "Dimineața folosim autobuzele liniștite spre Arenă. La prânz mergem la Forum și ne bucurăm de liniștea iernii în orașul vechi. Linia spre Verudela ne duce la Acvariu, un punct forte și iarna. După-amiaza revenim în centru și urcăm la fortăreață la timp pentru apus.",
-            "en": "In the morning, we take the quiet winter buses to the Arena. At noon, we travel to the Forum, enjoying the winter serenity of the old town. The line to Verudela takes us to the Aquarium, a highlight even in winter. In the afternoon, we return to the center and reach the fortress in time for the sunset over the city."
-          },
-          "stops": [
-            {
-              "name": "Pula Arena",
-              "tip_5lang": {
-                "de": "Die Busse sind im Winter gut beheizt und bieten eine angenehme Fahrt.",
-                "hu": "A buszok télen jól fűtöttek, kellemes utazást biztosítanak.",
-                "ro": "Autobuzele sunt bine încălzite iarna, oferind o călătorie plăcută.",
-                "en": "The buses are well-heated in winter, providing a comfortable ride."
-              }
-            },
-            {
-              "name": "Arch of the Sergii",
-              "tip_5lang": {
-                "de": "Der Hauptknotenpunkt Giardini ist im Winter festlich beleuchtet.",
-                "hu": "A Giardini főcsomópont télen ünnepi díszkivilágítást kap.",
-                "ro": "Nodul Giardini este iluminat festiv în timpul iernii.",
-                "en": "The Giardini transport hub is festively lit up during the winter."
-              }
-            },
-            {
-              "name": "Forum & Temple of Augustus",
-              "tip_5lang": {
-                "de": "In der Nähe gibt es viele Cafés, um sich zwischen den Fahrten aufzuwärmen.",
-                "hu": "A közelben sok kávézó van, ahol felmelegedhetsz a buszok között.",
-                "ro": "Există multe cafenele în zonă pentru a te încălzi între călătorii.",
-                "en": "There are many cafes nearby to warm up between bus rides."
-              }
-            },
-            {
-              "name": "Verudela (Pula Aquarium)",
-              "tip_5lang": {
-                "de": "Prüfen Sie den Winterfahrplan, da Busse seltener fahren können.",
-                "hu": "Ellenőrizd a téli menetrendet, mert a buszok ritkábban járhatnak.",
-                "ro": "Verifică orarul de iarnă, autobuzele pot circula mai rar.",
-                "en": "Check the winter schedule as buses may run less frequently."
-              }
-            },
-            {
-              "name": "Kastel Fortress",
-              "tip_5lang": {
-                "de": "Der letzte Bus zurück ins Zentrum fährt oft kurz nach Sonnenuntergang.",
-                "hu": "Az utolsó busz vissza a központba gyakran naplemente után indul.",
-                "ro": "Ultimul autobuz spre centru pleacă adesea după apusul soarelui.",
-                "en": "The last bus back to the center often leaves shortly after sunset."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Im Winter gilt oft ein reduzierter Fahrplan für die Linien nach Verudela.",
-              "Die Busse sind eine gute Möglichkeit, dem kalten Wind zu entkommen.",
-              "Ein Tagesticket lohnt sich auch im Winter, wenn man oft ein- und aussteigt.",
-              "Die Fahrpläne hängen an den Stationen aus, sind online aber aktueller."
-            ],
-            "hu": [
-              "Télen gyakran ritkított menetrend érvényes a Verudelára tartó járatokra.",
-              "A buszozás jó módja annak, hogy kicsit elmenekülj a hideg szél elől.",
-              "A napijegy télen is megéri, ha többször szállsz át a városban.",
-              "A menetrendek kint vannak a megállókban, de online naprakészebbek."
-            ],
-            "ro": [
-              "Iarna se aplică adesea un orar redus pentru liniile spre Verudela.",
-              "Autobuzele sunt o modalitate bună de a scăpa de vântul rece.",
-              "Un bilet de o zi merită chiar și iarna dacă schimbi des autobuzul.",
-              "Orarele sunt afișate în stații, dar cele online sunt mai actualizate."
-            ],
-            "en": [
-              "In winter, a reduced schedule often applies to lines heading to Verudela.",
-              "Taking the bus is a great way to escape the cold winter winds.",
-              "A day ticket is worth it in winter if you plan multiple short trips.",
-              "Schedules are posted at stops, but online apps are more reliable."
-            ]
-          }
-        }
       }
-    }
-  },
-  "external_resources": {
-    "iso": "HR-18",
-    "coords": [
-      13.8496,
-      44.8666
-    ],
-    "transit_official": "https://www.pulapromet.hr/en",
-    "transit_app": "https://www.pulapromet.hr/en",
-    "bike_share": "https://bikesharemap.com/pula/",
-    "city_card": null,
-    "events": "https://pulainfo.hr/",
-    "tourism_office": "https://pulainfo.hr/",
-    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/istra/pula/grad-pula.html",
-    "restaurants_booking": null,
-    "museum_tickets": null,
-    "parking_real_time": null,
-    "language_tips": {
-      "de": null,
-      "hu": null,
-      "ro": null,
-      "en": null
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis Anfang Oktober für Strand und Arena-Konzerte; Juli/August sind heiß und voll, daher sind Juni und September angenehmer.",
-      "hu": "Május és október eleje között ideális strandra és aréna-koncertekre; július-augusztus forró és zsúfolt, június vagy szeptember kellemesebb.",
-      "ro": "Mai până la începutul lui octombrie pentru plajă și concerte la Arenă; iulie-august sunt călduroase și aglomerate, iunie sau septembrie sunt mai plăcute.",
-      "en": "May to early October for beaches and Arena concerts; July and August are hot and crowded, so June or September are more pleasant."
-    },
-    "neighborhood_warnings": {
-      "de": "Die Altstadt und Verudela sind sicher; rund um den Busbahnhof nachts auf Taschendiebe achten.",
-      "hu": "Az óváros és Verudela biztonságos; a buszpályaudvar környékén éjjel figyelj a zsebtolvajokra.",
-      "ro": "Centrul vechi și Verudela sunt sigure; lângă autogară, fiți atenți la hoții de buzunare seara.",
-      "en": "Old Town and Verudela are safe; watch for pickpockets near the bus station at night."
     }
   }
 }

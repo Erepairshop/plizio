@@ -1,0 +1,588 @@
+{
+  "city_id": "poland-wloclawek-cities-v2",
+  "anchor": {
+    "name": "Plac Wolności, Włocławek",
+    "coords": [
+      19.0715,
+      52.6562
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit (Plac Wolności)",
+            "hu": "Szabadság tér (Plac Wolności)",
+            "ro": "Piața Libertății (Plac Wolności)",
+            "en": "Freedom Square (Plac Wolności)"
+          },
+          "coords": [
+            19.0718,
+            52.6565
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentraler Platz mit Cafés und Geschäften.",
+            "hu": "Központi tér kávézókkal és üzletekkel.",
+            "ro": "Piața centrală cu cafenele și magazine.",
+            "en": "Central square lined with shops and cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vitalis Kirche",
+            "hu": "Szent Vitális-templom",
+            "ro": "Biserica Sf. Vitalis",
+            "en": "St. Vitalis Church"
+          },
+          "coords": [
+            19.0685,
+            52.6582
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die älteste Backsteinkirche der Stadt (1330).",
+            "hu": "A város legrégebbi téglaépítésű temploma (1330).",
+            "ro": "Cea mai veche biserică de cărămidă din oraș (1330).",
+            "en": "The oldest brick church in the city (1330)."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Włocławek",
+            "hu": "Włocławeki székesegyház",
+            "ro": "Catedrala din Włocławek",
+            "en": "Włocławek Cathedral"
+          },
+          "coords": [
+            19.0665,
+            52.6595
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gotische Basilika mit wertvollen Glasmalereien.",
+            "hu": "Gótikus bazilika értékes üvegablakokkal.",
+            "ro": "Bazilică gotică cu vitralii valoroase.",
+            "en": "Gothic basilica featuring valuable stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Kujawien-Museum (Speicher)",
+            "hu": "Kujawy Múzeum (Magtár)",
+            "ro": "Muzeul Kujawy (Grânar)",
+            "en": "Kujawy Museum (Granary)"
+          },
+          "coords": [
+            19.0625,
+            52.6612
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "In einem historischen Getreidespeicher von 1848.",
+            "hu": "Egy 1848-ból származó történelmi magtárban.",
+            "ro": "Într-un grânar istoric datând din 1848.",
+            "en": "Located in a historic granary built in 1848."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Weichselufer",
+            "hu": "Ebéd a Visztula-parton",
+            "ro": "Prânz pe malul Vistulei",
+            "en": "Lunch by the Vistula"
+          },
+          "coords": [
+            19.0645,
+            52.6625
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss.",
+            "hu": "Élvezze a folyóra nyíló kilátást.",
+            "ro": "Bucurați-vă de vederea spre fluviu.",
+            "en": "Enjoy your meal with views over the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Sienkiewicz Park",
+            "hu": "Sienkiewicz park",
+            "ro": "Parcul Sienkiewicz",
+            "en": "Sienkiewicz Park"
+          },
+          "coords": [
+            19.0755,
+            52.6515
+          ],
+          "category": "park",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einer der ältesten Stadtparks Polens.",
+            "hu": "Lengyelország egyik legrégebbi városi parkja.",
+            "ro": "Unul dintre cele mai vechi parcuri din Polonia.",
+            "en": "One of the oldest city parks in Poland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Włocławek zu Fuß, beginnend am zentralen Platz der Freiheit. Besuchen Sie die historischen Kirchen St. Vitalis und die prächtige gotische Kathedrale. Mittags tauchen Sie im Kujawien-Museum, das in einem alten Speicher untergebracht ist, in die Regionalgeschichte ein. Nach einem Mittagessen am Weichselufer spazieren Sie durch den traditionsreichen Sienkiewicz-Park, eine grüne Oase im Herzen der Stadt.",
+        "hu": "Fedezze fel Włocławeket gyalogosan, a központi Szabadság tértől indulva. Látogassa meg a történelmi Szent Vitális-templomot és a pompás gótikus székesegyházat. Délben a Kujawy Múzeumban, egy régi magtárban ismerkedhet meg a régió múltjával. A Visztula-parti ebéd után sétáljon a nagy múltú Sienkiewicz parkban, amely a város szívének zöld szigete.",
+        "ro": "Descoperiți Włocławek la pas, începând din piața centrală a Libertății. Vizitați biserica istorică Sf. Vitalis și superba catedrală gotică. La prânz, explorați istoria regională la Muzeul Kujawy, găzduit într-un vechi grânar. După o masă pe malul Vistulei, plimbați-vă prin parcul istoric Sienkiewicz, o oază verde în inima orașului.",
+        "en": "Explore Włocławek on foot, starting from the central Freedom Square. Visit the historic St. Vitalis Church and the magnificent Gothic cathedral. Spend midday at the Kujawy Museum, housed in an old granary, to learn about regional history. After lunch by the Vistula, stroll through the traditional Sienkiewicz Park, a peaceful green haven in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja Rejs",
+            "tip": "Hervorragende Küche direkt an der Weichsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restauracja Rejs",
+            "tip": "Kiváló konyha közvetlenül a Visztula partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restauracja Rejs",
+            "tip": "Bucătărie excelentă chiar pe malul Vistulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restauracja Rejs",
+            "tip": "Excellent dining experience right on the Vistula bank."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bulwary Józefa Piłsudskiego",
+            "tip": "Ruhiger Spaziergang am Weichsel-Ufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Józef Piłsudski rakpart",
+            "tip": "Csendes séta a Visztula mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza Józef Piłsudski",
+            "tip": "Plimbare liniștită pe malul Vistulei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Józef Piłsudski Embankment",
+            "tip": "A quiet stroll along the Vistula riverbanks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wzorcownia Włocławek",
+            "tip": "Modernes Einkaufszentrum in historischen Gebäuden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wzorcownia Włocławek",
+            "tip": "Modern bevásárlóközpont történelmi épületekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wzorcownia Włocławek",
+            "tip": "Centru comercial modern în clădiri istorice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wzorcownia Włocławek",
+            "tip": "Modern shopping mall integrated into historic buildings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Uferpromenade ist abends schön beleuchtet.",
+          "Achten Sie im Museum auf die berühmte Włocławek-Fayence.",
+          "Die Kathedrale hat eine beeindruckende Akustik."
+        ],
+        "hu": [
+          "A folyóparti sétány este gyönyörűen ki van világítva.",
+          "A múzeumban figyelje a híres włocławeki fajanszokat.",
+          "A székesegyháznak lenyűgöző az akusztikája."
+        ],
+        "ro": [
+          "Faleza fluviului este frumos iluminată seara.",
+          "Căutați faimoasa faianță de Włocławek în muzeu.",
+          "Catedrala are o acustică impresionantă."
+        ],
+        "en": [
+          "The river embankment is beautifully lit up in the evening.",
+          "Look for the famous Włocławek faience in the museum.",
+          "The cathedral is known for its impressive acoustics."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Włocławek",
+            "hu": "Włocławeki székesegyház",
+            "ro": "Catedrala din Włocławek",
+            "en": "Włocławek Cathedral"
+          },
+          "coords": [
+            19.0665,
+            52.6595
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Gotisches Meisterwerk am Flussufer.",
+            "hu": "Gótikus remekmű a folyóparton.",
+            "ro": "Capodoperă gotică pe malul fluviului.",
+            "en": "A Gothic masterpiece on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Diözesanmuseum",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Muzeul Diecezan",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            19.0682,
+            52.6602
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Reiche Sammlung gotischer Sakralkunst.",
+            "hu": "Gótikus szakrális művészet gazdag gyűjteménye.",
+            "ro": "Colecție bogată de artă sacră gotică.",
+            "en": "Rich collection of Gothic sacral art."
+          }
+        },
+        {
+          "name": {
+            "de": "Copernicus-Platz",
+            "hu": "Kopernikusz tér",
+            "ro": "Piața Copernic",
+            "en": "Copernicus Square"
+          },
+          "coords": [
+            19.0705,
+            52.6592
+          ],
+          "category": "square",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erinnert an den Aufenthalt des Astronomen.",
+            "hu": "A csillagász városi tartózkodásának emléke.",
+            "ro": "Comemorează șederea astronomului în oraș.",
+            "en": "Commemorates the astronomer's stay in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            19.0685,
+            52.6615
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lokale Spezialitäten der Kujawien-Region.",
+            "hu": "A Kujawy régió helyi ínyencségei.",
+            "ro": "Delicii locale din regiunea Kujawy.",
+            "en": "Local delicacies from the Kujawy region."
+          }
+        },
+        {
+          "name": {
+            "de": "Włocławek-Staudamm",
+            "hu": "Włocławeki vízlépcső",
+            "ro": "Barajul Włocławek",
+            "en": "Włocławek Dam"
+          },
+          "coords": [
+            19.1455,
+            52.6612
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Monumentales Wasserkraftwerk an der Weichsel.",
+            "hu": "Monumentális vízerőmű a Visztulán.",
+            "ro": "Hidrocentrală monumentală pe Vistula.",
+            "en": "Monumental hydroelectric plant on the Vistula."
+          }
+        },
+        {
+          "name": {
+            "de": "Faience-Museum",
+            "hu": "Fajansz Múzeum",
+            "ro": "Muzeul Faianței",
+            "en": "Faience Museum"
+          },
+          "coords": [
+            19.0725,
+            52.6545
+          ],
+          "category": "museum",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ausstellung der berühmten handbemalten Keramik.",
+            "hu": "A híres, kézzel festett kerámia kiállítása.",
+            "ro": "Expoziție de ceramică celebră pictată manual.",
+            "en": "Exhibition of the famous hand-painted ceramics."
+          }
+        },
+        {
+          "name": {
+            "de": "Sienkiewicz Park",
+            "hu": "Sienkiewicz park",
+            "ro": "Parcul Sienkiewicz",
+            "en": "Sienkiewicz Park"
+          },
+          "coords": [
+            19.0755,
+            52.6515
+          ],
+          "category": "park",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Traditionsreicher Park am Zgłowiączka-Fluss.",
+            "hu": "Nagy múltú park a Zgłowiączka-folyó mentén.",
+            "ro": "Parc istoric de-a lungul râului Zgłowiączka.",
+            "en": "Historic park along the Zgłowiączka river."
+          }
+        },
+        {
+          "name": {
+            "de": "Włocławek-See (Blick)",
+            "hu": "Włocławeki-tó (kilátás)",
+            "ro": "Lacul Włocławek (belvedere)",
+            "en": "Lake Włocławek (view)"
+          },
+          "coords": [
+            19.1625,
+            52.6355
+          ],
+          "category": "lake",
+          "arrive_at": "17:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Größter Stausee Polens bei Sonnenuntergang.",
+            "hu": "Lengyelország legnagyobb mesterséges tava.",
+            "ro": "Cel mai mare lac de acumulare din Polonia.",
+            "en": "Poland's largest reservoir at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Höhepunkte von Włocławek mit dem Auto. Der Tag beginnt im religiösen Zentrum bei der Kathedrale und dem Diözesanmuseum. Nach einem Mittagessen in der Altstadt führt die Route zum beeindruckenden Staudamm, einem Meisterwerk der Technik. Nachmittags besuchen Sie das spezialisierte Fayence-Museum und den Sienkiewicz-Park, bevor Sie den Ausflug mit einem Blick auf den riesigen Włocławek-Stausee krönen.",
+        "hu": "Autóval fedezze fel Włocławek legfőbb látnivalóit. A napot a vallási központban kezdjük a székesegyháznál és az egyházmegyei múzeumnál. Az óvárosi ebéd után az útvonal a lenyűgöző vízlépcsőhöz vezet, amely a mérnöki tudomány remeke. Délután a különleges Fajansz Múzeumot és a Sienkiewicz parkot keressük fel, majd a napot a hatalmas Włocławeki-tóra nyíló kilátással zárjuk.",
+        "ro": "Explorați punctele de atracție din Włocławek cu mașina. Ziua începe în centrul religios la catedrală și muzeul diecezan. După un prânz în centrul vechi, traseul duce la barajul impresionant, o capodoperă a ingineriei. După-amiaza vizitați muzeul specializat al faianței și parcul Sienkiewicz, încheind excursia cu o vedere asupra imensului lac de acumulare Włocławek.",
+        "en": "Discover the highlights of Włocławek by car. Start your day at the religious center, visiting the cathedral and the diocesan museum. After lunch in the Old Town, drive to the impressive dam, a true marvel of engineering. In the afternoon, explore the Faience Museum and Sienkiewicz Park before concluding with a sunset view over the vast Włocławek Reservoir."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja Dziedziniec",
+            "tip": "Traditionelle Gerichte in historischem Gemäuer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restauracja Dziedziniec",
+            "tip": "Hagyományos ételek történelmi falak között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restauracja Dziedziniec",
+            "tip": "Preparate tradiționale între ziduri istorice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restauracja Dziedziniec",
+            "tip": "Traditional dishes served in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jezioro Włocławskie",
+            "tip": "Weite Wasserfläche und Waldgebiete.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Włocławeki-tó",
+            "tip": "Hatalmas vízfelület és erdős környezet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Włocławek",
+            "tip": "Suprafață vastă de apă și zone împădurite.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Włocławek",
+            "tip": "Vast water surface and surrounding forests.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fabryka Fajansu (Sklep)",
+            "tip": "Original Włocławek-Fayence als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fajanszgyár boltja",
+            "tip": "Eredeti włocławeki fajansz szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Fabricii de Faianță",
+            "tip": "Faianță originală de Włocławek ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Faience Factory Shop",
+            "tip": "Buy original Włocławek faience as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Staudamm ist ein guter Ort für technische Fotografie.",
+          "Parken Sie im Zentrum in der Wzorcownia.",
+          "Die See-Aussichtspunkte sind per Auto am besten erreichbar."
+        ],
+        "hu": [
+          "A vízlépcső kiváló helyszín ipari fotózáshoz.",
+          "A belvárosban a Wzorcowniában érdemes parkolni.",
+          "A tóparti kilátópontok autóval érhetők el a legjobban."
+        ],
+        "ro": [
+          "Barajul este un loc excelent pentru fotografia tehnică.",
+          "Parcați în centru la Wzorcownia.",
+          "Punctele de belvedere ale lacului sunt cel mai bine accesibile cu mașina."
+        ],
+        "en": [
+          "The dam is a great spot for industrial and technical photography.",
+          "Park at the Wzorcownia in the city center.",
+          "Lake viewpoints are best reached and explored by car."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,901 @@
+{
+  "city_id": "uk-totteridge-cities-v2",
+  "anchor": {
+    "name": "Totteridge (The Green)",
+    "coords": [
+      -0.198,
+      51.633
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Totteridge Green",
+          "coords": [
+            -0.205,
+            51.631
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Klassischer Dorfanger mit alten Bäumen.",
+            "hu": "Klasszikus falusi mező öreg fákkal.",
+            "ro": "Spațiu verde clasic de sat cu arbori bătrâni.",
+            "en": "Classic village green with ancient trees."
+          }
+        },
+        {
+          "name": "St Andrew's Church",
+          "coords": [
+            -0.208,
+            51.63
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie die tausendjährige Eibe auf dem Friedhof.",
+            "hu": "Nézze meg az ezeréves tiszafát a temetőben.",
+            "ro": "Vedeți tisa milenară din cimitir.",
+            "en": "See the thousand-year-old yew in the churchyard."
+          }
+        },
+        {
+          "name": "The Orange Tree (Historic Pub)",
+          "coords": [
+            -0.206,
+            51.631
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wunderschönes Gebäude aus dem 17. Jahrhundert.",
+            "hu": "Gyönyörű 17. századi épület.",
+            "ro": "Clădire frumoasă din secolul al XVII-lea.",
+            "en": "Beautiful 17th-century building."
+          }
+        },
+        {
+          "name": "Dollis Valley Greenwalk",
+          "coords": [
+            -0.19,
+            51.625
+          ],
+          "category": "nature",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Pfad entlang des Baches.",
+            "hu": "Kövesse az ösvényt a patak mentén.",
+            "ro": "Urmați poteca de-a lungul pârâului.",
+            "en": "Follow the path along the brook."
+          }
+        },
+        {
+          "name": "Lunch at Totteridge Village",
+          "coords": [
+            -0.195,
+            51.632
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gemütliche lokale Atmosphäre.",
+            "hu": "Hangulatos helyi légkör.",
+            "ro": "Atmosferă locală primitoare.",
+            "en": "Cozy local atmosphere."
+          }
+        },
+        {
+          "name": "Darlands Nature Reserve",
+          "coords": [
+            -0.215,
+            51.622
+          ],
+          "category": "nature",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für Wildtierbeobachtungen.",
+            "hu": "Ideális vadvilág megfigyelésére.",
+            "ro": "Ideal pentru observarea faunei sălbatice.",
+            "en": "Ideal for wildlife spotting."
+          }
+        },
+        {
+          "name": "Totteridge Lane Viewpoint",
+          "coords": [
+            -0.198,
+            51.633
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Blick über die Hügel von North London.",
+            "hu": "Kilátás Észak-London dombjaira.",
+            "ro": "Vedere peste dealurile din nordul Londrei.",
+            "en": "Views across North London's hills."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im idyllischen Totteridge Green und besuchen Sie die historische St. Andrew's Church. Wandern Sie auf dem Dollis Valley Greenwalk und tauchen Sie in das Darlands Nature Reserve ein, um die ländliche Seite Londons zu erleben.",
+        "hu": "Kezdje a napot az idilli Totteridge Green-nél, és látogassa meg a történelmi Szent András-templomot. Túrázzon a Dollis Valley Greenwalkon, és merüljön el a Darlands természetvédelmi területben, hogy megtapasztalja London vidéki oldalát.",
+        "ro": "Începeți ziua la idilicul Totteridge Green și vizitați biserica istorică St Andrew. Mergeți pe Dollis Valley Greenwalk și cufundați-vă în rezervația naturală Darlands pentru a experimenta latura rurală a Londrei.",
+        "en": "Start your day at the idyllic Totteridge Green and visit the historic St Andrew's Church. Hike the Dollis Valley Greenwalk and immerse yourself in Darlands Nature Reserve to experience London's rural side."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Orange Tree",
+            "tip": "Hervorragender Sonntagsbraten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Orange Tree",
+            "tip": "Kiváló vasárnapi sült."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Orange Tree",
+            "tip": "Friptură excelentă de duminică."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Orange Tree",
+            "tip": "Excellent Sunday roast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Darlands Lake",
+            "tip": "Ruhe am Wasser inmitten von Feldern.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Darlands-tó",
+            "tip": "Vízparti nyugalom a mezők közepén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Darlands",
+            "tip": "Liniște pe malul apei în mijlocul câmpurilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Darlands Lake",
+            "tip": "Waterside peace amidst fields.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Waitrose Totteridge",
+            "tip": "Hochwertige Lebensmittel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waitrose Totteridge",
+            "tip": "Minőségi élelmiszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Waitrose Totteridge",
+            "tip": "Alimente de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waitrose Totteridge",
+            "tip": "High-quality groceries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Wege können nach Regen schlammig sein.",
+          "Respektieren Sie die privaten Anwesen."
+        ],
+        "hu": [
+          "Néhány ösvény eső után sáros lehet.",
+          "Tartsa tiszteletben a magánbirtokokat."
+        ],
+        "ro": [
+          "Unele poteci pot fi noroioase după ploaie.",
+          "Respectați proprietățile private."
+        ],
+        "en": [
+          "Some paths can be muddy after rain.",
+          "Respect the private estates."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 14.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Totteridge Common Loop",
+          "coords": [
+            -0.22,
+            51.628
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Hügelige und grüne Strecke.",
+            "hu": "Dombos és zöld útvonal.",
+            "ro": "Traseu deluros și verde.",
+            "en": "Hilly and green route."
+          }
+        },
+        {
+          "name": "Burtonhole Lane",
+          "coords": [
+            -0.21,
+            51.615
+          ],
+          "category": "nature",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ländliche Idylle am Rande der Stadt.",
+            "hu": "Vidéki idill a város szélén.",
+            "ro": "Idilă rurală la marginea orașului.",
+            "en": "Rural idyll on the edge of the city."
+          }
+        },
+        {
+          "name": "South Herts Golf Club (Peripheral)",
+          "coords": [
+            -0.185,
+            51.628
+          ],
+          "category": "park",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schöne Aussicht auf den Platz.",
+            "hu": "Szép kilátás a pályára.",
+            "ro": "Vedere frumoasă spre teren.",
+            "en": "Nice views of the course."
+          }
+        },
+        {
+          "name": "Lunch at Whetstone High Rd",
+          "coords": [
+            -0.172,
+            51.627
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Große Auswahl an Lokalen.",
+            "hu": "Éttermek széles választéka.",
+            "ro": "O mare varietate de localuri.",
+            "en": "Large variety of eateries."
+          }
+        },
+        {
+          "name": "Long Lane Nature Reserve",
+          "coords": [
+            -0.18,
+            51.615
+          ],
+          "category": "nature",
+          "arrive_at": "14:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kleiner Naturschatz.",
+            "hu": "Egy apró természeti kincs.",
+            "ro": "O mică comoară naturală.",
+            "en": "A small natural treasure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die weiten Grünflächen von Totteridge Common, erkunden Sie die Burtonhole Lane und kehren Sie für ein ausgiebiges Mittagessen im benachbarten Whetstone ein.",
+        "hu": "Kerekezzen keresztül Totteridge Common tágas zöldterületein, fedezze fel a Burtonhole Lane-t, és térjen be egy bőséges ebédre a szomszédos Whetstone-ban.",
+        "ro": "Pedalați prin spațiile verzi vaste din Totteridge Common, explorați Burtonhole Lane și opriți-vă pentru un prânz copios în Whetstone-ul învecinat.",
+        "en": "Cycle through the wide green spaces of Totteridge Common, explore Burtonhole Lane, and stop for a substantial lunch in neighboring Whetstone."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Griffin",
+            "tip": "Beliebtes Pub in Whetstone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Griffin",
+            "tip": "Népszerű pub Whetstone-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Griffin",
+            "tip": "Pub popular în Whetstone."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Griffin",
+            "tip": "Popular pub in Whetstone."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Folly Farm",
+            "tip": "Spüren Sie das ländliche London.",
+            "emoji": "🐄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folly Farm",
+            "tip": "Érezze a vidéki Londont.",
+            "emoji": "🐄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ferma Folly",
+            "tip": "Simțiți Londra rurală.",
+            "emoji": "🐄"
+          }
+        ],
+        "en": [
+          {
+            "name": "Folly Farm",
+            "tip": "Feel rural London.",
+            "emoji": "🐄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Whetstone High Road",
+            "tip": "Fachgeschäfte und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Whetstone High Road",
+            "tip": "Szaküzletek és butikok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Whetstone High Road",
+            "tip": "Magazine specializate și boutique-uri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Whetstone High Road",
+            "tip": "Specialty shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Totteridge Lane ist verkehrsreich.",
+          "Nutzen Sie die Nebenstraßen zum Radeln."
+        ],
+        "hu": [
+          "A Totteridge Lane forgalmas.",
+          "Használja a mellékutcákat a kerékpározáshoz."
+        ],
+        "ro": [
+          "Totteridge Lane este aglomerată.",
+          "Utilizați străzile laterale pentru ciclism."
+        ],
+        "en": [
+          "Totteridge Lane is busy with traffic.",
+          "Use side roads for cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Totteridge Green Parking",
+          "coords": [
+            -0.205,
+            51.631
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken am Straßenrand oft möglich.",
+            "hu": "Az út menti parkolás gyakran lehetséges.",
+            "ro": "Parcarea pe marginea drumului este adesea posibilă.",
+            "en": "On-street parking often available."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": "St Andrew's Church",
+          "coords": [
+            -0.208,
+            51.63
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurze Fahrt oder Spaziergang.",
+            "hu": "Rövid út vagy séta.",
+            "ro": "Drum scurt sau plimbare.",
+            "en": "Short drive or walk."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Darlands Nature Reserve Parking",
+          "coords": [
+            -0.215,
+            51.622
+          ],
+          "category": "nature",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Begrenzter Platz an der Long Lane.",
+            "hu": "Korlátozott hely a Long Lane-en.",
+            "ro": "Spațiu limitat pe Long Lane.",
+            "en": "Limited space on Long Lane."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": "Lunch at The Rising Sun",
+          "coords": [
+            -0.24,
+            51.625
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Malerisches Pub in Mill Hill.",
+            "hu": "Festői pub Mill Hill-ben.",
+            "ro": "Pub pitoresc în Mill Hill.",
+            "en": "Picturesque pub in Mill Hill."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": "Mill Hill Village (Nearby)",
+          "coords": [
+            -0.235,
+            51.618
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein weiteres charmantes Hochdorf.",
+            "hu": "Egy újabb bájos magaslati falu.",
+            "ro": "Un alt sat de deal fermecător.",
+            "en": "Another charming hilltop village."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Belmont Farm (Family Stop)",
+          "coords": [
+            -0.245,
+            51.63
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Toll für Kinder.",
+            "hu": "Nagyszerű gyerekeknek.",
+            "ro": "Excelent pentru copii.",
+            "en": "Great for children."
+          },
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um die ländlichen Perlen von North London zu verbinden. Von Totteridge geht es zum benachbarten Mill Hill Village für ein gemütliches Mittagessen und einen Besuch auf der Belmont Farm.",
+        "hu": "Használja az autót Észak-London vidéki gyöngyszemeinek összekötéséhez. Totteridge-ből menjen a szomszédos Mill Hill faluba egy kellemes ebédre és a Belmont Farm meglátogatására.",
+        "ro": "Utilizați mașina pentru a lega perlele rurale din nordul Londrei. De la Totteridge, mergeți la satul Mill Hill vecin pentru un prânz plăcut și o vizită la ferma Belmont.",
+        "en": "Use the car to link North London's rural gems. From Totteridge, head to neighboring Mill Hill village for a pleasant lunch and a visit to Belmont Farm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Rising Sun",
+            "tip": "Traditionelles Pub mit schönem Garten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Rising Sun",
+            "tip": "Hagyományos pub szép kerttel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Rising Sun",
+            "tip": "Pub tradițional cu o grădină frumoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Rising Sun",
+            "tip": "Traditional pub with a lovely garden."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mill Hill Common",
+            "tip": "Weite Ausblicke und Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mill Hill Common",
+            "tip": "Tágas kilátás és nyugalom.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mill Hill Common",
+            "tip": "Vederi largi și liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mill Hill Common",
+            "tip": "Wide views and peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mill Hill Village Store",
+            "tip": "Lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mill Hill falusi bolt",
+            "tip": "Helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul satului Mill Hill",
+            "tip": "Produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mill Hill Village Store",
+            "tip": "Local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng und kurvig.",
+          "Einige Gebiete liegen in der ULEZ-Zone."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak.",
+          "Néhány terület az ULEZ zónába esik."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și sinuoase.",
+          "Unele zone sunt în zona ULEZ."
+        ],
+        "en": [
+          "Roads are narrow and winding.",
+          "Some areas fall within the ULEZ zone."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Totteridge & Whetstone Station",
+          "coords": [
+            -0.179,
+            51.63
+          ],
+          "category": "landmark",
+          "arrive_at": "09:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Northern Line (High Barnet Branch).",
+            "hu": "Northern Line (High Barnet ág).",
+            "ro": "Linia Northern (ramura High Barnet).",
+            "en": "Northern Line (High Barnet branch)."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": "Totteridge Village Stop",
+          "coords": [
+            -0.198,
+            51.633
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bus 251 verbindet die Station mit dem Dorf.",
+            "hu": "A 251-es busz összeköti az állomást a faluval.",
+            "ro": "Autobuzul 251 leagă gara de sat.",
+            "en": "Bus 251 connects the station to the village."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": "Totteridge Green Walk",
+          "coords": [
+            -0.205,
+            51.631
+          ],
+          "category": "park",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schöner Spaziergang ab der Bushaltestelle.",
+            "hu": "Szép séta a buszmegállótól.",
+            "ro": "Plimbare frumoasă de la stația de autobuz.",
+            "en": "Lovely walk from the bus stop."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Lunch at Whetstone",
+          "coords": [
+            -0.172,
+            51.627
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Große Auswahl an Cafés und Restaurants.",
+            "hu": "Kávézók és éttermek széles választéka.",
+            "ro": "O selecție largă de cafenele și restaurante.",
+            "en": "Wide selection of cafes and restaurants."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": "Swan Lane Park",
+          "coords": [
+            -0.175,
+            51.62
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger lokaler Park.",
+            "hu": "Csendes helyi park.",
+            "ro": "Un parc local liniștit.",
+            "en": "A quiet local park."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kommen Sie mit der U-Bahn an und nutzen Sie den lokalen Bus, um ins Herz des Dorfes Totteridge zu gelangen. Genießen Sie die Natur und kehren Sie nach Whetstone zurück, um die lokale Gastronomie zu entdecken.",
+        "hu": "Érkezzen metróval, és használja a helyi buszt, hogy eljusson Totteridge falu szívébe. Élvezze a természetet, majd térjen vissza Whetstone-ba, hogy felfedezze a helyi gasztronómiát.",
+        "ro": "Sosiți cu metroul și utilizați autobuzul local pentru a ajunge în inima satului Totteridge. Bucurați-vă de natură, apoi reveniți în Whetstone pentru a descoperi gastronomia locală.",
+        "en": "Arrive by Underground and use the local bus to reach the heart of Totteridge village. Enjoy the nature and return to Whetstone to discover the local gastronomy."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haven Bistro",
+            "tip": "Gemütliches französisches Bistro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haven Bistro",
+            "tip": "Hangulatos francia bisztró."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haven Bistro",
+            "tip": "Bistro franțuzesc primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haven Bistro",
+            "tip": "Cozy French bistro."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Totteridge Fields",
+            "tip": "Weite offene Räume.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Totteridge-i mezők",
+            "tip": "Tágas nyílt terek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpiile Totteridge",
+            "tip": "Spații deschise vaste.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Totteridge Fields",
+            "tip": "Wide open spaces.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Whetstone Bookshop",
+            "tip": "Charmante Buchhandlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Whetstone könyvesbolt",
+            "tip": "Bájos könyvesbolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria Whetstone",
+            "tip": "Librărie fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Whetstone Bookshop",
+            "tip": "Charming bookstore."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Oyster Card oder Contactless.",
+          "Busse fahren regelmäßig."
+        ],
+        "hu": [
+          "Használja Oyster kártyáját vagy érintéses fizetést.",
+          "A buszok rendszeresen járnak."
+        ],
+        "ro": [
+          "Utilizați cardul Oyster sau plata contactless.",
+          "Autobuzele circulă regulat."
+        ],
+        "en": [
+          "Use your Oyster card or contactless.",
+          "Buses run frequently."
+        ]
+      }
+    }
+  }
+}

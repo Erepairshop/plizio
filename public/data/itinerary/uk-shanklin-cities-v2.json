@@ -1,0 +1,870 @@
+{
+  "city_id": "uk-shanklin-cities-v2",
+  "anchor": {
+    "name": "Shanklin Old Village",
+    "coords": [
+      -1.178,
+      50.626
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Shanklin Old Village",
+          "coords": [
+            -1.178,
+            50.626
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Reetdachkaten.",
+            "hu": "Csodálja meg a nádfedeles házakat.",
+            "ro": "Admirați căsuțele cu acoperiș de paie.",
+            "en": "Admire the beautiful thatched-roof cottages."
+          }
+        },
+        {
+          "name": "Shanklin Chine",
+          "coords": [
+            -1.174,
+            50.627
+          ],
+          "category": "natural",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Schluchtweg.",
+            "hu": "Látványos szurdokvölgy a tengerig.",
+            "ro": "Un traseu spectaculos prin defileu.",
+            "en": "A spectacular historic wooded coastal ravine."
+          }
+        },
+        {
+          "name": "Shanklin Seafront",
+          "coords": [
+            -1.17,
+            50.628
+          ],
+          "category": "beach",
+          "arrive_at": "11:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sandstrand.",
+            "hu": "Élvezze a finom homokos strandot.",
+            "ro": "Bucurați-vă de plaja cu nisip fin.",
+            "en": "Enjoy the long stretch of golden sandy beach."
+          }
+        },
+        {
+          "name": "The Esplanade",
+          "coords": [
+            -1.168,
+            50.632
+          ],
+          "category": "square",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Traditionelle Vergnügungshallen.",
+            "hu": "Hagyományos vidámparti szórakozás.",
+            "ro": "Distracții tradiționale pe faleză.",
+            "en": "Traditional seaside amusements and arcades."
+          }
+        },
+        {
+          "name": "Cliff Top Path",
+          "coords": [
+            -1.176,
+            50.622
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Atemberaubender Blick auf die Bucht.",
+            "hu": "Lélegzetelállító kilátás az öbölre.",
+            "ro": "Vedere uluitoare asupra golfului.",
+            "en": "Breathtaking views across Sandown Bay."
+          }
+        },
+        {
+          "name": "Rylstone Gardens",
+          "coords": [
+            -1.179,
+            50.625
+          ],
+          "category": "garden",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Oft gibt es hier Live-Musik.",
+            "hu": "Gyakran hallható itt élő fúvószene.",
+            "ro": "Adesea puteți asculta muzică live aici.",
+            "en": "Enjoy frequent live brass band performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Shanklin bietet den Charme eines viktorianischen Seebads. Starten Sie im reizvollen Old Village, wandern Sie durch die üppige Shanklin Chine zum Meer und verbringen Sie den Mittag am Strand. Ein Spaziergang auf den Klippen bietet zum Abschluss tolle Panoramablicke.",
+        "hu": "Shanklin a viktoriánus tengerparti üdülőhelyek báját idézi. Kezdjen a nádfedeles Ófaluban, haladjon át a Shanklin Chine szurdokon a tengerig, majd töltse a délutánt a strandon. A napot a szirtparti sétány panorámájával zárja.",
+        "ro": "Shanklin oferă farmecul unei stațiuni victoriene. Începeți în Satul Vechi, mergeți prin Shanklin Chine până la mare și petreceți amiaza pe plajă. Încheiați ziua cu o plimbare pe faleză pentru panorame superbe.",
+        "en": "Experience the quintessential Victorian seaside charm of Shanklin. Start in the thatched Old Village, descend through the lush Shanklin Chine to the sea, and enjoy the beach. Finish with a scenic cliff-top walk for stunning views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisherman's Cottage",
+            "tip": "Essen direkt am Fuße der Chine."
+          },
+          {
+            "name": "Old Village Tea Rooms",
+            "tip": "Traditioneller Afternoon Tea."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fisherman's Cottage",
+            "tip": "Ételek közvetlenül a szurdok aljánál."
+          },
+          {
+            "name": "Old Village Tea Rooms",
+            "tip": "Hagyományos délutáni tea."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fisherman's Cottage",
+            "tip": "Mâncare chiar la baza defileului."
+          },
+          {
+            "name": "Old Village Tea Rooms",
+            "tip": "Ceai de după-amiază tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Cottage",
+            "tip": "Quaint pub at the base of the Chine."
+          },
+          {
+            "name": "Old Village Tea Rooms",
+            "tip": "Famous for traditional afternoon cream tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rylstone Gardens",
+            "tip": "Sehr friedlich am Nachmittag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rylstone Gardens",
+            "tip": "Nagyon békés hely délutáni pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Rylstone",
+            "tip": "Foarte liniștit după-amiaza.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rylstone Gardens",
+            "tip": "A peaceful escape from the busy seafront.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Old Village Gift Shops",
+            "tip": "Lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ófalu ajándékboltjai",
+            "tip": "Helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în Satul Vechi",
+            "tip": "Artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Village Gift Shops",
+            "tip": "Perfect for unique local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Shanklin Chine kostet Eintritt.",
+          "Nutzen Sie den Klippenlift zum Strand."
+        ],
+        "hu": [
+          "A Shanklin Chine belépődíjas.",
+          "Használja a szirtliftet a strand eléréséhez."
+        ],
+        "ro": [
+          "Intrarea la Shanklin Chine este contra cost.",
+          "Folosiți liftul de pe stâncă spre plajă."
+        ],
+        "en": [
+          "Shanklin Chine has an entry fee.",
+          "Use the Shanklin Cliff Lift to save your legs."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Shanklin Esplanade",
+          "coords": [
+            -1.168,
+            50.632
+          ],
+          "category": "beach",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radweg entlang der Küste.",
+            "hu": "Kerékpárút a part mentén.",
+            "ro": "Pistă de biciclete de-a lungul coastei.",
+            "en": "Ride along the scenic coastal cycle path."
+          }
+        },
+        {
+          "name": "Sandown Bay",
+          "coords": [
+            -1.152,
+            50.654
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Toller Blick zurück auf Shanklin.",
+            "hu": "Szép kilátás vissza Shanklinre.",
+            "ro": "Vedere frumoasă înapoi spre Shanklin.",
+            "en": "Great views looking back towards Shanklin."
+          }
+        },
+        {
+          "name": "Lake Village",
+          "coords": [
+            -1.164,
+            50.645
+          ],
+          "category": "square",
+          "arrive_at": "12:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ruhigerer Ort zwischen den Städten.",
+            "hu": "Csendesebb falu a két város között.",
+            "ro": "Sat mai liniștit între orașe.",
+            "en": "A quieter village between the main resorts."
+          }
+        },
+        {
+          "name": "The Steamer Inn",
+          "coords": [
+            -1.171,
+            50.628
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Gutes Essen mit Meerblick.",
+            "hu": "Kiváló ételek tengeri kilátással.",
+            "ro": "Mâncare excelentă cu vedere la mare.",
+            "en": "Hearty food with great sea views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie die frische Meeresbrise auf dieser entspannten Radtour entlang der Bucht. Von Shanklin aus fahren Sie bequem nach Sandown und genießen unterwegs die weiten Ausblicke auf den Ärmelkanal.",
+        "hu": "Élvezze a friss tengeri szellőt ezen a pihentető kerékpártúrán az öböl mentén. Shanklinből könnyen áttekerhet Sandownba, útközben végig a tenger látványában gyönyörködve.",
+        "ro": "Bucurați-vă de briza mării în această tură relaxantă cu bicicleta de-a lungul golfului. De la Shanklin pedalați ușor spre Sandown, admirând vederea spre mare.",
+        "en": "Enjoy the fresh sea breeze on this relaxed cycle ride along the bay. Follow the coastal paths from Shanklin to Sandown, taking in the expansive views of the English Channel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Steamer Inn",
+            "tip": "Maritime Atmosphäre am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Steamer Inn",
+            "tip": "Hangulatos tengerparti fogadó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Steamer Inn",
+            "tip": "Atmosferă maritimă pe malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Steamer Inn",
+            "tip": "Nautical-themed pub right on the seafront."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sandown Coastal Path",
+            "tip": "Weniger los als im Zentrum.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandown partmenti út",
+            "tip": "Csendesebb szakaszok a tömeg után.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă Sandown",
+            "tip": "Mai puțin aglomerat decât centrul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandown Coastal Path",
+            "tip": "Quieter stretches away from the resorts.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Beach Kiosks",
+            "tip": "Eis und Strandspielzeug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti kioszkok",
+            "tip": "Fagylalt és strandcikkek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri pe plajă",
+            "tip": "Înghețată și articole de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Kiosks",
+            "tip": "Great for ice cream and beach essentials."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Fahren Sie vorsichtig bei starkem Wind."
+        ],
+        "hu": [
+          "A sétányon figyeljen a gyalogosokra.",
+          "Erős szélben legyen óvatos a tekeréssel."
+        ],
+        "ro": [
+          "Atenție la pietoni pe faleză.",
+          "Fiți atenți la vântul puternic pe coastă."
+        ],
+        "en": [
+          "Be mindful of pedestrians on the shared promenade.",
+          "Take care when cycling in strong coastal winds."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Shanklin Old Village Cluster",
+          "coords": [
+            -1.178,
+            50.626
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parkplatz Vernon Meadow nutzen.",
+            "hu": "A Vernon Meadow parkolót javasoljuk.",
+            "ro": "Folosiți parcarea Vernon Meadow.",
+            "en": "Park at Vernon Meadow for the Old Village."
+          }
+        },
+        {
+          "name": "Shanklin Chine",
+          "coords": [
+            -1.174,
+            50.627
+          ],
+          "category": "natural",
+          "arrive_at": "10:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "A very short walk from the cluster park."
+          }
+        },
+        {
+          "name": "Appuldurcombe House (Nearby)",
+          "coords": [
+            -1.223,
+            50.618
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Beeindruckende Barockruine.",
+            "hu": "Lenyűgöző barokk romkastély.",
+            "ro": "O ruină barocă impresionantă.",
+            "en": "A grand and historic baroque house ruin."
+          }
+        },
+        {
+          "name": "Ventnor Botanic Garden",
+          "coords": [
+            -1.228,
+            50.589
+          ],
+          "category": "garden",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Einzigartiges Mikroklima.",
+            "hu": "Egyedülálló mikroklíma a déli parton.",
+            "ro": "Microclimat unic pe coasta de sud.",
+            "en": "Features a unique sub-tropical microclimate."
+          }
+        },
+        {
+          "name": "Shanklin Esplanade Cluster",
+          "coords": [
+            -1.171,
+            50.628
+          ],
+          "category": "beach",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Parkplatz direkt an der Esplanade.",
+            "hu": "Parkoló közvetlenül a parti sétánynál.",
+            "ro": "Parcare chiar pe esplanadă.",
+            "en": "Parking is available directly on the esplanade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt es Ihnen, neben Shanklin auch das Hinterland und Ventnor zu erkunden. Besuchen Sie die majestätischen Ruinen von Appuldurcombe House und den tropischen botanischen Garten von Ventnor, bevor Sie zum Abendessen nach Shanklin zurückkehren.",
+        "hu": "Az autóval Shanklin mellett a belső területeket és Ventnort is felfedezheti. Látogassa meg Appuldurcombe barokk romjait és a ventnori trópusi botanikus kertet, majd térjen vissza Shanklinbe a naplementére.",
+        "ro": "Mașina vă permite să explorați spatele coastei și Ventnor. Vizitați ruinele Appuldurcombe House și grădina botanică din Ventnor înainte de a reveni în Shanklin.",
+        "en": "Having a car lets you easily visit nearby gems like the grand ruins of Appuldurcombe House and the sub-tropical Ventnor Botanic Garden, all just a short drive from Shanklin's centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Edulis Restaurant",
+            "tip": "In den botanischen Gärten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Edulis Étterem",
+            "tip": "A botanikus kert területén található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Edulis",
+            "tip": "Situat în grădina botanică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Edulis Restaurant",
+            "tip": "Located within the beautiful Botanic Garden."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Appuldurcombe Park",
+            "tip": "Sehr ruhig und weitläufig.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Appuldurcombe Park",
+            "tip": "Nagyon csendes és tágas parkterület.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Appuldurcombe",
+            "tip": "Foarte liniștit și vast.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Appuldurcombe Park",
+            "tip": "A very quiet and expansive parkland area.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ventnor Shops",
+            "tip": "Antiquitäten und Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ventnor boltjai",
+            "tip": "Régiségek és helyi művészeti galériák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Ventnor",
+            "tip": "Antichități și artă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ventnor Independent Shops",
+            "tip": "Great for antiques and local art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen nach Ventnor sind kurvig.",
+          "Parken an der Esplanade ist im Sommer schwierig."
+        ],
+        "hu": [
+          "A Ventnorba vezető utak kanyargósak.",
+          "A parti parkolás nyáron nehézkes lehet."
+        ],
+        "ro": [
+          "Drumurile spre Ventnor sunt virajate.",
+          "Parcarea pe faleză este dificilă vara."
+        ],
+        "en": [
+          "Roads towards Ventnor can be narrow and winding.",
+          "Esplanade parking fills up quickly in peak summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Shanklin Railway Station",
+          "coords": [
+            -1.183,
+            50.63
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Endstation der Island Line.",
+            "hu": "Az Island Line vasút végállomása.",
+            "ro": "Capătul liniei feroviare Island Line.",
+            "en": "Terminus of the Island Line railway."
+          }
+        },
+        {
+          "name": "Shanklin Old Village",
+          "coords": [
+            -1.178,
+            50.626
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "10 Min. Fußweg von der Station.",
+            "hu": "10 perc séta az állomástól.",
+            "ro": "10 min. de mers pe jos de la gară.",
+            "en": "A pleasant 10-minute walk from the station."
+          }
+        },
+        {
+          "name": "Shanklin Chine",
+          "coords": [
+            -1.174,
+            50.627
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Eingang ist gut ausgeschildert.",
+            "hu": "A bejárat jól ki van táblázva.",
+            "ro": "Intrarea este bine semnalizată.",
+            "en": "The entrance is clearly signposted in the village."
+          }
+        },
+        {
+          "name": "Seafront & Promenade",
+          "coords": [
+            -1.171,
+            50.628
+          ],
+          "category": "beach",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einfach zu Fuß von der Chine aus.",
+            "hu": "Könnyen elérhető séta a Chine aljától.",
+            "ro": "Acces ușor de la baza Chine-ului.",
+            "en": "Easy walk from the lower exit of the Chine."
+          }
+        },
+        {
+          "name": "Shanklin Cliff Lift",
+          "coords": [
+            -1.17,
+            50.632
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schneller Weg nach oben.",
+            "hu": "Gyors feljutás a sziklatetőre.",
+            "ro": "Calea rapidă spre vârful stâncii.",
+            "en": "The fastest way to reach the cliff top."
+          }
+        },
+        {
+          "name": "Keats Green",
+          "coords": [
+            -1.173,
+            50.631
+          ],
+          "category": "park",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Benannt nach dem Dichter John Keats.",
+            "hu": "John Keats költőről elnevezett sétány.",
+            "ro": "Numit după poetul John Keats.",
+            "en": "Named after the poet John Keats who visited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Zug erreichen Sie Shanklin bequem. Genießen Sie den Tag zwischen dem historischen Dorf und dem Sandstrand. Der Klippenlift spart Ihnen den mühsamen Aufstieg und bietet gleichzeitig tolle Ausblicke auf die See.",
+        "hu": "Vonattal kényelmesen elérhető Shanklin. Töltse a napot a történelmi falu és a homokos strand között. A szirtlift megkíméli a fárasztó hegymenettől, és közben pazar kilátást nyújt a tengerre.",
+        "ro": "Shanklin este ușor accesibil cu trenul. Petreceți ziua între satul istoric și plaja de nisip. Liftul de pe stâncă vă scutește de urcare și oferă vederi superbe.",
+        "en": "Shanklin is easily reached by train. Spend a relaxing day transitioning from the historic village down to the golden sands. The cliff lift provides a scenic way to return to the top without the climb."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Crab Inn",
+            "tip": "Berühmter Pub im Old Village."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Crab Inn",
+            "tip": "Híres nádfedeles pub az Ófaluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Crab Inn",
+            "tip": "Pub faimos în Satul Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Crab Inn",
+            "tip": "Famous thatched pub in the heart of the Old Village."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Keats Green",
+            "tip": "Friedliche Aussicht auf das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keats Green",
+            "tip": "Békés kilátás a tengerre a padokról.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Keats Green",
+            "tip": "Vedere liniștită spre mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Keats Green",
+            "tip": "Peaceful sea views from the clifftop benches.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regent Street Shops",
+            "tip": "Lokale Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regent Street boltjai",
+            "tip": "Helyi bevásárlóutca a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Regent Street",
+            "tip": "Strada comercială principală locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regent Street",
+            "tip": "The town's main local shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Island Line nutzt alte Londoner U-Bahn-Züge.",
+          "Abends ist die Chine beleuchtet."
+        ],
+        "hu": [
+          "Az Island Line régi londoni metrókocsikat használ.",
+          "Este a szurdok kivilágítva várja a látogatókat."
+        ],
+        "ro": [
+          "Island Line folosește vechi vagoane de metrou londoneze.",
+          "Seara, defileul este iluminat festiv."
+        ],
+        "en": [
+          "The Island Line uses repurposed London Underground trains.",
+          "The Chine is beautifully illuminated in the evenings."
+        ]
+      }
+    }
+  }
+}

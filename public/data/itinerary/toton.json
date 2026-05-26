@@ -1,0 +1,888 @@
+{
+  "city_id": "toton",
+  "anchor": {
+    "name": "Toton Sidings",
+    "coords": [
+      -1.264,
+      52.91
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Toton Lane Tram Stop",
+          "coords": [
+            -1.255,
+            52.918
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Moderner Tram-Knotenpunkt.",
+            "hu": "Modern villamos csomópont.",
+            "ro": "Hub modern de tramvai.",
+            "en": "Modern tram hub."
+          }
+        },
+        {
+          "name": "Manor Farm Recreation Ground",
+          "coords": [
+            -1.265,
+            52.912
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Große Sport- und Grünanlage.",
+            "hu": "Nagy sport- és zöldterület.",
+            "ro": "Zonă mare de sport și verdeață.",
+            "en": "Large sport and green space."
+          }
+        },
+        {
+          "name": "Toton Sidings View",
+          "coords": [
+            -1.268,
+            52.908
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Blick auf das Bahndepot.",
+            "hu": "Kilátás a vasúti depóra.",
+            "ro": "Vedere spre depoul feroviar.",
+            "en": "View of the railway depot."
+          }
+        },
+        {
+          "name": "Erewash Canal Path",
+          "coords": [
+            -1.272,
+            52.905
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Idyllischer Kanalspaziergang.",
+            "hu": "Idilli csatornaparti séta.",
+            "ro": "Plimbare idilică pe canal.",
+            "en": "Idyllic canal walk."
+          }
+        },
+        {
+          "name": "Attenborough Nature Reserve Edge",
+          "coords": [
+            -1.26,
+            52.9
+          ],
+          "category": "park",
+          "arrive_at": "14:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Vogelbeobachtung möglich.",
+            "hu": "Madármegfigyelés lehetséges.",
+            "ro": "Observarea păsărilor posibilă.",
+            "en": "Birdwatching possible here."
+          }
+        },
+        {
+          "name": "Bentinck Avenue Gastro",
+          "coords": [
+            -1.262,
+            52.91
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschluss im lokalen Pub.",
+            "hu": "Zárás egy helyi pubban.",
+            "ro": "Final într-un pub local.",
+            "en": "Finish at a local pub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Toton bietet eine Mischung aus moderner Infrastruktur und grünen Rückzugsorten. Beginnen Sie an der Tramstation und wandern Sie durch weitläufige Parks.\n\nMittags erreichen Sie die berühmten Toton Sidings. Für Eisenbahnfans ist der Blick auf eines der größten Depots des Landes ein Muss.\n\nDer Nachmittag führt Sie an den ruhigen Erewash Canal. Das sanfte Plätschern des Wassers und die vorbeiziehenden Kähne strahlen pure Entspannung aus.\n\nBeenden Sie Ihre Wanderung in den Wohnstraßen von Toton, wo gemütliche Pubs zur Einkehr einladen.",
+        "hu": "Toton a modern infrastruktúra és a zöld menedékek keverékét kínálja. Kezdjen a villamosmegállónál, és kalandozzon a tágas parkokon keresztül.\n\nDélben érje el a híres Toton Sidings vasúti depót. A vasútrajongók számára kötelező látnivaló az ország egyik legnagyobb depójára nyíló kilátás.\n\nA délután a csendes Erewash-csatornához vezeti. A víz halk csobogása és az elhaladó bárkák tiszta kikapcsolódást ígérnek.\n\nZárja a túrát Toton lakóutcáiban, ahol hangulatos pubok várják a pihenni vágyókat.",
+        "ro": "Toton oferă un amestec de infrastructură modernă și refugii verzi. Începeți la stația de tramvai și aventurați-vă prin parcurile întinse.\n\nLa prânz, ajungeți la celebrul depou Toton Sidings. Pentru pasionații de căi ferate, vederea spre unul dintre cele mai mari depouri din țară este obligatorie.\n\nDupă-amiaza vă poartă pe liniștitul canal Erewash. Susurul apei și barjele care trec oferă o relaxare totală.\n\nÎncheiați drumeția pe străzile rezidențiale din Toton, unde pub-uri primitoare vă așteaptă pentru odihnă.",
+        "en": "Toton offers a mix of modern infrastructure and green retreats. Start at the tram stop and wander through expansive parks.\n\nBy midday, reach the famous Toton Sidings. For railway enthusiasts, the view of one of the country's largest depots is a must-see.\n\nIn the afternoon, follow the peaceful Erewash Canal. The gentle sound of water and passing barges offer pure relaxation.\n\nEnd your walk in the residential streets of Toton, where cozy pubs welcome you for a break."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Manor",
+            "tip": "Traditionelles britisches Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Manor",
+            "tip": "Hagyományos brit konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Manor",
+            "tip": "Mâncare britanică tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Manor",
+            "tip": "Traditional British food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Erewash Canal",
+            "tip": "Stille am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erewash-csatorna",
+            "tip": "Csend a vízparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Erewash",
+            "tip": "Liniște pe malul apei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Erewash Canal",
+            "tip": "Quiet by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chilwell Retail Park",
+            "tip": "Große Marken in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chilwell Retail Park",
+            "tip": "Nagy márkák a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chilwell Retail Park",
+            "tip": "Branduri mari în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chilwell Retail Park",
+            "tip": "Major retail brands nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Tram ist die beste Anreise aus Nottingham.",
+          "Gute Wanderschuhe für den Kanalpfad.",
+          "Das Depot ist nicht öffentlich zugänglich."
+        ],
+        "hu": [
+          "A villamos a legjobb közlekedés Nottingham felől.",
+          "Jó túracipő ajánlott a csatornaparthoz.",
+          "A depó nem látogatható."
+        ],
+        "ro": [
+          "Tramvaiul este cea mai bună cale din Nottingham.",
+          "Încălțăminte de drumeție pentru canal.",
+          "Depoul nu este deschis publicului."
+        ],
+        "en": [
+          "Tram is the best way from Nottingham.",
+          "Good walking shoes for the canal path.",
+          "The depot is not open to the public."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Toton Lane",
+          "coords": [
+            -1.255,
+            52.918
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Startpunkt am Park & Ride.",
+            "hu": "Kiindulópont a P+R-nél.",
+            "ro": "Start la Park & Ride.",
+            "en": "Start at the Park & Ride."
+          }
+        },
+        {
+          "name": "Long Eaton Edge",
+          "coords": [
+            -1.275,
+            52.9
+          ],
+          "category": "park",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Flache Radstrecke.",
+            "hu": "Sík kerékpáros útvonal.",
+            "ro": "Traseu plat de ciclism.",
+            "en": "Flat cycling route."
+          }
+        },
+        {
+          "name": "Trent Lock",
+          "coords": [
+            -1.28,
+            52.875
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Wichtiger Kanalknoten.",
+            "hu": "Fontos csatornacsomópont.",
+            "ro": "Nod important de canale.",
+            "en": "Important canal junction."
+          }
+        },
+        {
+          "name": "Attenborough Reserve Path",
+          "coords": [
+            -1.24,
+            52.9
+          ],
+          "category": "park",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Natur pur erleben.",
+            "hu": "Tiszta természet élménye.",
+            "ro": "Experiență în natură pură.",
+            "en": "Pure nature experience."
+          }
+        },
+        {
+          "name": "Toton Sidings View",
+          "coords": [
+            -1.268,
+            52.908
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Züge.",
+            "hu": "Rövid megálló a vonatoknál.",
+            "ro": "Scurtă oprire la trenuri.",
+            "en": "Short stop for trains."
+          }
+        },
+        {
+          "name": "Toton Village",
+          "coords": [
+            -1.262,
+            52.912
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erholung nach der Tour.",
+            "hu": "Pihenés a túra után.",
+            "ro": "Relaxare după tur.",
+            "en": "Rest after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie mit dem Rad entlang des Kanals bis zum berühmten Trent Lock. Die flachen Wege um Toton sind ideal für eine entspannte Tour durch die Natur.",
+        "hu": "Kerékpározzon a csatorna mentén a híres Trent Lock-ig. Toton környékének sík útjai ideálisak egy pihentető túrához a természetben.",
+        "ro": "Pedalați pe malul canalului până la faimosul Trent Lock. Traseele plate din jurul Toton sunt ideale pentru un tur relaxant în natură.",
+        "en": "Cycle along the canal to the famous Trent Lock. The flat paths around Toton are ideal for a relaxing tour through nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Steamboat Inn",
+            "tip": "Pub direkt am Kanal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Steamboat Inn",
+            "tip": "Pub közvetlenül a csatornánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Steamboat Inn",
+            "tip": "Pub chiar pe canal."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Steamboat Inn",
+            "tip": "Pub right on the canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Trent Lock",
+            "tip": "Beobachten Sie die Schleusen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trent Lock",
+            "tip": "Figyelje a zsilipelést.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trent Lock",
+            "tip": "Urmăriți ecluzele.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trent Lock",
+            "tip": "Watch the locks in action.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Long Eaton Market",
+            "tip": "Naher lokaler Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Long Eaton piac",
+            "tip": "Közeli helyi piac."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Long Eaton",
+            "tip": "Piață locală în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Long Eaton Market",
+            "tip": "Nearby local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Klingel benutzen auf dem Kanalpfad.",
+          "Ausreichend Wasser mitnehmen.",
+          "Trent Lock ist am Wochenende belebt."
+        ],
+        "hu": [
+          "Használjuk a csengőt a csatornaparton.",
+          "Vigyünk elég vizet.",
+          "Trent Lock hétvégén forgalmas."
+        ],
+        "ro": [
+          "Folosiți soneria pe canal.",
+          "Luați suficientă apă.",
+          "Trent Lock este aglomerat în weekend."
+        ],
+        "en": [
+          "Use your bell on the canal path.",
+          "Take plenty of water.",
+          "Trent Lock is busy on weekends."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 22.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Toton Sidings Viewpoint",
+          "coords": [
+            -1.268,
+            52.908
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bequem erreichbar mit Auto.",
+            "hu": "Autóval könnyen elérhető.",
+            "ro": "Ușor accesibil cu mașina.",
+            "en": "Easily accessible by car."
+          }
+        },
+        {
+          "name": "Attenborough Nature Centre",
+          "coords": [
+            -1.233,
+            52.905
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vor Ort.",
+            "hu": "Nagy helyi parkoló.",
+            "ro": "Parcare mare la fața locului.",
+            "en": "Large on-site parking."
+          }
+        },
+        {
+          "name": "Wollaton Hall & Park",
+          "coords": [
+            -1.21,
+            52.948
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Prachtvolles elisabethanisches Haus.",
+            "hu": "Pompás Erzsébet-kori ház.",
+            "ro": "Casă elisabetană magnifică.",
+            "en": "Grand Elizabethan house."
+          }
+        },
+        {
+          "name": "Beeston Marina",
+          "coords": [
+            -1.205,
+            52.915
+          ],
+          "category": "port",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schöne Flussatmosphäre.",
+            "hu": "Kellemes folyóparti hangulat.",
+            "ro": "Atmosferă plăcută pe râu.",
+            "en": "Lovely river atmosphere."
+          }
+        },
+        {
+          "name": "Bramcote Hills Park",
+          "coords": [
+            -1.235,
+            52.935
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Blick über Nottinghamshire.",
+            "hu": "Kilátás Nottinghamshire-re.",
+            "ro": "Vedere spre Nottinghamshire.",
+            "en": "View over Nottinghamshire."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Toton und das prächtige Wollaton Hall. Diese Tour bietet eine perfekte Mischung aus Industriegeschichte und herrschaftlicher Architektur.",
+        "hu": "Fedezze fel Totont és a pompás Wollaton Hallt. Ez a túra tökéletes keveréke az ipartörténetnek és a nemesi építészetnek.",
+        "ro": "Descoperiți Toton și magnificul Wollaton Hall. Acest tur oferă un amestec perfect de istorie industrială și arhitectură nobilă.",
+        "en": "Discover Toton and the grand Wollaton Hall. This tour offers a perfect blend of industrial history and stately architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wollaton Hall Café",
+            "tip": "Tee im historischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wollaton Hall kávézó",
+            "tip": "Tea történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua Wollaton Hall",
+            "tip": "Ceai în cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wollaton Hall Cafe",
+            "tip": "Tea in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Attenborough Lakes",
+            "tip": "Stille am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Attenborough tavak",
+            "tip": "Csend a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacurile Attenborough",
+            "tip": "Liniște pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Attenborough Lakes",
+            "tip": "Quiet by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Victoria Centre (Nottingham)",
+            "tip": "Zentrales Shopping-Center."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Victoria Centre (Nottingham)",
+            "tip": "Központi bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Victoria Centre (Nottingham)",
+            "tip": "Centru comercial central."
+          }
+        ],
+        "en": [
+          {
+            "name": "Victoria Centre (Nottingham)",
+            "tip": "Major shopping mall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren bei Wollaton beachten.",
+          "Kamera für die Hirsche bei Wollaton.",
+          "Navi für die Vorortstraßen nutzen."
+        ],
+        "hu": [
+          "Figyeljünk a parkolási díjra Wollatonnál.",
+          "Kamerát a szarvasokhoz Wollatonnál.",
+          "Használjunk GPS-t a külvárosi utakon."
+        ],
+        "ro": [
+          "Atenție la taxele de parcare la Wollaton.",
+          "Cameră pentru cerbii de la Wollaton.",
+          "Folosiți GPS pentru străzile suburbane."
+        ],
+        "en": [
+          "Mind the parking fees at Wollaton.",
+          "Bring a camera for the deer at Wollaton.",
+          "Use GPS for suburban streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 10.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Toton Lane Tram",
+          "coords": [
+            -1.255,
+            52.918
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Start mit dem NET Tram.",
+            "hu": "Indulás a NET villamossal.",
+            "ro": "Start cu tramvaiul NET.",
+            "en": "Start with the NET tram."
+          }
+        },
+        {
+          "name": "Beeston Centre",
+          "coords": [
+            -1.215,
+            52.925
+          ],
+          "category": "shopping",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Lebendiger Vorort-Markt.",
+            "hu": "Élénk külvárosi piac.",
+            "ro": "Piață suburbană vibrantă.",
+            "en": "Vibrant suburban market."
+          }
+        },
+        {
+          "name": "Attenborough Station",
+          "coords": [
+            -1.233,
+            52.908
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kleiner lokaler Bahnhof.",
+            "hu": "Kis helyi vasútállomás.",
+            "ro": "Gară locală mică.",
+            "en": "Small local station."
+          }
+        },
+        {
+          "name": "Nature Reserve Path",
+          "coords": [
+            -1.23,
+            52.905
+          ],
+          "category": "park",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang ab der Bahn.",
+            "hu": "Séta a vasúttól.",
+            "ro": "Plimbare de la gară.",
+            "en": "Walk from the station."
+          }
+        },
+        {
+          "name": "Toton Lane End",
+          "coords": [
+            -1.255,
+            52.918
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Rückfahrt mit der Tram.",
+            "hu": "Visszautazás villamossal.",
+            "ro": "Întoarcere cu tramvaiul.",
+            "en": "Return by tram."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Tram- und Zugnetz. Die Verbindung zwischen Toton und dem Naturreservat Attenborough ist ideal für Transit-Nutzer.",
+        "hu": "Használja a kiváló villamos- és vasúthálózatot. A Toton és az Attenborough természetvédelmi terület közötti kapcsolat ideális a tömegközlekedőknek.",
+        "ro": "Utilizați rețeaua excelentă de tramvai și tren. Legătura între Toton și rezervația naturală Attenborough este ideală pentru utilizatorii de tranzit.",
+        "en": "Make use of the excellent tram and rail network. The connection between Toton and the Attenborough Nature Reserve is ideal for transit users."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Star Inn",
+            "tip": "Traditioneller Pub in Beeston."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Star Inn",
+            "tip": "Hagyományos pub Beestonban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Star Inn",
+            "tip": "Pub tradițional în Beeston."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Star Inn",
+            "tip": "Traditional pub in Beeston."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nature Reserve Hides",
+            "tip": "Stille Naturbeobachtung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madárles kunyhók",
+            "tip": "Csendes természetfigyelés.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Foișoare de observare",
+            "tip": "Observarea liniștită a naturii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nature Reserve Hides",
+            "tip": "Quiet nature watching.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Beeston Square Shops",
+            "tip": "Vielfältige lokale Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beeston Square üzletek",
+            "tip": "Változatos helyi boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele Beeston Square",
+            "tip": "Magazine locale variate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beeston Square Shops",
+            "tip": "Diverse local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tram-Tickets vor dem Einsteigen kaufen.",
+          "Google Maps für Busanschlüsse nutzen.",
+          "Attenborough ist 15 Min. Fußweg vom Bahnhof."
+        ],
+        "hu": [
+          "Vegyünk villamosjegyet felszállás előtt.",
+          "Használjunk Google Mapset a buszokhoz.",
+          "Attenborough 15 perc séta a vasúttól."
+        ],
+        "ro": [
+          "Cumpărați bilete înainte de urcare.",
+          "Folosiți Google Maps pentru autobuze.",
+          "Attenborough e la 15 min de mers de gară."
+        ],
+        "en": [
+          "Buy tram tickets before boarding.",
+          "Use Google Maps for bus links.",
+          "Attenborough is 15 min walk from station."
+        ]
+      }
+    }
+  }
+}

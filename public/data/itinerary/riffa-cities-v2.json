@@ -1,0 +1,266 @@
+{
+  "city_id": "riffa-cities-v2",
+  "anchor": {
+    "name": "Riffa Fort",
+    "coords": [
+      50.562,
+      26.117
+    ]
+  },
+  "modes": {
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Riffa Fort",
+            "hu": "Riffa-erőd",
+            "ro": "Fortul Riffa",
+            "en": "Riffa Fort"
+          },
+          "coords": [
+            50.562,
+            26.117
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Blick über das Hunayniyah-Tal.",
+            "hu": "Kilátás a Hunayniyah-völgyre.",
+            "ro": "Vedere peste valea Hunayniyah.",
+            "en": "View over the Hunayniyah Valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Militärmuseum",
+            "hu": "Katonai Múzeum",
+            "ro": "Muzeul Militar",
+            "en": "Military Museum"
+          },
+          "coords": [
+            50.555,
+            26.11
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Sammlung von Fahrzeugen.",
+            "hu": "Lenyűgöző járműgyűjtemény.",
+            "ro": "Colecție impresionantă de vehicule.",
+            "en": "Impressive collection of vehicles."
+          }
+        },
+        {
+          "name": {
+            "de": "Riffa Clock Tower",
+            "hu": "Riffa óratorony",
+            "ro": "Turnul cu Ceas din Riffa",
+            "en": "Riffa Clock Tower"
+          },
+          "coords": [
+            50.545,
+            26.125
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein modernes Symbol der Stadt.",
+            "hu": "A város modern szimbóluma.",
+            "ro": "Un simbol modern al orașului.",
+            "en": "A modern symbol of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Enma Mall",
+            "hu": "Enma Mall",
+            "ro": "Enma Mall",
+            "en": "Enma Mall"
+          },
+          "coords": [
+            50.55,
+            26.13
+          ],
+          "category": "shopping",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für ein kühles Mittagessen.",
+            "hu": "Ideális egy hűvös ebédhez.",
+            "ro": "Ideal pentru un prânz răcoros.",
+            "en": "Ideal for a cool lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Golf Club",
+            "hu": "Royal Golf Club",
+            "ro": "Royal Golf Club",
+            "en": "Royal Golf Club"
+          },
+          "coords": [
+            50.535,
+            26.1
+          ],
+          "category": "park",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Grüne Oase inmitten der Wüste.",
+            "hu": "Zöld oázis a sivatag közepén.",
+            "ro": "Oază de verdeață în mijlocul deșertului.",
+            "en": "Green oasis in the desert."
+          }
+        },
+        {
+          "name": {
+            "de": "Erster Ölbrunnen",
+            "hu": "Első olajkút",
+            "ro": "Primul puț de petrol",
+            "en": "First Oil Well"
+          },
+          "coords": [
+            50.585,
+            26.048
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Der Beginn der bahrainischen Moderne.",
+            "hu": "A bahreini modernitás kezdete.",
+            "ro": "Începutul modernității bahrainiene.",
+            "en": "The beginning of Bahraini modernity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Riffa kombiniert königliche Geschichte mit modernen Annehmlichkeiten. Erkunden Sie das mächtige Fort, erfahren Sie mehr über die Militärgeschichte und genießen Sie das Grün des Golfclubs, bevor Sie den Ort besuchen, an dem Bahrains Ölrausch begann.",
+        "hu": "Riffa ötvözi a királyi történelmet a modern kényelemmel. Fedezd fel a hatalmas erődöt, tudj meg többet a katonai múltról, és élvezd a golfklub zöldjét, mielőtt felkeresnéd a helyet, ahol a bahreini olajláz kezdődött.",
+        "ro": "Riffa îmbină istoria regală cu facilitățile moderne. Explorați fortul impunător, aflați mai multe despre istoria militară și bucurați-vă de verdeața clubului de golf înainte de a vizita locul unde a început febra petrolului în Bahrain.",
+        "en": "Riffa combines royal history with modern conveniences. Explore the mighty fort, learn about military history, and enjoy the greenery of the golf club before visiting the site where Bahrain's oil rush began."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Balaleet",
+            "tip": "Süße Nudeln mit Omelett."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balaleet",
+            "tip": "Édes tészta omlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Balaleet",
+            "tip": "Paste dulci cu omletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balaleet",
+            "tip": "Sweet vermicelli with omelette."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hunayniyah-Tal",
+            "tip": "Schöne Spazierwege unterhalb des Forts.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hunayniyah-völgy",
+            "tip": "Szép sétautak az erőd alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Hunayniyah",
+            "tip": "Trasee frumoase de plimbare sub fort.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hunayniyah Valley",
+            "tip": "Beautiful walking trails below the fort.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Riffa Bazaar",
+            "tip": "Authentischer lokaler Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riffa Bazár",
+            "tip": "Autentikus helyi piac."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Riffa",
+            "tip": "Piață locală autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riffa Bazaar",
+            "tip": "Authentic local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Fort ist am Nachmittag am schönsten.",
+          "Golf-Ausrüstung kann geliehen werden."
+        ],
+        "hu": [
+          "Az erőd délután a legszebb.",
+          "Golf felszerelés bérelhető."
+        ],
+        "ro": [
+          "Fortul este cel mai frumos după-amiaza.",
+          "Echipamentul de golf poate fi închiriat."
+        ],
+        "en": [
+          "The fort is most beautiful in the afternoon.",
+          "Golf equipment can be rented."
+        ]
+      }
+    }
+  }
+}

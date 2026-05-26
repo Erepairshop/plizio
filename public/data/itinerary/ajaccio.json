@@ -1,20 +1,20 @@
 {
   "city_id": "ajaccio",
   "anchor": {
-    "name": "Place Foch",
+    "name": "Ajaccio",
     "coords": [
-      41.9192,
-      8.7385
+      41.9264,
+      8.7369
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 3.5,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:45",
-      "total_km": 4.2,
-      "stop_count": 7,
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 8,
       "stops": [
         {
           "name": {
@@ -24,19 +24,19 @@
             "en": "Place Foch"
           },
           "coords": [
-            8.7385,
-            41.9192
+            41.9192,
+            8.7385
           ],
-          "category": "squares/old-town",
+          "category": "square",
           "arrive_at": "09:10",
-          "stay_min": 30,
+          "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.1,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Sehen Sie sich die Statue von Napoleon als Erster Konsul an.",
-            "hu": "Nézd meg Napóleon szobrát első konzulként.",
-            "ro": "Admirați statuia lui Napoleon ca Prim Consul.",
-            "en": "Check out the statue of Napoleon as First Consul."
+            "de": "Ideal für einen Morgenkaffee unter Palmen.",
+            "hu": "Ideális egy reggeli kávéhoz a pálmák alatt.",
+            "ro": "Ideal pentru o cafea de dimineață sub palmieri.",
+            "en": "Perfect for a morning coffee under the palms."
           }
         },
         {
@@ -47,858 +47,297 @@
             "en": "Ajaccio Market"
           },
           "coords": [
-            8.7395,
-            41.9195
+            41.92,
+            8.738
           ],
-          "category": "squares/old-town",
-          "arrive_at": "09:45",
-          "stay_min": 45,
+          "category": "market",
+          "arrive_at": "09:40",
+          "stay_min": 50,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Probieren Sie den Brocciu-Käse und korsische Wurstwaren.",
-            "hu": "Kóstold meg a Brocciu sajtot és a korzikai felvágottakat.",
-            "ro": "Gustați brânza Brocciu și mezelurile corsicane.",
-            "en": "Taste the Brocciu cheese and Corsican charcuterie."
+            "de": "Probieren Sie den Brocciu-Käse.",
+            "hu": "Kóstolja meg a helyi Brocciu sajtot.",
+            "ro": "Gustați brânza locală Brocciu.",
+            "en": "Be sure to sample the local Brocciu cheese."
           }
         },
         {
           "name": {
             "de": "Maison Bonaparte",
-            "hu": "Bonaparte-ház",
+            "hu": "Napóleon szülőháza",
             "ro": "Maison Bonaparte",
             "en": "Maison Bonaparte"
           },
           "coords": [
-            8.7375,
-            41.9178
+            41.9181,
+            8.7397
           ],
-          "category": "famous residences",
-          "arrive_at": "10:40",
-          "stay_min": 85,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Das Geburtshaus von Napoleon in den engen Gassen der Altstadt.",
-            "hu": "Napóleon szülőháza az óváros szűk utcáiban.",
-            "ro": "Casa natală a lui Napoleon în străduțele înguste.",
-            "en": "Napoleon's birthplace in the narrow old town streets."
+            "de": "Reservieren Sie Tickets online vorab.",
+            "hu": "Foglaljon jegyet előre online.",
+            "ro": "Rezervați bilete online în avans.",
+            "en": "Book your tickets online in advance to skip the line."
           }
         },
         {
           "name": {
-            "de": "Cathédrale Notre-Dame",
-            "hu": "Notre-Dame katedrális",
-            "ro": "Catedrala Notre-Dame",
-            "en": "Notre-Dame Cathedral"
+            "de": "Kathedrale von Ajaccio",
+            "hu": "Ajaccioi katedrális",
+            "ro": "Catedrala din Ajaccio",
+            "en": "Ajaccio Cathedral"
           },
           "coords": [
-            8.7372,
-            41.9172
+            41.9174,
+            8.7391
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "12:15",
-          "stay_min": 55,
+          "category": "cathedral",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Sehen Sie das Taufbecken Napoleons.",
+            "hu": "Nézze meg a keresztelőmedencét, ahol Napóleont keresztelték.",
+            "ro": "Vedeți fontul unde a fost botezat Napoleon.",
+            "en": "Look for the marble font where Napoleon was baptized."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Old Town Lunch"
+          },
+          "coords": [
+            41.9185,
+            8.738
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Hier wurde Napoleon 1771 getauft.",
-            "hu": "Itt keresztelték meg Napóleont 1771-ben.",
-            "ro": "Aici a fost botezat Napoleon în 1771.",
-            "en": "This is where Napoleon was baptized in 1771."
+            "de": "Frischer Fisch direkt vom Hafen.",
+            "hu": "Friss halételek közvetlenül a kikötőből.",
+            "ro": "Pește proaspăt direct din port.",
+            "en": "Enjoy fresh seafood caught the same morning."
           }
         },
         {
           "name": {
-            "de": "Citadelle d'Ajaccio",
-            "hu": "Ajaccioi Citadella",
-            "ro": "Citadela din Ajaccio",
-            "en": "Ajaccio Citadel"
+            "de": "Zitadelle (Außenansicht)",
+            "hu": "Citadella (kívülről)",
+            "ro": "Citadela (exterior)",
+            "en": "Citadel (Exterior)"
           },
           "coords": [
-            8.7405,
-            41.9168
+            41.9175,
+            8.742
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "13:20",
-          "stay_min": 40,
+          "category": "monument",
+          "arrive_at": "14:20",
+          "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Blick von außen auf die Festungsmauern am Meer.",
-            "hu": "Kilátás kívülről a tengerparti várfalakra.",
-            "ro": "Vedere din exterior asupra zidurilor cetății de la mare.",
-            "en": "View from outside of the fortress walls by the sea."
-          }
-        },
-        {
-          "name": {
-            "de": "Place d'Austerlitz",
-            "hu": "Place d'Austerlitz",
-            "ro": "Place d'Austerlitz",
-            "en": "Place d'Austerlitz"
-          },
-          "coords": [
-            8.7255,
-            41.9182
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "14:25",
-          "stay_min": 60,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Besuchen Sie die Grotte, in der Napoleon als Kind spielte.",
-            "hu": "Látogasd meg a barlangot, ahol Napóleon gyerekként játszott.",
-            "ro": "Vizitați grota unde se juca Napoleon în copilărie.",
-            "en": "Visit the grotto where Napoleon played as a child."
+            "de": "Toller Blick auf den Hafen von den Mauern.",
+            "hu": "Remek kilátás a kikötőre a falak mellől.",
+            "ro": "Vedere superbă asupra portului de lângă ziduri.",
+            "en": "Great views of the harbor from the outer walls."
           }
         },
         {
           "name": {
             "de": "Musée Fesch",
-            "hu": "Musée Fesch",
-            "ro": "Musée Fesch",
-            "en": "Musée Fesch"
+            "hu": "Fesch Múzeum",
+            "ro": "Muzeul Fesch",
+            "en": "Fesch Museum"
           },
           "coords": [
-            8.7402,
-            41.9212
+            41.9213,
+            8.7388
           ],
-          "category": "museums",
-          "arrive_at": "15:55",
-          "stay_min": 110,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.5,
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Eine der besten Sammlungen italienischer Malerei in Frankreich.",
-            "hu": "Franciaország egyik legjobb itáliai festészeti gyűjteménye.",
-            "ro": "Una dintre cele mai bune colecții de pictură italiană din Franța.",
-            "en": "One of the best collections of Italian painting in France."
+            "de": "Zweitgrößte italienische Kunstsammlung Frankreichs.",
+            "hu": "A második legnagyobb olasz művészeti gyűjtemény az országban.",
+            "ro": "A doua cea mai mare colecție de artă italiană din Franța.",
+            "en": "France's second largest collection of Italian paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendspaziergang am Quai",
+            "hu": "Esti séta a rakparton",
+            "ro": "Plimbare de seară pe chei",
+            "en": "Evening Quay Walk"
+          },
+          "coords": [
+            41.923,
+            8.74
+          ],
+          "category": "sunset",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für das goldene Licht am Hafen.",
+            "hu": "Tökéletes a kikötői aranyórához.",
+            "ro": "Perfect pentru lumina aurie din port.",
+            "en": "Perfect for the golden hour light in the harbor."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Morgens erleben wir den farbenfrohen Markt am Place Foch, wo der Duft von korsischem Käse und Wildschweinschinken die Luft erfüllt. Wir tauchen tief in die Geschichte ein, indem wir das Maison Bonaparte besuchen, das authentische Geburtshaus des Kaisers. Mittags bewundern wir die Kathedrale und spazieren entlang der Zitadelle am Meer.\n\nDer Nachmittag gehört dem kaiserlichen Erbe auf dem Place d'Austerlitz mit seinem imposanten Denkmal. Danach widmen wir uns der Kunst im Musée Fesch, das von Napoleons Onkel gegründet wurde. Den Abend lassen wir bei einem Glas Wein am Hafen ausklingen, während die Sonne langsam hinter der Bucht von Ajaccio versinkt.",
-        "hu": "Reggel a színes piacon kezdünk a Place Foch mellett, ahol a korzikai sajtok és vadhús-felvágottak illata lengi be a teret. Ezután elmerülünk a történelemben a Maison Bonaparte meglátogatásával, amely a császár eredeti szülőháza. Délben megcsodáljuk a katedrálist és a tengerparti Citadella mentén sétálunk.\n\nA délután a császári örökségé a Place d'Austerlitz monumentális szobránál és a híres barlangnál. Ezután a Musée Fesch művészeti kincseit fedezzük fel, amelyet Napóleon nagybátyja alapított. Az estét a kikötőben, egy pohár bor mellett fejezzük be, miközben a nap lassan lebukik az Ajaccioi-öböl mögött.",
-        "ro": "Dimineața începe în piața plină de viață de lângă Place Foch, unde aromele brânzeturilor și mezelurilor de mistreț umplu aerul. Ne scufundăm în istorie vizitând Maison Bonaparte, casa natală autentică a împăratului. La prânz admirăm Catedrala și ne plimbăm pe lângă Citadela de pe malul mării.\n\nDupă-amiaza este dedicată moștenirii imperiale la Place d'Austerlitz, cu monumentul său impunător și faimoasa grotă. Apoi descoperim comorile artistice de la Musée Fesch, fondat de unchiul lui Napoleon. Seara se încheie în port cu un pahar de vin, în timp ce soarele apune lent peste golful Ajaccio.",
-        "en": "In the morning, we start at the colorful market near Place Foch, where the scent of Corsican cheese and wild boar charcuterie fills the air. We dive deep into history by visiting Maison Bonaparte, the Emperor's authentic birthplace. At noon, we admire the cathedral and walk along the seaside Citadel.\n\nThe afternoon is dedicated to imperial heritage at Place d'Austerlitz with its imposing monument and the famous grotto. Next, we discover the artistic treasures of Musée Fesch, founded by Napoleon's uncle. We end the evening in the harbor with a glass of wine as the sun slowly sets over the Gulf of Ajaccio."
+        "de": "Folgen Sie den Spuren Napoleons durch die engen Gassen der kaiserlichen Stadt. Beginnen Sie am belebten Place Foch und besuchen Sie das Haus, in dem der Kaiser geboren wurde.\n\nMittags tauchen Sie in die Aromen Korsikas auf dem lokalen Markt ein, bevor Sie in einem der gemütlichen Restaurants der Altstadt zu Mittag essen.\n\nDer Nachmittag steht ganz im Zeichen der Kunst im Palais Fesch, gefolgt von einem entspannten Spaziergang entlang der gewaltigen Mauern der genuesischen Zitadelle.\n\nLassen Sie den Tag am alten Hafen ausklingen, wo die Segelboote sanft im Abendwind schaukeln und die Stadt in sanftes Licht getaucht wird.",
+        "hu": "Kövesse Napóleon lábnyomait a császári város szűk utcáin keresztül. Kezdjen a nyüzsgő Place Foch-on, majd látogasson el a házba, ahol a császár született.\n\nEbédidőben merüljön el Korzika illataiban a helyi piacon, mielőtt megkóstolná a sziget specialitásait az óváros egyik hangulatos éttermében.\n\nA délután a művészeté a Palais Fesch termeiben, amit egy frissítő séta követ a genovai citadella masszív falai mentén.\n\nZárja a napot a régi kikötőben, ahol a vitorlások ringatózása és a lemenő nap fénye teszi teljessé az élményt.",
+        "ro": "Urmați pașii lui Napoleon prin străduțele înguste ale orașului imperial. Începeți în piața Place Foch și vizitați casa unde s-a născut viitorul împărat.\n\nLa prânz, lăsați-vă purtați de aromele corsicane din piața locală, urmată de o masă copioasă într-un bistro tradițional din centrul vechi.\n\nDupă-amiaza este dedicată artei la Palais Fesch, apoi unei plimbări relaxante pe lângă zidurile impunătoare ale citadelei genoveze.\n\nÎncheiați ziua în portul vechi, admirând ambarcațiunile care plutesc agale în lumina caldă a asfințitului.",
+        "en": "Follow the footsteps of Napoleon through the narrow streets of this imperial city. Start at the lively Place Foch and visit the house where the Emperor was born.\n\nAt midday, immerse yourself in the scents of Corsica at the local market, followed by a delicious lunch in one of the old town's hidden bistros.\n\nSpend your afternoon admiring the fine art at Palais Fesch, then enjoy a refreshing walk along the heavy walls of the Genoese citadel.\n\nEnd your day at the old port, watching the sailboats sway in the evening breeze as the town glows in the twilight."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Auberge de la Madonuccia",
-            "tip": "Probieren Sie Wildschweineintopf mit hausgemachter Pasta."
+            "name": "Sartenais",
+            "tip": "Hervorragende lokale Wurstwaren."
           },
           {
-            "name": "Boulangerie Foch",
-            "tip": "Frische Canistrelli-Kekse für den Weg."
-          },
-          {
-            "name": "Le Bilboquet",
-            "tip": "Hervorragende Meeresfrüchte direkt am Hafen."
+            "name": "Da Passano",
+            "tip": "Moderne korsische Tapas."
           }
         ],
         "hu": [
           {
-            "name": "Auberge de la Madonuccia",
-            "tip": "Kóstold meg a vaddisznópörköltet házi tésztával."
+            "name": "Sartenais",
+            "tip": "Kiváló helyi felvágottak és sonkák."
           },
           {
-            "name": "Boulangerie Foch",
-            "tip": "Friss Canistrelli kekszek az útra."
-          },
-          {
-            "name": "Le Bilboquet",
-            "tip": "Kiváló tengeri gyümölcsei közvetlenül a kikötőben."
+            "name": "Da Passano",
+            "tip": "Modern korzikai tapas választék."
           }
         ],
         "ro": [
           {
-            "name": "Auberge de la Madonuccia",
-            "tip": "Încercați tocănița de mistreț cu paste de casă."
+            "name": "Sartenais",
+            "tip": "Mezeluri locale de calitate superioară."
           },
           {
-            "name": "Boulangerie Foch",
-            "tip": "Biscuiți Canistrelli proaspeți pentru drum."
-          },
-          {
-            "name": "Le Bilboquet",
-            "tip": "Fructe de mare excelente chiar în port."
+            "name": "Da Passano",
+            "tip": "Tapas corsican modern și gustos."
           }
         ],
         "en": [
           {
-            "name": "Auberge de la Madonuccia",
-            "tip": "Try the wild boar stew with homemade pasta."
+            "name": "Sartenais",
+            "tip": "Excellent selection of local charcuterie."
           },
           {
-            "name": "Boulangerie Foch",
-            "tip": "Fresh Canistrelli biscuits for the road."
-          },
-          {
-            "name": "Le Bilboquet",
-            "tip": "Excellent seafood right in the harbor."
+            "name": "Da Passano",
+            "tip": "Creative modern Corsican tapas."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Jardins du Casone",
-            "tip": "Ruhiger Park oberhalb des Place d'Austerlitz.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Sentier des Crêtes",
-            "tip": "Panorama-Wanderweg mit Blick auf die Bucht.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Plage Saint-François",
-            "tip": "Kleiner Stadtstrand für eine kurze Pause.",
-            "emoji": "🧘"
+            "name": "Place de la Marine",
+            "tip": "Ruhiger Blick auf das Meer.",
+            "emoji": "🌊"
           }
         ],
         "hu": [
           {
-            "name": "Jardins du Casone",
-            "tip": "Csendes park a Place d'Austerlitz felett.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Sentier des Crêtes",
-            "tip": "Panorámás ösvény kilátással az öbölre.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Plage Saint-François",
-            "tip": "Kis városi strand egy rövid pihenőhöz.",
-            "emoji": "🧘"
+            "name": "Place de la Marine",
+            "tip": "Csendes kilátás a tengerre.",
+            "emoji": "🌊"
           }
         ],
         "ro": [
           {
-            "name": "Jardins du Casone",
-            "tip": "Parc liniștit deasupra Place d'Austerlitz.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Sentier des Crêtes",
-            "tip": "Traseu panoramic cu vedere spre golf.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Plage Saint-François",
-            "tip": "Plajă mică în oraș pentru o scurtă pauză.",
-            "emoji": "🧘"
+            "name": "Place de la Marine",
+            "tip": "Vedere liniștită spre mare.",
+            "emoji": "🌊"
           }
         ],
         "en": [
           {
-            "name": "Jardins du Casone",
-            "tip": "Quiet park above Place d'Austerlitz.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Sentier des Crêtes",
-            "tip": "Panoramic trail overlooking the bay.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Plage Saint-François",
-            "tip": "Small city beach for a quick break.",
-            "emoji": "🧘"
+            "name": "Place de la Marine",
+            "tip": "A peaceful spot to gaze at the sea.",
+            "emoji": "🌊"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Marché d'Ajaccio",
-            "tip": "Honig, Olivenöl und Myrthenlikör."
-          },
-          {
-            "name": "Rue de l'Assomption",
-            "tip": "Lokales Kunsthandwerk und Souvenirs."
+            "name": "Rue Fesch",
+            "tip": "Die Haupteinkaufsstraße für lokale Mode."
           }
         ],
         "hu": [
           {
-            "name": "Ajaccioi piac",
-            "tip": "Méz, olívaolaj és mirtuszlikőr."
-          },
-          {
-            "name": "Rue de l'Assomption",
-            "tip": "Helyi kézműves termékek és szuvenírek."
+            "name": "Rue Fesch",
+            "tip": "A fő bevásárlóutca helyi divatárukkal."
           }
         ],
         "ro": [
           {
-            "name": "Piața din Ajaccio",
-            "tip": "Miere, ulei de măsline și lichior de mirt."
-          },
-          {
-            "name": "Rue de l'Assomption",
-            "tip": "Artizanat local și suveniruri."
+            "name": "Rue Fesch",
+            "tip": "Principala stradă comercială pentru modă."
           }
         ],
         "en": [
           {
-            "name": "Ajaccio Market",
-            "tip": "Honey, olive oil and myrtle liqueur."
-          },
-          {
-            "name": "Rue de l'Assomption",
-            "tip": "Local crafts and souvenirs."
+            "name": "Rue Fesch",
+            "tip": "The main pedestrian street for local fashion."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen der Altstadt.",
-          "Die meisten Sehenswürdigkeiten im Zentrum sind fußläufig erreichbar.",
-          "Besuchen Sie den Markt früh am Morgen, um die beste Auswahl zu haben.",
-          "Achten Sie auf die Öffnungszeiten des Musée Fesch (dienstags oft geschlossen)."
+          "Bequeme Schuhe sind für das Kopfsteinpflaster wichtig.",
+          "Der Markt schließt gegen 13 Uhr.",
+          "Ajaccio ist im Sommer sehr sonnig, Hut nicht vergessen.",
+          "Nutzen Sie die kleinen Gassen für natürlichen Schatten."
         ],
         "hu": [
-          "Viselj kényelmes cipőt az óváros macskaköves utcáihoz.",
-          "A legtöbb látnivaló a központban sétatávolságra van egymástól.",
-          "Látogass el a piacra kora reggel a legjobb választékért.",
-          "Figyelj a Musée Fesch nyitvatartására (keddenként gyakran zárva)."
+          "Kényelmes cipő ajánlott a macskaköves utcákhoz.",
+          "A piac délután 1 óra körül bezár.",
+          "Nyáron nagyon erős a napsütés, ne feledje a kalapot.",
+          "Használja a szűk sikátorokat a természetes árnyékért."
         ],
         "ro": [
-          "Purtați încălțăminte comodă pentru străzile pietruite din orașul vechi.",
-          "Majoritatea obiectivelor din centru sunt la mică distanță de mers pe jos.",
-          "Vizitați piața dimineața devreme pentru cea mai bună selecție.",
-          "Atenție la programul Musée Fesch (adesea închis marțea)."
+          "Pantofii comozi sunt esențiali pentru pavajul vechi.",
+          "Piața se închide în jurul orei 13:00.",
+          "Vara este foarte cald, nu uitați pălăria de soare.",
+          "Folosiți străduțele înguste pentru umbră naturală."
         ],
         "en": [
-          "Wear comfortable shoes for the cobblestone streets of the old town.",
-          "Most sights in the center are within easy walking distance.",
-          "Visit the market early in the morning for the best selection.",
-          "Check the opening hours of Musée Fesch (often closed on Tuesdays)."
+          "Comfortable shoes are a must for the cobbled streets.",
+          "The local market closes around 1 PM.",
+          "Ajaccio gets very hot in summer, bring a hat.",
+          "Stick to the narrow alleys for natural cooling shade."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Morgens erleben wir den farbenfrohen Markt am Place Foch, wo der Duft von korsischem Käse und Wildschweinschinken die Luft erfüllt. Wir tauchen tief in die Geschichte ein, indem wir das Maison Bonaparte besuchen, das authentische Geburtshaus des Kaisers. Mittags bewundern wir die Kathedrale und spazieren entlang der Zitadelle am Meer.\n\nDer Nachmittag gehört dem kaiserlichen Erbe auf dem Place d'Austerlitz mit seinem imposanten Denkmal. Danach widmen wir uns der Kunst im Musée Fesch, das von Napoleons Onkel gegründet wurde. Den Abend lassen wir bei einem Glas Wein am Hafen ausklingen, während die Sonne langsam hinter der Bucht von Ajaccio versinkt.",
-            "hu": "Reggel a színes piacon kezdünk a Place Foch mellett, ahol a korzikai sajtok és vadhús-felvágottak illata lengi be a teret. Ezután elmerülünk a történelemben a Maison Bonaparte meglátogatásával, amely a császár eredeti szülőháza. Délben megcsodáljuk a katedrálist és a tengerparti Citadella mentén sétálunk.\n\nA délután a császári örökségé a Place d'Austerlitz monumentális szobránál és a híres barlangnál. Ezután a Musée Fesch művészeti kincseit fedezzük fel, amelyet Napóleon nagybátyja alapított. Az estét a kikötőben, egy pohár bor mellett fejezzük be, miközben a nap lassan lebukik az Ajaccioi-öböl mögött.",
-            "ro": "Dimineața începe în piața plină de viață de lângă Place Foch, unde aromele brânzeturilor și mezelurilor de mistreț umplu aerul. Ne scufundăm în istorie vizitând Maison Bonaparte, casa natală autentică a împăratului. La prânz admirăm Catedrala și ne plimbăm pe lângă Citadela de pe malul mării.\n\nDupă-amiaza este dedicată moștenirii imperiale la Place d'Austerlitz, cu monumentul său impunător și faimoasa grotă. Apoi descoperim comorile artistice de la Musée Fesch, fondat de unchiul lui Napoleon. Seara se încheie în port cu un pahar de vin, în timp ce soarele apune lent peste golful Ajaccio.",
-            "en": "In the morning, we start at the colorful market near Place Foch, where the scent of Corsican cheese and wild boar charcuterie fills the air. We dive deep into history by visiting Maison Bonaparte, the Emperor's authentic birthplace. At noon, we admire the cathedral and walk along the seaside Citadel.\n\nThe afternoon is dedicated to imperial heritage at Place d'Austerlitz with its imposing monument and the famous grotto. Next, we discover the artistic treasures of Musée Fesch, founded by Napoleon's uncle. We end the evening in the harbor with a glass of wine as the sun slowly sets over the Gulf of Ajaccio."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Place Foch",
-                "hu": "Place Foch",
-                "ro": "Place Foch",
-                "en": "Place Foch"
-              },
-              "tip_5lang": {
-                "de": "Sehen Sie sich die Statue von Napoleon als Erster Konsul an.",
-                "hu": "Nézd meg Napóleon szobrát első konzulként.",
-                "ro": "Admirați statuia lui Napoleon ca Prim Consul.",
-                "en": "Check out the statue of Napoleon as First Consul."
-              }
-            },
-            {
-              "name": {
-                "de": "Marché d'Ajaccio",
-                "hu": "Ajaccioi piac",
-                "ro": "Piața din Ajaccio",
-                "en": "Ajaccio Market"
-              },
-              "tip_5lang": {
-                "de": "Probieren Sie den Brocciu-Käse und korsische Wurstwaren.",
-                "hu": "Kóstold meg a Brocciu sajtot és a korzikai felvágottakat.",
-                "ro": "Gustați brânza Brocciu și mezelurile corsicane.",
-                "en": "Taste the Brocciu cheese and Corsican charcuterie."
-              }
-            },
-            {
-              "name": {
-                "de": "Maison Bonaparte",
-                "hu": "Bonaparte-ház",
-                "ro": "Maison Bonaparte",
-                "en": "Maison Bonaparte"
-              },
-              "tip_5lang": {
-                "de": "Das Geburtshaus von Napoleon in den engen Gassen der Altstadt.",
-                "hu": "Napóleon szülőháza az óváros szűk utcáiban.",
-                "ro": "Casa natală a lui Napoleon în străduțele înguste.",
-                "en": "Napoleon's birthplace in the narrow old town streets."
-              }
-            },
-            {
-              "name": {
-                "de": "Cathédrale Notre-Dame",
-                "hu": "Notre-Dame katedrális",
-                "ro": "Catedrala Notre-Dame",
-                "en": "Notre-Dame Cathedral"
-              },
-              "tip_5lang": {
-                "de": "Hier wurde Napoleon 1771 getauft.",
-                "hu": "Itt keresztelték meg Napóleont 1771-ben.",
-                "ro": "Aici a fost botezat Napoleon în 1771.",
-                "en": "This is where Napoleon was baptized in 1771."
-              }
-            },
-            {
-              "name": {
-                "de": "Citadelle d'Ajaccio",
-                "hu": "Ajaccioi Citadella",
-                "ro": "Citadela din Ajaccio",
-                "en": "Ajaccio Citadel"
-              },
-              "tip_5lang": {
-                "de": "Blick von außen auf die Festungsmauern am Meer.",
-                "hu": "Kilátás kívülről a tengerparti várfalakra.",
-                "ro": "Vedere din exterior asupra zidurilor cetății de la mare.",
-                "en": "View from outside of the fortress walls by the sea."
-              }
-            },
-            {
-              "name": {
-                "de": "Place d'Austerlitz",
-                "hu": "Place d'Austerlitz",
-                "ro": "Place d'Austerlitz",
-                "en": "Place d'Austerlitz"
-              },
-              "tip_5lang": {
-                "de": "Besuchen Sie die Grotte, in der Napoleon als Kind spielte.",
-                "hu": "Látogasd meg a barlangot, ahol Napóleon gyerekként játszott.",
-                "ro": "Vizitați grota unde se juca Napoleon în copilărie.",
-                "en": "Visit the grotto where Napoleon played as a child."
-              }
-            },
-            {
-              "name": {
-                "de": "Musée Fesch",
-                "hu": "Musée Fesch",
-                "ro": "Musée Fesch",
-                "en": "Musée Fesch"
-              },
-              "tip_5lang": {
-                "de": "Eine der besten Sammlungen italienischer Malerei in Frankreich.",
-                "hu": "Franciaország egyik legjobb itáliai festészeti gyűjteménye.",
-                "ro": "Una dintre cele mai bune colecții de pictură italiană din Franța.",
-                "en": "One of the best collections of Italian painting in France."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Auberge de la Madonuccia",
-                "tip": "Probieren Sie Wildschweineintopf mit hausgemachter Pasta."
-              },
-              {
-                "name": "Boulangerie Foch",
-                "tip": "Frische Canistrelli-Kekse für den Weg."
-              },
-              {
-                "name": "Le Bilboquet",
-                "tip": "Hervorragende Meeresfrüchte direkt am Hafen."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Auberge de la Madonuccia",
-                "tip": "Kóstold meg a vaddisznópörköltet házi tésztával."
-              },
-              {
-                "name": "Boulangerie Foch",
-                "tip": "Friss Canistrelli kekszek az útra."
-              },
-              {
-                "name": "Le Bilboquet",
-                "tip": "Kiváló tengeri gyümölcsei közvetlenül a kikötőben."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Auberge de la Madonuccia",
-                "tip": "Încercați tocănița de mistreț cu paste de casă."
-              },
-              {
-                "name": "Boulangerie Foch",
-                "tip": "Biscuiți Canistrelli proaspeți pentru drum."
-              },
-              {
-                "name": "Le Bilboquet",
-                "tip": "Fructe de mare excelente chiar în port."
-              }
-            ],
-            "en": [
-              {
-                "name": "Auberge de la Madonuccia",
-                "tip": "Try the wild boar stew with homemade pasta."
-              },
-              {
-                "name": "Boulangerie Foch",
-                "tip": "Fresh Canistrelli biscuits for the road."
-              },
-              {
-                "name": "Le Bilboquet",
-                "tip": "Excellent seafood right in the harbor."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Jardins du Casone",
-                "tip": "Ruhiger Park oberhalb des Place d'Austerlitz.",
-                "emoji": "🏞️"
-              },
-              {
-                "name": "Sentier des Crêtes",
-                "tip": "Panorama-Wanderweg mit Blick auf die Bucht.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Plage Saint-François",
-                "tip": "Kleiner Stadtstrand für eine kurze Pause.",
-                "emoji": "🧘"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Jardins du Casone",
-                "tip": "Csendes park a Place d'Austerlitz felett.",
-                "emoji": "🏞️"
-              },
-              {
-                "name": "Sentier des Crêtes",
-                "tip": "Panorámás ösvény kilátással az öbölre.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Plage Saint-François",
-                "tip": "Kis városi strand egy rövid pihenőhöz.",
-                "emoji": "🧘"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Jardins du Casone",
-                "tip": "Parc liniștit deasupra Place d'Austerlitz.",
-                "emoji": "🏞️"
-              },
-              {
-                "name": "Sentier des Crêtes",
-                "tip": "Traseu panoramic cu vedere spre golf.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Plage Saint-François",
-                "tip": "Plajă mică în oraș pentru o scurtă pauză.",
-                "emoji": "🧘"
-              }
-            ],
-            "en": [
-              {
-                "name": "Jardins du Casone",
-                "tip": "Quiet park above Place d'Austerlitz.",
-                "emoji": "🏞️"
-              },
-              {
-                "name": "Sentier des Crêtes",
-                "tip": "Panoramic trail overlooking the bay.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Plage Saint-François",
-                "tip": "Small city beach for a quick break.",
-                "emoji": "🧘"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Marché d'Ajaccio",
-                "tip": "Honig, Olivenöl und Myrthenlikör."
-              },
-              {
-                "name": "Rue de l'Assomption",
-                "tip": "Lokales Kunsthandwerk und Souvenirs."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Ajaccioi piac",
-                "tip": "Méz, olívaolaj és mirtuszlikőr."
-              },
-              {
-                "name": "Rue de l'Assomption",
-                "tip": "Helyi kézműves termékek és szuvenírek."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Piața din Ajaccio",
-                "tip": "Miere, ulei de măsline și lichior de mirt."
-              },
-              {
-                "name": "Rue de l'Assomption",
-                "tip": "Artizanat local și suveniruri."
-              }
-            ],
-            "en": [
-              {
-                "name": "Ajaccio Market",
-                "tip": "Honey, olive oil and myrtle liqueur."
-              },
-              {
-                "name": "Rue de l'Assomption",
-                "tip": "Local crafts and souvenirs."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen der Altstadt.",
-              "Die meisten Sehenswürdigkeiten im Zentrum sind fußläufig erreichbar.",
-              "Besuchen Sie den Markt früh am Morgen, um die beste Auswahl zu haben.",
-              "Achten Sie auf die Öffnungszeiten des Musée Fesch (dienstags oft geschlossen)."
-            ],
-            "hu": [
-              "Viselj kényelmes cipőt az óváros macskaköves utcáihoz.",
-              "A legtöbb látnivaló a központban sétatávolságra van egymástól.",
-              "Látogass el a piacra kora reggel a legjobb választékért.",
-              "Figyelj a Musée Fesch nyitvatartására (keddenként gyakran zárva)."
-            ],
-            "ro": [
-              "Purtați încălțăminte comodă pentru străzile pietruite din orașul vechi.",
-              "Majoritatea obiectivelor din centru sunt la mică distanță de mers pe jos.",
-              "Vizitați piața dimineața devreme pentru cea mai bună selecție.",
-              "Atenție la programul Musée Fesch (adesea închis marțea)."
-            ],
-            "en": [
-              "Wear comfortable shoes for the cobblestone streets of the old town.",
-              "Most sights in the center are within easy walking distance.",
-              "Visit the market early in the morning for the best selection.",
-              "Check the opening hours of Musée Fesch (often closed on Tuesdays)."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Der Morgen beginnt unter den Arkaden am Place Foch, wo ein heißer Espresso vor dem Regen schützt. Der Markt bietet unter seinen Planen erste Eindrücke, gefolgt von der Maison Bonaparte, die ein perfektes trockenes Refugium darstellt.\n\nMittags suchen wir Schutz in der Kathedrale, während die Zitadelle im Regen eine besonders dramatische Atmosphäre ausstrahlt. Die schmalen Gassen der Altstadt bieten natürlichen Schutz vor Wind.\n\nDer Nachmittag gehört dem Musée Fesch. In den weitläufigen Galerien lässt sich der Regen komplett vergessen, während man die italienischen Meister bewundert.\n\nAbends endet die Tour gemütlich in einem der Restaurants nahe dem Hafen, wo die Lichter der Stadt auf dem nassen Asphalt glänzen.",
-            "hu": "A reggel a Place Foch árkádjai alatt indul, egy forró kávéval az eső elől menekülve. A piac ponyvái alatt még ilyenkor is zajlik az élet, majd Bonaparte szülőháza nyújt tökéletes fedett menedéket.\n\nDélben a katedrális csendje és védettsége fogad, a Citadella pedig az esőben még monumentálisabbnak tűnik. Az óváros szűk utcái némi szélfogót biztosítanak a séta során.\n\nA délután fénypontja a Musée Fesch. A hatalmas galériákban teljesen megfeledkezhetünk a kinti zivatarrol, miközben az itáliai mesterművekben gyönyörködünk.\n\nEste a kikötő közeli éttermek egyikében zárjuk a napot, figyelve a vizes aszfalton megcsillanó városi fényeket.",
-            "ro": "Dimineața începe sub arcadele din Place Foch, cu un espresso fierbinte ferit de ploaie. Piața oferă adăpost sub copertine, urmată de Maison Bonaparte, un refugiu interior perfect.\n\nLa prânz, liniștea catedralei oferă protecție, în timp ce Citadela pare și mai dramatică sub cerul gri. Străzile înguste ale orașului vechi oferă un adăpost natural împotriva vântului.\n\nDupă-amiaza este dedicată Muzeului Fesch. În galeriile sale spațioase, ploaia de afară este uitată rapid printre capodoperele italiene.\n\nSeara se încheie confortabil într-un restaurant de lângă port, unde luminile orașului se reflectă spectaculos pe asfaltul umed.",
-            "en": "Morning starts under the arcades of Place Foch with a hot coffee to escape the drizzle. The market stalls offer cover, followed by Maison Bonaparte, a perfect indoor sanctuary.\n\nAt noon, the cathedral provides a quiet refuge, while the Citadel looks even more imposing in the rain. The narrow old town streets offer some natural wind protection.\n\nAfternoon is spent at Musée Fesch. Its vast galleries make you completely forget the weather while admiring Italian masterpieces.\n\nEvening ends cozily in a restaurant near the harbor, watching the city lights shimmer on the wet pavement."
-          },
-          "stops": [
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Unter den Arkaden am Rande des Platzes trocken bleiben.",
-                "hu": "Maradjon a tér szélén található árkádok alatt.",
-                "ro": "Rămâneți sub arcadele de la marginea pieței.",
-                "en": "Stay dry under the arcades at the edge of the square."
-              }
-            },
-            {
-              "name": "Ajaccio Market",
-              "tip_5lang": {
-                "de": "Die Markthallen bieten guten Schutz vor Schauern.",
-                "hu": "A piaccsarnokok jó védelmet nyújtanak a záporok ellen.",
-                "ro": "Halele pieței oferă adăpost bun împotriva averselor.",
-                "en": "The market halls provide good shelter from showers."
-              }
-            },
-            {
-              "name": "Maison Bonaparte",
-              "tip_5lang": {
-                "de": "Idealer Ort, um eine längere Regenperiode drinnen zu verbringen.",
-                "hu": "Ideális hely egy hosszabb esős időszak átvészelésére.",
-                "ro": "Loc ideal pentru a petrece o perioadă lungă de ploaie în interior.",
-                "en": "Ideal spot to spend a long rainy period indoors."
-              }
-            },
-            {
-              "name": "Notre-Dame Cathedral",
-              "tip_5lang": {
-                "de": "Ein ruhiger, trockener Ort für eine kurze Rast.",
-                "hu": "Csendes, száraz hely egy rövid pihenőhöz.",
-                "ro": "Un loc liniștit și uscat pentru o scurtă odihnă.",
-                "en": "A quiet, dry place for a brief rest."
-              }
-            },
-            {
-              "name": "Ajaccio Citadel",
-              "tip_5lang": {
-                "de": "Vorsicht, die Außenmauern können bei Nässe rutschig sein.",
-                "hu": "Vigyázat, a külső falak nedvesen csúszósak lehetnek.",
-                "ro": "Atenție, zidurile exterioare pot fi alunecoase când sunt ude.",
-                "en": "Caution, external walls can be slippery when wet."
-              }
-            },
-            {
-              "name": "Place d'Austerlitz",
-              "tip_5lang": {
-                "de": "Die Grotte bietet einen kleinen Unterstand bei Regen.",
-                "hu": "A barlang kis menedéket nyújt eső esetén.",
-                "ro": "Grota oferă un mic adăpost în caz de ploaie.",
-                "en": "The grotto offers a small shelter if it rains."
-              }
-            },
-            {
-              "name": "Musée Fesch",
-              "tip_5lang": {
-                "de": "Nutzen Sie die Garderobe für nasse Regenschirme.",
-                "hu": "Használja a ruhatárat a vizes esernyőknek.",
-                "ro": "Folosiți garderoba pentru umbrelele ude.",
-                "en": "Use the cloakroom for wet umbrellas."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
-              "Die Arkaden am Place Foch sind der beste Treffpunkt bei Regen.",
-              "Das Musée Fesch ist das größte Indoor-Highlight der Stadt.",
-              "Nutzen Sie die schmalen Gassen der Altstadt als Windschutz.",
-              "Regenschirme können in den engen Museumsfluren sperrig sein."
-            ],
-            "hu": [
-              "Viseljen vízálló cipőt, mert a macskaköveken megáll a víz.",
-              "A Place Foch árkádjai a legjobb találkozópontok esőben.",
-              "A Musée Fesch a város legnagyobb fedett látnivalója.",
-              "Használja az óváros szűk utcáit szélfogóként.",
-              "Az esernyők nehézkesek lehetnek a szűk múzeumi folyosókon."
-            ],
-            "ro": [
-              "Purtați încălțăminte impermeabilă, pavajul reține apa.",
-              "Arcadele din Place Foch sunt cel mai bun punct de întâlnire pe ploaie.",
-              "Musée Fesch este cea mai mare atracție interioară a orașului.",
-              "Folosiți străzile înguste ale centrului vechi ca protecție contra vântului.",
-              "Umbrelele pot fi incomode în coridoarele înguste ale muzeelor."
-            ],
-            "en": [
-              "Wear waterproof shoes as the cobblestones tend to form puddles.",
-              "The arcades at Place Foch are the best meeting point in the rain.",
-              "Musée Fesch is the largest indoor highlight of the city.",
-              "Use the narrow old town streets as wind protection.",
-              "Umbrellas can be cumbersome in narrow museum corridors."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Der Wintermorgen am Place Foch ist frisch und klar. Die Marktstände bieten winterliche korsische Spezialitäten wie Brocciu an, während die Sonne tief über dem Hafen steht.\n\nMittags wärmt die Maison Bonaparte mit ihrer historischen Atmosphäre. Ein Spaziergang zur Zitadelle bei kühler Meeresbrise belebt die Geister vor dem Mittagessen.\n\nNachmittags sinkt die Sonne früh, was am Place d'Austerlitz für ein goldenes Licht auf dem Denkmal sorgt. Das Musée Fesch bietet danach wohlige Wärme und Kultur.\n\nDer Abend bricht gegen 17:30 Uhr an. Die Stadtlichter spiegeln sich im ruhigen Wintermeer, während man den Tag in einer gemütlichen Weinbar abschließt.",
-            "hu": "A téli reggel a Place Foch-on friss és tiszta. A piaci árusok olyan téli korzikai specialitásokat kínálnak, mint a Brocciu, miközben a nap alacsonyan jár a kikötő felett.\n\nDélben a Maison Bonaparte történelmi falaiban melegedhetünk. Egy séta a Citadellához a hűvös tengeri szélben felfrissíti az embert az ebéd előtt.\n\nDélután a nap korán nyugszik, arany fénybe vonva a Place d'Austerlitz emlékművét. A Musée Fesch ezután kellemes meleget és kultúrát kínál.\n\nAz este már 17:30 körül leszáll. A város fényei tükröződnek a nyugodt téli tengeren, miközben a napot egy hangulatos borozóban zárjuk.",
-            "ro": "Dimineața de iarnă în Place Foch este proaspătă și senină. Tarabele din piață oferă specialități corsicane de iarnă, în timp ce soarele stă jos deasupra portului.\n\nLa prânz, Maison Bonaparte vă încălzește cu atmosfera sa istorică. O plimbare spre Citadelă în briza răcoroasă a mării este revigorantă înainte de prânz.\n\nDupă-amiaza, soarele apune devreme, creând o lumină aurie peste monumentul din Place d'Austerlitz. Musée Fesch oferă apoi căldură și cultură.\n\nSeara se așterne în jurul orei 17:30. Luminile orașului se oglindesc în marea liniștită de iarnă, în timp ce încheiați ziua într-un bar de vinuri primitor.",
-            "en": "The winter morning at Place Foch is crisp and clear. Market stalls offer winter Corsican specialties like Brocciu while the sun hangs low over the harbor.\n\nAt noon, Maison Bonaparte warms you with its historic atmosphere. A walk to the Citadel in the cool sea breeze is refreshing before lunch.\n\nIn the afternoon, the sun sets early, casting a golden light on the monument at Place d'Austerlitz. Musée Fesch provides warmth and culture afterwards.\n\nEvening falls around 5:30 PM. City lights reflect in the calm winter sea as you finish the day in a cozy wine bar."
-          },
-          "stops": [
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Die Morgensonne wärmt hier am besten.",
-                "hu": "A reggeli nap itt melegít a legjobban.",
-                "ro": "Soarele de dimineață încălzește cel mai bine aici.",
-                "en": "Morning sun warms best here."
-              }
-            },
-            {
-              "name": "Ajaccio Market",
-              "tip_5lang": {
-                "de": "Probieren Sie frisches Wintergebäck.",
-                "hu": "Kóstolja meg a friss téli süteményeket.",
-                "ro": "Gustați produsele de patiserie proaspete de iarnă.",
-                "en": "Try fresh winter pastries."
-              }
-            },
-            {
-              "name": "Maison Bonaparte",
-              "tip_5lang": {
-                "de": "Angenehm temperiertes Gebäude im Winter.",
-                "hu": "Télen is kellemes hőmérsékletű épület.",
-                "ro": "Clădire cu temperatură plăcută iarna.",
-                "en": "Pleasantly tempered building in winter."
-              }
-            },
-            {
-              "name": "Notre-Dame Cathedral",
-              "tip_5lang": {
-                "de": "Achten Sie auf die besonderen Krippenspiele im Dezember.",
-                "hu": "Keresse a különleges betlehemeket decemberben.",
-                "ro": "Căutați scenele de naștere în decembrie.",
-                "en": "Look for special nativity scenes in December."
-              }
-            },
-            {
-              "name": "Ajaccio Citadel",
-              "tip_5lang": {
-                "de": "Der Wind kann hier an der Küste sehr kühl sein.",
-                "hu": "A szél itt a parton nagyon hűvös lehet.",
-                "ro": "Vântul poate fi foarte rece aici pe coastă.",
-                "en": "The wind can be very chilly here on the coast."
-              }
-            },
-            {
-              "name": "Place d'Austerlitz",
-              "tip_5lang": {
-                "de": "Bester Ort für Fotos im goldenen Nachmittagslicht.",
-                "hu": "A legjobb hely fotózáshoz az arany délutáni fényben.",
-                "ro": "Cel mai bun loc pentru fotografii în lumina aurie de după-amiază.",
-                "en": "Best spot for photos in the golden afternoon light."
-              }
-            },
-            {
-              "name": "Musée Fesch",
-              "tip_5lang": {
-                "de": "Ein warmer Ort für den späten Nachmittag.",
-                "hu": "Meleg hely a késő délutáni órákra.",
-                "ro": "Un loc călduros pentru după-amiaza târzie.",
-                "en": "A warm place for the late afternoon."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Kleiden Sie sich in Schichten, da die Sonne wärmt, der Schatten aber kühl ist.",
-              "Der Sonnenuntergang findet bereits gegen 17:00-17:30 Uhr statt.",
-              "Die Winterbrise am Meer erfordert eine winddichte Jacke.",
-              "Einige Cafés haben im Winter reduzierte Außenbestuhlung.",
-              "Das Licht für Fotos ist im Winter besonders weich und klar."
-            ],
-            "hu": [
-              "Öltözzön rétegesen, mert a nap melegít, de az árnyék hűvös.",
-              "A naplemente már 17:00-17:30 körül bekövetkezik.",
-              "A téli tengeri szél miatt szélálló dzseki szükséges.",
-              "Néhány kávézó télen kevesebb kinti asztallal üzemel.",
-              "A fények télen különösen lágyak és tiszták a fotózáshoz."
-            ],
-            "ro": [
-              "Îmbrăcați-vă în straturi, soarele încălzește dar umbra este rece.",
-              "Apusul are loc deja în jurul orei 17:00-17:30.",
-              "Briza iernii la mare necesită o jachetă rezistentă la vânt.",
-              "Unele cafenele au mai puține mese afară iarna.",
-              "Lumina pentru fotografii este deosebit de moale și clară iarna."
-            ],
-            "en": [
-              "Dress in layers as the sun warms but shade is cool.",
-              "Sunset occurs already around 5:00-5:30 PM.",
-              "The winter sea breeze requires a windproof jacket.",
-              "Some cafes have reduced outdoor seating in winter.",
-              "The light for photos is particularly soft and clear in winter."
-            ]
-          }
-        }
       }
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 12,
+      "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 28.5,
+      "end_estimate": "16:45",
+      "total_km": 28.0,
       "stop_count": 6,
       "stops": [
         {
@@ -909,42 +348,19 @@
             "en": "Place Foch"
           },
           "coords": [
-            8.7385,
-            41.9192
+            41.9192,
+            8.7385
           ],
-          "category": "squares/old-town",
+          "category": "square",
           "arrive_at": "09:10",
-          "stay_min": 30,
+          "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.1,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Startpunkt am Hafen.",
-            "hu": "Kiindulópont a kikötőnél.",
-            "ro": "Punct de plecare la port.",
-            "en": "Starting point at the harbor."
-          }
-        },
-        {
-          "name": {
-            "de": "Place d'Austerlitz",
-            "hu": "Place d'Austerlitz",
-            "ro": "Place d'Austerlitz",
-            "en": "Place d'Austerlitz"
-          },
-          "coords": [
-            8.7255,
-            41.9182
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:50",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.6,
-          "tip_5lang": {
-            "de": "Kurzer Stopp am Denkmal.",
-            "hu": "Rövid megálló az emlékműnél.",
-            "ro": "Oprire scurtă la monument.",
-            "en": "Short stop at the monument."
+            "de": "Startpunkt der Küstentour.",
+            "hu": "A tengerparti túra kezdőpontja.",
+            "ro": "Punctul de plecare al turului de coastă.",
+            "en": "Starting point of your coastal ride."
           }
         },
         {
@@ -955,19 +371,19 @@
             "en": "Sanguinaires Road"
           },
           "coords": [
-            8.685,
-            41.912
+            41.905,
+            8.7
           ],
-          "category": "natural features",
-          "arrive_at": "10:55",
-          "stay_min": 30,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 5.0,
+          "category": "park",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
           "tip_5lang": {
-            "de": "Wunderschöne Küstenstraße zum Radfahren.",
-            "hu": "Gyönyörű parti út kerékpározáshoz.",
-            "ro": "Drum de coastă superb pentru ciclism.",
-            "en": "Beautiful coastal road for cycling."
+            "de": "Panoramastraße entlang herrlicher Buchten.",
+            "hu": "Panorámaút gyönyörű öblök mentén.",
+            "ro": "Drum panoramic de-a lungul golfurilor.",
+            "en": "Panoramic road skirting beautiful coves."
           }
         },
         {
@@ -978,812 +394,457 @@
             "en": "Pointe de la Parata"
           },
           "coords": [
-            8.6135,
-            41.9055
+            41.895,
+            8.61
           ],
-          "category": "natural features",
-          "arrive_at": "12:00",
-          "stay_min": 120,
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 7.0,
+          "category": "viewpoint",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
           "tip_5lang": {
-            "de": "Wandern Sie zum Genueserturm für die beste Aussicht.",
-            "hu": "Sétálj fel a genuai toronyhoz a legjobb kilátásért.",
-            "ro": "Urcați la turnul genovez pentru cea mai bună vedere.",
-            "en": "Hike to the Genoese tower for the best view."
+            "de": "Bester Blick auf die Sanguinaires-Inseln.",
+            "hu": "A legjobb kilátás a Sanguinaires-szigetekre.",
+            "ro": "Cea mai bună vedere spre insulele Sanguinaires.",
+            "en": "Unbeatable views of the Sanguinaires islands."
           }
         },
         {
           "name": {
-            "de": "Plage de la Terre Sacrée",
-            "hu": "Plage de la Terre Sacrée",
-            "ro": "Plage de la Terre Sacrée",
-            "en": "Plage de la Terre Sacrée"
+            "de": "Picknick am Meer",
+            "hu": "Piknik a tengerparton",
+            "ro": "Picnic la malul mării",
+            "en": "Seaside Picnic"
           },
           "coords": [
-            8.652,
-            41.908
+            41.908,
+            8.68
           ],
-          "category": "natural features",
-          "arrive_at": "14:20",
-          "stay_min": 120,
-          "hop_from_prev_min": 20,
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Produkte mit Aussicht.",
+            "hu": "Élvezze a helyi finomságokat pazar kilátással.",
+            "ro": "Savurați produse locale cu priveliște.",
+            "en": "Enjoy local snacks with a stunning sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Ariadne",
+            "hu": "Plage de l'Ariadne",
+            "ro": "Plaja Ariadne",
+            "en": "Ariadne Beach"
+          },
+          "coords": [
+            41.91,
+            41.91
+          ],
+          "category": "beach",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erfrischendes Bad vor der Rückreise.",
+            "hu": "Frissítő mártózás a visszaút előtt.",
+            "ro": "O baie revigorantă înainte de retur.",
+            "en": "Take a quick dip before riding back."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Port (Rückkehr)",
+            "hu": "Régi kikötő (visszaérkezés)",
+            "ro": "Portul vechi (retur)",
+            "en": "Old Port (Return)"
+          },
+          "coords": [
+            41.921,
+            8.74
+          ],
+          "category": "sunset",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 25,
           "hop_from_prev_km": 3.5,
           "tip_5lang": {
-            "de": "Zeit für ein Bad im kristallklaren Wasser.",
-            "hu": "Idő egy csobbanásra a kristálytiszta vízben.",
-            "ro": "Timp pentru o baie în apa de cristal.",
-            "en": "Time for a dip in the crystal clear water."
-          }
-        },
-        {
-          "name": {
-            "de": "Musée Fesch",
-            "hu": "Musée Fesch",
-            "ro": "Musée Fesch",
-            "en": "Musée Fesch"
-          },
-          "coords": [
-            8.7402,
-            41.9212
-          ],
-          "category": "museums",
-          "arrive_at": "16:45",
-          "stay_min": 75,
-          "hop_from_prev_min": 65,
-          "hop_from_prev_km": 11.2,
-          "tip_5lang": {
-            "de": "Kultureller Abschluss des Tages.",
-            "hu": "A nap kulturális lezárása.",
-            "ro": "Finalul cultural al zilei.",
-            "en": "Cultural conclusion of the day."
+            "de": "Geben Sie die Fahrräder zurück und entspannen Sie.",
+            "hu": "Adja le a bicikliket és pihenjen egyet.",
+            "ro": "Predați bicicletele și relaxați-vă.",
+            "en": "Return your bikes and relax with a drink."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Radtour führt uns entlang der atemberaubenden Küste von Ajaccio. Wir starten im Zentrum und fahren über den Place d'Austerlitz auf die Route des Sanguinaires. Der Höhepunkt ist die Pointe de la Parata, wo wir den Rad gegen eine kurze Wanderung zum Turm tauschen.\n\nAuf dem Rückweg halten wir an einem der schönsten Strände für eine wohlverdiente Pause. Die Strecke ist flach und bietet ständig weite Ausblicke auf das Meer. Wir beenden die Tour zurück in der Stadt beim Musée Fesch, bevor wir die Räder zurückgeben.",
-        "hu": "Ez a kerékpártúra Ajaccio lenyűgöző tengerpartja mentén vezet. A központból indulunk, és a Place d'Austerlitz érintésével tekerünk ki a Route des Sanguinaires-re. A fénypont a Pointe de la Parata, ahol a bringát egy rövid túrára cseréljük a toronyhoz.\n\nVisszafelé megállunk az egyik legszebb strandon egy jól megérdemelt pihenőre. Az útvonal sík, és folyamatosan tágas kilátást nyújt a tengerre. A túrát a városba visszatérve, a Musée Fesch-nél fejezzük be, mielőtt leadnánk a kerékpárokat.",
-        "ro": "Acest tur cu bicicleta ne duce de-a lungul coastei uimitoare din Ajaccio. Pornim din centru și pedalăm pe Route des Sanguinaires, trecând prin Place d'Austerlitz. Punctul culminant este Pointe de la Parata, unde schimbăm bicicleta cu o scurtă drumeție până la turn.\n\nLa întoarcere, ne oprim la una dintre cele mai frumoase plaje pentru o pauză binemeritată. Traseul este plat și oferă în permanență vederi largi spre mare. Încheiem turul revenind în oraș la Musée Fesch, înainte de a preda bicicletele.",
-        "en": "This bike tour takes us along the stunning coast of Ajaccio. We start in the center and ride out onto the Route des Sanguinaires via Place d'Austerlitz. The highlight is Pointe de la Parata, where we swap the bike for a short hike to the tower.\n\nOn the way back, we stop at one of the most beautiful beaches for a well-deserved break. The route is flat and constantly offers expansive views of the sea. We end the tour back in the city at Musée Fesch before returning the bikes."
+        "de": "Erleben Sie die wilde Schönheit der korsischen Küste auf einer Radtour zur Pointe de la Parata. Die Route führt Sie entlang der berühmten Route des Sanguinaires.\n\nDer Wendepunkt ist das spektakuläre Kap mit seinem genuesischen Turm, von dem aus Sie die 'Blutinseln' im tiefblauen Meer liegen sehen.\n\nNach einem erholsamen Picknick an einem der vielen Sandstrände radeln Sie gemütlich zurück in Richtung Stadtzentrum.\n\nBeenden Sie Ihre Tour am alten Hafen, pünktlich zum Einsetzen der blauen Stunde, wenn die Cafés am Wasser lebendig werden.",
+        "hu": "Tapasztalja meg a korzikai partvidék vad szépségét egy kerékpártúrával a Pointe de la Parata fokhoz. Az útvonal a híres Route des Sanguinaires mentén halad.\n\nA túra csúcspontja a látványos hegyfok a genovai toronnyal, ahonnan remek kilátás nyílik a tengerből kiemelkedő Sanguinaires-szigetekre.\n\nEgy pihentető, tengerparti piknik után komótosan tekerjen vissza a város irányába, érintve a kristálytiszta vizű öblöket.\n\nA túra a régi kikötőben ér véget, éppen akkor, amikor a városi fények kigyúlnak és a teraszok megtelnek élettel.",
+        "ro": "Descoperiți frumusețea sălbatică a coastei corsicane printr-o tură cu bicicleta spre Pointe de la Parata. Traseul urmează celebra Route des Sanguinaires.\n\nPunctul culminant este capul spectaculos cu turnul său genovez, oferind o panoramă de neuitat asupra insulelor din larg.\n\nDupă un picnic relaxant pe una dintre plajele cu nisip, pedalați agale înapoi spre centrul orașului, bucurându-vă de briză.\n\nÎncheiați periplul în portul vechi, la fix pentru a savura atmosfera vibrantă de seară a cafenelelor de pe faleză.",
+        "en": "Experience the wild beauty of the Corsican coast on a cycling adventure to Pointe de la Parata. The route follows the legendary Route des Sanguinaires.\n\nYour turnaround point is the dramatic headland topped with a Genoese tower, overlooking the red-tinted Sanguinaires islands.\n\nAfter a refreshing picnic at one of the many sandy coves, enjoy a leisurely ride back toward the city center.\n\nFinish your tour at the old harbor, just as the evening lights begin to twinkle and the waterfront cafes come to life."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Paillote de la Terre Sacrée",
-            "tip": "Mittagessen direkt am Strand."
-          },
-          {
-            "name": "Le Scudo",
-            "tip": "Erfrischende Getränke mit Blick auf die Inseln."
+            "name": "Panini Corse",
+            "tip": "Schneller Snack für unterwegs."
           }
         ],
         "hu": [
           {
-            "name": "Paillote de la Terre Sacrée",
-            "tip": "Ebéd közvetlenül a strandon."
-          },
-          {
-            "name": "Le Scudo",
-            "tip": "Frissítő italok kilátással a szigetekre."
+            "name": "Panini Corse",
+            "tip": "Gyors és laktató helyi szendvics."
           }
         ],
         "ro": [
           {
-            "name": "Paillote de la Terre Sacrée",
-            "tip": "Prânz chiar pe plajă."
-          },
-          {
-            "name": "Le Scudo",
-            "tip": "Băuturi răcoritoare cu vedere la insule."
+            "name": "Panini Corse",
+            "tip": "Gustare rapidă cu arome locale."
           }
         ],
         "en": [
           {
-            "name": "Paillote de la Terre Sacrée",
-            "tip": "Lunch right on the beach."
-          },
-          {
-            "name": "Le Scudo",
-            "tip": "Refreshing drinks with a view of the islands."
+            "name": "Panini Corse",
+            "tip": "A quick and tasty local-style pressed sandwich."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Pointe de la Parata",
-            "tip": "Wilder Küstenabschnitt.",
-            "emoji": "🌅"
+            "name": "Sentier de la Parata",
+            "tip": "Nur Wind und Wellen.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Pointe de la Parata",
-            "tip": "Vad tengerparti szakasz.",
-            "emoji": "🌅"
+            "name": "Parata ösvény",
+            "tip": "Csak a szél és a hullámok zaja.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Pointe de la Parata",
-            "tip": "Segment de coastă sălbatic.",
-            "emoji": "🌅"
+            "name": "Cărarea Parata",
+            "tip": "Doar vântul și valurile mării.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Pointe de la Parata",
-            "tip": "Wild coastal section.",
-            "emoji": "🌅"
+            "name": "Parata Path",
+            "tip": "Find peace with only the sound of waves.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Korsische Delikatessen",
-            "tip": "In den Läden am Hafen."
+            "name": "Korallenschmuck",
+            "tip": "Typisch für die Region Ajaccio."
           }
         ],
         "hu": [
           {
-            "name": "Korzikai finomságok",
-            "tip": "A kikötő melletti boltokban."
+            "name": "Korall ékszerek",
+            "tip": "Ajaccio környékének jellegzetes terméke."
           }
         ],
         "ro": [
           {
-            "name": "Delicii corsicane",
-            "tip": "În magazinele de lângă port."
+            "name": "Bijuterii din coral",
+            "tip": "Specifice regiunii Ajaccio."
           }
         ],
         "en": [
           {
-            "name": "Corsican delicacies",
-            "tip": "In the shops near the harbor."
+            "name": "Coral Jewelry",
+            "tip": "Authentic red coral pieces from local artisans."
           }
         ]
       },
       "tips": {
         "de": [
-          "Mieten Sie ein E-Bike, wenn Sie weniger Anstrengung wünschen.",
-          "Nehmen Sie ausreichend Wasser und Sonnenschutz mit.",
-          "Die Küstenstraße kann im Sommer viel Verkehr haben.",
-          "Schließen Sie Ihr Fahrrad an der Parata sicher ab."
+          "Mieten Sie ein E-Bike für die Hügelstrecken.",
+          "Der Wind kann auf dem Rückweg gegen Sie wehen.",
+          "Vermeiden Sie die Mittagszeit für das Radfahren.",
+          "Bleiben Sie auf dem markierten Radweg."
         ],
         "hu": [
-          "Bérelj elektromos kerékpárt, ha kevesebb erőfeszítést szeretnél.",
-          "Vigyél magaddal elegendő vizet és naptejet.",
-          "A parti úton nyáron nagy lehet a forgalom.",
-          "Zárd le biztonságosan a biciklidet a Paratánál."
+          "Béreljen elektromos kerékpárt a dombos részekhez.",
+          "A szél visszafelé gyakran szemből fúj.",
+          "Kerülje a déli órákat a tűző nap miatt.",
+          "Maradjon a kijelölt kerékpárúton."
         ],
         "ro": [
-          "Închiriați o bicicletă electrică dacă doriți mai puțin efort.",
-          "Luați destulă apă și protecție solară.",
-          "Drumul de coastă poate fi aglomerat vara.",
-          "Încuiați bicicleta în siguranță la Parata."
+          "Închiriați o bicicletă electrică pentru dealuri.",
+          "Vântul poate sufla din față la întoarcere.",
+          "Evitați orele prânzului pentru pedalat.",
+          "Respectați pistele de biciclete marcate."
         ],
         "en": [
-          "Rent an e-bike if you want less effort.",
-          "Take plenty of water and sunscreen with you.",
-          "The coastal road can have a lot of traffic in summer.",
-          "Lock your bike securely at Parata."
+          "Rent an e-bike to handle the coastal inclines easily.",
+          "Be prepared for headwind on the return leg.",
+          "Avoid cycling during the peak midday sun.",
+          "Stick to the designated cycle paths along the shore."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Diese Radtour führt uns entlang der atemberaubenden Küste von Ajaccio. Wir starten im Zentrum und fahren über den Place d'Austerlitz auf die Route des Sanguinaires. Der Höhepunkt ist die Pointe de la Parata, wo wir den Rad gegen eine kurze Wanderung zum Turm tauschen.\n\nAuf dem Rückweg halten wir an einem der schönsten Strände für eine wohlverdiente Pause. Die Strecke ist flach und bietet ständig weite Ausblicke auf das Meer. Wir beenden die Tour zurück in der Stadt beim Musée Fesch, bevor wir die Räder zurückgeben.",
-            "hu": "Ez a kerékpártúra Ajaccio lenyűgöző tengerpartja mentén vezet. A központból indulunk, és a Place d'Austerlitz érintésével tekerünk ki a Route des Sanguinaires-re. A fénypont a Pointe de la Parata, ahol a bringát egy rövid túrára cseréljük a toronyhoz.\n\nVisszafelé megállunk az egyik legszebb strandon egy jól megérdemelt pihenőre. Az útvonal sík, és folyamatosan tágas kilátást nyújt a tengerre. A túrát a városba visszatérve, a Musée Fesch-nél fejezzük be, mielőtt leadnánk a kerékpárokat.",
-            "ro": "Acest tur cu bicicleta ne duce de-a lungul coastei uimitoare din Ajaccio. Pornim din centru și pedalăm pe Route des Sanguinaires, trecând prin Place d'Austerlitz. Punctul culminant este Pointe de la Parata, unde schimbăm bicicleta cu o scurtă drumeție până la turn.\n\nLa întoarcere, ne oprim la una dintre cele mai frumoase plaje pentru o pauză binemeritată. Traseul este plat și oferă în permanență vederi largi spre mare. Încheiem turul revenind în oraș la Musée Fesch, înainte de a preda bicicletele.",
-            "en": "This bike tour takes us along the stunning coast of Ajaccio. We start in the center and ride out onto the Route des Sanguinaires via Place d'Austerlitz. The highlight is Pointe de la Parata, where we swap the bike for a short hike to the tower.\n\nOn the way back, we stop at one of the most beautiful beaches for a well-deserved break. The route is flat and constantly offers expansive views of the sea. We end the tour back in the city at Musée Fesch before returning the bikes."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Place Foch",
-                "hu": "Place Foch",
-                "ro": "Place Foch",
-                "en": "Place Foch"
-              },
-              "tip_5lang": {
-                "de": "Startpunkt am Hafen.",
-                "hu": "Kiindulópont a kikötőnél.",
-                "ro": "Punct de plecare la port.",
-                "en": "Starting point at the harbor."
-              }
-            },
-            {
-              "name": {
-                "de": "Place d'Austerlitz",
-                "hu": "Place d'Austerlitz",
-                "ro": "Place d'Austerlitz",
-                "en": "Place d'Austerlitz"
-              },
-              "tip_5lang": {
-                "de": "Kurzer Stopp am Denkmal.",
-                "hu": "Rövid megálló az emlékműnél.",
-                "ro": "Oprire scurtă la monument.",
-                "en": "Short stop at the monument."
-              }
-            },
-            {
-              "name": {
-                "de": "Route des Sanguinaires",
-                "hu": "Sanguinaires út",
-                "ro": "Route des Sanguinaires",
-                "en": "Sanguinaires Road"
-              },
-              "tip_5lang": {
-                "de": "Wunderschöne Küstenstraße zum Radfahren.",
-                "hu": "Gyönyörű parti út kerékpározáshoz.",
-                "ro": "Drum de coastă superb pentru ciclism.",
-                "en": "Beautiful coastal road for cycling."
-              }
-            },
-            {
-              "name": {
-                "de": "Pointe de la Parata",
-                "hu": "Pointe de la Parata",
-                "ro": "Pointe de la Parata",
-                "en": "Pointe de la Parata"
-              },
-              "tip_5lang": {
-                "de": "Wandern Sie zum Genueserturm für die beste Aussicht.",
-                "hu": "Sétálj fel a genuai toronyhoz a legjobb kilátásért.",
-                "ro": "Urcați la turnul genovez pentru cea mai bună vedere.",
-                "en": "Hike to the Genoese tower for the best view."
-              }
-            },
-            {
-              "name": {
-                "de": "Plage de la Terre Sacrée",
-                "hu": "Plage de la Terre Sacrée",
-                "ro": "Plage de la Terre Sacrée",
-                "en": "Plage de la Terre Sacrée"
-              },
-              "tip_5lang": {
-                "de": "Zeit für ein Bad im kristallklaren Wasser.",
-                "hu": "Idő egy csobbanásra a kristálytiszta vízben.",
-                "ro": "Timp pentru o baie în apa de cristal.",
-                "en": "Time for a dip in the crystal clear water."
-              }
-            },
-            {
-              "name": {
-                "de": "Musée Fesch",
-                "hu": "Musée Fesch",
-                "ro": "Musée Fesch",
-                "en": "Musée Fesch"
-              },
-              "tip_5lang": {
-                "de": "Kultureller Abschluss des Tages.",
-                "hu": "A nap kulturális lezárása.",
-                "ro": "Finalul cultural al zilei.",
-                "en": "Cultural conclusion of the day."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Paillote de la Terre Sacrée",
-                "tip": "Mittagessen direkt am Strand."
-              },
-              {
-                "name": "Le Scudo",
-                "tip": "Erfrischende Getränke mit Blick auf die Inseln."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Paillote de la Terre Sacrée",
-                "tip": "Ebéd közvetlenül a strandon."
-              },
-              {
-                "name": "Le Scudo",
-                "tip": "Frissítő italok kilátással a szigetekre."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Paillote de la Terre Sacrée",
-                "tip": "Prânz chiar pe plajă."
-              },
-              {
-                "name": "Le Scudo",
-                "tip": "Băuturi răcoritoare cu vedere la insule."
-              }
-            ],
-            "en": [
-              {
-                "name": "Paillote de la Terre Sacrée",
-                "tip": "Lunch right on the beach."
-              },
-              {
-                "name": "Le Scudo",
-                "tip": "Refreshing drinks with a view of the islands."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Pointe de la Parata",
-                "tip": "Wilder Küstenabschnitt.",
-                "emoji": "🌅"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Pointe de la Parata",
-                "tip": "Vad tengerparti szakasz.",
-                "emoji": "🌅"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Pointe de la Parata",
-                "tip": "Segment de coastă sălbatic.",
-                "emoji": "🌅"
-              }
-            ],
-            "en": [
-              {
-                "name": "Pointe de la Parata",
-                "tip": "Wild coastal section.",
-                "emoji": "🌅"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Korsische Delikatessen",
-                "tip": "In den Läden am Hafen."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Korzikai finomságok",
-                "tip": "A kikötő melletti boltokban."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Delicii corsicane",
-                "tip": "În magazinele de lângă port."
-              }
-            ],
-            "en": [
-              {
-                "name": "Corsican delicacies",
-                "tip": "In the shops near the harbor."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Mieten Sie ein E-Bike, wenn Sie weniger Anstrengung wünschen.",
-              "Nehmen Sie ausreichend Wasser und Sonnenschutz mit.",
-              "Die Küstenstraße kann im Sommer viel Verkehr haben.",
-              "Schließen Sie Ihr Fahrrad an der Parata sicher ab."
-            ],
-            "hu": [
-              "Bérelj elektromos kerékpárt, ha kevesebb erőfeszítést szeretnél.",
-              "Vigyél magaddal elegendő vizet és naptejet.",
-              "A parti úton nyáron nagy lehet a forgalom.",
-              "Zárd le biztonságosan a biciklidet a Paratánál."
-            ],
-            "ro": [
-              "Închiriați o bicicletă electrică dacă doriți mai puțin efort.",
-              "Luați destulă apă și protecție solară.",
-              "Drumul de coastă poate fi aglomerat vara.",
-              "Încuiați bicicleta în siguranță la Parata."
-            ],
-            "en": [
-              "Rent an e-bike if you want less effort.",
-              "Take plenty of water and sunscreen with you.",
-              "The coastal road can have a lot of traffic in summer.",
-              "Lock your bike securely at Parata."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Das Radfahren im Regen erfordert Vorsicht auf dem Kopfsteinpflaster von Ajaccio. Wir starten am Place Foch und fahren zügig zum Place d'Austerlitz.\n\nMittags geht es entlang der Sanguinaires-Straße, wo die Gischt des Meeres mit dem Regen verschmilzt. Die Pointe de la Parata wirkt bei diesem Wetter besonders mystisch.\n\nNachmittags bietet die Rückfahrt entlang der Küste dramatische Ausblicke auf das graue Mittelmeer, bevor wir das Rad sicher abstellen.\n\nAbends wärmen wir uns nach der nassen Tour im Musée Fesch auf, wo die Kunst den grauen Tag vergessen lässt.",
-            "hu": "Az esőben való kerékpározás óvatosságot igényel Ajaccio macskakövein. A Place Foch-ról indulunk és gyorsan a Place d'Austerlitz felé vesszük az irányt.\n\nDélben a Sanguinaires úton haladunk, ahol a tenger permete keveredik az esővel. A Pointe de la Parata különösen misztikus ebben az időben.\n\nDélután a tengerparti visszaút drámai kilátást nyújt a szürke Földközi-tengerre, mielőtt biztonságba helyezzük a bringát.\n\nEste a vizes túra után a Musée Fesch-ben melegszünk fel, ahol a művészet feledteti a szürke napot.",
-            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavajul din Ajaccio. Pornim din Place Foch și ne îndreptăm rapid spre Place d'Austerlitz.\n\nLa prânz mergem pe drumul Sanguinaires, unde aerosolii mării se amestecă cu ploaia. Pointe de la Parata pare deosebit de mistică pe acest timp.\n\nDupă-amiaza, drumul de întoarcere pe coastă oferă vederi dramatice asupra Mediteranei gri, înainte de a parca bicicleta în siguranță.\n\nSeara ne încălzim după turul umed la Musée Fesch, unde arta ne face să uităm de ziua cenușie.",
-            "en": "Cycling in the rain requires caution on Ajaccio's cobblestones. We start at Place Foch and head quickly towards Place d'Austerlitz.\n\nAt noon, we ride along the Sanguinaires road where sea spray mixes with rain. Pointe de la Parata looks particularly mystical in this weather.\n\nAfternoon return ride along the coast offers dramatic views of the grey Mediterranean before safely parking the bike.\n\nIn the evening, we warm up after the wet tour at Musée Fesch, where art makes you forget the grey day."
-          },
-          "stops": [
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Achten Sie auf rutschige Markierungen auf der Straße.",
-                "hu": "Vigyázzon a csúszós útburkolati jelekre.",
-                "ro": "Atenție la marcajele rutiere alunecoase.",
-                "en": "Watch out for slippery road markings."
-              }
-            },
-            {
-              "name": "Place d'Austerlitz",
-              "tip_5lang": {
-                "de": "Kurzer Stopp unter den Bäumen möglich.",
-                "hu": "Rövid megálló a fák alatt lehetséges.",
-                "ro": "Scurtă oprire posibilă sub copaci.",
-                "en": "Short stop possible under the trees."
-              }
-            },
-            {
-              "name": "Sanguinaires Road",
-              "tip_5lang": {
-                "de": "Gute Regenjacke gegen den Fahrtwind und Nässe nötig.",
-                "hu": "Jó esőkabát kell a menetszél és a nedvesség ellen.",
-                "ro": "Jachetă de ploaie bună necesară contra vântului și umezelii.",
-                "en": "Good rain jacket needed against wind and wetness."
-              }
-            },
-            {
-              "name": "Pointe de la Parata",
-              "tip_5lang": {
-                "de": "Das Besucherzentrum bietet Schutz vor starkem Regen.",
-                "hu": "A látogatóközpont védelmet nyújt az erős eső ellen.",
-                "ro": "Centrul de vizitatori oferă adăpost contra ploii torențiale.",
-                "en": "The visitor center offers shelter from heavy rain."
-              }
-            },
-            {
-              "name": "Plage de la Terre Sacrée",
-              "tip_5lang": {
-                "de": "Die Felsen können bei Regen sehr glatt sein.",
-                "hu": "A sziklák esőben nagyon csúszósak lehetnek.",
-                "ro": "Stâncile pot fi foarte alunecoase pe ploaie.",
-                "en": "The rocks can be very slick in the rain."
-              }
-            },
-            {
-              "name": "Musée Fesch",
-              "tip_5lang": {
-                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
-                "hu": "Kerékpártárolók a bejárat közelében találhatók.",
-                "ro": "Suporturile de biciclete sunt lângă intrare.",
-                "en": "Bike racks are located near the entrance."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Vermeiden Sie abruptes Bremsen auf nassem Kopfsteinpflaster.",
-              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
-              "Die Küstenstraße kann bei Wind und Regen anstrengend sein.",
-              "Beleuchtung am Rad ist bei grauem Regenwetter Pflicht.",
-              "Wasserdichte Packtaschen halten Ihre Sachen trocken."
-            ],
-            "hu": [
-              "Kerülje a hirtelen fékezést a nedves macskaköveken.",
-              "Használjon sárvédőt a felcsapódó víz ellen.",
-              "A part menti út szélben és esőben fárasztó lehet.",
-              "Szürke, esős időben kötelező a kerékpár kivilágítása.",
-              "A vízálló táskák szárazon tartják a felszerelését."
-            ],
-            "ro": [
-              "Evitați frânarea bruscă pe pavajul umed.",
-              "Folosiți apărători pentru a vă proteja de apă.",
-              "Drumul de coastă poate fi obositor pe vânt și ploaie.",
-              "Luminile la bicicletă sunt obligatorii pe vreme gri.",
-              "Gențile impermeabile vă mențin lucrurile uscate."
-            ],
-            "en": [
-              "Avoid sudden braking on wet cobblestones.",
-              "Use mudguards to protect yourself from spray.",
-              "The coastal road can be tiring in wind and rain.",
-              "Bike lights are mandatory in grey, rainy weather.",
-              "Waterproof panniers will keep your belongings dry."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein klarer Wintertag ist ideal für eine Radtour entlang der Küste. Die kühle Morgenluft am Place Foch weckt die Lebensgeister.\n\nMittags radeln wir unter der milden Dezembersonne zur Pointe de la Parata. Die Sicht auf die Sanguinaires-Inseln ist im Winter oft klarer als im Sommer.\n\nNachmittags genießen wir die leeren Strände wie Terre Sacrée, wo man die Stille des Meeres ohne die sommerlichen Massen erlebt.\n\nAbends kehren wir rechtzeitig vor Sonnenuntergang in die Stadt zurück, um das letzte Licht am Musée Fesch zu bewundern.",
-            "hu": "Egy tiszta téli nap ideális a tengerparti kerékpározáshoz. A Place Foch hűvös reggeli levegője felélénkíti az embert.\n\nDélben az enyhe decemberi napsütésben tekerünk a Pointe de la Parata felé. A Sanguinaires-szigetek látványa télen gyakran tisztább, mint nyáron.\n\nDélután élvezzük az üres strandokat, mint a Terre Sacrée, ahol a tenger csendjét nyári tömeg nélkül élhetjük át.\n\nEste időben, még naplemente előtt visszatérünk a városba, hogy megcsodáljuk az utolsó fényeket a Musée Fesch-nél.",
-            "ro": "O zi senină de iarnă este ideală pentru o tură cu bicicleta pe coastă. Aerul răcoros de dimineață din Place Foch vă înviorează.\n\nLa prânz pedalăm sub soarele blând de decembrie spre Pointe de la Parata. Vederea spre insulele Sanguinaires este adesea mai clară iarna.\n\nDupă-amiaza ne bucurăm de plajele pustii precum Terre Sacrée, unde experimentați liniștea mării fără mulțimile de vară.\n\nSeara ne întoarcem în oraș înainte de apus, pentru a admira ultima lumină la Musée Fesch.",
-            "en": "A clear winter day is ideal for a bike ride along the coast. The cool morning air at Place Foch awakens the spirit.\n\nAt noon, we cycle under the mild December sun to Pointe de la Parata. The view of the Sanguinaires islands is often clearer in winter than in summer.\n\nIn the afternoon, enjoy empty beaches like Terre Sacrée, experiencing the sea's silence without the summer crowds.\n\nEvening sees us returning to the city before sunset to admire the last light at Musée Fesch."
-          },
-          "stops": [
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Handschuhe für die kühle Abfahrt bereit halten.",
-                "hu": "Készítse elő a kesztyűt a hűvös induláshoz.",
-                "ro": "Pregătiți mănușile pentru plecarea răcoroasă.",
-                "en": "Have gloves ready for the cool start."
-              }
-            },
-            {
-              "name": "Place d'Austerlitz",
-              "tip_5lang": {
-                "de": "Der Platz liegt im Winter oft im Schatten.",
-                "hu": "A tér télen gyakran árnyékban van.",
-                "ro": "Piața este adesea în umbră iarna.",
-                "en": "The square is often in the shade in winter."
-              }
-            },
-            {
-              "name": "Sanguinaires Road",
-              "tip_5lang": {
-                "de": "Genießen Sie die verkehrsarmen Straßen im Winter.",
-                "hu": "Élvezze a forgalommentes utakat télen.",
-                "ro": "Bucurați-vă de străzile libere iarna.",
-                "en": "Enjoy the traffic-free roads in winter."
-              }
-            },
-            {
-              "name": "Pointe de la Parata",
-              "tip_5lang": {
-                "de": "Wunderschönes Licht für Landschaftsaufnahmen.",
-                "hu": "Gyönyörű fények a tájképekhez.",
-                "ro": "Lumină minunată pentru fotografii de peisaj.",
-                "en": "Beautiful light for landscape shots."
-              }
-            },
-            {
-              "name": "Plage de la Terre Sacrée",
-              "tip_5lang": {
-                "de": "Perfekter Ort für eine Pause in der Sonne.",
-                "hu": "Tökéletes hely egy napsütéses pihenőhöz.",
-                "ro": "Loc perfect pentru o pauză la soare.",
-                "en": "Perfect spot for a break in the sun."
-              }
-            },
-            {
-              "name": "Musée Fesch",
-              "tip_5lang": {
-                "de": "Rechtzeitig vor der Schließung ankommen.",
-                "hu": "Érkezzen meg időben zárás előtt.",
-                "ro": "Ajungeți la timp înainte de închidere.",
-                "en": "Arrive well before closing time."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Warme Handschuhe sind wegen des Fahrtwinds wichtig.",
-              "Die Tage sind kurz, planen Sie die Rückkehr vor 17:00 Uhr.",
-              "Die Sonne kann auch im Winter intensiv sein, Sonnenschutz nutzen.",
-              "Prüfen Sie den Reifendruck, Kälte beeinflusst ihn.",
-              "Nutzen Sie die Nebensaison für entspanntes Fahren ohne Stau."
-            ],
-            "hu": [
-              "A menetszél miatt fontos a meleg kesztyű.",
-              "A nappalok rövidek, tervezze a visszatérést 17:00 előtt.",
-              "A nap télen is erős lehet, használjon fényvédőt.",
-              "Ellenőrizze a guminyomást, a hideg befolyásolja.",
-              "Használja ki az előszezont a forgalommentes tekeréshez."
-            ],
-            "ro": [
-              "Mănușile calde sunt importante din cauza vântului.",
-              "Zilele sunt scurte, planificați întoarcerea înainte de ora 17:00.",
-              "Soarele poate fi intens și iarna, folosiți protecție solară.",
-              "Verificați presiunea în anvelope, frigul o influențează.",
-              "Profitați de extrasezon pentru o plimbare fără trafic."
-            ],
-            "en": [
-              "Warm gloves are important because of the wind chill.",
-              "Days are short, plan to be back before 5:00 PM.",
-              "The sun can be intense even in winter, use sun protection.",
-              "Check tire pressure, as cold affects it.",
-              "Take advantage of the off-season for relaxed riding without traffic."
-            ]
-          }
-        }
       }
     },
     "car": {
       "mode": "car",
-      "speed_kmh": 22,
+      "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 27.6,
-      "stop_count": 6,
+      "end_estimate": "18:00",
+      "total_km": 40.0,
+      "stop_count": 8,
       "stops": [
         {
           "name": {
-            "de": "Musée Fesch",
-            "hu": "Musée Fesch",
-            "ro": "Musée Fesch",
-            "en": "Musée Fesch"
+            "de": "Place Foch (Altstadt-Cluster)",
+            "hu": "Place Foch (Óváros-klaszter)",
+            "ro": "Place Foch (Cluster Centru)",
+            "en": "Place Foch (Old Town Cluster)"
           },
           "coords": [
-            8.7402,
-            41.9212
+            41.9192,
+            8.7385
           ],
-          "category": "museums",
+          "category": "square",
           "arrive_at": "09:10",
-          "stay_min": 100,
+          "stay_min": 30,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Parkhaus direkt in der Nähe nutzen.",
-            "hu": "Használd a közeli parkolóházat.",
-            "ro": "Folosiți parcarea din apropiere.",
-            "en": "Use the parking garage nearby."
+            "de": "Parken Sie im Parkhaus am Hafen.",
+            "hu": "Parkoljon a kikötői parkolóházban.",
+            "ro": "Parcați în garajul de lângă port.",
+            "en": "Use the main harbor parking garage for the old town."
           }
         },
         {
           "name": {
-            "de": "Chapelle Impériale",
-            "hu": "Császári kápolna",
-            "ro": "Chapelle Impériale",
-            "en": "Imperial Chapel"
+            "de": "Maison Bonaparte",
+            "hu": "Napóleon szülőháza",
+            "ro": "Maison Bonaparte",
+            "en": "Maison Bonaparte"
           },
           "coords": [
-            8.7408,
-            41.9218
+            41.9181,
+            8.7397
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:00",
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkhaus.",
+            "hu": "Rövid séta a parkolóháztól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "A brief walk from the harbor parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale d'Ajaccio",
+            "hu": "Ajaccioi katedrális",
+            "ro": "Catedrala din Ajaccio",
+            "en": "Ajaccio Cathedral"
+          },
+          "coords": [
+            41.9174,
+            8.7391
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:10",
           "stay_min": 40,
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Die Grabstätte der Familie Bonaparte.",
-            "hu": "A Bonaparte család sírhelye.",
-            "ro": "Locul de veșnică odihnă al familiei Bonaparte.",
-            "en": "The burial place of the Bonaparte family."
+            "de": "In den schattigen Gassen gelegen.",
+            "hu": "Az árnyas sikátorok mélyén található.",
+            "ro": "Situată pe străduțele umbrite.",
+            "en": "Located deep within the shaded alleys."
           }
         },
         {
           "name": {
-            "de": "Place d'Austerlitz",
-            "hu": "Place d'Austerlitz",
-            "ro": "Place d'Austerlitz",
-            "en": "Place d'Austerlitz"
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Harbor Lunch"
           },
           "coords": [
-            8.7255,
-            41.9182
+            41.9195,
+            8.739
           ],
-          "category": "squares/old-town",
-          "arrive_at": "11:55",
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kehren Sie vor der Fahrt zum Auto zurück.",
+            "hu": "Térjen vissza az autóhoz az ebéd után.",
+            "ro": "Reveniți la mașină după prânz.",
+            "en": "Return to your vehicle after enjoying your meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Austerlitz (Denkmal-Cluster)",
+            "hu": "Place d'Austerlitz (Emlékmű-klaszter)",
+            "ro": "Place d'Austerlitz (Cluster Monument)",
+            "en": "Place d'Austerlitz (Monument Cluster)"
+          },
+          "coords": [
+            41.918,
+            8.725
+          ],
+          "category": "monument",
+          "arrive_at": "13:30",
           "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Einfaches Parken am großen Platz.",
-            "hu": "Könnyű parkolás a nagy téren.",
-            "ro": "Parcare ușoară în piața mare.",
-            "en": "Easy parking at the large square."
+            "de": "Großer kostenloser Parkplatz vorhanden.",
+            "hu": "Nagy ingyenes parkoló áll rendelkezésre.",
+            "ro": "Parcare gratuită spațioasă disponibilă.",
+            "en": "Large free parking lot available on site."
           }
         },
         {
           "name": {
-            "de": "Pointe de la Parata",
-            "hu": "Pointe de la Parata",
-            "ro": "Pointe de la Parata",
-            "en": "Pointe de la Parata"
+            "de": "Grotte de Napoléon",
+            "hu": "Napóleon barlangja",
+            "ro": "Grota lui Napoleon",
+            "en": "Napoleon's Grotto"
           },
           "coords": [
-            8.6135,
-            41.9055
+            41.9175,
+            8.724
           ],
-          "category": "natural features",
-          "arrive_at": "13:10",
-          "stay_min": 120,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 11.5,
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Großer kostenpflichtiger Parkplatz vorhanden.",
-            "hu": "Nagy fizetős parkoló áll rendelkezésre.",
-            "ro": "Parcare mare cu plată disponibilă.",
-            "en": "Large paid parking lot available."
+            "de": "Direkt neben dem Denkmal gelegen.",
+            "hu": "Közvetlenül az emlékmű mellett található.",
+            "ro": "Situată chiar lângă monument.",
+            "en": "Located immediately adjacent to the monument."
           }
         },
         {
           "name": {
-            "de": "Plage de Barbicaja",
-            "hu": "Plage de Barbicaja",
-            "ro": "Plage de Barbicaja",
-            "en": "Plage de Barbicaja"
+            "de": "Pointe de la Parata (Natur-Cluster)",
+            "hu": "Pointe de la Parata (Természet-klaszter)",
+            "ro": "Pointe de la Parata (Cluster Natură)",
+            "en": "Pointe de la Parata (Nature Cluster)"
           },
           "coords": [
-            8.695,
-            41.9095
+            41.895,
+            8.61
           ],
-          "category": "natural features",
-          "arrive_at": "15:35",
-          "stay_min": 90,
+          "category": "viewpoint",
+          "arrive_at": "15:05",
+          "stay_min": 100,
           "hop_from_prev_min": 25,
-          "hop_from_prev_km": 8.0,
+          "hop_from_prev_km": 12.0,
           "tip_5lang": {
-            "de": "Schöner Sandstrand auf dem Rückweg.",
-            "hu": "Szép homokos strand a visszaúton.",
-            "ro": "Plajă frumoasă cu nisip la întoarcere.",
-            "en": "Beautiful sandy beach on the way back."
+            "de": "Großer gebührenpflichtiger Parkplatz am Kap.",
+            "hu": "Nagy fizetős parkoló a foknál.",
+            "ro": "Parcare mare cu plată la capăt.",
+            "en": "Large paid parking area at the end of the road."
           }
         },
         {
           "name": {
-            "de": "Place Foch",
-            "hu": "Place Foch",
-            "ro": "Place Foch",
-            "en": "Place Foch"
+            "de": "Abendessen mit Meerblick",
+            "hu": "Vacsora tengeri kilátással",
+            "ro": "Cină cu vedere la mare",
+            "en": "Sea View Dinner"
           },
           "coords": [
-            8.7385,
-            41.9192
+            41.91,
+            8.695
           ],
-          "category": "squares/old-town",
-          "arrive_at": "17:25",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5.0,
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.5,
           "tip_5lang": {
-            "de": "Abendlicher Spaziergang am Hafen.",
-            "hu": "Esti séta a kikötőben.",
-            "ro": "Plimbare de seară în port.",
-            "en": "Evening walk at the harbor."
+            "de": "Buchen Sie einen Tisch für den Sonnenuntergang.",
+            "hu": "Foglaljon asztalt a naplementéhez.",
+            "ro": "Rezervați o masă pentru apus.",
+            "en": "Book a terrace table to catch the sunset."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto erreichen wir mühelos die weiter entfernten Highlights von Ajaccio. Wir beginnen kulturell im Musée Fesch und der kaiserlichen Kapelle. Danach fahren wir zur Pointe de la Parata am Ende der Halbinsel, um die spektakulären Sanguinaires-Inseln aus der Nähe zu sehen.\n\nDer Wagen gibt uns die Freiheit, an versteckten Buchten wie Barbicaja zu halten, um die Sonne zu genießen. Zum Abschluss kehren wir ins Stadtzentrum zurück, um die Atmosphäre am Place Foch bei Sonnenuntergang zu erleben. Diese Route kombiniert kaiserliche Geschichte mit der wilden Schönheit der korsischen Küste.",
-        "hu": "Autóval könnyedén elérjük Ajaccio távolabbi látnivalóit is. Kulturális kezdésként a Musée Fesch-t és a császári kápolnát keressük fel. Ezután a félsziget végén található Pointe de la Parata felé vesszük az irányt, hogy közelről lássuk a látványos Sanguinaires-szigeteket.\n\nAz autó szabadságot ad, hogy megálljunk olyan rejtett öblöknél, mint Barbicaja, és élvezzük a napsütést. Végül visszatérünk a városközpontba, hogy naplementekor átéljük a Place Foch hangulatát. Ez az útvonal ötvözi a császári történelmet Korzika vadregényes partvidékével.",
-        "ro": "Cu mașina, ajungem fără efort la punctele de atracție mai îndepărtate din Ajaccio. Începem cultural la Musée Fesch și Capela Imperială. Apoi ne îndreptăm spre Pointe de la Parata, la capătul peninsulei, pentru a vedea de aproape spectaculoasele insule Sanguinaires.\n\nMașina ne oferă libertatea de a opri în golfuri ascunse precum Barbicaja pentru a ne bucura de soare. În final, ne întoarcem în centrul orașului pentru a experimenta atmosfera din Place Foch la apus. Acest traseu combină istoria imperială cu frumusețea sălbatică a coastei corsicane.",
-        "en": "By car, we easily reach the more distant highlights of Ajaccio. We start culturally at Musée Fesch and the Imperial Chapel. Then we head to Pointe de la Parata at the end of the peninsula to see the spectacular Sanguinaires Islands up close.\n\nThe car gives us the freedom to stop at hidden bays like Barbicaja to enjoy the sun. Finally, we return to the city center to experience the atmosphere of Place Foch at sunset. This route combines imperial history with the wild beauty of the Corsican coast."
+        "de": "Dieser Tag verbindet das historische Zentrum mit der wilden Schönheit der Parata-Spitze. Beginnen Sie im Herzen der Altstadt mit den wichtigsten Napoleon-Stätten.\n\nNach einem gemütlichen Mittagessen am Hafen fahren Sie zum monumentalen Austerlitz-Platz, um die kaiserliche Größe zu bewundern.\n\nDer späte Nachmittag führt Sie aus der Stadt hinaus entlang der Küstenstraße zum felsigen Kap der Parata, dem perfekten Ort für Naturerlebnisse.\n\nBeenden Sie Ihre Tour in einem der erstklassigen Restaurants an der Route des Sanguinaires, während die Sonne im Meer versinkt.",
+        "hu": "Ez az autós nap összeköti a történelmi belvárost a Parata-fok vadregényes szépségével. Kezdjen az óváros szívében a legfontosabb Napóleon-emlékhelyekkel.\n\nEgy hangulatos kikötői ebéd után guruljon el a monumentális Austerlitz térre, hogy megcsodálja a császári nagyság emlékművét.\n\nA késő délutánt töltse a városon kívül, autózva a parti úton egészen a Parata-fokig, ahol a természeté a főszerep.\n\nA napot a Route des Sanguinaires egyik kiváló éttermében zárhatja, nézve a tengerbe bukó napot.",
+        "ro": "Această zi cu mașina îmbină centrul istoric cu frumusețea sălbatică a promontoriului Parata. Începeți în inima orașului vechi cu principalele situri napoleoniene.\n\nDupă un prânz plăcut în port, conduceți spre monumentala Place d'Austerlitz pentru a admira grandoarea imperială.\n\nDupă-amiaza târziu vă poartă în afara orașului, de-a lungul drumului de coastă spre capul stâncos Parata, locul ideal pentru natură.\n\nÎncheiați turul la unul dintre restaurantele de top de pe Route des Sanguinaires, în timp ce soarele dispare în mare.",
+        "en": "This driving day combines the historic urban core with the wild beauty of the Parata headland. Start in the heart of the old town with the primary Napoleonic sites.\n\nAfter a pleasant lunch by the harbor, drive to the monumental Place d'Austerlitz to admire the imperial scale of the monument.\n\nYour late afternoon takes you out of town along the scenic coastal road to the rocky cape of Parata, the perfect spot for natural immersion.\n\nConclude your journey at one of the prime restaurants along the Route des Sanguinaires as the sun sinks into the Mediterranean."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Restaurant L'Altru Versu",
-            "tip": "Gehobene Küche mit Panoramablick auf den Golf."
+            "name": "Le Week-end",
+            "tip": "Legendäres Restaurant am Strand."
           }
         ],
         "hu": [
           {
-            "name": "Restaurant L'Altru Versu",
-            "tip": "Elegáns konyha panorámás kilátással az öbölre."
+            "name": "Le Week-end",
+            "tip": "Legendás étterem a tengerparton."
           }
         ],
         "ro": [
           {
-            "name": "Restaurant L'Altru Versu",
-            "tip": "Bucătărie rafinată cu vedere panoramică asupra golfului."
+            "name": "Le Week-end",
+            "tip": "Restaurant legendar pe plajă."
           }
         ],
         "en": [
           {
-            "name": "Restaurant L'Altru Versu",
-            "tip": "Upscale cuisine with panoramic views of the gulf."
+            "name": "Le Week-end",
+            "tip": "A legendary beachfront restaurant with great views."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Pointe de la Parata",
-            "tip": "Perfekter Ort für den Sonnenuntergang.",
+            "name": "Parata Aussichtsturm",
+            "tip": "Stille der Natur.",
             "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Pointe de la Parata",
-            "tip": "Tökéletes hely a naplementéhez.",
+            "name": "Parata kilátó",
+            "tip": "A természet csendje.",
             "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Pointe de la Parata",
-            "tip": "Locul perfect pentru apus.",
+            "name": "Turnul Parata",
+            "tip": "Liniștea naturii la apus.",
             "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Pointe de la Parata",
-            "tip": "Perfect spot for sunset.",
+            "name": "Parata Tower",
+            "tip": "Find peace watching the sun dip into the sea.",
             "emoji": "🌅"
           }
         ]
@@ -1791,1077 +852,339 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "E.Leclerc Ajaccio",
-            "tip": "Große Auswahl an lokalen Produkten für die Reise."
+            "name": "Korsischer Honig",
+            "tip": "Aromatisch und geschützt (AOP)."
           }
         ],
         "hu": [
           {
-            "name": "E.Leclerc Ajaccio",
-            "tip": "Helyi termékek széles választéka az útra."
+            "name": "Korzikai méz",
+            "tip": "Aromás és védett eredetű (AOP) finomság."
           }
         ],
         "ro": [
           {
-            "name": "E.Leclerc Ajaccio",
-            "tip": "Selecție largă de produse locale pentru drum."
+            "name": "Miere corsicană",
+            "tip": "Aromată și protejată (AOP)."
           }
         ],
         "en": [
           {
-            "name": "E.Leclerc Ajaccio",
-            "tip": "Wide selection of local products for the trip."
+            "name": "Corsican Honey",
+            "tip": "Look for the AOP label for authentic fragrant honey."
           }
         ]
       },
       "tips": {
         "de": [
-          "Das Parken im Zentrum kann schwierig sein, nutzen Sie bewachte Parkhäuser.",
-          "Die Küstenstraße ist eng, fahren Sie vorsichtig.",
-          "In der Hochsaison sind die Parkplätze an der Parata schnell belegt.",
-          "Ein Mietwagen ermöglicht auch Ausflüge in die nahen Berge."
+          "Das Parken in der Innenstadt kann im Sommer schwierig sein.",
+          "Nutzen Sie Park-and-Ride-Optionen, falls verfügbar.",
+          "Die Küstenstraße ist abends besonders schön zu befahren.",
+          "Vermeiden Sie das Stadtzentrum während der Stoßzeiten."
         ],
         "hu": [
-          "A központban nehéz lehet a parkolás, használd az őrzött parkolóházakat.",
-          "A parti út szűk, vezess óvatosan.",
-          "Főszezonban a Parata parkolói gyorsan megtelnek.",
-          "A bérautó lehetővé teszi a közeli hegyek felfedezését is."
+          "A belvárosi parkolás nyáron nehézkes lehet.",
+          "Használja a P+R lehetőségeket, ha elérhetők.",
+          "A parti út este a legszebb az autózáshoz.",
+          "Kerülje a belvárost a csúcsidőszakokban."
         ],
         "ro": [
-          "Parcarea în centru poate fi dificilă, folosiți parcări păzite.",
-          "Drumul de coastă este îngust, conduceți cu atenție.",
-          "În plin sezon, parcările de la Parata se umplu rapid.",
-          "O mașină închiriată permite și excursii în munții din apropiere."
+          "Parcarea în centru poate fi dificilă vara.",
+          "Folosiți opțiunile P+R dacă sunt disponibile.",
+          "Drumul de coastă este superb de parcurs seara.",
+          "Evitați centrul orașului la orele de vârf."
         ],
         "en": [
-          "Parking in the center can be difficult, use guarded parking garages.",
-          "The coastal road is narrow, drive carefully.",
-          "In high season, the parking lots at Parata fill up quickly.",
-          "A rental car also allows trips to the nearby mountains."
+          "Downtown parking can be very challenging in peak summer.",
+          "Consider park-and-ride options if staying outside the center.",
+          "The coastal drive is most scenic during the evening hours.",
+          "Avoid the very center during local rush hours."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Mit dem Auto erreichen wir mühelos die weiter entfernten Highlights von Ajaccio. Wir beginnen kulturell im Musée Fesch und der kaiserlichen Kapelle. Danach fahren wir zur Pointe de la Parata am Ende der Halbinsel, um die spektakulären Sanguinaires-Inseln aus der Nähe zu sehen.\n\nDer Wagen gibt uns die Freiheit, an versteckten Buchten wie Barbicaja zu halten, um die Sonne zu genießen. Zum Abschluss kehren wir ins Stadtzentrum zurück, um die Atmosphäre am Place Foch bei Sonnenuntergang zu erleben. Diese Route kombiniert kaiserliche Geschichte mit der wilden Schönheit der korsischen Küste.",
-            "hu": "Autóval könnyedén elérjük Ajaccio távolabbi látnivalóit is. Kulturális kezdésként a Musée Fesch-t és a császári kápolnát keressük fel. Ezután a félsziget végén található Pointe de la Parata felé vesszük az irányt, hogy közelről lássuk a látványos Sanguinaires-szigeteket.\n\nAz autó szabadságot ad, hogy megálljunk olyan rejtett öblöknél, mint Barbicaja, és élvezzük a napsütést. Végül visszatérünk a városközpontba, hogy naplementekor átéljük a Place Foch hangulatát. Ez az útvonal ötvözi a császári történelmet Korzika vadregényes partvidékével.",
-            "ro": "Cu mașina, ajungem fără efort la punctele de atracție mai îndepărtate din Ajaccio. Începem cultural la Musée Fesch și Capela Imperială. Apoi ne îndreptăm spre Pointe de la Parata, la capătul peninsulei, pentru a vedea de aproape spectaculoasele insule Sanguinaires.\n\nMașina ne oferă libertatea de a opri în golfuri ascunse precum Barbicaja pentru a ne bucura de soare. În final, ne întoarcem în centrul orașului pentru a experimenta atmosfera din Place Foch la apus. Acest traseu combină istoria imperială cu frumusețea sălbatică a coastei corsicane.",
-            "en": "By car, we easily reach the more distant highlights of Ajaccio. We start culturally at Musée Fesch and the Imperial Chapel. Then we head to Pointe de la Parata at the end of the peninsula to see the spectacular Sanguinaires Islands up close.\n\nThe car gives us the freedom to stop at hidden bays like Barbicaja to enjoy the sun. Finally, we return to the city center to experience the atmosphere of Place Foch at sunset. This route combines imperial history with the wild beauty of the Corsican coast."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Musée Fesch",
-                "hu": "Musée Fesch",
-                "ro": "Musée Fesch",
-                "en": "Musée Fesch"
-              },
-              "tip_5lang": {
-                "de": "Parkhaus direkt in der Nähe nutzen.",
-                "hu": "Használd a közeli parkolóházat.",
-                "ro": "Folosiți parcarea din apropiere.",
-                "en": "Use the parking garage nearby."
-              }
-            },
-            {
-              "name": {
-                "de": "Chapelle Impériale",
-                "hu": "Császári kápolna",
-                "ro": "Chapelle Impériale",
-                "en": "Imperial Chapel"
-              },
-              "tip_5lang": {
-                "de": "Die Grabstätte der Familie Bonaparte.",
-                "hu": "A Bonaparte család sírhelye.",
-                "ro": "Locul de veșnică odihnă al familiei Bonaparte.",
-                "en": "The burial place of the Bonaparte family."
-              }
-            },
-            {
-              "name": {
-                "de": "Place d'Austerlitz",
-                "hu": "Place d'Austerlitz",
-                "ro": "Place d'Austerlitz",
-                "en": "Place d'Austerlitz"
-              },
-              "tip_5lang": {
-                "de": "Einfaches Parken am großen Platz.",
-                "hu": "Könnyű parkolás a nagy téren.",
-                "ro": "Parcare ușoară în piața mare.",
-                "en": "Easy parking at the large square."
-              }
-            },
-            {
-              "name": {
-                "de": "Pointe de la Parata",
-                "hu": "Pointe de la Parata",
-                "ro": "Pointe de la Parata",
-                "en": "Pointe de la Parata"
-              },
-              "tip_5lang": {
-                "de": "Großer kostenpflichtiger Parkplatz vorhanden.",
-                "hu": "Nagy fizetős parkoló áll rendelkezésre.",
-                "ro": "Parcare mare cu plată disponibilă.",
-                "en": "Large paid parking lot available."
-              }
-            },
-            {
-              "name": {
-                "de": "Plage de Barbicaja",
-                "hu": "Plage de Barbicaja",
-                "ro": "Plage de Barbicaja",
-                "en": "Plage de Barbicaja"
-              },
-              "tip_5lang": {
-                "de": "Schöner Sandstrand auf dem Rückweg.",
-                "hu": "Szép homokos strand a visszaúton.",
-                "ro": "Plajă frumoasă cu nisip la întoarcere.",
-                "en": "Beautiful sandy beach on the way back."
-              }
-            },
-            {
-              "name": {
-                "de": "Place Foch",
-                "hu": "Place Foch",
-                "ro": "Place Foch",
-                "en": "Place Foch"
-              },
-              "tip_5lang": {
-                "de": "Abendlicher Spaziergang am Hafen.",
-                "hu": "Esti séta a kikötőben.",
-                "ro": "Plimbare de seară în port.",
-                "en": "Evening walk at the harbor."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Restaurant L'Altru Versu",
-                "tip": "Gehobene Küche mit Panoramablick auf den Golf."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Restaurant L'Altru Versu",
-                "tip": "Elegáns konyha panorámás kilátással az öbölre."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Restaurant L'Altru Versu",
-                "tip": "Bucătărie rafinată cu vedere panoramică asupra golfului."
-              }
-            ],
-            "en": [
-              {
-                "name": "Restaurant L'Altru Versu",
-                "tip": "Upscale cuisine with panoramic views of the gulf."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Pointe de la Parata",
-                "tip": "Perfekter Ort für den Sonnenuntergang.",
-                "emoji": "🌅"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Pointe de la Parata",
-                "tip": "Tökéletes hely a naplementéhez.",
-                "emoji": "🌅"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Pointe de la Parata",
-                "tip": "Locul perfect pentru apus.",
-                "emoji": "🌅"
-              }
-            ],
-            "en": [
-              {
-                "name": "Pointe de la Parata",
-                "tip": "Perfect spot for sunset.",
-                "emoji": "🌅"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "E.Leclerc Ajaccio",
-                "tip": "Große Auswahl an lokalen Produkten für die Reise."
-              }
-            ],
-            "hu": [
-              {
-                "name": "E.Leclerc Ajaccio",
-                "tip": "Helyi termékek széles választéka az útra."
-              }
-            ],
-            "ro": [
-              {
-                "name": "E.Leclerc Ajaccio",
-                "tip": "Selecție largă de produse locale pentru drum."
-              }
-            ],
-            "en": [
-              {
-                "name": "E.Leclerc Ajaccio",
-                "tip": "Wide selection of local products for the trip."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Das Parken im Zentrum kann schwierig sein, nutzen Sie bewachte Parkhäuser.",
-              "Die Küstenstraße ist eng, fahren Sie vorsichtig.",
-              "In der Hochsaison sind die Parkplätze an der Parata schnell belegt.",
-              "Ein Mietwagen ermöglicht auch Ausflüge in die nahen Berge."
-            ],
-            "hu": [
-              "A központban nehéz lehet a parkolás, használd az őrzött parkolóházakat.",
-              "A parti út szűk, vezess óvatosan.",
-              "Főszezonban a Parata parkolói gyorsan megtelnek.",
-              "A bérautó lehetővé teszi a közeli hegyek felfedezését is."
-            ],
-            "ro": [
-              "Parcarea în centru poate fi dificilă, folosiți parcări păzite.",
-              "Drumul de coastă este îngust, conduceți cu atenție.",
-              "În plin sezon, parcările de la Parata se umplu rapid.",
-              "O mașină închiriată permite și excursii în munții din apropiere."
-            ],
-            "en": [
-              "Parking in the center can be difficult, use guarded parking garages.",
-              "The coastal road is narrow, drive carefully.",
-              "In high season, the parking lots at Parata fill up quickly.",
-              "A rental car also allows trips to the nearby mountains."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Im Auto ist der Regen in Ajaccio kein Problem. Wir starten trocken am Musée Fesch und bewundern die Kunst, während es draußen gießt.\n\nMittags fahren wir zur Imperial Chapel und danach zum Place d'Austerlitz, immer mit dem Vorteil, bei Schauern schnell wieder im Trockenen zu sein.\n\nNachmittags bietet die Fahrt zur Pointe de la Parata ein Naturschauspiel: Die Sanguinaires-Inseln verschwinden fast im Regenschleier, was sehr atmosphärisch wirkt.\n\nAbends endet die Tour am Place Foch, wo wir direkt in der Nähe der Restaurants parken können, um nicht nass zu werden.",
-            "hu": "Autóval az eső nem akadály Ajaccióban. Szárazon kezdünk a Musée Fesch-ben, csodálva a művészetet, miközben kint szakad.\n\nDélben az Imperial Chapel-hez, majd a Place d'Austerlitz-hez megyünk, kihasználva, hogy a záporok elől gyorsan az autóba menekülhetünk.\n\nDélután a Pointe de la Parata felé autózva igazi természeti látványban van részünk: a Sanguinaires-szigetek szinte eltűnnek az esőfüggönyben.\n\nEste a túra a Place Foch-on ér véget, ahol közvetlenül az éttermek közelében parkolhatunk, hogy ne ázzunk el.",
-            "ro": "Cu mașina, ploaia nu este o problemă în Ajaccio. Începem la adăpost la Musée Fesch, admirând arta în timp ce afară plouă torențial.\n\nLa prânz mergem la Imperial Chapel și apoi la Place d'Austerlitz, cu avantajul de a ne întoarce rapid la uscat în caz de aversă.\n\nDupă-amiaza, drumul spre Pointe de la Parata oferă un spectacol al naturii: insulele Sanguinaires aproape dispar în perdeaua de ploaie.\n\nSeara turul se încheie în Place Foch, unde putem parca aproape de restaurante pentru a nu ne uda.",
-            "en": "In a car, the rain in Ajaccio is no problem. We start dry at Musée Fesch, admiring art while it pours outside.\n\nAt noon, we drive to the Imperial Chapel and then to Place d'Austerlitz, always benefiting from a quick return to the dry interior during showers.\n\nIn the afternoon, the drive to Pointe de la Parata offers a natural spectacle: the Sanguinaires islands almost disappear in the rain veil.\n\nEvening ends at Place Foch, where we can park right near the restaurants to stay dry."
-          },
-          "stops": [
-            {
-              "name": "Musée Fesch",
-              "tip_5lang": {
-                "de": "Parkhaus in der Nähe nutzen.",
-                "hu": "Használja a közeli parkolóházat.",
-                "ro": "Folosiți parcarea acoperită din apropiere.",
-                "en": "Use the nearby parking garage."
-              }
-            },
-            {
-              "name": "Imperial Chapel",
-              "tip_5lang": {
-                "de": "Nur ein kurzer Weg vom Parkplatz zum Eingang.",
-                "hu": "Csak rövid út a parkolótól a bejáratig.",
-                "ro": "Doar un drum scurt de la parcare la intrare.",
-                "en": "Only a short walk from parking to entrance."
-              }
-            },
-            {
-              "name": "Place d'Austerlitz",
-              "tip_5lang": {
-                "de": "Parken direkt am Denkmal möglich.",
-                "hu": "Parkolás közvetlenül az emlékműnél lehetséges.",
-                "ro": "Parcare posibilă chiar lângă monument.",
-                "en": "Parking possible right by the monument."
-              }
-            },
-            {
-              "name": "Pointe de la Parata",
-              "tip_5lang": {
-                "de": "Beobachten Sie das Meer vom Auto aus bei starkem Regen.",
-                "hu": "Figyelje a tengert az autóból erős esőben.",
-                "ro": "Observați marea din mașină în caz de ploaie grea.",
-                "en": "Watch the sea from the car during heavy rain."
-              }
-            },
-            {
-              "name": "Plage de Barbicaja",
-              "tip_5lang": {
-                "de": "Strandrestaurants bieten gute Unterstände.",
-                "hu": "A strandéttermek jó menedéket nyújtanak.",
-                "ro": "Restaurantele de pe plajă oferă adăpost bun.",
-                "en": "Beach restaurants offer good shelter."
-              }
-            },
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Abends sind Parkplätze in der Nähe oft begehrt.",
-                "hu": "Este a közeli parkolóhelyek nagyon keresettek.",
-                "ro": "Seara locurile de parcare din apropiere sunt căutate.",
-                "en": "Nearby parking spots are popular in the evening."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Nutzen Sie die Parkhäuser 'Diamant' oder 'Fesch'.",
-              "Die Küstenstraße kann bei Regen stellenweise Aquaplaning-Gefahr bieten.",
-              "Halten Sie einen Regenschirm im Auto bereit für den Weg zum Restaurant.",
-              "Die Sicht auf die Sanguinaires kann bei starkem Regen eingeschränkt sein.",
-              "Im Auto ist man flexibel bei plötzlichen Wetterumschwüngen."
-            ],
-            "hu": [
-              "Használja a 'Diamant' vagy 'Fesch' parkolóházakat.",
-              "A part menti úton esőben helyenként vízkifutás (aquaplaning) veszélye állhat fenn.",
-              "Tartson esernyőt az autóban az étteremig tartó útra.",
-              "Erős esőben a Sanguinaires látványa korlátozott lehet.",
-              "Az autóban rugalmas maradhat hirtelen időjárás-változáskor."
-            ],
-            "ro": [
-              "Folosiți parcările 'Diamant' sau 'Fesch'.",
-              "Drumul de coastă poate prezenta risc de acvaplanare pe alocuri.",
-              "Țineți o umbrelă în mașină pentru drumul spre restaurant.",
-              "Vizibilitatea spre Sanguinaires poate fi limitată pe ploaie torențială.",
-              "În mașină sunteți flexibil la schimbările bruște de vreme."
-            ],
-            "en": [
-              "Use the 'Diamant' or 'Fesch' parking garages.",
-              "The coastal road may have hydroplaning risks in some spots.",
-              "Keep an umbrella in the car for the walk to the restaurant.",
-              "Visibility of the Sanguinaires might be limited in heavy rain.",
-              "A car keeps you flexible during sudden weather changes."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Winterliche Panoramafahrten sind in Ajaccio ein Genuss. Wir starten am Musée Fesch, wenn die Stadt noch im sanften Morgenlicht liegt.\n\nMittags besuchen wir die kaiserliche Kapelle und fahren entspannt zur Pointe de la Parata, ohne den sommerlichen Verkehrsstau.\n\nNachmittags ist die Lichtstimmung an den Stränden wie Barbicaja einzigartig. Das tiefe Blau des Meeres kontrastiert mit der klaren Winterluft.\n\nAbends kehren wir zum Place Foch zurück. Die weihnachtliche Beleuchtung (im Dezember) macht die Ankunft besonders stimmungsvoll.",
-            "hu": "A téli panorámaautózás igazi élmény Ajaccióban. A Musée Fesch-nél kezdünk, amikor a várost még lágy reggeli fény övezi.\n\nDélben meglátogatjuk a császári kápolnát, majd lazán elautózunk a Pointe de la Parata-hoz, nyári forgalmi dugók nélkül.\n\nDélután a fények Barbicaja strandján egyedülállóak. A tenger mélykékje kontrasztban áll a tiszta téli levegővel.\n\nEste visszatérünk a Place Foch-ra. A karácsonyi kivilágítás (decemberben) különösen hangulatossá teszi az érkezést.",
-            "ro": "Plimbările panoramice de iarnă sunt o plăcere în Ajaccio. Începem la Musée Fesch, când orașul este încă în lumina blândă a dimineții.\n\nLa prânz vizităm Capela Imperială și conducem relaxat spre Pointe de la Parata, fără traficul de vară.\n\nDupă-amiaza, lumina de pe plajele precum Barbicaja este unică. Albastrul profund al mării contrastează cu aerul curat de iarnă.\n\nSeara ne întoarcem în Place Foch. Iluminatul de Crăciun (în decembrie) face sosirea deosebit de atmosferică.",
-            "en": "Winter panoramic drives are a delight in Ajaccio. We start at Musée Fesch while the city is still bathed in soft morning light.\n\nAt noon, we visit the Imperial Chapel and drive leisurely to Pointe de la Parata without the summer traffic jams.\n\nIn the afternoon, the lighting at beaches like Barbicaja is unique. The deep blue of the sea contrasts with the crisp winter air.\n\nEvening returns us to Place Foch. The Christmas lights (in December) make the arrival especially atmospheric."
-          },
-          "stops": [
-            {
-              "name": "Musée Fesch",
-              "tip_5lang": {
-                "de": "Klimatisierte Räume bieten Schutz vor kühler Luft.",
-                "hu": "A légkondicionált terek védenek a hűvös levegő ellen.",
-                "ro": "Spațiile climatizate oferă protecție contra aerului rece.",
-                "en": "Climate-controlled rooms offer protection from cool air."
-              }
-            },
-            {
-              "name": "Imperial Chapel",
-              "tip_5lang": {
-                "de": "Im Winter oft weniger Besucher, genießen Sie die Ruhe.",
-                "hu": "Télen gyakran kevesebb a látogató, élvezze a nyugalmat.",
-                "ro": "Adesea mai puțini vizitatori iarna, bucurați-vă de liniște.",
-                "en": "Often fewer visitors in winter, enjoy the quiet."
-              }
-            },
-            {
-              "name": "Place d'Austerlitz",
-              "tip_5lang": {
-                "de": "Warme Jacke für den Aufenthalt im Freien nötig.",
-                "hu": "Meleg kabát szükséges a kinti tartózkodáshoz.",
-                "ro": "Jachetă caldă necesară pentru șederea afară.",
-                "en": "Warm jacket needed for staying outdoors."
-              }
-            },
-            {
-              "name": "Pointe de la Parata",
-              "tip_5lang": {
-                "de": "Beste Zeit für ungestörte Panoramafotos.",
-                "hu": "A legjobb idő zavartalan panorámafotókhoz.",
-                "ro": "Cel mai bun moment pentru fotografii panoramice neîntrerupte.",
-                "en": "Best time for undisturbed panoramic photos."
-              }
-            },
-            {
-              "name": "Plage de Barbicaja",
-              "tip_5lang": {
-                "de": "Genießen Sie den Blick auf das Meer bei offener Scheibe.",
-                "hu": "Élvezze a tenger látványát lehúzott ablaknál.",
-                "ro": "Bucurați-vă de vederea mării cu geamul deschis.",
-                "en": "Enjoy the sea view with the window down."
-              }
-            },
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Zentrale Parkplätze sind im Winter leichter zu finden.",
-                "hu": "Télen könnyebb központi parkolót találni.",
-                "ro": "Locurile de parcare centrale se găsesc mai ușor iarna.",
-                "en": "Central parking spots are easier to find in winter."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Parkgebühren sind oft saisonabhängig oder günstiger.",
-              "Die Straßen zur Küste sind im Winter deutlich leerer.",
-              "Nutzen Sie die Heizung, wenn Sie nach dem Strandbesuch zurückkehren.",
-              "Im Dezember gibt es oft einen Weihnachtsmarkt am Place Foch.",
-              "Die klare Winterluft sorgt für exzellente Fernsicht beim Fahren."
-            ],
-            "hu": [
-              "A parkolási díjak gyakran szezonálisak vagy olcsóbbak.",
-              "A tengerparti utak télen lényegesen üresebbek.",
-              "Használja a fűtést a strandlátogatás utáni visszatéréskor.",
-              "Decemberben gyakran van karácsonyi vásár a Place Foch-on.",
-              "A tiszta téli levegő kiváló látótávolságot biztosít vezetés közben."
-            ],
-            "ro": [
-              "Tarifele de parcare sunt adesea sezoniere sau mai ieftine.",
-              "Drumurile spre coastă sunt mult mai libere iarna.",
-              "Folosiți căldura când vă întoarceți după vizita la plajă.",
-              "În decembrie există adesea un târg de Crăciun în Place Foch.",
-              "Aerul curat de iarnă asigură o vizibilitate excelentă la volan."
-            ],
-            "en": [
-              "Parking fees are often seasonal or cheaper.",
-              "The coastal roads are significantly emptier in winter.",
-              "Use the heater when returning after a beach visit.",
-              "In December, there is often a Christmas market at Place Foch.",
-              "Clear winter air provides excellent visibility while driving."
-            ]
-          }
-        }
       }
     },
     "transit": {
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:40",
-      "total_km": 24.2,
-      "stop_count": 5,
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Place Foch",
-            "hu": "Place Foch",
-            "ro": "Place Foch",
-            "en": "Place Foch"
+            "de": "Place Foch (Altstadt)",
+            "hu": "Place Foch (Óváros)",
+            "ro": "Place Foch (Centru)",
+            "en": "Place Foch (Old Town)"
           },
           "coords": [
-            8.7385,
-            41.9192
+            41.9192,
+            8.7385
           ],
-          "category": "squares/old-town",
+          "category": "square",
           "arrive_at": "09:10",
-          "stay_min": 40,
+          "stay_min": 30,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.1,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Zentraler Busknotenpunkt.",
-            "hu": "Központi buszcsomópont.",
-            "ro": "Nod central de autobuze.",
-            "en": "Central bus hub."
+            "de": "Zentraler Busknotenpunkt in der Nähe.",
+            "hu": "Központi buszcsomópont a közelben.",
+            "ro": "Nod central de autobuze în apropiere.",
+            "en": "Major bus hub located nearby for easy access."
           }
         },
         {
           "name": {
             "de": "Maison Bonaparte",
-            "hu": "Bonaparte-ház",
+            "hu": "Napóleon szülőháza",
             "ro": "Maison Bonaparte",
             "en": "Maison Bonaparte"
           },
           "coords": [
-            8.7375,
-            41.9178
+            41.9181,
+            8.7397
           ],
-          "category": "famous residences",
-          "arrive_at": "10:00",
+          "category": "historical",
+          "arrive_at": "09:45",
           "stay_min": 80,
-          "hop_from_prev_min": 10,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Marktplatz.",
+            "hu": "Rövid séta a piactértől.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Just a short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Palais Fesch",
+            "hu": "Buszozás a Palais Fesch-hez",
+            "ro": "Călătorie bus spre Palais Fesch",
+            "en": "Bus to Palais Fesch"
+          },
+          "coords": [
+            41.9213,
+            8.7388
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Linie 1 oder 2.",
+            "hu": "Használja az 1-es vagy 2-es buszvonalat.",
+            "ro": "Folosiți linia 1 sau 2 de autobuz.",
+            "en": "Take line 1 or 2 for a quick hop north."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen nahe Rue Fesch",
+            "hu": "Ebéd a Rue Fesch közelében",
+            "ro": "Prânz lângă Rue Fesch",
+            "en": "Lunch near Rue Fesch"
+          },
+          "coords": [
+            41.9205,
+            8.738
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Zu Fuß vom Place Foch erreichbar.",
-            "hu": "Gyalogosan elérhető a Place Foch-tól.",
-            "ro": "Accesibil pe jos de la Place Foch.",
-            "en": "Accessible on foot from Place Foch."
+            "de": "Viele Optionen in der Fußgängerzone.",
+            "hu": "Számos lehetőség a sétálóutcában.",
+            "ro": "Multe opțiuni în zona pietonală.",
+            "en": "Plenty of dining choices along the pedestrian street."
           }
         },
         {
           "name": {
-            "de": "Musée Fesch",
-            "hu": "Musée Fesch",
-            "ro": "Musée Fesch",
-            "en": "Musée Fesch"
+            "de": "Busfahrt zum Casone",
+            "hu": "Buszozás a Casone-hoz",
+            "ro": "Călătorie bus spre Casone",
+            "en": "Bus to Casone"
           },
           "coords": [
-            8.7402,
-            41.9212
+            41.918,
+            8.725
           ],
-          "category": "museums",
-          "arrive_at": "11:35",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
+          "category": "monument",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Nutzen Sie die Buslinien 1, 2 oder 3.",
-            "hu": "Használd az 1-es, 2-es vagy 3-as buszt.",
-            "ro": "Folosiți liniile de autobuz 1, 2 sau 3.",
-            "en": "Use bus lines 1, 2 or 3."
+            "de": "Haltestelle direkt am Austerlitz-Platz.",
+            "hu": "Megálló közvetlenül az Austerlitz térnél.",
+            "ro": "Stație chiar în Place d'Austerlitz.",
+            "en": "Bus stops right at the Austerlitz monument."
           }
         },
         {
           "name": {
-            "de": "Pointe de la Parata",
-            "hu": "Pointe de la Parata",
-            "ro": "Pointe de la Parata",
-            "en": "Pointe de la Parata"
+            "de": "Strand Trottel (Busfahrt)",
+            "hu": "Trottel strand (buszozás)",
+            "ro": "Plaja Trottel (călătorie bus)",
+            "en": "Trottel Beach (Bus Hop)"
           },
           "coords": [
-            8.6135,
-            41.9055
+            41.913,
+            41.913
           ],
-          "category": "natural features",
-          "arrive_at": "13:45",
-          "stay_min": 110,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 12.0,
+          "category": "beach",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
           "tip_5lang": {
-            "de": "Nehmen Sie die Linie 5 vom Place de Gaulle.",
-            "hu": "Szállj fel az 5-ös buszra a Place de Gaulle-tól.",
-            "ro": "Luați linia 5 de la Place de Gaulle.",
-            "en": "Take line 5 from Place de Gaulle."
+            "de": "Beliebter Stadtstrand mit Busanschluss.",
+            "hu": "Népszerű városi strand buszkapcsolattal.",
+            "ro": "Plajă urbană populară accesibilă cu bus.",
+            "en": "Popular local beach easily reached by city bus."
           }
         },
         {
           "name": {
-            "de": "Place d'Austerlitz",
-            "hu": "Place d'Austerlitz",
-            "ro": "Place d'Austerlitz",
-            "en": "Place d'Austerlitz"
+            "de": "Vieux Port (Abschluss)",
+            "hu": "Régi kikötő (befejezés)",
+            "ro": "Portul vechi (final)",
+            "en": "Old Port (Final)"
           },
           "coords": [
-            8.7255,
-            41.9182
+            41.921,
+            8.74
           ],
-          "category": "squares/old-town",
-          "arrive_at": "16:05",
-          "stay_min": 50,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 11.0,
+          "category": "sunset",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
           "tip_5lang": {
-            "de": "Busstopp direkt am Casone.",
-            "hu": "Buszmegálló közvetlenül a Casone-nál.",
-            "ro": "Stație de autobuz chiar la Casone.",
-            "en": "Bus stop right at Casone."
+            "de": "Perfekter Ort vor der Rückreise.",
+            "hu": "Tökéletes hely a visszaút előtt.",
+            "ro": "Locul ideal înainte de plecare.",
+            "en": "Ideal spot to relax before heading back."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ajaccio lässt sich dank des effizienten Busnetzes wunderbar ohne eigenes Auto erkunden. Wir starten am Place Foch und besuchen das nahegelegene Maison Bonaparte. Danach nutzen wir den Bus zum Musée Fesch, um die Kunstschätze zu bewundern.\n\nEin absolutes Muss ist die Fahrt mit der Linie 5 zur Pointe de la Parata, eine der schönsten Busstrecken der Insel entlang des Meeres. Nach einer Wanderung zum Turm fahren wir zurück zum Place d'Austerlitz. Der Tag endet wieder im Zentrum, wo wir bequem zu Fuß zum Abendessen gehen können.",
-        "hu": "Ajaccio nagyszerűen felfedezhető tömegközlekedéssel a hatékony buszhálózatnak köszönhetően. A Place Foch-tól indulunk, és meglátogatjuk a közeli Maison Bonaparte-ot. Ezután busszal megyünk a Musée Fesch-hez, hogy megcsodáljuk a műkincseket.\n\nKihagyhatatlan élmény az 5-ös busszal való utazás a Pointe de la Parata-hoz, amely a sziget egyik legszebb, tengerparti útvonala. A toronyhoz tett túra után visszabuszozunk a Place d'Austerlitz-hez. A napot ismét a központban zárjuk, ahonnan kényelmesen, gyalog mehetünk vacsorázni.",
-        "ro": "Ajaccio poate fi explorat minunat cu transportul public datorită rețelei eficiente de autobuze. Pornim de la Place Foch și vizităm Maison Bonaparte din apropiere. Apoi folosim autobuzul pentru a ajunge la Musée Fesch și a admira comorile artistice.\n\nO experiență de neratat este călătoria cu linia 5 către Pointe de la Parata, unul dintre cele mai frumoase trasee de autobuz de pe insulă, de-a lungul mării. După o drumeție la turn, revenim cu autobuzul la Place d'Austerlitz. Ziua se încheie din nou în centru, de unde putem merge pe jos la cină.",
-        "en": "Ajaccio is wonderful to explore by public transport thanks to its efficient bus network. We start at Place Foch and visit the nearby Maison Bonaparte. Then we take a bus to Musée Fesch to admire the art treasures.\n\nAn absolute must is the ride on line 5 to Pointe de la Parata, one of the most beautiful bus routes on the island along the sea. After a hike to the tower, we bus back to Place d'Austerlitz. The day ends back in the center, from where we can easily walk to dinner."
+        "de": "Nutzen Sie das dichte Busnetz von Ajaccio, um die Stadt stressfrei zu erleben. Beginnen Sie in der historischen Altstadt und besuchen Sie die kaiserlichen Gedenkstätten.\n\nEin kurzer Transit bringt Sie zum Palais Fesch, bevor Sie in der lebhaften Fußgängerzone Rue Fesch zu Mittag essen.\n\nAm Nachmittag bringt Sie der Bus hinauf zum majestätischen Austerlitz-Platz und anschließend zum beliebten Stadtstrand Trottel für eine Pause am Meer.\n\nDer Tag endet entspannt am alten Hafen, von wo aus Sie alle Linien zurück zu Ihrer Unterkunft erreichen können.",
+        "hu": "Használja Ajaccio sűrű buszhálózatát a stresszmentes városnézéshez. Kezdjen a történelmi óvárosban, felfedezve a császári család emlékhelyeit.\n\nEgy rövid buszozás után látogasson el a Palais Fesch-be, majd ebédeljen a nyüzsgő Rue Fesch sétálóutcájában.\n\nDélután a busz felviszi a fenséges Austerlitz térre, majd onnan tovább a népszerű Trottel városi strandhoz egy tengerparti pihenőre.\n\nA nap a régi kikötőben ér véget, ahonnan kényelmesen elérheti az összes fontosabb buszjáratot.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Ajaccio pentru a vizita orașul fără griji. Începeți în centrul istoric cu vizitarea siturilor imperiale.\n\nUn scurt transfer vă duce la Palais Fesch, urmat de un prânz în zona pietonală plină de viață Rue Fesch.\n\nDupă-amiaza, autobuzul vă urcă la maiestuoasa Place d'Austerlitz și apoi vă duce la plaja urbană Trottel pentru o pauză la mare.\n\nZiua se încheie relaxat în portul vechi, de unde aveți conexiuni facile către toate direcțiile orașului.",
+        "en": "Utilize Ajaccio's reliable bus network to navigate the city with ease. Start your exploration in the historic old town, focusing on the core Napoleonic sites.\n\nA quick transit hop brings you to the Palais Fesch, followed by a pleasant lunch in the vibrant pedestrian zone of Rue Fesch.\n\nIn the afternoon, take the bus up to the majestic Place d'Austerlitz and then head down to the popular Trottel city beach for a seaside break.\n\nConclude your day back at the old harbor, the central hub for all return transit lines to your accommodation."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Brasserie l'Instant",
-            "tip": "Beliebt bei Einheimischen, nahe der Bushaltestelle."
+            "name": "Migliacci",
+            "tip": "Spezialität mit Käse vom Markt."
           }
         ],
         "hu": [
           {
-            "name": "Brasserie l'Instant",
-            "tip": "A helyiek kedvence, közel a buszmegállóhoz."
+            "name": "Migliacci",
+            "tip": "Sajtos tészta specialitás a piacról."
           }
         ],
         "ro": [
           {
-            "name": "Brasserie l'Instant",
-            "tip": "Popular printre localnici, lângă stația de autobuz."
+            "name": "Migliacci",
+            "tip": "Specialitate cu brânză din piață."
           }
         ],
         "en": [
           {
-            "name": "Brasserie l'Instant",
-            "tip": "Popular with locals, near the bus stop."
+            "name": "Migliacci",
+            "tip": "Savory local cheese specialty found at the market."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Chapelle Impériale",
-            "tip": "Ein Ort der Stille und Besinnung.",
-            "emoji": "🧘"
+            "name": "Square César Campinchi",
+            "tip": "Schattiger kleiner Park.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Császári kápolna",
-            "tip": "A csend és az elmélkedés helye.",
-            "emoji": "🧘"
+            "name": "Square César Campinchi",
+            "tip": "Árnyas kis park a belvárosban.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Chapelle Impériale",
-            "tip": "Un loc de liniște și meditație.",
-            "emoji": "🧘"
+            "name": "Square César Campinchi",
+            "tip": "Mic parc umbrit în centru.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Imperial Chapel",
-            "tip": "A place of silence and reflection.",
-            "emoji": "🧘"
+            "name": "Square César Campinchi",
+            "tip": "A small, shaded park perfect for a quick rest.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Monoprix Ajaccio",
-            "tip": "Gute Auswahl an regionalen Produkten."
+            "name": "Korsische Weine",
+            "tip": "Erhältlich in den Vinotheken der Rue Fesch."
           }
         ],
         "hu": [
           {
-            "name": "Monoprix Ajaccio",
-            "tip": "Regionális termékek jó választéka."
+            "name": "Korzikai borok",
+            "tip": "Kaphatók a Rue Fesch vinotékáiban."
           }
         ],
         "ro": [
           {
-            "name": "Monoprix Ajaccio",
-            "tip": "O selecție bună de produse regionale."
+            "name": "Vinuri corsicane",
+            "tip": "Disponibile în vinotecile de pe Rue Fesch."
           }
         ],
         "en": [
           {
-            "name": "Monoprix Ajaccio",
-            "tip": "Good selection of regional products."
+            "name": "Corsican Wines",
+            "tip": "Available in the local wine shops along Rue Fesch."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie ein Tagesticket direkt beim Busfahrer oder am Kiosk.",
-          "Die Linie 5 fährt alle 30-60 Minuten zur Parata.",
-          "Entwerten Sie Ihr Ticket beim Einsteigen.",
-          "Nutzen Sie die App des lokalen Verkehrsbetriebs 'Muvistrada' für Echtzeiten."
+          "Kaufen Sie ein Tagesticket beim Fahrer.",
+          "Die Busse fahren im Sommer alle 15-20 Minuten.",
+          "Achten Sie auf die Fahrtrichtung am Place Foch.",
+          "Die Linienpläne hängen an den Hauptstationen aus."
         ],
         "hu": [
-          "Vegyél napijegyet közvetlenül a buszvezetőnél vagy az újságárusnál.",
-          "Az 5-ös busz 30-60 percenként jár a Paratához.",
-          "Érvényesítsd a jegyedet felszálláskor.",
-          "Használd a helyi 'Muvistrada' közlekedési alkalmazást a valós idejű adatokért."
+          "Vásároljon napijegyet a sofőrnél.",
+          "A buszok nyáron 15-20 percenként járnak.",
+          "Ügyeljen a menetirányra a Place Foch-nál.",
+          "A vonaltérképek kint vannak a főbb megállókban."
         ],
         "ro": [
-          "Cumpărați un bilet de o zi direct de la șofer sau de la chioșc.",
-          "Linia 5 circulă la fiecare 30-60 de minute către Parata.",
-          "Validați biletul la urcare.",
-          "Folosiți aplicația locală 'Muvistrada' pentru timpi reali."
+          "Cumpărați un bilet de o zi de la șofer.",
+          "Autobuzele circulă la fiecare 15-20 min vara.",
+          "Atenție la direcția de mers în Place Foch.",
+          "Hărțile liniilor sunt afișate în stațiile principale."
         ],
         "en": [
-          "Buy a day ticket directly from the bus driver or at a kiosk.",
-          "Line 5 runs every 30-60 minutes to Parata.",
-          "Validate your ticket upon boarding.",
-          "Use the local 'Muvistrada' transport app for real-time updates."
+          "Purchase a day pass from the bus driver.",
+          "Buses run every 15-20 minutes during the summer.",
+          "Check the bus direction carefully at Place Foch.",
+          "Route maps are clearly displayed at all major stops."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Ajaccio lässt sich dank des effizienten Busnetzes wunderbar ohne eigenes Auto erkunden. Wir starten am Place Foch und besuchen das nahegelegene Maison Bonaparte. Danach nutzen wir den Bus zum Musée Fesch, um die Kunstschätze zu bewundern.\n\nEin absolutes Muss ist die Fahrt mit der Linie 5 zur Pointe de la Parata, eine der schönsten Busstrecken der Insel entlang des Meeres. Nach einer Wanderung zum Turm fahren wir zurück zum Place d'Austerlitz. Der Tag endet wieder im Zentrum, wo wir bequem zu Fuß zum Abendessen gehen können.",
-            "hu": "Ajaccio nagyszerűen felfedezhető tömegközlekedéssel a hatékony buszhálózatnak köszönhetően. A Place Foch-tól indulunk, és meglátogatjuk a közeli Maison Bonaparte-ot. Ezután busszal megyünk a Musée Fesch-hez, hogy megcsodáljuk a műkincseket.\n\nKihagyhatatlan élmény az 5-ös busszal való utazás a Pointe de la Parata-hoz, amely a sziget egyik legszebb, tengerparti útvonala. A toronyhoz tett túra után visszabuszozunk a Place d'Austerlitz-hez. A napot ismét a központban zárjuk, ahonnan kényelmesen, gyalog mehetünk vacsorázni.",
-            "ro": "Ajaccio poate fi explorat minunat cu transportul public datorită rețelei eficiente de autobuze. Pornim de la Place Foch și vizităm Maison Bonaparte din apropiere. Apoi folosim autobuzul pentru a ajunge la Musée Fesch și a admira comorile artistice.\n\nO experiență de neratat este călătoria cu linia 5 către Pointe de la Parata, unul dintre cele mai frumoase trasee de autobuz de pe insulă, de-a lungul mării. După o drumeție la turn, revenim cu autobuzul la Place d'Austerlitz. Ziua se încheie din nou în centru, de unde putem merge pe jos la cină.",
-            "en": "Ajaccio is wonderful to explore by public transport thanks to its efficient bus network. We start at Place Foch and visit the nearby Maison Bonaparte. Then we take a bus to Musée Fesch to admire the art treasures.\n\nAn absolute must is the ride on line 5 to Pointe de la Parata, one of the most beautiful bus routes on the island along the sea. After a hike to the tower, we bus back to Place d'Austerlitz. The day ends back in the center, from where we can easily walk to dinner."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Place Foch",
-                "hu": "Place Foch",
-                "ro": "Place Foch",
-                "en": "Place Foch"
-              },
-              "tip_5lang": {
-                "de": "Zentraler Busknotenpunkt.",
-                "hu": "Központi buszcsomópont.",
-                "ro": "Nod central de autobuze.",
-                "en": "Central bus hub."
-              }
-            },
-            {
-              "name": {
-                "de": "Maison Bonaparte",
-                "hu": "Bonaparte-ház",
-                "ro": "Maison Bonaparte",
-                "en": "Maison Bonaparte"
-              },
-              "tip_5lang": {
-                "de": "Zu Fuß vom Place Foch erreichbar.",
-                "hu": "Gyalogosan elérhető a Place Foch-tól.",
-                "ro": "Accesibil pe jos de la Place Foch.",
-                "en": "Accessible on foot from Place Foch."
-              }
-            },
-            {
-              "name": {
-                "de": "Musée Fesch",
-                "hu": "Musée Fesch",
-                "ro": "Musée Fesch",
-                "en": "Musée Fesch"
-              },
-              "tip_5lang": {
-                "de": "Nutzen Sie die Buslinien 1, 2 oder 3.",
-                "hu": "Használd az 1-es, 2-es vagy 3-as buszt.",
-                "ro": "Folosiți liniile de autobuz 1, 2 sau 3.",
-                "en": "Use bus lines 1, 2 or 3."
-              }
-            },
-            {
-              "name": {
-                "de": "Pointe de la Parata",
-                "hu": "Pointe de la Parata",
-                "ro": "Pointe de la Parata",
-                "en": "Pointe de la Parata"
-              },
-              "tip_5lang": {
-                "de": "Nehmen Sie die Linie 5 vom Place de Gaulle.",
-                "hu": "Szállj fel az 5-ös buszra a Place de Gaulle-tól.",
-                "ro": "Luați linia 5 de la Place de Gaulle.",
-                "en": "Take line 5 from Place de Gaulle."
-              }
-            },
-            {
-              "name": {
-                "de": "Place d'Austerlitz",
-                "hu": "Place d'Austerlitz",
-                "ro": "Place d'Austerlitz",
-                "en": "Place d'Austerlitz"
-              },
-              "tip_5lang": {
-                "de": "Busstopp direkt am Casone.",
-                "hu": "Buszmegálló közvetlenül a Casone-nál.",
-                "ro": "Stație de autobuz chiar la Casone.",
-                "en": "Bus stop right at Casone."
-              }
-            },
-            {
-              "name": {
-                "de": "Place Foch",
-                "hu": "Place Foch",
-                "ro": "Place Foch",
-                "en": "Place Foch"
-              },
-              "tip_5lang": {
-                "de": "Rückkehr ins Stadtzentrum.",
-                "hu": "Visszatérés a városközpontba.",
-                "ro": "Revenire în centrul orașului.",
-                "en": "Return to the city center."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Brasserie l'Instant",
-                "tip": "Beliebt bei Einheimischen, nahe der Bushaltestelle."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Brasserie l'Instant",
-                "tip": "A helyiek kedvence, közel a buszmegállóhoz."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Brasserie l'Instant",
-                "tip": "Popular printre localnici, lângă stația de autobuz."
-              }
-            ],
-            "en": [
-              {
-                "name": "Brasserie l'Instant",
-                "tip": "Popular with locals, near the bus stop."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Chapelle Impériale",
-                "tip": "Ein Ort der Stille und Besinnung.",
-                "emoji": "🧘"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Császári kápolna",
-                "tip": "A csend és az elmélkedés helye.",
-                "emoji": "🧘"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Chapelle Impériale",
-                "tip": "Un loc de liniște și meditație.",
-                "emoji": "🧘"
-              }
-            ],
-            "en": [
-              {
-                "name": "Imperial Chapel",
-                "tip": "A place of silence and reflection.",
-                "emoji": "🧘"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Monoprix Ajaccio",
-                "tip": "Gute Auswahl an regionalen Produkten."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Monoprix Ajaccio",
-                "tip": "Regionális termékek jó választéka."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Monoprix Ajaccio",
-                "tip": "O selecție bună de produse regionale."
-              }
-            ],
-            "en": [
-              {
-                "name": "Monoprix Ajaccio",
-                "tip": "Good selection of regional products."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Kaufen Sie ein Tagesticket direkt beim Busfahrer oder am Kiosk.",
-              "Die Linie 5 fährt alle 30-60 Minuten zur Parata.",
-              "Entwerten Sie Ihr Ticket beim Einsteigen.",
-              "Nutzen Sie die App des lokalen Verkehrsbetriebs 'Muvistrada' für Echtzeiten."
-            ],
-            "hu": [
-              "Vegyél napijegyet közvetlenül a buszvezetőnél vagy az újságárusnál.",
-              "Az 5-ös busz 30-60 percenként jár a Paratához.",
-              "Érvényesítsd a jegyedet felszálláskor.",
-              "Használd a helyi 'Muvistrada' közlekedési alkalmazást a valós idejű adatokért."
-            ],
-            "ro": [
-              "Cumpărați un bilet de o zi direct de la șofer sau de la chioșc.",
-              "Linia 5 circulă la fiecare 30-60 de minute către Parata.",
-              "Validați biletul la urcare.",
-              "Folosiți aplicația locală 'Muvistrada' pentru timpi reali."
-            ],
-            "en": [
-              "Buy a day ticket directly from the bus driver or at a kiosk.",
-              "Line 5 runs every 30-60 minutes to Parata.",
-              "Validate your ticket upon boarding.",
-              "Use the local 'Muvistrada' transport app for real-time updates."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Mit den Muvistrada-Bussen bleiben wir in Ajaccio mobil und trocken. Wir starten am Place Foch und nutzen die kurzen Wege zur Maison Bonaparte.\n\nMittags bringt uns der Bus zum Musée Fesch, wo wir den Regen ignorieren können. Die Taktfrequenz ist auch bei schlechtem Wetter stabil.\n\nNachmittags fahren wir zur Pointe de la Parata (Linie 5). Der Bus bietet eine geschützte Aussichtsfahrt entlang der Küste.\n\nAbends kehren wir bequem in die Innenstadt zurück, wo wir trockenen Fußes in die Nähe der Restaurants am Place Foch gelangen.",
-            "hu": "A Muvistrada buszokkal Ajaccióban mobilak és szárazak maradhatunk. A Place Foch-ról indulunk, kihasználva a rövid utat Bonaparte házáig.\n\nDélben a busz a Musée Fesch-hez visz, ahol figyelmen kívül hagyhatjuk az esőt. A menetrend rossz időben is stabil.\n\nDélután a Pointe de la Parata-hoz megyünk (5-ös vonal). A busz védett kilátást nyújt a part menti út során.\n\nEste kényelmesen visszatérünk a belvárosba, ahol száraz lábbal juthatunk a Place Foch közeli éttermeihez.",
-            "ro": "Cu autobuzele Muvistrada rămânem mobili și uscați în Ajaccio. Pornim din Place Foch și profităm de drumul scurt spre Maison Bonaparte.\n\nLa prânz autobuzul ne duce la Musée Fesch, unde putem ignora ploaia. Frecvența este stabilă și pe vreme rea.\n\nDupă-amiaza mergem spre Pointe de la Parata (Linia 5). Autobuzul oferă o călătorie panoramică protejată pe coastă.\n\nSeara ne întoarcem confortabil în centrul orașului, ajungând aproape de restaurantele din Place Foch fără a ne uda.",
-            "en": "With Muvistrada buses, we stay mobile and dry in Ajaccio. We start at Place Foch, taking advantage of the short walk to Maison Bonaparte.\n\nAt noon, the bus takes us to Musée Fesch, where we can ignore the rain. The frequency remains stable even in bad weather.\n\nIn the afternoon, we head to Pointe de la Parata (Line 5). The bus provides a sheltered scenic ride along the coast.\n\nEvening sees us returning comfortably to the city center, arriving dry near the restaurants at Place Foch."
-          },
-          "stops": [
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Warten Sie unter den Arkaden auf den Bus.",
-                "hu": "Várja a buszt az árkádok alatt.",
-                "ro": "Așteptați autobuzul sub arcade.",
-                "en": "Wait for the bus under the arcades."
-              }
-            },
-            {
-              "name": "Maison Bonaparte",
-              "tip_5lang": {
-                "de": "Vom Busstopp sind es nur wenige Gehminuten.",
-                "hu": "A buszmegállótól csak pár perc séta.",
-                "ro": "De la stația de autobuz sunt doar câteva minute de mers.",
-                "en": "Only a few minutes' walk from the bus stop."
-              }
-            },
-            {
-              "name": "Musée Fesch",
-              "tip_5lang": {
-                "de": "Die Haltestelle befindet sich fast direkt vor dem Museum.",
-                "hu": "A megálló szinte közvetlenül a múzeum előtt van.",
-                "ro": "Stația este aproape direct în fața muzeului.",
-                "en": "The stop is almost directly in front of the museum."
-              }
-            },
-            {
-              "name": "Pointe de la Parata",
-              "tip_5lang": {
-                "de": "Prüfen Sie die Rückfahrzeiten der Linie 5 bei Regen.",
-                "hu": "Ellenőrizze az 5-ös busz visszaindulási idejét esőben.",
-                "ro": "Verificați orele de întoarcere ale liniei 5 pe ploaie.",
-                "en": "Check return times for Line 5 when it's raining."
-              }
-            },
-            {
-              "name": "Place d'Austerlitz",
-              "tip_5lang": {
-                "de": "Nutzen Sie den Unterstand an der Haltestelle.",
-                "hu": "Használja a megállóban lévő várót.",
-                "ro": "Folosiți adăpostul din stație.",
-                "en": "Use the shelter at the bus stop."
-              }
-            },
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Bester Umsteigepunkt für verschiedene Linien.",
-                "hu": "A legjobb átszállópont a különböző vonalak között.",
-                "ro": "Cel mai bun punct de transfer pentru diverse linii.",
-                "en": "Best transfer point for various lines."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Laden Sie die Muvistrada-App für Echtzeit-Infos herunter.",
-              "Fahrkarten können per SMS oder beim Fahrer gekauft werden.",
-              "Die Linie 5 fährt direkt zur Parata, ideal bei Regen.",
-              "Busse sind gut klimatisiert/beheizt und trocken.",
-              "An stark besuchten Tagen kann der Bus bei Regen voller sein."
-            ],
-            "hu": [
-              "Töltse le a Muvistrada alkalmazást a valós idejű infókért.",
-              "Jegyet SMS-ben vagy a sofőrnél is vehet.",
-              "Az 5-ös vonal közvetlenül a Paratához megy, esőben ideális.",
-              "A buszok jól fűtöttek és szárazak.",
-              "Forgalmas napokon az eső miatt zsúfoltabbak lehetnek a buszok."
-            ],
-            "ro": [
-              "Descărcați aplicația Muvistrada pentru info în timp real.",
-              "Biletele pot fi cumpărate prin SMS sau de la șofer.",
-              "Linia 5 merge direct la Parata, ideală pe ploaie.",
-              "Autobuzele sunt bine încălzite și uscate.",
-              "În zilele aglomerate, autobuzele pot fi mai pline pe ploaie."
-            ],
-            "en": [
-              "Download the Muvistrada app for real-time info.",
-              "Tickets can be bought via SMS or from the driver.",
-              "Line 5 goes directly to Parata, ideal in the rain.",
-              "Buses are well-heated and dry.",
-              "On busy days, buses can be more crowded when it rains."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Busfahren ist im Winter in Ajaccio sehr entspannt. Wir starten am Place Foch und genießen die kurze Fahrt zur Maison Bonaparte.\n\nMittags bringt uns der ÖPNV zum Musée Fesch. Die winterlichen Fahrpläne sind zuverlässig, aber prüfen Sie die selteneren Fahrten zur Küste.\n\nNachmittags bietet die Linie 5 zur Pointe de la Parata eine wunderschöne Panoramafahrt in der klaren Wintersonne.\n\nAbends kehren wir zum Place Foch zurück. Die Busfahrt bietet einen tollen Ausblick auf die weihnachtlich beleuchteten Straßen im Dezember.",
-            "hu": "Télen a buszozás nagyon nyugodt Ajaccióban. A Place Foch-ról indulunk és élvezzük a rövid utat Bonaparte házáig.\n\nDélben a tömegközlekedés a Musée Fesch-hez visz. A téli menetrend megbízható, de ellenőrizze a ritkább parti járatokat.\n\nDélután az 5-ös vonal a Pointe de la Parata felé gyönyörű panorámát nyújt a tiszta téli napsütésben.\n\nEste visszatérünk a Place Foch-ra. A buszút remek kilátást nyújt a decemberi ünnepi fényekre.",
-            "ro": "Mersul cu autobuzul este foarte relaxat iarna în Ajaccio. Pornim din Place Foch și ne bucurăm de drumul scurt spre Maison Bonaparte.\n\nLa prânz, transportul public ne duce la Musée Fesch. Orarele de iarnă sunt de încredere, dar verificați cursele mai rare spre coastă.\n\nDupă-amiaza, linia 5 spre Pointe de la Parata oferă o călătorie panoramică minunată în soarele clar de iarnă.\n\nSeara ne întoarcem în Place Foch. Drumul oferă o vedere excelentă asupra străzilor iluminate festiv în decembrie.",
-            "en": "Taking the bus is very relaxed in Ajaccio during winter. We start at Place Foch and enjoy the short ride to Maison Bonaparte.\n\nAt noon, public transit takes us to Musée Fesch. Winter schedules are reliable, but check the less frequent coastal services.\n\nIn the afternoon, Line 5 to Pointe de la Parata offers a beautiful scenic ride in the clear winter sun.\n\nEvening returns us to Place Foch. The bus ride offers great views of the festively lit streets in December."
-          },
-          "stops": [
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Zentraler Knotenpunkt für alle Wintertouren.",
-                "hu": "Központi csomópont minden téli túrához.",
-                "ro": "Nod central pentru toate tururile de iarnă.",
-                "en": "Central hub for all winter tours."
-              }
-            },
-            {
-              "name": "Maison Bonaparte",
-              "tip_5lang": {
-                "de": "Kurzer Spaziergang durch die ruhige Altstadt.",
-                "hu": "Rövid séta a csendes óvároson keresztül.",
-                "ro": "Scurtă plimbare prin orașul vechi liniștit.",
-                "en": "Short walk through the quiet old town."
-              }
-            },
-            {
-              "name": "Musée Fesch",
-              "tip_5lang": {
-                "de": "Bushaltestelle direkt am Eingang.",
-                "hu": "Buszmegálló közvetlenül a bejáratnál.",
-                "ro": "Stație de autobuz chiar la intrare.",
-                "en": "Bus stop right at the entrance."
-              }
-            },
-            {
-              "name": "Pointe de la Parata",
-              "tip_5lang": {
-                "de": "Letzten Bus vor Sonnenuntergang nicht verpassen.",
-                "hu": "Ne késse le az utolsó buszt naplemente előtt.",
-                "ro": "Nu ratați ultimul autobuz înainte de apus.",
-                "en": "Don't miss the last bus before sunset."
-              }
-            },
-            {
-              "name": "Place d'Austerlitz",
-              "tip_5lang": {
-                "de": "Gute Anbindung mit verschiedenen Linien.",
-                "hu": "Jó összeköttetés különböző vonalakkal.",
-                "ro": "Legături bune cu diverse linii.",
-                "en": "Good connections with various lines."
-              }
-            },
-            {
-              "name": "Place Foch",
-              "tip_5lang": {
-                "de": "Perfekter Ort, um den Tag entspannt zu beenden.",
-                "hu": "Tökéletes hely a nap nyugodt befejezéséhez.",
-                "ro": "Loc perfect pentru a încheia ziua relaxat.",
-                "en": "Perfect spot to end the day in a relaxed way."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Prüfen Sie den Winterfahrplan, einige Linien fahren seltener.",
-              "Die Linie 5 ist die beste Verbindung für Touristen zur Küste.",
-              "Busse sind im Winter weniger überfüllt als im Sommer.",
-              "Ein Tagesticket lohnt sich bei mehreren Fahrten.",
-              "Die Heizung in den Bussen ist im Winter sehr angenehm."
-            ],
-            "hu": [
-              "Ellenőrizze a téli menetrendet, néhány járat ritkábban indul.",
-              "Az 5-ös vonal a legjobb kapcsolat a turistáknak a part felé.",
-              "A buszok télen kevésbé zsúfoltak, mint nyáron.",
-              "Több utazás esetén megéri napijegyet váltani.",
-              "A buszok fűtése télen nagyon kellemes."
-            ],
-            "ro": [
-              "Verificați orarul de iarnă, unele linii circulă mai rar.",
-              "Linia 5 este cea mai bună legătură pentru turiști spre coastă.",
-              "Autobuzele sunt mai puțin aglomerate iarna decât vara.",
-              "Un bilet de o zi merită dacă faceți mai multe călătorii.",
-              "Încălzirea în autobuze este foarte plăcută iarna."
-            ],
-            "en": [
-              "Check the winter schedule as some lines run less frequently.",
-              "Line 5 is the best connection for tourists to the coast.",
-              "Buses are less crowded in winter than in summer.",
-              "A day ticket is worth it if you make several trips.",
-              "The heating in the buses is very pleasant in winter."
-            ]
-          }
-        }
       }
     }
   }

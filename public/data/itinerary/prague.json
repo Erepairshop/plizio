@@ -1,0 +1,1593 @@
+{
+  "city_id": "prague",
+  "anchor": {
+    "name": "Prag Altstädter Ring",
+    "coords": [
+      50.0875,
+      14.4213
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 5.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstädter Ring & Astronomische Uhr",
+            "hu": "Óváros tér és csillagászati óra",
+            "ro": "Piața Orașului Vechi și Ceasul Astronomic",
+            "en": "Old Town Square & Astronomical Clock"
+          },
+          "coords": [
+            50.0872,
+            14.4208
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Warten Sie auf die volle Stunde, um das Apostelspiel der Uhr zu sehen.",
+            "hu": "Várd meg az egész órát, hogy lásd az apostolok felvonulását az órán.",
+            "ro": "Așteptați ora exactă pentru a vedea spectacolul apostolilor de la ceas.",
+            "en": "Wait for the top of the hour to see the clock's apostle show."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (Josefov)",
+            "hu": "Zsidó negyed (Josefov)",
+            "ro": "Cartierul Evreiesc (Josefov)",
+            "en": "Jewish Quarter (Josefov)"
+          },
+          "coords": [
+            50.0901,
+            14.4193
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Alte Jüdische Friedhof ist ein Muss, aber das Ticket ist kombiniert.",
+            "hu": "A Régi zsidó temető kötelező, de a jegy kombinált.",
+            "ro": "Vechiul Cimitir Evreiesc este o vizită obligatorie, dar biletul este combinat.",
+            "en": "The Old Jewish Cemetery is a must-see, but the ticket is combined."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlsbrücke",
+            "hu": "Károly-híd",
+            "ro": "Podul Carol",
+            "en": "Charles Bridge"
+          },
+          "coords": [
+            50.0865,
+            14.4118
+          ],
+          "category": "landmark",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Berühren Sie das Relief des Hl. Johannes von Nepomuk für Glück.",
+            "hu": "Érintsd meg Nepomuki Szent János domborművét a szerencséért.",
+            "ro": "Atingeți relieful Sfântului Ioan Nepomuk pentru noroc.",
+            "en": "Touch the relief of St. John of Nepomuk for good luck."
+          }
+        },
+        {
+          "name": {
+            "de": "Lennon-Mauer",
+            "hu": "Lennon-fal",
+            "ro": "Zidul Lennon",
+            "en": "Lennon Wall"
+          },
+          "coords": [
+            50.0862,
+            14.4071
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bringen Sie einen Stift mit, um Ihre eigene Nachricht zu hinterlassen.",
+            "hu": "Hozz magaddal egy filctollat, hogy te is otthagyd az üzeneted.",
+            "ro": "Aduceți un marker pentru a lăsa propriul mesaj pe perete.",
+            "en": "Bring a marker to leave your own message on the wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Malá Strana",
+            "hu": "Ebéd a Malá Stranában",
+            "ro": "Prânz în Malá Strana",
+            "en": "Lunch in Malá Strana"
+          },
+          "coords": [
+            50.088,
+            14.405
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie ein traditionelles Gulasch in einem der Kellerrestaurants.",
+            "hu": "Kóstolj meg egy hagyományos gulyást az egyik pincerétteremben.",
+            "ro": "Încercați un gulaș tradițional într-unul din restaurantele de la subsol.",
+            "en": "Try a traditional goulash in one of the cellar restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche (Kleinseite)",
+            "hu": "Szent Miklós-templom (Kisoldal)",
+            "ro": "Biserica Sfântul Nicolae (Malá Strana)",
+            "en": "St. Nicholas Church (Lesser Town)"
+          },
+          "coords": [
+            50.088,
+            14.4035
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das barocke Interieur und die riesige Kuppelfreske.",
+            "hu": "Csodáld meg a barokk belső teret és a hatalmas kupolafreskót.",
+            "ro": "Admirați interiorul baroc și fresca uriașă de pe cupolă.",
+            "en": "Admire the baroque interior and the giant dome fresco."
+          }
+        },
+        {
+          "name": {
+            "de": "Prager Burg Komplex",
+            "hu": "Prágai várnegyed",
+            "ro": "Complexul Castelului Praga",
+            "en": "Prague Castle Complex"
+          },
+          "coords": [
+            50.091,
+            14.402
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil. Nehmen Sie die Alte Schlossstiege für die beste Aussicht.",
+            "hu": "Az út meredek. A Régi várlépcsőt válaszd a legjobb kilátásért.",
+            "ro": "Urcușul este abrupt. Folosiți Scările Vechi ale Castelului pentru cea mai bună priveliște.",
+            "en": "The climb is steep. Take the Old Castle Stairs for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Goldenes Gässchen",
+            "hu": "Arany utcácska",
+            "ro": "Ulița de Aur",
+            "en": "Golden Lane"
+          },
+          "coords": [
+            50.0918,
+            14.4044
+          ],
+          "category": "historical",
+          "arrive_at": "18:05",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Haus Nr. 22, in dem Franz Kafka einst arbeitete.",
+            "hu": "Látogass el a 22-es számú házba, ahol egykor Franz Kafka dolgozott.",
+            "ro": "Vizitați casa nr. 22, unde a lucrat cândva Franz Kafka.",
+            "en": "Visit house number 22, where Franz Kafka once worked."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Puls der Stadt, dem Altstädter Ring. Nach der Erkundung des reichen jüdischen Erbes in Josefov überqueren Sie die ikonische Karlsbrücke und tauchen in die künstlerische Atmosphäre der Lennon-Mauer ein. Am Nachmittag steigen Sie zum majestätischen Burgkomplex auf, erkunden den Veitsdom und schlendern durch das Goldene Gässchen, wo die Geschichte in den kleinen Häusern lebendig wird. Der Abend klingt mit einem Panoramablick auf die Stadt aus.",
+        "hu": "A napod a város pulzusánál, az Óváros téren kezdődik. Miután felfedezted Josefov gazdag zsidó örökségét, átsétálsz az ikonikus Károly-hídon, és elmerülsz a Lennon-fal művészi hangulatában. Délután felkapaszkodsz a fenséges Várnegyedbe, felfedezed a Szent Vitus-székesegyházat, és végigsétálsz az Arany utcácskán, ahol a történelem megelevenedik a kis házakban. Az estét a városra nyíló panorámával zárod.",
+        "ro": "Ziua începe în inima orașului, Piața Orașului Vechi. După ce explorați bogata moștenire evreiască din Josefov, traversați emblematicul Pod Carol și vă cufundați în atmosfera artistică de la Zidul Lennon. După-amiaza este dedicată urcării la complexul maiestuos al castelului, explorând Catedrala Sf. Vitus și plimbându-vă pe Ulița de Aur, unde istoria prinde viață în casele minuscule. Seara se încheie cu o vedere panoramică asupra orașului.",
+        "en": "Your day starts at the city's pulse, the Old Town Square. After exploring the rich Jewish heritage in Josefov, you'll cross the iconic Charles Bridge and dive into the artistic vibe of the Lennon Wall. The afternoon is for ascending to the majestic castle complex, exploring St. Vitus Cathedral, and wandering Golden Lane, where history feels alive in the tiny houses. The evening wraps up with a panoramic city view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Lendenbraten in Sahnesauce, ein tschechischer Klassiker. Suchen Sie nach 'U Medvidku'."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Obwohl touristisch, ist dieses süße Gebäck ein Muss. Am besten warm genießen."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Das Original-Pils. Probieren Sie es unpasteurisiert in einer 'tankovna'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marha tejszínes mártással, egy cseh klasszikus. Keresd az 'U Medvidku'-t."
+          },
+          {
+            "name": "Trdelník (Kürtőskalács)",
+            "tip": "Bár turista-csali, ez az édes sütemény kötelező. Melegen a legjobb."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Az eredeti pilseni. Kóstold meg pasztörizálatlanul egy 'tankovna'-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână, un clasic ceh. Căutați 'U Medvidku'."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Deși turistic, acest produs de patiserie dulce este o necesitate. Cel mai bun cald."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Pilsner-ul original. Încercați-l nepasteurizat la o 'tankovna'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce, a Czech classic. Look for 'U Medvidku'."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Although touristy, this sweet pastry is a must-try. Best enjoyed warm."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "The original pilsner. Try it unpasteurized from a 'tankovna'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Letná Park",
+            "tip": "Überqueren Sie den Fluss für eine atemberaubende Aussicht auf die Brücken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vyšehrad-Friedhof",
+            "tip": "Ein friedlicher Ort, an dem viele berühmte Tschechen begraben sind.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vrtba-Garten",
+            "tip": "Ein verstecktes barockes Juwel an den Hängen des Petřín.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Letná park",
+            "tip": "Menj át a folyón, hogy lenyűgöző kilátásban legyen részed a hidakra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vyšehradi temető",
+            "tip": "Békés hely, ahol sok híres cseh nyugszik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vrtba-kert",
+            "tip": "Rejtett barokk gyöngyszem a Petřín-hegy lejtőin.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Letná",
+            "tip": "Traversați râul pentru o priveliște uimitoare asupra podurilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Vyšehrad",
+            "tip": "Un loc pașnic unde sunt îngropați mulți cehi celebri.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Vrtba",
+            "tip": "O bijuterie barocă ascunsă pe versanții dealului Petřín.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Letná Park",
+            "tip": "Cross the river for a stunning postcard view of the bridges.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vyšehrad Cemetery",
+            "tip": "A peaceful place where many famous Czechs are buried.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vrtba Garden",
+            "tip": "A hidden baroque gem on the slopes of Petřín hill.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Havel-Markt",
+            "tip": "Ein Mix aus Souvenirs, Obst und lokalen Handwerksprodukten."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Tschechische Kosmetik, oft auf Basis von Bier oder Wein, und Holzspielzeug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Havelská piac",
+            "tip": "Szuvenírek, gyümölcsök és helyi kézműves termékek keveréke."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Cseh kozmetikumok, gyakran sör vagy bor alapú, és fa játékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Havelská",
+            "tip": "Un amestec de suveniruri, fructe și produse artizanale locale."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Cosmetice cehe, adesea pe bază de bere sau vin, și jucării din lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Havel's Market",
+            "tip": "A mix of souvenirs, fresh fruit, and local craft products."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Czech cosmetics, often beer or wine-based, and wooden toys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe; das Kopfsteinpflaster ist unerbittlich.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Achten Sie auf Taschendiebe an überfüllten Orten wie der Karlsbrücke.",
+          "Lernen Sie ein paar tschechische Grundbegriffe wie 'Dobrý den' (Guten Tag) und 'Děkuji' (Danke)."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a macskakő kíméletlen.",
+          "Egy újratölthető vizes palack hasznos.",
+          "Vigyázz a zsebtolvajokra a forgalmas helyeken, mint a Károly-híd.",
+          "Tanulj meg néhány alapvető cseh kifejezést, mint a 'Dobrý den' (Jó napot) és a 'Děkuji' (Köszönöm)."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili; piatra cubică este nemiloasă.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Fiți atenți la hoții de buzunare în locuri aglomerate precum Podul Carol.",
+          "Învățați câteva fraze de bază în cehă, cum ar fi 'Dobrý den' (Bună ziua) și 'Děkuji' (Mulțumesc)."
+        ],
+        "en": [
+          "Wear comfortable shoes; the cobblestones are unforgiving.",
+          "A reusable water bottle comes in handy.",
+          "Watch out for pickpockets in crowded places like the Charles Bridge.",
+          "Learn a few basic Czech phrases like 'Dobrý den' (Good day) and 'Děkuji' (Thank you)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrrad abholen und am Wenzelsplatz starten",
+            "hu": "Biciklikölcsönzés és indulás a Vencel térről",
+            "ro": "Închiriere biciclete și start din Piața Wenceslas",
+            "en": "Bike pickup and start at Wenceslas Square"
+          },
+          "coords": [
+            50.0815,
+            14.4266
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+            "hu": "Indulás előtt ellenőrizd a fékeket és a gumikat.",
+            "ro": "Verificați frânele și anvelopele înainte de a porni.",
+            "en": "Check the brakes and tires before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum (Außenansicht)",
+            "hu": "Nemzeti Múzeum (kívülről)",
+            "ro": "Muzeul Național (exterior)",
+            "en": "National Museum (exterior view)"
+          },
+          "coords": [
+            50.0792,
+            14.4302
+          ],
+          "category": "museum",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Gebäude ist genauso beeindruckend wie die Ausstellungen im Inneren.",
+            "hu": "Az épület legalább annyira lenyűgöző, mint a benne lévő kiállítások.",
+            "ro": "Clădirea este la fel de impresionantă ca și expozițiile din interior.",
+            "en": "The building is just as impressive as the exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Moldau zum Tanzenden Haus",
+            "hu": "Tekerés a Moldva mentén a Táncoló Házig",
+            "ro": "Plimbare pe malul Vltavei până la Casa Dansatoare",
+            "en": "Ride along the Vltava to the Dancing House"
+          },
+          "coords": [
+            50.0754,
+            14.4141
+          ],
+          "category": "landmark",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos von der gegenüberliegenden Seite des Flusses.",
+            "hu": "A folyó túlsó partjáról készíts képeket.",
+            "ro": "Faceți fotografii de pe malul opus al râului.",
+            "en": "Take photos from the opposite side of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kampa-Insel",
+            "hu": "Kampa-sziget",
+            "ro": "Insula Kampa",
+            "en": "Kampa Island"
+          },
+          "coords": [
+            50.0847,
+            14.4085
+          ],
+          "category": "park",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach den krabbelnden Baby-Statuen von David Černý.",
+            "hu": "Keresd David Černý mászó baba szobrait.",
+            "ro": "Fiți atenți la statuile bebelușilor târâtori de David Černý.",
+            "en": "Look for the crawling baby statues by David Černý."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Blick auf die Karlsbrücke",
+            "hu": "Ebéd a Károly-hídra néző kilátással",
+            "ro": "Prânz cu vedere la Podul Carol",
+            "en": "Lunch with a view of Charles Bridge"
+          },
+          "coords": [
+            50.086,
+            14.41
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Viele Restaurants hier haben Terrassen direkt am Wasser.",
+            "hu": "Sok itteni étteremnek van közvetlen vízparti terasza.",
+            "ro": "Multe restaurante de aici au terase chiar pe malul apei.",
+            "en": "Many restaurants here have terraces right on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Letná-Park",
+            "hu": "Tekerés a Letná parkba",
+            "ro": "Plimbare cu bicicleta spre Parcul Letná",
+            "en": "Ride to Letná Park"
+          },
+          "coords": [
+            50.096,
+            14.415
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Biergarten für ein kühles Getränk mit der besten Aussicht auf die Stadt.",
+            "hu": "Látogass el a sörkertbe egy hideg italra a város legjobb kilátásával.",
+            "ro": "Vizitați grădina de bere pentru o băutură rece cu cea mai bună priveliște a orașului.",
+            "en": "Visit the beer garden for a cold drink with the best city view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückgabe der Fahrräder und Abend in der Altstadt",
+            "hu": "Biciklik leadása és este az Óvárosban",
+            "ro": "Returnarea bicicletelor și seară în Orașul Vechi",
+            "en": "Bike return and evening in the Old Town"
+          },
+          "coords": [
+            50.0875,
+            14.4213
+          ],
+          "category": "shopping",
+          "arrive_at": "16:30",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen und finden Sie ein gemütliches Restaurant für das Abendessen.",
+            "hu": "Sétálj a sikátorokban, és keress egy hangulatos éttermet vacsorára.",
+            "ro": "Plimbați-vă pe străduțe și găsiți un restaurant primitor pentru cină.",
+            "en": "Wander the alleyways and find a cozy restaurant for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der Moldau. Vom belebten Wenzelsplatz radeln Sie am Nationalmuseum vorbei zum architektonischen Wunder des Tanzenden Hauses. Nach einer Pause auf der friedlichen Kampa-Insel genießen Sie das Mittagessen mit Blick auf die Karlsbrücke. Der Nachmittag ist für den Letná-Park reserviert, wo Sie im Biergarten entspannen und die berühmte Aussicht auf die Prager Brücken genießen können, bevor Sie in die Altstadt zurückkehren.",
+        "hu": "Ez a biciklitúra a Moldva mentén vezet. A nyüzsgő Vencel térről a Nemzeti Múzeum mellett eltekerve jutsz el a Táncoló Ház építészeti csodájához. A békés Kampa-szigeten tartott pihenő után a Károly-hídra néző kilátással ebédelhetsz. A délutánt a Letná parkban töltöd, ahol a sörkertben pihenhetsz, és élvezheted a prágai hidakra nyíló híres kilátást, mielőtt visszatérnél az Óvárosba.",
+        "ro": "Acest tur cu bicicleta vă poartă de-a lungul râului Vltava. Din aglomerata Piață Wenceslas, pedalați pe lângă Muzeul Național până la minunea arhitecturală a Casei Dansatoare. După o pauză pe liniștita Insulă Kampa, vă bucurați de prânz cu vedere la Podul Carol. După-amiaza este rezervată Parcului Letná, relaxându-vă la grădina de bere și admirând faimoasa priveliște a podurilor din Praga înainte de a vă întoarce în Orașul Vechi.",
+        "en": "This bike tour takes you along the Vltava river. Starting from the bustling Wenceslas Square, you'll pedal past the National Museum to the architectural marvel of the Dancing House. After a break on the peaceful Kampa Island, you'll enjoy lunch with a view of Charles Bridge. The afternoon is for Letná Park, relaxing at its beer garden and soaking in the famous vista of Prague's bridges before returning to the Old Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Eingelegter Camembert-Käse, eine klassische tschechische Bierspezialität."
+          },
+          {
+            "name": "Lokál Dlouhááá",
+            "tip": "Ein trendiger Ort für frisches Bier vom Fass und moderne tschechische Küche."
+          },
+          {
+            "name": "Chlebíčky",
+            "tip": "Offene belegte Brötchen, perfekt für einen schnellen Snack. Probieren Sie sie bei 'Sisters'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Pácolt camembert sajt, klasszikus cseh sörkorcsolya."
+          },
+          {
+            "name": "Lokál Dlouhááá",
+            "tip": "Trendi hely friss csapolt sörrel és modern cseh konyhával."
+          },
+          {
+            "name": "Chlebíčky",
+            "tip": "Nyitott szendvicsek, tökéletesek egy gyors harapnivalóhoz. Kóstold meg a 'Sisters'-ben."
+          },
+          {
+            "name": "Pivní zmrzlina",
+            "tip": "Sörfagylalt, egyedi prágai különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Brânză Camembert marinată, un aperitiv clasic ceh pentru bere."
+          },
+          {
+            "name": "Lokál Dlouhááá",
+            "tip": "Un loc la modă pentru bere proaspătă la halbă și bucătărie cehă modernă."
+          },
+          {
+            "name": "Chlebíčky",
+            "tip": "Sandvișuri deschise, perfecte pentru o gustare rapidă. Încercați-le la 'Sisters'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Pickled Camembert-style cheese, a classic Czech beer snack."
+          },
+          {
+            "name": "Lokál Dlouhááá",
+            "tip": "A trendy spot for fresh tank beer and modern Czech cuisine."
+          },
+          {
+            "name": "Chlebíčky",
+            "tip": "Open-faced sandwiches, perfect for a quick snack. Try them at 'Sisters'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stromovka Park",
+            "tip": "Ein riesiger Park, ideal für eine lange, ungestörte Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Moldau bei Sonnenuntergang",
+            "tip": "Finden Sie einen Platz am Náplavka-Ufer und beobachten Sie die Schwäne.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Franziskanergarten",
+            "tip": "Eine ruhige Oase, versteckt hinter dem Wenzelsplatz.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stromovka park",
+            "tip": "Hatalmas park, ideális egy hosszú, zavartalan biciklizéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Moldva-part naplementekor",
+            "tip": "Keress egy helyet a Náplavka rakparton, és nézd a hattyúkat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ferencesek kertje",
+            "tip": "Csendes oázis a Vencel tér mögött elrejtve.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Stromovka",
+            "tip": "Un parc imens, ideal pentru o plimbare lungă și neîntreruptă cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Vltavei la apus",
+            "tip": "Găsiți un loc pe cheiul Náplavka și priviți lebedele.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Franciscană",
+            "tip": "O oază de liniște ascunsă în spatele Pieței Wenceslas.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stromovka Park",
+            "tip": "A huge park, great for a long, uninterrupted bike ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vltava Riverbank at sunset",
+            "tip": "Find a spot on the Náplavka embankment and watch the swans.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Franciscan Garden",
+            "tip": "A quiet oasis hidden just off Wenceslas Square.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Czech Design",
+            "tip": "Suchen Sie nach kleinen Boutiquen mit modernem tschechischem Glas und Schmuck."
+          },
+          {
+            "name": "Farmer's Market am Náplavka",
+            "tip": "Jeden Samstagmorgen ein lebhafter Markt mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Czech Design",
+            "tip": "Keress kis butikokat modern cseh üveggel és ékszerekkel."
+          },
+          {
+            "name": "Termelői piac a Náplavkán",
+            "tip": "Minden szombat reggel nyüzsgő piac helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Czech Design",
+            "tip": "Căutați mici buticuri care vând sticlă și bijuterii cehe moderne."
+          },
+          {
+            "name": "Piața fermierilor de la Náplavka",
+            "tip": "În fiecare sâmbătă dimineața, o piață vibrantă cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Czech Design",
+            "tip": "Look for small boutiques featuring modern Czech glass and jewelry."
+          },
+          {
+            "name": "Farmer's Market at Náplavka",
+            "tip": "Every Saturday morning, a vibrant market with local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prags Zentrum ist hügelig; ein E-Bike könnte eine gute Idee sein.",
+          "Nutzen Sie die Radwege entlang des Flusses, um dem Verkehr zu entgehen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch für kurze Stopps.",
+          "Straßenbahnschienen sind eine Gefahr für Radfahrer; überqueren Sie sie im rechten Winkel."
+        ],
+        "hu": [
+          "Prága központja dombos, egy e-bicikli jó ötlet lehet.",
+          "Használd a folyó menti bicikliutakat, hogy elkerüld a forgalmat.",
+          "Mindig zárd le a biciklidet, még rövid megállókra is.",
+          "A villamossínek veszélyesek a biciklisekre; derékszögben keresztezd őket."
+        ],
+        "ro": [
+          "Centrul Pragăi este deluros; o bicicletă electrică ar putea fi o idee bună.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru a evita traficul.",
+          "Încuietați întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Șinele de tramvai sunt un pericol pentru bicicliști; traversați-le la un unghi drept."
+        ],
+        "en": [
+          "Prague's center is hilly; an e-bike might be a good idea.",
+          "Use the bike paths along the river to avoid traffic.",
+          "Always lock your bike securely, even for short stops.",
+          "Tram tracks are a hazard for cyclists; cross them at a right angle."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 21.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Parken bei Vyšehrad",
+            "hu": "Érkezés és parkolás Vyšehradnál",
+            "ro": "Sosire și parcare la Vyšehrad",
+            "en": "Arrival & Parking at Vyšehrad"
+          },
+          "coords": [
+            50.0645,
+            14.419
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie den offiziellen Parkplatz. Es ist ein kurzer Spaziergang zum Burggelände.",
+            "hu": "Használd a hivatalos parkolót. Onnan rövid séta a vár területe.",
+            "ro": "Folosiți parcarea oficială. Este o plimbare scurtă până la terenul castelului.",
+            "en": "Use the official car park. It's a short walk to the castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Vyšehrad Burg und Friedhof",
+            "hu": "Vyšehrad vára és temetője",
+            "ro": "Castelul și cimitirul Vyšehrad",
+            "en": "Vyšehrad Castle and Cemetery"
+          },
+          "coords": [
+            50.064,
+            14.418
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre und den Blick auf die Moldau.",
+            "hu": "Élvezd a csendes légkört és a Moldvára nyíló kilátást.",
+            "ro": "Bucurați-vă de atmosfera liniștită și de vederea asupra râului Vltava.",
+            "en": "Enjoy the peaceful atmosphere and the views over the Vltava river."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Peter und Paul",
+            "hu": "Szent Péter és Pál-bazilika",
+            "ro": "Bazilica Sf. Petru și Pavel",
+            "en": "Basilica of St. Peter and St. Paul"
+          },
+          "coords": [
+            50.0638,
+            14.4175
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Innere im Jugendstil ist atemberaubend und unerwartet.",
+            "hu": "A szecessziós belső tér lélegzetelállító és váratlan.",
+            "ro": "Interiorul Art Nouveau este uimitor și neașteptat.",
+            "en": "The Art Nouveau interior is stunning and unexpected."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Parken Malá Strana",
+            "hu": "Autózás és parkolás a Malá Stranában",
+            "ro": "Condus și parcare în Malá Strana",
+            "en": "Drive & Park in Malá Strana"
+          },
+          "coords": [
+            50.0885,
+            14.401
+          ],
+          "category": "transport",
+          "arrive_at": "11:40",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken ist hier schwierig. Nutzen Sie eine Tiefgarage in der Nähe.",
+            "hu": "A parkolás itt nehézkes. Használj egy közeli mélygarázst.",
+            "ro": "Parcarea este dificilă aici. Utilizați o parcare subterană din apropiere.",
+            "en": "Parking is difficult here. Use an underground garage nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Erkundung der Kleinseite",
+            "hu": "Ebéd és a Kisoldal felfedezése",
+            "ro": "Prânz și explorare în Malá Strana",
+            "en": "Lunch and exploration in Lesser Town"
+          },
+          "coords": [
+            50.088,
+            14.4045
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den charmanten, kopfsteingepflasterten Gassen.",
+            "hu": "Vessz el a bájos, macskaköves sikátorokban.",
+            "ro": "Pierdeți-vă pe străduțele fermecătoare, pavate cu piatră cubică.",
+            "en": "Get lost in the charming cobblestone alleyways."
+          }
+        },
+        {
+          "name": {
+            "de": "Prager Burg Komplex",
+            "hu": "Prágai várnegyed",
+            "ro": "Complexul Castelului Praga",
+            "en": "Prague Castle Complex"
+          },
+          "coords": [
+            50.091,
+            14.402
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kaufen Sie Ihr Ticket online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Vedd meg a jegyed online, hogy elkerüld a hosszú sorokat.",
+            "ro": "Cumpărați biletul online pentru a evita cozile lungi.",
+            "en": "Buy your ticket online to avoid the long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Letná Park & Panoramablick",
+            "hu": "Autózás a Letná parkhoz és panoráma",
+            "ro": "Condus spre Parcul Letná și vedere panoramică",
+            "en": "Drive to Letná Park & Panoramic View"
+          },
+          "coords": [
+            50.096,
+            14.415
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für das klassische Foto der Prager Brücken.",
+            "hu": "Tökéletes hely a klasszikus prágai hidakat ábrázoló fotóhoz.",
+            "ro": "Locul perfect pentru fotografia clasică a podurilor din Praga.",
+            "en": "The perfect spot for that classic photo of Prague's bridges."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Nähe des Parks",
+            "hu": "Vacsora a park közelében",
+            "ro": "Cină lângă parc",
+            "en": "Dinner near the park"
+          },
+          "coords": [
+            50.0975,
+            14.425
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 95,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Gegend um Letná hat viele tolle Restaurants, die weniger touristisch sind.",
+            "hu": "A Letná környékén sok remek, kevésbé turista étterem található.",
+            "ro": "Zona din jurul Letná are multe restaurante excelente, mai puțin turistice.",
+            "en": "The area around Letná has many great restaurants that are less touristy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem historischen Hügel von Vyšehrad, dem mythischen Geburtsort Prags. Nach einem ruhigen Vormittag fahren Sie in das belebte Viertel Malá Strana, parken Ihr Auto und erkunden zu Fuß das Labyrinth der Gassen und den majestätischen Prager Burgkomplex. Am späten Nachmittag bringt Sie eine kurze Fahrt zum Letná-Park, wo Sie mit einem atemberaubenden Panoramablick auf die Stadt belohnt werden, der den perfekten Abschluss für Ihren Erkundungstag bildet.",
+        "hu": "Kezdje a napot a történelmi Vyšehrad-dombon, Prága mitikus szülőhelyén. Egy csendes délelőtt után autózzon a nyüzsgő Malá Strana negyedbe, parkolja le az autót, és fedezze fel gyalog a sikátorok labirintusát és a fenséges Prágai Várnegyedet. Késő délután egy rövid autóút visz a Letná parkba, ahol lenyűgöző panorámás kilátás nyílik a városra, tökéletes lezárásaként a felfedező napnak.",
+        "ro": "Începeți ziua pe dealul istoric Vyšehrad, locul de naștere mitic al Pragăi. După o dimineață liniștită, conduceți spre cartierul plin de viață Malá Strana, parcați mașina și explorați pe jos labirintul de străduțe și complexul maiestuos al Castelului Praga. Spre sfârșitul după-amiezii, o scurtă călătorie cu mașina vă duce în Parcul Letná pentru o recompensă panoramică uluitoare asupra orașului, încheind perfect ziua de explorare.",
+        "en": "Start your day atop the historic Vyšehrad hill, the mythical birthplace of Prague. After a tranquil morning, drive to the bustling Malá Strana district, park the car, and explore the labyrinth of alleys and the majestic Prague Castle complex on foot. In the late afternoon, a short drive takes you to Letná Park for a breathtaking panoramic reward over the city, perfectly capping your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vepřo-knedlo-zelo",
+            "tip": "Schweinebraten mit Knödeln und Kraut, das tschechische Nationalgericht."
+          },
+          {
+            "name": "U Fleků",
+            "tip": "Eine der ältesten Brauereien in Prag, die seit 1499 dunkles Bier braut."
+          },
+          {
+            "name": "Kulajda",
+            "tip": "Eine cremige Dill-Pilz-Suppe mit einem pochierten Ei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vepřo-knedlo-zelo",
+            "tip": "Sertéssült knédlivel és káposztával, a cseh nemzeti étel."
+          },
+          {
+            "name": "U Fleků",
+            "tip": "Prága egyik legrégebbi sörfőzdéje, 1499 óta főznek barna sört."
+          },
+          {
+            "name": "Kulajda",
+            "tip": "Krémes, kapros gombaleves buggyantott tojással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vepřo-knedlo-zelo",
+            "tip": "Friptură de porc cu găluște și varză, mâncarea națională cehă."
+          },
+          {
+            "name": "U Fleků",
+            "tip": "Una dintre cele mai vechi fabrici de bere din Praga, care produce bere neagră din 1499."
+          },
+          {
+            "name": "Kulajda",
+            "tip": "O supă cremoasă de mărar și ciuperci cu un ou poșat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vepřo-knedlo-zelo",
+            "tip": "Roast pork with dumplings and cabbage, the Czech national dish."
+          },
+          {
+            "name": "U Fleků",
+            "tip": "One of the oldest breweries in Prague, brewing dark beer since 1499."
+          },
+          {
+            "name": "Kulajda",
+            "tip": "A creamy dill and mushroom soup with a poached egg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Divoká Šárka",
+            "tip": "Ein riesiges Naturreservat am Rande der Stadt, perfekt für eine kurze Wanderung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Neuer Jüdischer Friedhof",
+            "tip": "Ein ruhiger, grüner Friedhof, auf dem Franz Kafka begraben ist.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Břevnov-Kloster",
+            "tip": "Besuchen Sie die älteste Brauerei Böhmens in einer friedlichen Klosteranlage.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Divoká Šárka",
+            "tip": "Hatalmas természetvédelmi terület a város szélén, tökéletes egy rövid túrához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Új zsidó temető",
+            "tip": "Csendes, zöld temető, ahol Franz Kafka sírja is található.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Břevnovi kolostor",
+            "tip": "Látogass el Csehország legrégebbi sörfőzdéjébe egy békés kolostorkomplexumban.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Divoká Šárka",
+            "tip": "O rezervație naturală imensă la marginea orașului, perfectă pentru o drumeție scurtă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Noul Cimitir Evreiesc",
+            "tip": "Un cimitir liniștit și verde unde este îngropat Franz Kafka.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mănăstirea Břevnov",
+            "tip": "Vizitați cea mai veche fabrică de bere din Boemia, într-un complex mănăstiresc pașnic.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Divoká Šárka",
+            "tip": "A huge nature reserve on the edge of the city, perfect for a short hike.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "New Jewish Cemetery",
+            "tip": "A quiet, green cemetery where Franz Kafka is buried.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Břevnov Monastery",
+            "tip": "Visit Bohemia's oldest brewery in a peaceful monastery complex.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Böhmisches Glas",
+            "tip": "Suchen Sie nach Moser-Glas für hochwertiges böhmisches Kristall."
+          },
+          {
+            "name": "Marionetten & Puppen",
+            "tip": "In den Geschäften in Malá Strana finden Sie wunderschöne handgefertigte Marionetten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cseh kristály",
+            "tip": "Keress Moser üveget a kiváló minőségű cseh kristályért."
+          },
+          {
+            "name": "Marionettek és bábok",
+            "tip": "A Malá Strana üzleteiben gyönyörű, kézzel készített marionetteket találsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sticlă de Boemia",
+            "tip": "Căutați sticlă Moser pentru cristal de Boemia de înaltă calitate."
+          },
+          {
+            "name": "Marionete și păpuși",
+            "tip": "Găsiți marionete frumoase, lucrate manual, în magazinele din Malá Strana."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bohemian Glass",
+            "tip": "Look for Moser glass for high-quality Bohemian crystal."
+          },
+          {
+            "name": "Marionettes & Puppets",
+            "tip": "You can find beautiful hand-crafted marionettes in the shops in Malá Strana."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist teuer und begrenzt. Nutzen Sie P+R-Anlagen (Park & Ride).",
+          "Achten Sie auf die blauen Zonen, die nur für Anwohner sind.",
+          "Der Verkehr kann stark sein, planen Sie zusätzliche Zeit für Fahrten ein.",
+          "Eine GPS-Navigation ist unerlässlich, um sich in den Einbahnstraßen zurechtzufinden."
+        ],
+        "hu": [
+          "A központban a parkolás drága és korlátozott. Használj P+R (Parkolj és utazz) parkolókat.",
+          "Figyelj a kék zónákra, azok csak a lakosoknak szólnak.",
+          "A forgalom nagy lehet, tervezz plusz időt az utazásokra.",
+          "GPS navigáció elengedhetetlen az egyirányú utcákban való tájékozódáshoz."
+        ],
+        "ro": [
+          "Parcarea în centru este scumpă și limitată. Folosiți facilitățile P+R (Park & Ride).",
+          "Fiți atenți la zonele albastre, care sunt doar pentru rezidenți.",
+          "Traficul poate fi aglomerat, planificați timp suplimentar pentru călătorii.",
+          "Navigația GPS este esențială pentru a naviga pe străzile cu sens unic."
+        ],
+        "en": [
+          "Parking in the center is expensive and limited. Use P+R (Park & Ride) facilities.",
+          "Be aware of the blue zones, which are for residents only.",
+          "Traffic can be heavy, so plan extra time for drives.",
+          "GPS navigation is essential for navigating the one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 9.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Nationalmuseum (Metro A/C)",
+            "hu": "Utazás a Nemzeti Múzeumhoz (A/C metró)",
+            "ro": "Călătorie la Muzeul Național (Metrou A/C)",
+            "en": "Trip to the National Museum (Metro A/C)"
+          },
+          "coords": [
+            50.0792,
+            14.4302
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vegyél egy napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a one-day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Wenzelsplatz",
+            "hu": "Vencel tér",
+            "ro": "Piața Wenceslas",
+            "en": "Wenceslas Square"
+          },
+          "coords": [
+            50.0815,
+            14.4266
+          ],
+          "category": "square",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie die Statue des Heiligen Wenzel vor dem Museum.",
+            "hu": "Nézd meg Szent Vencel szobrát a múzeum előtt.",
+            "ro": "Vedeți statuia Sfântului Wenceslas în fața muzeului.",
+            "en": "See the statue of Saint Wenceslas in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Altstädter Ring (Metro A)",
+            "hu": "Utazás az Óváros térre (A metró)",
+            "ro": "Călătorie în Piața Orașului Vechi (Metrou A)",
+            "en": "Trip to Old Town Square (Metro A)"
+          },
+          "coords": [
+            50.0875,
+            14.4213
+          ],
+          "category": "transport",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Staroměstská aus und gehen Sie ein kurzes Stück zu Fuß.",
+            "hu": "Szállj le a Staroměstská megállónál, onnan rövid séta.",
+            "ro": "Coborâți la Staroměstská și faceți o scurtă plimbare.",
+            "en": "Get off at Staroměstská and take a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            50.0888,
+            14.423
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vermeiden Sie die Restaurants direkt am Platz für bessere Preise.",
+            "hu": "A jobb árakért kerüld a közvetlenül a téren lévő éttermeket.",
+            "ro": "Evitați restaurantele direct din piață pentru prețuri mai bune.",
+            "en": "Avoid the restaurants right on the square for better value."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Prager Burg (Tram 22)",
+            "hu": "Utazás a Prágai Várba (22-es villamos)",
+            "ro": "Călătorie la Castelul Praga (Tramvaiul 22)",
+            "en": "Trip to Prague Castle (Tram 22)"
+          },
+          "coords": [
+            50.091,
+            14.4
+          ],
+          "category": "transport",
+          "arrive_at": "14:40",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Diese malerische Straßenbahnlinie führt Sie direkt zum Burggelände.",
+            "hu": "Ez a festői villamosvonal egyenesen a vár területére visz.",
+            "ro": "Această linie pitorească de tramvai vă duce direct la terenul castelului.",
+            "en": "This scenic tram line takes you right up to the castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Veits-Dom",
+            "hu": "Szent Vitus-székesegyház",
+            "ro": "Catedrala Sf. Vitus",
+            "en": "St. Vitus Cathedral"
+          },
+          "coords": [
+            50.0909,
+            14.4008
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Buntglasfenster von Alfons Mucha.",
+            "hu": "Figyeld meg Alfons Mucha gyönyörű ólomüveg ablakait.",
+            "ro": "Observați vitraliile frumoase realizate de Alfons Mucha.",
+            "en": "Note the beautiful stained-glass windows by Alfons Mucha."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch die Kleinseite (Malá Strana)",
+            "hu": "Séta a Kisoldalon (Malá Strana)",
+            "ro": "Plimbare prin Malá Strana",
+            "en": "Walk down through Lesser Town (Malá Strana)"
+          },
+          "coords": [
+            50.088,
+            14.4035
+          ],
+          "category": "walk",
+          "arrive_at": "15:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie der Nerudova-Straße hinunter, die für ihre historischen Hauszeichen bekannt ist.",
+            "hu": "Sétálj le a Nerudova utcán, amely a történelmi házjegyeiről ismert.",
+            "ro": "Urmați strada Nerudova în jos, renumită pentru semnele sale istorice de casă.",
+            "en": "Follow Nerudova street downhill, famous for its historic house signs."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlsbrücke bei Sonnenuntergang",
+            "hu": "Károly-híd naplementekor",
+            "ro": "Podul Carol la apus",
+            "en": "Charles Bridge at Sunset"
+          },
+          "coords": [
+            50.0865,
+            14.4118
+          ],
+          "category": "sunset",
+          "arrive_at": "17:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Blick auf die beleuchtete Burg ist magisch.",
+            "hu": "A kivilágított vár látványa varázslatos.",
+            "ro": "Priveliștea castelului iluminat este magică.",
+            "en": "The view of the illuminated castle is magical."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte erkunden Sie Prag mühelos. Beginnen Sie im prächtigen Nationalmuseum am oberen Ende des Wenzelsplatzes. Eine kurze U-Bahn-Fahrt bringt Sie zum Herzen der Stadt, dem Altstädter Ring. Nach dem Mittagessen bringt Sie die malerische Tram 22 hinauf zur Prager Burg. Erkunden Sie den Dom, bevor Sie durch die charmante Kleinseite hinunter zur Karlsbrücke schlendern, um einen unvergesslichen Sonnenuntergang zu erleben.",
+        "hu": "Egy napijeggyel könnyedén felfedezheted Prágát. Kezdj a Vencel tér tetején álló csodálatos Nemzeti Múzeumban. Egy rövid metróút a város szívébe, az Óváros térre visz. Ebéd után a festői 22-es villamos felvisz a Prágai Várba. Fedezd fel a székesegyházat, mielőtt lesétálsz a bájos Kisoldalon keresztül a Károly-hídhoz egy felejthetetlen naplementéért.",
+        "ro": "Cu un bilet de o zi, explorați Praga fără efort. Începeți la magnificul Muzeu Național din capătul Pieței Wenceslas. O scurtă călătorie cu metroul vă duce în inima orașului, Piața Orașului Vechi. După prânz, tramvaiul pitoresc 22 vă urcă la Castelul Praga. Explorați catedrala înainte de a coborî prin fermecătorul cartier Malá Strana spre Podul Carol pentru un apus de neuitat.",
+        "en": "Using a day pass, you'll explore Prague effortlessly. Start at the magnificent National Museum at the top of Wenceslas Square. A short metro ride takes you to the city's heart, the Old Town Square. After lunch, the scenic Tram 22 whisks you up to Prague Castle. Explore the cathedral before strolling down through the charming Lesser Town to Charles Bridge for an unforgettable sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Gebratener Käse mit Pommes und Tatarsauce. Ein tschechisches Guilty Pleasure."
+          },
+          {
+            "name": "Pivovar Strahov",
+            "tip": "In der Nähe der Burg gelegen, brauen sie ihr eigenes ausgezeichnetes Bier."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie die tschechische Alternative zu Cola, ein lokaler Favorit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Rántott sajt hasábburgonyával és tartármártással. Egy cseh bűnös élvezet."
+          },
+          {
+            "name": "Pivovar Strahov",
+            "tip": "A vár közelében található, saját kiváló sört főznek."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Kóstold meg a kóla cseh alternatíváját, egy helyi kedvencet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Cașcaval pane cu cartofi prăjiți și sos tartar. O plăcere vinovată cehă."
+          },
+          {
+            "name": "Pivovar Strahov",
+            "tip": "Situată lângă castel, își produc propria bere excelentă."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Încercați alternativa cehă la Cola, un favorit local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Fried cheese with fries and tartar sauce. A Czech guilty pleasure."
+          },
+          {
+            "name": "Pivovar Strahov",
+            "tip": "Located near the castle, they brew their own excellent beer."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Try the Czech alternative to Coke, a local favorite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wallenstein-Garten",
+            "tip": "Ein prächtiger, aber ruhiger Barockgarten hinter den Mauern des Senats.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Petřín-Hügel",
+            "tip": "Nehmen Sie die Standseilbahn für einen atemberaubenden Blick und ruhige Spaziergänge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nový Svět",
+            "tip": "Eine märchenhafte, ruhige Gasse in der Nähe der Prager Burg.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wallenstein-kert",
+            "tip": "Pompás, mégis csendes barokk kert a Szenátus falai mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Petřín-hegy",
+            "tip": "Menj fel a siklóval a lélegzetelállító kilátásért és a csendes sétákért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nový Svět (Újvilág)",
+            "tip": "Mesebeli, csendes sikátor a Prágai Vár közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Wallenstein",
+            "tip": "O grădină barocă splendidă, dar liniștită, în spatele zidurilor Senatului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Petřín",
+            "tip": "Luați funicularul pentru vederi uimitoare și plimbări liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nový Svět",
+            "tip": "O alee de basm, liniștită, lângă Castelul Praga.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wallenstein Garden",
+            "tip": "A magnificent yet quiet baroque garden behind the Senate walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Petřín Hill",
+            "tip": "Take the funicular up for stunning views and quiet walks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nový Svět",
+            "tip": "A fairytale-like, quiet alley near Prague Castle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Palladium",
+            "tip": "Ein großes, modernes Einkaufszentrum mit internationalen Marken."
+          },
+          {
+            "name": "Botanicus",
+            "tip": "Natürliche Seifen und Kosmetika aus einem mittelalterlichen Dorf außerhalb Prags."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palladium",
+            "tip": "Nagy, modern bevásárlóközpont nemzetközi márkákkal."
+          },
+          {
+            "name": "Botanicus",
+            "tip": "Természetes szappanok és kozmetikumok egy Prágán kívüli középkori faluból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palladium",
+            "tip": "Un centru comercial mare și modern cu mărci internaționale."
+          },
+          {
+            "name": "Botanicus",
+            "tip": "Săpunuri și cosmetice naturale dintr-un sat medieval de lângă Praga."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palladium",
+            "tip": "A large, modern shopping mall with international brands."
+          },
+          {
+            "name": "Botanicus",
+            "tip": "Natural soaps and cosmetics from a medieval-style village outside Prague."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Entwerten Sie Ihr Ticket in den gelben Automaten, bevor Sie eine U-Bahn-Station betreten oder in eine Straßenbahn/Bus einsteigen.",
+          "Die Türen der U-Bahn und Straßenbahn schließen schnell.",
+          "Die Nacht-Straßenbahnen haben andere Routen als die Tageslinien.",
+          "Die 'PID Lítačka' App ist nützlich, um Routen zu planen und Tickets zu kaufen."
+        ],
+        "hu": [
+          "Érvényesítsd a jegyed a sárga automatáknál, mielőtt belépsz a metróállomásra vagy felszállsz egy villamosra/buszra.",
+          "A metró- és villamosajtók gyorsan záródnak.",
+          "Az éjszakai villamosok útvonala eltér a nappali vonalakétól.",
+          "A 'PID Lítačka' alkalmazás hasznos az útvonaltervezéshez és a jegyvásárláshoz."
+        ],
+        "ro": [
+          "Validați biletul în automatele galbene înainte de a intra într-o stație de metrou sau de a urca într-un tramvai/autobuz.",
+          "Ușile de la metrou și tramvai se închid repede.",
+          "Tramvaiele de noapte au rute diferite față de cele de zi.",
+          "Aplicația 'PID Lítačka' este utilă pentru planificarea rutelor și cumpărarea biletelor."
+        ],
+        "en": [
+          "Validate your ticket in the yellow machines before entering a metro station or boarding a tram/bus.",
+          "Metro and tram doors close quickly.",
+          "Night trams run on different routes than the day lines.",
+          "The 'PID Lítačka' app is useful for planning routes and buying tickets."
+        ]
+      }
+    }
+  }
+}

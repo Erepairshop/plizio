@@ -1,0 +1,994 @@
+{
+  "city_id": "brasov",
+  "anchor": {
+    "name": "Piața Sfatului",
+    "coords": [
+      25.614,
+      45.642
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piața Sfatului",
+          "coords": [
+            25.614,
+            45.642
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Setzen Sie sich auf eine Bank und genießen Sie den Blick auf den Brunnen.",
+            "hu": "Üljön le egy padra és élvezze a szökőkút látványát.",
+            "ro": "Așezați-vă pe o bancă și bucurați-vă de priveliștea fântânii.",
+            "en": "Sit on a bench and enjoy the view of the fountain."
+          }
+        },
+        {
+          "name": "Strada Sforii",
+          "coords": [
+            25.613,
+            45.641
+          ],
+          "category": "monument",
+          "arrive_at": "09:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die engste Gasse Europas – für ein einzigartiges Foto.",
+            "hu": "Európa legkeskenyebb utcája – egyedi fotóhelyszín.",
+            "ro": "Cea mai îngustă stradă din Europa – loc perfect pentru o fotografie unică.",
+            "en": "Europe's narrowest street – a unique photo spot."
+          }
+        },
+        {
+          "name": "Biserica Neagră",
+          "coords": [
+            25.6135,
+            45.6405
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Orgelvorführung um 12 Uhr.",
+            "hu": "Látogassa meg az orgona bemutatót 12 órakor.",
+            "ro": "Vizitați demonstrația de orgă de la ora 12.",
+            "en": "Attend the organ demonstration at 12 noon."
+          }
+        },
+        {
+          "name": "Muzeul Prima Școală Românească",
+          "coords": [
+            25.617,
+            45.639
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die älteste rumänische Schule und ihre Druckerpresse an.",
+            "hu": "Tekintse meg a legrégebbi román iskolát és nyomdagépét.",
+            "ro": "Vedeți cea mai veche școală românească și tiparnița sa.",
+            "en": "See the oldest Romanian school and its printing press."
+          }
+        },
+        {
+          "name": "Parcul Nicolae Titulescu",
+          "coords": [
+            25.606,
+            45.642
+          ],
+          "category": "park",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Schatten der alten Bäume und beobachten Sie die Eichhörnchen.",
+            "hu": "Pihenjen az öreg fák árnyékában és figyelje a mókusokat.",
+            "ro": "Relaxați-vă la umbra copacilor bătrâni și priviți veverițele.",
+            "en": "Relax in the shade of old trees and watch the squirrels."
+          }
+        },
+        {
+          "name": "La Ceaun – Restaurant",
+          "coords": [
+            25.608,
+            45.641
+          ],
+          "category": "gastro",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die traditionelle Ciorbă de burtă und das hausgemachte Papanasi.",
+            "hu": "Kóstolja meg a hagyományos ciorbă de burtă-t és a házi papanasi-t.",
+            "ro": "Încercați ciorba de burtă tradițională și papanasii de casă.",
+            "en": "Try the traditional ciorbă de burtă and homemade papanasi."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt auf dem malerischen Piața Sfatului, umgeben von bunten Barockhäusern. Nach einem kurzen Spaziergang durch die schmale Strada Sforii gelangen Sie zur Schwarzen Kirche, einem gotischen Meisterwerk. Der Vormittag steht ganz im Zeichen der Geschichte: das Museum der ersten rumänischen Schule fasziniert mit alten Drucken. Der Mittag lockt in den ruhigen Nicolae-Titulescu-Park, ideal für eine Picknickpause. Den Nachmittag beschließen Sie mit einem traditionellen rumänischen Essen im La Ceaun – ein perfekter Tagesausklang.",
+        "hu": "A nap a festői Piața Sfatului-n kezdődik, színes barokk házakkal körülvéve. A keskeny Strada Sforii-n átsétálva a Fekete templomhoz érkezik, ami gótikus remekmű. A délelőtt a történelemé: a legelső román iskola múzeuma lenyűgöző régi nyomtatványokkal. Délben a csendes Nicolae Titulescu parkban pihenhet, ideális egy piknikhez. A délutánt egy hagyományos román vacsorával zárja a La Ceaun – tökéletes napzárás.",
+        "ro": "Ziua începe în pitoreasca Piață a Sfatului, înconjurată de case baroce colorate. După o scurtă plimbare pe Strada Sforii, cea mai îngustă, ajungeți la Biserica Neagră, o capodoperă gotică. Dimineața este dedicată istoriei: muzeul primei școli românești fascinează cu tipărituri vechi. Prânzul vă poartă în liniștitul Parc Nicolae Titulescu, ideal pentru un picnic. După-amiaza se încheie cu o cină tradițională românească la La Ceaun – o seară perfectă.",
+        "en": "Your day starts on the picturesque Piața Sfatului, surrounded by colorful Baroque houses. After a short walk through the narrow Strada Sforii, you reach the Black Church, a Gothic masterpiece. The morning is all about history: the First Romanian School Museum fascinates with old prints. Lunchtime takes you to the quiet Nicolae Titulescu Park, perfect for a picnic. The afternoon ends with a traditional Romanian dinner at La Ceaun – a perfect finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Traditionelle Kuttelsuppe"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Hagyományos pacalleves"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Supă tradițională de burtă"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Traditional tripe soup"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parcul Nicolae Titulescu",
+            "tip": "Ruhige Oase im Herzen der Stadt",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nicolae Titulescu park",
+            "tip": "Csendes oázis a város szívében",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Nicolae Titulescu",
+            "tip": "Oază liniștită în inima orașului",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nicolae Titulescu Park",
+            "tip": "Quiet oasis in the heart of the city",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgewebte Teppiche",
+            "tip": "Kaufen Sie einen echten siebenbürgischen Teppich auf dem Markt"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel szőtt szőnyegek",
+            "tip": "Vásároljon egy igazi erdélyi szőnyeget a piacon"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covoare țesute manual",
+            "tip": "Cumpărați un covor autentic ardelean din piață"
+          }
+        ],
+        "en": [
+          {
+            "name": "Handwoven rugs",
+            "tip": "Buy a genuine Transylvanian rug at the market"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da viele Straßen gepflastert sind.",
+          "Beginnen Sie früh, um die Menschenmassen zu vermeiden.",
+          "Nehmen Sie Wasser mit; es gibt viele Brunnen zum Auffüllen.",
+          "Die Öffnungszeiten der Museen können variieren – prüfen Sie vorher."
+        ],
+        "hu": [
+          "Vigyen kényelmes cipőt, mert sok utca macskaköves.",
+          "Kezdje korán, hogy elkerülje a tömeget.",
+          "Vigyen vizet; sok kút van a feltöltéshez.",
+          "A múzeumok nyitvatartása változhat – ellenőrizze előre."
+        ],
+        "ro": [
+          "Purtați pantofi comozi, deoarece multe străzi sunt pavate.",
+          "Începeți devreme pentru a evita aglomerația.",
+          "Luați apă; există multe fântâni pentru reumplere.",
+          "Orele de deschidere ale muzeelor pot varia – verificați în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as many streets are cobbled.",
+          "Start early to avoid crowds.",
+          "Bring water; there are many fountains to refill.",
+          "Museum opening hours may vary – check ahead."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Sfatului",
+          "coords": [
+            25.614,
+            45.642
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am zentralen Platz ab und bewundern Sie die Architektur.",
+            "hu": "Tegye le a biciklijét a központi téren és csodálja meg az építészetet.",
+            "ro": "Lăsați bicicleta în piața centrală și admirați arhitectura.",
+            "en": "Park your bike at the central square and admire the architecture."
+          }
+        },
+        {
+          "name": "Strada Sforii",
+          "coords": [
+            25.613,
+            45.641
+          ],
+          "category": "monument",
+          "arrive_at": "09:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die engste Gasse – Vorsicht beim Lenker!",
+            "hu": "Kerekezzen át a legkeskenyebb utcán – óvatosan a kormánnyal!",
+            "ro": "Pedalați pe cea mai îngustă stradă – atenție la ghidon!",
+            "en": "Cycle through the narrowest street – watch your handlebars!"
+          }
+        },
+        {
+          "name": "Biserica Neagră",
+          "coords": [
+            25.6135,
+            45.6405
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fahrradständer vor der Kirche an.",
+            "hu": "Zárja le a biciklijét a templom előtti kerékpártartón.",
+            "ro": "Încuiați bicicleta la suportul de biciclete din fața bisericii.",
+            "en": "Lock your bike at the bike rack in front of the church."
+          }
+        },
+        {
+          "name": "Muzeul Prima Școală Românească",
+          "coords": [
+            25.617,
+            45.639
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum ist fußgängerfreundlich; stellen Sie Ihr Rad draußen ab.",
+            "hu": "A múzeum gyalogosbarát; hagyja a bringát kint.",
+            "ro": "Muzeul este prietenos cu pietonii; lăsați bicicleta afară.",
+            "en": "The museum is pedestrian-friendly; leave your bike outside."
+          }
+        },
+        {
+          "name": "Tâmpa – Aussichtsplattform",
+          "coords": [
+            25.621,
+            45.629
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie auf den Berg – es lohnt sich für die Aussicht!",
+            "hu": "Tekercseljen fel a hegyre – megéri a kilátás!",
+            "ro": "Pedalați până pe munte – merită pentru priveliște!",
+            "en": "Cycle up the hill – worth it for the view!"
+          }
+        },
+        {
+          "name": "Parcul Central (Parcul Sportiv)",
+          "coords": [
+            25.601,
+            45.645
+          ],
+          "category": "park",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Gras und genießen Sie die Sonne.",
+            "hu": "Pihenjen a füvön és élvezze a napot.",
+            "ro": "Relaxați-vă pe iarbă și bucurați-vă de soare.",
+            "en": "Relax on the grass and enjoy the sun."
+          }
+        },
+        {
+          "name": "La Ceaun – Restaurant",
+          "coords": [
+            25.608,
+            45.641
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Hol dir einen Tisch im Innenhof – radlerfreundlich.",
+            "hu": "Foglaljon asztalt a belső udvarban – kerékpárosbarát.",
+            "ro": "Rezervați o masă în curtea interioară – prietenos cu bicicliștii.",
+            "en": "Get a table in the courtyard – bike-friendly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten Sie am Piața Sfatului und durchqueren die Altstadt. Nach einem Besuch der Schwarzen Kirche radeln Sie zum Museum der ersten Schule. Die Fahrt hinauf zur Tâmpa-Aussichtsplattform belohnt Sie mit einem herrlichen Panorama. Eine Pause im zentralen Park gibt neue Energie. Den Tag beenden Sie mit einem herzhaften Abendessen bei La Ceaun – die Fahrradtour war anstrengend, aber lohnenswert.",
+        "hu": "Biciklivel indul a Piața Sfatului-ról és áthalad az óvároson. A Fekete templom meglátogatása után a legelső iskola múzeumához teker. A Tâmpa kilátóhoz vezető út csodálatos panorámával jutalmazza. Egy szünet a központi parkban új energiát ad. A napot egy kiadós vacsorával zárja a La Ceaun-nál – a biciklitúra fárasztó, de megéri.",
+        "ro": "Cu bicicleta, începeți din Piața Sfatului și treceți prin orașul vechi. După vizita la Biserica Neagră, pedalați spre muzeul primei școli. Drumul până la platforma de belvedere Tâmpa vă răsplătește cu un panorama superbă. O pauză în parcul central vă redă energia. Ziua se încheie cu o cină copioasă la La Ceaun – turul cu bicicleta a fost obositor, dar plin de satisfacții.",
+        "en": "By bike, you start at Piața Sfatului and ride through the old town. After visiting the Black Church, you cycle to the First School Museum. The ride up to the Tâmpa viewpoint rewards you with a stunning panorama. A break in the central park recharges you. End the day with a hearty dinner at La Ceaun – the bike ride was tiring but rewarding."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Kraut",
+            "tip": "Grillwürstchen mit Sauerkraut – perfekt nach der Radtour"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici káposztával",
+            "tip": "Grillkolbász savanyú káposztával – tökéletes a biciklizés után"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu varză",
+            "tip": "Cârnăciori la grătar cu varză murată – perfect după pedalat"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with sauerkraut",
+            "tip": "Grilled sausages with sauerkraut – perfect after cycling"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tâmpa Plateau",
+            "tip": "Ruhiger Ort mit Panoramablick auf die Karpaten",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tâmpa-fennsík",
+            "tip": "Csendes hely panorámás kilátással a Kárpátokra",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Tâmpa",
+            "tip": "Loc liniștit cu vedere panoramică asupra Carpaților",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tâmpa Plateau",
+            "tip": "Quiet spot with panoramic view of the Carpathians",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör im Sportgeschäft",
+            "tip": "Kaufen Sie Ersatzschläuche oder ein Fahrradschloss"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár kiegészítők a sportboltban",
+            "tip": "Vásároljon pótlászlót vagy biciklizárat"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii bicicletă la magazinul sportiv",
+            "tip": "Cumpărați camere de rezervă sau un lacăt pentru bicicletă"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories at the sports shop",
+            "tip": "Buy spare tubes or a bike lock"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Stadt – es gibt mehrere Verleihe.",
+          "Tragen Sie einen Helm; einige Straßen sind steil.",
+          "Planen Sie die Abfahrt von Tâmpa vorsichtig – starkes Gefälle.",
+          "Nehmen Sie einen Rucksack für Einkäufe oder Picknick mit."
+        ],
+        "hu": [
+          "Béreljen biciklit a városban – több kölcsönző is van.",
+          "Viseljen sisakot; néhány utca meredek.",
+          "Tervezze meg a leereszkedést Tâmpáról óvatosan – erős lejtő.",
+          "Vigyen hátizsákot a vásárlásokhoz vagy piknikhez."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în oraș – există mai multe puncte de închiriere.",
+          "Purtați cască; unele străzi sunt abrupte.",
+          "Planificați coborârea de pe Tâmpa cu atenție – pantă puternică.",
+          "Luați un rucsac pentru cumpărături sau un picnic."
+        ],
+        "en": [
+          "Rent a bike in town – there are several rental shops.",
+          "Wear a helmet; some streets are steep.",
+          "Plan the descent from Tâmpa carefully – steep slope.",
+          "Carry a backpack for purchases or a picnic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 48,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Sfatului",
+          "coords": [
+            25.614,
+            45.642
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage 'Piața Sfatului' und erkunden Sie den Platz zu Fuß.",
+            "hu": "Parkoljon a 'Piața Sfatului' mélygarázsban és fedezze fel a teret gyalog.",
+            "ro": "Parchează în parcarea subterană 'Piața Sfatului' și explorează piața pe jos.",
+            "en": "Park in the 'Piața Sfatului' underground garage and explore the square on foot."
+          }
+        },
+        {
+          "name": "Strada Sforii",
+          "coords": [
+            25.613,
+            45.641
+          ],
+          "category": "monument",
+          "arrive_at": "09:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche zur engsten Gasse.",
+            "hu": "Rövid séta a templomtól a legkeskenyebb utcáig.",
+            "ro": "O scurtă plimbare de la biserică la cea mai îngustă stradă.",
+            "en": "A short walk from the church to the narrowest street."
+          }
+        },
+        {
+          "name": "Biserica Neagră",
+          "coords": [
+            25.6135,
+            45.6405
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei, aber eine Spende wird geschätzt.",
+            "hu": "A belépés ingyenes, de adományt szívesen fogadnak.",
+            "ro": "Intrarea este liberă, dar se apreciază o donație.",
+            "en": "Entry is free, but a donation is appreciated."
+          }
+        },
+        {
+          "name": "Cetățuia Brașovului",
+          "coords": [
+            25.602,
+            45.647
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Dies ist der erste Autohop. Parken Sie am Fuße der Festung und gehen Sie hinauf.",
+            "hu": "Ez az első autós ugrás. Parkoljon az erőd lábánál és menjen fel gyalog.",
+            "ro": "Acesta este primul hop cu mașina. Parcați la poalele cetății și urcați pe jos.",
+            "en": "This is the first car hop. Park at the foot of the fortress and walk up."
+          }
+        },
+        {
+          "name": "Panorama Aussichtspunkt",
+          "coords": [
+            25.6,
+            45.648
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Altstadt – ein beliebter Sonnenuntergangspunkt.",
+            "hu": "Élvezze a kilátást az óvárosra – népszerű naplemente hely.",
+            "ro": "Bucurați-vă de priveliștea orașului vechi – un loc popular pentru apus.",
+            "en": "Enjoy the view over the old town – a popular sunset spot."
+          }
+        },
+        {
+          "name": "Râșnov Citadelle",
+          "coords": [
+            25.467,
+            45.589
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 16,
+          "tip_5lang": {
+            "de": "Zweiter Autohop. Parken Sie am großen Parkplatz und gehen Sie die Treppe hinauf.",
+            "hu": "Második autós ugrás. Parkoljon a nagy parkolóban és menjen fel a lépcsőn.",
+            "ro": "Al doilea hop cu mașina. Parcați în parcarea mare și urcați scările.",
+            "en": "Second car hop. Park at the large parking lot and climb the stairs."
+          }
+        },
+        {
+          "name": "Bran Castle (Dracula's Castle)",
+          "coords": [
+            25.369,
+            45.514
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Dritter Autohop. Parken Sie im Dorf Bran und gehen Sie zum Schloss.",
+            "hu": "Harmadik autós ugrás. Parkoljon Bran faluban és sétáljon a kastélyhoz.",
+            "ro": "Al treilea hop cu mașina. Parcați în satul Bran și mergeți pe jos la castel.",
+            "en": "Third car hop. Park in Bran village and walk to the castle."
+          }
+        },
+        {
+          "name": "Casa Sforii – Restaurant in Bran",
+          "coords": [
+            25.368,
+            45.515
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie das lokale 'Sarmale' und den hausgemachten Pflaumenschnaps.",
+            "hu": "Kóstolja meg a helyi 'Sarmale'-t és a házi szilvapálinkát.",
+            "ro": "Încercați 'Sarmale' locale și țuica de prune de casă.",
+            "en": "Try the local 'Sarmale' and homemade plum brandy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem Spaziergang durch die Brașover Altstadt. Nach dem Besuch der Schwarzen Kirche fahren Sie zur Cetățuia, wo Sie eine tolle Aussicht haben. Die nächste Etappe führt Sie zur Râșnov Citadelle, einer beeindruckenden Burg. Nachmittags geht es weiter zum berühmten Bran Castle, dem 'Dracula-Schloss'. Den Abend lassen Sie in einem traditionellen Restaurant in Bran ausklingen – ein ereignisreicher Tag mit dem Auto.",
+        "hu": "A nap egy sétával kezdődik Brassó óvárosában. A Fekete templom után autóval megy a Cetățuia erődhöz, ahonnan remek kilátás nyílik. A következő állomás a Râșnovi erődítmény, egy lenyűgöző vár. Délután tovább indul a híres Bran-kastélyba, a 'Drakula kastélyába'. Az estét egy hagyományos étteremben zárja Branban – mozgalmas autós nap.",
+        "ro": "Ziua începe cu o plimbare prin centrul vechi al Brașovului. După vizita la Biserica Neagră, mergeți cu mașina la Cetățuia Brașovului, de unde aveți o priveliște superbă. Următoarea etapă vă duce la Cetatea Râșnov, o fortăreață impresionantă. După-amiaza continuați spre faimosul Castel Bran, 'Castelul lui Dracula'. Seara se încheie la un restaurant tradițional în Bran – o zi plină cu mașina.",
+        "en": "Your day starts with a walk through Brașov old town. After visiting the Black Church, you drive to Cetățuia, offering a great view. The next leg takes you to Râșnov Citadel, an impressive fortress. In the afternoon, you continue to the famous Bran Castle, 'Dracula's Castle'. End the evening at a traditional restaurant in Bran – an eventful car day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale in Bran",
+            "tip": "Gefüllte Kohlrouladen – ein rumänischer Klassiker"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale Branban",
+            "tip": "Töltött káposzta – román klasszikus"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale la Bran",
+            "tip": "Varză umplută – un clasic românesc"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale in Bran",
+            "tip": "Stuffed cabbage rolls – a Romanian classic"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cetățuia Aussichtspunkt",
+            "tip": "Ruhiger Ort mit Blick über die Dächer von Brașov",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cetățuia kilátópont",
+            "tip": "Csendes hely, kilátással Brassó háztetőire",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Cetățuia",
+            "tip": "Loc liniștit cu vedere spre acoperișurile Brașovului",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cetățuia viewpoint",
+            "tip": "Quiet spot overlooking Brașov's rooftops",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dracula-Souvenirs in Bran",
+            "tip": "Kaufen Sie einen hölzernen Drachen oder ein Vampir-T-Shirt"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drakula szuvenírek Branban",
+            "tip": "Vásároljon fából készült sárkányt vagy vámpíros pólót"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Dracula la Bran",
+            "tip": "Cumpărați un dragon de lemn sau un tricou cu vampiri"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dracula souvenirs in Bran",
+            "tip": "Buy a wooden dragon or a vampire T-shirt"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Halten Sie an den Autobahnraststätten Ausschau nach lokalen Käsesorten.",
+          "Die Straßen nach Râșnov und Bran sind kurvenreich – fahren Sie vorsichtig.",
+          "Parkplätze in der Altstadt sind begrenzt; nutzen Sie die Tiefgaragen.",
+          "Buchen Sie das Bran Castle Ticket online, um Wartezeiten zu vermeiden."
+        ],
+        "hu": [
+          "Figyelje az autópálya pihenőhelyeket a helyi sajtokért.",
+          "A Râșnovba és Branba vezető utak kanyargósak – vezessen óvatosan.",
+          "Az óvárosban korlátozottak a parkolóhelyek; használja a mélygarázsokat.",
+          "A Bran kastély jegyét online foglalja le, hogy elkerülje a sorban állást."
+        ],
+        "ro": [
+          "Urmăriți stațiile de autostradă pentru brânzeturi locale.",
+          "Drumurile către Râșnov și Bran sunt sinuoase – conduceți cu atenție.",
+          "Parcările în centrul vechi sunt limitate; folosiți parcările subterane.",
+          "Rezervați biletul pentru Castelul Bran online pentru a evita cozile."
+        ],
+        "en": [
+          "Look out for local cheese at highway rest stops.",
+          "Roads to Râșnov and Bran are winding – drive carefully.",
+          "Parking in the old town is limited; use the underground garages.",
+          "Book Bran Castle tickets online to avoid queues."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 10.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Sfatului",
+          "coords": [
+            25.614,
+            45.642
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Linie 1 von der Haltestelle 'Livada Poștei' zum zentralen Platz.",
+            "hu": "Szálljon az 1-es buszra a 'Livada Poștei' megállótól a központi térig.",
+            "ro": "Luați autobuzul linia 1 de la stația 'Livada Poștei' până în piața centrală.",
+            "en": "Take bus line 1 from 'Livada Poștei' stop to the central square."
+          }
+        },
+        {
+          "name": "Strada Sforii",
+          "coords": [
+            25.613,
+            45.641
+          ],
+          "category": "monument",
+          "arrive_at": "09:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie zu Fuß von der Haltestelle hierher.",
+            "hu": "Gyalogoljon a megállótól ide.",
+            "ro": "Mergeți pe jos de la stație aici.",
+            "en": "Walk from the stop to here."
+          }
+        },
+        {
+          "name": "Biserica Neagră",
+          "coords": [
+            25.6135,
+            45.6405
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Freier Eintritt – aber kleiden Sie sich angemessen.",
+            "hu": "Ingyenes belépés – de öltözzön megfelelően.",
+            "ro": "Intrare liberă – dar îmbrăcați-vă adecvat.",
+            "en": "Free entry – but dress appropriately."
+          }
+        },
+        {
+          "name": "Muzeul de Artă Brașov",
+          "coords": [
+            25.607,
+            45.643
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der zweite Hop: Nehmen Sie die Buslinie 4 zur Haltestelle 'Centrul Civic' und gehen Sie 5 Minuten.",
+            "hu": "A második ugrás: Szálljon a 4-es buszra a 'Centrul Civic' megállóig és sétáljon 5 percet.",
+            "ro": "Al doilea hop: Luați autobuzul linia 4 până la stația 'Centrul Civic' și mergeți 5 minute.",
+            "en": "Second hop: Take bus line 4 to 'Centrul Civic' stop and walk 5 minutes."
+          }
+        },
+        {
+          "name": "Parcul Central (Parcul Sportiv)",
+          "coords": [
+            25.601,
+            45.645
+          ],
+          "category": "park",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Park ist nur 300 Meter vom Museum entfernt – ein kurzer Spaziergang.",
+            "hu": "A park csak 300 méterre a múzeumtól – rövid séta.",
+            "ro": "Parcul este la doar 300 de metri de muzeu – o scurtă plimbare.",
+            "en": "The park is only 300 meters from the museum – a short walk."
+          }
+        },
+        {
+          "name": "La Ceaun – Restaurant",
+          "coords": [
+            25.608,
+            45.641
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn Linie 1 zurück in die Altstadt.",
+            "hu": "Vegye az 1-es villamost vissza az óvárosba.",
+            "ro": "Luați tramvaiul linia 1 înapoi în centrul vechi.",
+            "en": "Take tram line 1 back to the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Brașov ohne Stress. Der Morgen beginnt auf dem Hauptplatz, gefolgt von der Schwarzen Kirche. Mit dem Bus geht es zum Kunstmuseum, wo Sie eine hervorragende Sammlung sehen. Ein Spaziergang durch den zentralen Park bringt Ruhe. Den Abschluss bildet ein traditionelles Mittagessen im La Ceaun – eine entspannte Art, die Stadt zu erleben.",
+        "hu": "Tömegközlekedéssel fedezheti fel Brassót stresszmentesen. A reggel a főtéren kezdődik, majd a Fekete templom következik. Busszal megy a Művészeti Múzeumba, ahol kiváló gyűjteményt láthat. A központi parkban tett séta nyugalmat hoz. A napot egy hagyományos ebéddel zárja a La Ceaun – laza városfelfedezés.",
+        "ro": "Cu transportul public, explorați Brașovul fără stres. Dimineața începe în piața principală, urmată de Biserica Neagră. Cu autobuzul mergeți la Muzeul de Artă, unde veți vedea o colecție excelentă. O plimbare prin parcul central aduce liniște. Ziua se încheie cu un prânz tradițional la La Ceaun – o modalitate relaxată de a descoperi orașul.",
+        "en": "With public transport, you explore Brașov stress-free. The morning starts at the main square, followed by the Black Church. By bus, you go to the Art Museum, where you see an excellent collection. A walk through the central park brings calm. The day ends with a traditional lunch at La Ceaun – a relaxed way to experience the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Papanași",
+            "tip": "Süße Quark-Knödel mit Sauerrahm und Marmelade"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papanași",
+            "tip": "Édes túrógombóc tejföllel és lekvárral"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Papanași",
+            "tip": "Găluște dulci din brânză cu smântână și dulceață"
+          }
+        ],
+        "en": [
+          {
+            "name": "Papanași",
+            "tip": "Sweet cheese dumplings with sour cream and jam"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parcul Central (Sportpark)",
+            "tip": "Ruhige Grünfläche mit Teich und Sitzbänken",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Park (Sportpark)",
+            "tip": "Csendes zöldterület tóval és padokkal",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Central (Sportiv)",
+            "tip": "Spațiu verde liniștit cu iaz și bănci",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Park (Sports Park)",
+            "tip": "Quiet green space with pond and benches",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Keramik",
+            "tip": "Kaufen Sie eine traditionelle bemalte Tasse am Markt"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Vásároljon egy hagyományos festett csészét a piacon"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică făcută manual",
+            "tip": "Cumpărați o cană tradițională pictată din piață"
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade ceramics",
+            "tip": "Buy a traditional painted cup from the market"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein 24-Stunden-Ticket für unbegrenzte Fahrten.",
+          "Die Busse fahren alle 15 Minuten; planen Sie kleine Wartezeiten ein.",
+          "Haben Sie Kleingeld für Fahrkarten bereit oder nutzen Sie die App.",
+          "Verlassen Sie sich nicht auf die letzte Verbindung – planen Sie etwas Puffer ein."
+        ],
+        "hu": [
+          "Vásároljon 24 órás jegyet a korlátlan utazáshoz.",
+          "A buszok 15 percenként járnak; számítson kis várakozási időre.",
+          "Legyen aprópénz a jegyekre vagy használja az appot.",
+          "Ne bízzon az utolsó járatban – tervezzen némi puffert."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 de ore pentru călătorii nelimitate.",
+          "Autobuzele circulă la fiecare 15 minute; așteptați mici întârzieri.",
+          "Aveți mărunțiș pentru bilete sau folosiți aplicația.",
+          "Nu vă bazați pe ultima legătură – planificați un tampon."
+        ],
+        "en": [
+          "Buy a 24-hour ticket for unlimited rides.",
+          "Buses run every 15 minutes; allow for small waiting times.",
+          "Have small change for tickets or use the app.",
+          "Don't rely on the last connection – plan some buffer."
+        ]
+      }
+    }
+  }
+}

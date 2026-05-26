@@ -1,0 +1,1149 @@
+{
+  "city_id": "uk-furzedown-cities-v2",
+  "anchor": {
+    "name": "Furzedown",
+    "coords": [
+      51.4244,
+      -0.1484
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Furzedown House",
+            "hu": "Furzedown House",
+            "ro": "Furzedown House",
+            "en": "Furzedown House"
+          },
+          "coords": [
+            51.4255,
+            -0.1495
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein historisches Herrenhaus, heute Teil der Graveney School.",
+            "hu": "Történelmi kúria, amely ma a Graveney School része.",
+            "ro": "Un conac istoric, astăzi parte a școlii Graveney.",
+            "en": "A historic mansion, now part of Graveney School."
+          }
+        },
+        {
+          "name": {
+            "de": "St Paul's Church",
+            "hu": "Szent Pál-templom",
+            "ro": "Biserica St Paul",
+            "en": "St Paul's Church"
+          },
+          "coords": [
+            51.4245,
+            -0.1465
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine charmante Kirche im neugotischen Stil.",
+            "hu": "Bájos neogótikus stílusú templom a környék szívében.",
+            "ro": "O biserică fermecătoare în stil neogotic.",
+            "en": "A charming neo-Gothic style church in the heart of the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Furzedown Brasserie Lunch",
+            "hu": "Furzedown Brasserie ebéd",
+            "ro": "Prânz la Furzedown Brasserie",
+            "en": "Furzedown Brasserie Lunch"
+          },
+          "coords": [
+            51.4235,
+            -0.1455
+          ],
+          "category": "gastro",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein entspanntes lokales Mittagessen.",
+            "hu": "Élvezzen egy kellemes helyi ebédet ebben a népszerű étteremben.",
+            "ro": "Savurați un prânz local relaxat în acest restaurant popular.",
+            "en": "Enjoy a relaxed local lunch in this popular eatery."
+          }
+        },
+        {
+          "name": {
+            "de": "Tooting Bec Common",
+            "hu": "Tooting Bec Common",
+            "ro": "Tooting Bec Common",
+            "en": "Tooting Bec Common"
+          },
+          "coords": [
+            51.4285,
+            -0.1425
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Weitläufige Grünanlage für einen langen Waldspaziergang.",
+            "hu": "Hatalmas zöldterület, ideális egy hosszú erdei sétához.",
+            "ro": "Spațiu verde vast, ideal pentru o plimbare lungă prin pădure.",
+            "en": "Vast green space, ideal for a long woodland stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Tooting Bec Lido",
+            "hu": "Tooting Bec Lido",
+            "ro": "Tooting Bec Lido",
+            "en": "Tooting Bec Lido"
+          },
+          "coords": [
+            51.4315,
+            -0.1385
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das größte Freibad Großbritanniens mit bunten Kabinen.",
+            "hu": "Nagy-Britannia legnagyobb szabadtéri medencéje színes kabinokkal.",
+            "ro": "Cea mai mare piscină în aer liber din Marea Britanie.",
+            "en": "The UK's largest outdoor swimming pool with colorful stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Seely's Orchard Site",
+            "hu": "Seely's Orchard",
+            "ro": "Locul Seely's Orchard",
+            "en": "Seely's Orchard Site"
+          },
+          "coords": [
+            51.4265,
+            -0.1555
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein Hauch der landwirtschaftlichen Vergangenheit Furzedowns.",
+            "hu": "Bepillantás Furzedown egykori mezőgazdasági múltjába.",
+            "ro": "O privire în trecutul agricol al cartierului Furzedown.",
+            "en": "A glimpse into Furzedown's agricultural past."
+          }
+        },
+        {
+          "name": {
+            "de": "Streatham Park Sunset",
+            "hu": "Streatham Park naplemente",
+            "ro": "Apus în Streatham Park",
+            "en": "Streatham Park Sunset"
+          },
+          "coords": [
+            51.4225,
+            -0.1525
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ruhiger Ausklang des Tages in gehobener Wohngegend.",
+            "hu": "A nap csendes lezárása ebben az elegáns lakóövezetben.",
+            "ro": "Încheiere liniștită a zilei în această zonă rezidențială.",
+            "en": "A quiet end to the day in this elegant residential area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Furzedown bietet eine Oase der Ruhe im geschäftigen London. Dieser Spaziergang führt Sie von den historischen Mauern des Furzedown House durch die grünen Weiten des Tooting Bec Common. Nach einem Besuch im legendären Lido erkunden wir die Spuren der landwirtschaftlichen Vergangenheit und genießen die gediegene Atmosphäre des Streatham Park. Ein perfekter Tag für Entdecker, die den dörflichen Charme der Metropole suchen.",
+        "hu": "Furzedown a nyugalom oázisát kínálja a nyüzsgő Londonban. Ez a séta a Furzedown House történelmi falaitól indul, átvezet a Tooting Bec Common zöld területein. A legendás Lido megtekintése után felfedezzük a mezőgazdasági múlt nyomait, és élvezzük a Streatham Park patinás hangulatát. Tökéletes nap azoknak, akik a metropolisz falusias báját keresik.",
+        "ro": "Furzedown oferă o oază de liniște în aglomerata Londră. Această plimbare vă poartă de la zidurile istorice ale Furzedown House prin spațiile verzi din Tooting Bec Common. După o vizită la legendarul Lido, explorăm urmele trecutului agricol și ne bucurăm de atmosfera distinsă din Streatham Park. O zi perfectă pentru cei care caută farmecul rural al metropolei.",
+        "en": "Furzedown offers an oasis of peace in bustling London. This walk takes you from the historic walls of Furzedown House through the green expanses of Tooting Bec Common. After a visit to the legendary Lido, we explore the traces of the agricultural past and enjoy the refined atmosphere of Streatham Park. A perfect day for those seeking the village-like charm of the metropolis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Furzedown Brasserie",
+            "tip": "Herzhafte britische und mediterrane Küche."
+          },
+          {
+            "name": "The Mere Scribbler",
+            "tip": "Moderner Pub mit großem Garten nahe dem Common."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Furzedown Brasserie",
+            "tip": "Házias brit és mediterrán konyha."
+          },
+          {
+            "name": "The Mere Scribbler",
+            "tip": "Modern pub hatalmas kerttel a park közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Furzedown Brasserie",
+            "tip": "Bucătărie britanică și mediteraneană consistentă."
+          },
+          {
+            "name": "The Mere Scribbler",
+            "tip": "Pub modern cu o grădină mare lângă parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Furzedown Brasserie",
+            "tip": "Hearty British and Mediterranean cuisine."
+          },
+          {
+            "name": "The Mere Scribbler",
+            "tip": "Modern pub with a large garden near the common."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tooting Bec Common Oak Woods",
+            "tip": "Uralte Eichen bieten Schatten und Stille.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Streatham Park Walks",
+            "tip": "Elegante Straßen mit wenig Verkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tooting Bec Common tölgyes",
+            "tip": "Ősi tölgyfák nyújtanak árnyékot és csendet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Streatham Park séták",
+            "tip": "Elegáns utcák minimális forgalommal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de stejari Tooting Bec Common",
+            "tip": "Stejarii antici oferă umbră și liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbări în Streatham Park",
+            "tip": "Străzi elegante cu trafic minim.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tooting Bec Common Oak Woods",
+            "tip": "Ancient oaks provide shade and silence.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Streatham Park Walks",
+            "tip": "Elegant streets with very little traffic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Moat Corner Shops",
+            "tip": "Kleine unabhängige Läden für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moat Corner üzletek",
+            "tip": "Kicsi független boltok a napi szükségletekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele Moat Corner",
+            "tip": "Mici magazine independente pentru nevoile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moat Corner Shops",
+            "tip": "Small independent shops for daily essentials."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie Badekleidung für das Lido mit.",
+          "Der Tooting Bec Common kann nach Regen schlammig sein.",
+          "Furzedown ist ein sehr sicheres und ruhiges Wohnviertel."
+        ],
+        "hu": [
+          "Hozzon fürdőruhát a Lido-hoz.",
+          "A Tooting Bec Common eső után sáros lehet.",
+          "Furzedown egy nagyon biztonságos és csendes lakóövezet."
+        ],
+        "ro": [
+          "Aduceți costum de baie pentru Lido.",
+          "Tooting Bec Common poate fi noroios după ploaie.",
+          "Furzedown este un cartier rezidențial foarte sigur și liniștit."
+        ],
+        "en": [
+          "Bring swimwear for the Lido.",
+          "Tooting Bec Common can be muddy after rain.",
+          "Furzedown is a very safe and quiet residential area."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tooting Bec Common Loop",
+            "hu": "Tooting Bec Common kör",
+            "ro": "Bucla Tooting Bec Common",
+            "en": "Tooting Bec Common Loop"
+          },
+          "coords": [
+            51.4285,
+            -0.1425
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radfahren auf den ausgewiesenen Wegen durch den Common.",
+            "hu": "Kerékpározás a kijelölt utakon a park területén.",
+            "ro": "Biciclism pe traseele marcate din parc.",
+            "en": "Cycling on designated paths through the common."
+          }
+        },
+        {
+          "name": {
+            "de": "Tooting Bec Lido Stopp",
+            "hu": "Tooting Bec Lido pihenő",
+            "ro": "Popas la Tooting Bec Lido",
+            "en": "Tooting Bec Lido Stop"
+          },
+          "coords": [
+            51.4315,
+            -0.1385
+          ],
+          "category": "recreational",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Erfrischungspause am größten Lido.",
+            "hu": "Rövid frissítő pihenő a legnagyobb szabadtéri medencénél.",
+            "ro": "Scurtă pauză de reîmprospătare la cel mai mare bazin.",
+            "en": "Short refreshing break at the largest lido."
+          }
+        },
+        {
+          "name": {
+            "de": "Streatham Common View",
+            "hu": "Streatham Common kilátás",
+            "ro": "Vedere Streatham Common",
+            "en": "Streatham Common View"
+          },
+          "coords": [
+            51.4225,
+            -0.1285
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schöner Blick über Süd-London nach einem kurzen Anstieg.",
+            "hu": "Szép kilátás Dél-Londonra egy rövid emelkedő után.",
+            "ro": "Vedere frumoasă asupra sudului Londrei după o scurtă urcare.",
+            "en": "Nice view over South London after a short climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Rookery Gardens Gastro",
+            "hu": "Rookery Gardens ebéd",
+            "ro": "Gastro la Rookery Gardens",
+            "en": "Rookery Gardens Gastro"
+          },
+          "coords": [
+            51.4215,
+            -0.1265
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mittagessen in der wunderschönen Gartenanlage.",
+            "hu": "Ebéd a gyönyörű kerthelyiségben.",
+            "ro": "Prânz în superba grădină.",
+            "en": "Lunch in the beautiful garden area."
+          }
+        },
+        {
+          "name": {
+            "de": "Penwortham Road Ride",
+            "hu": "Penwortham Road tekerés",
+            "ro": "Pedalat pe Penwortham Road",
+            "en": "Penwortham Road Ride"
+          },
+          "coords": [
+            51.4245,
+            -0.1555
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Radeln durch typisch viktorianische Wohnstraßen.",
+            "hu": "Kerekezés tipikus viktoriánus lakóutcákon át.",
+            "ro": "Pedalat prin străzi rezidențiale victoriene tipice.",
+            "en": "Cycling through typical Victorian residential streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Furzedown Green Finish",
+            "hu": "Furzedown Green zárás",
+            "ro": "Final la Furzedown Green",
+            "en": "Furzedown Green Finish"
+          },
+          "coords": [
+            51.4244,
+            -0.1484
+          ],
+          "category": "park",
+          "arrive_at": "14:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannter Abschluss Ihrer Tour durch Furzedown.",
+            "hu": "A Furzedown-i túra kellemes lezárása.",
+            "ro": "O încheiere relaxantă a turului prin Furzedown.",
+            "en": "A relaxing end to your tour through Furzedown."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour erkundet die grünen Weiten von Furzedown und Streatham. Wir starten im Tooting Bec Common und radeln über das berühmte Lido zum hügeligen Streatham Common. Nach einer kulinarischen Pause in den Rookery Gardens führt der Weg zurück durch die charakteristischen viktorianischen Straßen von Furzedown, ideal für Architektur- und Naturliebhaber gleichermaßen.",
+        "hu": "Ez a kerékpártúra Furzedown és Streatham zöld területeit fedezi fel. A Tooting Bec Common-ból indulva a híres Lidón keresztül tekerünk a dombos Streatham Common-ig. A Rookery Gardens-ben tartott ebédszünet után a túra Furzedown jellegzetes viktoriánus utcáin át vezet vissza, ideális választás az építészet és a természet kedvelőinek.",
+        "ro": "Acest tur cu bicicleta explorează zonele verzi din Furzedown și Streatham. Pornind din Tooting Bec Common, pedalăm prin celebrul Lido până la dealul Streatham Common. După o pauză culinară în Rookery Gardens, traseul revine prin străzile victoriene caracteristice din Furzedown, fiind ideal atât pentru iubitorii de arhitectură, cât și pentru cei de natură.",
+        "en": "This cycling tour explores the green spaces of Furzedown and Streatham. Starting in Tooting Bec Common, we cycle via the famous Lido to the hilly Streatham Common. After a culinary break at the Rookery Gardens, the route leads back through the characteristic Victorian streets of Furzedown, ideal for architecture and nature lovers alike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rookery Café",
+            "tip": "Hausgemachte Speisen in einem versteckten Gartenparadies."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rookery Café",
+            "tip": "Házias ételek egy rejtett kerti paradicsomban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rookery Café",
+            "tip": "Mâncare de casă într-un paradis ascuns de grădină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rookery Café",
+            "tip": "Homemade food in a hidden garden paradise."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "The Rookery",
+            "tip": "Wunderschöner terrassierter Garten mit Blick.",
+            "emoji": "🌺"
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Rookery",
+            "tip": "Gyönyörű teraszos kert kilátással.",
+            "emoji": "🌺"
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Rookery",
+            "tip": "Grădină terasată superbă cu vedere.",
+            "emoji": "🌺"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Rookery",
+            "tip": "Beautiful terraced garden with views.",
+            "emoji": "🌺"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Streatham High Road Market",
+            "tip": "Vielfältige Angebote an den Wochenenden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Streatham High Road piac",
+            "tip": "Változatos kínálat a hétvégi napokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Streatham High Road",
+            "tip": "Oferte diverse în zilele de weekend."
+          }
+        ],
+        "en": [
+          {
+            "name": "Streatham High Road Market",
+            "tip": "Diverse offerings on weekend days."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Abschnitte Richtung Streatham Common sind hügelig.",
+          "Tragen Sie auf dem Common immer einen Helm.",
+          "Achten Sie auf Hundeausführer im Tooting Bec Common."
+        ],
+        "hu": [
+          "Néhány szakasz a Streatham Common felé dombos.",
+          "A park területén mindig viseljen bukósisakot.",
+          "Figyeljen a kutyasétáltatókra a Tooting Bec Common-ban."
+        ],
+        "ro": [
+          "Unele secțiuni spre Streatham Common sunt deluroase.",
+          "Purtați întotdeauna cască în zona parcului.",
+          "Atenție la persoanele care plimbă câinii în Tooting Bec Common."
+        ],
+        "en": [
+          "Some sections towards Streatham Common are hilly.",
+          "Always wear a helmet in the common area.",
+          "Watch out for dog walkers in Tooting Bec Common."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 14.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Furzedown Core Cluster",
+            "hu": "Furzedown központ",
+            "ro": "Centrul Furzedown",
+            "en": "Furzedown Core Cluster"
+          },
+          "coords": [
+            51.4244,
+            -0.1484
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in den ruhigen Wohnstraßen (Cluster A).",
+            "hu": "Parkoljon a csendes lakóutcák egyikében (A-klaszter).",
+            "ro": "Parcați pe una dintre străzile rezidențiale liniștite (Cluster A).",
+            "en": "Park on one of the quiet residential streets (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Furzedown House Walk",
+            "hu": "Furzedown House séta",
+            "ro": "Plimbare la Furzedown House",
+            "en": "Furzedown House Walk"
+          },
+          "coords": [
+            51.4255,
+            -0.1495
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuch zu Fuß vom Parkplatz (Cluster A).",
+            "hu": "Gyalogos látogatás a parkolótól (A-klaszter).",
+            "ro": "Vizită pe jos de la parcare (Cluster A).",
+            "en": "Walk from the parking (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Tooting Bec Common Cluster",
+            "hu": "Tooting Bec Common",
+            "ro": "Cluster Tooting Bec Common",
+            "en": "Tooting Bec Common Cluster"
+          },
+          "coords": [
+            51.4285,
+            -0.1425
+          ],
+          "category": "park",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe des Lidos (Cluster B).",
+            "hu": "Nagy parkoló a Lido közelében (B-klaszter).",
+            "ro": "Parcare mare lângă Lido (Cluster B).",
+            "en": "Large car park near the Lido (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Tooting Bec Lido",
+            "hu": "Tooting Bec Lido",
+            "ro": "Tooting Bec Lido",
+            "en": "Tooting Bec Lido"
+          },
+          "coords": [
+            51.4315,
+            -0.1385
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang vom Parkplatz (Cluster B).",
+            "hu": "Séta a parkolótól (B-klaszter).",
+            "ro": "Plimbare de la parcare (Cluster B).",
+            "en": "Stroll from the car park (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Streatham Common Gastro",
+            "hu": "Streatham Common ebéd",
+            "ro": "Gastro la Streatham Common",
+            "en": "Streatham Common Gastro"
+          },
+          "coords": [
+            51.4215,
+            -0.1265
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Parken Sie am Common für Cluster C.",
+            "hu": "Parkoljon a parknál a C-klaszterhez.",
+            "ro": "Parcați la parc pentru Cluster C.",
+            "en": "Park at the common for Cluster C."
+          }
+        },
+        {
+          "name": {
+            "de": "The Rookery Walk",
+            "hu": "The Rookery séta",
+            "ro": "Plimbare la The Rookery",
+            "en": "The Rookery Walk"
+          },
+          "coords": [
+            51.4225,
+            -0.1285
+          ],
+          "category": "garden",
+          "arrive_at": "14:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wunderschöne Gärten zu Fuß erkunden (Cluster C).",
+            "hu": "Csodás kertek gyalogos felfedezése (C-klaszter).",
+            "ro": "Explorarea grădinilor superbe la pas (Cluster C).",
+            "en": "Exploration of the beautiful gardens on foot (Cluster C)."
+          }
+        },
+        {
+          "name": {
+            "de": "Mitcham Common Kirándulás",
+            "hu": "Mitcham Common kirándulás",
+            "ro": "Excursie Mitcham Common",
+            "en": "Mitcham Common Trip"
+          },
+          "coords": [
+            51.3985,
+            -0.1555
+          ],
+          "category": "natural",
+          "arrive_at": "15:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Weiteres Naturschutzgebiet in der Nähe.",
+            "hu": "További közeli természetvédelmi terület.",
+            "ro": "Altă rezervație naturală în apropiere.",
+            "en": "Another nearby nature reserve."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die charmanten Wohngebiete von Furzedown mit den großen Parks des Londoner Südens. Wir nutzen das Cluster-Parking, um das historische Furzedown House, den Tooting Bec Common und die Rookery Gardens entspannt zu Fuß zu erkunden. Ein kurzer Ausflug zum Mitcham Common rundet das Naturerlebnis ab, bevor der Tag in der ruhigen Atmosphäre des Viertels endet.",
+        "hu": "Ez az autós túra összeköti Furzedown bájos lakóövezeteit Dél-London nagy parkjaival. Klaszter-parkolást alkalmazunk a történelmi Furzedown House, a Tooting Bec Common és a Rookery Gardens gyalogos felfedezéséhez. Egy rövid kirándulás a Mitcham Common-hoz teszi teljessé a természetközeli élményt, mielőtt a nap a negyed csendes hangulatában véget érne.",
+        "ro": "Acest tur cu mașina conectează zonele rezidențiale fermecătoare din Furzedown cu marile parcuri din sudul Londrei. Folosim parcarea pe clustere pentru a explora la pas istorica Furzedown House, Tooting Bec Common și Rookery Gardens. O scurtă excursie la Mitcham Common completează experiența în natură, înainte ca ziua să se încheie în atmosfera liniștită a cartierului.",
+        "en": "This car tour connects Furzedown's charming residential areas with South London's large parks. We use cluster-parking to explore the historic Furzedown House, Tooting Bec Common, and Rookery Gardens on foot. A short trip to Mitcham Common completes the nature experience before the day ends in the neighborhood's quiet atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Railway",
+            "tip": "Beliebter Pub mit guter Küche nahe der Streatham Common Station."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Railway",
+            "tip": "Népszerű pub jó konyhával a Streatham Common állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Railway",
+            "tip": "Pub popular cu bucătărie bună lângă gara Streatham Common."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Railway",
+            "tip": "Popular pub with good food near Streatham Common station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Graveney School Grounds",
+            "tip": "Historische Architektur in ruhiger Umgebung.",
+            "emoji": "🏫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Graveney School területe",
+            "tip": "Történelmi építészet csendes környezetben.",
+            "emoji": "🏫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terenurile școlii Graveney",
+            "tip": "Arhitectură istorică într-un cadru liniștit.",
+            "emoji": "🏫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Graveney School Grounds",
+            "tip": "Historic architecture in a quiet setting.",
+            "emoji": "🏫"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Streatham Retail Park",
+            "tip": "Alle großen Marken an einem Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Streatham Retail Park",
+            "tip": "Minden nagy márka egy helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Streatham Retail Park",
+            "tip": "Toate marile branduri într-un singur loc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Streatham Retail Park",
+            "tip": "All major brands in one place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist in Furzedown oft einfacher als im Zentrum.",
+          "Besuchen Sie das Lido an heißen Tagen früh morgens.",
+          "Nutzen Sie Google Maps für die Cluster-Spaziergänge."
+        ],
+        "hu": [
+          "A parkolás Furzedownban gyakran könnyebb, mint a központban.",
+          "Forró napokon látogasson el korán reggel a Lidóhoz.",
+          "Használja a Google Maps-et a klasztereken belüli sétákhoz."
+        ],
+        "ro": [
+          "Parcarea în Furzedown este adesea mai ușoară decât în centru.",
+          "În zilele toride, vizitați Lido dimineața devreme.",
+          "Folosiți Google Maps pentru plimbările în cadrul clusterelor."
+        ],
+        "en": [
+          "Parking in Furzedown is often easier than in the centre.",
+          "Visit the Lido early in the morning on hot days.",
+          "Use Google Maps for the cluster-walking segments."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Streatham Common Station Hub",
+            "hu": "Streatham Common vasútállomás",
+            "ro": "Gara Streatham Common",
+            "en": "Streatham Common Station Hub"
+          },
+          "coords": [
+            51.4275,
+            -0.1295
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wichtiger Anschluss an Southern und Thameslink.",
+            "hu": "Fontos csatlakozási pont a Southern és Thameslink vonatokhoz.",
+            "ro": "Conexiune importantă pentru Southern și Thameslink.",
+            "en": "Important link for Southern and Thameslink trains."
+          }
+        },
+        {
+          "name": {
+            "de": "Tooting Bec Common Cluster",
+            "hu": "Tooting Bec Common",
+            "ro": "Cluster Tooting Bec Common",
+            "en": "Tooting Bec Common Cluster"
+          },
+          "coords": [
+            51.4285,
+            -0.1425
+          ],
+          "category": "park",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bus 249 bringt Sie direkt zum Common (Cluster A).",
+            "hu": "A 249-es busz közvetlenül a parkhoz visz (A-klaszter).",
+            "ro": "Autobuzul 249 vă duce direct la parc (Cluster A).",
+            "en": "Bus 249 takes you directly to the common (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Tooting Bec Lido Stroll",
+            "hu": "Tooting Bec Lido séta",
+            "ro": "Plimbare la Tooting Bec Lido",
+            "en": "Tooting Bec Lido Stroll"
+          },
+          "coords": [
+            51.4315,
+            -0.1385
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang innerhalb von Cluster A.",
+            "hu": "Rövid séta az A-klaszteren belül.",
+            "ro": "Scurtă plimbare în cadrul clusterului A.",
+            "en": "Short walk within Cluster A."
+          }
+        },
+        {
+          "name": {
+            "de": "Furzedown Village Core",
+            "hu": "Furzedown központ",
+            "ro": "Centrul Furzedown",
+            "en": "Furzedown Village Core"
+          },
+          "coords": [
+            51.4244,
+            -0.1484
+          ],
+          "category": "shopping",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bus 319 verbindet die Cluster A und B.",
+            "hu": "A 319-es busz összeköti az A és B klasztereket.",
+            "ro": "Autobuzul 319 conectează clusterele A și B.",
+            "en": "Bus 319 connects clusters A and B."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Brasserie",
+            "hu": "Ebéd a Brasserie-ben",
+            "ro": "Prânz la Brasserie",
+            "en": "Lunch at Brasserie"
+          },
+          "coords": [
+            51.4235,
+            -0.1455
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang innerhalb von Cluster B.",
+            "hu": "Séta a B-klaszteren belül.",
+            "ro": "Plimbare în cadrul clusterului B.",
+            "en": "Walk within Cluster B."
+          }
+        },
+        {
+          "name": {
+            "de": "Furzedown House & School",
+            "hu": "Furzedown House & Iskola",
+            "ro": "Furzedown House & È˜coala",
+            "en": "Furzedown House & School"
+          },
+          "coords": [
+            51.4255,
+            -0.1495
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur von außen (Cluster B).",
+            "hu": "Csodálja meg az építészetet kívülről (B-klaszter).",
+            "ro": "Admirați arhitectura din exterior (Cluster B).",
+            "en": "Admire the architecture from outside (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Streatham Common Station Return",
+            "hu": "Visszatérés az állomásra",
+            "ro": "Revenire la gara Streatham Common",
+            "en": "Streatham Common Station Return"
+          },
+          "coords": [
+            51.4275,
+            -0.1295
+          ],
+          "category": "civic",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Abschluss der Tour am Transit-Knotenpunkt.",
+            "hu": "A túra lezárása a közlekedési csomópontnál.",
+            "ro": "Încheierea turului la nodul de transport.",
+            "en": "End of tour at the transit hub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Per Bahn und Bus entdecken wir Furzedown. Vom Bahnhof Streatham Common gelangen wir direkt zum Tooting Bec Common (Cluster A), wo wir das Lido und die Natur genießen. Nach einem Transfer zum Herzen des Viertels (Cluster B) erkunden wir die historischen Gebäude und genießen ein lokales Mittagessen. Die Tour nutzt das dichte Londoner Busnetz für maximale Flexibilität.",
+        "hu": "Vonattal és busszal fedezzük fel Furzedownt. A Streatham Common vasútállomástól közvetlenül a Tooting Bec Common-hoz (A-klaszter) érkezünk, ahol élvezzük a Lidót és a természetet. A negyed szívébe (B-klaszter) való átszállás után felfedezzük a történelmi épületeket és elköltünk egy helyi ebédet. A túra a sűrű londoni buszhálózatot használja a maximális rugalmasságért.",
+        "ro": "Descoperim Furzedown cu trenul și autobuzul. De la gara Streatham Common, ajungem direct la Tooting Bec Common (Cluster A), unde ne bucurăm de Lido și de natură. După un transfer în inima cartierului (Cluster B), explorăm clădirile istorice și savurăm un prânz local. Turul folosește rețeaua densă de autobuze din Londra pentru o flexibilitate maximă.",
+        "en": "We discover Furzedown by rail and bus. From Streatham Common station, we reach Tooting Bec Common (Cluster A) directly, where we enjoy the Lido and nature. After a transfer to the heart of the neighborhood (Cluster B), we explore historic buildings and enjoy a local lunch. The tour utilizes London's dense bus network for maximum flexibility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Furzedown",
+            "tip": "Traditioneller Londoner Pub mit entspannter Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Furzedown",
+            "tip": "Hagyományos londoni pub kötetlen hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Furzedown",
+            "tip": "Pub londonez tradițional cu o atmosferă relaxată."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Furzedown",
+            "tip": "Traditional London pub with a relaxed vibe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tooting Bec Athletics Track Edge",
+            "tip": "Ruhiger Aussichtspunkt am Rande der Anlage.",
+            "emoji": "🏃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tooting Bec Atlétikai Pálya széle",
+            "tip": "Csendes kilátópont a pálya szélén.",
+            "emoji": "🏃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marginea pistei de atletism Tooting Bec",
+            "tip": "Punct de observație liniștit la marginea arenei.",
+            "emoji": "🏃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tooting Bec Athletics Track Edge",
+            "tip": "Quiet viewpoint at the edge of the facility.",
+            "emoji": "🏃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Streatham High Road Charity Shops",
+            "tip": "Perfekt für das Finden von Vintage-Schätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Streatham High Road jótékonysági boltok",
+            "tip": "Tökéletes hely vintage kincsek felfedezéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele caritabile de pe Streatham High Road",
+            "tip": "Perfecte pentru a găsi comori vintage."
+          }
+        ],
+        "en": [
+          {
+            "name": "Streatham High Road Charity Shops",
+            "tip": "Perfect for finding vintage treasures."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Ihre Oyster Card oder kontaktlose Zahlung.",
+          "Busse in London akzeptieren kein Bargeld.",
+          "Planen Sie etwas Pufferzeit für den Londoner Verkehr ein."
+        ],
+        "hu": [
+          "Használja Oyster kártyáját vagy érintős fizetést.",
+          "A londoni buszokon nem lehet készpénzzel fizetni.",
+          "Hagyjon némi pufferidőt a londoni forgalom miatt."
+        ],
+        "ro": [
+          "Folosiți cardul Oyster sau plata contactless.",
+          "Autobuzele din Londra nu acceptă numerar.",
+          "Prevedeți o marjă de timp pentru traficul din Londra."
+        ],
+        "en": [
+          "Use your Oyster card or contactless payment.",
+          "London buses do not accept cash.",
+          "Allow some buffer time for London traffic."
+        ]
+      }
+    }
+  }
+}

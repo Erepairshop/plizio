@@ -1,0 +1,1116 @@
+{
+  "city_id": "georgetown",
+  "anchor": {
+    "name": "St. George's Cathedral",
+    "coords": [
+      -58.163,
+      6.812
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Stabroek Market",
+          "coords": [
+            -58.166,
+            6.811
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gusseiserne Uhr von 1881.",
+            "hu": "Figyelje meg az 1881-es öntöttvas óratornyot.",
+            "ro": "Observați ceasul de fontă din 1881.",
+            "en": "Look for the iconic 1881 iron clock tower."
+          }
+        },
+        {
+          "name": "St. George's Cathedral",
+          "coords": [
+            -58.163,
+            6.812
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eines der höchsten Holzgebäude der Welt.",
+            "hu": "A világ egyik legmagasabb faépülete.",
+            "ro": "Una dintre cele mai înalte clădiri de lemn.",
+            "en": "One of the world's tallest wooden buildings."
+          }
+        },
+        {
+          "name": "Guyana National Museum",
+          "coords": [
+            -58.164,
+            6.81
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie das Riesenfaultier-Skelett.",
+            "hu": "Nézze meg az óriáslajhár csontvázát.",
+            "ro": "Vedeți scheletul leneșului uriaș.",
+            "en": "Check out the giant sloth skeleton."
+          }
+        },
+        {
+          "name": "German's Restaurant",
+          "coords": [
+            -58.162,
+            6.813
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmte Rindfleischsuppe.",
+            "hu": "Kóstolja meg a híres marhahúslevest.",
+            "ro": "Încercați celebra supă de vită.",
+            "en": "Try the famous beef soup."
+          }
+        },
+        {
+          "name": "Promenade Gardens",
+          "coords": [
+            -58.161,
+            6.812
+          ],
+          "category": "garden",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie die Victoria Regia Seerosen.",
+            "hu": "Keresse a Victoria Regia tündérrózsákat.",
+            "ro": "Căutați nuferii Victoria Regia.",
+            "en": "Look for the Victoria Regia water lilies."
+          }
+        },
+        {
+          "name": "Georgetown Lighthouse",
+          "coords": [
+            -58.167,
+            6.82
+          ],
+          "category": "landmark",
+          "arrive_at": "16:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Rote und weiße Streifen markieren den Fluss.",
+            "hu": "Vörös-fehér sávok jelzik a folyótorkolatot.",
+            "ro": "Dungile roșii și albe marchează estuarul.",
+            "en": "Red and white stripes mark the river mouth."
+          }
+        },
+        {
+          "name": "The Seawall",
+          "coords": [
+            -58.16,
+            6.825
+          ],
+          "category": "sunset",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang am Atlantik.",
+            "hu": "Élvezze a naplementét az Atlanti-óceánnál.",
+            "ro": "Bucurați-vă de apusul la Atlantic.",
+            "en": "Enjoy the sunset by the Atlantic Ocean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens besuchen wir den Stabroek-Markt und die hölzerne St. George's Cathedral. Mittags erkunden wir das Nationalmuseum und probieren lokalen Pepperpot.\n\nNachmittags entspannen wir in den Promenade Gardens bei den Victoria-Seerosen und besuchen den historischen Leuchtturm.\n\nDen Abend lassen wir am Seawall beim Sonnenuntergang über dem Atlantik ausklingen.\n\nGenießen Sie die koloniale Architektur und das tropische Flair.",
+        "hu": "Reggel a Stabroek piac vasvázas csarnokánál kezdünk, majd a világ egyik legmagasabb faépületét, a Szent György-székesegyházat nézzük meg.\n\nDélidőben a Nemzeti Múzeum tárlatait járjuk be, ebédre pedig megkóstoljuk a helyi pepperpotot.\n\nDélután a Promenade Gardens tündérrózsái között pihenünk, végül a Demerara torkolatát őrző világítótoronyhoz megyünk.\n\nEstére a Seawall gátjára vonulunk a naplementét nézni a helyiekkel.",
+        "ro": "Dimineața vizităm Piața Stabroek și Catedrala Sf. Gheorghe, o capodoperă din lemn. La prânz explorăm Muzeul Național și gustăm pepperpot local.\n\nDupă-amiaza ne relaxăm în Promenade Gardens printre nuferi și vedem farul istoric de la gura râului Demerara.\n\nSeara ne plimbăm pe digul Seawall pentru a admira apusul peste Oceanul Atlantic.\n\nO zi plină de istorie colonială și atmosferă tropicală.",
+        "en": "Morning starts at Stabroek Market and the wooden St. George's Cathedral. Midday is for the National Museum and a local pepperpot lunch.\n\nAfternoon we stroll through Promenade Gardens to see the Victoria Regia lilies, then visit the historic lighthouse.\n\nEvening is spent at the Seawall, watching the sunset over the Atlantic with the locals.\n\nA perfect blend of colonial heritage and coastal relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "German's Restaurant",
+            "tip": "Berühmt für Rindfleischsuppe und Cowheel."
+          },
+          {
+            "name": "The Backyard Cafe",
+            "tip": "Farm-to-Table-Erlebnis mit lokalen Zutaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "German's Restaurant",
+            "tip": "Híres marhahúsleveséről és a cowheelről."
+          },
+          {
+            "name": "The Backyard Cafe",
+            "tip": "Tanyáról az asztalra élmény helyi alapanyagokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "German's Restaurant",
+            "tip": "Celebru pentru supa de vită și cowheel."
+          },
+          {
+            "name": "The Backyard Cafe",
+            "tip": "Experiență de la fermă la masă cu ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "German's Restaurant",
+            "tip": "Famous for beef soup and cowheel soup."
+          },
+          {
+            "name": "The Backyard Cafe",
+            "tip": "Farm-to-table experience with local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "Ruhiger Park mit tropischen Pflanzen.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "The Seawall",
+            "tip": "Perfekt für eine Meeresbrise.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "Csendes park trópusi növényekkel.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "The Seawall",
+            "tip": "Tökéletes a tengeri szélhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "Parc liniștit cu plante tropicale.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "The Seawall",
+            "tip": "Perfect pentru briza mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "Quiet park with tropical plants.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "The Seawall",
+            "tip": "Perfect for the sea breeze.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stabroek Market",
+            "tip": "Alles von Schmuck bis Obst."
+          },
+          {
+            "name": "Hibiscus Plaza",
+            "tip": "Lokales Kunsthandwerk und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stabroek piac",
+            "tip": "Minden az ékszerektől a gyümölcsökig."
+          },
+          {
+            "name": "Hibiscus Plaza",
+            "tip": "Helyi kézműves termékek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Stabroek",
+            "tip": "Totul, de la bijuterii la fructe."
+          },
+          {
+            "name": "Hibiscus Plaza",
+            "tip": "Artizanat local și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stabroek Market",
+            "tip": "Everything from jewelry to fresh fruit."
+          },
+          {
+            "name": "Hibiscus Plaza",
+            "tip": "Local handicrafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie viel Wasser mit, es ist sehr schwül.",
+          "Achten Sie in Märkten auf Ihre Wertsachen.",
+          "Taxis sind für längere Strecken sicher.",
+          "Besuchen Sie die Kathedrale vor 16 Uhr."
+        ],
+        "hu": [
+          "Vigyél sok vizet, nagyon párás az idő.",
+          "Vigyázz az értékeidre a piacokon.",
+          "A taxik biztonságosak hosszabb utakra.",
+          "A székesegyházat 16 óra előtt látogasd meg."
+        ],
+        "ro": [
+          "Luați multă apă, este foarte umed.",
+          "Aveți grijă la obiectele de valoare în piețe.",
+          "Taxiurile sunt sigure pentru distanțe lungi.",
+          "Vizitați catedrala înainte de ora 16:00."
+        ],
+        "en": [
+          "Carry plenty of water, it's very humid.",
+          "Watch your valuables in crowded markets.",
+          "Taxis are safe for longer distances.",
+          "Visit the cathedral before 4 PM."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stabroek Market",
+          "coords": [
+            -58.166,
+            6.811
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Eingang.",
+            "hu": "Parkolja le biztonságosan a kerékpárt.",
+            "ro": "Parcați bicicleta în siguranță.",
+            "en": "Park your bike securely at the entrance."
+          }
+        },
+        {
+          "name": "St. George's Cathedral",
+          "coords": [
+            -58.163,
+            6.812
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hölzerne Neugotik.",
+            "hu": "Csodálja meg a fa neogótikát.",
+            "ro": "Admirați neogoticul din lemn.",
+            "en": "Admire the wooden Neo-Gothic architecture."
+          }
+        },
+        {
+          "name": "Botanical Gardens",
+          "coords": [
+            -58.145,
+            6.805
+          ],
+          "category": "garden",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Suchen Sie die Manatis im Teich.",
+            "hu": "Keresse a manátuszokat a tóban.",
+            "ro": "Căutați lamantinii în iaz.",
+            "en": "Look for the manatees in the pond."
+          }
+        },
+        {
+          "name": "Oasis Cafe",
+          "coords": [
+            -58.155,
+            6.815
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein leichtes Mittagessen.",
+            "hu": "Tökéletes egy könnyű ebédhez.",
+            "ro": "Perfect pentru un prânz ușor.",
+            "en": "Perfect for a light lunch."
+          }
+        },
+        {
+          "name": "Umana Yana",
+          "coords": [
+            -58.162,
+            6.822
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein traditioneller Benab-Strohbau.",
+            "hu": "Hagyományos szalmafedeles benab épület.",
+            "ro": "O clădire tradițională din stuf tip benab.",
+            "en": "A traditional thatched Benab structure."
+          }
+        },
+        {
+          "name": "Kitty Seawall",
+          "coords": [
+            -58.145,
+            6.83
+          ],
+          "category": "beach",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie den Deich entlang.",
+            "hu": "Kerekezzen végig a gát mentén.",
+            "ro": "Mergeți cu bicicleta pe dig.",
+            "en": "Cycle along the sea defense wall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir Georgetowns weitläufigere Highlights. Vom Markt geht es zur Kathedrale und weiter zu den Botanischen Gärten.\n\nMittags machen wir Pause im Oasis Cafe und besuchen dann das beeindruckende Umana Yana.\n\nDer Nachmittag gehört der Küste, wo wir am Seawall entlangradeln und den Wind genießen.\n\nEine aktive Tour durch das tropische Grün.",
+        "hu": "Kerékpárral fedezzük fel Georgetown távolabbi látnivalóit. A piactól a székesegyházhoz, majd a Botanikus Kerthez tekerünk.\n\nDélben az Oasis Cafeban pihenünk, majd megnézzük a lenyűgöző Umana Yana épületét.\n\nA délután a tengerparté, ahol a Seawall mentén kerekezünk és élvezzük a szelet.\n\nAktív túra a trópusi zöldben.",
+        "ro": "Cu bicicleta explorăm punctele de interes mai îndepărtate din Georgetown. De la piață mergem la catedrală și apoi la Grădinile Botanice.\n\nLa prânz luăm o pauză la Oasis Cafe și vizităm impresionanta clădire Umana Yana.\n\nDupă-amiaza aparține coastei, unde pedalăm de-a lungul digului Seawall.\n\nUn tur activ prin vegetația tropicală.",
+        "en": "By bike, we explore Georgetown's more spread-out highlights. From the market to the cathedral and then to the Botanical Gardens.\n\nMidday pause at Oasis Cafe, followed by a visit to the impressive Umana Yana structure.\n\nAfternoon belongs to the coast, cycling along the Seawall to catch the breeze.\n\nAn active tour through the tropical greenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Oasis Cafe",
+            "tip": "Gute Gebäckstücke und Kaffee."
+          },
+          {
+            "name": "Bistro 176",
+            "tip": "Moderne guyanische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oasis Cafe",
+            "tip": "Kiváló sütemények és kávé."
+          },
+          {
+            "name": "Bistro 176",
+            "tip": "Modern guyanai konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oasis Cafe",
+            "tip": "Patiserie bună și cafea."
+          },
+          {
+            "name": "Bistro 176",
+            "tip": "Bucătărie guyaneză modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oasis Cafe",
+            "tip": "Excellent pastries and coffee."
+          },
+          {
+            "name": "Bistro 176",
+            "tip": "Modern Guyanese cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanical Gardens",
+            "tip": "Vogelbeobachtung und Teiche.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kitty Seawall",
+            "tip": "Meeresblick beim Radeln.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Madármegfigyelés és tavak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kitty Seawall",
+            "tip": "Tengeri kilátás biciklizés közben.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Botanice",
+            "tip": "Observarea păsărilor și iazuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kitty Seawall",
+            "tip": "Vedere la mare în timp ce pedalați.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Gardens",
+            "tip": "Birdwatching and peaceful ponds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kitty Seawall",
+            "tip": "Sea views while cycling.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fogarty's",
+            "tip": "Traditionelles Kaufhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fogarty's",
+            "tip": "Hagyományos áruház."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fogarty's",
+            "tip": "Magazin universal tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fogarty's",
+            "tip": "Traditional department store."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Radfahren ist morgens am angenehmsten.",
+          "Vermeiden Sie die Hauptverkehrsstraßen.",
+          "Trinken Sie Kokoswasser von Straßenhändlern.",
+          "Tragen Sie Sonnenschutz auf."
+        ],
+        "hu": [
+          "A kerékpározás reggel a legkellemesebb.",
+          "Kerüld a főútvonalakat.",
+          "Igyál kókuszvizet az utcai árusoktól.",
+          "Használj naptejet."
+        ],
+        "ro": [
+          "Mersul pe bicicletă este cel mai plăcut dimineața.",
+          "Evitați drumurile principale aglomerate.",
+          "Beți apă de cocos de la vânzătorii stradali.",
+          "Folosiți protecție solară."
+        ],
+        "en": [
+          "Cycling is most pleasant in the morning.",
+          "Avoid the busy main traffic roads.",
+          "Drink coconut water from street vendors.",
+          "Wear sunscreen."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Stabroek Market",
+          "coords": [
+            -58.166,
+            6.811
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Parade Ground.",
+            "hu": "Parkoljon a Parade Groundnál.",
+            "ro": "Parcați la Parade Ground.",
+            "en": "Park at the Parade Ground area."
+          }
+        },
+        {
+          "name": "St. George's Cathedral",
+          "coords": [
+            -58.163,
+            6.812
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehminuten vom Markt.",
+            "hu": "Pár perc séta a piactól.",
+            "ro": "La câteva minute de mers de piață.",
+            "en": "Short walk from the market."
+          }
+        },
+        {
+          "name": "Guyana National Museum",
+          "coords": [
+            -58.164,
+            6.81
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gegenüber der Kathedrale.",
+            "hu": "A székesegyházzal szemben.",
+            "ro": "Peste drum de catedrală.",
+            "en": "Across the street from the cathedral."
+          }
+        },
+        {
+          "name": "Botanical Gardens",
+          "coords": [
+            -58.145,
+            6.805
+          ],
+          "category": "garden",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Zweiter Cluster: Parken Sie am Eingang.",
+            "hu": "Második klaszter: parkoljon a bejáratnál.",
+            "ro": "Al doilea cluster: parcați la intrare.",
+            "en": "Second cluster: park at the entrance."
+          }
+        },
+        {
+          "name": "The Backyard Cafe",
+          "coords": [
+            -58.148,
+            6.81
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehminuten vom Garten.",
+            "hu": "Pár perc séta a kerttől.",
+            "ro": "Câteva minute de mers de la grădină.",
+            "en": "Short walk from the gardens."
+          }
+        },
+        {
+          "name": "Georgetown Lighthouse",
+          "coords": [
+            -58.167,
+            6.82
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Dritter Cluster: Flussufer.",
+            "hu": "Harmadik klaszter: folyópart.",
+            "ro": "Al treilea cluster: malul râului.",
+            "en": "Third cluster: riverfront area."
+          }
+        },
+        {
+          "name": "Umana Yana",
+          "coords": [
+            -58.162,
+            6.822
+          ],
+          "category": "landmark",
+          "arrive_at": "16:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Turm.",
+            "hu": "Rövid séta a toronytól.",
+            "ro": "Scurtă plimbare de la far.",
+            "en": "Short walk from the lighthouse."
+          }
+        },
+        {
+          "name": "The Seawall",
+          "coords": [
+            -58.16,
+            6.825
+          ],
+          "category": "sunset",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blick auf den Ozean.",
+            "hu": "Kilátás az óceánra.",
+            "ro": "Vedere spre ocean.",
+            "en": "Ocean views at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir drei Cluster von Georgetown. Zuerst das historische Zentrum zu Fuß, dann die Botanischen Gärten im Osten.\n\nNach dem Mittagessen im Backyard Cafe fahren wir zurück zum Flussufer.\n\nDer Nachmittag endet am Leuchtturm und dem Umana Yana Denkmal.\n\nDen Abend genießen wir am Seawall mit Blick auf den Atlantik.",
+        "hu": "Autóval három klasztert kötünk össze Georgetownban. Előbb a történelmi belvárost járjuk be gyalog, majd a keleti Botanikus Kertet.\n\nEbéd után a Backyard Caféból indulunk vissza a folyóparti negyedbe.\n\nA délután a világítótoronynál és az Umana Yana emlékműnél ér véget.\n\nAz estét a Seawall gátján zárjuk az Atlanti-óceán látványával.",
+        "ro": "Cu mașina conectăm trei clustere din Georgetown. Mai întâi centrul istoric la pas, apoi Grădinile Botanice în est.\n\nDupă prânzul la Backyard Cafe, ne întoarcem spre zona malului râului.\n\nDupă-amiaza se încheie la far și la monumentul Umana Yana.\n\nSeara ne bucurăm de digul Seawall cu vedere spre Atlantic.",
+        "en": "By car, we connect three distinct clusters of Georgetown. First, the historical center on foot, then the Botanical Gardens to the east.\n\nAfter lunch at Backyard Cafe, we drive back to the riverfront district.\n\nAfternoon finishes at the lighthouse and the Umana Yana monument.\n\nEvening is spent at the Seawall with great views of the Atlantic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Backyard Cafe",
+            "tip": "Exklusives lokales Essen."
+          },
+          {
+            "name": "Aagman Indian Restaurant",
+            "tip": "Gute indische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Backyard Cafe",
+            "tip": "Exkluzív helyi ételek."
+          },
+          {
+            "name": "Aagman indiai étterem",
+            "tip": "Kiváló indiai konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Backyard Cafe",
+            "tip": "Mâncare locală exclusivistă."
+          },
+          {
+            "name": "Restaurant Indian Aagman",
+            "tip": "Bucătărie indiană excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Backyard Cafe",
+            "tip": "Exclusive local dining."
+          },
+          {
+            "name": "Aagman Indian Restaurant",
+            "tip": "Excellent Indian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanical Gardens",
+            "tip": "Ruhiger Rückzugsort.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Csendes menedék.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Botanice",
+            "tip": "Refugiu liniștit.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Gardens",
+            "tip": "Quiet retreat from the city.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Giftland Mall",
+            "tip": "Modernes Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giftland Mall",
+            "tip": "Modern bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giftland Mall",
+            "tip": "Centru comercial modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Giftland Mall",
+            "tip": "Modern shopping mall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Zentrum schwierig.",
+          "Nutzen Sie bewachte Parkplätze.",
+          "Hupen ist hier üblich.",
+          "Fahren Sie vorsichtig bei Regen."
+        ],
+        "hu": [
+          "A parkolás nehéz a belvárosban.",
+          "Használj őrzött parkolókat.",
+          "A dudálás megszokott dolog.",
+          "Vezess óvatosan esőben."
+        ],
+        "ro": [
+          "Parcarea este dificilă în centru.",
+          "Folosiți parcări păzite.",
+          "Claxonatul este ceva obișnuit.",
+          "Conduceți cu atenție pe ploaie."
+        ],
+        "en": [
+          "Parking is difficult in the city center.",
+          "Use guarded parking lots.",
+          "Honking is common practice.",
+          "Drive carefully during rain."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 12.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Stabroek Market",
+          "coords": [
+            -58.166,
+            6.811
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentrum aller Minibus-Linien.",
+            "hu": "Minden minibusz-vonal központja.",
+            "ro": "Centrul tuturor liniilor de minibus.",
+            "en": "The hub for all minibus routes."
+          }
+        },
+        {
+          "name": "St. George's Cathedral",
+          "coords": [
+            -58.163,
+            6.812
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehminuten vom Busbahnhof.",
+            "hu": "Pár perc séta a buszpályaudvartól.",
+            "ro": "Minute de mers de la autogară.",
+            "en": "Short walk from the bus terminal."
+          }
+        },
+        {
+          "name": "Promenade Gardens",
+          "coords": [
+            -58.161,
+            6.812
+          ],
+          "category": "garden",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ruhiger Spaziergang.",
+            "hu": "Csendes séta.",
+            "ro": "Plimbare liniștită.",
+            "en": "Quiet walking segment."
+          }
+        },
+        {
+          "name": "Botanical Gardens",
+          "coords": [
+            -58.145,
+            6.805
+          ],
+          "category": "garden",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 40 oder 44.",
+            "hu": "Használja a 40-es vagy 44-es járatot.",
+            "ro": "Luați linia 40 sau 44.",
+            "en": "Take route 40 or 44 minibus."
+          }
+        },
+        {
+          "name": "German's Restaurant",
+          "coords": [
+            -58.162,
+            6.813
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum.",
+            "hu": "Vissza a belvárosban.",
+            "ro": "Înapoi în centru.",
+            "en": "Back in the city center area."
+          }
+        },
+        {
+          "name": "Georgetown Lighthouse",
+          "coords": [
+            -58.167,
+            6.82
+          ],
+          "category": "landmark",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 45.",
+            "hu": "Használja a 45-ös járatot.",
+            "ro": "Luați linia 45.",
+            "en": "Take route 45 minibus."
+          }
+        },
+        {
+          "name": "The Seawall",
+          "coords": [
+            -58.16,
+            6.825
+          ],
+          "category": "sunset",
+          "arrive_at": "17:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beliebter Treffpunkt.",
+            "hu": "Népszerű találkozóhely.",
+            "ro": "Loc de întâlnire popular.",
+            "en": "Popular local hangout spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den berühmten Minibussen erleben wir den Alltag Georgetowns. Vom Markt geht es zur Kathedrale und dann weiter in den Osten.\n\nDie Botanischen Gärten erreichen wir mit einer kurzen Fahrt. Zum Mittagessen kehren wir ins Zentrum zurück.\n\nDer Nachmittag führt uns zum Fluss und zum Leuchtturm.\n\nDen Abend verbringen wir am Seawall, wo man das lokale Leben am besten spürt.",
+        "hu": "A híres minibuszokkal ismerjük meg Georgetown mindennapjait. A piactól a székesegyházhoz, majd keletre utazunk.\n\nA Botanikus Kertet egy rövid buszozással érjük el. Ebédre visszatérünk a központba.\n\nA délután a folyóparthoz és a világítótoronyhoz vezet.\n\nAz estét a Seawallon töltjük, ahol a legjobban érezhető a helyi pezsgés.",
+        "ro": "Cu faimoasele minibusuri experimentăm viața de zi cu zi din Georgetown. De la piață mergem la catedrală și apoi spre est.\n\nAjungem la Grădinile Botanice cu o scurtă călătorie. Pentru prânz ne întoarcem în centru.\n\nDupă-amiaza ne duce spre malul râului și spre far.\n\nSeara o petrecem la Seawall, unde se simte cel mai bine vibrația locală.",
+        "en": "Experience Georgetown's daily life using the iconic minibuses. From the market to the cathedral and then heading east.\n\nWe reach the Botanical Gardens after a short ride. For lunch, we head back to the city center.\n\nAfternoon takes us to the riverfront and the lighthouse.\n\nEvening is spent at the Seawall, the best place to feel the local energy."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "German's Restaurant",
+            "tip": "Beste Suppen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "German's Restaurant",
+            "tip": "A város legjobb levesei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "German's Restaurant",
+            "tip": "Cele mai bune supe din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "German's Restaurant",
+            "tip": "Best soups in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "A nyugalom oázisa.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "Oază de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "An oasis of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stabroek Market",
+            "tip": "Das Herz des Handels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stabroek piac",
+            "tip": "A kereskedelem szíve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Stabroek",
+            "tip": "Inima comerțului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stabroek Market",
+            "tip": "The heart of local commerce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Halten Sie Kleingeld für den Bus bereit.",
+          "Fragen Sie den Schaffner nach dem Stopp.",
+          "Busse fahren erst, wenn sie voll sind.",
+          "Vermeiden Sie die Rushhour."
+        ],
+        "hu": [
+          "Legyen nálad aprópénz a buszra.",
+          "Kérdezd a kalauzt a megállóról.",
+          "A buszok akkor indulnak, ha megteltek.",
+          "Kerüld a csúcsidőt."
+        ],
+        "ro": [
+          "Aveți mărunțiș pregătit pentru autobuz.",
+          "Întrebați taxatorul despre stație.",
+          "Microbuzele pleacă doar când sunt pline.",
+          "Evitați orele de vârf."
+        ],
+        "en": [
+          "Have small change ready for the bus.",
+          "Ask the conductor for your stop.",
+          "Buses leave only when they are full.",
+          "Avoid the rush hour."
+        ]
+      }
+    }
+  }
+}

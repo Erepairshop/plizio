@@ -1,0 +1,589 @@
+{
+  "city_id": "manama-cities-v2",
+  "anchor": {
+    "name": "Bab Al Bahrain",
+    "coords": [
+      50.575,
+      26.235
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bab Al Bahrain",
+            "hu": "Bab Al Bahrain",
+            "ro": "Bab Al Bahrain",
+            "en": "Bab Al Bahrain"
+          },
+          "coords": [
+            50.575,
+            26.235
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Holen Sie sich eine Karte im Tourismusbüro.",
+            "hu": "Kérj egy térképet a turisztikai irodában.",
+            "ro": "Cereți o hartă de la biroul de turism.",
+            "en": "Get a map at the tourism office."
+          }
+        },
+        {
+          "name": {
+            "de": "Manama Souq",
+            "hu": "Manáma szúk",
+            "ro": "Manama Souq",
+            "en": "Manama Souq"
+          },
+          "coords": [
+            50.576,
+            26.233
+          ],
+          "category": "shopping",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie lokalen Halwa und Gewürze.",
+            "hu": "Kóstold meg a helyi halvát és fűszereket.",
+            "ro": "Gustați halva și condimente locale.",
+            "en": "Try local halwa and spices."
+          }
+        },
+        {
+          "name": {
+            "de": "Shree Krishna Tempel",
+            "hu": "Srí Krisna-templom",
+            "ro": "Templul Shree Krishna",
+            "en": "Shree Krishna Temple"
+          },
+          "coords": [
+            50.578,
+            26.234
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einer der ältesten Hindu-Tempel am Golf.",
+            "hu": "Az egyik legrégebbi hindu templom az Öbölben.",
+            "ro": "Unul dintre cele mai vechi temple hinduse din Golf.",
+            "en": "One of the oldest Hindu temples in the Gulf."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum von Bahrain",
+            "hu": "Bahreini Nemzeti Múzeum",
+            "ro": "Muzeul Național din Bahrain",
+            "en": "Bahrain National Museum"
+          },
+          "coords": [
+            50.597,
+            26.241
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Das Gebäude selbst ist ein Meisterwerk.",
+            "hu": "Maga az épület is egy műalkotás.",
+            "ro": "Clădirea în sine este o capodoperă.",
+            "en": "The building itself is a masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahrain Nationaltheater",
+            "hu": "Bahreini Nemzeti Színház",
+            "ro": "Teatrul Național din Bahrain",
+            "en": "Bahrain National Theatre"
+          },
+          "coords": [
+            50.598,
+            26.242
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Toller Blick auf die Bucht von Bahrain.",
+            "hu": "Nagyszerű kilátás a Bahreini-öbölre.",
+            "ro": "Vedere minunată spre Golful Bahrain.",
+            "en": "Great view of Bahrain Bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Korallenbucht",
+            "hu": "Korall-öböl",
+            "ro": "Coral Bay",
+            "en": "Coral Bay"
+          },
+          "coords": [
+            50.605,
+            26.238
+          ],
+          "category": "beach",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Wasser bei einem Drink.",
+            "hu": "Pihenj a vízparton egy ital mellett.",
+            "ro": "Relaxați-vă la malul mării cu o băutură.",
+            "en": "Relax by the waterfront with a drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Haji's Cafe",
+            "hu": "Haji's Cafe",
+            "ro": "Haji's Cafe",
+            "en": "Haji's Cafe"
+          },
+          "coords": [
+            50.576,
+            26.232
+          ],
+          "category": "gastro",
+          "arrive_at": "17:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Authentisches Frühstück oder Abendessen.",
+            "hu": "Autentikus reggeli vagy vacsora.",
+            "ro": "Mic dejun sau cină autentică.",
+            "en": "Authentic breakfast or dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Bab Al Bahrain, dem historischen Tor zur Stadt. Tauchen Sie ein in das Labyrinth des Manama Souq, bevor Sie den kulturellen Reichtum im Nationalmuseum erkunden. Den Nachmittag verbringen Sie entspannt an der Coral Bay, mit einem Blick auf die moderne Skyline.",
+        "hu": "Keze a napot a Bab Al Bahrainnál, a város történelmi kapujánál. Merülj el a Manáma szúk labirintusában, majd fedezd fel a kulturális gazdagságot a Nemzeti Múzeumban. A délutánt töltsd pihenéssel a Korall-öbölben, élvezve a modern felhőkarcolók látványát.",
+        "ro": "Începeți ziua la Bab Al Bahrain, poarta istorică a orașului. Pierdeți-vă în labirintul din Manama Souq înainte de a explora bogăția culturală la Muzeul Național. Petreceți după-amiaza relaxându-vă în Coral Bay, cu vedere la linia modernă a orizontului.",
+        "en": "Start your day at Bab Al Bahrain, the historic gateway to the city. Dive into the labyrinth of the Manama Souq before exploring cultural richness at the National Museum. Spend the afternoon relaxing at Coral Bay, with a view of the modern skyline."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Machboos",
+            "tip": "Würziger Reis mit Fleisch, das Nationalgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Machboos",
+            "tip": "Fűszeres rizs hússal, a nemzeti étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Machboos",
+            "tip": "Orez picant cu carne, felul de mâncare național."
+          }
+        ],
+        "en": [
+          {
+            "name": "Machboos",
+            "tip": "Spiced rice with meat, the national dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahrain Bay Park",
+            "tip": "Ruhiger Spaziergang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahrain Bay Park",
+            "tip": "Csendes séta naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahrain Bay Park",
+            "tip": "Plimbare liniștită la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahrain Bay Park",
+            "tip": "Quiet walk at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Avenues",
+            "tip": "Moderne Mall am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Avenues",
+            "tip": "Modern bevásárlóközpont a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Avenues",
+            "tip": "Mall modern pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Avenues",
+            "tip": "Modern waterfront mall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe.",
+          "Besuchen Sie den Souq früh am Morgen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt.",
+          "Látogasd meg a szúkot kora reggel."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă.",
+          "Vizitați souq-ul dimineața devreme."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Visit the souq early in the morning."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 35.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Al Fateh Grand Mosque",
+            "hu": "Al-Fateh nagymecset",
+            "ro": "Marea Moschee Al Fateh",
+            "en": "Al Fateh Grand Mosque"
+          },
+          "coords": [
+            50.598,
+            26.218
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kostenlose Führungen sind verfügbar.",
+            "hu": "Ingyenes idegenvezetés elérhető.",
+            "ro": "Sunt disponibile tururi gratuite.",
+            "en": "Free guided tours are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahrain Financial Harbour",
+            "hu": "Bahreini Pénzügyi Kikötő",
+            "ro": "Bahrain Financial Harbour",
+            "en": "Bahrain Financial Harbour"
+          },
+          "coords": [
+            50.573,
+            26.241
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ikonische Architektur im Herzen der Stadt.",
+            "hu": "Ikonikus építészet a város szívében.",
+            "ro": "Arhitectură iconică în inima orașului.",
+            "en": "Iconic architecture in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Qal'at al-Bahrain",
+            "hu": "Bahreini erőd",
+            "ro": "Qal'at al-Bahrain",
+            "en": "Qal'at al-Bahrain"
+          },
+          "coords": [
+            50.52,
+            26.233
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit Museum.",
+            "hu": "UNESCO Világörökség múzeummal.",
+            "ro": "Sit UNESCO cu muzeu.",
+            "en": "UNESCO World Heritage site with museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmi",
+            "hu": "Karmi",
+            "ro": "Karmi",
+            "en": "Karmi"
+          },
+          "coords": [
+            50.522,
+            26.235
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hervorragende Meeresfrüchte in der Nähe.",
+            "hu": "Kiváló tengeri ételek a közelben.",
+            "ro": "Fructe de mare excelente în apropiere.",
+            "en": "Excellent seafood nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "König-Fahd-Damm",
+            "hu": "Fahd király híd",
+            "ro": "Podul Regelui Fahd",
+            "en": "King Fahd Causeway"
+          },
+          "coords": [
+            50.45,
+            26.15
+          ],
+          "category": "landmark",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zur Grenzinsel für den Ausblick.",
+            "hu": "Vezess el a határszigetig a kilátásért.",
+            "ro": "Conduceți până la insula de frontieră pentru priveliște.",
+            "en": "Drive to the border island for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsgräber von A'ali",
+            "hu": "A'ali királyi sírok",
+            "ro": "Movilele funerare regale A'ali",
+            "en": "A'ali Royal Burial Mounds"
+          },
+          "coords": [
+            50.512,
+            26.152
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Riesige antike Dilmun-Grabhügel.",
+            "hu": "Hatalmas antik Dilmun-halomsírok.",
+            "ro": "Movile funerare antice Dilmun uriașe.",
+            "en": "Huge ancient Dilmun burial mounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tree of Life",
+            "hu": "Élet fája",
+            "ro": "Pomul Vieții",
+            "en": "Tree of Life"
+          },
+          "coords": [
+            50.582,
+            25.992
+          ],
+          "category": "nature",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Ein Wunder in der Wüste.",
+            "hu": "Egy csoda a sivatagban.",
+            "ro": "O minune în deșert.",
+            "en": "A miracle in the desert."
+          }
+        },
+        {
+          "name": {
+            "de": "Block 338",
+            "hu": "Block 338",
+            "ro": "Block 338",
+            "en": "Block 338"
+          },
+          "coords": [
+            50.59,
+            26.215
+          ],
+          "category": "gastro",
+          "arrive_at": "18:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Das kulinarische Zentrum von Manama.",
+            "hu": "Manáma gasztronómiai központja.",
+            "ro": "Centrul culinar al Manamei.",
+            "en": "The culinary hub of Manama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour führt Sie von der majestätischen Moschee zu den archäologischen Schätzen des Bahrain-Forts. Erleben Sie den gigantischen Damm nach Saudi-Arabien und die mystischen Grabhügel von A'ali, bevor Sie den einsamen 'Baum des Lebens' in der Wüste besuchen.",
+        "hu": "Ez az autós túra a fenséges mecsettől a Bahreini erőd régészeti kincseiig vezet. Tapasztald meg a Szaúd-Arábiába vezető óriási hidat és A'ali misztikus halomsírjait, mielőtt felkeresnéd a magányos 'Élet fáját' a sivatagban.",
+        "ro": "Acest tur auto vă poartă de la moscheea majestuoasă la comorile arheologice ale Fortului Bahrain. Experimentați digul gigantic către Arabia Saudită și movilele funerare mistice din A'ali înainte de a vizita solitarul 'Pom al Vieții' în deșert.",
+        "en": "This car tour takes you from the majestic mosque to the archaeological treasures of Bahrain Fort. Experience the giant causeway to Saudi Arabia and the mystical burial mounds of A'ali before visiting the lonely 'Tree of Life' in the desert."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saffron by Jena",
+            "tip": "Traditionelles bahrainisches Frühstück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saffron by Jena",
+            "tip": "Hagyományos bahreini reggeli."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saffron by Jena",
+            "tip": "Mic dejun tradițional bahrainian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saffron by Jena",
+            "tip": "Traditional Bahraini breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tree of Life",
+            "tip": "Völlige Stille in der Wüste.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Élet fája",
+            "tip": "Teljes csend a sivatagban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pomul Vieții",
+            "tip": "Liniște deplină în deșert.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tree of Life",
+            "tip": "Total silence in the desert.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Moda Mall",
+            "tip": "Luxusmarken im World Trade Center."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moda Mall",
+            "tip": "Luxusmárkák a World Trade Centerben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moda Mall",
+            "tip": "Branduri de lux în World Trade Center."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moda Mall",
+            "tip": "Luxury brands in the World Trade Center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Auto mit GPS.",
+          "Tanken Sie vor der Fahrt in die Wüste auf."
+        ],
+        "hu": [
+          "Bérelj autót GPS-szel.",
+          "Tankolj fel a sivatagi út előtt."
+        ],
+        "ro": [
+          "Închiriați o mașină cu GPS.",
+          "Alimentați înainte de a merge în deșert."
+        ],
+        "en": [
+          "Rent a car with GPS.",
+          "Fuel up before heading into the desert."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1012 @@
+{
+  "city_id": "plizio-city",
+  "anchor": {
+    "name": "Piața Unirii",
+    "coords": [
+      46.77,
+      23.59
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            46.77,
+            23.59
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh ankommen, um die Ruhe zu genießen.",
+            "hu": "Érkezz korán, hogy élvezd a csendet.",
+            "ro": "Vino devreme pentru a te bucura de liniște.",
+            "en": "Arrive early to enjoy the peace."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            46.769,
+            23.589
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die gotischen Gewölbe an.",
+            "hu": "Nézd meg a gótikus boltozatokat.",
+            "ro": "Privește bolțile gotice.",
+            "en": "Check out the Gothic vaults."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            46.768,
+            23.588
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Dauerausstellung ist ein Muss.",
+            "hu": "Az állandó kiállítás kötelező.",
+            "ro": "Expoziția permanentă este obligatorie.",
+            "en": "The permanent exhibition is a must."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            46.767,
+            23.587
+          ],
+          "category": "park",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Picknick im Schatten der Bäume.",
+            "hu": "Piknik a fák árnyékában.",
+            "ro": "Picnic la umbra copacilor.",
+            "en": "Picnic in the shade of the trees."
+          }
+        },
+        {
+          "name": "Crama La Cetate",
+          "coords": [
+            46.766,
+            23.586
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Wein.",
+            "hu": "Kóstold meg a helyi bort.",
+            "ro": "Încearcă vinul local.",
+            "en": "Try the local wine."
+          }
+        },
+        {
+          "name": "Cetatea Plizio",
+          "coords": [
+            46.765,
+            23.585
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Ausblick von oben ist fantastisch.",
+            "hu": "A kilátás felülről fantasztikus.",
+            "ro": "Vederea de sus este fantastică.",
+            "en": "The view from above is fantastic."
+          }
+        },
+        {
+          "name": "Piața Unirii (Est)",
+          "coords": [
+            46.77,
+            23.591
+          ],
+          "category": "square",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang.",
+            "hu": "Élvezd a naplementét.",
+            "ro": "Bucură-te de apus.",
+            "en": "Enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf der Piața Unirii, dem pulsierenden Herzen der Stadt. Nach einem kurzen Spaziergang besuchen Sie die gotische Bischofskirche. Der Vormittag steht im Zeichen der Kunst im Muzeul de Artă. Am Mittag entspannen Sie im Parcul Central. Der Nachmittag bietet eine Weinprobe in der Crama La Cetate. Der Spätnachmittag führt Sie zur historischen Cetatea Plizio. Der Abend klingt auf dem östlichen Teil des Hauptplatzes aus.",
+        "hu": "A reggel a Piața Unirii-n, a város lüktető szívében kezdődik. Egy rövid séta után meglátogatja a gótikus Szent Mihály-templomot. A délelőtt a művészetek jegyében telik a Muzeul de Artă-ban. Délben a Parcul Central-ban pihen. Délután borkóstoló a Crama La Cetate-ben. Késő délután a történelmi Cetatea Plizio-ba vezet az út. Az este a főtér keleti részén ér véget.",
+        "ro": "Dimineața începe în Piața Unirii, inima vibrantă a orașului. După o scurtă plimbare, vizitați Biserica Sfântul Mihail în stil gotic. Înainte de prânz, vă bucurați de artă la Muzeul de Artă. La prânz, vă relaxați în Parcul Central. După-amiaza, degustați vinuri la Crama La Cetate. Spre seară, ajungeți la Cetatea Plizio. Seara se încheie pe partea de est a pieței principale.",
+        "en": "The morning starts at Piața Unirii, the vibrant heart of the city. After a short walk, you visit the Gothic St. Michael's Church. The late morning is dedicated to art at the Muzeul de Artă. At noon, you relax in Parcul Central. The afternoon features a wine tasting at Crama La Cetate. The late afternoon leads to the historic Cetatea Plizio. The evening ends on the eastern part of the main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Lokaler Wein und Käseplatte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Helyi bor és sajttál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Vin local și platou de brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Local wine and cheese platter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parcul Central",
+            "tip": "Ruhige Oase in der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parcul Central",
+            "tip": "Csendes oázis a városban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Central",
+            "tip": "Oază de liniște în oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parcul Central",
+            "tip": "Quiet oasis in the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Handwerkliche Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Kézműves szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Souveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Handcrafted souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe.",
+          "Planen Sie Pausen ein.",
+          "Nehmen Sie Wasser mit.",
+          "Genießen Sie die lokale Küche."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt.",
+          "Tervezz be szüneteket.",
+          "Vigyél magaddal vizet.",
+          "Élvezd a helyi konyhát."
+        ],
+        "ro": [
+          "Poartă încălțăminte confortabilă.",
+          "Planifică pauze.",
+          "Ia apă cu tine.",
+          "Bucură-te de bucătăria locală."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Plan breaks.",
+          "Bring water.",
+          "Enjoy the local cuisine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            46.77,
+            23.59
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Rand ab.",
+            "hu": "Tedd le a biciklit a szélén.",
+            "ro": "Lăsați bicicleta la margine.",
+            "en": "Park your bike at the edge."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            46.769,
+            23.589
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrradständer vor der Kirche.",
+            "hu": "Biciklitároló a templom előtt.",
+            "ro": "Suport de biciclete în fața bisericii.",
+            "en": "Bike rack in front of the church."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            46.768,
+            23.588
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahrradparkplatz am Hintereingang.",
+            "hu": "Bicikliparkoló a hátsó bejáratnál.",
+            "ro": "Parcare biciclete la intrarea din spate.",
+            "en": "Bike parking at the back entrance."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            46.767,
+            23.587
+          ],
+          "category": "park",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahrradweg durch den Park.",
+            "hu": "Bicikliút a parkon keresztül.",
+            "ro": "Pistă de biciclete prin parc.",
+            "en": "Bike path through the park."
+          }
+        },
+        {
+          "name": "Crama La Cetate",
+          "coords": [
+            46.766,
+            23.586
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradständer am Eingang.",
+            "hu": "Biciklitároló a bejáratnál.",
+            "ro": "Suport biciclete la intrare.",
+            "en": "Bike stand at the entrance."
+          }
+        },
+        {
+          "name": "Cetatea Plizio",
+          "coords": [
+            46.765,
+            23.585
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, schieben Sie das Fahrrad.",
+            "hu": "Meredek emelkedő, told a biciklit.",
+            "ro": "Pantă abruptă, împingeți bicicleta.",
+            "en": "Steep climb, push the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Fahrradtour auf der Piața Unirii. Sie radeln zur Bischofskirche und dann zum Kunstmuseum. Der Vormittag endet im Park. Nach einer Weinprobe fahren Sie zur Festung. Der Nachmittag ist der Geschichte gewidmet.",
+        "hu": "A nap egy kerékpártúrával kezdődik a Piața Unirii-n. Átbiciklizel a Szent Mihály-templomhoz, majd a művészeti múzeumba. A délelőtt a parkban ér véget. Egy borkóstoló után a fellegvárhoz teker. A délután a történelemé.",
+        "ro": "Ziua începe cu un tur cu bicicleta în Piața Unirii. Pedalați până la Biserica Sfântul Mihail, apoi la muzeul de artă. Înainte de prânz, vă opriți în parc. După o degustare de vinuri, mergeți la cetate. După-amiaza este dedicată istoriei.",
+        "en": "The day starts with a bike tour at Piața Unirii. You cycle to St. Michael's Church and then to the art museum. The late morning ends in the park. After a wine tasting, you ride to the fortress. The afternoon is dedicated to history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Lokaler Wein und Käseplatte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Helyi bor és sajttál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Vin local și platou de brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Local wine and cheese platter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parcul Central",
+            "tip": "Ruhige Oase in der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parcul Central",
+            "tip": "Csendes oázis a városban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Central",
+            "tip": "Oază de liniște în oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parcul Central",
+            "tip": "Quiet oasis in the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Handwerkliche Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Kézműves szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Souveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Handcrafted souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Bremsen.",
+          "Tragen Sie einen Helm.",
+          "Planen Sie Ihre Route.",
+          "Genießen Sie die Fahrt."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeket.",
+          "Viselj sisakot.",
+          "Tervezd meg az útvonalat.",
+          "Élvezd a tekerést."
+        ],
+        "ro": [
+          "Verificați frânele.",
+          "Purtați o cască.",
+          "Planificați-vă ruta.",
+          "Bucurați-vă de plimbare."
+        ],
+        "en": [
+          "Check your brakes.",
+          "Wear a helmet.",
+          "Plan your route.",
+          "Enjoy the ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 45.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            46.77,
+            23.59
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage.",
+            "hu": "Parkolj a mélygarázsban.",
+            "ro": "Parcați în parcarea subterană.",
+            "en": "Park in the underground garage."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            46.769,
+            23.589
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg von der Piața Unirii.",
+            "hu": "Gyalogút a Piața Unirii-tól.",
+            "ro": "Drum pe jos de la Piața Unirii.",
+            "en": "Walking distance from Piața Unirii."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            46.768,
+            23.588
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg von der Kirche.",
+            "hu": "Gyalogút a templomtól.",
+            "ro": "Drum pe jos de la biserică.",
+            "en": "Walking distance from the church."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            46.767,
+            23.587
+          ],
+          "category": "park",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg vom Museum.",
+            "hu": "Gyalogút a múzeumtól.",
+            "ro": "Drum pe jos de la muzeu.",
+            "en": "Walking distance from the museum."
+          }
+        },
+        {
+          "name": "Crama La Cetate",
+          "coords": [
+            46.766,
+            23.586
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg vom Park.",
+            "hu": "Gyalogút a parktól.",
+            "ro": "Drum pe jos de la parc.",
+            "en": "Walking distance from the park."
+          }
+        },
+        {
+          "name": "Cetatea Plizio",
+          "coords": [
+            46.765,
+            23.585
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fußweg von der Crama.",
+            "hu": "Gyalogút a Crama-tól.",
+            "ro": "Drum pe jos de la Crama.",
+            "en": "Walking distance from Crama."
+          }
+        },
+        {
+          "name": "Lacul Plizio",
+          "coords": [
+            46.75,
+            23.6
+          ],
+          "category": "park",
+          "arrive_at": "17:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Parkplatz am Seeufer.",
+            "hu": "Parkoló a tóparton.",
+            "ro": "Parcare la malul lacului.",
+            "en": "Parking at the lake shore."
+          }
+        },
+        {
+          "name": "Piața Unirii (Est)",
+          "coords": [
+            46.77,
+            23.591
+          ],
+          "category": "square",
+          "arrive_at": "19:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang.",
+            "hu": "Élvezd a naplementét.",
+            "ro": "Bucură-te de apus.",
+            "en": "Enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf der Piața Unirii. Nach einem Spaziergang besuchen Sie die Kirche und das Museum. Der Vormittag endet im Park. Nach einer Weinprobe fahren Sie zur Festung. Der Nachmittag führt Sie zum See. Der Abend klingt auf dem Hauptplatz aus.",
+        "hu": "A reggel a Piața Unirii-n kezdődik. Egy séta után meglátogatja a templomot és a múzeumot. A délelőtt a parkban ér véget. Egy borkóstoló után a fellegvárhoz hajt. Délután a tóhoz vezet az út. Az este a főtéren ér véget.",
+        "ro": "Dimineața începe în Piața Unirii. După o plimbare, vizitați biserica și muzeul. Înainte de prânz, vă opriți în parc. După o degustare de vinuri, conduceți la cetate. După-amiaza vă duce la lac. Seara se încheie în piața principală.",
+        "en": "The morning starts at Piața Unirii. After a walk, you visit the church and museum. The late morning ends in the park. After a wine tasting, you drive to the fortress. The afternoon leads to the lake. The evening ends on the main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Lokaler Wein und Käseplatte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Helyi bor és sajttál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Vin local și platou de brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Local wine and cheese platter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lacul Plizio",
+            "tip": "Ruhiger See zum Entspannen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lacul Plizio",
+            "tip": "Csendes tó a pihenéshez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Plizio",
+            "tip": "Lac liniștit pentru relaxare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lacul Plizio",
+            "tip": "Quiet lake for relaxation.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Handwerkliche Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Kézműves szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Souveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Handcrafted souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in der Tiefgarage.",
+          "Fahren Sie vorsichtig.",
+          "Planen Sie Ihre Route.",
+          "Genießen Sie die Fahrt."
+        ],
+        "hu": [
+          "Parkolj a mélygarázsban.",
+          "Vezess óvatosan.",
+          "Tervezd meg az útvonalat.",
+          "Élvezd az utazást."
+        ],
+        "ro": [
+          "Parcați în parcarea subterană.",
+          "Conduceți cu atenție.",
+          "Planificați-vă ruta.",
+          "Bucurați-vă de drum."
+        ],
+        "en": [
+          "Park in the underground garage.",
+          "Drive carefully.",
+          "Plan your route.",
+          "Enjoy the drive."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 18.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            46.77,
+            23.59
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bus- und Straßenbahnhaltestelle.",
+            "hu": "Busz- és villamosmegálló.",
+            "ro": "Stație de autobuz și tramvai.",
+            "en": "Bus and tram stop."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            46.769,
+            23.589
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg von der Haltestelle.",
+            "hu": "Gyalogút a megállótól.",
+            "ro": "Drum pe jos de la stație.",
+            "en": "Walking distance from the stop."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            46.768,
+            23.588
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg von der Kirche.",
+            "hu": "Gyalogút a templomtól.",
+            "ro": "Drum pe jos de la biserică.",
+            "en": "Walking distance from the church."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            46.767,
+            23.587
+          ],
+          "category": "park",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg vom Museum.",
+            "hu": "Gyalogút a múzeumtól.",
+            "ro": "Drum pe jos de la muzeu.",
+            "en": "Walking distance from the museum."
+          }
+        },
+        {
+          "name": "Crama La Cetate",
+          "coords": [
+            46.766,
+            23.586
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg vom Park.",
+            "hu": "Gyalogút a parktól.",
+            "ro": "Drum pe jos de la parc.",
+            "en": "Walking distance from the park."
+          }
+        },
+        {
+          "name": "Cetatea Plizio",
+          "coords": [
+            46.765,
+            23.585
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fußweg von der Crama.",
+            "hu": "Gyalogút a Crama-tól.",
+            "ro": "Drum pe jos de la Crama.",
+            "en": "Walking distance from Crama."
+          }
+        },
+        {
+          "name": "Piața Unirii (Est)",
+          "coords": [
+            46.77,
+            23.591
+          ],
+          "category": "square",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bus zurück ins Zentrum.",
+            "hu": "Busz vissza a központba.",
+            "ro": "Autobuz înapoi în centru.",
+            "en": "Bus back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf der Piața Unirii. Nach einem Spaziergang besuchen Sie die Kirche und das Museum. Der Vormittag endet im Park. Nach einer Weinprobe fahren Sie zur Festung. Der Nachmittag ist der Geschichte gewidmet. Der Abend klingt auf dem Hauptplatz aus.",
+        "hu": "A reggel a Piața Unirii-n kezdődik. Egy séta után meglátogatja a templomot és a múzeumot. A délelőtt a parkban ér véget. Egy borkóstoló után a fellegvárhoz utazik. A délután a történelemé. Az este a főtéren ér véget.",
+        "ro": "Dimineața începe în Piața Unirii. După o plimbare, vizitați biserica și muzeul. Înainte de prânz, vă opriți în parc. După o degustare de vinuri, călătoriți la cetate. După-amiaza este dedicată istoriei. Seara se încheie în piața principală.",
+        "en": "The morning starts at Piața Unirii. After a walk, you visit the church and museum. The late morning ends in the park. After a wine tasting, you travel to the fortress. The afternoon is dedicated to history. The evening ends on the main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Lokaler Wein und Käseplatte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Helyi bor és sajttál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Vin local și platou de brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crama La Cetate",
+            "tip": "Local wine and cheese platter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parcul Central",
+            "tip": "Ruhige Oase in der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parcul Central",
+            "tip": "Csendes oázis a városban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Central",
+            "tip": "Oază de liniște în oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parcul Central",
+            "tip": "Quiet oasis in the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Handwerkliche Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Kézműves szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Souveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piața Unirii",
+            "tip": "Handcrafted souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket.",
+          "Überprüfen Sie den Fahrplan.",
+          "Seien Sie pünktlich.",
+          "Genießen Sie die Fahrt."
+        ],
+        "hu": [
+          "Vegyél napijegyet.",
+          "Ellenőrizd a menetrendet.",
+          "Légy pontos.",
+          "Élvezd az utazást."
+        ],
+        "ro": [
+          "Cumpărați un bilet zilnic.",
+          "Verificați orarul.",
+          "Fiți punctuali.",
+          "Bucurați-vă de călătorie."
+        ],
+        "en": [
+          "Buy a day ticket.",
+          "Check the schedule.",
+          "Be on time.",
+          "Enjoy the ride."
+        ]
+      }
+    }
+  }
+}

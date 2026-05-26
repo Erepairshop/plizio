@@ -1,0 +1,1012 @@
+{
+  "city_id": "city-1",
+  "anchor": {
+    "name": "Placio Central",
+    "coords": [
+      44.33,
+      23.82
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piața Centrală",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh kommen für die Ruhe.",
+            "hu": "Érkezz korán a csendért.",
+            "ro": "Vino devreme pentru liniște.",
+            "en": "Come early for the quiet."
+          }
+        },
+        {
+          "name": "Cetatea Veche",
+          "coords": [
+            44.33,
+            23.83
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Aussicht vom Turm lohnt sich.",
+            "hu": "A toronyból a kilátás megéri.",
+            "ro": "Vederea de pe turn merită.",
+            "en": "The view from the tower is worth it."
+          }
+        },
+        {
+          "name": "Catedrala Sf. Maria",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Glasfenster sind beeindruckend.",
+            "hu": "Az üvegablakok lenyűgözőek.",
+            "ro": "Vitraliile sunt impresionante.",
+            "en": "The stained glass windows are stunning."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Im Souvenirshop gibt es lokale Kunst.",
+            "hu": "Az ajándékboltban helyi művészet van.",
+            "ro": "În magazinul de suveniruri găsești artă locală.",
+            "en": "The gift shop has local art."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            44.33,
+            23.81
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schatten unter den alten Bäumen genießen.",
+            "hu": "Élvezd az árnyékot a régi fák alatt.",
+            "ro": "Bucură-te de umbră sub copacii bătrâni.",
+            "en": "Enjoy shade under the old trees."
+          }
+        },
+        {
+          "name": "Restaurantul Traditional",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die hausgemachte Polenta.",
+            "hu": "Kóstold meg a házi puliszkát.",
+            "ro": "Încearcă mămăliga de casă.",
+            "en": "Try the homemade polenta."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Start auf dem belebten Hauptplatz, dann zur alten Festung. Mittag: Kirchenbesichtigung und Kunstmuseum. Nachmittag: Spaziergang im Park, Abendessen in traditionellem Restaurant.",
+        "hu": "Reggel: Indulás a nyüzsgő főtéren, majd az ókori vár. Dél: Templomlátogatás és művészeti múzeum. Délután: Séta a parkban, vacsora hagyományos étteremben.",
+        "ro": "Dimineața: Start în piața centrală aglomerată, apoi cetatea veche. Prânz: Vizită la catedrală și muzeu de artă. După-amiază: Plimbare în parc, cină la restaurant tradițional.",
+        "en": "Morning: Start at the bustling main square, then the old fortress. Midday: Church visit and art museum. Afternoon: Walk in the park, dinner at a traditional restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mămăligă",
+            "tip": "Mit Sauerrahm und Käse"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puliszka",
+            "tip": "Tejföllel és sajttal"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mămăligă",
+            "tip": "Cu smântână și brânză"
+          }
+        ],
+        "en": [
+          {
+            "name": "Polenta",
+            "tip": "With sour cream and cheese"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Fluss",
+            "tip": "Ruhiger Ort zum Sonnenuntergang",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti kilátó",
+            "tip": "Csendes naplemente helyszín",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la râu",
+            "tip": "Loc liniștit pentru apus",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside viewpoint",
+            "tip": "Quiet sunset spot",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksmarkt",
+            "tip": "Keramik und Stickereien"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves piac",
+            "tip": "Kerámia és hímzés"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târg de meșteșuguri",
+            "tip": "Ceramică și broderie"
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft market",
+            "tip": "Pottery and embroidery"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe.",
+          "Trinken Sie viel Wasser.",
+          "Kaufen Sie Eintrittskarten online.",
+          "Nutzen Sie die frühen Morgenstunden."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt.",
+          "Igyál sok vizet.",
+          "Vásárolj belépőt online.",
+          "Használd ki a kora reggeli órákat."
+        ],
+        "ro": [
+          "Poartă încălțăminte confortabilă.",
+          "Bea multă apă.",
+          "Cumpără bilete online.",
+          "Folosește orele dimineții devreme."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Drink plenty of water.",
+          "Buy tickets online.",
+          "Make use of the early morning hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piața Centrală",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahrrad abstellen am Rand.",
+            "hu": "Hagyd a biciklit a szélén.",
+            "ro": "Lasă bicicleta la margine.",
+            "en": "Park bike at the edge."
+          }
+        },
+        {
+          "name": "Cetatea Veche",
+          "coords": [
+            44.33,
+            23.83
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mit dem Fahrrad um die Festung herum fahren.",
+            "hu": "Kerékpárral körbe a vár körül.",
+            "ro": "Cu bicicleta în jurul cetății.",
+            "en": "Cycle around the fortress."
+          }
+        },
+        {
+          "name": "Catedrala Sf. Maria",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrradständer vor der Kirche.",
+            "hu": "Biciklitároló a templom előtt.",
+            "ro": "Suport de biciclete în fața bisericii.",
+            "en": "Bike rack in front of the church."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahrrad im Hof abschließen.",
+            "hu": "Zárd le a biciklit az udvarban.",
+            "ro": "Încuie bicicleta în curte.",
+            "en": "Lock bike in the courtyard."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            44.33,
+            23.81
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radwege im Park nutzen.",
+            "hu": "Használd a park kerékpárútjait.",
+            "ro": "Folosește pistele de biciclete din parc.",
+            "en": "Use the bike paths in the park."
+          }
+        },
+        {
+          "name": "Restaurantul Traditional",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahrrad vor dem Restaurant abstellen.",
+            "hu": "Hagyd a biciklit az étterem előtt.",
+            "ro": "Lasă bicicleta în fața restaurantului.",
+            "en": "Park bike in front of restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radtour zum Hauptplatz und zur Festung. Mittag: Kirche und Museum. Nachmittag: Fahrt durch den Park und Mittagessen.",
+        "hu": "Reggel: Kerékpártúra a főtérre és a várba. Dél: Templom és múzeum. Délután: Átkelés a parkon és ebéd.",
+        "ro": "Dimineața: Tur cu bicicleta în piață și cetate. Prânz: Biserică și muzeu. După-amiază: Plimbare prin parc și prânz.",
+        "en": "Morning: Bike tour to main square and fortress. Midday: Church and museum. Afternoon: Ride through park and lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale",
+            "tip": "Mit Polenta und Sauerrahm"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Töltött káposzta",
+            "tip": "Puliszkával és tejföllel"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale",
+            "tip": "Cu mămăligă și smântână"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stuffed cabbage rolls",
+            "tip": "With polenta and sour cream"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade",
+            "tip": "Perfekt für eine Radpause",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti sétány",
+            "tip": "Tökéletes kerékpárszünetre",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada pe mal",
+            "tip": "Perfect pentru o pauză cu bicicleta",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside promenade",
+            "tip": "Perfect for a bike break",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Reparatur und Zubehör"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Javítás és kiegészítők"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Reparații și accesorii"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "Repairs and accessories"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Helm tragen.",
+          "Radwege benutzen.",
+          "Schloss dabei haben.",
+          "Wasserflasche mitnehmen."
+        ],
+        "hu": [
+          "Viselj sisakot.",
+          "Használd a kerékpárutakat.",
+          "Legyen nálad lakat.",
+          "Vigyél magaddal vizet."
+        ],
+        "ro": [
+          "Purtă cască.",
+          "Folosește pistele de biciclete.",
+          "Ai un lacăt la tine.",
+          "Ia o sticlă de apă."
+        ],
+        "en": [
+          "Wear a helmet.",
+          "Use bike lanes.",
+          "Bring a lock.",
+          "Take a water bottle."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 45.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Centrală",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken am besten in der Tiefgarage.",
+            "hu": "A legjobb a mélygarázsban parkolni.",
+            "ro": "Cel mai bine parchezi în garajul subteran.",
+            "en": "Best to park in the underground garage."
+          }
+        },
+        {
+          "name": "Cetatea Veche",
+          "coords": [
+            44.33,
+            23.83
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Tiefgarage zur Festung.",
+            "hu": "Gyalog a mélygarázsból a várba.",
+            "ro": "Pe jos din garajul subteran la cetate.",
+            "en": "Walk from underground garage to fortress."
+          }
+        },
+        {
+          "name": "Catedrala Sf. Maria",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Weiter zu Fuß durch die Altstadt.",
+            "hu": "Tovább gyalog az óvároson át.",
+            "ro": "Mai departe pe jos prin centrul vechi.",
+            "en": "Continue on foot through the old town."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zurück zum Auto für die Fahrt zum nächsten Cluster.",
+            "hu": "Vissza az autóhoz, hogy a következő klaszterbe menj.",
+            "ro": "Înapoi la mașină pentru a merge la următorul cluster.",
+            "en": "Return to car to drive to next cluster."
+          }
+        },
+        {
+          "name": "Schloss Bran (Außenbezirk)",
+          "coords": [
+            44.48,
+            23.9
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Parkplatz kostet 5 Lei.",
+            "hu": "A parkolás 5 lejbe kerül.",
+            "ro": "Parcarea costă 5 lei.",
+            "en": "Parking costs 5 lei."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Tâmpa",
+          "coords": [
+            44.47,
+            23.91
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie den Pfad hinauf.",
+            "hu": "Sétálj felfelé az ösvényen.",
+            "ro": "Mergi pe cărare în sus.",
+            "en": "Hike up the path."
+          }
+        },
+        {
+          "name": "Lokal 'La Promenadă'",
+          "coords": [
+            44.47,
+            23.9
+          ],
+          "category": "gastro",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Terrasse mit Blick auf die Berge.",
+            "hu": "Terasz hegyre néző kilátással.",
+            "ro": "Terasă cu vedere la munte.",
+            "en": "Terrace with mountain view."
+          }
+        },
+        {
+          "name": "Rucăr See (Rückfahrt)",
+          "coords": [
+            44.35,
+            23.85
+          ],
+          "category": "park",
+          "arrive_at": "17:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Letzter Halt vor der Heimfahrt.",
+            "hu": "Utolsó megálló hazafelé.",
+            "ro": "Ultima oprire înainte de întoarcere.",
+            "en": "Last stop before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Stadtbummel zu Fuß im Zentrum (Parken in der Tiefgarage). Mittag: Fahrt zum Schloß Bran (15 km). Nachmittag: Aussichtspunkt und traditionelles Mittagessen. Abend: Kurzer Stopp am See.",
+        "hu": "Reggel: Városi séta a központban (mélygarázsban parkolás). Dél: Autózás Bran várához (15 km). Délután: Kilátó és hagyományos ebéd. Este: Rövid megálló a tónál.",
+        "ro": "Dimineața: Plimbare în centru (parcare în garaj subteran). Prânz: Condus la Castelul Bran (15 km). După-amiază: Punct de belvedere și prânz tradițional. Seara: Oprire scurtă la lac.",
+        "en": "Morning: City stroll on foot in the center (park in underground garage). Midday: Drive to Bran Castle (15 km). Afternoon: Viewpoint and traditional lunch. Evening: Quick stop at the lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen mit Senf"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici",
+            "tip": "Grillezett darált hús tekercs mustárral"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar cu muștar"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls with mustard"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rucăr See",
+            "tip": "Ruhiger Ort am Wasser",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rucăr-tó",
+            "tip": "Csendes hely a víznél",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Rucăr",
+            "tip": "Loc liniștit lângă apă",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rucăr Lake",
+            "tip": "Quiet spot by the water",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Basar",
+            "tip": "Handgefertigte Souvenirs"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bazár",
+            "tip": "Kézzel készített ajándéktárgyak"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazar",
+            "tip": "Suveniruri făcute manual"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bazaar",
+            "tip": "Handmade souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mautstraßen vermeiden.",
+          "Parkgebühren in Münzen einstecken.",
+          "Navigations-App herunterladen.",
+          "Tank vor der Fahrt."
+        ],
+        "hu": [
+          "Kerüld az autópályákat.",
+          "Legyen apród a parkolásért.",
+          "Tölts le navigációs alkalmazást.",
+          "Tankolj indulás előtt."
+        ],
+        "ro": [
+          "Evită drumurile cu taxă.",
+          "Ai monede pentru parcare.",
+          "Descarcă o aplicație de navigație.",
+          "Alimentează înainte de plecare."
+        ],
+        "en": [
+          "Avoid toll roads.",
+          "Have coins for parking.",
+          "Download a navigation app.",
+          "Fill up before departure."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Centrală",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Haltestelle ist direkt am Platz.",
+            "hu": "A megálló közvetlenül a téren van.",
+            "ro": "Stația este chiar în piață.",
+            "en": "The stop is right on the square."
+          }
+        },
+        {
+          "name": "Cetatea Veche",
+          "coords": [
+            44.33,
+            23.83
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Haltestelle erreichbar.",
+            "hu": "Gyalog elérhető a megállóból.",
+            "ro": "Accesibil pe jos de la stație.",
+            "en": "Walkable from the stop."
+          }
+        },
+        {
+          "name": "Catedrala Sf. Maria",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Weiter zu Fuß durch die Altstadt.",
+            "hu": "Tovább gyalog az óvároson át.",
+            "ro": "Mai departe pe jos prin centrul vechi.",
+            "en": "Continue on foot through the old town."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            44.33,
+            23.82
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Buslinie 5 zum nächsten Stadtteil.",
+            "hu": "Az 5-ös busz a következő városrészbe.",
+            "ro": "Autobuzul 5 către următorul cartier.",
+            "en": "Bus line 5 to the next district."
+          }
+        },
+        {
+          "name": "Museum der Moderne",
+          "coords": [
+            44.32,
+            23.81
+          ],
+          "category": "museum",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kombi-Ticket für beide Museen.",
+            "hu": "Kombinált jegy mindkét múzeumba.",
+            "ro": "Bilet combinat pentru ambele muzee.",
+            "en": "Combo ticket for both museums."
+          }
+        },
+        {
+          "name": "Lokal 'Bucătăria'",
+          "coords": [
+            44.32,
+            23.81
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mittagsmenü bis 15 Uhr.",
+            "hu": "Ebédmenü 15 óráig.",
+            "ro": "Meniu de prânz până la 15:00.",
+            "en": "Lunch menu until 3 PM."
+          }
+        },
+        {
+          "name": "Parcul Tei",
+          "coords": [
+            44.31,
+            23.8
+          ],
+          "category": "park",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Straßenbahn Linie 1 dorthin.",
+            "hu": "Az 1-es villamos oda visz.",
+            "ro": "Tramvaiul 1 merge acolo.",
+            "en": "Tram line 1 goes there."
+          }
+        },
+        {
+          "name": "Platz der Freiheit",
+          "coords": [
+            44.31,
+            23.8
+          ],
+          "category": "square",
+          "arrive_at": "17:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Spaziergang vor der Rückfahrt.",
+            "hu": "Utolsó séta a visszaút előtt.",
+            "ro": "Ultima plimbare înainte de întoarcere.",
+            "en": "Last walk before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Erkundung des Zentrums mit Bus und zu Fuß. Mittag: Bus zum Museum der Moderne (3 km). Nachmittag: Mittagessen im Viertel, dann Straßenbahn zum Park. Abend: Abschluss auf dem Freiheitsplatz.",
+        "hu": "Reggel: A központ felfedezése busszal és gyalog. Dél: Busz a Modern Múzeumba (3 km). Délután: Ebéd a negyedben, majd villamos a parkba. Este: Zárás a Szabadság téren.",
+        "ro": "Dimineața: Explorarea centrului cu autobuzul și pe jos. Prânz: Autobuz la Muzeul Modern (3 km). După-amiază: Prânz în cartier, apoi tramvaiul în parc. Seara: Încheiere în Piața Libertății.",
+        "en": "Morning: Explore the center by bus and on foot. Midday: Bus to the Museum of Modern Art (3 km). Afternoon: Lunch in the district, then tram to the park. Evening: End at Liberty Square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Kräftige Kuttelsuppe mit Sauerrahm"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Erős pacalleves tejföllel"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Supă consistentă de burtă cu smântână"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tripe soup",
+            "tip": "Hearty tripe soup with sour cream"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tei-Park",
+            "tip": "Stilles Refugium mit Teich",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tei park",
+            "tip": "Csendes menedék tóval",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Tei",
+            "tip": "Refugiu liniștit cu iaz",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tei Park",
+            "tip": "Quiet refuge with pond",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofspassage",
+            "tip": "Lokale Mode und Kunst"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomás passzázs",
+            "tip": "Helyi divat és művészet"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasajul Gării",
+            "tip": "Modă locală și artă"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Arcade",
+            "tip": "Local fashion and art"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tageskarte kaufen.",
+          "Fahrplan vorher checken.",
+          "In der Stoßzeit enger.",
+          "Tür immer freilassen."
+        ],
+        "hu": [
+          "Vegyél napijegyet.",
+          "Ellenőrizd előre a menetrendet.",
+          "Csúcsidőben szűkebb.",
+          "Ajtót mindig szabadon hagyni."
+        ],
+        "ro": [
+          "Cumpără un bilet zilnic.",
+          "Verifică orarul înainte.",
+          "În orele de vârf e aglomerat.",
+          "Lasă ușa liberă întotdeauna."
+        ],
+        "en": [
+          "Buy a day pass.",
+          "Check the schedule ahead.",
+          "Crowded during rush hour.",
+          "Always leave the door clear."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,978 @@
+{
+  "city_id": "totnes",
+  "anchor": {
+    "name": "Totnes Bridge",
+    "coords": [
+      -3.682,
+      50.431
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Totnes Bridge",
+          "coords": [
+            -3.682,
+            50.431
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Start am Fluss Dart.",
+            "hu": "Kezdés a Dart folyónál.",
+            "ro": "Start pe râul Dart.",
+            "en": "Start by the River Dart."
+          }
+        },
+        {
+          "name": "Totnes High Street",
+          "coords": [
+            -3.685,
+            50.431
+          ],
+          "category": "shopping",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Unabhängige Läden erkunden.",
+            "hu": "Fedezze fel az egyedi boltokat.",
+            "ro": "Explorați magazinele independente.",
+            "en": "Explore independent shops."
+          }
+        },
+        {
+          "name": "Totnes Guildhall",
+          "coords": [
+            -3.686,
+            50.432
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Rathaus.",
+            "hu": "Történelmi városháza.",
+            "ro": "Primăria istorică.",
+            "en": "Historic town hall."
+          }
+        },
+        {
+          "name": "St Mary's Church",
+          "coords": [
+            -3.686,
+            50.431
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wunderschöne Sandsteinkirche.",
+            "hu": "Gyönyörű homokkő templom.",
+            "ro": "Biserică superbă din gresie.",
+            "en": "Beautiful sandstone church."
+          }
+        },
+        {
+          "name": "Totnes Castle",
+          "coords": [
+            -3.688,
+            50.432
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Normannische Festung.",
+            "hu": "Normann erődítmény.",
+            "ro": "Fortăreață normandă.",
+            "en": "Norman fortification."
+          }
+        },
+        {
+          "name": "Elizabethan House Museum",
+          "coords": [
+            -3.686,
+            50.431
+          ],
+          "category": "museum",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zeitkapsel aus dem 16. Jh.",
+            "hu": "16. századi időkapszula.",
+            "ro": "Capsulă a timpului din sec. XVI.",
+            "en": "16th-century time capsule."
+          }
+        },
+        {
+          "name": "Totnes Rare Breeds Farm",
+          "coords": [
+            -3.692,
+            50.435
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nahe der Dampfbahn.",
+            "hu": "A gőzvasút közelében.",
+            "ro": "Lângă trenul cu aburi.",
+            "en": "Near the steam railway."
+          }
+        },
+        {
+          "name": "Vire Island",
+          "coords": [
+            -3.681,
+            50.43
+          ],
+          "category": "park",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Abschluss am Flussufer.",
+            "hu": "Zárás a folyóparton.",
+            "ro": "Final la malul râului.",
+            "en": "Finish by the riverside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Totnes empfängt Sie mit seinem unkonventionellen Charme an der alten Brücke. Schlendern Sie die steile High Street hinauf, wo alternative Cafés und handwerkliche Läden das Bild prägen.\n\nMittags tauchen Sie in die normannische Geschichte ein, während Sie die Wälle von Totnes Castle erklimmen. Der Ausblick über die Dächer der Stadt und das Dart-Tal ist unübertroffen.\n\nDer Nachmittag gehört den Museen und der Tierwelt. Besuchen Sie das prachtvolle Elizabethan House und spazieren Sie dann zur Rare Breeds Farm, um seltene Haustierrassen zu sehen.\n\nLassen Sie den Tag auf Vire Island ausklingen, einer grünen Oase im Fluss Dart, während die Sonne langsam hinter den Hügeln von Devon versinkt.",
+        "hu": "Totnes bohém bájával fogadja Önt a régi hídnál. Sétáljon fel a meredek High Streeten, ahol alternatív kávézók és kézműves boltok határozzák meg a városképet.\n\nDélben merüljön el a normann történelemben a Totnes-i vár falai között. A város tetőire és a Dart-völgyre nyíló kilátás páratlan élményt nyújt.\n\nA délután a múzeumoké és az állatvilágé. Látogassa meg a pompás Erzsébet-kori házat, majd sétáljon el a Rare Breeds Farmra, hogy ritka háziállat-fajtákat lásson.\n\nZárja a napot a Vire-szigeten, a Dart folyó zöld oázisában, miközben a nap lassan lebukik a devoni dombok mögött.",
+        "ro": "Totnes vă întâmpină cu farmecul său boem la vechiul pod. Urcați pe strada principală abruptă, unde cafenelele alternative și magazinele artizanale definesc peisajul.\n\nLa prânz, scufundați-vă în istoria normandă urcând pe zidurile Castelului Totnes. Vederea asupra acoperișurilor orașului și a văii Dart este de neegalat.\n\nDupă-amiaza aparține muzeelor și lumii animale. Vizitați somptuoasa Casă Elisabetană și apoi mergeți la Ferma Rare Breeds pentru a vedea rase rare de animale.\n\nÎncheiați ziua pe Insula Vire, o oază verde în râul Dart, în timp ce soarele apune încet după dealurile din Devon.",
+        "en": "Totnes welcomes you with its bohemian charm at the old bridge. Stroll up the steep High Street, where alternative cafes and artisanal shops define the townscape.\n\nBy midday, immerse yourself in Norman history as you climb the ramparts of Totnes Castle. The view over the town's rooftops and the Dart Valley is unsurpassed.\n\nSpend the afternoon exploring museums and wildlife. Visit the splendid Elizabethan House and then walk to the Rare Breeds Farm to see rare livestock breeds.\n\nEnd your day on Vire Island, a green oasis in the River Dart, as the sun slowly sets behind the Devon hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Bull Inn",
+            "tip": "Biologisches und ethisches Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Bull Inn",
+            "tip": "Bio és etikus gasztronómia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Bull Inn",
+            "tip": "Mâncare organică și etică."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bull Inn",
+            "tip": "Organic and ethical gastropub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leaping Salmon",
+            "tip": "Ruhiger Spot am Dart.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leaping Salmon",
+            "tip": "Csendes hely a Dart partján.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leaping Salmon",
+            "tip": "Loc liniștit pe malul Dart.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leaping Salmon",
+            "tip": "Quiet spot by the Dart.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Totnes Market",
+            "tip": "Jeden Freitag und Samstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Totnesi piac",
+            "tip": "Minden pénteken és szombaton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Totnes",
+            "tip": "În fiecare vineri și sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Totnes Market",
+            "tip": "Every Friday and Saturday."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die High Street ist sehr steil.",
+          "Buchen Sie Bahntickets im Voraus.",
+          "Totnes ist bekannt für alternatives Geld."
+        ],
+        "hu": [
+          "A High Street nagyon meredek.",
+          "Foglaljon vonatjegyet előre.",
+          "Totnes híres saját alternatív pénzéről."
+        ],
+        "ro": [
+          "Strada principală este foarte abruptă.",
+          "Rezervați bilete de tren în avans.",
+          "Totnes este cunoscut pentru moneda locală."
+        ],
+        "en": [
+          "The High Street is very steep.",
+          "Book train tickets in advance.",
+          "Totnes is famous for its local currency."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Totnes Plains",
+          "coords": [
+            -3.682,
+            50.43
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt am Fluss.",
+            "hu": "Kiindulópont a folyónál.",
+            "ro": "Start la râu.",
+            "en": "Start by the river."
+          }
+        },
+        {
+          "name": "Dart Valley Trail",
+          "coords": [
+            -3.695,
+            50.44
+          ],
+          "category": "park",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Waldweg.",
+            "hu": "Gyönyörű erdei út.",
+            "ro": "Traseu forestier superb.",
+            "en": "Beautiful woodland trail."
+          }
+        },
+        {
+          "name": "Dartington Hall",
+          "coords": [
+            -3.705,
+            50.45
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Mittelalterliche Gärten.",
+            "hu": "Középkori kertek.",
+            "ro": "Grădini medievale.",
+            "en": "Medieval gardens."
+          }
+        },
+        {
+          "name": "Staverton Bridge",
+          "coords": [
+            -3.715,
+            50.465
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Alte Steinbrücke.",
+            "hu": "Régi kőhíd.",
+            "ro": "Vechi pod de piatră.",
+            "en": "Old stone bridge."
+          }
+        },
+        {
+          "name": "River Dart Path",
+          "coords": [
+            -3.69,
+            50.435
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Zurück nach Totnes.",
+            "hu": "Vissza Totnesbe.",
+            "ro": "Înapoi în Totnes.",
+            "en": "Back to Totnes."
+          }
+        },
+        {
+          "name": "Steamer Quay",
+          "coords": [
+            -3.68,
+            50.428
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beliebter Café-Stopp.",
+            "hu": "Népszerű kávézó.",
+            "ro": "Cafenea populară.",
+            "en": "Popular cafe stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch das idyllische Dart-Tal. Die Route führt Sie von Totnes zum beeindruckenden Anwesen von Dartington Hall, umgeben von sanften Hügeln.",
+        "hu": "Kerékpározzon az idilli Dart-völgyben. Az útvonal Totnesből a lenyűgöző Dartington Hall birtokhoz vezet, szelíd dombokkal körülvéve.",
+        "ro": "Pedalați prin idilica vale Dart. Traseul vă duce din Totnes spre impresionantul domeniu Dartington Hall, înconjurat de dealuri blânde.",
+        "en": "Cycle through the idyllic Dart Valley. The route takes you from Totnes to the stunning Dartington Hall estate, surrounded by rolling hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The White Hart",
+            "tip": "Essen im historischen Dartington."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The White Hart",
+            "tip": "Vacsora a történelmi Dartingtonban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The White Hart",
+            "tip": "Masă în istoricul Dartington."
+          }
+        ],
+        "en": [
+          {
+            "name": "The White Hart",
+            "tip": "Dine in historic Dartington."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deer Park",
+            "tip": "Friedliche Naturbegegnung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvaspark",
+            "tip": "Békés találkozás a természettel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul cu cerbi",
+            "tip": "Întâlnire pașnică cu natura.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Deer Park",
+            "tip": "Peaceful nature encounter.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dartington Shops",
+            "tip": "Hochwertiges Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dartington boltok",
+            "tip": "Minőségi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele Dartington",
+            "tip": "Artizanat de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dartington Shops",
+            "tip": "High-quality local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Wege sind nach Regen matschig.",
+          "Fahrradverleih am Bahnhof möglich.",
+          "Achten Sie auf Fußgänger am Dart."
+        ],
+        "hu": [
+          "Néhány út eső után sáros lehet.",
+          "Kerékpárkölcsönző a vasútnál.",
+          "Figyeljünk a gyalogosokra a Dart mentén."
+        ],
+        "ro": [
+          "Unele poteci sunt noroioase după ploaie.",
+          "Închiriere biciclete la gară.",
+          "Atenție la pietonii de pe Dart."
+        ],
+        "en": [
+          "Some paths can be muddy after rain.",
+          "Cycle hire available at the station.",
+          "Watch out for pedestrians by the Dart."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 28.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Totnes North Street Car Park",
+          "coords": [
+            -3.687,
+            50.432
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz.",
+            "hu": "Központi parkoló.",
+            "ro": "Parcare centrală.",
+            "en": "Central car park."
+          }
+        },
+        {
+          "name": "Totnes Castle",
+          "coords": [
+            -3.688,
+            50.432
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the car park."
+          }
+        },
+        {
+          "name": "The Narrows",
+          "coords": [
+            -3.688,
+            50.433
+          ],
+          "category": "shopping",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Charmante enge Gassen.",
+            "hu": "Bájos szűk utcácskák.",
+            "ro": "Străduțe înguste fermecătoare.",
+            "en": "Charming narrow streets."
+          }
+        },
+        {
+          "name": "Berry Pomeroy Castle",
+          "coords": [
+            -3.637,
+            50.449
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Romantische Ruine (Fahrt).",
+            "hu": "Romantikus rom (autóút).",
+            "ro": "Ruină romantică (cu mașina).",
+            "en": "Romantic ruin (drive away)."
+          }
+        },
+        {
+          "name": "Staverton Railway Station",
+          "coords": [
+            -3.712,
+            50.467
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nostalgischer Bahnhof.",
+            "hu": "Nosztalgikus vasútállomás.",
+            "ro": "Gară nostalgică.",
+            "en": "Nostalgic railway station."
+          }
+        },
+        {
+          "name": "Dartington Hall Gardens",
+          "coords": [
+            -3.705,
+            50.45
+          ],
+          "category": "park",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Herrliche Parkanlage.",
+            "hu": "Gyönyörű park.",
+            "ro": "Domeniu superb de parc.",
+            "en": "Magnificent parkland."
+          }
+        },
+        {
+          "name": "Totnes Riverside",
+          "coords": [
+            -3.681,
+            50.429
+          ],
+          "category": "port",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bootsanleger am Dart.",
+            "hu": "Hajókikötő a Dartnál.",
+            "ro": "Debarcader pe Dart.",
+            "en": "Boat quay on the Dart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Totnes und seine mystischen Nachbarn. Beginnen Sie in der Stadt und fahren Sie dann zum sagenumwobenen Berry Pomeroy Castle, das in einem einsamen Tal liegt.",
+        "hu": "Fedezze fel Totnest és misztikus szomszédait. Kezdjen a városban, majd autózzon el a legendás Berry Pomeroy várához, amely egy magányos völgyben fekszik.",
+        "ro": "Explorați Totnes și vecinii săi mistici. Începeți în oraș, apoi mergeți la legendarul Castel Berry Pomeroy, situat într-o vale solitară.",
+        "en": "Explore Totnes and its mystical neighbors. Start in town, then drive to the legendary Berry Pomeroy Castle, nestled in a lonely valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rumour",
+            "tip": "Modernes Essen in Totnes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rumour",
+            "tip": "Modern konyha Totnesben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rumour",
+            "tip": "Mâncare modernă în Totnes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rumour",
+            "tip": "Modern dining in Totnes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Berry Pomeroy Woods",
+            "tip": "Stille Wälder um die Burg.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berry Pomeroy erdők",
+            "tip": "Csendes erdők a vár körül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile Berry Pomeroy",
+            "tip": "Păduri liniștite în jurul castelului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Berry Pomeroy Woods",
+            "tip": "Quiet woods around the castle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steamer Quay Shops",
+            "tip": "Lokale Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steamer Quay boltok",
+            "tip": "Helyi ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele Steamer Quay",
+            "tip": "Suveniruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Steamer Quay Shops",
+            "tip": "Local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Enge Straßen in Berry Pomeroy.",
+          "Parkuhren akzeptieren Karten.",
+          "Die Burg ist angeblich verhext."
+        ],
+        "hu": [
+          "Szűk utak Berry Pomeroynál.",
+          "A parkolóórák kártyát is elfogadnak.",
+          "A vár állítólag elátkozott."
+        ],
+        "ro": [
+          "Drumuri înguste la Berry Pomeroy.",
+          "Parcarea acceptă cardul.",
+          "Se spune că castelul este bântuit."
+        ],
+        "en": [
+          "Narrow lanes in Berry Pomeroy.",
+          "Parking meters accept cards.",
+          "The castle is reputedly haunted."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Totnes Railway Station",
+          "coords": [
+            -3.693,
+            50.435
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ankunft per Zug.",
+            "hu": "Érkezés vonattal.",
+            "ro": "Sosire cu trenul.",
+            "en": "Arrival by train."
+          }
+        },
+        {
+          "name": "South Devon Railway",
+          "coords": [
+            -3.692,
+            50.435
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dampfzug-Erlebnis.",
+            "hu": "Gőzmozdonyos élmény.",
+            "ro": "Experiență cu trenul cu aburi.",
+            "en": "Steam train experience."
+          }
+        },
+        {
+          "name": "Town Centre Bus Stop",
+          "coords": [
+            -3.685,
+            50.431
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bus X38 hält hier.",
+            "hu": "Az X38-as busz itt áll meg.",
+            "ro": "Autobuzul X38 oprește aici.",
+            "en": "Bus X38 stops here."
+          }
+        },
+        {
+          "name": "Dartington Lane",
+          "coords": [
+            -3.7,
+            50.445
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spaziergang nach Dartington.",
+            "hu": "Séta Dartington felé.",
+            "ro": "Plimbare spre Dartington.",
+            "en": "Walk towards Dartington."
+          }
+        },
+        {
+          "name": "Vire Island Stop",
+          "coords": [
+            -3.681,
+            50.43
+          ],
+          "category": "park",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nahe dem Bootsanleger.",
+            "hu": "A hajókikötő közelében.",
+            "ro": "Lângă debarcader.",
+            "en": "Near the boat quay."
+          }
+        },
+        {
+          "name": "Coronation Road",
+          "coords": [
+            -3.683,
+            50.43
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Rückfahrt zum Bahnhof.",
+            "hu": "Visszautazás a vasúthoz.",
+            "ro": "Întoarcere la gară.",
+            "en": "Return to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie entspannt mit dem Zug nach Totnes. Die Stadt ist ein Knotenpunkt für Dampfzug-Enthusiasten und bietet gute Busverbindungen in die Umgebung.",
+        "hu": "Utazzon kényelmesen vonattal Totnesbe. A város a gőzvasút rajongóinak központja, és jó buszközlekedést kínál a környékre.",
+        "ro": "Călătoriți relaxat cu trenul spre Totnes. Orașul este un hub pentru pasionații de trenuri cu aburi și oferă legături bune cu autobuzul.",
+        "en": "Travel relaxed by train to Totnes. The town is a hub for steam train enthusiasts and offers good bus connections to the surrounding area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Willow Vegetarian",
+            "tip": "Legendäres vegetarisches Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Willow Vegetarian",
+            "tip": "Legendás vegetáriánus kávézó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Willow Vegetarian",
+            "tip": "Cafenea vegetariană legendară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Willow Vegetarian",
+            "tip": "Legendary vegetarian cafe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "River Dart Path",
+            "tip": "Friedlicher Weg am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dart folyóparti út",
+            "tip": "Békés út a víz mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca pe malul Dart",
+            "tip": "Cărare liniștită pe apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Dart Path",
+            "tip": "Peaceful waterside path.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Re-Store",
+            "tip": "Nachhaltige Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Re-Store",
+            "tip": "Fenntartható termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Re-Store",
+            "tip": "Produse sustenabile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Re-Store",
+            "tip": "Sustainable products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Dampfzugzeiten vorher prüfen.",
+          "Busse fahren oft stündlich.",
+          "Der Bahnhof liegt 10 Min. zu Fuß vom Zentrum."
+        ],
+        "hu": [
+          "Ellenőrizze a gőzvasút menetrendjét.",
+          "A buszok gyakran óránként járnak.",
+          "A vasút 10 perc séta a központtól."
+        ],
+        "ro": [
+          "Verificați orarul trenului cu aburi.",
+          "Autobuzele circulă adesea la oră.",
+          "Gara este la 10 min de mers pe jos."
+        ],
+        "en": [
+          "Check steam train times in advance.",
+          "Buses often run hourly.",
+          "The station is 10 min walk from center."
+        ]
+      }
+    }
+  }
+}

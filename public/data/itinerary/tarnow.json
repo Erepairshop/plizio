@@ -1,0 +1,1044 @@
+{
+  "city_id": "tarnow",
+  "anchor": {
+    "name": "Tarnów Rynek",
+    "coords": [
+      20.988,
+      50.012
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadtmarkt (Rynek)",
+            "hu": "Főtér (Rynek)",
+            "ro": "Piața Orașului Vechi (Rynek)",
+            "en": "Old Town Market Square (Rynek)"
+          },
+          "coords": [
+            20.9882,
+            50.0125
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Bürgerhäuser.",
+            "hu": "Csodálja meg a reneszánsz polgárházakat.",
+            "ro": "Admirați casele cetățenești renascentiste.",
+            "en": "Admire the beautiful Renaissance townhouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Tarnów",
+            "hu": "Tarnówi városháza",
+            "ro": "Primăria din Tarnów",
+            "en": "Tarnów Town Hall"
+          },
+          "coords": [
+            20.9885,
+            50.0122
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ausstellung im Inneren.",
+            "hu": "Látogassa meg a belső kiállítást.",
+            "ro": "Vizitați expoziția din interior.",
+            "en": "Visit the historical exhibition inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedralbasilika",
+            "hu": "Székesegyház bazilika",
+            "ro": "Bazilica Catedrală",
+            "en": "Cathedral Basilica"
+          },
+          "coords": [
+            20.9875,
+            50.0118
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Monumentale Grabmäler der Tarnowski-Familie.",
+            "hu": "A Tarnowski család monumentális síremlékei.",
+            "ro": "Monumente funerare monumentale ale familiei Tarnowski.",
+            "en": "Monumental tombstones of the Tarnowski family."
+          }
+        },
+        {
+          "name": {
+            "de": "Diözesanmuseum",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Muzeul Diecezan",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            20.9872,
+            50.0115
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das älteste Diözesanmuseum Polens.",
+            "hu": "Lengyelország legrégebbi egyházmegyei múzeuma.",
+            "ro": "Cel mai vechi muzeu diecezan din Polonia.",
+            "en": "The oldest diocesan museum in Poland."
+          }
+        },
+        {
+          "name": {
+            "de": "Bima der Alten Synagoge",
+            "hu": "A Régi Zsinagóga Bimája",
+            "ro": "Bima Vechii Sinagogi",
+            "en": "Bima of the Old Synagogue"
+          },
+          "coords": [
+            20.9915,
+            50.0135
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Mahnmal für das jüdische Erbe der Stadt.",
+            "hu": "A város zsidó örökségének mementója.",
+            "ro": "Monument comemorativ al moștenirii evreiești.",
+            "en": "Memorial to the city's Jewish heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum (Roma-Ausstellung)",
+            "hu": "Néprajzi Múzeum (Roma kiállítás)",
+            "ro": "Muzeul Etnografic (Expoziția Romilor)",
+            "en": "Ethnographic Museum (Roma Exhibition)"
+          },
+          "coords": [
+            20.9845,
+            50.0155
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Weltweit erste permanente Roma-Ausstellung.",
+            "hu": "A világ első állandó roma kiállítása.",
+            "ro": "Prima expoziție permanentă despre romi din lume.",
+            "en": "World's first permanent Roma exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Strzelecki-Park & Bem-Mausoleum",
+            "hu": "Strzelecki park és Bem-mauzóleum",
+            "ro": "Parcul Strzelecki și Mausoleul Bem",
+            "en": "Strzelecki Park & Bem Mausoleum"
+          },
+          "coords": [
+            20.9865,
+            50.0195
+          ],
+          "category": "park",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Das Mausoleum von General Bem steht im Teich.",
+            "hu": "Bem József mauzóleuma a tó közepén áll.",
+            "ro": "Mausoleul generalului Bem stă în mijlocul iazului.",
+            "en": "General Bem's mausoleum stands in the pond."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Tarnów, die 'Perle der Renaissance', empfängt Sie auf dem wunderschönen Altmarkt. Das prächtige Rathaus und die umliegenden Bürgerhäuser zeugen vom goldenen Zeitalter der Stadt. Ein kurzer Spaziergang führt Sie zur imposanten Kathedralbasilika.\n\nDer Vormittag steht ganz im Zeichen der Sakralkunst im ältesten Diözesanmuseum Polens. Danach erkunden Sie die bewegende Geschichte der jüdischen Gemeinde an der Bima der Alten Synagoge.\n\nAm Nachmittag tauchen Sie im Ethnographischen Museum in die faszinierende Kultur der Roma ein. Den Abschluss bildet ein Spaziergang im Strzelecki-Park, wo das außergewöhnliche Mausoleum des polnisch-ungarischen Helden Józef Bem zu bewundern ist.\n\nTarnów bietet eine einzigartige Mischung aus Renaissance-Architektur, tiefgreifender Geschichte und multikulturellem Erbe, alles eingebettet in eine entspannte Atmosphäre.",
+        "hu": "Tarnów, a 'reneszánsz gyöngyszeme', a lenyűgöző főtéren várja Önt. A pompás városháza és a polgárházak a város aranykorát idézik. Egy rövid séta után érheti el az impozáns székesegyházat.\n\nA délelőtt a szakrális művészeté Lengyelország legrégebbi egyházmegyei múzeumában. Ezután a város zsidó közösségének megrázó történetét ismerheti meg a Régi Zsinagóga megmaradt Bimájánál.\n\nDélután a Néprajzi Múzeumban a roma kultúra titkaiba pillanthat be. A napot a Strzelecki parkban zárjuk, ahol a lengyel-magyar hős, Bem József különleges mauzóleumát láthatjuk a tó közepén.\n\nTarnów a reneszánsz építészet, a mély történelem és a multikulturális örökség egyedülálló keverékét nyújtja, mindezt nyugodt környezetben.",
+        "ro": "Tarnów, supranumit 'perla Renașterii', vă întâmpină în frumoasa Piață a Orașului Vechi. Primăria splendidă și casele cetățenești din jur atestă epoca de aur a orașului. O scurtă plimbare vă duce la bazilica catedrală impunătoare.\n\nDimineața este dedicată artei sacre în cel mai vechi muzeu diecezan din Polonia. Apoi, explorați istoria emoționantă a comunității evreiești la Bima Vechii Sinagogi.\n\nDupă-amiaza, pătrundeți în cultura fascinantă a romilor la Muzeul Etnografic. Încheiați ziua cu o plimbare în parcul Strzelecki, unde puteți admira mausoleul neobișnuit al eroului polonezo-maghiar Józef Bem.\n\nTarnów oferă un amestec unic de arhitectură renascentistă, istorie profundă și moștenire multiculturală, totul într-o atmosferă relaxată.",
+        "en": "Tarnów, known as the 'Pearl of the Renaissance,' welcomes you at its beautiful Market Square. The magnificent Town Hall and surrounding townhouses reflect the city's golden age. A short walk leads to the impressive Cathedral Basilica.\n\nSpend your morning discovering sacred art at the oldest Diocesan Museum in Poland. Afterward, explore the poignant history of the Jewish community at the Bima of the Old Synagogue.\n\nIn the afternoon, immerse yourself in Roma culture at the Ethnographic Museum. Finish your day in Strzelecki Park, home to the unique mausoleum of the Polish-Hungarian hero Józef Bem.\n\nTarnów offers a unique blend of Renaissance architecture, profound history, and multicultural heritage, all within a relaxed atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tarnower Tee",
+            "tip": "Probieren Sie die lokalen Kräutermischungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarnówi tea",
+            "tip": "Kóstolja meg a helyi gyógynövénykeverékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceai de Tarnów",
+            "tip": "Încercați amestecurile locale de plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarnów Tea",
+            "tip": "Try the unique local herbal tea blends."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strzelecki-Park",
+            "tip": "Ruhiger Ort am Bem-Mausoleum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strzelecki park",
+            "tip": "Csendes pihenőhely a Bem-mauzóleumnál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Strzelecki",
+            "tip": "Loc liniștit lângă mausoleul lui Bem.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Strzelecki Park",
+            "tip": "Peaceful spot near the Bem Mausoleum.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionaler Wein",
+            "tip": "Tarnów ist das polnische Weinzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális borok",
+            "tip": "Tarnów a lengyel borászat központja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin regional",
+            "tip": "Tarnów este un centru viticol polonez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Wine",
+            "tip": "Tarnów is a key center for Polish winemaking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tarnów gilt als die wärmste Stadt Polens.",
+          "Die Altstadt ist perfekt für einen gemächlichen Spaziergang.",
+          "Achten Sie auf die Bem-Gedenkorte in der ganzen Stadt."
+        ],
+        "hu": [
+          "Tarnówot tartják Lengyelország legmelegebb városának.",
+          "Az óváros tökéletes egy kényelmes sétához.",
+          "Keresse Bem József emlékhelyeit szerte a városban."
+        ],
+        "ro": [
+          "Tarnów este considerat cel mai călduros oraș din Polonia.",
+          "Orașul vechi este perfect pentru o plimbare lentă.",
+          "Căutați locurile comemorative dedicate lui Bem în oraș."
+        ],
+        "en": [
+          "Tarnów is considered the warmest city in Poland.",
+          "The old town is perfect for a leisurely stroll.",
+          "Look for General Bem memorials throughout the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof Tarnów",
+            "hu": "Tarnówi főpályaudvar",
+            "ro": "Gara Centrală Tarnów",
+            "en": "Tarnów Main Station"
+          },
+          "coords": [
+            20.9785,
+            50.0065
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prachtvolles Gebäude im Jugendstil.",
+            "hu": "Pompás szecessziós stílusú épület.",
+            "ro": "Clădire splendidă în stil Art Nouveau.",
+            "en": "Splendid Art Nouveau building."
+          }
+        },
+        {
+          "name": {
+            "de": "Renaissance-Marktplatz",
+            "hu": "Reneszánsz főtér",
+            "ro": "Piața Renascentistă",
+            "en": "Renaissance Market Square"
+          },
+          "coords": [
+            20.9882,
+            50.0125
+          ],
+          "category": "square",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Altstadt vom Rad ab.",
+            "hu": "Az óvárosban toljuk a biciklit.",
+            "ro": "Coborâți de pe bicicletă în orașul vechi.",
+            "en": "Push your bike in the Old Town area."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanguszko-Palast & Park",
+            "hu": "Sanguszko-palota és park",
+            "ro": "Palatul și Parcul Sanguszko",
+            "en": "Sanguszko Palace & Park"
+          },
+          "coords": [
+            21.0095,
+            49.9925
+          ],
+          "category": "park",
+          "arrive_at": "10:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schöne Alleen zum Radfahren.",
+            "hu": "Szép fasorok a kerekezéshez.",
+            "ro": "Alei frumoase pentru ciclism.",
+            "en": "Beautiful alleys for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Strzelecki-Park",
+            "hu": "Strzelecki park",
+            "ro": "Parcul Strzelecki",
+            "en": "Strzelecki Park"
+          },
+          "coords": [
+            20.9865,
+            50.0195
+          ],
+          "category": "park",
+          "arrive_at": "12:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Ruhiger Park im Stadtzentrum.",
+            "hu": "Csendes park a városközpontban.",
+            "ro": "Parc liniștit în centrul orașului.",
+            "en": "Quiet park in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt-Mittagessen",
+            "hu": "Óvárosi ebéd",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Old Town Lunch"
+          },
+          "coords": [
+            20.9885,
+            50.0135
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Viele Plätze mit Fahrradständern.",
+            "hu": "Sok hely kerékpártárolóval.",
+            "ro": "Multe locuri cu rastele de biciclete.",
+            "en": "Many spots with bike racks available."
+          }
+        },
+        {
+          "name": {
+            "de": "Bima (Jüdisches Denkmal)",
+            "hu": "Bima (Zsidó emlékmű)",
+            "ro": "Bima (Monument Evreiesc)",
+            "en": "Bima (Jewish Memorial)"
+          },
+          "coords": [
+            20.9915,
+            50.0135
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kleiner Platz für einen kurzen Stopp.",
+            "hu": "Kis tér egy rövid megállóra.",
+            "ro": "Piață mică pentru o oprire scurtă.",
+            "en": "Small square for a quick stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Tarnów aktiv auf zwei Rädern! Starten Sie am prächtigen Bahnhof und fahren Sie zum Sanguszko-Palast am Stadtrand, umgeben von einem weitläufigen Park.\n\nDie Tour führt Sie zurück in den Strzelecki-Park und dann in die historische Altstadt. Mit dem Fahrrad erreichen Sie bequem die verschiedenen Grünanlagen und Kulturdenkmäler.\n\nNach einem Mittagessen im Zentrum erkunden Sie die Gassen des ehemaligen jüdischen Viertels. Die Radwege verbinden die Renaissance-Architektur mit den Vorstadtparks auf ideale Weise.\n\nGenießen Sie die Fahrt durch das 'polnische Italien' und lassen Sie sich von der charmanten Atmosphäre und dem sonnigen Wetter verzaubern.",
+        "hu": "Fedezze fel Tarnówot aktívan, két keréken! Kezdjen a pompás vasútállomásnál, majd tekerjen el a város szélén található Sanguszko-palotához, amelyet hatalmas park övez.\n\nA túra visszavezeti Önt a Strzelecki parkba, majd a történelmi óvárosba. Biciklivel kényelmesen elérheti a különböző zöldövezeteket és kulturális emlékhelyeket.\n\nEgy központi ebéd után fedezze fel az egykori zsidó negyed utcáit. A kerékpárutak ideálisan kötik össze a reneszánsz építészetet a külvárosi parkokkal.\n\nÉlvezze a gurulást a 'lengyel Itáliában', és hagyja, hogy elvarázsolja a hangulatos légkör és a napos időjárás.",
+        "ro": "Explorați Tarnów într-un mod activ, pe două roți! Începeți la gara splendidă și pedalați spre Palatul Sanguszko de la marginea orașului, înconjurat de un parc vast.\n\nTraseul vă readuce în parcul Strzelecki și apoi în orașul vechi istoric. Cu bicicleta puteți ajunge cu ușurință la diversele spații verzi și monumente culturale.\n\nDupă un prânz în centru, explorați străzile fostului cartier evreiesc. Pistele de biciclete conectează ideal arhitectura renascentistă cu parcurile suburbane.\n\nBucurați-vă de plimbare prin 'Italia poloneză' și lăsați-vă fermecați de atmosfera încântătoare și vremea însorită.",
+        "en": "Explore Tarnów actively on two wheels! Start at the grand station and ride to the Sanguszko Palace on the outskirts, surrounded by expansive parkland.\n\nThe tour leads you back to Strzelecki Park and then into the historic Old Town. A bike is perfect for reaching various green spaces and cultural landmarks comfortably.\n\nAfter a central lunch, explore the streets of the former Jewish quarter. The bike paths ideally connect Renaissance architecture with suburban parks.\n\nEnjoy the ride through 'Polish Italy' and let yourself be enchanted by the charming atmosphere and sunny weather."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eis in der Altstadt",
+            "tip": "Legendäre Eisdielen rund um den Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi fagylalt",
+            "tip": "Legendás fagyizók a főtér környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată în orașul vechi",
+            "tip": "Înghețate legendare în jurul pieței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Ice Cream",
+            "tip": "Legendary ice cream shops around the square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sanguszko-Park",
+            "tip": "Weitläufige Alleen für Ruhe Suchende.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sanguszko park",
+            "tip": "Tágas fasorok a nyugalomra vágyóknak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Sanguszko",
+            "tip": "Alei largi pentru cei ce caută liniștea.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanguszko Park",
+            "tip": "Expansive alleys for those seeking peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tarnower Handwerk",
+            "tip": "Kleine Galerien in der Wałowa-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarnówi kézművesség",
+            "tip": "Kis galériák a Wałowa utcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat de Tarnów",
+            "tip": "Mici galerii pe strada Wałowa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarnów Crafts",
+            "tip": "Small galleries located on Wałowa Street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Gelände um den Sanguszko-Palast ist leicht hügelig.",
+          "Tarnów hat ein gut ausgebautes Leihrad-System.",
+          "Tragen Sie in der prallen Sonne einen Helm."
+        ],
+        "hu": [
+          "A Sanguszko-palota környéke enyhén dombos.",
+          "Tarnów jó bérbicikli-rendszerrel rendelkezik.",
+          "A tűző napon viseljen sisakot."
+        ],
+        "ro": [
+          "Zona din jurul palatului Sanguszko este ușor deluroasă.",
+          "Tarnów are un sistem bun de biciclete de închiriat.",
+          "Purtați cască în zilele cu soare puternic."
+        ],
+        "en": [
+          "The terrain around Sanguszko Palace is slightly hilly.",
+          "Tarnów has a reliable bike-sharing system.",
+          "Wear a helmet, especially in the direct sun."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 26,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 16.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Renaissance-Altstadt (Cluster A)",
+            "hu": "Reneszánsz óváros (A klaszter)",
+            "ro": "Orașul Vechi Renascentist (Cluster A)",
+            "en": "Renaissance Old Town (Cluster A)"
+          },
+          "coords": [
+            20.9882,
+            50.0125
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parkhaus nahe der Altstadt nutzen.",
+            "hu": "Használja az óváros közeli parkolóházat.",
+            "ro": "Folosiți parcarea etajată de lângă centru.",
+            "en": "Use the parking garage near the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Museen (Cluster A)",
+            "hu": "Székesegyház és Múzeumok (A klaszter)",
+            "ro": "Catedrala și Muzeele (Cluster A)",
+            "en": "Cathedral & Museums (Cluster A)"
+          },
+          "coords": [
+            20.9875,
+            50.0118
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Alles zu Fuß im Zentrum erreichbar.",
+            "hu": "Minden gyalog elérhető a központban.",
+            "ro": "Toate siturile sunt accesibile pe jos în centru.",
+            "en": "Everything is walkable within the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanguszko-Palast (Cluster B)",
+            "hu": "Sanguszko-palota (B klaszter)",
+            "ro": "Palatul Sanguszko (Cluster B)",
+            "en": "Sanguszko Palace (Cluster B)"
+          },
+          "coords": [
+            21.0095,
+            49.9925
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz vorhanden.",
+            "hu": "Nagy ingyenes parkoló áll rendelkezésre.",
+            "ro": "Parcare mare gratuită disponibilă.",
+            "en": "Large free parking lot available."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Cluster B)",
+            "hu": "Ebéd (B klaszter)",
+            "ro": "Prânz (Cluster B)",
+            "en": "Lunch (Cluster B)"
+          },
+          "coords": [
+            20.9985,
+            50.0055
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Restaurants mit Parkmöglichkeiten bevorzugen.",
+            "hu": "Részesítse előnyben a parkolós éttermeket.",
+            "ro": "Preferați restaurantele cu locuri de parcare.",
+            "en": "Prefer restaurants with parking facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Strzelecki-Park (Cluster C)",
+            "hu": "Strzelecki park (C klaszter)",
+            "ro": "Parcul Strzelecki (Cluster C)",
+            "en": "Strzelecki Park (Cluster C)"
+          },
+          "coords": [
+            20.9865,
+            50.0195
+          ],
+          "category": "park",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Parken in den umliegenden Straßen möglich.",
+            "hu": "Parkolás a környező utcákban lehetséges.",
+            "ro": "Parcare posibilă pe străzile din jur.",
+            "en": "Parking possible in the surrounding streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Tarnów bequem mit dem Auto und entdecken Sie die Highlights der Stadt! Beginnen Sie im historischen Kern (Cluster A), wo Sie Renaissance-Architektur und bedeutende Museen zu Fuß erkunden.\n\nEin kurzer Transfer bringt Sie zum Sanguszko-Palast (Cluster B) am Stadtrand. Hier genießen Sie die Ruhe des Parks und die barocke Architektur, bevor Sie in der Nähe zu Mittag essen.\n\nAm Nachmittag führt die Fahrt zum Strzelecki-Park (Cluster C) für einen entspannten Spaziergang zum Bem-Mausoleum. Das Auto ermöglicht Ihnen den schnellen Wechsel zwischen den kulturellen Polen der Stadt.\n\nTarnów bietet gute Parkmöglichkeiten an den Hauptattraktionen, was die Erkundung der 'Perle der Renaissance' sehr angenehm macht.",
+        "hu": "Fedezze fel Tarnówot kényelmesen autóval, bejárva a város legfontosabb pontjait! Kezdjen a történelmi belvárosban (A klaszter), ahol a reneszánsz építészetet és a múzeumokat gyalogosan fedezheti fel.\n\nEgy rövid autózás után érkezik a Sanguszko-palotához (B klaszter) a város szélén. Itt élvezheti a park nyugalmát és a barokk építészetet, majd a közelben ebédelhet.\n\nDélután az út a Strzelecki parkhoz vezet (C klaszter) egy pihentető sétára a Bem-mauzóleumig. Az autó lehetővé teszi a gyors váltást a város kulturális pólusai között.\n\nTarnów jó parkolási lehetőségeket kínál a fő látnivalóknál, így a 'reneszánsz gyöngyszeme' kényelmesen bejárható.",
+        "ro": "Explorați Tarnów în confortul mașinii și descoperiți atracțiile principale ale orașului! Începeți în centrul istoric (Cluster A), unde puteți explora arhitectura renascentistă și muzeele la pas.\n\nO scurtă deplasare vă duce la Palatul Sanguszko (Cluster B) la marginea orașului. Aici vă bucurați de liniștea parcului și de arhitectura barocă înainte de prânz.\n\nDupă-amiaza, conduceți spre parcul Strzelecki (Cluster C) pentru o plimbare relaxantă la mausoleul Bem. Mașina vă permite să schimbați rapid locațiile între polii culturali ai orașului.\n\nTarnów oferă condiții bune de parcare la atracțiile principale, ceea ce face explorarea 'perlei Renașterii' foarte plăcută.",
+        "en": "Discover Tarnów comfortably by car and visit the city's highlights! Start in the historic center (Cluster A), exploring Renaissance architecture and major museums on foot.\n\nA short transfer takes you to the Sanguszko Palace (Cluster B) on the outskirts. Here, enjoy the peaceful park and Baroque architecture before having lunch nearby.\n\nIn the afternoon, drive to Strzelecki Park (Cluster C) for a relaxing stroll to the Bem Mausoleum. The car allows for quick transitions between the city's cultural hubs.\n\nTarnów offers good parking facilities at its main attractions, making your visit to the 'Pearl of the Renaissance' very enjoyable."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja Pasaż",
+            "tip": "Traditionelle Küche mit einfachem Zugang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restauracja Pasaż",
+            "tip": "Hagyományos konyha könnyű megközelíthetőséggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restauracja Pasaż",
+            "tip": "Bucătărie tradițională cu acces facil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restauracja Pasaż",
+            "tip": "Traditional cuisine with easy access."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palastgarten",
+            "tip": "Idyllischer Ort abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palotakert",
+            "tip": "Idilli hely távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Palatului",
+            "tip": "Loc idilic departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Garden",
+            "tip": "Idyllic spot away from the city hustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gemini Park Tarnów",
+            "tip": "Großes Einkaufszentrum mit vielen Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gemini Park Tarnów",
+            "tip": "Nagy bevásárlóközpont sok parkolóhellyel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gemini Park Tarnów",
+            "tip": "Centru comercial mare cu multe locuri de parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gemini Park Tarnów",
+            "tip": "Large shopping mall with ample parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkzone in der Altstadt ist kostenpflichtig.",
+          "Nutzen Sie die Schnellstraße für den Weg zum Palast.",
+          "Tarnów ist sonntags oft sehr ruhig, ideal für Fotos."
+        ],
+        "hu": [
+          "Az óvárosi parkolási zóna díjköteles.",
+          "Használja a gyorsforgalmi utat a palotához.",
+          "Tarnów vasárnap nagyon csendes, ideális fotózáshoz."
+        ],
+        "ro": [
+          "Zona de parcare din orașul vechi este cu plată.",
+          "Folosiți drumul rapid pentru a ajunge la palat.",
+          "Tarnów este foarte liniștit duminica, ideal pentru poze."
+        ],
+        "en": [
+          "The parking zone in the Old Town requires a fee.",
+          "Use the expressway for a faster route to the palace.",
+          "Tarnów is often very quiet on Sundays, perfect for photos."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 16,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Tarnów (Transit Hub)",
+            "hu": "Tarnówi állomás (közlekedési csomópont)",
+            "ro": "Gara Tarnów (Nod de tranzit)",
+            "en": "Tarnów Station (Transit Hub)"
+          },
+          "coords": [
+            20.9785,
+            50.0065
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hauptknotenpunkt für alle Stadtlinien.",
+            "hu": "Minden városi járat legfontosabb csomópontja.",
+            "ro": "Nodul principal pentru toate liniile urbane.",
+            "en": "Key hub for all city bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (District A)",
+            "hu": "Óváros (A körzet)",
+            "ro": "Orașul Vechi (District A)",
+            "en": "Old Town (District A)"
+          },
+          "coords": [
+            20.9882,
+            50.0125
+          ],
+          "category": "square",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Viele Linien (z.B. 0, 9) fahren zum Zentrum.",
+            "hu": "Számos járat (pl. 0, 9) visz a központba.",
+            "ro": "Multe linii (ex. 0, 9) merg spre centru.",
+            "en": "Many lines (e.g., 0, 9) head to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Erbe (District A)",
+            "hu": "Zsidó örökség (A körzet)",
+            "ro": "Moștenirea Evreiască (District A)",
+            "en": "Jewish Heritage (District A)"
+          },
+          "coords": [
+            20.9915,
+            50.0135
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Markt erreichbar.",
+            "hu": "Gyalogosan elérhető a főtérről.",
+            "ro": "Accesibil pe jos din piață.",
+            "en": "Within walking distance from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Strzelecki-Park (District B)",
+            "hu": "Strzelecki park (B körzet)",
+            "ro": "Parcul Strzelecki (District B)",
+            "en": "Strzelecki Park (District B)"
+          },
+          "coords": [
+            20.9865,
+            50.0195
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Busse halten an der Słowackiego-Straße.",
+            "hu": "A buszok a Słowacki utcában állnak meg.",
+            "ro": "Autobuzele opresc pe strada Słowackiego.",
+            "en": "Buses stop at Słowackiego Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (District B)",
+            "hu": "Ebéd (B körzet)",
+            "ro": "Prânz (District B)",
+            "en": "Lunch (District B)"
+          },
+          "coords": [
+            20.9845,
+            50.0155
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Restaurants nahe dem Ethnographischen Museum.",
+            "hu": "Éttermek a Néprajzi Múzeum közelében.",
+            "ro": "Restaurante lângă Muzeul Etnografic.",
+            "en": "Restaurants near the Ethnographic Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Wałowa-Promenade (District C)",
+            "hu": "Wałowa sétány (C körzet)",
+            "ro": "Promenada Wałowa (District C)",
+            "en": "Wałowa Promenade (District C)"
+          },
+          "coords": [
+            20.9905,
+            50.0132
+          ],
+          "category": "square",
+          "arrive_at": "15:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Flaniermeile der Stadt.",
+            "hu": "A város legnépszerűbb korzója.",
+            "ro": "Cea mai populară alee pietonală a orașului.",
+            "en": "The city's most popular walking promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Tarnów mit dem gut ausgebauten Busnetz! Starten Sie am prachtvollen Hauptbahnhof und nehmen Sie einen der zahlreichen Busse in den historischen Kern (District A). Hier liegen Rathaus, Kathedrale und Synagoge nah beieinander.\n\nInnerhalb der Bezirke ist alles fußläufig erreichbar. Ein kurzer Transfer bringt Sie in den District B zum Strzelecki-Park und zum Ethnographischen Museum. Die Busse verkehren in kurzen Takten.\n\nZum Abschluss genießen Sie das städtische Leben an der Wałowa-Promenade (District C), bevor Sie bequem zum Bahnhof zurückkehren.\n\nDer öffentliche Nahverkehr ist in Tarnów die ideale Wahl, um Geschichte und Alltag der Stadt ohne Parkplatzsuche zu erleben.",
+        "hu": "Fedezze fel Tarnówot a jól kiépített buszhálózattal! Kezdjen a pompás főpályaudvarnál, majd szálljon fel az egyik járatra a történelmi mag felé (A körzet). Itt a városháza, a székesegyház és a zsinagóga sétatávolságra van.\n\nA körzeteken belül minden gyalog elérhető. Egy rövid buszos szakasz után érkezik a B körzetbe, a Strzelecki parkhoz és a Néprajzi Múzeumhoz. A járatok gyakran közlekednek.\n\nA túrát a Wałowa sétányon (C körzet) zárjuk, élvezve a városi pezsgést, mielőtt visszatérnénk az állomásra.\n\nA tömegközlekedés Tarnówban ideális választás a történelem és a mindennapok megismeréséhez, parkolási gondok nélkül.",
+        "ro": "Explorați Tarnów cu ajutorul rețelei de autobuze bine pusă la punct! Începeți la gara centrală splendidă și luați unul dintre numeroasele autobuze spre nucleul istoric (District A). Aici, primăria, catedrala și sinagoga sunt la mică distanță.\n\nÎn interiorul districtelor, totul este accesibil pe jos. Un tranzit scurt vă duce în districtul B, la parcul Strzelecki și Muzeul Etnografic. Autobuzele circulă la intervale scurte.\n\nFinalizați turul bucurându-vă de viața urbană pe promenada Wałowa (District C), înainte de a reveni confortabil la gară.\n\nTransportul public în Tarnów este alegerea ideală pentru a experimenta istoria și viața cotidiană a orașului fără grija parcării.",
+        "en": "Explore Tarnów using the city's efficient bus network! Start at the grand Main Station and take one of the many buses to the historic core (District A). Here, the Town Hall, Cathedral, and Synagogue are within easy walking distance.\n\nWithin the districts, everything is reachable on foot. A quick transit takes you to District B, home to Strzelecki Park and the Ethnographic Museum. Buses run at frequent intervals.\n\nFinish your tour by enjoying city life at the Wałowa Promenade (District C) before heading back to the station.\n\nPublic transit in Tarnów is the ideal choice for experiencing the city's history and daily life without the hassle of finding parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosk-Snacks",
+            "tip": "Schnelle lokale Kleinigkeiten an den Haltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé-falatok",
+            "tip": "Gyors helyi falatok a megállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări la chioșc",
+            "tip": "Mici gustări locale rapide în stații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk Snacks",
+            "tip": "Quick local snacks available near bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofswartesaal",
+            "tip": "Architektonisch beeindruckende Ruhezone.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási váróterem",
+            "tip": "Építészetileg lenyűgöző csendes zóna.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sala de așteptare din gară",
+            "tip": "Zonă de liniște impresionantă arhitectural.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Waiting Room",
+            "tip": "An architecturally stunning quiet zone.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bücherläden Wałowa",
+            "tip": "Traditionelle Buchhandlungen im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wałowa könyvesboltok",
+            "tip": "Hagyományos könyvesüzletek a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librării pe Wałowa",
+            "tip": "Librării tradiționale în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wałowa Bookshops",
+            "tip": "Traditional bookshops in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Kontaktlos-Zahlung im Bus.",
+          "Die Linie 9 verbindet den Bahnhof mit dem Markt.",
+          "Aushangfahrpläne sind sehr zuverlässig."
+        ],
+        "hu": [
+          "Használja az érintéses fizetést a buszokon.",
+          "A 9-es járat összeköti az állomást a főtérrel.",
+          "A kihelyezett menetrendek megbízhatóak."
+        ],
+        "ro": [
+          "Folosiți plata contactless în autobuz.",
+          "Linia 9 conectează gara de piața centrală.",
+          "Orarele afișate sunt foarte de încredere."
+        ],
+        "en": [
+          "Use contactless payment directly on the bus.",
+          "Bus line 9 connects the station with the Market Square.",
+          "Posted timetables are very reliable."
+        ]
+      }
+    }
+  }
+}

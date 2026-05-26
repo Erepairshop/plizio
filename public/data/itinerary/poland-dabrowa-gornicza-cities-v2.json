@@ -1,0 +1,564 @@
+{
+  "city_id": "poland-dabrowa-gornicza-cities-v2",
+  "anchor": {
+    "name": "Pałac Kultury Zagłębia, Dąbrowa Górnicza",
+    "coords": [
+      19.1925,
+      50.3202
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturpalast Zagłębie",
+            "hu": "Zagłębie Kultúrpalota",
+            "ro": "Palatul Culturii Zagłębie",
+            "en": "Palace of Culture of Zagłębie"
+          },
+          "coords": [
+            19.1928,
+            50.3205
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prachtvolles Beispiel des sozialistischen Realismus.",
+            "hu": "A szocialista realizmus pompás példája.",
+            "ro": "Un exemplu magnific de realism socialist.",
+            "en": "A grand example of Socialist Realism architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Hallera",
+            "hu": "Haller park",
+            "ro": "Parcul Haller",
+            "en": "Haller Park"
+          },
+          "coords": [
+            19.1955,
+            50.3225
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentraler Park mit Spazierwegen.",
+            "hu": "Központi park sétautakkal.",
+            "ro": "Parc central cu alei pentru plimbare.",
+            "en": "Central city park with pleasant walking paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Neo-gotische Basilika",
+            "hu": "Neogótikus bazilika",
+            "ro": "Bazilica Neogotică",
+            "en": "Neo-Gothic Basilica"
+          },
+          "coords": [
+            19.1902,
+            50.3182
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentrum der Marienverehrung im Bergbaugebiet.",
+            "hu": "A bányavidék Mária-tiszteletének központja.",
+            "ro": "Centrul venerației mariane din regiunea minieră.",
+            "en": "Center of Marian devotion in the mining district."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum 'Sztygarka'",
+            "hu": "Sztygarka Városi Múzeum",
+            "ro": "Muzeul Municipal Sztygarka",
+            "en": "City Museum 'Sztygarka'"
+          },
+          "coords": [
+            19.1855,
+            50.3252
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "In einer ehemaligen Bergbauschule untergebracht.",
+            "hu": "Egy egykori bányásziskola épületében található.",
+            "ro": "Situat în clădirea unei foste școli miniere.",
+            "en": "Housed in a former historic mining school."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            19.1915,
+            50.3212
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie schlesische Rouladen.",
+            "hu": "Kóstolja meg a sziléziai marharoládot.",
+            "ro": "Gustați rulada sileziană tradițională.",
+            "en": "Try the traditional Silesian beef roulade."
+          }
+        },
+        {
+          "name": {
+            "de": "Zielona Park",
+            "hu": "Zielona park",
+            "ro": "Parcul Zielona",
+            "en": "Zielona Park"
+          },
+          "coords": [
+            19.1825,
+            50.3325
+          ],
+          "category": "park",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Großer Park mit Eichenbestand und See.",
+            "hu": "Hatalmas park öreg tölgyekkel és tóval.",
+            "ro": "Parc vast cu stejari seculari și un lac.",
+            "en": "Large park with ancient oaks and a lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag beim imposanten Kulturpalast, einem Denkmal des Sozialistischen Realismus. Nach einem Spaziergang durch den Haller-Park besuchen Sie die neogotische Basilika, ein Wahrzeichen der Stadt. Mittags tauchen Sie im Museum 'Sztygarka' in die Bergbautraditionen ein und stärken sich danach in einem der Restaurants im Zentrum. Den Nachmittag verbringen Sie in der Ruhe des Zielona-Parks, der grünen Lunge von Dąbrowa Górnicza.",
+        "hu": "A napot a monumentális Kultúrpalotánál kezdjük, amely a szocialista realizmus építészetének remeke. A Haller-parki séta után a neogótikus bazilika belső terét fedezzük fel. Délben a 'Sztygarka' múzeumban ismerkedünk a bányászati múlttal, majd a belvárosban ebédelünk. A délutánt a Zielona park nyugalmában töltjük, amely a város egyik legkedveltebb pihenőhelye.",
+        "ro": "Începeți ziua la impunătorul Palat al Culturii, un monument al realismului socialist. După o plimbare prin Parcul Haller, vizitați bazilica neogotică, simbolul spiritual al orașului. La prânz, explorați tradițiile miniere la muzeul 'Sztygarka', urmat de o masă în centru. După-amiaza este dedicată relaxării în Parcul Zielona, plămânul verde al orașului Dąbrowa Górnicza.",
+        "en": "Start your day at the imposing Palace of Culture, a prime example of Socialist Realism. After a walk through Haller Park, visit the Neo-Gothic basilica, a landmark of the city. Spend midday at the 'Sztygarka' museum learning about local mining traditions, followed by a hearty lunch in the center. End your afternoon in the peaceful Zielona Park, the green heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja Zagłębie Smaku",
+            "tip": "Moderne Interpretation lokaler Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restauracja Zagłębie Smaku",
+            "tip": "A helyi specialitások modern változatai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restauracja Zagłębie Smaku",
+            "tip": "Interpretare modernă a specialităților locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zagłębie Smaku",
+            "tip": "Modern takes on traditional regional dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pogoria III See",
+            "tip": "Ruhiger Strandspaziergang am Seeufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pogoria III tó",
+            "tip": "Csendes strandmenti séta a tóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Pogoria III",
+            "tip": "Plimbare liniștită pe malul lacului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pogoria III Lake",
+            "tip": "Quiet stroll along the lake's sandy shore.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centrum Handlowe Pogoria",
+            "tip": "Zentral gelegenes Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pogoria bevásárlóközpont",
+            "tip": "Központi fekvésű bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Pogoria",
+            "tip": "Centru comercial situat central."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pogoria Shopping Mall",
+            "tip": "Main shopping centre in the city heart."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Kulturpalast bietet oft Führungen durch seine Prachtsäle an.",
+          "Nutzen Sie die Spazierwege im Zielona-Park für kühle Schattenplätze.",
+          "Besuchen Sie die Basilika außerhalb der Gottesdienstzeiten."
+        ],
+        "hu": [
+          "A Kultúrpalotában gyakran tartanak vezetett túrákat a dísztermekben.",
+          "A Zielona park árnyas ösvényei kiválóak a nyári hőségben.",
+          "A bazilikát a szertartásokon kívüli időben látogassa."
+        ],
+        "ro": [
+          "Palatul Culturii oferă adesea tururi ghidate în sălile sale.",
+          "Folosiți potecile din Parcul Zielona pentru zone umbrite răcoroase.",
+          "Vizitați bazilica în afara orelor de slujbă."
+        ],
+        "en": [
+          "Check for guided tours at the Palace of Culture's grand halls.",
+          "The leafy paths in Zielona Park are perfect for a cool walk.",
+          "Visit the basilica outside of scheduled mass times."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Antonius Kirche (Gołonóg)",
+            "hu": "Páduai Szent Antal templom (Gołonóg)",
+            "ro": "Biserica Sf. Anton (Gołonóg)",
+            "en": "St. Anthony Church (Gołonóg)"
+          },
+          "coords": [
+            19.2452,
+            50.3385
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Barockkirche auf einem Hügel mit tollem Ausblick.",
+            "hu": "Barokk templom a dombtetőn, remek kilátással.",
+            "ro": "Biserică barocă pe deal cu o priveliște superbă.",
+            "en": "Baroque church on a hill with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Błędów-Wüste",
+            "hu": "Błędówi-sivatag",
+            "ro": "Deșertul Błędów",
+            "en": "Błędów Desert"
+          },
+          "coords": [
+            19.5125,
+            50.3452
+          ],
+          "category": "park",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Größte Wüstenlandschaft Mitteleuropas.",
+            "hu": "Közép-Európa legnagyobb sivatagi területe.",
+            "ro": "Cea mai mare zonă de deșert din Europa Centrală.",
+            "en": "The largest desert area in Central Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Pogoria III See",
+            "hu": "Pogoria III tó",
+            "ro": "Lacul Pogoria III",
+            "en": "Pogoria III Lake"
+          },
+          "coords": [
+            19.2155,
+            50.3482
+          ],
+          "category": "lake",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zentrum für Wassersport und Erholung.",
+            "hu": "Vízisport- és rekreációs központ.",
+            "ro": "Centru pentru sporturi nautice și recreere.",
+            "en": "Center for water sports and recreation."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tóparton",
+            "ro": "Prânz pe malul lacului",
+            "en": "Lunch by the Lake"
+          },
+          "coords": [
+            19.2185,
+            50.3475
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Frischer Fisch oder lokale Spezialitäten.",
+            "hu": "Friss hal vagy helyi specialitások.",
+            "ro": "Pește proaspăt sau specialități locale.",
+            "en": "Enjoy fresh fish or local delicacies."
+          }
+        },
+        {
+          "name": {
+            "de": "Zielona Park",
+            "hu": "Zielona park",
+            "ro": "Parcul Zielona",
+            "en": "Zielona Park"
+          },
+          "coords": [
+            19.1825,
+            50.3325
+          ],
+          "category": "park",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Wunderschöner Landschaftspark.",
+            "hu": "Gyönyörű tájképi park.",
+            "ro": "Parc peisagistic minunat.",
+            "en": "Beautiful landscape park with old oaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturpalast Zagłębie",
+            "hu": "Zagłębie Kultúrpalota",
+            "ro": "Palatul Culturii Zagłębie",
+            "en": "Palace of Culture of Zagłębie"
+          },
+          "coords": [
+            19.1925,
+            50.3202
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Architektur-Highlight im Stadtzentrum.",
+            "hu": "Építészeti csúcspont a városközpontban.",
+            "ro": "Punct culminant arhitectural în centrul orașului.",
+            "en": "Architectural highlight in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterirdische Lehrgrube",
+            "hu": "Földalatti bányászati tanbánya",
+            "ro": "Mină școală subterană",
+            "en": "Underground Training Mine"
+          },
+          "coords": [
+            19.1852,
+            50.3255
+          ],
+          "category": "museum",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einzigartiger Einblick in die Bergbauarbeit.",
+            "hu": "Egyedülálló betekintés a bányászmunkába.",
+            "ro": "O perspectivă unică asupra muncii miniere.",
+            "en": "A unique look at actual mining work."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakulärsten Orte der Umgebung. Vormittags genießen Sie den Ausblick vom Gołonóg-Hügel und fahren dann zur einzigartigen Błędów-Wüste. Mittags entspannen Sie an den Pogoria-Seen, wo Sie auch zu Mittag essen können. Den Nachmittag verbringen Sie zwischen dem Zielona-Park und dem Stadtzentrum, wo Sie den monumentalen Kulturpalast und die faszinierende unterirdische Lehrgrube besuchen.",
+        "hu": "Autóval elérhetővé válnak a környék legkülönlegesebb pontjai. Délelőtt a Gołonóg-dombról tekintünk körbe, majd az egyedülálló Błędówi-sivataghoz autózunk. Délben a Pogoria-tavaknál pihenünk, ahol ebédre is lehetőség van. A délutánt a Zielona park és a belváros között osztjuk meg, megtekintve a monumentális Kultúrpalotát és a lenyűgöző földalatti tanbányát.",
+        "ro": "Cu mașina puteți ajunge la cele mai spectaculoase locuri din împrejurimi. Dimineața admirați vederea de pe dealul Gołonóg, apoi conduceți spre unicul deșert Błędów. La prânz vă relaxați la lacurile Pogoria, unde puteți și lua masa. După-amiaza este împărțită între Parcul Zielona și centrul orașului, vizitând impunătorul Palat al Culturii și fascinanta mină școală subterană.",
+        "en": "A car gives you access to the most unique spots in the region. Start with the views from Gołonóg Hill before driving to the one-of-a-kind Błędów Desert. Spend your midday by the Pogoria Lakes for relaxation and lunch. In the afternoon, explore Zielona Park and the city center, finishing with the monumental Palace of Culture and the fascinating underground training mine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smażalnia Ryb Pogoria",
+            "tip": "Frisch zubereiteter Fisch direkt am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smażalnia Ryb Pogoria",
+            "tip": "Frissen sült halak közvetlenül a tóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smażalnia Ryb Pogoria",
+            "tip": "Pește proaspăt gătit chiar lângă lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smażalnia Ryb Pogoria",
+            "tip": "Freshly fried fish right by the lakeside."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pustynia Błędowska",
+            "tip": "Weite und Stille in der Dünenlandschaft.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Błędówi-sivatag",
+            "tip": "Csend és végtelenség a homokdűnék között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Deșertul Błędów",
+            "tip": "Liniște și spațiu vast în dunele de nisip.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Błędów Desert",
+            "tip": "Silence and vast space among the sand dunes.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalne targowisko w Gołonogu",
+            "tip": "Regionale Produkte auf dem lokalen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac Gołonógban",
+            "tip": "Regionális termékek a helyi piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală din Gołonóg",
+            "tip": "Produse regionale în piața locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market in Gołonóg",
+            "tip": "Find regional products at the local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Für die Błędów-Wüste ist festes Schuhwerk ratsam.",
+          "Die Parkplätze am Pogoria III See sind an Sonnentagen schnell voll.",
+          "Buchen Sie die Minenführung im Voraus."
+        ],
+        "hu": [
+          "A Błędówi-sivataghoz zárt, kényelmes cipő ajánlott.",
+          "A Pogoria III tó parkolói napsütéses napokon gyorsan betelnek.",
+          "A bányatúrát érdemes előre lefoglalni."
+        ],
+        "ro": [
+          "Pentru deșertul Błędów se recomandă încălțăminte închisă.",
+          "Parcările de la lacul Pogoria III se umplu rapid în zilele însorite.",
+          "Rezervați turul minei în avans."
+        ],
+        "en": [
+          "Wear sturdy shoes if you plan to walk in the Błędów Desert.",
+          "Parking at Pogoria III Lake fills up fast on sunny days.",
+          "It is best to book the training mine tour in advance."
+        ]
+      }
+    }
+  }
+}

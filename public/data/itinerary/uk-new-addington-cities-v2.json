@@ -1,0 +1,906 @@
+{
+  "city_id": "uk-new-addington-cities-v2",
+  "anchor": {
+    "name": "New Addington",
+    "coords": [
+      -0.016,
+      51.345
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Central Parade",
+          "coords": [
+            -0.017,
+            51.346
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt für frische lokale Produkte.",
+            "hu": "Látogass el a piacra friss helyi termékekért.",
+            "ro": "Vizitați piața pentru produse locale proaspete.",
+            "en": "Visit the weekly market for fresh local produce."
+          }
+        },
+        {
+          "name": "Addington Hills Viewpoint",
+          "coords": [
+            -0.052,
+            51.355
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick über die Skyline Londons.",
+            "hu": "Élvezd a pazar kilátást London felhőkarcolóira.",
+            "ro": "Bucurați-vă de panorama asupra orizontului Londrei.",
+            "en": "Enjoy the expansive views over the London skyline."
+          }
+        },
+        {
+          "name": "Coombe Wood",
+          "coords": [
+            -0.061,
+            51.351
+          ],
+          "category": "garden",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel mit wunderschönen Ziergärten.",
+            "hu": "Rejtett kincs gyönyörű díszkertekkel.",
+            "ro": "O bijuterie ascunsă cu grădini ornamentale superbe.",
+            "en": "A hidden gem with beautiful ornamental gardens."
+          }
+        },
+        {
+          "name": "The Coach House Cafe",
+          "coords": [
+            -0.061,
+            51.351
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Afternoon Tea im Garten.",
+            "hu": "Tökéletes hely egy délutáni teához a kertben.",
+            "ro": "Locul perfect pentru un ceai de după-amiază în grădină.",
+            "en": "Perfect spot for an afternoon tea in the garden."
+          }
+        },
+        {
+          "name": "Lloyd Park",
+          "coords": [
+            -0.066,
+            51.357
+          ],
+          "category": "park",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Großer Park mit Sportanlagen und Cafés.",
+            "hu": "Hatalmas park sportpályákkal és kávézókkal.",
+            "ro": "Parc mare cu facilități sportive și cafenele.",
+            "en": "Large park with sports facilities and cafes."
+          }
+        },
+        {
+          "name": "Bramley Bank",
+          "coords": [
+            -0.045,
+            51.348
+          ],
+          "category": "forest",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein altes Waldgebiet, ideal für Naturbeobachtungen.",
+            "hu": "Ősi erdőterület, ideális természetmegfigyelésre.",
+            "ro": "O zonă forestieră veche, ideală pentru observarea naturii.",
+            "en": "Ancient woodland area, ideal for nature spotting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die grüne Seite von New Addington bei dieser Wanderung. Nach einem Start auf der Central Parade führen Sie Waldwege zu den Addington Hills mit Panoramablick. Entspannen Sie in den Coombe Wood Gärten und beenden Sie Ihren Tag in der Ruhe von Bramley Bank, weit weg vom Londoner Trubel.",
+        "hu": "Fedezze fel New Addington zöld oldalát ezen a gyalogtúrán. A Central Parade után erdei ösvények vezetnek az Addington Hills kilátóhoz. Pihenjen meg a Coombe Wood kertekben, majd zárja a napot a Bramley Bank erdő csendjében, távol London zajától.",
+        "ro": "Descoperiți latura verde a zonei New Addington în această drumeție. După plecarea de la Central Parade, potecile vă duc spre Addington Hills pentru panorame superbe. Relaxați-vă în grădinile Coombe Wood și încheiați ziua în liniștea pădurii Bramley Bank.",
+        "en": "Discover the green side of New Addington on this walk. Starting at Central Parade, woodland paths lead you to the Addington Hills for panoramic views. Relax in the Coombe Wood gardens and end your day in the tranquility of Bramley Bank, far from London's bustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Coach House Cafe",
+            "tip": "Charmantes Café in den Gärten von Coombe Wood."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Coach House Cafe",
+            "tip": "Bájos kávézó a Coombe Wood kertjeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Coach House Cafe",
+            "tip": "Cafenea fermecătoare în grădinile Coombe Wood."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Coach House Cafe",
+            "tip": "Charming cafe located within Coombe Wood gardens."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Addington Hills",
+            "tip": "Friedlicher Blick über die weite Heide.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Addington Hills",
+            "tip": "Békés kilátás a tágas hangafenyéresre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Addington Hills",
+            "tip": "Liniște deplină peste dealurile întinse.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Addington Hills",
+            "tip": "Peaceful views over the vast heathland.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Central Parade Market",
+            "tip": "Traditioneller Markt mit lokalem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Central Parade Market",
+            "tip": "Hagyományos piac helyi hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Central Parade Market",
+            "tip": "Piață tradițională cu farmec local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Parade Market",
+            "tip": "Traditional market with a local community feel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Waldwege können nach Regen schlammig sein.",
+          "Die Aussicht von Addington Hills ist bei Sonnenuntergang am besten.",
+          "Packen Sie Wasser und Snacks für die Wanderungen ein."
+        ],
+        "hu": [
+          "Az erdei utak eső után sarasak lehetnek.",
+          "Addington Hills-nél a kilátás naplementekor a legszebb.",
+          "Vigyél vizet és rágcsálnivalót a túrához."
+        ],
+        "ro": [
+          "Unele poteci pot fi noroioase după ploaie.",
+          "Vederile din Addington Hills sunt superbe la apus.",
+          "Luați apă și gustări pentru traseele de drumeție."
+        ],
+        "en": [
+          "Some woodland paths can be muddy after rain.",
+          "The views from Addington Hills are best at sunset.",
+          "Pack water and snacks for the longer walks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 15.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Central Parade",
+          "coords": [
+            -0.017,
+            51.346
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt mit guten Versorgungsmöglichkeiten.",
+            "hu": "Kiindulópont jó beszerzési lehetőségekkel.",
+            "ro": "Punct de plecare cu opțiuni bune de aprovizionare.",
+            "en": "Starting point with good supply options."
+          }
+        },
+        {
+          "name": "Addington Village",
+          "coords": [
+            -0.038,
+            51.357
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein charmantes altes Dorf mitten in London.",
+            "hu": "Bájos régi falu London közepén.",
+            "ro": "Un sat vechi fermecător în inima Londrei.",
+            "en": "A charming historic village in the middle of London."
+          }
+        },
+        {
+          "name": "Selsdon Wood",
+          "coords": [
+            -0.043,
+            51.339
+          ],
+          "category": "forest",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Radeln Sie durch das 'Vogelparadies' von Croydon.",
+            "hu": "Tekerj át Croydon 'madárparadicsomán'.",
+            "ro": "Pedalați prin 'paradisul păsărilor' din Croydon.",
+            "en": "Cycle through Croydon's 'bird sanctuary' woods."
+          }
+        },
+        {
+          "name": "The Addington Golf Club (View)",
+          "coords": [
+            -0.049,
+            51.359
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Schöne Aussicht auf die gepflegten Grünanlagen.",
+            "hu": "Szép kilátás a gondozott zöldterületekre.",
+            "ro": "Vedere frumoasă spre spațiile verzi amenajate.",
+            "en": "Lovely views over the manicured golf course."
+          }
+        },
+        {
+          "name": "Shirley Windmill",
+          "coords": [
+            -0.055,
+            51.368
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine der wenigen erhaltenen Windmühlen Londons.",
+            "hu": "London kevés fennmaradt szélmalmának egyike.",
+            "ro": "Moară de vânt rară, una dintre puținele din Londra.",
+            "en": "One of the few surviving windmills in London."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie durch die abwechslungsreiche Landschaft im Süden Croydons. Von der Central Parade radeln Sie durch das historische Dorf Addington bis zu den dichten Wäldern von Selsdon Wood. Entdecken Sie die Shirley Windmill und genießen Sie die frische Luft in den hügeligen Vororten.",
+        "hu": "Ez a kerékpártúra Dél-Croydon változatos tájain vezet keresztül. A Central Parade-tól a történelmi Addington falun át Selsdon Wood sűrű erdejéig tekerhet. Fedezze fel a Shirley szélmalmot, és élvezze a friss levegőt a dombos elővárosokban.",
+        "ro": "Acest tur cu bicicleta vă poartă prin peisajul variat din sudul Croydon-ului. De la Central Parade, pedalați prin satul istoric Addington până în pădurile dese din Selsdon Wood. Descoperiți moara de vânt Shirley și bucurați-vă de aer curat.",
+        "en": "This cycling tour takes you through the diverse landscapes of South Croydon. From Central Parade, cycle through historic Addington Village to the dense Selsdon Wood. Discover the Shirley Windmill and enjoy the fresh air in the rolling suburban hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Cricketers",
+            "tip": "Klassischer Pub für ein Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Cricketers",
+            "tip": "Klasszikus pub egy ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Cricketers",
+            "tip": "Pub clasic pentru un prânz relaxat."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Cricketers",
+            "tip": "Classic pub for a traditional lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Selsdon Wood",
+            "tip": "Großes Waldgebiet mit ruhigen Pfaden.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Selsdon Wood",
+            "tip": "Hatalmas erdő csendes ösvényekkel.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Selsdon Wood",
+            "tip": "Zonă forestieră mare cu poteci liniștite.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Selsdon Wood",
+            "tip": "Large woodland area with peaceful trails.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Selsdon High Street",
+            "tip": "Lokale Geschäfte und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Selsdon High Street",
+            "tip": "Helyi üzletek és kávézók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Selsdon High Street",
+            "tip": "Magazine locale și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Selsdon High Street",
+            "tip": "Local shops and independent cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Abschnitte sind recht steil, Gangschaltung prüfen.",
+          "Selsdon Wood ist ein Naturschutzgebiet, bitte auf den Wegen bleiben.",
+          "In Shirley gibt es gute Radwege."
+        ],
+        "hu": [
+          "Néhány szakasz meredek, ellenőrizd a váltót.",
+          "Selsdon Wood természetvédelmi terület, maradj az ösvényeken.",
+          "Shirley területén jók a kerékpárutak."
+        ],
+        "ro": [
+          "Unele secțiuni sunt abrupte, verificați vitezele bicicletei.",
+          "Selsdon Wood este rezervație, rămâneți pe poteci.",
+          "Există piste de biciclete bune în Shirley."
+        ],
+        "en": [
+          "Some sections are quite steep; check your gears.",
+          "Selsdon Wood is a nature reserve; stay on the paths.",
+          "Shirley has good designated cycle routes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 42.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "New Addington Central",
+          "coords": [
+            -0.016,
+            51.345
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplätze an der Central Parade vorhanden.",
+            "hu": "Parkolóhelyek a Central Parade-nál.",
+            "ro": "Locuri de parcare disponibile la Central Parade.",
+            "en": "Parking available near Central Parade."
+          }
+        },
+        {
+          "name": "Addington Palace",
+          "coords": [
+            -0.041,
+            51.358
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ehemalige Residenz der Erzbischöfe von Canterbury.",
+            "hu": "Canterbury érsekeinek egykori rezidenciája.",
+            "ro": "Fosta reședință a arhiepiscopilor de Canterbury.",
+            "en": "Former residence of the Archbishops of Canterbury."
+          }
+        },
+        {
+          "name": "Addington Hills",
+          "coords": [
+            -0.052,
+            51.355
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz direkt am Aussichtspunkt.",
+            "hu": "Ingyenes parkoló közvetlenül a kilátónál.",
+            "ro": "Parcare gratuită chiar lângă punctul de belvedere.",
+            "en": "Free parking located right at the viewpoint."
+          }
+        },
+        {
+          "name": "Down House",
+          "coords": [
+            0.053,
+            51.331
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Das ehemalige Wohnhaus von Charles Darwin.",
+            "hu": "Charles Darwin egykori lakóháza.",
+            "ro": "Casa memorială a lui Charles Darwin.",
+            "en": "The historic home of Charles Darwin."
+          }
+        },
+        {
+          "name": "Biggin Hill Memorial Museum",
+          "coords": [
+            0.033,
+            51.319
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Rolle des Flugplatzes im Krieg.",
+            "hu": "Tudj meg többet a repülőtér háborús szerepéről.",
+            "ro": "Aflați despre rolul aerodromului în timpul războiului.",
+            "en": "Learn about the airfield's vital wartime role."
+          }
+        },
+        {
+          "name": "High Elms Country Park",
+          "coords": [
+            0.076,
+            51.346
+          ],
+          "category": "park",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Ein weitläufiger Park mit Lehrpfad.",
+            "hu": "Kiterjedt park tanösvénnyel.",
+            "ro": "Un parc vast cu traseu educațional.",
+            "en": "Extensive country park with a nature trail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour verbindet Vorstadtgeschichte mit weltberühmten Sehenswürdigkeiten. Von New Addington führt der Weg zum prachtvollen Addington Palace und den Addington Hills. Ein Ausflug bringt Sie zum Down House, Darwins Wohnsitz, und zum Biggin Hill Museum, bevor Sie den Tag im High Elms Country Park ausklingen lassen.",
+        "hu": "Ez a túra az elővárosi történelmet ötvözi világhírű látnivalókkal. New Addingtonból az út a pompás Addington Palace-hoz és a dombokhoz vezet. Egy kirándulás keretében látogasson el Darwin házához és a Biggin Hill múzeumba, majd pihenjen a High Elms Country Parkban.",
+        "ro": "Acest tur combină istoria suburbiilor cu obiective faimoase. Din New Addington, drumul duce spre palatul Addington și dealurile cu belvedere. O excursie vă poartă spre casa lui Darwin și muzeul Biggin Hill, înainte de a încheia ziua în High Elms Country Park.",
+        "en": "This tour blends suburban history with world-famous landmarks. From New Addington, drive to the grand Addington Palace and the hills. A short trip takes you to Darwin's home at Down House and the Biggin Hill museum, before finishing in the scenic High Elms Country Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Jail",
+            "tip": "Historischer Pub mit interessanter Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Jail",
+            "tip": "Történelmi pub érdekes múlttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Jail",
+            "tip": "Pub istoric cu o poveste interesantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Jail",
+            "tip": "Historic pub with a fascinating local history."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "High Elms Country Park",
+            "tip": "Ruhige Waldspaziergänge.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "High Elms Country Park",
+            "tip": "Csendes erdei séták.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "High Elms Country Park",
+            "tip": "Plimbări liniștite prin pădure.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "High Elms Country Park",
+            "tip": "Peaceful woodland walks and nature.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bromley Shopping Centre",
+            "tip": "Großes Einkaufszentrum in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bromley Shopping Centre",
+            "tip": "Nagy bevásárlóközpont a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bromley Shopping Centre",
+            "tip": "Centru comercial mare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bromley Shopping Centre",
+            "tip": "Large shopping mall located nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in der Kent-Gegend können sehr schmal sein.",
+          "Reservieren Sie Tickets für Down House im Voraus.",
+          "Parken bei Addington Hills ist am Wochenende oft voll."
+        ],
+        "hu": [
+          "A kenti utak nagyon szűkek lehetnek.",
+          "Darwin házába (Down House) foglalj jegyet előre.",
+          "Addington Hills parkolója hétvégén gyorsan megtelik."
+        ],
+        "ro": [
+          "Drumurile din zona Kent pot fi foarte înguste.",
+          "Rezervați bilete pentru Down House în avans.",
+          "Parcarea la Addington Hills este aglomerată în weekend."
+        ],
+        "en": [
+          "Roads in the Kent area can be quite narrow.",
+          "Book tickets for Down House in advance.",
+          "Addington Hills parking gets busy on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "New Addington Tram Stop",
+          "coords": [
+            -0.016,
+            51.345
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Endstation der Tramlink-Linie von Croydon.",
+            "hu": "A Croydonból érkező Tramlink vonal végállomása.",
+            "ro": "Capătul liniei de tramvai Tramlink dinspre Croydon.",
+            "en": "Terminus of the Tramlink line from Croydon."
+          }
+        },
+        {
+          "name": "Addington Village",
+          "coords": [
+            -0.038,
+            51.357
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nur 5 Min Fahrt mit der Tram von New Addington.",
+            "hu": "Csak 5 perc villamosút New Addingtontól.",
+            "ro": "Doar 5 minute cu tramvaiul din New Addington.",
+            "en": "Just 5 mins by tram from New Addington."
+          }
+        },
+        {
+          "name": "Lloyd Park",
+          "coords": [
+            -0.066,
+            51.357
+          ],
+          "category": "park",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Direkte Tramstation am Parkeingang.",
+            "hu": "Közvetlen villamosmegálló a park bejáratánál.",
+            "ro": "Stație de tramvai chiar la intrarea în parc.",
+            "en": "Tram stop located right at the park entrance."
+          }
+        },
+        {
+          "name": "East Croydon",
+          "coords": [
+            -0.092,
+            51.375
+          ],
+          "category": "port",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagessen bei Boxpark.",
+            "hu": "Tökéletes ebédhelyszín a Boxparkban.",
+            "ro": "Loc perfect pentru prânz la Boxpark.",
+            "en": "Perfect spot for lunch at Boxpark."
+          }
+        },
+        {
+          "name": "Addington Hills",
+          "coords": [
+            -0.052,
+            51.355
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Tramstation Coombe Lane.",
+            "hu": "Rövid séta a Coombe Lane villamosmegállótól.",
+            "ro": "Scurtă plimbare de la stația de tramvai Coombe Lane.",
+            "en": "Short walk from the Coombe Lane tram stop."
+          }
+        },
+        {
+          "name": "New Addington Central",
+          "coords": [
+            -0.016,
+            51.345
+          ],
+          "category": "square",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei den lokalen Geschäften.",
+            "hu": "Zárja a napot a helyi üzleteknél.",
+            "ro": "Încheiați ziua la magazinele locale.",
+            "en": "Finish your day exploring the local shops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Tramlink-Straßenbahn für eine entspannte Tour. Von New Addington fahren Sie ins historische Dorf Addington und zum Lloyd Park. Ein Abstecher nach Croydon bietet moderne Gastronomie, bevor Sie zu den Addington Hills zurückkehren und den Tag im Zentrum von New Addington beenden.",
+        "hu": "Használja a Tramlink villamost a kényelmes felfedezéshez. New Addingtonból utazzon Addington faluba és a Lloyd Parkba. Egy croydoni kitérő modern gasztronómiát kínál, majd térjen vissza az Addington Hills-hez, és zárja a napot New Addington központjában.",
+        "ro": "Folosiți tramvaiul Tramlink pentru un tur relaxat. Din New Addington, mergeți spre satul istoric Addington și Lloyd Park. O vizită în Croydon oferă opțiuni moderne de masă, înainte de a reveni spre Addington Hills.",
+        "en": "Use the Tramlink for a stress-free tour of the area. From New Addington, travel to historic Addington Village and Lloyd Park. A side trip to Croydon offers modern dining before returning to Addington Hills and finishing in New Addington centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boxpark Croydon",
+            "tip": "Große Auswahl an Street Food."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boxpark Croydon",
+            "tip": "Hatalmas választék utcai ételekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boxpark Croydon",
+            "tip": "O gamă variată de street food."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boxpark Croydon",
+            "tip": "Huge variety of international street food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Coombe Wood",
+            "tip": "Sehr ruhige Ziergärten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coombe Wood",
+            "tip": "Nagyon csendes díszkertek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coombe Wood",
+            "tip": "Grădini ornamentale foarte liniștite.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coombe Wood",
+            "tip": "Very peaceful ornamental gardens.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Whitgift Centre",
+            "tip": "Großes Einkaufszentrum in Croydon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Whitgift Centre",
+            "tip": "Nagy bevásárlóközpont Croydonban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Whitgift Centre",
+            "tip": "Centru comercial mare în Croydon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Whitgift Centre",
+            "tip": "Large shopping mall in central Croydon."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Oyster oder kontaktloses Bezahlen.",
+          "Die Tram verkehrt alle 10-15 Minuten.",
+          "New Addington ist Zone 6."
+        ],
+        "hu": [
+          "Használj Oyster kártyát vagy érintésmentes fizetést.",
+          "A villamos 10-15 percenként jár.",
+          "New Addington a 6-os zónába tartozik."
+        ],
+        "ro": [
+          "Folosiți cardul Oyster sau plata contactless.",
+          "Tramvaiul circulă la fiecare 10-15 minute.",
+          "New Addington se află în zona 6."
+        ],
+        "en": [
+          "Use Oyster or contactless for payment.",
+          "Trams run every 10-15 minutes.",
+          "New Addington is located in Zone 6."
+        ]
+      }
+    }
+  }
+}

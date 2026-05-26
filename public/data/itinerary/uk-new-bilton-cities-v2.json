@@ -1,0 +1,906 @@
+{
+  "city_id": "uk-new-bilton-cities-v2",
+  "anchor": {
+    "name": "New Bilton",
+    "coords": [
+      -1.275,
+      52.375
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bilton Greenway",
+          "coords": [
+            -1.28,
+            52.365
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein schattiger Weg auf einer alten Bahnstrecke.",
+            "hu": "Árnyas út egy régi vasútvonal helyén.",
+            "ro": "O potecă umbrită pe o fostă cale ferată.",
+            "en": "A shaded path on a former railway line."
+          }
+        },
+        {
+          "name": "St Marie's Church",
+          "coords": [
+            -1.265,
+            52.365
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur von Pugin.",
+            "hu": "Csodáld meg Pugin építészeti stílusát.",
+            "ro": "Admirați arhitectura realizată de Pugin.",
+            "en": "Admire the impressive Pugin architecture."
+          }
+        },
+        {
+          "name": "Rugby School Museum",
+          "coords": [
+            -1.26,
+            52.368
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Geburtsstätte des Rugby-Sports.",
+            "hu": "A rögbi sportág szülőhelye.",
+            "ro": "Locul unde a luat naștere sportul rugby.",
+            "en": "The famous birthplace of the sport of rugby."
+          }
+        },
+        {
+          "name": "Webb Ellis Museum",
+          "coords": [
+            -1.261,
+            52.369
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lernen Sie alles über den Erfinder des Spiels.",
+            "hu": "Tudj meg mindent a játék feltalálójáról.",
+            "ro": "Aflați totul despre inventatorul jocului.",
+            "en": "Learn everything about the game's inventor."
+          }
+        },
+        {
+          "name": "Caldecott Park",
+          "coords": [
+            -1.265,
+            52.378
+          ],
+          "category": "park",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wunderschöne Blumenbeete im Stadtzentrum.",
+            "hu": "Gyönyörű virágágyások a városközpontban.",
+            "ro": "Ronduri de flori superbe în centrul orașului.",
+            "en": "Beautiful flower displays in the heart of town."
+          }
+        },
+        {
+          "name": "New Bilton High Street",
+          "coords": [
+            -1.275,
+            52.375
+          ],
+          "category": "square",
+          "arrive_at": "17:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lokale Geschäfte und ein authentisches Gefühl.",
+            "hu": "Helyi üzletek és autentikus hangulat.",
+            "ro": "Magazine locale și o atmosferă autentică.",
+            "en": "Local shops and an authentic community feel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Spüren Sie den Geist des Rugby-Sports in New Bilton. Starten Sie auf dem grünen Bilton Greenway und wandern Sie zur beeindruckenden St. Marie's Kirche. Entdecken Sie am Nachmittag die Geschichte der Rugby School und das Webb Ellis Museum, bevor Sie den Tag entspannt im Caldecott Park beenden.",
+        "hu": "Érezze a rögbi szellemét New Biltonban. Kezdjen a Bilton Greenway zöld ösvényén, majd sétáljon a lenyűgöző Szent Mária templomhoz. Délután fedezze fel a Rugby School történetét és a Webb Ellis múzeumot, végül pihenjen meg a Caldecott Parkban.",
+        "ro": "Simțiți spiritul sportului rugby în New Bilton. Începeți pe Bilton Greenway și mergeți spre biserica Sf. Maria. După-amiaza, descoperiți istoria Rugby School și muzeul Webb Ellis, înainte de a vă relaxa în parcul Caldecott.",
+        "en": "Experience the spirit of rugby in New Bilton. Start on the leafy Bilton Greenway and walk to the impressive St Marie's Church. In the afternoon, discover the history of Rugby School and the Webb Ellis Museum, finishing your day with a relaxing stroll in Caldecott Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Merchants Inn",
+            "tip": "Traditioneller Pub mit großer Bierauswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Merchants Inn",
+            "tip": "Hagyományos pub hatalmas sörválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Merchants Inn",
+            "tip": "Pub tradițional cu o selecție mare de beri."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Merchants Inn",
+            "tip": "Traditional pub with a huge selection of ales."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bilton Greenway",
+            "tip": "Ruhiger Spaziergang abseits der Straßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bilton Greenway",
+            "tip": "Csendes séta távol az utca zajától.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bilton Greenway",
+            "tip": "Plimbare liniștită departe de trafic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bilton Greenway",
+            "tip": "Quiet stroll along the leafy former railway.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rugby Market",
+            "tip": "Traditioneller Markt mehrmals pro Woche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rugby Market",
+            "tip": "Hagyományos piac hetente többször."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rugby Market",
+            "tip": "Piață tradițională organizată săptămânal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rugby Market",
+            "tip": "Traditional outdoor market held regularly."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie das Webb Ellis Museum während der Rugby-Saison.",
+          "Caldecott Park ist ideal für ein Picknick.",
+          "Rugby ist gut zu Fuß erreichbar."
+        ],
+        "hu": [
+          "A rögbi szezon alatt érdemes a Webb Ellis múzeumba menni.",
+          "A Caldecott Park ideális hely egy piknikhez.",
+          "Rugby városa gyalogosan is jól bejárható."
+        ],
+        "ro": [
+          "Vizitați muzeul Webb Ellis în timpul sezonului de rugby.",
+          "Parcul Caldecott este ideal pentru un picnic.",
+          "Rugby este ușor de explorat la pas."
+        ],
+        "en": [
+          "Visit the Webb Ellis Museum during the rugby season.",
+          "Caldecott Park is ideal for a summer picnic.",
+          "Rugby is a very compact and walkable town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bilton Greenway",
+          "coords": [
+            -1.28,
+            52.365
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Hervorragender Radweg ohne Autoverkehr.",
+            "hu": "Kiváló kerékpárút autóforgalom nélkül.",
+            "ro": "Pistă de biciclete excelentă fără trafic auto.",
+            "en": "Excellent cycling path with no car traffic."
+          }
+        },
+        {
+          "name": "Draycote Water",
+          "coords": [
+            -1.332,
+            52.327
+          ],
+          "category": "lake",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Ein schöner Rundweg um den Stausee.",
+            "hu": "Szép körút a víztározó körül.",
+            "ro": "Un traseu frumos în jurul rezervorului.",
+            "en": "A scenic circular path around the reservoir."
+          }
+        },
+        {
+          "name": "Oxford Canal Path",
+          "coords": [
+            -1.272,
+            52.385
+          ],
+          "category": "river",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Radeln Sie am Treppelweg entlang.",
+            "hu": "Tekerj végig a vontatóút mentén.",
+            "ro": "Pedalați de-a lungul potecii canalului.",
+            "en": "Cycle along the historic canal towpath."
+          }
+        },
+        {
+          "name": "The Arnold Palmer",
+          "coords": [
+            -1.262,
+            52.373
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein moderner Ort für einen schnellen Snack.",
+            "hu": "Modern hely egy gyors falatozáshoz.",
+            "ro": "Un local modern pentru o gustare rapidă.",
+            "en": "A modern spot for a quick bite to eat."
+          }
+        },
+        {
+          "name": "Caldecott Park",
+          "coords": [
+            -1.265,
+            52.378
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour im Grünen.",
+            "hu": "Zárja a túrát a zöldben.",
+            "ro": "Încheiați turul în mijlocul naturii.",
+            "en": "Finish your tour in this central green space."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Rugby mit dem Fahrrad. Vom Bilton Greenway radeln Sie zum beeindruckenden Draycote Water See. Über den Oxford Canal kehren Sie zurück ins Stadtzentrum und beenden Ihre Tour im Caldecott Park.",
+        "hu": "Fedezze fel Rugby környékét kerékpárral. A Bilton Greenway-től tekerjen el a lenyűgöző Draycote Water tóhoz. Az Oxford-csatorna mentén térjen vissza a városközpontba, és zárja a túrát a Caldecott Parkban.",
+        "ro": "Explorați împrejurimile orașului Rugby cu bicicleta. De pe Bilton Greenway, pedalați spre lacul Draycote Water. Reveniți în centru pe malul canalului Oxford și încheiați turul în parcul Caldecott.",
+        "en": "Explore the Rugby countryside by bike. From Bilton Greenway, cycle out to the impressive Draycote Water reservoir. Return to the town centre via the Oxford Canal towpath and finish your tour in Caldecott Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Arnold Palmer",
+            "tip": "Beliebtes Bistro im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Arnold Palmer",
+            "tip": "Népszerű bisztró a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Arnold Palmer",
+            "tip": "Bistrou popular în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Arnold Palmer",
+            "tip": "Popular modern bistro in the town centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Draycote Water",
+            "tip": "Ruhe am Wasser genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draycote Water",
+            "tip": "Élvezze a vizparti nyugalmat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draycote Water",
+            "tip": "Bucurați-vă de liniștea apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Draycote Water",
+            "tip": "Enjoy the peace and quiet by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rugby Central Shopping",
+            "tip": "Große Auswahl an Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rugby Central Shopping",
+            "tip": "Üzletek széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rugby Central Shopping",
+            "tip": "O gamă variată de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rugby Central Shopping",
+            "tip": "A wide variety of high street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Rund um Draycote Water gibt es oft starken Wind.",
+          "Der Kanalweg kann schmal sein, Rücksicht auf Fußgänger.",
+          "Tragen Sie einen Helm."
+        ],
+        "hu": [
+          "Draycote Water környékén gyakori az erős szél.",
+          "A csatornapart szűk lehet, vigyázz a gyalogosokra.",
+          "Viselj bukósisakot."
+        ],
+        "ro": [
+          "Vântul poate fi puternic în jurul Draycote Water.",
+          "Poteca canalului este îngustă, atenție la pietoni.",
+          "Purtați cască de protecție."
+        ],
+        "en": [
+          "Expect strong winds around Draycote Water.",
+          "The towpath can be narrow; be mindful of walkers.",
+          "Always wear a helmet while cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "New Bilton High Street",
+          "coords": [
+            -1.275,
+            52.375
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie kurz für einen Kaffee.",
+            "hu": "Parkoljon le egy rövid kávéra.",
+            "ro": "Parcați scurt pentru o cafea matinală.",
+            "en": "Park up briefly for a morning coffee."
+          }
+        },
+        {
+          "name": "Rugby School",
+          "coords": [
+            -1.26,
+            52.368
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz in der Little Church Street.",
+            "hu": "Használd a Little Church Street parkolóját.",
+            "ro": "Parcați pe strada Little Church.",
+            "en": "Use the parking on Little Church Street."
+          }
+        },
+        {
+          "name": "Caldecott Park",
+          "coords": [
+            -1.265,
+            52.378
+          ],
+          "category": "park",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parkplätze direkt am Park vorhanden.",
+            "hu": "Parkolás közvetlenül a parknál.",
+            "ro": "Parcare disponibilă chiar lângă parc.",
+            "en": "Parking is available right by the park."
+          }
+        },
+        {
+          "name": "Coombe Abbey Park",
+          "coords": [
+            -1.413,
+            52.411
+          ],
+          "category": "garden",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ein historisches Anwesen mit riesigem Park.",
+            "hu": "Történelmi birtok hatalmas parkkal.",
+            "ro": "O moșie istorică cu un parc imens.",
+            "en": "A historic estate with extensive parklands."
+          }
+        },
+        {
+          "name": "Draycote Water",
+          "coords": [
+            -1.332,
+            52.327
+          ],
+          "category": "lake",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz, gebührenpflichtig.",
+            "hu": "Hatalmas parkoló, fizetős.",
+            "ro": "Parcare mare, cu plată.",
+            "en": "Large on-site parking available for a fee."
+          }
+        },
+        {
+          "name": "Newbold Tunnel",
+          "coords": [
+            -1.272,
+            52.388
+          ],
+          "category": "historical",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ein beleuchteter Kanaltunnel, sehenswert.",
+            "hu": "Kivilágított csatorna-alagút, érdemes megnézni.",
+            "ro": "Tunel de canal iluminat, merită văzut.",
+            "en": "An illuminated canal tunnel worth a quick look."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour zeigt Ihnen die Highlights von Rugby und die schöne Umgebung von Warwickshire. Nach dem historischen Zentrum von Rugby fahren Sie zum prachtvollen Coombe Abbey Park. Am Nachmittag genießen Sie die Aussicht am Draycote Water und entdecken den faszinierenden Newbold Tunnel am Kanal.",
+        "hu": "Ez a túra Rugby fénypontjait és Warwickshire szép környékét mutatja be. Rugby történelmi központja után látogasson el a pompás Coombe Abbey Parkba. Délután élvezze a kilátást a Draycote Waternél, és fedezze fel a lenyűgöző Newbold-alagutat a csatornánál.",
+        "ro": "Acest tur vă prezintă atracțiile din Rugby și împrejurimile superbe. După centrul istoric, mergeți la palatul Coombe Abbey. După-amiaza, admirați priveliștea de la Draycote Water și descoperiți tunelul Newbold.",
+        "en": "This tour takes you to Rugby's best spots and the beautiful Warwickshire countryside. After exploring the town centre, drive to the grand Coombe Abbey Park. In the afternoon, enjoy the views at Draycote Water and see the fascinating Newbold Tunnel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coombe Abbey Tea Room",
+            "tip": "Eleganter Ort für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coombe Abbey Tea Room",
+            "tip": "Elegáns hely egy pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coombe Abbey Tea Room",
+            "tip": "Un loc elegant pentru un ceai relaxant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coombe Abbey Tea Room",
+            "tip": "An elegant spot for a traditional break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Coombe Abbey Gardens",
+            "tip": "Wunderschöne Gärten zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coombe Abbey Gardens",
+            "tip": "Gyönyörű kertek a kikapcsolódáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coombe Abbey Gardens",
+            "tip": "Grădini superbe pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coombe Abbey Gardens",
+            "tip": "Beautiful gardens perfect for relaxation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Elliotts Field Retail Park",
+            "tip": "Großer Einkaufskomplex am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elliotts Field Retail Park",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Elliotts Field Retail Park",
+            "tip": "Complex comercial mare la periferie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Elliotts Field Retail Park",
+            "tip": "Large retail park located on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Draycote Water schließt im Winter früher.",
+          "Parken Sie im Zentrum in Parkhäusern.",
+          "Achten Sie auf Tempolimits in den Dörfern."
+        ],
+        "hu": [
+          "Draycote Water télen korábban zár.",
+          "A belvárosban használj parkolóházakat.",
+          "Figyelj a sebességkorlátozásra a falvakban."
+        ],
+        "ro": [
+          "Draycote Water se închide mai devreme iarna.",
+          "Parcați în parcările etajate din centru.",
+          "Atenție la limitele de viteză din sate."
+        ],
+        "en": [
+          "Draycote Water closes earlier during winter months.",
+          "Use the multi-storey car parks in the town centre.",
+          "Watch out for speed limits in local villages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "New Bilton Bus Stop",
+          "coords": [
+            -1.275,
+            52.375
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gute Busverbindungen ins Stadtzentrum von Rugby.",
+            "hu": "Jó buszközlekedés Rugby városközpontjába.",
+            "ro": "Legături bune de autobuz spre centrul orașului.",
+            "en": "Frequent bus services to Rugby town centre."
+          }
+        },
+        {
+          "name": "Rugby Town Centre",
+          "coords": [
+            -1.262,
+            52.373
+          ],
+          "category": "square",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentraler Ausstiegspunkt für Sehenswürdigkeiten.",
+            "hu": "Központi leszállóhely a látnivalókhoz.",
+            "ro": "Punct central de coborâre pentru atracții.",
+            "en": "Central alighting point for the main sights."
+          }
+        },
+        {
+          "name": "Webb Ellis Museum",
+          "coords": [
+            -1.261,
+            52.369
+          ],
+          "category": "museum",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der High Street.",
+            "hu": "Csak egy rövid séta a High Street-től.",
+            "ro": "La doar o scurtă plimbare de High Street.",
+            "en": "Just a short walk from the main High Street."
+          }
+        },
+        {
+          "name": "Rugby Railway Station",
+          "coords": [
+            -1.252,
+            52.382
+          ],
+          "category": "port",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wichtiger Bahnknotenpunkt an der West Coast Main Line.",
+            "hu": "Fontos vasúti csomópont a nyugati fővonalon.",
+            "ro": "Nod feroviar important pe magistrala de vest.",
+            "en": "Major rail hub on the West Coast Main Line."
+          }
+        },
+        {
+          "name": "Caldecott Park",
+          "coords": [
+            -1.265,
+            52.378
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gut mit lokalen Bussen erreichbar.",
+            "hu": "Helyi buszokkal jól megközelíthető.",
+            "ro": "Ușor accesibil cu autobuzele locale.",
+            "en": "Easily accessible via local bus routes."
+          }
+        },
+        {
+          "name": "Newbold-on-Avon",
+          "coords": [
+            -1.27,
+            52.388
+          ],
+          "category": "river",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schöne Spazierwege am Kanal.",
+            "hu": "Szép sétautak a csatorna mentén.",
+            "ro": "Trasee de plimbare superbe pe malul canalului.",
+            "en": "Scenic walking paths along the canal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Rugby entspannt mit öffentlichen Verkehrsmitteln. Vom Vorort New Bilton gelangen Sie schnell ins Zentrum, um Museen und historische Gebäude zu besuchen. Nutzen Sie den Bus zum Caldecott Park und beenden Sie Ihren Tag bei Newbold-on-Avon am malerischen Kanal.",
+        "hu": "Fedezze fel Rugby-t kényelmesen tömegközlekedéssel. New Bilton elővárosból gyorsan bejuthat a központba a múzeumokhoz. Utazzon busszal a Caldecott Parkba, majd zárja a napot Newbold-on-Avon-nál a festői csatorna partján.",
+        "ro": "Explorați Rugby relaxat folosind transportul public. Din suburbia New Bilton ajungeți rapid în centru pentru muzee. Luați autobuzul spre parcul Caldecott și încheiați ziua la Newbold-on-Avon.",
+        "en": "Explore Rugby stress-free using local transit. Travel from suburban New Bilton to the centre for museums and history. Take a bus to Caldecott Park and finish your day at Newbold-on-Avon by the scenic canal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Casa Loco",
+            "tip": "Beliebtes mexikanisches Restaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Casa Loco",
+            "tip": "Népszerű mexikói étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Casa Loco",
+            "tip": "Restaurant mexican foarte apreciat."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Casa Loco",
+            "tip": "Popular local Mexican restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Newbold Quarry Park",
+            "tip": "Ruhiger Park in einem ehemaligen Steinbruch.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Newbold Quarry Park",
+            "tip": "Csendes park egy egykori kőfejtőben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Newbold Quarry Park",
+            "tip": "Parc liniștit într-o fostă carieră de piatră.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Newbold Quarry Park",
+            "tip": "Peaceful park set in a former quarry.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rugby Central",
+            "tip": "Einkaufszentrum im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rugby Central",
+            "tip": "Bevásárlóközpont a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rugby Central",
+            "tip": "Centru comercial în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rugby Central",
+            "tip": "Modern shopping centre in the town heart."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App der Busgesellschaft für Echtzeit-Infos.",
+          "Busse fahren im Stadtgebiet regelmäßig.",
+          "Bahnhof und Zentrum liegen ca. 15 Min Gehweg auseinander."
+        ],
+        "hu": [
+          "Használd a busztársaság applikációját a valós idejű infókért.",
+          "A városban a buszok rendszeresen járnak.",
+          "A pályaudvar és a központ kb. 15 perc sétára van."
+        ],
+        "ro": [
+          "Folosiți aplicația companiei de transport pentru info în timp real.",
+          "Autobuzele circulă regulat în oraș.",
+          "Gara și centrul sunt la 15 minute distanță."
+        ],
+        "en": [
+          "Use the bus operator's app for real-time info.",
+          "Buses run regularly throughout the town area.",
+          "The station and centre are about 15 mins walk apart."
+        ]
+      }
+    }
+  }
+}

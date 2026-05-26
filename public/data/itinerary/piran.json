@@ -1,0 +1,1129 @@
+{
+  "city_id": "piran",
+  "anchor": {
+    "name": "Tartini Square",
+    "coords": [
+      13.5685,
+      45.5283
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tartini-Platz",
+            "hu": "Tartini tér",
+            "ro": "Piața Tartini",
+            "en": "Tartini Square"
+          },
+          "coords": [
+            13.5685,
+            45.5283
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf das venezianische Haus an der Ecke des Platzes.",
+            "hu": "Nézd meg a tér sarkán álló velencei házat, a Benečankát.",
+            "ro": "Observați casa venețiană roșie din colțul pieței.",
+            "en": "Look for the red Venetian house, 'Benečanka', on the corner."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georgs-Kathedrale",
+            "hu": "Szent György-székesegyház",
+            "ro": "Catedrala Sfântul Gheorghe",
+            "en": "St. George's Parish Church"
+          },
+          "coords": [
+            13.5688,
+            45.5295
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Glockenturm für den besten Blick auf Piran.",
+            "hu": "Mássz fel a harangtoronyba a legszebb piran-i panorámáért.",
+            "ro": "Urcați în turnul clopotniță pentru cea mai bună vedere asupra orașului.",
+            "en": "Climb the bell tower for the iconic view of Piran's peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Piran",
+            "hu": "Piran városfala",
+            "ro": "Zidurile orașului Piran",
+            "en": "Piran Town Walls"
+          },
+          "coords": [
+            13.5732,
+            45.5285
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Mauern am späten Vormittag für ideales Fotolicht.",
+            "hu": "A délelőtti fényekben innen a legszebb a tenger és a város.",
+            "ro": "Vizitați zidurile dimineața târziu pentru lumină ideală de fotografiat.",
+            "en": "Visit in the late morning for perfect lighting over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Prešeren-Ufer",
+            "hu": "Ebéd a Prešeren rakparton",
+            "ro": "Prânz pe faleza Prešeren",
+            "en": "Lunch at Prešeren Embankment"
+          },
+          "coords": [
+            13.5665,
+            45.5288
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Calamari direkt am Meer.",
+            "hu": "Kóstolj friss tengeri süllőt vagy tintahalat közvetlenül a parton.",
+            "ro": "Încercați calamari proaspeți chiar lângă malul mării.",
+            "en": "Try fresh sea bass or grilled squid right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Muschelmuseum Magische Welt",
+            "hu": "Kagylómúzeum",
+            "ro": "Muzeul Scoicilor",
+            "en": "Magical World of Shells Museum"
+          },
+          "coords": [
+            13.5684,
+            45.5281
+          ],
+          "category": "museum",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Sammlung seltener Meeresfunde.",
+            "hu": "Ritka és hatalmas kagylók gyűjteménye a tér közvetlen közelében.",
+            "ro": "O colecție impresionantă de scoici rare și melci marini.",
+            "en": "An impressive collection of rare shells and sea snails."
+          }
+        },
+        {
+          "name": {
+            "de": "Piraner Spitze (Punta)",
+            "hu": "Piran-i félsziget csúcsa (Punta)",
+            "ro": "Vârful peninsulei Piran (Punta)",
+            "en": "Piran Tip (Punta)"
+          },
+          "coords": [
+            13.5641,
+            45.5302
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den kleinen Leuchtturm und die St.-Clemens-Kirche.",
+            "hu": "Nézd meg a világítótornyot és a Szent Kelemen-templomot.",
+            "ro": "Vizitați micul far și biserica Sfântul Clement de la mal.",
+            "en": "Visit the small lighthouse and St. Clement's church at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Fjessa See & Strand",
+            "hu": "Fjessa-tó és strand",
+            "ro": "Lacul și plaja Fiesa",
+            "en": "Fiesa Lake & Beach"
+          },
+          "coords": [
+            13.5825,
+            45.5255
+          ],
+          "category": "beach",
+          "arrive_at": "16:50",
+          "stay_min": 140,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf dem Klippenweg von Piran nach Fiesa.",
+            "hu": "Sétálj át a parton kiépített panorámaúton Fiesába.",
+            "ro": "Mergeți pe aleea de sub stânci care leagă Piran de Fiesa.",
+            "en": "Walk along the scenic coastal path from Piran to Fiesa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie den glänzenden Marmorboden des Tartini-Platzes und steigen zur Kathedrale hinauf, um das Panorama zu genießen. Mittags locken die engen Gassen zu den historischen Stadtmauern mit Blick auf die Adria. Am Nachmittag schlendern Sie entlang der Promenade zum Leuchtturm und beenden den Tag entspannt am Strand von Fiesa, erreichbar über einen malerischen Klippenweg.",
+        "hu": "Reggel a hófehér márvánnyal burkolt Tartini térről indulva hódítjuk meg a harangtornyot. A déli órákban a városfalakról csodáljuk meg a vörös tetős házakat, majd a parton hűsölünk egy tengeri ebéd mellett. Délután a Punta felé vesszük az irányt a világítótoronyhoz, a napot pedig a sziklák alatti sétányon átérve a fiesai strand nyugalmában zárjuk.",
+        "ro": "Dimineața începe în Piața Tartini, urmată de o urcare la catedrală pentru o panoramă de neuitat. La prânz explorăm zidurile cetății și străduțele medievale pline de istorie. După-amiaza este dedicată promenadei de pe faleză până la far, iar seara se încheie relaxant pe plaja Fiesa, unde puteți ajunge printr-o plimbare spectaculoasă la baza stâncilor.",
+        "en": "Start your morning at the polished Tartini Square before climbing to the Cathedral for a panoramic view of the peninsula. Midday is for exploring the medieval town walls and enjoying fresh seafood by the harbor. In the afternoon, stroll to the Punta lighthouse and finish your day with a sunset walk along the cliff path to the tranquil Fiesa beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fritolin pri Cantini",
+            "tip": "Frittierter Fisch und Meeresfrüchte auf einem charmanten kleinen Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritolin pri Cantini",
+            "tip": "Kiváló tengeri herkentyűk egy eldugott kis téren, autentikus hangulatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirat Piran",
+            "tip": "Specialități de pește proaspăt într-un cadru tradițional de coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritolin pri Cantini",
+            "tip": "Excellent fried seafood served on a charming, hidden square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster des Hl. Franziskus",
+            "tip": "Ein ruhiger Kreuzgang mit fantastischer Akustik.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Ferenc kolostor",
+            "tip": "Csendes kerengő a város szívében, tökéletes elvonuláshoz.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul spre Fiesa",
+            "tip": "Aleea de coastă la lăsatul serii oferă liniște și sunetul valurilor.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Francis Monastery",
+            "tip": "A peaceful cloister hidden in the center with great acoustics.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piranske Soline",
+            "tip": "Kaufen Sie das berühmte handgeerntete Salz von Piran."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piranske Soline",
+            "tip": "Vásárolj a világhírű piran-i sóból a helyi márkaüzletben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Piranske Soline",
+            "tip": "Sare de mare artizanală și produse cosmetice cu sare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piranske Soline",
+            "tip": "Pick up some world-famous hand-harvested sea salt."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist fast autofrei, parken Sie im Parkhaus Fornače.",
+          "Tragen Sie rutschfeste Schuhe für die glatten Marmorpflaster.",
+          "Vom Kirchturm aus sieht man bei klarer Sicht bis nach Venedig.",
+          "Der Klippenweg nach Fiesa ist bei starkem Wind gesperrt."
+        ],
+        "hu": [
+          "Az óváros autómentes, használd a Fornače parkolóházat és az ingyenes buszt.",
+          "A márványkövek csúszósak lehetnek, kényelmes cipőben indulj el.",
+          "Tiszta időben a harangtoronyból Velencéig is ellátni.",
+          "A fiesai parti sétány erős hullámzás esetén lezárható."
+        ],
+        "ro": [
+          "Centrul vechi este pietonal; lăsați mașina în parcarea Fornače.",
+          "Piatra de marmură din piață poate fi alunecoasă, purtați încălțăminte adecvată.",
+          "Din turnul clopotniței puteți vedea Veneția în zilele senine.",
+          "Drumul spre Fiesa este superb la apus, dar aveți grijă la valuri."
+        ],
+        "en": [
+          "Piran center is car-free; use the Fornače garage and the free shuttle bus.",
+          "The marble paving in the square is slippery, wear comfortable shoes.",
+          "On clear days, you can see all the way to Venice from the bell tower.",
+          "The coastal path to Fiesa is a must-do for a scenic evening stroll."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tartini-Platz Start",
+            "hu": "Tartini tér - rajt",
+            "ro": "Pornire din Piața Tartini",
+            "en": "Tartini Square Start"
+          },
+          "coords": [
+            13.5685,
+            45.5283
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Hafens.",
+            "hu": "Bérelj kerékpárt a kikötő melletti kölcsönzőkben.",
+            "ro": "Închiriați o bicicletă de lângă port înainte de plecare.",
+            "en": "Rent a bike near the harbor before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernardin Promenade",
+            "hu": "Bernardin sétány",
+            "ro": "Promenada Bernardin",
+            "en": "Bernardin Promenade"
+          },
+          "coords": [
+            13.5715,
+            45.5185
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie an den ehemaligen Klosterruinen vorbei.",
+            "hu": "Gurulj el a régi kolostorromok és a modern szállodák mellett.",
+            "ro": "Pedalați pe lângă ruinele vechii mănăstiri Bernardin.",
+            "en": "Ride past the old monastery ruins and modern resorts."
+          }
+        },
+        {
+          "name": {
+            "de": "Portorož Zentrum & Strand",
+            "hu": "Portorož központ és strand",
+            "ro": "Centrul Portorož și plaja",
+            "en": "Portorož Center & Beach"
+          },
+          "coords": [
+            13.5915,
+            45.5145
+          ],
+          "category": "beach",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Bad am einzigen Sandstrand Sloweniens.",
+            "hu": "Mártózz meg Szlovénia egyetlen homokos strandján.",
+            "ro": "Bucurați-vă de singura plajă cu nisip din Slovenia.",
+            "en": "Enjoy a swim at the only sandy beach in Slovenia."
+          }
+        },
+        {
+          "name": {
+            "de": "Forma Viva Skulpturenpark",
+            "hu": "Forma Viva szoborpark",
+            "ro": "Parcul de sculpturi Forma Viva",
+            "en": "Forma Viva Sculpture Park"
+          },
+          "coords": [
+            13.6015,
+            45.5035
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Steinskulpturen im Freien auf der Halbinsel Seča.",
+            "hu": "Kültéri kőszobrok a Seča-félsziget olajfái között.",
+            "ro": "Sculpturi în piatră în aer liber printre măslini.",
+            "en": "Outdoor stone sculptures set among olive groves on Seča."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinen von Sečovlje",
+            "hu": "Sečovljei sólepárlók",
+            "ro": "Salinele Sečovlje",
+            "en": "Sečovlje Salt Pans"
+          },
+          "coords": [
+            13.6055,
+            45.4885
+          ],
+          "category": "nature",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Salinenmuseum am südlichen Rand.",
+            "hu": "Látogasd meg a sómúzeumot a terület déli részén.",
+            "ro": "Vizitați muzeul sării aflat în partea de sud a rezervației.",
+            "en": "Visit the salt museum located at the southern end."
+          }
+        },
+        {
+          "name": {
+            "de": "Piran Rückkehr & Eis",
+            "hu": "Visszatérés Piranba - fagylalt",
+            "ro": "Întoarcere în Piran și înghețată",
+            "en": "Return to Piran & Gelato"
+          },
+          "coords": [
+            13.5685,
+            45.5285
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Eis am Hafen.",
+            "hu": "Jutalmazd meg magad egy fagyival a kikötőben.",
+            "ro": "Răsplătiți-vă cu o înghețată artizanală în port.",
+            "en": "Reward yourself with a gelato at the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour führt Sie entlang der Küste von der historischen Ruhe Pirans in das lebhafte Portorož. Nach einer Pause am Sandstrand radeln Sie weiter zur Halbinsel Seča, um die Forma Viva Skulpturen zu bewundern. Der Höhepunkt ist die Fahrt durch die weiten Salinen von Sečovlje, bevor es auf dem Küstenweg pünktlich zum Sonnenuntergang zurück nach Piran geht.",
+        "hu": "Kerékpáros túránk Piranból indul a part mentén a nyüzsgő Portorožba. Egy frissítő csobbanás után a Seča-félsziget olajfái között megbújó kőszobrokat fedezzük fel. A túra legtávolabbi pontja a lenyűgöző sečovljei sólepárló mező, ahonnan a sós tengeri levegőt beszívva gurulunk vissza az esti fényekben pompázó piran-i kikötőbe.",
+        "ro": "Traseul cu bicicleta vă poartă de-a lungul coastei, de la liniștea istorică din Piran la animația din Portorož. După o oprire pe plajă, continuăm spre peninsula Seča pentru parcul de sculpturi în aer liber. Punctul culminant este vizita la salinele Sečovlje, o zonă naturală protejată, urmată de întoarcerea relaxată pe faleză spre Piran.",
+        "en": "This cycling route takes you along the scenic coastline from historic Piran to the vibrant resort of Portorož. After a beach break, pedal to the Seča peninsula to admire the Forma Viva sculptures. The highlight is exploring the vast Sečovlje salt pans before returning to Piran on the seaside path just in time for an evening treat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ribič Seča",
+            "tip": "Frischer Fisch direkt an den Salinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribič Seča",
+            "tip": "Friss halételek közvetlenül a sólepárlók szomszédságában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ribič Seča",
+            "tip": "Pește proaspăt servit chiar lângă saline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribič Seča",
+            "tip": "Fresh seafood served right next to the salt pans."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lepa Vida Spa",
+            "tip": "Ein Freiluft-Spa inmitten der Salinen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lepa Vida Thalasso Spa",
+            "tip": "Szabadtéri wellness a sólepárlók közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Sečovlje",
+            "tip": "Liniște absolută printre bazinele de sare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lepa Vida Thalasso Spa",
+            "tip": "An open-air spa in the middle of the salt pans.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portorož Markt",
+            "tip": "Lokale Produkte und Souvenirs am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portorož bazársor",
+            "tip": "Helyi kézműves termékek és nyári kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Portorož",
+            "tip": "Produse locale și suveniruri de vară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Portorož Market",
+            "tip": "Local crafts and summer souvenirs near the beach."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg ist flach und meist vom Autoverkehr getrennt.",
+          "In den Salinen gibt es kaum Schatten, Sonnenschutz ist Pflicht.",
+          "E-Bikes sind ideal für die kleinen Steigungen nach Seča.",
+          "Die Strecke ist Teil des berühmten Parenzana-Radwegs."
+        ],
+        "hu": [
+          "Az útvonal sík, nagy része elzárt a gépjárműforgalomtól.",
+          "A sólepárlóknál nincs árnyék, készülj naptejjel és vízzel.",
+          "Az elektromos kerékpár jól jöhet a Seča felé vezető emelkedőn.",
+          "Az útvonal része a híres Parenzana kerékpárútnak."
+        ],
+        "ro": [
+          "Traseul este plat și în mare parte separat de traficul auto.",
+          "Nu există umbră în saline, folosiți protecție solară.",
+          "Bicicletele electrice sunt recomandate pentru dealul din Seča.",
+          "Drumul face parte din celebra pistă de biciclete Parenzana."
+        ],
+        "en": [
+          "The route is flat and mostly separated from car traffic.",
+          "There is very little shade in the salt pans, bring sun protection.",
+          "An e-bike is a great choice for the small climb to Seča.",
+          "This section is part of the famous Parenzana cycling trail."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 24.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piran Altstadt (Cluster A)",
+            "hu": "Piran óváros (A klaster)",
+            "ro": "Centrul Piran (Cluster A)",
+            "en": "Piran Old Town (Cluster A)"
+          },
+          "coords": [
+            13.5685,
+            45.5283
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Fornače-Parkhaus.",
+            "hu": "Parkolj a Fornače házban, onnan ingyen busz visz be.",
+            "ro": "Parcați la Fornače și luați busul gratuit.",
+            "en": "Park at Fornače and take the free shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Aussicht (Cluster A)",
+            "hu": "Székesegyház és kilátás (A klaster)",
+            "ro": "Catedrala și panorama (Cluster A)",
+            "en": "Cathedral & View (Cluster A)"
+          },
+          "coords": [
+            13.5688,
+            45.5295
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkhaus-Shuttle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de bus.",
+            "en": "Short walk from the shuttle drop-off."
+          }
+        },
+        {
+          "name": {
+            "de": "Strunjan Klippen (Cluster B)",
+            "hu": "Strunjan sziklák (B klaster)",
+            "ro": "Faleza Strunjan (Cluster B)",
+            "en": "Strunjan Cliffs (Cluster B)"
+          },
+          "coords": [
+            13.6015,
+            45.5385
+          ],
+          "category": "nature",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Strunjan-Kreuz.",
+            "hu": "Hajts a strunjani kereszt melletti parkolóig.",
+            "ro": "Conduceți până la parcarea de lângă Crucea Strunjan.",
+            "en": "Drive to the parking lot near the Strunjan Cross."
+          }
+        },
+        {
+          "name": {
+            "de": "Mondbucht Strand (Cluster B)",
+            "hu": "Hold-öböl strand (B klaster)",
+            "ro": "Plaja Golful Lunii (Cluster B)",
+            "en": "Moon Bay Beach (Cluster B)"
+          },
+          "coords": [
+            13.6035,
+            45.5415
+          ],
+          "category": "beach",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steiler Fußweg hinunter zur wilden Bucht.",
+            "hu": "Meredek gyalogút vezet le a vadregényes öbölbe.",
+            "ro": "Potecă abruptă spre cel mai frumos golf sălbatic.",
+            "en": "Steep walking path down to the wild bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Izola (Cluster C)",
+            "hu": "Ebéd Izolában (C klaster)",
+            "ro": "Prânz în Izola (Cluster C)",
+            "en": "Lunch in Izola (Cluster C)"
+          },
+          "coords": [
+            13.6585,
+            45.5405
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Jachthafen.",
+            "hu": "Parkolj a jachtkikötő melletti nagy parkolóban.",
+            "ro": "Parcați lângă portul de iahturi.",
+            "en": "Park near the marina for easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Izola Altstadt Gassen (Cluster C)",
+            "hu": "Izola óvárosi utcák (C klaster)",
+            "ro": "Străduțele din Izola (Cluster C)",
+            "en": "Izola Old Town Streets (Cluster C)"
+          },
+          "coords": [
+            13.6565,
+            45.5415
+          ],
+          "category": "historical",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Manzioli-Platz zu Fuß.",
+            "hu": "Sétálj át a Manzioli térre.",
+            "ro": "Explorați Piața Manzioli la pas.",
+            "en": "Explore Manzioli Square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Svetilnik Strand (Cluster C)",
+            "hu": "Svetilnik strand (C klaster)",
+            "ro": "Plaja Svetilnik (Cluster C)",
+            "en": "Svetilnik Beach (Cluster C)"
+          },
+          "coords": [
+            13.6535,
+            45.5445
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schöner Blick auf Triest bei Sonnenuntergang.",
+            "hu": "Csodás kilátás Triesztre a világítótoronytól.",
+            "ro": "Vedere superbă spre Trieste de lângă far.",
+            "en": "Great view of Trieste from the lighthouse tip."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Piran",
+            "hu": "Visszautazás Piranba",
+            "ro": "Întoarcere în Piran",
+            "en": "Return to Piran"
+          },
+          "coords": [
+            13.5685,
+            45.5285
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:15",
+          "stay_min": 5,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Küstenstraße.",
+            "hu": "Élvezd a tengerparti panorámautat.",
+            "ro": "Bucurați-vă de drumul de coastă.",
+            "en": "Enjoy the scenic coastal drive back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die gesamte slowenische Riviera. Vormittags erkunden Sie das historische Piran, bevor Sie zum Naturpark Strunjan fahren. Dort erwartet Sie eine Wanderung zu den höchsten Klippen der Adria und zur wilden Mondbucht. Den Nachmittag verbringen Sie im charmanten Fischerort Izola, bekannt für seine ausgezeichneten Fischrestaurants und entspannte Atmosphäre am Leuchtturm.",
+        "hu": "Autóval a teljes szlovén tengerpartot bejárhatjuk. Reggel Piran ékszerdobozát fedezzük fel, majd Strunjanba hajtunk, ahol az Adria legmagasabb sziklafalairól tekintünk le a vadregényes Hold-öbölre. A délutánt Izolában töltjük: a halászmúltat idéző óvárosban ebédelünk, végül a Svetilnik parkban élvezzük a tengeri szellőt, mielőtt visszatérnénk a piran-i bázisunkra.",
+        "ro": "Cu mașina puteți descoperi întreaga Rivieră slovenă într-o singură zi. Începem cu Piran, apoi conducem spre Rezervația Strunjan pentru o drumeție pe faleză și o oprire în celebrul Golf al Lunii. După-amiaza este dedicată orașului Izola, unde străduțele înguste și portul de pescari oferă cadrul perfect pentru un prânz autentic și o plimbare relaxantă la apus.",
+        "en": "A car allows you to explore the best of the Slovenian coast in one day. Start with the charms of Piran, then drive to Strunjan for a hike atop the Adriatic's highest cliffs overlooking Moon Bay. Spend your afternoon in the fishing town of Izola, enjoying a seafood lunch and a stroll through its colorful streets to the scenic lighthouse park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bujol Izola",
+            "tip": "Traditionelle Fischgerichte ohne viel Schnickschnack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bujol Izola",
+            "tip": "Hagyományos halételek autentikus, családias környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bujol Izola",
+            "tip": "Mâncare tradițională pescărească într-o atmosferă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bujol Izola",
+            "tip": "Traditional seafood focused on quality and local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mondbucht (Mesečev zaliv)",
+            "tip": "Einer der ruhigsten Strände Sloweniens.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hold-öböl",
+            "tip": "Szlovénia egyik legeldugottabb, legnyugodtabb öble.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Lunii",
+            "tip": "Oază de liniște sub stâncile imense din Strunjan.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Moon Bay",
+            "tip": "One of the quietest and most scenic natural bays in Slovenia.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl aus Strunjan",
+            "tip": "Kaufen Sie lokales Öl direkt bei den Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strunjani olívaolaj",
+            "tip": "Vásárolj prémium olívaolajat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline Strunjan",
+            "tip": "Cumpărați ulei de măsline de calitate direct de la ferme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strunjan Olive Oil",
+            "tip": "Buy premium local olive oil directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Piran ist das Parken teuer, nutzen Sie das Parkhaus.",
+          "Die Straße zwischen Strunjan und Izola bietet tolle Fotopunkte.",
+          "Izola ist weniger touristisch als Piran und ideal zum Essen.",
+          "Planen Sie für den Abstieg zur Mondbucht festes Schuhwerk ein."
+        ],
+        "hu": [
+          "Piranban a parkolás drága, mindenképp a kijelölt házat válaszd.",
+          "Strunjan és Izola között több kilátópontnál is megállhatsz fotózni.",
+          "Izola kevésbé zsúfolt, mint Piran, az árak is kedvezőbbek.",
+          "A Hold-öbölbe vezető ösvény meredek, zárt cipő ajánlott."
+        ],
+        "ro": [
+          "Parcarea în Piran este limitată; folosiți garajele de la intrare.",
+          "Drumul de coastă dintre Strunjan și Izola are puncte de belvedere superbe.",
+          "Izola este mai relaxat și oferă prețuri mai bune la restaurante.",
+          "Pentru accesul la plaja Golful Lunii aveți nevoie de încălțăminte de sport."
+        ],
+        "en": [
+          "Parking in Piran is strictly controlled; use the multi-story garage.",
+          "The coastal road between Strunjan and Izola offers great photo ops.",
+          "Izola is less crowded than Piran and perfect for a relaxed lunch.",
+          "The path down to Moon Bay is steep, so wear proper walking shoes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piran Tartini-Platz",
+            "hu": "Piran Tartini tér",
+            "ro": "Piața Tartini Piran",
+            "en": "Piran Tartini Square"
+          },
+          "coords": [
+            13.5685,
+            45.5283
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für alle Buslinien.",
+            "hu": "A helyi buszok indulási pontja a tér közelében.",
+            "ro": "Punct de plecare pentru liniile de autobuz locale.",
+            "en": "Main departure point for local bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Sergej-Mašera-Museum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            13.5675,
+            45.5275
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über Pirans Seefahrtsgeschichte.",
+            "hu": "Ismerd meg Piran gazdag hajózási múltját.",
+            "ro": "Descoperiți istoria maritimă bogată a orașului.",
+            "en": "Learn about Piran's rich seafaring history."
+          }
+        },
+        {
+          "name": {
+            "de": "Portorož Zentrum (Bus)",
+            "hu": "Portorož központ (busz)",
+            "ro": "Portorož Centru (bus)",
+            "en": "Portorož Center (bus)"
+          },
+          "coords": [
+            13.5915,
+            45.5145
+          ],
+          "category": "beach",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der Bus fährt alle 15 Minuten zwischen Piran und Portorož.",
+            "hu": "A busz 15 percenként jár Piran és Portorož között.",
+            "ro": "Autobuzul circulă la fiecare 15 minute spre Portorož.",
+            "en": "The shuttle bus runs every 15 minutes to Portorož."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Portorož",
+            "hu": "Ebéd Portorožban",
+            "ro": "Prânz în Portorož",
+            "en": "Lunch in Portorož"
+          },
+          "coords": [
+            13.5925,
+            45.5135
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Restaurants entlang der Hauptpromenade.",
+            "hu": "Számos étterem vár a fő sétány mentén.",
+            "ro": "Multe opțiuni gastronomice pe promenada principală.",
+            "en": "Many dining options along the main promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Magazzini del Sale Monfort",
+            "hu": "Monfort sóraktárak",
+            "ro": "Depozitele de sare Monfort",
+            "en": "Monfort Salt Warehouses"
+          },
+          "coords": [
+            13.5795,
+            45.5165
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ehemalige Salzlager, heute Galerie und Museum.",
+            "hu": "Régi sóraktárak, ma galéria és kiállítótér.",
+            "ro": "Vechi depozite de sare transformate în galerii de artă.",
+            "en": "Old salt warehouses now used as galleries and museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Piran Rückkehr",
+            "hu": "Visszatérés Piranba",
+            "ro": "Întoarcere în Piran",
+            "en": "Return to Piran"
+          },
+          "coords": [
+            13.5685,
+            45.5283
+          ],
+          "category": "square",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Abschluss auf dem Tartini-Platz.",
+            "hu": "A nap lezárása a Tartini téren.",
+            "ro": "Încheiați ziua cu o cafea în Piața Tartini.",
+            "en": "Finish your day with a coffee at Tartini Square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der hervorragenden Busverbindung zwischen Piran und Portorož ist dieser Tag stressfrei und auto-los. Vormittags tauchen Sie in das Maritime Museum ein, bevor Sie den kurzen Transfer nach Portorož nehmen. Dort genießen Sie das mondäne Flair und den Strand. Auf dem Rückweg halten Sie an den beeindruckenden Monfort-Salzlagern, um Kunst und Geschichte in historischer Architektur zu erleben.",
+        "hu": "Piran és Portorož között kiváló a buszközlekedés, így autó nélkül is teljes az élmény. Reggel a Tengerészeti Múzeumban kezdünk, majd a sűrűn járó busszal Portorožba utazunk egy tengerparti pihenőre. A visszaúton érdemes leszállni a Monfort sóraktáraknál, ahol a monumentális épületekben galériákat és kiállításokat találunk, mielőtt visszaérnénk Piran esti fényeibe.",
+        "ro": "Conexiunea excelentă cu autobuzul între Piran și Portorož face acest itinerariu foarte accesibil. Începem cu istoria maritimă în Piran, apoi luăm busul spre Portorož pentru plajă și relaxare. La întoarcere, ne oprim la depozitele de sare Monfort, clădiri istorice impunătoare care găzduiesc expoziții de artă, încheind ziua înapoi în atmosfera magică a Pieței Tartini.",
+        "en": "With frequent bus shuttles between Piran and Portorož, you can enjoy the best of both worlds without a car. Explore Piran's maritime history in the morning, then hop on a bus to Portorož for a beach afternoon. On your way back, stop at the Monfort salt warehouses to see how these massive historic structures have been turned into art spaces and museums."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrian Tapas",
+            "tip": "Moderne Häppchen mit regionalen Zutaten in Portorož."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Istrian Tapas",
+            "tip": "Modern falatkák helyi alapanyagokból Portorožban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Istrian Tapas",
+            "tip": "Gustări moderne cu ingrediente locale în Portorož."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Tapas",
+            "tip": "Modern bites using traditional Istrian ingredients in Portorož."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bernardin Hügel",
+            "tip": "Ruhiger Blick über die Bucht von Piran.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernardin-domb",
+            "tip": "Csendes kilátópont a két város között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Bernardin",
+            "tip": "Vedere liniștită asupra golfului între cele două orașe.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bernardin Hill",
+            "tip": "A quiet spot for views over the Piran bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Occitane Portorož",
+            "tip": "Exklusive Düfte und Pflege an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portorož butikok",
+            "tip": "Exkluzív üzletek a tengerparti sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-urile din Portorož",
+            "tip": "Magazine exclusiviste pe faleza principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Portorož Boutiques",
+            "tip": "Exclusive shops and boutiques along the promenade."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie die Fahrkarten direkt beim Fahrer oder am Kiosk.",
+          "Der lokale Bus zwischen Piran und Portorož fährt sehr häufig.",
+          "Die Haltestelle in Piran befindet sich direkt am Hafen-Eingang.",
+          "Nutzen Sie die 'Arriva' App für Echtzeit-Fahrpläne."
+        ],
+        "hu": [
+          "A jegyet a buszvezetőnél vagy az újságosnál is megveheted.",
+          "A Piran-Portorož-Lucija buszjárat napközben 15 percenként jár.",
+          "Piranban a megálló közvetlenül a kikötő bejáratánál van.",
+          "Használd az 'Arriva' alkalmazást a pontos menetrendekhez."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate de la șofer sau de la chioșcurile de ziare.",
+          "Linia de autobuz Piran-Portorož circulă foarte des în timpul zilei.",
+          "Stația din Piran este situată chiar la intrarea în port.",
+          "Verificați orarul pe aplicația locală de transport 'Arriva'."
+        ],
+        "en": [
+          "Tickets can be purchased from the driver or at local newsstands.",
+          "The Piran-Portorož-Lucija bus runs every 15 minutes during the day.",
+          "The bus stop in Piran is located right at the harbor entrance.",
+          "Use the 'Arriva' app for real-time bus schedules and routes."
+        ]
+      }
+    }
+  }
+}

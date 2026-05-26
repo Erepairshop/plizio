@@ -33,10 +33,10 @@
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Kaffee auf der legendären Terrasse genießen.",
-            "hu": "Kávézzon a legendás teraszon.",
-            "ro": "Savurați o cafea pe legendara terasă.",
-            "en": "Enjoy a coffee on the legendary terrace."
+            "de": "Das Grand Hotel Kvarner (1884) ist das älteste Hotel Kroatiens – Kaffee auf der Terrasse ab 4 €.",
+            "hu": "A Grand Hotel Kvarner (1884) Horvátország legrégebbi szállodája – kávé a teraszon 4 €-tól.",
+            "ro": "Grand Hotel Kvarner (1884) este cel mai vechi hotel din Croația – cafea pe terasă de la 4 €.",
+            "en": "Grand Hotel Kvarner (1884) is Croatia's oldest hotel – coffee on the terrace from €4."
           }
         },
         {
@@ -56,10 +56,10 @@
           "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Das beste Fotomotiv bei Sonnenaufgang.",
-            "hu": "A legjobb fotótéma napfelkeltekor.",
-            "ro": "Cel mai bun loc pentru poze la răsărit.",
-            "en": "The best photo spot at sunrise."
+            "de": "Das Original-Kunstwerk von 1891 – Frühmorgens (vor 8 Uhr) ohne Menschenmassen fotografieren.",
+            "hu": "Az eredeti szobor 1891-ből – fényképezze reggel 8 előtt tömeg nélkül.",
+            "ro": "Sculptura originală din 1891 – fotografiați-o dimineața devreme (înainte de ora 8) fără mulțimi.",
+            "en": "The original sculpture dates to 1891 – photograph it early morning (before 8 AM) without crowds."
           }
         },
         {
@@ -79,10 +79,10 @@
           "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Eine Oase der Ruhe im Stadtzentrum.",
-            "hu": "A nyugalom oázisa a városközpontban.",
-            "ro": "O oază de liniște în centrul orașului.",
-            "en": "An oasis of peace in the city center."
+            "de": "Barocke Pfarrkirche aus dem 18. Jh.; der Glockenturm bietet einen Rundum-Blick auf Opatija.",
+            "hu": "Barokk plébániatemplom a 18. századból; a harangtoronyból körpanoráma nyílik Opatijára.",
+            "ro": "Biserică parohială barocă din sec. XVIII; turnul clopotniță oferă o panoramă completă a Opatiei.",
+            "en": "Baroque parish church from the 18th century; the bell tower offers a full panorama over Opatija."
           }
         },
         {
@@ -102,10 +102,10 @@
           "hop_from_prev_min": 1,
           "hop_from_prev_km": 0.05,
           "tip_5lang": {
-            "de": "Wechselnde Kunstausstellungen.",
-            "hu": "Változatos művészeti kiállítások.",
-            "ro": "Expoziții de artă temporare.",
-            "en": "Rotating art exhibitions."
+            "de": "Wechselausstellungen zeitgenössischer kroatischer Kunst; Eintritt frei, geöffnet Di–So 10–18 Uhr.",
+            "hu": "Kortárs horvát képzőművészet időszaki kiállítások; belépő ingyenes, nyitva K–V 10–18 óra.",
+            "ro": "Expoziții temporare de artă contemporană croată; intrare gratuită, deschis Ma–Du 10–18.",
+            "en": "Rotating exhibitions of contemporary Croatian art; free entry, open Tue–Sun 10 AM–6 PM."
           }
         },
         {
@@ -125,10 +125,10 @@
           "hop_from_prev_min": 3,
           "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Prachtvolle Architektur der Monarchie.",
-            "hu": "A monarchia pompás építészete.",
-            "ro": "Arhitectura magnifică a monarhiei.",
-            "en": "Magnificent monarchy architecture."
+            "de": "Sommersitz des Grafen Hübsch (1845); die Gartenanlage zeigt 150 tropische Pflanzenarten.",
+            "hu": "Hübsch gróf nyaralója (1845); a kertben 150 trópusi növényfaj látható.",
+            "ro": "Reședința de vară a contelui Hübsch (1845); grădina prezintă 150 de specii de plante tropicale.",
+            "en": "Count Hübsch's summer residence (1845); the garden features 150 tropical plant species."
           }
         },
         {
@@ -148,10 +148,10 @@
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Einblick in die Geschichte des Kurortes.",
-            "hu": "Betekintés az üdülőhely történetébe.",
-            "ro": "O privire în istoria stațiunii.",
-            "en": "Insight into the resort's history."
+            "de": "Einziges Tourismusmuseum Kroatiens; Eintrittspreis 3 €, Audioguide auf Deutsch erhältlich.",
+            "hu": "Horvátország egyetlen idegenforgalmi múzeuma; belépő 3 €, audio-guide magyarul is elérhető.",
+            "ro": "Singurul muzeu de turism din Croația; bilet 3 €, audioghid disponibil și în română.",
+            "en": "Croatia's only tourism museum; entry €3, audio guide available in English."
           }
         },
         {
@@ -171,10 +171,10 @@
           "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Suchen Sie die berühmte Kamelie.",
-            "hu": "Keresse meg a híres kaméliát.",
-            "ro": "Căutați faimoasa camelie.",
-            "en": "Look for the famous camellia."
+            "de": "Die weltberühmte Kamelie blüht Ende Februar bis April – jährliches Kamelien-Festival Ende März.",
+            "hu": "A világhírű kamélia virágzási ideje február végétől áprilisig – éves kámelia-fesztivál március végén.",
+            "ro": "Camelia celebră înflorește de la sfârșitul lui februarie până în aprilie – festival anual la sfârșitul lui martie.",
+            "en": "The famous camellia blooms from late February to April – annual Camellia Festival in late March."
           }
         },
         {
@@ -194,10 +194,10 @@
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Perfekt für eine kurze Pause am Wasser.",
-            "hu": "Tökéletes egy rövid pihenőre a víznél.",
-            "ro": "Perfect pentru o scurtă pauză pe mal.",
-            "en": "Perfect for a short break by the water."
+            "de": "Kleiner Fischerhafen; am frühen Morgen kaufen lokale Restaurants hier den Tagesfang.",
+            "hu": "Kis halászkikötő; kora reggel a helyi éttermek itt veszik a napi fogást.",
+            "ro": "Port mic de pescuit; dimineața devreme restaurantele locale cumpără aici captura zilei.",
+            "en": "Small fishing harbor; in the early morning local restaurants purchase the daily catch here."
           }
         },
         {
@@ -217,10 +217,10 @@
           "hop_from_prev_min": 8,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Genießen Sie die 12 km lange Küstenwanderung.",
-            "hu": "Élvezze a 12 km hosszú partmenti sétát.",
-            "ro": "Bucurați-vă de plimbarea de 12 km pe mal.",
-            "en": "Enjoy the 12 km long coastal walk."
+            "de": "Der gesamte Lungomare ist 12 km lang (bis Lovran); das erste Teilstück bis Volosko ist 3 km.",
+            "hu": "A teljes Lungomare 12 km hosszú (Lovranig); az első szakasz Voloskoig 3 km.",
+            "ro": "Lungomare-ul complet are 12 km (până la Lovran); primul tronson până la Volosko este de 3 km.",
+            "en": "The full Lungomare stretches 12 km (to Lovran); the first section to Volosko is 3 km."
           }
         },
         {
@@ -240,10 +240,10 @@
           "hop_from_prev_min": 6,
           "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Entspannung pur am Hauptstrand.",
-            "hu": "Tiszta kikapcsolódás a főstrandon.",
-            "ro": "Relaxare totală pe plaja principală.",
-            "en": "Pure relaxation at the main beach."
+            "de": "Der Strandeintritt kostet im Sommer ca. 3 €; kein Kieselstrand – Betonplattformen mit Leitern.",
+            "hu": "Nyáron a strandbelépő kb. 3 €; nincs kavics – betonplatformok létrákkal.",
+            "ro": "Intrarea pe plajă costă cca. 3 € vara; nu e plajă cu pietriș – platforme de beton cu scări.",
+            "en": "Beach entry costs about €3 in summer; no pebbles – concrete platforms with ladders into the sea."
           }
         }
       ],
@@ -256,137 +256,169 @@
       "gastro_picks": {
         "de": [
           {
-            "name": "Kvarner-Scampi",
-            "tip": "Probieren Sie diese Delikatesse im Restaurant Bevanda."
+            "name": "Konoba Bevanda",
+            "tip": "Kvarner-Scampi (Adriagarnele) – Opatijas ikonisches Gericht; Reservierung empfohlen, ca. 30 €/Person."
           },
           {
-            "name": "Marunada",
-            "tip": "Spezialitäten aus Edelkastanien."
+            "name": "Slastičarna Angiolina",
+            "tip": "Traditionelle Konditorei in der Nähe des Parks; probieren Sie den Schoko-Maronenkuchen (Marunada)."
+          },
+          {
+            "name": "Volosko Fischermarkt-Lunch",
+            "tip": "Im Nachbarort Volosko (20 Min. Lungomare-Walk) lokale Restaurants mit Tageskarte ab 15 €."
           }
         ],
         "hu": [
           {
-            "name": "Kvarneri skampi",
-            "tip": "Kóstolja meg a Bevanda étteremben."
+            "name": "Konoba Bevanda",
+            "tip": "Kvarner-scampi (adriai rák) – Opatija ikonikus étele; foglalás ajánlott, kb. 30 €/fő."
           },
           {
-            "name": "Marunada",
-            "tip": "Szelídgesztenyés különlegességek."
+            "name": "Slastičarna Angiolina",
+            "tip": "Hagyományos cukrászda a park közelében; kóstoljuk meg a csokoládés gesztenyetortát (marunada)."
+          },
+          {
+            "name": "Volosko halászkikötői ebéd",
+            "tip": "A szomszéd Voloskóban (20 perc Lungomare) helyi éttermek napi menüje 15 €-tól."
           }
         ],
         "ro": [
           {
-            "name": "Scampi de Kvarner",
-            "tip": "Gustați-i la restaurantul Bevanda."
+            "name": "Konoba Bevanda",
+            "tip": "Scampi Kvarner (creveți adriatici) – preparatul iconic al Opatiei; rezervare recomandată, cca. 30 €/persoană."
           },
           {
-            "name": "Marunada",
-            "tip": "Specialități din castane."
+            "name": "Slastičarna Angiolina",
+            "tip": "Patiserie tradițională lângă parc; încercați tortul de ciocolată cu castane (marunada)."
+          },
+          {
+            "name": "Prânz la portul din Volosko",
+            "tip": "În Volosko vecin (20 min Lungomare) restaurante locale cu meniu zilnic de la 15 €."
           }
         ],
         "en": [
           {
-            "name": "Kvarner Scampi",
-            "tip": "Try this delicacy at Bevanda restaurant."
+            "name": "Konoba Bevanda",
+            "tip": "Kvarner scampi (Adriatic prawns) – Opatija's iconic dish; reservation recommended, about €30/person."
           },
           {
-            "name": "Marunada",
-            "tip": "Chestnut-based specialties."
+            "name": "Slastičarna Angiolina",
+            "tip": "Traditional pastry shop near the park; try the chocolate chestnut cake (marunada specialty)."
+          },
+          {
+            "name": "Volosko harbor lunch",
+            "tip": "In neighboring Volosko (20 min Lungomare walk) local restaurants with daily menus from €15."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Lungomare Bänke",
-            "tip": "Meeresblick genießen.",
-            "emoji": "🌅"
+            "name": "Lungomare-Bänke nach Volosko",
+            "tip": "Ab 18 Uhr sind die Bänke nach dem Hafen fast leer – ruhiger Sonnenuntergangspunkt.",
+            "emoji": "🌊"
           },
           {
-            "name": "Park Angiolina",
-            "tip": "Stiller Ort bei den Palmen.",
-            "emoji": "🧘"
+            "name": "Angiolina Park Nordecke",
+            "tip": "Versteckte Bank unter einer 150 Jahre alten Magnolie – kaum frequentiert nachmittags.",
+            "emoji": "🌸"
           }
         ],
         "hu": [
           {
-            "name": "Lungomare padok",
-            "tip": "Tengeri kilátás.",
-            "emoji": "🌅"
+            "name": "Lungomare padok Volosko felé",
+            "tip": "18 óra után a kikötőn túli padok szinte üresek – csendes naplementés hely.",
+            "emoji": "🌊"
           },
           {
-            "name": "Angiolina park",
-            "tip": "Csendes hely a pálmák között.",
-            "emoji": "🧘"
+            "name": "Angiolina Park északi sarka",
+            "tip": "Rejtett pad egy 150 éves magnólia alatt – délután szinte senki nem jár erre.",
+            "emoji": "🌸"
           }
         ],
         "ro": [
           {
-            "name": "Bănci Lungomare",
-            "tip": "Vedere la mare.",
-            "emoji": "🌅"
+            "name": "Băncile Lungomare spre Volosko",
+            "tip": "După ora 18, băncile de după port sunt aproape goale – loc liniștit de apus.",
+            "emoji": "🌊"
           },
           {
-            "name": "Parcul Angiolina",
-            "tip": "Loc liniștit printre palmieri.",
-            "emoji": "🧘"
+            "name": "Colțul nordic al Parcului Angiolina",
+            "tip": "Bancă ascunsă sub o magnolie de 150 de ani – aproape nefrequentată după-amiaza.",
+            "emoji": "🌸"
           }
         ],
         "en": [
           {
-            "name": "Lungomare benches",
-            "tip": "Enjoy the sea view.",
-            "emoji": "🌅"
+            "name": "Lungomare benches towards Volosko",
+            "tip": "After 6 PM the benches past the port are almost empty – a quiet sunset spot.",
+            "emoji": "🌊"
           },
           {
-            "name": "Angiolina Park",
-            "tip": "Quiet spot among palms.",
-            "emoji": "🧘"
+            "name": "Angiolina Park north corner",
+            "tip": "Hidden bench under a 150-year-old magnolia tree – almost no visitors in the afternoon.",
+            "emoji": "🌸"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Opatija Markt",
-            "tip": "Lokale Produkte und Honig."
+            "name": "Opatija Markt (Tržnica)",
+            "tip": "Frischer Honig, Lavender-Produkte und lokaler Käse; Di–Sa 7–13 Uhr, Lica-Straße."
           }
         ],
         "hu": [
           {
-            "name": "Opatijai piac",
-            "tip": "Helyi termékek és méz."
+            "name": "Opatija piac (Tržnica)",
+            "tip": "Friss méz, levendula-termékek és helyi sajt; K–Szo 7–13 óra, Lica utca."
           }
         ],
         "ro": [
           {
-            "name": "Piața Opatija",
-            "tip": "Produse locale și miere."
+            "name": "Piața Opatija (Tržnica)",
+            "tip": "Miere proaspătă, produse de lavandă și brânză locală; Ma–Sa 7–13, strada Lica."
           }
         ],
         "en": [
           {
-            "name": "Opatija Market",
-            "tip": "Local products and honey."
+            "name": "Opatija Market (Tržnica)",
+            "tip": "Fresh honey, lavender products and local cheese; Tue–Sat 7 AM–1 PM, Lica street."
           }
         ]
       },
       "tips": {
         "de": [
-          "Bequeme Schuhe tragen.",
-          "Sonnenschutz nicht vergessen."
+          "Der Lungomare wurde 1885 angelegt und ist komplett flach – ideal auch für Rollstuhlfahrer.",
+          "Parken im Zentrum kostet 1,50–2 € pro Stunde; Parkhaus Slatina ist am günstigsten.",
+          "Das Kamelien-Festival Ende März ist der beste Grund für einen Frühjahrbesuch.",
+          "Strand Slatina hat Betonplattformen und Leitern, keinen Sandboden – Badeschuhe empfohlen.",
+          "Das Tourismusmuseum (Villa Angiolina) hat Montag Ruhetag – Besuchsplanung beachten.",
+          "Im Sommer ist der Lungomare nachmittags sehr belebt; für ruhige Spaziergänge früh starten."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt.",
-          "Ne felejtse el a fényvédőt."
+          "A Lungomare-t 1885-ben építették, teljesen lapos – kerekesszékes látogatóknak is ideális.",
+          "A belvárosban a parkolás 1,50–2 €/óra; a Slatina parkolóház a legolcsóbb.",
+          "A márciusi végi Kameliafesztivál a legjobb ok a tavaszi látogatásra.",
+          "A Slatina strandon betonplatformok és létrák vannak, nem homok – strandcipő ajánlott.",
+          "A Turizmus Múzeum (Villa Angiolina) hétfőn zárva – tervezze be.",
+          "Nyáron a Lungomare délután nagyon zsúfolt; nyugodt sétára induljon korán."
         ],
         "ro": [
-          "Purtați pantofi comozi.",
-          "Nu uitați protecția solară."
+          "Lungomare-ul a fost construit în 1885 și este complet plat – ideal și pentru persoane în scaun cu rotile.",
+          "Parcarea în centru costă 1,50–2 €/oră; parcarea Slatina este cea mai ieftină opțiune.",
+          "Festivalul cameliei de la sfârșitul lui martie este cel mai bun motiv pentru o vizită de primăvară.",
+          "Plaja Slatina are platforme de beton și scări, nu nisip – papuci de baie recomandați.",
+          "Muzeul Turismului (Villa Angiolina) este închis luni – planificați vizita în consecință.",
+          "Vara, Lungomare-ul este foarte aglomerat după-amiaza; plecați devreme pentru plimbări liniștite."
         ],
         "en": [
-          "Wear comfortable shoes.",
-          "Don't forget sun protection."
+          "The Lungomare was built in 1885 and is completely flat – suitable even for wheelchair users.",
+          "Parking in the center costs €1.50–2/hour; the Slatina car park is the cheapest option.",
+          "The Camellia Festival in late March is the best reason for a spring visit.",
+          "Slatina Beach has concrete platforms and ladders, not sand – water shoes are recommended.",
+          "The Tourism Museum (Villa Angiolina) is closed on Mondays – plan your visit accordingly.",
+          "In summer the Lungomare is very crowded in the afternoon; start early for a peaceful walk."
         ]
       },
       "variants": {
@@ -963,10 +995,10 @@
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Startpunkt für Radtouren.",
-            "hu": "Kiindulópont kerékpártúrákhoz.",
-            "ro": "Punct de plecare pentru ture cu bicicleta.",
-            "en": "Starting point for bike tours."
+            "de": "Der Hafen ist der ideale Startpunkt für Radtouren Richtung Volosko oder entlang des Lungomare.",
+            "hu": "A kikötő tökéletes kiindulópont Volosko felé vagy a Lungomare mentén induló kerékpártúrákhoz.",
+            "ro": "Portul este punctul de plecare ideal pentru ture cu bicicleta spre Volosko sau de-a lungul Lungomare.",
+            "en": "The port is the ideal starting point for bike tours towards Volosko or along the Lungomare."
           }
         },
         {
@@ -986,10 +1018,10 @@
           "hop_from_prev_min": 3,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Fahrrad kurz abstellen und spazieren.",
-            "hu": "Tegye le a biciklit és sétáljon.",
-            "ro": "Lăsați bicicleta și plimbați-vă.",
-            "en": "Park your bike and take a walk."
+            "de": "Fahrrad am Parkeingang abstellen (kostenlose Ständer) – im Park selbst nicht radfahren erlaubt.",
+            "hu": "A park bejáratánál hagyja kerékpárját (ingyenes állvány) – a parkban kerékpározás tilos.",
+            "ro": "Lăsați bicicleta la intrarea în parc (suporturi gratuite) – ciclismul în parc nu este permis.",
+            "en": "Leave your bike at the park entrance (free stands) – cycling inside the park is not permitted."
           }
         },
         {
@@ -1009,10 +1041,10 @@
           "hop_from_prev_min": 1,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Historisches Zentrum besichtigen.",
-            "hu": "Tekintse meg a történelmi központot.",
-            "ro": "Vizitați centrul istoric.",
-            "en": "Visit the historic center."
+            "de": "Das Gebäude von 1845 ist restauriert – das Museum im Inneren kostet 3 € Eintritt.",
+            "hu": "Az 1845-ös épület restaurálva van – a belső múzeum belépője 3 €.",
+            "ro": "Clădirea din 1845 este restaurată – muzeul din interior costă 3 € intrarea.",
+            "en": "The 1845 building is restored – the museum inside charges €3 entry."
           }
         },
         {
@@ -1032,10 +1064,10 @@
           "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Kurzer Fotostopp am Meer.",
-            "hu": "Rövid fotómegálló a tengernél.",
-            "ro": "Scurt popas foto la mare.",
-            "en": "Short photo stop by the sea."
+            "de": "Kurzer Fotostopp; am frühen Morgen ohne Touristen – dann weiterradeln Richtung Volosko.",
+            "hu": "Rövid fotómegálló; reggel turisták nélkül – aztán tovább kerékpározni Volosko felé.",
+            "ro": "Scurtă oprire foto; dimineața fără turiști – apoi continuați spre Volosko.",
+            "en": "Short photo stop; early morning without tourists – then cycle on towards Volosko."
           }
         },
         {
@@ -1055,10 +1087,10 @@
           "hop_from_prev_min": 3,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Vorsicht bei Fußgängern auf dem Weg.",
-            "hu": "Vigyázzon a gyalogosokra az úton.",
-            "ro": "Atenție la pietonii de pe drum.",
-            "en": "Watch out for pedestrians on the path."
+            "de": "Die Route entlang des Lungomare ist für Radfahrer und Fußgänger geteilt – langsam fahren, besonders im Sommer.",
+            "hu": "A Lungomare mentén a gyalogosokkal és kerékpárosokkal megosztott útvonalon lassan haladjon, különösen nyáron.",
+            "ro": "Traseul de-a lungul Lungomare este împărțit cu pietonii – mergeți încet, mai ales vara.",
+            "en": "The Lungomare route is shared with pedestrians – ride slowly, especially in summer."
           }
         },
         {
@@ -1078,10 +1110,10 @@
           "hop_from_prev_min": 3,
           "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Verdiente Erfrischung nach der Tour.",
-            "hu": "Megérdemelt felfrissülés a túra után.",
-            "ro": "Răcorire binemeritată după tură.",
-            "en": "Well-deserved refreshment after the tour."
+            "de": "Fahrrad am Strand sicher anschließen – kein bewachter Abstellplatz, Schloss notwendig.",
+            "hu": "Biztosan zárja le kerékpárját a strandnál – nincs őrzött kerékpártároló, láncos zár szükséges.",
+            "ro": "Asigurați bicicleta bine la plajă – nu există parcare supravegheată, lacăt obligatoriu.",
+            "en": "Lock your bike securely at the beach – no supervised rack, a strong lock is necessary."
           }
         }
       ],
@@ -1094,101 +1126,169 @@
       "gastro_picks": {
         "de": [
           {
-            "name": "Eis am Hafen",
-            "tip": "Erfrischung zwischendurch."
+            "name": "Eisdiele am Hafen",
+            "tip": "Cremiges kroatisches Eis ab 1,50 € pro Kugel – ideale Erfrischung auf der Radroute."
+          },
+          {
+            "name": "Konoba Ribarnica Volosko",
+            "tip": "Im 3 km entfernten Volosko; frischer Fisch direkt vom Hafen, Mittagsmenü ab 15 €."
+          },
+          {
+            "name": "Café Lungomare",
+            "tip": "Kaffee und Kuchen auf der Terrasse mit Meerblick – gut für eine kurze Radpause."
           }
         ],
         "hu": [
           {
-            "name": "Fagylalt a kikötőben",
-            "tip": "Felfrissülés útközben."
+            "name": "Fagylaltozó a kikötőnél",
+            "tip": "Krémes horvát fagylalt 1,50 €-tól/gombóc – ideális frissítő a kerékpáros útvonalon."
+          },
+          {
+            "name": "Konoba Ribarnica Volosko",
+            "tip": "A 3 km-re lévő Voloskóban; friss halak közvetlenül a kikötőből, ebéd 15 €-tól."
+          },
+          {
+            "name": "Café Lungomare",
+            "tip": "Kávé és sütemény tengeri kilátással a teraszon – jó rövid kerékpáros pihenőre."
           }
         ],
         "ro": [
           {
-            "name": "Înghețată în port",
-            "tip": "Răcorire pe parcurs."
+            "name": "Gelaterie la port",
+            "tip": "Înghețată cremoasă croată de la 1,50 € per bilă – răcorire ideală pe traseul de ciclism."
+          },
+          {
+            "name": "Konoba Ribarnica Volosko",
+            "tip": "În Volosko la 3 km; pește proaspăt direct din port, meniu de prânz de la 15 €."
+          },
+          {
+            "name": "Café Lungomare",
+            "tip": "Cafea și prăjitură pe terasă cu vedere la mare – bun pentru o scurtă pauză de ciclism."
           }
         ],
         "en": [
           {
-            "name": "Ice cream at the port",
-            "tip": "Refreshment on the way."
+            "name": "Harbour ice cream stall",
+            "tip": "Creamy Croatian ice cream from €1.50/scoop – ideal refreshment on the bike route."
+          },
+          {
+            "name": "Konoba Ribarnica Volosko",
+            "tip": "In Volosko 3 km away; fresh fish straight from the harbor, lunch menu from €15."
+          },
+          {
+            "name": "Café Lungomare",
+            "tip": "Coffee and cake on a sea-view terrace – good for a quick cycling break."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Kleine Buchten",
-            "tip": "Stopps entlang der Küste.",
-            "emoji": "🏞️"
+            "name": "Kleine Buchten zwischen Opatija und Volosko",
+            "tip": "Drei versteckte Felsbuchten ohne Lieger-Service – nur per Fahrrad oder zu Fuß erreichbar.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Angiolina Park frühmorgens",
+            "tip": "Vor 9 Uhr morgens ist der Park fast menschenleer – beste Zeit für Fotos der Magnolien.",
+            "emoji": "🌸"
           }
         ],
         "hu": [
           {
-            "name": "Kis öblök",
-            "tip": "Megállók a part mentén.",
-            "emoji": "🏞️"
+            "name": "Kis öblök Opatija és Volosko között",
+            "tip": "Három rejtett sziklás öböl liegestuhl-szolgáltatás nélkül – csak kerékpárral vagy gyalog érhető el.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Angiolina Park kora reggel",
+            "tip": "9 óra előtt a park szinte üres – legjobb idő a magnóliák lefotózásához.",
+            "emoji": "🌸"
           }
         ],
         "ro": [
           {
-            "name": "Mici golfuri",
-            "tip": "Opriri de-a lungul coastei.",
-            "emoji": "🏞️"
+            "name": "Golfuri mici între Opatija și Volosko",
+            "tip": "Trei golfuri stâncoase ascunse fără șezlonguri – accesibile doar cu bicicleta sau pe jos.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Parcul Angiolina dimineața devreme",
+            "tip": "Înainte de ora 9 parcul e aproape gol – cel mai bun moment pentru fotografierea magnoliilor.",
+            "emoji": "🌸"
           }
         ],
         "en": [
           {
-            "name": "Small bays",
-            "tip": "Stops along the coast.",
-            "emoji": "🏞️"
+            "name": "Small coves between Opatija and Volosko",
+            "tip": "Three hidden rocky coves with no lounger service – only reachable by bike or on foot.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Angiolina Park early morning",
+            "tip": "Before 9 AM the park is almost deserted – best time to photograph the magnolias.",
+            "emoji": "🌸"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Souvenirs Slatina",
-            "tip": "Kleine Andenken kaufen."
+            "name": "Slatina-Souvenirs",
+            "tip": "Kleine Andenken und kroatische Lavendel-Produkte nahe dem Strand, Strandpromenade."
           }
         ],
         "hu": [
           {
-            "name": "Slatina szuvenír",
-            "tip": "Vásároljon apró emlékeket."
+            "name": "Slatina ajándékbolt",
+            "tip": "Kis emlékek és horvát levendula-termékek a strand közelében, sétány."
           }
         ],
         "ro": [
           {
             "name": "Suveniruri Slatina",
-            "tip": "Cumpărați mici amintiri."
+            "tip": "Suveniruri mici și produse de lavandă croată lângă plajă, pe promenadă."
           }
         ],
         "en": [
           {
             "name": "Slatina souvenirs",
-            "tip": "Buy small mementos."
+            "tip": "Small mementos and Croatian lavender products near the beach, on the promenade."
           }
         ]
       },
       "tips": {
         "de": [
-          "Helmpflicht beachten.",
-          "Genügend Wasser mitnehmen."
+          "Leihräder bei Rent-a-Bike Opatija ab 10 €/Tag – Helm im Preis inbegriffen.",
+          "Helm tragen ist in Kroatien für Erwachsene nicht Pflicht, aber sehr empfohlen.",
+          "Der Lungomare ist kein offizieller Radweg – gehen Sie Rücksicht auf Fußgänger.",
+          "Ausreichend Wasser mitnehmen; kein Brunnen auf der Strecke Richtung Volosko.",
+          "Im Sommer ist der Weg zwischen 12 und 16 Uhr am stärksten frequentiert – früh radeln.",
+          "Volosko (3 km) hat ausgezeichnete Restaurants – ideal als Mittagsziel."
         ],
         "hu": [
-          "Ügyeljen a sisak használatára.",
-          "Vigyen elég vizet."
+          "Bérkeriékpár a Rent-a-Bike Opatijánál 10 €/naptól – a sisak az árban benne van.",
+          "Sisak viselése Horvátországban felnőtteknek nem kötelező, de nagyon ajánlott.",
+          "A Lungomare nem hivatalos kerékpárút – legyünk figyelemmel a gyalogosokra.",
+          "Vigyen elég vizet; Volosko felé nincs ivókút az útvonalon.",
+          "Nyáron 12–16 óra közt a legzsúfoltabb az út – korán kerékpározzon.",
+          "Volosko (3 km) kiváló éttermekkel rendelkezik – ideális ebéd-célpont."
         ],
         "ro": [
-          "Respectați purtarea căștii.",
-          "Luați destulă apă."
+          "Biciclete de închiriat la Rent-a-Bike Opatija de la 10 €/zi – casca inclusă în preț.",
+          "Purtarea căștii nu este obligatorie pentru adulți în Croația, dar este foarte recomandată.",
+          "Lungomare nu este o pistă oficială de biciclete – fiți atenți la pietoni.",
+          "Luați suficientă apă; nu există fântâni pe traseul spre Volosko.",
+          "Vara, traseul este cel mai aglomerat între 12 și 16 – mergeți cu bicicleta devreme.",
+          "Volosko (3 km) are restaurante excelente – ideal ca destinație de prânz."
         ],
         "en": [
-          "Observe helmet rules.",
-          "Take enough water."
+          "Bike rentals at Rent-a-Bike Opatija from €10/day – helmet included in the price.",
+          "Wearing a helmet is not mandatory for adults in Croatia but is strongly recommended.",
+          "The Lungomare is not an official cycle path – be considerate of pedestrians.",
+          "Bring enough water; no drinking fountain on the route towards Volosko.",
+          "In summer the path is busiest between noon and 4 PM – cycle early.",
+          "Volosko (3 km) has excellent restaurants – ideal as a lunch destination."
         ]
       },
       "variants": {
@@ -1601,10 +1701,10 @@
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Parkhaus in der Nähe nutzen.",
-            "hu": "Használja a közeli parkolóházat.",
-            "ro": "Folosiți parcarea din apropiere.",
-            "en": "Use the nearby parking garage."
+            "de": "Nächstes Parkhaus Slatina 300 m entfernt; Tageskarte 8 € – günstigste Option im Zentrum.",
+            "hu": "A legközelebbi parkolóház (Slatina) 300 m-re; napijegy 8 € – a legolcsóbb opció a belvárosban.",
+            "ro": "Parcarea Slatina la 300 m, bilet de zi 8 € – cea mai ieftină opțiune din centru.",
+            "en": "Nearest car park (Slatina) is 300 m away; day ticket €8 – cheapest central option."
           }
         },
         {
@@ -1624,10 +1724,10 @@
           "hop_from_prev_min": 3,
           "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Kurzer Spaziergang vom Parkplatz.",
-            "hu": "Rövid séta a parkolótól.",
-            "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking."
+            "de": "Kurze Parkmöglichkeit entlang der Strandpromenade; 15 Minuten kostenlos zum Fotografieren.",
+            "hu": "Rövid parkolási lehetőség a strandpromenádon; 15 perc ingyenes fotózáshoz.",
+            "ro": "Parcare scurtă de-a lungul promenadei plajei; 15 minute gratuite pentru fotografiat.",
+            "en": "Short parking along the beach promenade; 15 minutes free for photos."
           }
         },
         {
@@ -1647,10 +1747,10 @@
           "hop_from_prev_min": 3,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Zentraler Ort für Besichtigungen.",
-            "hu": "Központi hely a városnézéshez.",
-            "ro": "Loc central pentru vizitare.",
-            "en": "Central spot for sightseeing."
+            "de": "Eintritt 3 €; Parken im Parkhaus Slatina und 5 Minuten zu Fuß zur Villa.",
+            "hu": "Belépő 3 €; parkoljon a Slatina parkolóban és 5 perc sétával érhető el a villa.",
+            "ro": "Bilet 3 €; parcați la Slatina și mergeți 5 minute pe jos până la vilă.",
+            "en": "Entry €3; park at Slatina car park and walk 5 minutes to the villa."
           }
         },
         {
@@ -1670,10 +1770,10 @@
           "hop_from_prev_min": 4,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Schöner Blick auf die Boote.",
-            "hu": "Szép kilátás a hajókra.",
-            "ro": "Vedere frumoasă la bărci.",
-            "en": "Beautiful view of the boats."
+            "de": "Wenige Parkplätze direkt am Hafen; alternativ im Parkhaus Slatina und 10 Minuten Spaziergang.",
+            "hu": "Kevés parkolóhely közvetlenül a kikötőnél; alternatíva: Slatina parkoló és 10 perc séta.",
+            "ro": "Puține locuri de parcare direct la port; alternativ parcarea Slatina și 10 minute pe jos.",
+            "en": "Few parking spots directly at the harbor; alternatively park at Slatina and walk 10 minutes."
           }
         },
         {
@@ -1693,10 +1793,10 @@
           "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Entspannung vor der Heimfahrt.",
-            "hu": "Pihenés a hazautazás előtt.",
-            "ro": "Relaxare înainte de plecare.",
-            "en": "Relaxation before driving home."
+            "de": "Entspannter Spaziergang durch den Park – idealer Abschluss vor der Rückfahrt, kein Eintritt.",
+            "hu": "Pihentető séta a parkban – tökéletes záróakkord a hazaút előtt, belépő nélkül.",
+            "ro": "Plimbare relaxată prin parc – final ideal înainte de drum, fără taxă de intrare.",
+            "en": "Relaxed walk through the park – ideal way to end the visit before the drive home, no entry fee."
           }
         }
       ],
@@ -1709,101 +1809,169 @@
       "gastro_picks": {
         "de": [
           {
-            "name": "Lokales Fischrestaurant",
-            "tip": "Frischer Fang des Tages."
+            "name": "Restaurant Amfora",
+            "tip": "Direkt am Hafen; frischer Fisch des Tages, Parkplatz am Hafen für Gäste."
+          },
+          {
+            "name": "Konoba Bevanda",
+            "tip": "Kvarner-Scampi – Pflichtgericht in Opatija; Parken nahe dem Restaurant an der Hauptstraße."
+          },
+          {
+            "name": "Caffe Bar Hemingway",
+            "tip": "Historische Terrasse an der Hauptstraße; Kaffee und Kuchen, Parken auf dem nahegelegenen Platz."
           }
         ],
         "hu": [
           {
-            "name": "Helyi halétterem",
-            "tip": "Friss napi fogás."
+            "name": "Restaurant Amfora",
+            "tip": "Közvetlenül a kikötőnél; napi friss hal, parkolóhely a vendégeknek a kikötőnél."
+          },
+          {
+            "name": "Konoba Bevanda",
+            "tip": "Kvarner scampi – kötelező fogás Opatijában; parkolás a főút melletti étterem közelében."
+          },
+          {
+            "name": "Caffe Bar Hemingway",
+            "tip": "Történelmi terasz a főutcán; kávé és sütemény, parkolás a közeli téren."
           }
         ],
         "ro": [
           {
-            "name": "Restaurant local de pește",
-            "tip": "Captură proaspătă a zilei."
+            "name": "Restaurant Amfora",
+            "tip": "Direct la port; pește proaspăt al zilei, parcare la port pentru clienți."
+          },
+          {
+            "name": "Konoba Bevanda",
+            "tip": "Scampi Kvarner – preparat obligatoriu în Opatija; parcare lângă restaurant pe strada principală."
+          },
+          {
+            "name": "Caffe Bar Hemingway",
+            "tip": "Terasă istorică pe strada principală; cafea și prăjituri, parcare în piața din apropiere."
           }
         ],
         "en": [
           {
-            "name": "Local fish restaurant",
-            "tip": "Fresh catch of the day."
+            "name": "Restaurant Amfora",
+            "tip": "Right at the harbor; fresh catch of the day, parking at the port for guests."
+          },
+          {
+            "name": "Konoba Bevanda",
+            "tip": "Kvarner scampi – obligatory dish in Opatija; parking near the restaurant on the main road."
+          },
+          {
+            "name": "Caffe Bar Hemingway",
+            "tip": "Historic terrace on the main street; coffee and cake, parking in the nearby square."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Parkbänke",
-            "tip": "Ruhiger Platz im Schatten.",
-            "emoji": "🍃"
+            "name": "Parkbänke Angiolina",
+            "tip": "Schattige Sitzplätze unter Zedern – kaum Besucher in der Mittagspause (13–15 Uhr).",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Volosko Hafen",
+            "tip": "Kleines Fischerdorf 3 km nördlich; per Auto in 5 Minuten erreichbar, ruhige Atmosphäre.",
+            "emoji": "⛵"
           }
         ],
         "hu": [
           {
-            "name": "Parki padok",
-            "tip": "Csendes hely az árnyékban.",
-            "emoji": "🍃"
+            "name": "Angiolina park padjai",
+            "tip": "Árnyas ülőhelyek cédrusok alatt – ebédszünetben (13–15 óra) alig van látogató.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Volosko kikötő",
+            "tip": "3 km-re fekvő kis halászfalu; autóval 5 perc, csendes hangulat.",
+            "emoji": "⛵"
           }
         ],
         "ro": [
           {
-            "name": "Bănci în parc",
-            "tip": "Loc liniștit la umbră.",
-            "emoji": "🍃"
+            "name": "Băncile din Parcul Angiolina",
+            "tip": "Locuri la umbra cedrilior – aproape fără vizitatori la prânz (13–15).",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Portul Volosko",
+            "tip": "Sat mic de pescari la 3 km nord; la 5 minute cu mașina, atmosferă liniștită.",
+            "emoji": "⛵"
           }
         ],
         "en": [
           {
-            "name": "Park benches",
-            "tip": "Quiet spot in the shade.",
-            "emoji": "🍃"
+            "name": "Angiolina park benches",
+            "tip": "Shaded seats under cedar trees – almost no visitors during lunch hour (1–3 PM).",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Volosko harbor",
+            "tip": "Small fishing village 3 km north; 5 minutes by car, quiet atmosphere.",
+            "emoji": "⛵"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Boutiquen Zentrum",
-            "tip": "Einkaufen in der Stadt."
+            "name": "Boutiquen Hauptstraße",
+            "tip": "Lokale Designerläden und kroatische Lavendelprodukte entlang der Ul. Maršala Tita."
           }
         ],
         "hu": [
           {
-            "name": "Belvárosi butikok",
-            "tip": "Vásárlás a városban."
+            "name": "Főutcai butikok",
+            "tip": "Helyi dizájnüzletek és horvát levendula-termékek az Ul. Maršala Tita mentén."
           }
         ],
         "ro": [
           {
-            "name": "Buticuri în centru",
-            "tip": "Cumpărături în oraș."
+            "name": "Buticuri pe strada principală",
+            "tip": "Magazine de design local și produse de lavandă croată de-a lungul Ul. Maršala Tita."
           }
         ],
         "en": [
           {
-            "name": "Center boutiques",
-            "tip": "Shopping in the city."
+            "name": "Main street boutiques",
+            "tip": "Local designer shops and Croatian lavender products along Ul. Maršala Tita."
           }
         ]
       },
       "tips": {
         "de": [
-          "Parkgebühren beachten.",
-          "Früh parken, da Plätze begrenzt sind."
+          "Parkhaus Slatina ist die günstigste Option: 8 € Tageskarte, 300 m vom Zentrum entfernt.",
+          "Straßenparken im Zentrum kostet 2 €/Stunde und ist auf 2 Stunden begrenzt.",
+          "Nach 18 Uhr ist Parken entlang der Strandpromenade kostenlos.",
+          "Volosko (3 km nördlich) lohnt sich für ein Mittagessen – mehr Parkplätze als in Opatija.",
+          "Das Tourismusmuseum hat montags Ruhetag – kein Umweg dorthin am Montag.",
+          "Im Sommer stauen sich die Autos auf der Hauptstraße nach 10 Uhr – früh anreisen."
         ],
         "hu": [
-          "Ügyeljen a parkolási díjakra.",
-          "Parkoljon korán a kevés hely miatt."
+          "A Slatina parkolóház a legolcsóbb opció: 8 € napijegy, 300 m a belvárostól.",
+          "Az utcai parkolás a belvárosban 2 €/óra és 2 óra maximumra korlátozott.",
+          "18 óra után a strandpromenádon ingyenes a parkolás.",
+          "Volosko (3 km északra) megéri ebédre – több parkolóhely, mint Opatijában.",
+          "A Turisztikai Múzeum hétfőn zárva – ne keressen oda hétfőn.",
+          "Nyáron a főutcán 10 óra után torlódik a forgalom – érkezzen korán."
         ],
         "ro": [
-          "Atenție la taxele de parcare.",
-          "Parcați devreme, locurile sunt limitate."
+          "Parcarea Slatina este cea mai ieftină opțiune: 8 € bilet de zi, la 300 m de centru.",
+          "Parcarea pe stradă în centru costă 2 €/oră și este limitată la 2 ore.",
+          "După ora 18 parcarea de-a lungul promenadei plajei este gratuită.",
+          "Volosko (3 km spre nord) merită pentru prânz – mai multe locuri de parcare decât în Opatija.",
+          "Muzeul Turismului este închis luni – nu faceți un ocol acolo luni.",
+          "Vara, traficul pe strada principală se blochează după ora 10 – sosiți devreme."
         ],
         "en": [
-          "Watch out for parking fees.",
-          "Park early as spots are limited."
+          "Slatina car park is cheapest: €8 day ticket, 300 m from the center.",
+          "Street parking in the center costs €2/hour and is limited to 2 hours.",
+          "After 6 PM parking along the beach promenade is free.",
+          "Volosko (3 km north) is worth a lunch stop – more parking than in Opatija.",
+          "The Tourism Museum is closed on Mondays – avoid a detour there on Monday.",
+          "In summer traffic on the main road backs up after 10 AM – arrive early."
         ]
       },
       "variants": {
@@ -2184,10 +2352,10 @@
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Zentraler Busknotenpunkt.",
-            "hu": "Központi buszcsomópont.",
-            "ro": "Nod central de autobuz.",
-            "en": "Central bus hub."
+            "de": "Hauptbushaltestelle Opatija liegt direkt am Strand; Busse aus Rijeka fahren ca. alle 20 Minuten.",
+            "hu": "Opatija fő buszmegállója közvetlenül a strand mellett van; Rijekából kb. 20 percenként jár busz.",
+            "ro": "Stația principală de autobuz Opatija e direct la plajă; autobuzele din Rijeka vin la cca. 20 de minute.",
+            "en": "Opatija main bus stop is right at the beach; buses from Rijeka run about every 20 minutes."
           }
         },
         {
@@ -2207,10 +2375,10 @@
           "hop_from_prev_min": 4,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Kurzer Fußweg von der Haltestelle.",
-            "hu": "Rövid séta a megállótól.",
-            "ro": "Scurtă plimbare de la stație.",
-            "en": "Short walk from the stop."
+            "de": "Kirche 5 Minuten Fußweg von der Haltestelle; Innenbesuch Mo–Sa 9–12 und 16–18 Uhr.",
+            "hu": "A templom 5 perces sétányira a megállótól; belső megtekintés H–Szo 9–12 és 16–18 óra.",
+            "ro": "Biserică la 5 minute de mers pe jos de la stație; vizitare interior Lu–Sa 9–12 și 16–18.",
+            "en": "Church 5 minutes' walk from the stop; interior open Mon–Sat 9–12 and 4–6 PM."
           }
         },
         {
@@ -2230,10 +2398,10 @@
           "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Einfach erreichbar mit Linie 32.",
-            "hu": "Könnyen elérhető a 32-es busszal.",
-            "ro": "Ușor accesibil cu linia 32.",
-            "en": "Easily accessible by bus line 32."
+            "de": "Bislinie 32 aus Rijeka hält 200 m von der Villa entfernt; Eintritt 3 €, Mo Ruhetag.",
+            "hu": "A Rijekából induló 32-es busz 200 m-re áll meg a villától; belépő 3 €, hétfőn zárva.",
+            "ro": "Linia 32 din Rijeka oprește la 200 m de vilă; bilet 3 €, luni închis.",
+            "en": "Bus line 32 from Rijeka stops 200 m from the villa; entry €3, closed Mondays."
           }
         },
         {
@@ -2253,10 +2421,10 @@
           "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Schöner Startpunkt für den Hafen.",
-            "hu": "Szép kezdőpont a kikötőhöz.",
-            "ro": "Punct frumos de start spre port.",
-            "en": "Nice starting point for the port."
+            "de": "Schöner Ausgangspunkt direkt an der Küste; Haltestelle Luka ist 50 m vom Fischerhafen.",
+            "hu": "Szép kiindulópont közvetlenül a tengerparton; a Luka megálló 50 m-re van a halászkikötőtől.",
+            "ro": "Punct de plecare frumos direct pe coastă; stația Luka e la 50 m de portul de pescuit.",
+            "en": "Nice starting point right on the coast; the Luka stop is 50 m from the fishing harbor."
           }
         },
         {
@@ -2276,10 +2444,10 @@
           "hop_from_prev_min": 3,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Zurück zum Zentrum spazieren.",
-            "hu": "Sétáljon vissza a központba.",
-            "ro": "Plimbați-vă înapoi spre centru.",
-            "en": "Walk back towards the center."
+            "de": "Vom Lungomare zur Haupthaltestelle sind es 15 Minuten zu Fuß; letzter Bus nach Rijeka um 22:30.",
+            "hu": "A Lungomareról a főmegállóig 15 perces gyalogút; utolsó busz Rijekába 22:30-kor.",
+            "ro": "De pe Lungomare la stația principală e 15 minute pe jos; ultimul autobuz spre Rijeka la 22:30.",
+            "en": "From the Lungomare to the main stop is 15 minutes on foot; last bus to Rijeka at 10:30 PM."
           }
         }
       ],
@@ -2292,26 +2460,58 @@
       "gastro_picks": {
         "de": [
           {
-            "name": "Bäckerei am Busbahnhof",
-            "tip": "Frische Burek probieren."
+            "name": "Bäckerei nahe Bushaltestelle",
+            "tip": "Frischer Burek (Blätterteig mit Käse oder Fleisch) ab 1,50 € – ideal als Reisesnack."
+          },
+          {
+            "name": "Café Lungomare",
+            "tip": "Halbstündige Kaffeepause am Meer – günstig, gute Lage nahe der Haupthaltestelle."
+          },
+          {
+            "name": "Eisstand Slatina-Promenade",
+            "tip": "Kroatisches Eis in zahlreichen Geschmacksrichtungen; Schlange vermeiden – vor 11 Uhr gehen."
           }
         ],
         "hu": [
           {
-            "name": "Pékség a buszpályaudvarnál",
-            "tip": "Kóstolja meg a friss bureket."
+            "name": "Pékség a buszállomás közelében",
+            "tip": "Friss burek (leveles tészta sajttal vagy hússal) 1,50 €-tól – ideális útifalat."
+          },
+          {
+            "name": "Café Lungomare",
+            "tip": "Félórás kávészünet a tengerparton – olcsó, jó helyen a főmegálló közelében."
+          },
+          {
+            "name": "Fagylaltos a Slatina-sétányon",
+            "tip": "Horvát fagylalt sokféle ízben; kerülje a sort – menjen 11 óra előtt."
           }
         ],
         "ro": [
           {
-            "name": "Brutărie lângă autogară",
-            "tip": "Încercați burek proaspăt."
+            "name": "Brutărie lângă stația de autobuz",
+            "tip": "Burek proaspăt (aluat foietaj cu brânză sau carne) de la 1,50 € – ideal ca gustare de drum."
+          },
+          {
+            "name": "Café Lungomare",
+            "tip": "Pauză de cafea de jumătate de oră la mare – ieftină, locație bună lângă stația principală."
+          },
+          {
+            "name": "Stand de înghețată pe promenada Slatina",
+            "tip": "Înghețată croată în numeroase arome; evitați coada – mergeți înainte de ora 11."
           }
         ],
         "en": [
           {
-            "name": "Bakery by the bus station",
-            "tip": "Try fresh burek."
+            "name": "Bakery near the bus stop",
+            "tip": "Fresh burek (flaky pastry with cheese or meat) from €1.50 – ideal travel snack."
+          },
+          {
+            "name": "Café Lungomare",
+            "tip": "A 30-minute coffee break by the sea – affordable, good location near the main stop."
+          },
+          {
+            "name": "Slatina promenade ice cream stand",
+            "tip": "Croatian ice cream in many flavours; avoid the queue – go before 11 AM."
           }
         ]
       },
@@ -2319,29 +2519,49 @@
         "de": [
           {
             "name": "Hafenbänke",
-            "tip": "Zusehen, wie die Zeit vergeht.",
-            "emoji": "🌅"
+            "tip": "Kleine Steinbänke am Fischerhafen – ruhig am Morgen, nur Fischer und Möwen.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Angiolina Park Nordausgang",
+            "tip": "Weniger bekannte Ausgangsseite des Parks, kaum Besucher – perfekt für eine kurze Pause.",
+            "emoji": "🌸"
           }
         ],
         "hu": [
           {
             "name": "Kikötői padok",
-            "tip": "Nézze, ahogy telik az idő.",
-            "emoji": "🌅"
+            "tip": "Kis kőpadok a halászkikötőnél – reggel csendes, csak halászok és sirályok.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Angiolina Park északi kijárata",
+            "tip": "A park kevésbé ismert kijárat-oldala, alig van látogató – tökéletes rövid pihenőre.",
+            "emoji": "🌸"
           }
         ],
         "ro": [
           {
-            "name": "Bănci în port",
-            "tip": "Priviți cum trece timpul.",
-            "emoji": "🌅"
+            "name": "Băncile de la port",
+            "tip": "Bănci de piatră mici la portul de pescuit – liniștit dimineața, doar pescari și pescăruși.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Ieșirea nordică din Parcul Angiolina",
+            "tip": "Latura de ieșire mai puțin cunoscută a parcului, aproape fără vizitatori – perfectă pentru o scurtă pauză.",
+            "emoji": "🌸"
           }
         ],
         "en": [
           {
-            "name": "Port benches",
-            "tip": "Watch time go by.",
-            "emoji": "🌅"
+            "name": "Harbor benches",
+            "tip": "Small stone benches at the fishing harbor – quiet in the morning, only fishermen and gulls.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Angiolina Park north exit side",
+            "tip": "The lesser-known exit side of the park, almost no visitors – perfect for a short rest.",
+            "emoji": "🌸"
           }
         ]
       },
@@ -2349,44 +2569,60 @@
         "de": [
           {
             "name": "Zeitungskiosk",
-            "tip": "Lokale Postkarten."
+            "tip": "Kroatische Ansichtskarten und kleine Andenken; nahe Bushaltestelle Slatina, ab 0,50 €."
           }
         ],
         "hu": [
           {
-            "name": "Újságos",
-            "tip": "Helyi képeslapok."
+            "name": "Újságos kiosk",
+            "tip": "Horvát képeslapok és kis emlékek; a Slatina buszmegálló közelében, 0,50 €-tól."
           }
         ],
         "ro": [
           {
             "name": "Chioșc de ziare",
-            "tip": "Vederi locale."
+            "tip": "Cărți poștale croate și suveniruri mici; lângă stația Slatina, de la 0,50 €."
           }
         ],
         "en": [
           {
             "name": "Newsstand",
-            "tip": "Local postcards."
+            "tip": "Croatian postcards and small souvenirs; near the Slatina bus stop, from €0.50."
           }
         ]
       },
       "tips": {
         "de": [
-          "Fahrplan online prüfen.",
-          "Kleingeld für den Bus bereithalten."
+          "Buslinien aus Rijeka (ca. 20 Min.) halten direkt an der Slatina-Haltestelle; Ticket ca. 3,50 €.",
+          "Linie 32 fährt bis ins Zentrum; andere Linien enden an der Einfahrt – Karte oder Fahrplan prüfen.",
+          "Letzter Bus zurück nach Rijeka um 22:30 Uhr – nicht verpassen, sonst Taxi (ca. 25 €).",
+          "Fahrplan online prüfen: autotrans.hr – am Wochenende fährt der Bus seltener.",
+          "Bargeld für Tickets bereithalten; nicht alle Fahrer akzeptieren Karte.",
+          "Der Spaziergang vom Busbahnhof zum Lungomare dauert nur 5 Minuten."
         ],
         "hu": [
-          "Ellenőrizze a menetrendet online.",
-          "Legyen aprópénze a buszhoz."
+          "Rijekából érkező buszok (kb. 20 perc) közvetlenül a Slatina megállónál állnak meg; jegy kb. 3,50 €.",
+          "A 32-es vonal a belvárosig megy; más vonalak a bejáratnál végznek – ellenőrizze a térképet vagy menetrendet.",
+          "Az utolsó busz Rijekába 22:30-kor indul – ne maradjon le, különben taxi (kb. 25 €).",
+          "A menetrendet online ellenőrizze: autotrans.hr – hétvégén ritkábban jár.",
+          "Tartson aprót a jegyhez; nem minden sofőr fogad el kártyát.",
+          "A buszmegállótól a Lungomareig csak 5 perces séta."
         ],
         "ro": [
-          "Verificați orarul online.",
-          "Pregătiți mărunțiș pentru autobuz."
+          "Autobuzele din Rijeka (cca. 20 min) opresc direct la stația Slatina; bilet cca. 3,50 €.",
+          "Linia 32 merge până în centru; alte linii se termină la intrare – verificați harta sau orarul.",
+          "Ultimul autobuz spre Rijeka la 22:30 – nu îl ratați, altfel taxi (cca. 25 €).",
+          "Verificați orarul online: autotrans.hr – la weekend circulă mai rar.",
+          "Aveți numerar pentru bilete; nu toți șoferii acceptă cardul.",
+          "De la stația de autobuz la Lungomare sunt doar 5 minute pe jos."
         ],
         "en": [
-          "Check schedule online.",
-          "Have small change ready for the bus."
+          "Buses from Rijeka (about 20 min) stop directly at the Slatina stop; ticket about €3.50.",
+          "Line 32 goes to the center; other lines end at the entrance – check the map or schedule.",
+          "Last bus back to Rijeka at 10:30 PM – do not miss it, or else a taxi (about €25).",
+          "Check the schedule online at autotrans.hr – fewer buses run on weekends.",
+          "Have cash for tickets; not all drivers accept cards.",
+          "The walk from the bus stop to the Lungomare is only 5 minutes."
         ]
       },
       "variants": {

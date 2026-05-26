@@ -1,0 +1,885 @@
+{
+  "city_id": "bartica",
+  "anchor": {
+    "name": "Bartica Waterfront",
+    "coords": [
+      -58.6214,
+      6.4069
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bartica Waterfront",
+            "hu": "Bartica vízpart",
+            "ro": "Faleza Bartica",
+            "en": "Bartica Waterfront"
+          },
+          "coords": [
+            -58.6214,
+            6.4069
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Tor zum Hinterland.",
+            "hu": "Az őserdő kapuja.",
+            "ro": "Poarta către interior.",
+            "en": "The gateway to the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument der 2008-Tragödie",
+            "hu": "2008-as tragédia emlékműve",
+            "ro": "Monumentul tragediei din 2008",
+            "en": "2008 Tragedy Monument"
+          },
+          "coords": [
+            -58.623,
+            6.408
+          ],
+          "category": "monument",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort des stillen Gedenkens.",
+            "hu": "A csendes emlékezés helye.",
+            "ro": "Loc de reculegere tăcută.",
+            "en": "A place of quiet remembrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bartica Market",
+            "hu": "Bartica piac",
+            "ro": "Piața Bartica",
+            "en": "Bartica Market"
+          },
+          "coords": [
+            -58.62,
+            6.405
+          ],
+          "category": "market",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frische Produkte aus dem Hinterland.",
+            "hu": "Friss termékek az őserdő mélyéről.",
+            "ro": "Produse proaspete din interior.",
+            "en": "Fresh products from the hinterland."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Ufer",
+            "hu": "Ebéd a parton",
+            "ro": "Prânz pe mal",
+            "en": "Lunch by the Waterfront"
+          },
+          "coords": [
+            -58.621,
+            6.407
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Frisch gefangener Fisch.",
+            "hu": "Frissen fogott folyami halak.",
+            "ro": "Pește proaspăt pescuit.",
+            "en": "Freshly caught river fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Golden Beach",
+            "hu": "Arany strand",
+            "ro": "Plaja de Aur",
+            "en": "Golden Beach"
+          },
+          "coords": [
+            -58.63,
+            6.402
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der beste Platz zum Entspannen.",
+            "hu": "A legjobb hely a kikapcsolódáshoz.",
+            "ro": "Cel mai bun loc pentru relaxare.",
+            "en": "The best spot for relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bartica lässt sich wunderbar zu Fuß erkunden. Beginnen Sie am belebten Waterfront, wo die Boote aus dem Hinterland ankommen. Ein kurzer Spaziergang führt Sie zum Monument der Tragödie von 2008.\n\nBesuchen Sie anschließend den lokalen Markt, um die Vielfalt der Region zu sehen. Das Mittagessen genießen Sie in einem der kleinen Restaurants direkt am Flussufer.\n\nDen Nachmittag verbringen Sie am Golden Beach, dem Stolz der Stadt. Der Sand und das warme Wasser des Flusses laden zum Verweilen ein.\n\nEs ist eine entspannte Tour, die Ihnen den Charme dieser Grenzstadt näherbringt.",
+        "hu": "Bartica csodálatosan felfedezhető gyalogosan. Kezdje a nyüzsgő vízparton, ahol az őserdőből érkező hajók kikötnek. Egy rövid séta elvezeti a 2008-as tragédia emlékművéhez.\n\nEzután látogasson el a helyi piacra, hogy lássa a régió sokszínűségét. Az ebédet a folyóparti kis éttermek egyikében fogyassza el.\n\nA délutánt az Arany strandon töltse, amely a város büszkesége. A homok és a folyó meleg vize marasztalni fogja.\n\nEz egy pihentető túra, amely közelebb hozza Önhöz ennek a határmenti városnak a báját.",
+        "ro": "Bartica poate fi explorată minunat la pas. Începeți pe faleza aglomerată, unde acostează bărcile din interior. O scurtă plimbare vă duce la Monumentul tragediei din 2008.\n\nVizitați apoi piața locală pentru a vedea diversitatea regiunii. Prânzul îl veți savura la unul dintre micile restaurante de pe malul râului.\n\nDupă-amiaza o veți petrece la Plaja de Aur, mândria orașului. Nisipul și apa caldă a râului vă vor invita la relaxare.\n\nEste un tur relaxant care vă va apropia de farmecul acestui oraș de frontieră.",
+        "en": "Bartica is wonderful to explore on foot. Start at the busy waterfront where boats from the interior dock. A short walk leads you to the 2008 Tragedy Monument.\n\nThen visit the local market to see the diversity of the region. Enjoy lunch at one of the small restaurants right on the riverbank.\n\nSpend the afternoon at Golden Beach, the pride of the city. The sand and the warm river water will invite you to stay.\n\nIt is a relaxed tour that brings you closer to the charm of this frontier town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waterfront Eateries",
+            "tip": "Probieren Sie Fish & Chips."
+          },
+          {
+            "name": "Bartica Burger Hut",
+            "tip": "Beliebter lokaler Treffpunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vízparti étkezdék",
+            "tip": "Kóstold meg a sült halat."
+          },
+          {
+            "name": "Bartica Burger Hut",
+            "tip": "Népszerű helyi találkozóhely."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantele de pe faleză",
+            "tip": "Încercați peștele prăjit."
+          },
+          {
+            "name": "Bartica Burger Hut",
+            "tip": "Loc de întâlnire local popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront Eateries",
+            "tip": "Try the fresh fried fish."
+          },
+          {
+            "name": "Bartica Burger Hut",
+            "tip": "Popular local fast food spot."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Golden Beach",
+            "tip": "Ruhig am Vormittag.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "River Breeze",
+            "tip": "Längs des Ufers.",
+            "emoji": "🌬️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arany strand",
+            "tip": "Csendes délelőttönként.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Folyami szellő",
+            "tip": "A part mentén bárhol.",
+            "emoji": "🌬️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja de Aur",
+            "tip": "Liniște în timpul dimineții.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Briza Râului",
+            "tip": "Oriunde de-a lungul malului.",
+            "emoji": "🌬️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Golden Beach",
+            "tip": "Quiet in the morning hours.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "River Breeze",
+            "tip": "Anywhere along the shore.",
+            "emoji": "🌬️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bartica Market",
+            "tip": "Indigene Handwerkskunst."
+          },
+          {
+            "name": "First Avenue Shops",
+            "tip": "Alltagsbedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bartica piac",
+            "tip": "Őslakos kézműves termékek."
+          },
+          {
+            "name": "First Avenue üzletek",
+            "tip": "Mindennapi cikkek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bartica",
+            "tip": "Artizanat indigen."
+          },
+          {
+            "name": "Magazinele de pe First Avenue",
+            "tip": "Articole de uz zilnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bartica Market",
+            "tip": "Indigenous handmade crafts."
+          },
+          {
+            "name": "First Avenue Shops",
+            "tip": "General retail stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Sonnenschutz.",
+          "Das Wasser am Strand ist flach und sicher.",
+          "Fragen Sie nach dem Tagesfang.",
+          "Vermeiden Sie die Mittagshitze."
+        ],
+        "hu": [
+          "Használj naptejet.",
+          "A víz a strandon sekély és biztonságos.",
+          "Kérdezz rá a napi fogásra.",
+          "Kerüld a déli hőséget."
+        ],
+        "ro": [
+          "Folosiți protecție solară.",
+          "Apa la plajă este mică și sigură.",
+          "Întrebați de captura zilei.",
+          "Evitați căldura de la amiază."
+        ],
+        "en": [
+          "Use sun protection.",
+          "The water at the beach is shallow and safe.",
+          "Ask for the catch of the day.",
+          "Avoid the midday heat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bartica Regatta Site",
+            "hu": "Bartica Regatta helyszín",
+            "ro": "Locația Regatei Bartica",
+            "en": "Bartica Regatta Site"
+          },
+          "coords": [
+            -58.625,
+            6.41
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beste Sicht auf den Fluss.",
+            "hu": "A legjobb kilátás a folyóra.",
+            "ro": "Cea mai bună vedere la râu.",
+            "en": "Best view of the river confluence."
+          }
+        },
+        {
+          "name": {
+            "de": "Innerstädtische Pfade",
+            "hu": "Városi ösvények",
+            "ro": "Poteci interioare",
+            "en": "Inner Town Trails"
+          },
+          "coords": [
+            -58.615,
+            6.4
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das wahre Bartica.",
+            "hu": "Fedezd fel az igazi Barticát.",
+            "ro": "Descoperiți Bartica autentică.",
+            "en": "Discover the local residential areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Marshall Falls Trailhead",
+            "hu": "Marshall-vízesés ösvény kezdete",
+            "ro": "Start traseu Marshall Falls",
+            "en": "Marshall Falls Trailhead"
+          },
+          "coords": [
+            -58.6,
+            6.38
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beginn des Dschungelpfades.",
+            "hu": "A dzsungelösvény kezdete.",
+            "ro": "Începutul traseului prin junglă.",
+            "en": "Start of the jungle trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspicknick",
+            "hu": "Ebédpiknik",
+            "ro": "Picnic la prânz",
+            "en": "Lunch Picnic"
+          },
+          "coords": [
+            -58.61,
+            6.39
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur.",
+            "hu": "Élvezd a természet közelségét.",
+            "ro": "Bucurați-vă de natură.",
+            "en": "Enjoy a meal in the outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Vízparti sétány",
+            "ro": "Promenada malului",
+            "en": "Riverside Promenade"
+          },
+          "coords": [
+            -58.621,
+            6.406
+          ],
+          "category": "harbor",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannter Rückweg.",
+            "hu": "Pihentető visszaút.",
+            "ro": "Întoarcere relaxantă.",
+            "en": "A relaxed ride back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bartica mit dem Fahrrad zu erkunden, gibt Ihnen die Freiheit, die weniger bekannten Ecken der Stadt zu sehen. Starten Sie am Regatta-Gelände für einen großartigen Rundblick.\n\nRadeln Sie durch die innerstädtischen Pfade, um das tägliche Leben der Bewohner zu beobachten. Der Weg führt Sie zum Rand des Dschungels, wo die Pfade zu den Wasserfällen beginnen.\n\nNach einem Picknick im Grünen kehren Sie langsam zur Stadt zurück. Die Fahrt entlang des Flusses ist besonders angenehm, wenn der Wind weht.\n\nEs ist eine Tour für Entdecker, die mehr als nur das belebte Zentrum sehen wollen.",
+        "hu": "Bartica felfedezése kerékpárral szabadságot ad, hogy láthassa a város kevésbé ismert szegleteit. Kezdje a Regatta helyszínén a nagyszerű körpanorámáért.\n\nTekerjen végig a városi ösvényeken, hogy megfigyelje a lakók mindennapi életét. Az út az őserdő szélére vezet, ahol a vízesésekhez vezető ösvények kezdődnek.\n\nEgy zöldben elfogyasztott piknik után lassan térjen vissza a városba. A folyó menti tekerés különösen kellemes, amikor fúj a szél.\n\nEz a túra felfedezőknek szól, akik többet akarnak látni a nyüzsgő központnál.",
+        "ro": "Explorarea orașului Bartica cu bicicleta vă oferă libertatea de a vedea colțurile mai puțin cunoscute. Începeți la locația Regatei pentru o panoramă superbă.\n\nPedalați pe potecile interioare pentru a observa viața de zi cu zi a locuitorilor. Drumul vă duce la marginea junglei, unde încep traseele spre cascade.\n\nDupă un picnic în natură, reveniți încet spre oraș. Plimbarea de-a lungul râului este extrem de plăcută când adie vântul.\n\nEste un tur pentru exploratorii care doresc să vadă mai mult decât centrul aglomerat.",
+        "en": "Exploring Bartica by bike gives you the freedom to see the lesser-known corners of the town. Start at the Regatta site for a great panoramic view.\n\nCycle through the inner town trails to observe the daily life of the residents. The path leads you to the edge of the jungle, where trails to the falls begin.\n\nAfter a picnic in the greenery, slowly return to the town. The ride along the river is especially pleasant when the wind blows.\n\nIt is a tour for explorers who want to see more than just the busy center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Frisches Salara-Brot."
+          },
+          {
+            "name": "Street Vendors",
+            "tip": "Probieren Sie Pholourie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Friss Salara kenyér."
+          },
+          {
+            "name": "Utcai árusok",
+            "tip": "Kóstold meg a Pholourie-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brătării locale",
+            "tip": "Pâine Salara proaspătă."
+          },
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Încercați Pholourie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Fresh local Salara bread."
+          },
+          {
+            "name": "Street Vendors",
+            "tip": "Try the spicy Pholourie snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jungle Edge",
+            "tip": "Naturgeräusche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Regatta Viewpoint",
+            "tip": "Weitblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dzsungel széle",
+            "tip": "A természet hangjai.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Regatta kilátó",
+            "tip": "Tágas kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marginea junglei",
+            "tip": "Sunetele naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvederea Regatei",
+            "tip": "Privire de ansamblu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jungle Edge",
+            "tip": "Nature sounds everywhere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Regatta Viewpoint",
+            "tip": "Expansive views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bartica Hardware Stores",
+            "tip": "Bergbauausrüstung."
+          },
+          {
+            "name": "Fruit Stalls",
+            "tip": "Tropische Früchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bartica vaskereskedések",
+            "tip": "Bányászati felszerelések."
+          },
+          {
+            "name": "Gyümölcsös standok",
+            "tip": "Trópusi gyümölcsök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Feronerii din Bartica",
+            "tip": "Echipament minier."
+          },
+          {
+            "name": "Standuri de fructe",
+            "tip": "Fructe tropicale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bartica Hardware Stores",
+            "tip": "Mining equipment shops."
+          },
+          {
+            "name": "Fruit Stalls",
+            "tip": "Fresh tropical fruit variety."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Bremsen.",
+          "Nehmen Sie genügend Wasser mit.",
+          "Bleiben Sie auf befestigten Wegen.",
+          "Achten Sie auf Hunde."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeket.",
+          "Vigyél magaddal elég vizet.",
+          "Maradj a kijelölt utakon.",
+          "Figyelj a kutyákra."
+        ],
+        "ro": [
+          "Verificați frânele.",
+          "Luați suficientă apă.",
+          "Rămâneți pe drumurile amenajate.",
+          "Atenție la câini."
+        ],
+        "en": [
+          "Check your brakes before starting.",
+          "Take enough water with you.",
+          "Stay on established paths.",
+          "Watch out for local dogs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bartica Airstrip",
+            "hu": "Bartica kifutópálya",
+            "ro": "Aerodromul Bartica",
+            "en": "Bartica Airstrip"
+          },
+          "coords": [
+            -58.605,
+            6.385
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Einflugschneise des Hinterlands.",
+            "hu": "Az őserdő légi kapuja.",
+            "ro": "Poarta aeriană a interiorului.",
+            "en": "The air gateway to the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Sloth Island Resort (Fähre)",
+            "hu": "Lajhár-sziget resort (komp)",
+            "ro": "Resortul Sloth Island (feribot)",
+            "en": "Sloth Island Resort (Ferry)"
+          },
+          "coords": [
+            -58.618,
+            6.425
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "10:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie Faultiere.",
+            "hu": "Láss lajhárokat.",
+            "ro": "Observați leneșii.",
+            "en": "See sloths in their habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Island Resort",
+            "hu": "Ebéd a szigeti resortban",
+            "ro": "Prânz la resortul de pe insulă",
+            "en": "Lunch at Island Resort"
+          },
+          "coords": [
+            -58.6185,
+            6.4255
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Exotische Gerichte.",
+            "hu": "Exotikus fogások.",
+            "ro": "Mâncăruri exotice.",
+            "en": "Exotic local dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kyk-Over-Al Viewpoint",
+            "hu": "Kyk-Over-Al kilátópálya",
+            "ro": "Belvederea Kyk-Over-Al",
+            "en": "Kyk-Over-Al Viewpoint"
+          },
+          "coords": [
+            -58.64,
+            6.4
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Blick auf das alte Fort.",
+            "hu": "Kilátás a régi erődre.",
+            "ro": "Vedere către vechea cetate.",
+            "en": "View of the historic Dutch fort ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Bartica Sunset Point",
+            "hu": "Bartica naplemente pont",
+            "ro": "Punctul de apus Bartica",
+            "en": "Bartica Sunset Point"
+          },
+          "coords": [
+            -58.625,
+            6.408
+          ],
+          "category": "sunset",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Magischer Moment.",
+            "hu": "Varázslatos pillanat.",
+            "ro": "Moment magic.",
+            "en": "A magical moment by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour führt Sie zu den Highlights rund um Bartica. Beginnen Sie am Flugplatz, dem logistischen Knotenpunkt der Region. Von dort fahren Sie zur Anlegestelle für Sloth Island.\n\nDer Vormittag und das Mittagessen verbringen Sie auf der Insel, einem Paradies für Tierliebhaber. Die kurze Bootsfahrt ist Teil des Erlebnisses.\n\nAm Nachmittag fahren Sie zu einem Aussichtspunkt, von dem aus Sie die Ruinen von Kyk-Over-Al im Fluss sehen können. Es ist ein Ort voller Geschichte.\n\nZum Abschluss genießen Sie den Sonnenuntergang an einem der besten Aussichtspunkte der Stadt, bevor Sie zum Zentrum zurückkehren.",
+        "hu": "Ez az autós túra Bartica környékének legfontosabb pontjaira kalauzolja el Önt. Kezdje a repülőtéren, a régió logisztikai központjában. Innen hajtson a Lajhár-szigetre induló hajók kikötőjéhez.\n\nA délelőttöt és az ebédet a szigeten töltse, amely az állatbarátok paradicsoma. A rövid hajóút az élmény része.\n\nDélután hajtson egy kilátóponthoz, ahonnan láthatja Kyk-Over-Al romjait a folyóban. Ez a hely tele van történelemmel.\n\nZárásként élvezze a naplementét a város egyik legjobb kilátópontján, mielőtt visszatérne a központba.",
+        "ro": "Acest tur cu mașina vă poartă spre punctele de atracție din jurul orașului Bartica. Începeți la aerodrom, nodul logistic al regiunii. De acolo, conduceți spre debarcaderul pentru Sloth Island.\n\nDimineața și prânzul le veți petrece pe insulă, un paradis pentru iubitorii de animale. Scurta călătorie cu barca face parte din experiență.\n\nDupă-amiaza, mergeți la un punct de belvedere de unde puteți vedea ruinele Kyk-Over-Al în mijlocul râului. Este un loc plin de istorie.\n\nLa final, bucurați-vă de apus la unul dintre cele mai bune puncte de belvedere ale orașului, înainte de a reveni în centru.",
+        "en": "This car tour leads you to the highlights around Bartica. Start at the airstrip, the logistical hub of the region. From there, drive to the pier for Sloth Island.\n\nSpend the morning and lunch on the island, a paradise for animal lovers. The short boat ride is part of the experience.\n\nIn the afternoon, drive to a viewpoint from where you can see the ruins of Kyk-Over-Al in the river. It is a place full of history.\n\nTo wrap up, enjoy the sunset at one of the city's best viewpoints before returning to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sloth Island Lodge",
+            "tip": "Insel-Delikatessen."
+          },
+          {
+            "name": "Zen's Restaurant",
+            "tip": "Moderne guyanische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sloth Island Lodge",
+            "tip": "Szigeti ínyencségek."
+          },
+          {
+            "name": "Zen's étterem",
+            "tip": "Modern guyanai konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sloth Island Lodge",
+            "tip": "Delicii insulare."
+          },
+          {
+            "name": "Restaurantul Zen",
+            "tip": "Bucătărie guyaneză modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sloth Island Lodge",
+            "tip": "Island-style delicacies."
+          },
+          {
+            "name": "Zen's Restaurant",
+            "tip": "Modern Guyanese cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sloth Island",
+            "tip": "Absolute Stille.",
+            "emoji": "🦥"
+          },
+          {
+            "name": "Kyk-Over-Al View",
+            "tip": "Geschichtsträchtig.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lajhár-sziget",
+            "tip": "Abszolút csend.",
+            "emoji": "🦥"
+          },
+          {
+            "name": "Kyk-Over-Al kilátás",
+            "tip": "Történelmi hangulat.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sloth Island",
+            "tip": "Liniște absolută.",
+            "emoji": "🦥"
+          },
+          {
+            "name": "Vedere Kyk-Over-Al",
+            "tip": "Încărcat de istorie.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sloth Island",
+            "tip": "Absolute silence.",
+            "emoji": "🦥"
+          },
+          {
+            "name": "Kyk-Over-Al View",
+            "tip": "Historic atmosphere.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bartica Plaza",
+            "tip": "Kleines Einkaufszentrum."
+          },
+          {
+            "name": "Jewelry Shops",
+            "tip": "Lokales Gold."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bartica Plaza",
+            "tip": "Kis bevásárlóközpont."
+          },
+          {
+            "name": "Ékszerboltok",
+            "tip": "Helyi aranyékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bartica Plaza",
+            "tip": "Mic centru comercial."
+          },
+          {
+            "name": "Magazine de bijuterii",
+            "tip": "Aur local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bartica Plaza",
+            "tip": "Small shopping plaza."
+          },
+          {
+            "name": "Jewelry Shops",
+            "tip": "Authentic local gold jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein 4x4 ist für Ausflüge außerhalb empfehlenswert.",
+          "Bootstransfers müssen oft vorab gebucht werden.",
+          "Spritpreise sind hier etwas höher.",
+          "Fahren Sie vorsichtig auf Schotterwegen."
+        ],
+        "hu": [
+          "A városon kívüli kirándulásokhoz 4x4 ajánlott.",
+          "A hajótranszfereket érdemes előre lefoglalni.",
+          "Az üzemanyag itt kicsit drágább.",
+          "Vezess óvatosan a murvás utakon."
+        ],
+        "ro": [
+          "Un 4x4 este recomandat pentru excursii în exterior.",
+          "Transferurile cu barca trebuie rezervate în avans.",
+          "Prețul combustibilului este mai mare aici.",
+          "Conduceți cu prudență pe drumurile de pietriș."
+        ],
+        "en": [
+          "A 4x4 is recommended for trips outside town.",
+          "Boat transfers often need to be booked in advance.",
+          "Fuel prices are slightly higher here.",
+          "Drive carefully on gravel roads."
+        ]
+      }
+    }
+  }
+}

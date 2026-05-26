@@ -1,0 +1,1089 @@
+{
+  "city_id": "bahla-cities-v2",
+  "anchor": {
+    "name": "Bahla",
+    "coords": [
+      22.9647,
+      57.2997
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahla Festung",
+            "hu": "Bahla erőd",
+            "ro": "Fortul Bahla",
+            "en": "Bahla Fort"
+          },
+          "coords": [
+            22.9647,
+            57.2997
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die Hitze in den offenen Höfen zu vermeiden.",
+            "hu": "Érkezzen korán, hogy elkerülje a hőséget a nyitott udvarokon.",
+            "ro": "Veniți devreme pentru a evita căldura în curțile interioare.",
+            "en": "Arrive early to beat the heat in the exposed inner courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahla Alter Souq",
+            "hu": "Bahla régi bazár",
+            "ro": "Vechiul Souq Bahla",
+            "en": "Bahla Old Souq"
+          },
+          "coords": [
+            22.964,
+            57.3
+          ],
+          "category": "market",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem berühmten 'Bahla-Pottery'-Stempel.",
+            "hu": "Keresse a híres 'Bahla Pottery' (bahla-i kerámia) jelzést.",
+            "ro": "Căutați obiectele cu ștampila oficială a olăritului din Bahla.",
+            "en": "Look for authentic pieces with the local Bahla pottery mark."
+          }
+        },
+        {
+          "name": {
+            "de": "Töpferei-Workshops",
+            "hu": "Fazekasműhelyek",
+            "ro": "Ateliere de olărit",
+            "en": "Pottery Workshops"
+          },
+          "coords": [
+            22.965,
+            57.301
+          ],
+          "category": "industry",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sie können oft den Meistern bei der Arbeit an der Scheibe zusehen.",
+            "hu": "Gyakran láthatja a mestereket munka közben a korongnál.",
+            "ro": "Puteți vedea adesea maeștrii olari lucrând la roată.",
+            "en": "You can often watch the master potters working at their wheels."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Bahla",
+            "hu": "Ebéd Bahlában",
+            "ro": "Prânz în Bahla",
+            "en": "Lunch in Bahla"
+          },
+          "coords": [
+            22.9645,
+            57.299
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie das traditionelle omanische Shuwa-Lamm.",
+            "hu": "Kóstolja meg a hagyományos ománi Shuwa bárányt.",
+            "ro": "Gustați tradiționalul Shuwa omani, miel gătit lent.",
+            "en": "Try the traditional Omani Shuwa, slow-cooked lamb."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Stadtmauer (Sur)",
+            "hu": "Régi városfal (Sur)",
+            "ro": "Vechiul zid (Sur)",
+            "en": "Old City Wall (Sur)"
+          },
+          "coords": [
+            22.962,
+            57.295
+          ],
+          "category": "monument",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Mauer ist 13 km lang; hier ist ein restaurierter Abschnitt.",
+            "hu": "A fal 13 km hosszú; itt egy gyönyörűen felújított szakasz látható.",
+            "ro": "Zidul are 13 km; aici puteți vedea o secțiune restaurată.",
+            "en": "The wall spans 13km; this section is beautifully restored."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf die Oase",
+            "hu": "Kilátás az oázisra",
+            "ro": "Priveliște asupra oazei",
+            "en": "Oasis Viewpoint"
+          },
+          "coords": [
+            22.961,
+            57.293
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos vom Fort über den Palmenhainen.",
+            "hu": "Tökéletes hely a várról készített fotókhoz a pálmaligetek felett.",
+            "ro": "Locul perfect pentru poze cu fortul peste plantațiile de palmieri.",
+            "en": "The perfect spot for photos of the fort above the palm groves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der majestätischen Bahla-Festung, einem UNESCO-Weltkulturerbe aus Lehmziegeln. Schlendern Sie anschließend durch den alten Souq und beobachten Sie die Töpfermeister in ihren traditionellen Werkstätten.\n\nMittags genießen Sie die herzhafte lokale Küche in einem der familiengeführten Restaurants im Zentrum, wo Gastfreundschaft großgeschrieben wird.\n\nAm Nachmittag erkunden Sie die beeindruckende Stadtmauer 'Sur al-Bahla', die einst die gesamte Oase umschloss und den Reichtum der Region schützte.\n\nBeenden Sie Ihren Besuch mit einem Spaziergang am Rande der Palmenhaine, während die Sonne die Lehmwände der alten Stadt in goldenes Licht taucht.",
+        "hu": "Kezdje a napot a fenséges Bahla erődben, amely az UNESCO Világörökség része. Ezután sétáljon át a régi bazárba, és látogasson el a híres fazekasműhelyekbe, ahol évszázados technikákat láthat.\n\nEbédre válasszon egy helyi kifőzdét, és kóstolja meg a fűszeres ománi húsételeket, miközben elmerül a város nyugodt ritmusában.\n\nDélután fedezze fel a 'Sur al-Bahla' városfal maradványait, amely egykor 13 kilométer hosszan védte az oázist az ellenséges törzsektől.\n\nA napot zárja egy kilátóponton a pálmaligetek szélén, ahonnan csodálatos rálátás nyílik a vályogváros sárgás falaira a lemenő nap fényében.",
+        "ro": "Începeți ziua la maiestuosul Fort Bahla, inclus în patrimoniul UNESCO. Continuați cu o plimbare prin souq-ul vechi și vizitați atelierele de olărit, inima artizanatului local.\n\nLa prânz, bucurați-vă de preparatele tradiționale în restaurantele locale, unde aromele de șofran și cardamom definesc experiența culinară.\n\nDupă-amiaza este dedicată explorării zidurilor Sur al-Bahla, o construcție impresionantă de lut care demonstrează importanța strategică a orașului.\n\nÎncheiați ziua cu o perspectivă panoramică asupra oazei, urmărind cum lumina apusului transformă peisajul într-un tablou viu în culori calde.",
+        "en": "Start your day at the majestic Bahla Fort, a mud-brick UNESCO World Heritage masterpiece. Later, wander through the old souq and visit the pottery workshops to see masters at work.\n\nFor lunch, savor authentic Omani flavors in a local eatery, experiencing the genuine hospitality of the Dakhiliyah region.\n\nIn the afternoon, explore the massive Sur al-Bahla city wall, which historically protected the vast date palm oases from invaders.\n\nConclude your visit with a peaceful walk along the edge of the groves, capturing the golden hour glow on the ancient earthen architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shuwa Lamm",
+            "tip": "In Erdlöchern langsam gegartes Fleisch."
+          },
+          {
+            "name": "Bahla Café",
+            "tip": "Probieren Sie den omanischen Kaffee (Kahwa) mit Datteln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shuwa bárány",
+            "tip": "Föld alatti kemencében, hosszú ideig sült fűszeres hús."
+          },
+          {
+            "name": "Local Kahwa",
+            "tip": "Helyi ománi kávé kardamommal és friss datolyával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel Shuwa",
+            "tip": "Carne gătită lent în cuptoare subterane tradiționale."
+          },
+          {
+            "name": "Kahwa omani",
+            "tip": "Cafea tradițională cu cardamom servită cu curmale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shuwa Lamb",
+            "tip": "Succulent lamb slow-cooked in traditional underground pits."
+          },
+          {
+            "name": "Omani Kahwa",
+            "tip": "Traditional coffee with cardamom, always served with fresh dates."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oasengärten",
+            "tip": "Stille Spaziergänge unter Dattelpalmen.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Alte Moschee",
+            "tip": "Ein Ort der Ruhe abseits der Touristenpfade.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oázis kertek",
+            "tip": "Csendes séták a hűvös datolyapálmák árnyékában.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Régi mecset",
+            "tip": "A nyugalom szigete a várfalak tövében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile oazei",
+            "tip": "Plimbări liniștite sub umbra finicilor.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Vechea Moschee",
+            "tip": "Un loc de reculegere lângă zidurile cetății.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oasis Gardens",
+            "tip": "Quiet walks under the shade of thousands of date palms.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Old Mosque",
+            "tip": "A serene place of reflection near the fort walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahla Keramik",
+            "tip": "Traditionelle handgefertigte Tongefäße."
+          },
+          {
+            "name": "Frische Datteln",
+            "tip": "Direkt aus der Oase auf dem Markt verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahla-i agyagedények",
+            "tip": "Kézzel készült, híres helyi kerámiák."
+          },
+          {
+            "name": "Friss datolya",
+            "tip": "Közvetlenül az oázisból érkező édes gyümölcs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică de Bahla",
+            "tip": "Vasuri tradiționale de lut lucrate manual."
+          },
+          {
+            "name": "Curmale proaspete",
+            "tip": "Fructe dulci vândute direct din plantații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahla Pottery",
+            "tip": "Famous handmade clay vessels and decorative items."
+          },
+          {
+            "name": "Fresh Dates",
+            "tip": "Sweet local dates sold directly in the town market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bescheidene Kleidung (Schultern und Knie bedeckt).",
+          "Nehmen Sie ausreichend Wasser mit, es wird sehr heiß.",
+          "Das Fort ist freitags am Vormittag geschlossen.",
+          "Respektieren Sie die Privatsphäre in den Oasengärten."
+        ],
+        "hu": [
+          "Viseljen szerény öltözetet (vállak és térdek legyenek fedve).",
+          "Vigyen magával sok vizet, mert a hőség napközben erős.",
+          "Az erőd péntek délelőttönként zárva tarthat.",
+          "Tisztelje a magánszférát az oázisok kertjeiben."
+        ],
+        "ro": [
+          "Purtați haine modeste (umerii și genunchii acoperiți).",
+          "Luați multă apă, temperaturile cresc rapid ziua.",
+          "Fortul poate fi închis vineri dimineața pentru rugăciune.",
+          "Respectați proprietatea privată în grădinile oazei."
+        ],
+        "en": [
+          "Wear modest clothing (shoulders and knees covered).",
+          "Carry plenty of water as daytime heat can be intense.",
+          "The fort may be closed on Friday mornings.",
+          "Respect local privacy when walking through the oasis gardens."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahla Festung",
+            "hu": "Bahla erőd",
+            "ro": "Fortul Bahla",
+            "en": "Bahla Fort"
+          },
+          "coords": [
+            22.9647,
+            57.2997
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz am Haupteingang.",
+            "hu": "Biztonságos biciklitároló a főbejáratnál.",
+            "ro": "Parcare sigură pentru biciclete la intrarea principală.",
+            "en": "Secure bike parking available at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Falaj-Bewässerungssystem",
+            "hu": "Falaj öntözőrendszer",
+            "ro": "Sistemul Falaj",
+            "en": "Falaj Irrigation System"
+          },
+          "coords": [
+            22.968,
+            57.29
+          ],
+          "category": "agriculture",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Folgen Sie den kleinen Kanälen durch die Gärten.",
+            "hu": "Kövesse a kis csatornákat a kerteken keresztül.",
+            "ro": "Urmați micile canale prin inima grădinilor.",
+            "en": "Follow the small channels through the lush gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Al Hamra Dorf",
+            "hu": "Al Hamra falu",
+            "ro": "Satul Al Hamra",
+            "en": "Al Hamra Village"
+          },
+          "coords": [
+            23.12,
+            57.28
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das 'Bait Al Safah' lebendige Museum.",
+            "hu": "Látogasson el a 'Bait Al Safah' élő múzeumba.",
+            "ro": "Vizitați muzeul viu 'Bait Al Safah' în centrul vechi.",
+            "en": "Visit the 'Bait Al Safah' living museum in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick im Schatten",
+            "hu": "Piknik az árnyékban",
+            "ro": "Picnic la umbră",
+            "en": "Shady Picnic Spot"
+          },
+          "coords": [
+            23.115,
+            57.285
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Datteln und Wasser unter Palmen.",
+            "hu": "Élvezze a helyi datolyát és vizet a pálmák alatt.",
+            "ro": "Bucurați-vă de curmale și apă sub palmieri.",
+            "en": "Enjoy local dates and water under the palm canopy."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahla Souq (Rückkehr)",
+            "hu": "Bahla bazár (visszaút)",
+            "ro": "Souq Bahla (retur)",
+            "en": "Bahla Souq (Return)"
+          },
+          "coords": [
+            22.964,
+            57.3
+          ],
+          "category": "market",
+          "arrive_at": "14:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich ein Souvenir, bevor Sie den Tag beenden.",
+            "hu": "Vásároljon szuvenírt, mielőtt befejezi a túrát.",
+            "ro": "Cumpărați un suvenir înainte de a încheia ziua.",
+            "en": "Pick up a souvenir before finishing your ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Bahla und die umliegende Oase auf zwei Rädern. Nach der Festungsbesichtigung radeln Sie entlang der Falaj-Kanäle nach Norden.\n\nDas Ziel ist das uralte Dorf Al Hamra, wo Sie die traditionellen mehrstöckigen Lehmhäuser bewundern können.\n\nGenießen Sie ein ruhiges Picknick in den weitläufigen Palmengärten von Al Hamra, bevor Sie die malerische Strecke zurück nach Bahla antreten.\n\nDen Abschluss bildet ein Besuch im Souq von Bahla, um die lokale Atmosphäre zum Feierabend zu erleben.",
+        "hu": "Fedezze fel Bahlát és a környék oázisait két keréken. A vár után észak felé indulva kövesse a Falaj öntözőcsatornákat.\n\nA túra célpontja az ősi Al Hamra falu, ahol több emeletes, vályogból épült hagyományos házakat láthat.\n\nÉlvezze a nyugalmat egy piknik keretében Al Hamra hatalmas pálmaligeteiben, mielőtt visszatekerni Bahla felé.\n\nA napot a bahlai bazárban zárhatja, ahol ilyenkor a legélénkebb a helyi kereskedelem.",
+        "ro": "Explorați Bahla și oazele învecinate pe două roți. După vizitarea fortului, pedalați spre nord de-a lungul canalelor Falaj.\n\nDestinația este vechiul sat Al Hamra, unde puteți admira casele tradiționale din lut cu mai multe etaje.\n\nBucurați-vă de un picnic liniștit în plantațiile vaste de palmieri din Al Hamra înainte de drumul de întoarcere spre Bahla.\n\nÎncheiați periplul în piața din Bahla pentru a simți atmosfera autentică a finalului de zi local.",
+        "en": "Explore Bahla and its lush surroundings on two wheels. After the fort, head north following the ancient Falaj irrigation channels.\n\nYour goal is the historic village of Al Hamra, famous for its remarkably preserved multi-story mud-brick houses.\n\nEnjoy a serene picnic within the deep shade of Al Hamra's palm groves before taking the scenic route back to Bahla.\n\nEnd your trip at the Bahla Souq, where you can soak in the evening atmosphere and local life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dattel-Snack",
+            "tip": "Perfekte Energie für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Datolya snack",
+            "tip": "Tökéletes energiaforrás biciklizéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare de curmale",
+            "tip": "Energie ideală pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Date Snack",
+            "tip": "The perfect energy boost for cycling through the oasis."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Al Hamra Gärten",
+            "tip": "Völlige Abgeschiedenheit.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Al Hamra kertjei",
+            "tip": "Teljes elszigeteltség a természettel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Al Hamra",
+            "tip": "Izolare totală în natură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Al Hamra Groves",
+            "tip": "Complete seclusion amidst nature.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kupferwaren",
+            "tip": "In Al Hamra oft zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Réztárgyak",
+            "tip": "Al Hamrában gyakran találni kézi munkákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obiecte din cupru",
+            "tip": "Găsite adesea în Al Hamra."
+          }
+        ],
+        "en": [
+          {
+            "name": "Copper Ware",
+            "tip": "Often found in the small shops of Al Hamra."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Starten Sie vor 8 Uhr, um der Mittagssonne zu entgehen.",
+          "Trinken Sie alle 20 Minuten Wasser.",
+          "Prüfen Sie den Reifendruck; Wege können steinig sein.",
+          "Sonnenschutz ist unerlässlich."
+        ],
+        "hu": [
+          "Induljon reggel 8 előtt a hőség elkerülése végett.",
+          "Igyon vizet 20 percenként.",
+          "Ellenőrizze a gumikat, az utak néha kövesek.",
+          "A naptej használata kötelező."
+        ],
+        "ro": [
+          "Porniți înainte de ora 8 pentru a evita arșița.",
+          "Beți apă la fiecare 20 de minute.",
+          "Verificați presiunea roților; drumurile pot fi pietroase.",
+          "Protecția solară este esențială."
+        ],
+        "en": [
+          "Start before 8 AM to avoid the midday sun.",
+          "Hydrate every 20 minutes.",
+          "Check tire pressure as paths can be rocky.",
+          "Sunscreen is absolutely mandatory."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 45.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahla Festung",
+            "hu": "Bahla erőd",
+            "ro": "Fortul Bahla",
+            "en": "Bahla Fort"
+          },
+          "coords": [
+            22.9647,
+            57.2997
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt gegenüber dem Fort.",
+            "hu": "Parkoló közvetlenül az erőddel szemben.",
+            "ro": "Parcare chiar vis-a-vis de fort.",
+            "en": "Parking is available directly opposite the fort entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahla Souq",
+            "hu": "Bahla bazár",
+            "ro": "Souq Bahla",
+            "en": "Bahla Souq"
+          },
+          "coords": [
+            22.964,
+            57.3
+          ],
+          "category": "market",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Fort-Parkplatz.",
+            "hu": "Rövid séta a vár parkolójától.",
+            "ro": "Scurtă plimbare din parcarea fortului.",
+            "en": "A very short walk from the fort parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Jibreen",
+            "hu": "Jibreen kastély",
+            "ro": "Castelul Jibreen",
+            "en": "Jibreen Castle"
+          },
+          "coords": [
+            22.915,
+            57.2483
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bemalten Decken.",
+            "hu": "Csodálja meg a festett mennyezeteket.",
+            "ro": "Admirați plafoanele pictate superbe.",
+            "en": "Don't miss the beautifully painted ceilings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Restaurant in Bahla",
+            "hu": "Étterem Bahlában",
+            "ro": "Restaurant în Bahla",
+            "en": "Bahla Restaurant"
+          },
+          "coords": [
+            22.965,
+            57.3015
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Große Auswahl an gegrilltem Fleisch.",
+            "hu": "Grillezett húsok széles választéka.",
+            "ro": "Gamă largă de cărnuri la grătar.",
+            "en": "Wide selection of grilled meats and rice dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Al Hamra Altstadt",
+            "hu": "Al Hamra óváros",
+            "ro": "Centrul vechi Al Hamra",
+            "en": "Al Hamra Old Town"
+          },
+          "coords": [
+            23.12,
+            57.281
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang und gehen Sie zu Fuß.",
+            "hu": "Parkoljon a bejáratnál és sétáljon be.",
+            "ro": "Parcați la intrare și mergeți pe jos.",
+            "en": "Park at the village entrance and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Misfat al Abriyeen",
+            "hu": "Misfat al Abriyeen",
+            "ro": "Misfat al Abriyeen",
+            "en": "Misfat al Abriyeen"
+          },
+          "coords": [
+            23.1333,
+            57.3167
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Spektakuläres Bergdorf mit Aussichtsterrassen.",
+            "hu": "Látványos hegyi falu kilátóteraszokkal.",
+            "ro": "Sat montan spectaculos cu terase.",
+            "en": "Spectacular mountain village with scenic terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Bahla",
+            "hu": "Vacsora Bahlában",
+            "ro": "Cină în Bahla",
+            "en": "Dinner in Bahla"
+          },
+          "coords": [
+            22.964,
+            57.302
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den letzten Tee des Tages.",
+            "hu": "Élvezze a nap utolsó teáját.",
+            "ro": "Savurați ultimul ceai al zilei.",
+            "en": "Enjoy the final tea of a wonderful day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet das UNESCO-Erbe von Bahla mit dem eleganten Schloss Jibreen und den Bergdörfern des Hinterlandes.\n\nNach dem Vormittag in Bahla fahren Sie zum nahegelegenen Schloss Jibreen, einem architektonischen Juwel der omanischen Renaissance.\n\nAm Nachmittag führt die Fahrt hinauf in die Berge nach Al Hamra und Misfat al Abriyeen, wo die Zeit stehengeblieben scheint.\n\nDer Tag endet mit einer Rückkehr nach Bahla für ein traditionelles Abendessen unter dem Sternenhimmel der Wüste.",
+        "hu": "Ez az autós túra összeköti Bahla UNESCO örökségét a Jibreen kastély eleganciájával és a hegyi falvakkal.\n\nA bahlai délelőtt után látogasson el a közeli Jibreen kastélyba, amely az ománi reneszánsz építészet remekműve.\n\nDélután az út a hegyekbe vezet Al Hamra és Misfat al Abriyeen felé, ahol a teraszos kertek és vályogházak világa fogadja.\n\nA nap végén térjen vissza Bahlába egy hagyományos vacsorára, élvezve a sivatagi esték hangulatát.",
+        "ro": "Acest tur auto combină patrimoniul UNESCO din Bahla cu eleganța Castelului Jibreen și satele montane pitorești.\n\nDupă dimineața în Bahla, mergeți la Castelul Jibreen, o bijuterie a arhitecturii renascentiste omani.\n\nDupă-amiaza, drumul urcă spre Al Hamra și Misfat al Abriyeen, unde grădinile terasate creează un peisaj unic.\n\nZiua se încheie cu întoarcerea în Bahla pentru o cină tradițională sub cerul înstelat al deșertului.",
+        "en": "This car tour links the UNESCO heritage of Bahla with the elegant Jibreen Castle and the surrounding mountain villages.\n\nFollowing a morning in Bahla, drive to the nearby Jibreen Castle, an architectural jewel of the Omani Renaissance.\n\nIn the afternoon, head into the foothills to Al Hamra and Misfat al Abriyeen, where terraced gardens and ancient houses await.\n\nConclude your journey by returning to Bahla for a traditional dinner, soaking in the atmosphere of a desert evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jibreen Tea",
+            "tip": "Süßer Tee mit Minze nach der Schlossbesichtigung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jibreen tea",
+            "tip": "Édes mentás tea a kastélylátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceai Jibreen",
+            "tip": "Ceai dulce cu mentă după vizita la castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jibreen Tea",
+            "tip": "Refreshing sweet mint tea served near the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Misfat Terrassen",
+            "tip": "Blick über das grüne Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Misfat teraszok",
+            "tip": "Kilátás a zöldellő völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasele Misfat",
+            "tip": "Vedere peste valea verde.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Misfat Terraces",
+            "tip": "Unbeatable views over the lush valley below.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgewebte Teppiche",
+            "tip": "Oft in Al Hamra zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szövött szőnyegek",
+            "tip": "Al Hamrában autentikus darabokat találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covoare țesute",
+            "tip": "Piese autentice găsite în Al Hamra."
+          }
+        ],
+        "en": [
+          {
+            "name": "Woven Rugs",
+            "tip": "Look for authentic handmade rugs in Al Hamra."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein 4x4 ist für diese Strecke nicht zwingend erforderlich, aber komfortabel.",
+          "Tanken Sie in Bahla voll.",
+          "Die Straßen nach Misfat sind steil und eng.",
+          "Achten Sie auf Ziegen auf der Fahrbahn."
+        ],
+        "hu": [
+          "4x4-es autó nem kötelező, de kényelmesebb ezen a szakaszon.",
+          "Tankoljon fel Bahlában.",
+          "A Misfat felé vezető utak meredekek és szűkek.",
+          "Vigyázzon az úton átkelő kecskékre."
+        ],
+        "ro": [
+          "Nu este necesar un 4x4, dar drumul este mai confortabil.",
+          "Alimentați cu combustibil în Bahla.",
+          "Drumurile spre Misfat sunt abrupte și înguste.",
+          "Atenție la caprele de pe carosabil."
+        ],
+        "en": [
+          "A 4x4 is not strictly required but provides more comfort.",
+          "Fuel up in Bahla before heading out.",
+          "The roads to Misfat are steep and narrow.",
+          "Watch out for livestock on the secondary roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahla Fort Bushaltestelle",
+            "hu": "Bahla erőd buszmegálló",
+            "ro": "Stație autocar Fort Bahla",
+            "en": "Bahla Fort Bus Stop"
+          },
+          "coords": [
+            22.9647,
+            57.2997
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für lokale Busse.",
+            "hu": "Központi csomópont a helyi buszokhoz.",
+            "ro": "Nod central pentru transportul local.",
+            "en": "Main hub for local buses and shared taxis."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahla Souq",
+            "hu": "Bahla bazár",
+            "ro": "Souq Bahla",
+            "en": "Bahla Souq"
+          },
+          "coords": [
+            22.964,
+            57.3
+          ],
+          "category": "market",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sammeln Sie Eindrücke zu Fuß.",
+            "hu": "Gyűjtsön élményeket gyalogosan.",
+            "ro": "Explorați piața la pas.",
+            "en": "The best way to see the market is on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokaler Markt (Busfahrt)",
+            "hu": "Helyi piac (buszozás)",
+            "ro": "Piața locală (călătorie bus)",
+            "en": "Local Market (Bus Hop)"
+          },
+          "coords": [
+            22.94,
+            57.26
+          ],
+          "category": "market",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie Sammeltaxis für Flexibilität.",
+            "hu": "Használjon gyűjtőtaxit a rugalmasságért.",
+            "ro": "Folosiți taxiuri colective pentru flexibilitate.",
+            "en": "Shared taxis offer great flexibility between stops."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen",
+            "hu": "Kései ebéd",
+            "ro": "Prânz târziu",
+            "en": "Late Lunch"
+          },
+          "coords": [
+            22.9645,
+            57.3025
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem Tagesgericht.",
+            "hu": "Kérdezze a napi ajánlatot.",
+            "ro": "Întrebați de meniul zilei.",
+            "en": "Ask for the daily special at the counter."
+          }
+        },
+        {
+          "name": {
+            "de": "Oasenspaziergang",
+            "hu": "Oázis séta",
+            "ro": "Plimbare în oază",
+            "en": "Oasis Walk"
+          },
+          "coords": [
+            22.962,
+            57.297
+          ],
+          "category": "park",
+          "arrive_at": "15:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Folgen Sie den Schattenwegen.",
+            "hu": "Kövesse az árnyas ösvényeket.",
+            "ro": "Urmați cărările umbrite.",
+            "en": "Stick to the shaded pathways along the falaj."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das authentische Erlebnis der lokalen Busse und Sammeltaxis, um die Highlights von Bahla stressfrei zu erkunden.\n\nBesuchen Sie das Fort und den Souq vormittags, bevor die Mittagshitze einsetzt und die Märkte ruhiger werden.\n\nEin kurzes 'Bus-Hopping' führt Sie zu den Randgebieten der Oase, wo Sie das lokale Leben abseits der Hauptstraßen beobachten können.\n\nDer Tag klingt entspannt bei einem Spaziergang durch die kühlen Gärten der Oase aus, bevor Sie den Bus zurück nehmen.",
+        "hu": "Használja a helyi buszok és gyűjtőtaxik hálózatát, hogy stresszmentesen fedezze fel Bahla legfontosabb pontjait.\n\nA várat és a bazárt érdemes délelőtt felkeresni, amíg élénk a forgalom és nincs túl meleg.\n\nEgy rövid buszozás után láthatja az oázis külső részeit, ahol az élet a maga természetes, lassú medrében folyik.\n\nA napot egy hűvös, oázisbeli sétával zárhatja, mielőtt visszaszállna a központba tartó járatra.",
+        "ro": "Folosiți experiența autentică a transportului local pentru a vizita principalele puncte de interes din Bahla fără griji.\n\nVizitați fortul și piața în prima parte a zilei, când activitatea este intensă și soarele nu este prea puternic.\n\nO scurtă călătorie cu autocarul vă poartă spre marginile oazei, oferind o privire asupra vieții rurale autentice.\n\nZiua se termină cu o plimbare relaxantă prin grădinile răcoroase înainte de a lua transportul de retur.",
+        "en": "Experience Bahla like a local by using the network of buses and shared taxis to visit the town's highlights.\n\nFocus on the fort and central souq in the morning while the market is buzzing and temperatures are manageable.\n\nA quick 'bus hop' takes you to the oasis outskirts, allowing you to observe daily life away from the main tourist areas.\n\nEnd your day with a relaxing stroll through the shaded oasis paths before catching your return transit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Samosas",
+            "tip": "Günstiger und leckerer Snack am Busbahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szamosza",
+            "tip": "Olcsó és finom sült tészta a buszmegálló mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Samosas",
+            "tip": "Gustare ieftină și delicioasă lângă stație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Samosas",
+            "tip": "Cheap and delicious snacks available near the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sitzbänke im Souq",
+            "tip": "Leute beobachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a bazárban",
+            "tip": "Figyelje a helyiek forgatagát.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în Souq",
+            "tip": "Observați agitația locală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Souq Benches",
+            "tip": "The perfect place to sit back and watch local life.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hammam-Handtücher",
+            "tip": "Auf dem kleinen Markt oft günstig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőtt kendők",
+            "tip": "A kis piacon jó áron kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eșarfe țesute",
+            "tip": "Prețuri bune în piețele secundare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Woven Scarves",
+            "tip": "Find good deals in the smaller secondary markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sammeltaxis (Baisa) fahren los, wenn sie voll sind.",
+          "Haben Sie Kleingeld in bar dabei.",
+          "Buspläne sind eher Richtlinien.",
+          "Fragen Sie Einheimische nach der nächsten Haltestelle."
+        ],
+        "hu": [
+          "A gyűjtőtaxik akkor indulnak, ha megteltek.",
+          "Legyen Önnél aprópénz készpénzben.",
+          "A buszmenetrendek tájékoztató jellegűek.",
+          "Kérdezze a helyieket a legközelebbi megállóról."
+        ],
+        "ro": [
+          "Taxiurile colective pleacă atunci când sunt pline.",
+          "Aveți pregătite monede și bancnote mici.",
+          "Orarele autocarelor sunt orientative.",
+          "Întrebați localnicii pentru stația potrivită."
+        ],
+        "en": [
+          "Shared taxis (Baisa) depart once they are full.",
+          "Carry plenty of small bills and coins.",
+          "Bus schedules should be treated as estimates.",
+          "Always ask locals to confirm the correct stop."
+        ]
+      }
+    }
+  }
+}

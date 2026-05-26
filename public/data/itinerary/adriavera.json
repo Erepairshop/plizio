@@ -1,0 +1,923 @@
+{
+  "city_id": "adriavera",
+  "anchor": {
+    "name": "Adriavera Old Town",
+    "coords": [
+      43.15,
+      16.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maritimo-Platz",
+            "hu": "Maritimo tér",
+            "ro": "Piața Maritimo",
+            "en": "Maritimo Square"
+          },
+          "coords": [
+            43.151,
+            16.552
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Kaffee in einem der Cafés am Morgen.",
+            "hu": "Kóstolj meg egy helyi kávét a reggeli napsütésben a tér egyik kávézójában.",
+            "ro": "Încercați o cafea locală la una dintre cafenelele pieței dimineața.",
+            "en": "Try a local coffee at one of the square's cafes in the morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Dogenloggia",
+            "hu": "Dózse Loggiája",
+            "ro": "Loggia Dogilor",
+            "en": "Doge's Loggia"
+          },
+          "coords": [
+            43.152,
+            16.551
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die venezianischen Wappen an der Fassade.",
+            "hu": "Keresd a velencei címereket a homlokzaton, a tengeri köztársaság örökségét.",
+            "ro": "Observați stemele venețiene de pe fațadă, o moștenire a republicii maritime.",
+            "en": "Look for the Venetian coats of arms on the facade, a legacy of the maritime republic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des Heiligen Sebastian",
+            "hu": "Szent Sebestyén-katedrális",
+            "ro": "Catedrala Sfântul Sebastian",
+            "en": "St. Sebastian's Cathedral"
+          },
+          "coords": [
+            43.153,
+            16.553
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Glockenturm für eine großartige Aussicht auf die Altstadt.",
+            "hu": "Mássz fel a harangtoronyba, ahonnan remek kilátás nyílik az óvárosra.",
+            "ro": "Urcați în clopotniță pentru o priveliște superbă asupra orașului vechi.",
+            "en": "Climb the bell tower for a great view of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Fischerhafen & Mittagessen",
+            "hu": "Régi Halászkikötő és ebéd",
+            "ro": "Vechiul Port Pescarilor & Prânz",
+            "en": "Old Fisherman's Harbor & Lunch"
+          },
+          "coords": [
+            43.149,
+            16.555
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit frischem Fang des Tages.",
+            "hu": "Válassz egy éttermet, ahol a napi friss fogást szolgálják fel.",
+            "ro": "Alegeți un restaurant care servește peștele proaspăt al zilei.",
+            "en": "Pick a restaurant that serves the fresh catch of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Adriavera",
+            "hu": "Adriavera Városi Múzeum",
+            "ro": "Muzeul Orașului Adriavera",
+            "en": "Adriavera City Museum"
+          },
+          "coords": [
+            43.152,
+            16.558
+          ],
+          "category": "museum",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Amphoren-Sammlung im Erdgeschoss ist besonders beeindruckend.",
+            "hu": "A földszinti amfora-gyűjtemény különösen lenyűgöző.",
+            "ro": "Colecția de amfore de la parter este deosebit de impresionantă.",
+            "en": "The amphora collection on the ground floor is especially impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Riva-Promenade",
+            "hu": "Riva sétány",
+            "ro": "Promenada Riva",
+            "en": "Riva Promenade"
+          },
+          "coords": [
+            43.148,
+            16.56
+          ],
+          "category": "walk",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis, während Sie den Booten zusehen.",
+            "hu": "Fogyassz el egy fagyit, miközben a hajókat nézed.",
+            "ro": "Savurați o înghețată în timp ce priviți bărcile.",
+            "en": "Enjoy a gelato while watching the boats go by."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Rossa Strand & Sonnenuntergang",
+            "hu": "Punta Rossa strand és naplemente",
+            "ro": "Plaja Punta Rossa & Apus",
+            "en": "Punta Rossa Beach & Sunset"
+          },
+          "coords": [
+            43.145,
+            16.565
+          ],
+          "category": "beach",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der westliche Teil des Strandes bietet die beste Aussicht auf den Sonnenuntergang.",
+            "hu": "A strand nyugati része nyújtja a legjobb kilátást a naplementére.",
+            "ro": "Partea de vest a plajei oferă cea mai bună priveliște la apus.",
+            "en": "The western part of the beach offers the best sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen der Altstadt, wo venezianische Architektur und das geschäftige Treiben des Maritimo-Platzes Sie begrüßen. Steigen Sie auf den Glockenturm der Kathedrale, um einen Panoramablick zu genießen, bevor Sie zum historischen Hafen schlendern. Der Nachmittag ist für Kultur im Stadtmuseum und einen entspannten Spaziergang entlang der Riva-Promenade reserviert. Der Tag endet am Punta Rossa Strand, wo der Himmel in warmen Farben leuchtet, während die Sonne im Meer versinkt.",
+        "hu": "A reggel az óváros szívében indul, ahol a velencei építészet és a Maritimo tér nyüzsgése fogad. Mássz fel a katedrális harangtornyába a panorámáért, mielőtt lesétálsz a történelmi kikötőbe. A délután a városi múzeum kultúrájáé és egy pihentető sétáé a Riva sétányon. A nap a Punta Rossa strandon ér véget, ahol az ég meleg színekben pompázik, miközben a nap a tengerbe merül.",
+        "ro": "Dimineața începe în inima orașului vechi, unde arhitectura venețiană și agitația din Piața Maritimo vă întâmpină. Urcați în turnul clopotniță al catedralei pentru o vedere panoramică înainte de a vă plimba spre portul istoric. După-amiaza este rezervată culturii la Muzeul Orașului și unei plimbări relaxante de-a lungul promenadei Riva. Ziua se încheie pe plaja Punta Rossa, unde cerul se aprinde în culori calde în timp ce soarele apune în mare.",
+        "en": "The morning begins in the heart of the old town, where Venetian architecture and the bustle of Maritimo Square greet you. Climb the cathedral's bell tower for a panoramic view before strolling down to the historic harbor. The afternoon is reserved for culture at the City Museum and a relaxing walk along the Riva promenade. The day concludes at Punta Rossa beach, where the sky glows with warm colors as the sun sets into the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Risotto (Crni rižot)",
+            "tip": "Eine lokale Spezialität, gefärbt mit Tintenfischtinte. Probieren Sie es im Restaurant 'Konoba Adria'."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus der Adria, oft mit Kartoffeln und Mangold serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete rizottó (Crni rižot)",
+            "tip": "Helyi specialitás, tintahal tintájával színezve. Kóstold meg a 'Konoba Adria' étteremben."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen az Adriából, gyakran krumplival és mángolddal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto negru (Crni rižot)",
+            "tip": "O specialitate locală colorată cu cerneală de sepie. Încercați-l la restaurantul 'Konoba Adria'."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Adriatică, adesea servită cu cartofi și sfeclă mangold."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Risotto (Crni rižot)",
+            "tip": "A local specialty colored with cuttlefish ink. Try it at 'Konoba Adria' restaurant."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Adriatic, often served with potatoes and chard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sunset Point Aussichtspunkt",
+            "tip": "Ein ruhiger Ort oberhalb des Strandes, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serenity-Gärten",
+            "tip": "Eine versteckte Oase mit schattigen Bänken und mediterranen Pflanzen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente-pont kilátó",
+            "tip": "Csendes hely a strand felett a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nyugalom Kertje",
+            "tip": "Rejtett oázis árnyas padokkal és mediterrán növényekkel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Sunset Point",
+            "tip": "Un loc liniștit deasupra plajei pentru a privi apusul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Serenity",
+            "tip": "O oază ascunsă cu bănci umbrite și plante mediteraneene.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset Point Viewpoint",
+            "tip": "A quiet spot above the beach to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serenity Gardens",
+            "tip": "A hidden oasis with shady benches and Mediterranean plants.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkermarkt",
+            "tip": "Kaufen Sie handgemachten Schmuck und Keramik direkt von den Künstlern."
+          },
+          {
+            "name": "Lokaler Lavendel",
+            "tip": "In kleinen Beuteln oder als Öl erhältlich, ein perfektes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves piac",
+            "tip": "Vásárolj kézzel készített ékszereket és kerámiát közvetlenül a művészektől."
+          },
+          {
+            "name": "Helyi levendula",
+            "tip": "Kis zsákokban vagy olaj formájában kapható, tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Artizanilor",
+            "tip": "Cumpărați bijuterii și ceramică lucrate manual direct de la artiști."
+          },
+          {
+            "name": "Lavandă locală",
+            "tip": "Disponibilă în săculeți mici sau ca ulei, un suvenir perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan's Market",
+            "tip": "Buy handmade jewelry and ceramics directly from the artists."
+          },
+          {
+            "name": "Local Lavender",
+            "tip": "Available in small pouches or as oil, a perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen der Altstadt mit Kopfstein gepflastert sind.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte schließen während der Mittagszeit für eine Siesta.",
+          "Achten Sie auf Seeigel, wenn Sie an felsigen Stränden schwimmen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az óváros utcái macskakövesek.",
+          "Hozz magaddal sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb üzlet bezár ebédidőben egy szieszta erejéig.",
+          "Vigyázz a tengeri sünökre, ha sziklás strandokon úszol."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, străzile din orașul vechi sunt pavate cu piatră cubică.",
+          "Luați multă apă cu voi, mai ales în lunile de vară.",
+          "Majoritatea magazinelor se închid în timpul prânzului pentru o siestă.",
+          "Fiți atenți la aricii de mare dacă înotați pe plajele stâncoase."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town streets are cobblestoned.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most shops close during lunchtime for a siesta.",
+          "Watch out for sea urchins if swimming at rocky beaches."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Riva-Promenade",
+            "hu": "Kerékpárkölcsönző és Riva sétány",
+            "ro": "Închiriere biciclete & Promenada Riva",
+            "en": "Bike Rental & Riva Promenade"
+          },
+          "coords": [
+            43.148,
+            16.56
+          ],
+          "category": "activity",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0
+        },
+        {
+          "name": {
+            "de": "Alter Fischerhafen",
+            "hu": "Régi Halászkikötő",
+            "ro": "Vechiul Port Pescarilor",
+            "en": "Old Fisherman's Harbor"
+          },
+          "coords": [
+            43.149,
+            16.555
+          ],
+          "category": "harbor",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Maritimo-Platz & Altstadt",
+            "hu": "Maritimo tér és Óváros",
+            "ro": "Piața Maritimo & Orașul Vechi",
+            "en": "Maritimo Square & Old Town"
+          },
+          "coords": [
+            43.151,
+            16.552
+          ],
+          "category": "square",
+          "arrive_at": "10:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Meerblick",
+            "hu": "Ebéd tengeri kilátással",
+            "ro": "Prânz cu vedere la mare",
+            "en": "Lunch with a Sea View"
+          },
+          "coords": [
+            43.147,
+            16.57
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3
+        },
+        {
+          "name": {
+            "de": "Punta Rossa Strand",
+            "hu": "Punta Rossa strand",
+            "ro": "Plaja Punta Rossa",
+            "en": "Punta Rossa Beach"
+          },
+          "coords": [
+            43.145,
+            16.565
+          ],
+          "category": "beach",
+          "arrive_at": "13:47",
+          "stay_min": 180,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Sonnenuntergang am Kap Celeste",
+            "hu": "Naplemente túra a Celeste-fokhoz",
+            "ro": "Tură la apus spre Capul Celeste",
+            "en": "Sunset Ride to Cape Celeste"
+          },
+          "coords": [
+            43.14,
+            16.585
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 5.7
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag damit, ein Fahrrad zu mieten und die Küste entlang der Riva-Promenade zu erkunden. Besuchen Sie den alten Hafen, bevor Sie ins Herz der Altstadt radeln. Nach dem Mittagessen mit Meerblick ist es Zeit für eine lange Pause am Punta Rossa Strand. Der Höhepunkt des Tages ist eine Fahrt entlang der Küste zum Kap Celeste, um den spektakulären Sonnenuntergang über der Adria zu erleben.",
+        "hu": "Kezdd a napot kerékpárbérléssel és tekerj végig a Riva sétányon a part mentén. Látogasd meg a régi kikötőt, mielőtt az óváros szívébe indulsz. Egy tengerre néző ebéd után hosszú pihenő vár a Punta Rossa strandon. A nap fénypontja egy part menti túra a Celeste-fokhoz, hogy megnézd a látványos naplementét az Adria felett.",
+        "ro": "Începeți ziua închiriind o bicicletă și explorând coasta de-a lungul promenadei Riva. Vizitați portul vechi înainte de a pedala în inima orașului vechi. După un prânz cu vedere la mare, este timpul pentru o pauză lungă pe plaja Punta Rossa. Punctul culminant al zilei este o plimbare pe coastă până la Capul Celeste pentru a vedea apusul spectaculos peste Marea Adriatică.",
+        "en": "Start the day by renting a bike and exploring the coast along the Riva promenade. Visit the old harbor before cycling into the heart of the old town. After a sea-view lunch, it's time for a long break at Punta Rossa beach. The day's highlight is a coastal ride to Cape Celeste to witness the spectacular sunset over the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frische Sardinen",
+            "tip": "Gegrillt und mit Olivenöl und Zitrone beträufelt, ein einfacher Genuss am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss szardínia",
+            "tip": "Grillezve, olívaolajjal és citrommal meglocsolva, egyszerű tengerparti élvezet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine proaspete",
+            "tip": "La grătar, stropite cu ulei de măsline și lămâie, un deliciu simplu la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Sardines",
+            "tip": "Grilled and drizzled with olive oil and lemon, a simple seaside delight."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Bucht hinter Kap Celeste",
+            "tip": "Ein kleiner, abgelegener Kieselstrand, perfekt für eine ruhige Minute.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett öböl a Celeste-fok mögött",
+            "tip": "Kis, eldugott kavicsos strand, tökéletes egy csendes percre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golfulețul ascuns de după Capul Celeste",
+            "tip": "O mică plajă cu pietriș, izolată, perfectă pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden Cove beyond Cape Celeste",
+            "tip": "A small, secluded pebble beach perfect for a quiet moment.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korallenschmuck",
+            "tip": "Ein traditionelles Handwerk der Region, achten Sie auf zertifizierte Verkäufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korall ékszerek",
+            "tip": "A régió hagyományos kézműves terméke, keress hitelesített árusokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din corali",
+            "tip": "Un meșteșug tradițional al regiunii, căutați vânzători certificați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coral Jewelry",
+            "tip": "A traditional craft of the region, look for certified sellers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer ab, auch bei kurzen Stopps.",
+          "Nutzen Sie die Küstenwege, um den Verkehr zu meiden.",
+          "Eine kleine Klingel ist nützlich, um Fußgänger auf der Promenade zu warnen."
+        ],
+        "hu": [
+          "Mindig zárd le a biciklidet, még rövid megállók esetén is.",
+          "Használd a parti utakat a forgalom elkerülésére.",
+          "Egy kis csengő hasznos lehet a sétányon a gyalogosok figyelmeztetésére."
+        ],
+        "ro": [
+          "Încuiați întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Folosiți pistele de pe coastă pentru a evita traficul.",
+          "Un clopoțel mic este util pentru a avertiza pietonii de pe promenadă."
+        ],
+        "en": [
+          "Always lock your bike, even for short stops.",
+          "Use the coastal paths to avoid traffic.",
+          "A small bell is useful for alerting pedestrians on the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 28.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kap Celeste Leuchtturm",
+            "hu": "Celeste-fok világítótorony",
+            "ro": "Farul Capului Celeste",
+            "en": "Cape Celeste Lighthouse"
+          },
+          "coords": [
+            43.14,
+            16.585
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bester Fotospot am frühen Morgen, wenn das Licht weich ist.",
+            "hu": "A legjobb fotóhely kora reggel, amikor lágyak a fények.",
+            "ro": "Cel mai bun loc pentru fotografii dimineața devreme, când lumina este blândă.",
+            "en": "Best photo spot in the early morning when the light is soft."
+          }
+        },
+        {
+          "name": {
+            "de": "Serenity-Gärten",
+            "hu": "Nyugalom Kertje",
+            "ro": "Grădinile Serenity",
+            "en": "Serenity Gardens"
+          },
+          "coords": [
+            43.142,
+            16.58
+          ],
+          "category": "garden",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Finden Sie die versteckte Grotte hinter dem Wasserfall.",
+            "hu": "Találd meg a rejtett barlangot a vízesés mögött.",
+            "ro": "Găsiți grota ascunsă din spatele cascadei.",
+            "en": "Find the hidden grotto behind the waterfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Altstadt & Parken",
+            "hu": "Utazás az óvárosba és parkolás",
+            "ro": "Condus spre Orașul Vechi & Parcare",
+            "en": "Drive to Old Town & Park"
+          },
+          "coords": [
+            43.15,
+            16.55
+          ],
+          "category": "travel",
+          "arrive_at": "11:25",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0
+        },
+        {
+          "name": {
+            "de": "Maritimo-Platz & Dogenloggia",
+            "hu": "Maritimo tér és Dózse Loggiája",
+            "ro": "Piața Maritimo & Loggia Dogilor",
+            "en": "Maritimo Square & Doge's Loggia"
+          },
+          "coords": [
+            43.151,
+            16.552
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Platz, bevor die Mittagshitze einsetzt.",
+            "hu": "Látogass el a térre a déli hőség előtt.",
+            "ro": "Vizitați piața înainte de căldura amiezii.",
+            "en": "Visit the square before the midday heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            43.152,
+            16.554
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Weinregion & Weingut",
+            "hu": "Utazás a borvidékre és borászat",
+            "ro": "Condus spre regiunea viticolă & Cramă",
+            "en": "Drive to Wine Region & Winery"
+          },
+          "coords": [
+            43.2,
+            16.45
+          ],
+          "category": "activity",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Buchen Sie die Weinprobe im Voraus, besonders in der Hochsaison.",
+            "hu": "Foglald le a borkóstolót előre, különösen főszezonban.",
+            "ro": "Rezervați degustarea de vinuri în avans, mai ales în sezonul de vârf.",
+            "en": "Book the wine tasting in advance, especially in high season."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Adriavera & Abendessen",
+            "hu": "Visszatérés Adriaverába és vacsora",
+            "ro": "Întoarcere în Adriavera & Cină",
+            "en": "Return to Adriavera & Dinner"
+          },
+          "coords": [
+            43.149,
+            16.555
+          ],
+          "category": "gastro",
+          "arrive_at": "17:20",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Fahrt zum Kap Celeste für atemberaubende Morgenblicke, gefolgt von einem Spaziergang durch die ruhigen Serenity-Gärten. Dann fahren Sie in die historische Altstadt, parken und erkunden zu Fuß den Maritimo-Platz und die Dogenloggia. Nach dem Mittagessen führt eine malerische Fahrt ins Landesinnere zu einem lokalen Weingut für eine Weinprobe. Der Tag endet mit der Rückkehr in die Stadt für ein Abendessen am Hafen.",
+        "hu": "A nap a Celeste-fokhoz való autózással kezdődik a lélegzetelállító reggeli kilátásért, majd séta a békés Nyugalom Kertjében. Ezután a történelmi óvárosba hajtasz, leparkolsz, és gyalog fedezed fel a Maritimo teret és a Dózse Loggiáját. Ebéd után egy festői út vezet a szárazföld belsejébe egy helyi borászathoz borkóstolóra. A nap a városba való visszatéréssel és egy kikötői vacsorával zárul.",
+        "ro": "Ziua începe cu o călătorie cu mașina spre Capul Celeste pentru priveliști matinale uimitoare, urmată de o plimbare prin Grădinile Serenity. Apoi, conduceți spre centrul vechi istoric, parcați și explorați pe jos Piața Maritimo și Loggia Dogilor. După prânz, un drum pitoresc spre interior duce la o cramă locală pentru o degustare de vinuri. Ziua se încheie cu întoarcerea în oraș pentru o cină în port.",
+        "en": "The day starts with a drive to Cape Celeste for stunning morning views, followed by a walk in the peaceful Serenity Gardens. Then, drive to the historic old town, park, and explore Maritimo Square and the Doge's Loggia on foot. After lunch, a scenic drive inland takes you to a local winery for a tasting session. The day concludes by returning to the city for a harbor-side dinner."
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist begrenzt; nutzen Sie die ausgewiesenen Parkplätze am Rande.",
+          "Achten Sie auf enge Straßen in den Hügeln außerhalb der Stadt.",
+          "Der Fahrer sollte bei der Weinprobe nicht oder nur sehr wenig trinken."
+        ],
+        "hu": [
+          "A parkolás az óvárosban korlátozott; használd a kijelölt parkolókat a szélén.",
+          "Vigyázz a szűk utakra a városon kívüli dombokon.",
+          "A sofőr ne, vagy csak nagyon keveset igyon a borkóstolón."
+        ],
+        "ro": [
+          "Parcarea în orașul vechi este limitată; folosiți parcările desemnate de la periferie.",
+          "Fiți atenți la drumurile înguste de pe dealurile din afara orașului.",
+          "Șoferul nu ar trebui să bea sau să bea foarte puțin la degustarea de vinuri."
+        ],
+        "en": [
+          "Parking in the old town is limited; use designated car parks on the outskirts.",
+          "Be aware of narrow roads in the hills outside the town.",
+          "The driver should not drink, or drink very little, at the wine tasting."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 8.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof & Fahrt zur Altstadt",
+            "hu": "Főpályaudvar és utazás az óvárosba",
+            "ro": "Gara Centrală & Călătorie spre Orașul Vechi",
+            "en": "Main Station & Transit to Old Town"
+          },
+          "coords": [
+            43.158,
+            16.55
+          ],
+          "category": "travel",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0
+        },
+        {
+          "name": {
+            "de": "Maritimo-Platz",
+            "hu": "Maritimo tér",
+            "ro": "Piața Maritimo",
+            "en": "Maritimo Square"
+          },
+          "coords": [
+            43.151,
+            16.552
+          ],
+          "category": "square",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Sebastian",
+            "hu": "Szent Sebestyén-katedrális",
+            "ro": "Catedrala Sfântul Sebastian",
+            "en": "St. Sebastian's Cathedral"
+          },
+          "coords": [
+            43.153,
+            16.553
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Handwerkermarkt",
+            "hu": "Kézműves piac",
+            "ro": "Piața Artizanilor",
+            "en": "Artisan's Market"
+          },
+          "coords": [
+            43.154,
+            16.556
+          ],
+          "category": "market",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Bus zum Hafenviertel & Mittagessen",
+            "hu": "Busz a kikötőnegyedbe és ebéd",
+            "ro": "Autobuz spre Cartierul Portuar & Prânz",
+            "en": "Bus to Harbor District & Lunch"
+          },
+          "coords": [
+            43.149,
+            16.555
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Riva-Promenade",
+            "hu": "Séta a Riva sétányhoz",
+            "ro": "Plimbare spre Promenada Riva",
+            "en": "Walk to Riva Promenade"
+          },
+          "coords": [
+            43.148,
+            16.56
+          ],
+          "category": "walk",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Bus zum Strand & Sonnenuntergang",
+            "hu": "Busz a strandra és naplemente",
+            "ro": "Autobuz spre plajă & Apus",
+            "en": "Bus to Beach & Sunset"
+          },
+          "coords": [
+            43.145,
+            16.58
+          ],
+          "category": "beach",
+          "arrive_at": "15:40",
+          "stay_min": 125,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie vom Hauptbahnhof den Bus in die Altstadt. Der Vormittag ist der Erkundung des zentralen Clusters gewidmet: Maritimo-Platz, die Kathedrale und der Handwerkermarkt, alles zu Fuß erreichbar. Ein weiterer Bus bringt Sie zum Mittagessen in das lebhafte Hafenviertel. Der Nachmittag wird entspannt an der Riva-Promenade verbracht, bevor eine letzte Busfahrt Sie zum Strand bringt, um einen ausgedehnten Aufenthalt und den Sonnenuntergang zu genießen.",
+        "hu": "A főpályaudvarról busszal juss el az óvárosba. A délelőtt a központi negyed felfedezéséről szól: Maritimo tér, katedrális és a kézműves piac, mind gyalogosan elérhető. Egy másik busz visz ebédelni a nyüzsgő kikötőnegyedbe. A délutánt a Riva sétányon töltöd, mielőtt egy utolsó buszjárattal a strandra mész, hogy élvezd a hosszú pihenőt és a naplementét.",
+        "ro": "De la gară, luați autobuzul spre orașul vechi. Dimineața este dedicată explorării clusterului central: Piața Maritimo, catedrala și piața de artizanat, toate accesibile pe jos. Un alt autobuz vă duce la prânz în cartierul vibrant al portului. După-amiaza este petrecută relaxat pe promenada Riva, înainte ca o ultimă călătorie cu autobuzul să vă ducă la plajă pentru o ședere prelungită și apus.",
+        "en": "From the main station, take a bus to the Old Town. The morning is for exploring the central cluster: Maritimo Square, the cathedral, and the artisan market, all within walking distance. Another bus takes you for lunch in the vibrant Harbor District. The afternoon is spent relaxing on the Riva promenade before a final bus ride takes you to the beach for an extended stay and the sunset."
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Busfahrpläne finden Sie an den Haltestellen oder online.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, hogy pénzt spórolj.",
+          "A buszmenetrendeket a megállókban vagy online találod.",
+          "Érvényesítsd a jegyedet felszálláskor, hogy elkerüld a büntetést."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Orarele autobuzelor pot fi găsite la stații sau online.",
+          "Validați biletul la urcarea în autobuz pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a daily bus pass to save money.",
+          "Bus schedules can be found at the stops or online.",
+          "Validate your ticket when you board the bus to avoid a fine."
+        ]
+      }
+    }
+  }
+}

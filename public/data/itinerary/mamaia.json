@@ -1,0 +1,1012 @@
+{
+  "city_id": "mamaia",
+  "anchor": {
+    "name": "Mamaia Casino",
+    "coords": [
+      44.246,
+      28.623
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Ovidiu",
+          "coords": [
+            44.179,
+            28.652
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Früher römisches Forum, heute Treffpunkt.",
+            "hu": "Egykor római fórum, ma találkozóhely.",
+            "ro": "Fostul for roman, acum loc de intalnire.",
+            "en": "Former Roman forum, now a meeting point."
+          }
+        },
+        {
+          "name": "Muzeul de Istorie și Arheologie",
+          "coords": [
+            44.18,
+            28.653
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie die goldene Schale von Histria.",
+            "hu": "Nézd meg a histriai aranytálat.",
+            "ro": "Vezi vasul de aur de la Histria.",
+            "en": "See the golden bowl from Histria."
+          }
+        },
+        {
+          "name": "Catedrala Sf. Petru și Pavel",
+          "coords": [
+            44.181,
+            28.654
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Fresken im Inneren sind atemberaubend.",
+            "hu": "A belső freskók lenyűgözőek.",
+            "ro": "Frescele interioare sunt uimitoare.",
+            "en": "The interior frescoes are stunning."
+          }
+        },
+        {
+          "name": "Faleza Cazino Constanța",
+          "coords": [
+            44.177,
+            28.65
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause mit Meerblick.",
+            "hu": "Tökéletes szünetre tengerre néző kilátással.",
+            "ro": "Perfect pentru o pauza cu vedere la mare.",
+            "en": "Perfect for a break with sea view."
+          }
+        },
+        {
+          "name": "Plaja Modern",
+          "coords": [
+            44.174,
+            28.647
+          ],
+          "category": "beach",
+          "arrive_at": "14:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mieten Sie einen Sonnenschirm und entspannen Sie.",
+            "hu": "Bérelj napernyőt és pihenj.",
+            "ro": "Inchiriaza o umbrela de soare si relaxeaza-te.",
+            "en": "Rent a sun umbrella and relax."
+          }
+        },
+        {
+          "name": "Restaurantul Cherhana",
+          "coords": [
+            44.17,
+            28.644
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie die Fischsuppe nach Dobrudscha-Art.",
+            "hu": "Kóstold meg a dobrudzsai halászlét.",
+            "ro": "Incearca ciorba de peste dobrogeana.",
+            "en": "Try the Dobruja fish soup."
+          }
+        },
+        {
+          "name": "Plaja Reyna",
+          "coords": [
+            44.167,
+            28.641
+          ],
+          "category": "sunset",
+          "arrive_at": "18:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Sonnenuntergang hier ist magisch.",
+            "hu": "A naplemente itt varázslatos.",
+            "ro": "Apusul de soare aici este magic.",
+            "en": "The sunset here is magical."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag auf dem Ovidiu-Platz, dem pulsierenden Herzen der Altstadt. Besuchen Sie das Archäologiemuseum mit seinen antiken Schätzen. Die Kathedrale beeindruckt mit byzantinischen Fresken. Mittagspause auf der Uferpromenade mit Blick auf das berühmte Casino. Der Nachmittag gehört dem Strand: Sonne, Meer und Entspannung. Abendessen mit frischem Fisch im Cherhana, gefolgt von einem spektakulären Sonnenuntergang am Reyna Beach.",
+        "hu": "Kezdd a napot az Ovidiu téren, az óváros lüktető szívében. Látogasd meg a Régészeti Múzeumot antik kincseivel. A székesegyház bizánci freskóival nyűgöz le. Ebédidő a sétányon, a híres kaszinóra néző kilátással. A délután a tengerparté: nap, víz és pihenés. Vacsora friss hallal a Cherhanában, majd lenyűgöző naplemente a Reyna Beachen.",
+        "ro": "Incepeti ziua in Piata Ovidiu, inima vibranta a orasului vechi. Vizitati Muzeul de Arheologie cu comorile sale antice. Catedrala impresioneaza cu frescele bizantine. Pranz pe faleza cu vedere la celebrul Cazino. Dupa-amiaza apartine plajei: soare, mare si relaxare. Cina cu peste proaspat la Cherhana, urmata de un apus spectaculos pe Plaja Reyna.",
+        "en": "Start the day at Ovidiu Square, the vibrant heart of the old town. Visit the Archaeology Museum with its ancient treasures. The cathedral impresses with Byzantine frescoes. Lunch break on the promenade overlooking the famous Casino. The afternoon belongs to the beach: sun, sea and relaxation. Dinner with fresh fish at Cherhana, followed by a spectacular sunset at Reyna Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de pește",
+            "tip": "Fischsuppe nach Dobrudscha-Art im Restaurant Cherhana"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "Dobrudzsai halászlé a Cherhana étteremben"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de pește",
+            "tip": "Ciorba de peste dobrogeana la Restaurantul Cherhana"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish soup",
+            "tip": "Dobruja-style fish soup at Restaurant Cherhana"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Reyna Beach Sonnenuntergang",
+            "tip": "Magischer Sonnenuntergang am Strand",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reyna Beach naplemente",
+            "tip": "Varázslatos naplemente a strandon",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus pe Plaja Reyna",
+            "tip": "Apus magic pe plaja",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reyna Beach sunset",
+            "tip": "Magical sunset on the beach",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Handgefertigte Souvenirs und Lavendelprodukte"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Kézműves szuvenírek és levendulás termékek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piata locala",
+            "tip": "Suveniruri artizanale si produse cu lavanda"
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Handmade souvenirs and lavender products"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe.",
+          "Nehmen Sie Sonnencreme mit.",
+          "Probieren Sie unbedingt die Meeresfrüchte.",
+          "Buchen Sie Sonnenschirme im Voraus."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt.",
+          "Vigyél naptejet.",
+          "Feltétlenül kóstold meg a tenger gyümölcseit.",
+          "Foglalj napernyőt előre."
+        ],
+        "ro": [
+          "Purtati incaltaminte confortabila.",
+          "Luati crema de soare.",
+          "Incercati neaparat fructele de mare.",
+          "Rezervati umbrelele de soare in avans."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Bring sunscreen.",
+          "Definitely try the seafood.",
+          "Book sun umbrellas in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piața Ovidiu",
+          "coords": [
+            44.179,
+            28.652
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt mit vielen Cafés.",
+            "hu": "Kiindulópont sok kávézóval.",
+            "ro": "Punct de plecare cu multe cafenele.",
+            "en": "Starting point with many cafes."
+          }
+        },
+        {
+          "name": "Muzeul de Artă",
+          "coords": [
+            44.18,
+            28.655
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Moderne rumänische Kunst im Jugendstilgebäude.",
+            "hu": "Modern román művészet szecessziós épületben.",
+            "ro": "Arta romaneasca moderna in cladire Art Nouveau.",
+            "en": "Modern Romanian art in an Art Nouveau building."
+          }
+        },
+        {
+          "name": "Faleza Cazino",
+          "coords": [
+            44.177,
+            28.65
+          ],
+          "category": "park",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Küste.",
+            "hu": "Tekerezz a part mentén.",
+            "ro": "Pedaleaza de-a lungul coastei.",
+            "en": "Cycle along the coast."
+          }
+        },
+        {
+          "name": "Plaja Modern",
+          "coords": [
+            44.174,
+            28.647
+          ],
+          "category": "beach",
+          "arrive_at": "12:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahrradparkplatz am Strandeingang.",
+            "hu": "Kerékpárparkoló a strandbejáratnál.",
+            "ro": "Parcare biciclete la intrarea pe plaja.",
+            "en": "Bike parking at the beach entrance."
+          }
+        },
+        {
+          "name": "Restaurantul Pescarilor",
+          "coords": [
+            44.17,
+            28.644
+          ],
+          "category": "gastro",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Frischer Fisch direkt vom Kutter.",
+            "hu": "Friss hal közvetlenül a hajóról.",
+            "ro": "Peste proaspat direct de pe vapor.",
+            "en": "Fresh fish straight from the boat."
+          }
+        },
+        {
+          "name": "Plaja Reyna",
+          "coords": [
+            44.167,
+            28.641
+          ],
+          "category": "sunset",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der beste Ort für den Sonnenuntergang.",
+            "hu": "A legjobb hely a naplementéhez.",
+            "ro": "Cel mai bun loc pentru apus.",
+            "en": "The best place for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Altstadt von Constanța, vorbei am Ovidiu-Platz. Besuchen Sie das Kunstmuseum in einem Jugendstiljuwel. Die Uferpromenade führt Sie zum Casino – ein perfekter Fotostopp. Mittagspause am Modern Beach, wo Sie das Fahrrad abstellen und baden können. Am späten Nachmittag geht es zum Fischerrestaurant für gegrillte Dorade. Beenden Sie die Tour mit einem atemberaubenden Sonnenuntergang am Reyna Beach.",
+        "hu": "Tekerezz át Constanța óvárosán, az Ovidiu tér mellett. Látogasd meg a Művészeti Múzeumot egy szecessziós gyöngyszemben. A sétány a kaszinóhoz vezet – tökéletes fotószünet. Ebédidő a Modern Beachen, ahol leparkolhatod a bicajt és fürödhetsz. Késő délután a halászétteremben grillezett keszeg. Zárd a túrát egy lenyűgöző naplementével a Reyna Beachen.",
+        "ro": "Pedaleaza prin orasul vechi al Constantei, pe langa Piata Ovidiu. Viziteaza Muzeul de Arta intr-o bijuterie Art Nouveau. Faleza te duce la Cazino – un stop foto perfect. Pranz pe Plaja Modern, unde poti parca bicicleta si face baie. Dupa-amiaza tarziu, la restaurantul pescarilor pentru dorada la gratar. Incheie turul cu un apus spectaculos pe Plaja Reyna.",
+        "en": "Cycle through Constanța's old town, past Ovidiu Square. Visit the Art Museum in an Art Nouveau gem. The promenade leads to the Casino – a perfect photo stop. Lunch break at Modern Beach, where you can park the bike and swim. Late afternoon, head to the fishermen's restaurant for grilled sea bream. End the tour with a spectacular sunset at Reyna Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dorada vom Grill",
+            "tip": "Gegrillte Dorade im Restaurant Pescarilor"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett keszeg",
+            "tip": "Grillezett keszeg a Pescarilor étteremben"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dorada la gratar",
+            "tip": "Dorada la gratar la Restaurantul Pescarilor"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled sea bream",
+            "tip": "Grilled sea bream at Pescarilor Restaurant"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Reyna Beach",
+            "tip": "Ruhiger Strand zum Entspannen",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reyna Beach",
+            "tip": "Csendes strand a pihenéshez",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Reyna",
+            "tip": "Plaja linistita pentru relaxare",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reyna Beach",
+            "tip": "Quiet beach for relaxation",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Reparaturkit und Karten im Touristenbüro"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár kiegészítők",
+            "tip": "Javítókészlet és térképek a turisztikai irodában"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii bicicleta",
+            "tip": "Kit reparatii si harti la biroul de turism"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "Repair kit and maps at the tourist office"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad am Hafen.",
+          "Tragen Sie einen Helm.",
+          "Planen Sie Trinkpausen ein.",
+          "Achten Sie auf den Verkehr."
+        ],
+        "hu": [
+          "Bérelj kerékpárt a kikötőben.",
+          "Viselj sisakot.",
+          "Tervezz be ivási szüneteket.",
+          "Figyelj a forgalomra."
+        ],
+        "ro": [
+          "Inchiriati o bicicleta in port.",
+          "Purtati casca.",
+          "Planificati pauze de hidratare.",
+          "Atentie la trafic."
+        ],
+        "en": [
+          "Rent a bike at the harbor.",
+          "Wear a helmet.",
+          "Plan hydration breaks.",
+          "Watch out for traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 48.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Ovidiu",
+          "coords": [
+            44.179,
+            28.652
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am besten am Rand der Altstadt.",
+            "hu": "Legjobb az óváros szélén parkolni.",
+            "ro": "Cel mai bine parchezi la marginea orasului vechi.",
+            "en": "Best to park at the edge of the old town."
+          }
+        },
+        {
+          "name": "Muzeul de Istorie și Arheologie",
+          "coords": [
+            44.18,
+            28.653
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg vom Platz aus.",
+            "hu": "Gyalogút a térről.",
+            "ro": "Drum pe jos din piata.",
+            "en": "Walk from the square."
+          }
+        },
+        {
+          "name": "Catedrala Sf. Petru și Pavel",
+          "coords": [
+            44.181,
+            28.654
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurta plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": "Faleza Cazino",
+          "coords": [
+            44.177,
+            28.65
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fußweg von der Kathedrale.",
+            "hu": "Gyalogút a székesegyháztól.",
+            "ro": "Drum pe jos de la catedrala.",
+            "en": "Walk from the cathedral."
+          }
+        },
+        {
+          "name": "Plaja Modern",
+          "coords": [
+            44.174,
+            28.647
+          ],
+          "category": "beach",
+          "arrive_at": "14:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie am Strandparkplatz.",
+            "hu": "Parkolj a strand parkolójában.",
+            "ro": "Parcheaza in parcarea plajei.",
+            "en": "Park at the beach parking lot."
+          }
+        },
+        {
+          "name": "Restaurantul Cherhana",
+          "coords": [
+            44.17,
+            28.644
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fußweg vom Strand.",
+            "hu": "Gyalogút a strandtól.",
+            "ro": "Drum pe jos de la plaja.",
+            "en": "Walk from the beach."
+          }
+        },
+        {
+          "name": "Plaja Reyna",
+          "coords": [
+            44.167,
+            28.641
+          ],
+          "category": "sunset",
+          "arrive_at": "18:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg vom Restaurant.",
+            "hu": "Gyalogút az étteremtől.",
+            "ro": "Drum pe jos de la restaurant.",
+            "en": "Walk from the restaurant."
+          }
+        },
+        {
+          "name": "Parcul Arheologic",
+          "coords": [
+            44.16,
+            28.63
+          ],
+          "category": "park",
+          "arrive_at": "19:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Antike Ruinen am Stadtrand.",
+            "hu": "Ősi romok a város szélén.",
+            "ro": "Ruine antice la marginea orasului.",
+            "en": "Ancient ruins on the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie am Rand der Altstadt und erkunden Sie zu Fuß den Ovidiu-Platz, das Museum und die Kathedrale. Fahren Sie dann zur Uferpromenade und zum Casino. Nach dem Strandbesuch am Modern Beach geht es zum Abendessen ins Cherhana. Der Sonnenuntergang am Reyna Beach ist ein Muss. Zum Abschluss besuchen Sie den Archäologiepark mit seinen antiken Ruinen.",
+        "hu": "Parkolj az óváros szélén, és fedezd fel gyalog az Ovidiu teret, a múzeumot és a székesegyházat. Ezután menj a sétányra és a kaszinóhoz. A Modern Beach-i strandolás után vacsora a Cherhanában. A Reyna Beach-i naplemente kötelező. Végül látogasd meg a Régészeti Parkot ősi romjaival.",
+        "ro": "Parcheaza la marginea orasului vechi si exploreaza pe jos Piata Ovidiu, muzeul si catedrala. Apoi mergi pe faleza si la Cazino. Dupa plaja la Modern Beach, cina la Cherhana. Apusul pe Plaja Reyna este obligatoriu. In final, viziteaza Parcul Arheologic cu ruinele sale antice.",
+        "en": "Park at the edge of the old town and explore Ovidiu Square, the museum and the cathedral on foot. Then drive to the promenade and the Casino. After the beach at Modern Beach, dinner at Cherhana. The sunset at Reyna Beach is a must. Finally, visit the Archaeological Park with its ancient ruins."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Midițe pane",
+            "tip": "Panierte Miesmuscheln im Restaurant Cherhana"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rántott kagyló",
+            "tip": "Rántott kagyló a Cherhana étteremben"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Midițe pane",
+            "tip": "Midițe pane la Restaurantul Cherhana"
+          }
+        ],
+        "en": [
+          {
+            "name": "Breaded mussels",
+            "tip": "Breaded mussels at Cherhana Restaurant"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Archäologiepark",
+            "tip": "Ruhige Ruinen abseits der Menschenmassen",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régészeti Park",
+            "tip": "Csendes romok a tömegtől távol",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Arheologic",
+            "tip": "Ruine linistite departe de aglomeratie",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Archaeological Park",
+            "tip": "Quiet ruins away from the crowds",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antike Nachbildungen",
+            "tip": "Kleine Statuen im Museumsshop"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antik másolatok",
+            "tip": "Kis szobrok a múzeumi boltban"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Reproduceri antice",
+            "tip": "Statuete mici in magazinul muzeului"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ancient replicas",
+            "tip": "Small statues in the museum shop"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie außerhalb der Altstadt.",
+          "Nehmen Sie Wechselgeld für Parkautomaten mit.",
+          "Fahren Sie vorsichtig auf der Küstenstraße.",
+          "Buchen Sie Strandparkplätze im Voraus."
+        ],
+        "hu": [
+          "Parkolj az óvároson kívül.",
+          "Vigyél aprót a parkolóautomatákhoz.",
+          "Óvatosan vezess a parti úton.",
+          "Foglalj strandparkolót előre."
+        ],
+        "ro": [
+          "Parcheaza in afara orasului vechi.",
+          "Luati maruntis pentru parcmetre.",
+          "Conduseti cu atentie pe drumul de coasta.",
+          "Rezervati parcarea la plaja in avans."
+        ],
+        "en": [
+          "Park outside the old town.",
+          "Bring change for parking meters.",
+          "Drive carefully on the coastal road.",
+          "Book beach parking in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Ovidiu",
+          "coords": [
+            44.179,
+            28.652
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Buslinie 100 hält am Platz.",
+            "hu": "A 100-as busz megáll a téren.",
+            "ro": "Autobuzul 100 opreste in piata.",
+            "en": "Bus line 100 stops at the square."
+          }
+        },
+        {
+          "name": "Muzeul de Istorie și Arheologie",
+          "coords": [
+            44.18,
+            28.653
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg vom Platz.",
+            "hu": "Gyalogút a térről.",
+            "ro": "Drum pe jos din piata.",
+            "en": "Walk from the square."
+          }
+        },
+        {
+          "name": "Catedrala Sf. Petru și Pavel",
+          "coords": [
+            44.181,
+            28.654
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurta plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": "Faleza Cazino",
+          "coords": [
+            44.177,
+            28.65
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fußweg von der Kathedrale.",
+            "hu": "Gyalogút a székesegyháztól.",
+            "ro": "Drum pe jos de la catedrala.",
+            "en": "Walk from the cathedral."
+          }
+        },
+        {
+          "name": "Plaja Modern",
+          "coords": [
+            44.174,
+            28.647
+          ],
+          "category": "beach",
+          "arrive_at": "14:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Buslinie 40 fährt direkt zum Strand.",
+            "hu": "A 40-es busz közvetlenül a strandra megy.",
+            "ro": "Autobuzul 40 merge direct la plaja.",
+            "en": "Bus line 40 goes directly to the beach."
+          }
+        },
+        {
+          "name": "Restaurantul Cherhana",
+          "coords": [
+            44.17,
+            28.644
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fußweg vom Strand.",
+            "hu": "Gyalogút a strandtól.",
+            "ro": "Drum pe jos de la plaja.",
+            "en": "Walk from the beach."
+          }
+        },
+        {
+          "name": "Plaja Reyna",
+          "coords": [
+            44.167,
+            28.641
+          ],
+          "category": "sunset",
+          "arrive_at": "18:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg vom Restaurant.",
+            "hu": "Gyalogút az étteremtől.",
+            "ro": "Drum pe jos de la restaurant.",
+            "en": "Walk from the restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie den Bus zum Ovidiu-Platz und erkunden Sie die Altstadt zu Fuß. Besuchen Sie Museum und Kathedrale. Schlendern Sie zur Uferpromenade. Mit dem Bus geht es zum Modern Beach für ein ausgiebiges Bad. Am Abend essen Sie im Cherhana und genießen den Sonnenuntergang am Reyna Beach – alles mit öffentlichen Verkehrsmitteln erreichbar.",
+        "hu": "Szállj buszra az Ovidiu térig, és fedezd fel gyalog az óvárost. Látogasd meg a múzeumot és a székesegyházat. Sétálj le a sétányra. Busszal menj a Modern Beachre egy hosszú fürdésre. Este egyél a Cherhanában, és élvezd a naplementét a Reyna Beachen – minden elérhető tömegközlekedéssel.",
+        "ro": "Luati autobuzul pana in Piata Ovidiu si explorati pe jos orasul vechi. Vizitati muzeul si catedrala. Plimbati-va pe faleza. Cu autobuzul mergeti pe Plaja Modern pentru o baie lunga. Seara mancati la Cherhana si bucurati-va de apus pe Plaja Reyna – totul accesibil cu transportul public.",
+        "en": "Take the bus to Ovidiu Square and explore the old town on foot. Visit the museum and the cathedral. Stroll to the promenade. By bus, head to Modern Beach for a long swim. In the evening, eat at Cherhana and enjoy the sunset at Reyna Beach – all accessible by public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saramură de pește",
+            "tip": "Fisch in Salzlake im Restaurant Cherhana"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sós lében főtt hal",
+            "tip": "Sós lében főtt hal a Cherhana étteremben"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saramură de pește",
+            "tip": "Peste in saramura la Restaurantul Cherhana"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish in brine",
+            "tip": "Fish in brine at Cherhana Restaurant"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Reyna Beach",
+            "tip": "Ruhiger Strand am Abend",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reyna Beach",
+            "tip": "Csendes strand este",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Reyna",
+            "tip": "Plaja linistita seara",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reyna Beach",
+            "tip": "Quiet beach in the evening",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stoffmarkt",
+            "tip": "Handtücher und Strandkleidung"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Textilpiac",
+            "tip": "Törölközők és strandruhák"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piata de textile",
+            "tip": "Prosoape si haine de plaja"
+          }
+        ],
+        "en": [
+          {
+            "name": "Textile market",
+            "tip": "Towels and beachwear"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein 24-Stunden-Ticket.",
+          "Achten Sie auf die Busfahrpläne.",
+          "Steigen Sie an der Haltestelle 'Perla' aus.",
+          "Fahren Sie nicht zur Hauptverkehrszeit."
+        ],
+        "hu": [
+          "Vegyél 24 órás jegyet.",
+          "Figyelj a buszmenetrendre.",
+          "Szállj le a 'Perla' megállónál.",
+          "Ne utazz csúcsidőben."
+        ],
+        "ro": [
+          "Cumparati un bilet de 24 de ore.",
+          "Atentie la orarele autobuzelor.",
+          "Coborati la statia 'Perla'.",
+          "Nu calatoriti la ora de varf."
+        ],
+        "en": [
+          "Buy a 24-hour ticket.",
+          "Check bus schedules.",
+          "Get off at the 'Perla' stop.",
+          "Avoid rush hour."
+        ]
+      }
+    }
+  }
+}

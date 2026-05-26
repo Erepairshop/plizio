@@ -33,10 +33,10 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Beginnen Sie am zentralen Platz mit einem Kaffee.",
-            "hu": "Kezdjen a főtéren egy jó kávéval.",
-            "ro": "Începeți în piața centrală cu o cafea.",
-            "en": "Start with a coffee in the main square."
+            "de": "Beginnen Sie mit einem Kaffee auf dem Hauptplatz – das Café neben der Loggia öffnet um 7:30 Uhr.",
+            "hu": "Kezdje reggeli kávéval a főtéren – a loggia melletti kávézó 7:30-kor nyit.",
+            "ro": "Începeți cu o cafea în piața principală – cafeneaua de lângă loggie deschide la 7:30.",
+            "en": "Start with a coffee on the main square – the café next to the loggia opens at 7:30 AM."
           }
         },
         {
@@ -56,10 +56,10 @@
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Bestaunen Sie die prachtvolle Barockorgel.",
-            "hu": "Csodálja meg a pompás barokk orgonát.",
-            "ro": "Admirați orga barocă magnifică.",
-            "en": "Admire the magnificent baroque organ."
+            "de": "Der Orgelbau in der Kathedrale stammt aus dem 18. Jh.; das Kircheninnere ist wochentags 9–12 Uhr geöffnet.",
+            "hu": "A katedrális orgonája a 18. századból való; a templombelsőbe hétköznapokon 9–12 óra közt lehet bemenni.",
+            "ro": "Orga catedralei datează din sec. XVIII; interiorul bisericii e deschis în zilele de lucru 9–12.",
+            "en": "The cathedral organ dates to the 18th century; the interior is open on weekdays 9 AM–noon."
           }
         },
         {
@@ -79,10 +79,10 @@
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Einer der höchsten Türme Istriens mit Weitblick.",
-            "hu": "Isztria egyik legmagasabb tornya, pazar kilátással.",
-            "ro": "Unul dintre cele mai înalte turnuri din Istria.",
-            "en": "One of the tallest towers in Istria with a great view."
+            "de": "Der freistehende Glockenturm aus dem 17. Jh. ist einer der höchsten Istriens – an klaren Tagen sieht man bis zu den Alpen.",
+            "hu": "A 17. századi különálló harangtorony Isztria legmagasabbjainak egyike – derült napokon látni egészen az Alpokig.",
+            "ro": "Turnul clopotniță independent din sec. XVII este unul dintre cele mai înalte din Istria – pe vreme senină se văd Alpii.",
+            "en": "The 17th-century free-standing bell tower is one of Istria's tallest – on clear days you can see the Alps."
           }
         },
         {
@@ -102,10 +102,10 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Tauchen Sie ein in das traditionelle istrische Leben.",
-            "hu": "Merüljön el a hagyományos isztriai életmódban.",
-            "ro": "Descoperiți viața tradițională istriană.",
-            "en": "Dive into traditional Istrian life."
+            "de": "Kleines, aber hochwertiges Museum mit istrischem Gerät, Trachten und Olivenölpressen; Eintritt 2 €.",
+            "hu": "Kis, de értékes múzeum isztriai eszközökkel, viseletekkel és olajprésekkel; belépő 2 €.",
+            "ro": "Muzeu mic dar valoros cu unelte istriene, costume și prese de ulei; intrare 2 €.",
+            "en": "Small but high-quality museum with Istrian tools, folk costumes and olive oil presses; entry €2."
           }
         },
         {
@@ -125,10 +125,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Teil der alten Stadtbefestigung.",
-            "hu": "A régi városfalrendszer része.",
-            "ro": "Parte a vechii fortificații a orașului.",
-            "en": "Part of the old city fortifications."
+            "de": "Venezianisches Stadttor aus dem 15. Jh. – das Löwenrelief ist gut erhalten, kostenloser Besuch.",
+            "hu": "Velencei városkapu a 15. századból – az oroszlán-dombormű jól megmaradt, ingyenes megtekintés.",
+            "ro": "Poartă orășenească venețiană din sec. XV – basorelieful cu leu este bine conservat, vizită gratuită.",
+            "en": "15th-century Venetian town gate – the lion relief is well preserved, free to visit."
           }
         },
         {
@@ -148,10 +148,10 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Beachtenswerte Kunstwerke im Innenraum.",
-            "hu": "Figyelemre méltó műalkotások a belső térben.",
-            "ro": "Opere de artă remarcabile în interior.",
-            "en": "Notable artworks in the interior."
+            "de": "Außerhalb der Stadtmauern gelegen; bemerkenswerte Holzschnitzereien am Eingangsaltar aus dem 16. Jh.",
+            "hu": "A városfalakon kívül található; figyelemre méltó 16. századi fafaragványok a bejárati oltárnál.",
+            "ro": "Situată în afara zidurilor orașului; sculpturi remarcabile în lemn din sec. XVI la altarul de intrare.",
+            "en": "Located outside the town walls; remarkable 16th-century wood carvings at the entrance altar."
           }
         }
       ],
@@ -164,101 +164,169 @@
       "gastro_picks": {
         "de": [
           {
-            "name": "Buje Bier",
-            "tip": "Probieren Sie das lokale Craft-Bier von San Servolo."
+            "name": "San Servolo Craft Beer",
+            "tip": "Lokale Mikrobrauerei – das Pils und das Dunkel werden vor Ort gebraut; Biergarten im Sommer."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Istrische Küche mit Trüffel und Malvasia-Wein; Tagesmenu ca. 12 €, Reservierung empfohlen."
+          },
+          {
+            "name": "Agriturismo Buje-Umgebung",
+            "tip": "Landgüter in der Umgebung bieten Degustationsmenüs mit Eigenwein und Eigenöl, ab 20 €."
           }
         ],
         "hu": [
           {
-            "name": "Bujei sör",
-            "tip": "Kóstolja meg a San Servolo helyi kézműves sörét."
+            "name": "San Servolo kézműves sör",
+            "tip": "Helyi mikrofőzde – a pilsner és a barna sör helyben készül; nyáron sörterasz."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Isztriai konyha szarvasgombával és Malvasia borral; napi menü kb. 12 €, foglalás ajánlott."
+          },
+          {
+            "name": "Agriturismo Buje-környéke",
+            "tip": "Környező tanyák kóstolómenüket kínálnak házi borral és olajjal, 20 €-tól."
           }
         ],
         "ro": [
           {
-            "name": "Berea Buje",
-            "tip": "Încercați berea artizanală locală San Servolo."
+            "name": "Bere artizanală San Servolo",
+            "tip": "Microbărie locală – berea pils și cea neagră sunt produse local; grădină de bere vara."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Bucătărie istriană cu trufe și vin Malvasia; meniu zilnic cca. 12 €, rezervare recomandată."
+          },
+          {
+            "name": "Agriturismo în împrejurimile Buje",
+            "tip": "Fermele din jur oferă meniuri de degustare cu vin și ulei propriu, de la 20 €."
           }
         ],
         "en": [
           {
-            "name": "Buje Beer",
-            "tip": "Try the local San Servolo craft beer."
+            "name": "San Servolo craft beer",
+            "tip": "Local microbrewery – the pilsner and dark ale are brewed on site; beer garden in summer."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Istrian cuisine with truffles and Malvasia wine; daily menu about €12, reservation recommended."
+          },
+          {
+            "name": "Agriturismo around Buje",
+            "tip": "Surrounding farmsteads offer tasting menus with their own wine and olive oil, from €20."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Stadtmauer-Promenade",
-            "tip": "Stiller Weg mit Blick auf die Olivenhaine.",
-            "emoji": "🌅"
+            "name": "Stadtmauerpromenade",
+            "tip": "Niedriger Mauerweg mit Ausblick auf Olivenhaine und die Ebene – kaum Besucher nach 17 Uhr.",
+            "emoji": "🫒"
+          },
+          {
+            "name": "Pfarrgarten (hinter der Kathedrale)",
+            "tip": "Kleiner schattiger Garten hinter der Kathedrale – ruhiger Rückzugsort, Zugang durch Sakristei.",
+            "emoji": "⛪"
           }
         ],
         "hu": [
           {
             "name": "Városfal-sétány",
-            "tip": "Csendes út kilátással az olajfaligetekre.",
-            "emoji": "🌅"
+            "tip": "Alacsony falkoszorú olajligetek és a síkság kilátásával – 17 óra után alig van látogató.",
+            "emoji": "🫒"
+          },
+          {
+            "name": "Plébániai kert (a katedrális mögött)",
+            "tip": "Kis, árnyas kert a katedrális mögött – csendes elvonulási hely, a sekrestyén át érhető el.",
+            "emoji": "⛪"
           }
         ],
         "ro": [
           {
-            "name": "Promenada zidului cetății",
-            "tip": "Drum liniștit cu vedere spre livezile de măslini.",
-            "emoji": "🌅"
+            "name": "Promenada pe zidul orașului",
+            "tip": "Potecă pe zidul jos cu vedere spre livezi de măslini și câmpie – aproape fără vizitatori după ora 17.",
+            "emoji": "🫒"
+          },
+          {
+            "name": "Grădina parohială (în spatele catedralei)",
+            "tip": "Mică grădină umbroasă în spatele catedralei – loc retras liniștit, acces prin sacristie.",
+            "emoji": "⛪"
           }
         ],
         "en": [
           {
-            "name": "City Wall Promenade",
-            "tip": "Quiet path with a view of olive groves.",
-            "emoji": "🌅"
+            "name": "City wall promenade",
+            "tip": "Low wall walk with views over olive groves and the plain – almost no visitors after 5 PM.",
+            "emoji": "🫒"
+          },
+          {
+            "name": "Parish garden (behind the cathedral)",
+            "tip": "Small shaded garden behind the cathedral – a quiet retreat, accessed through the sacristy.",
+            "emoji": "⛪"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Trüffel-Spezialitäten",
-            "tip": "Buje liegt am Rande der Trüffelregion."
+            "name": "Trüffelspezialitäten Buje",
+            "tip": "Mehrere Läden in der Altstadt verkaufen Trüffelöl und -salz; Preise ab 8 €, kein Mindestabo."
           }
         ],
         "hu": [
           {
-            "name": "Szarvasgomba",
-            "tip": "Buje a szarvasgomba-régió peremén fekszik."
+            "name": "Szarvasgomba-különlegességek Buje",
+            "tip": "Több bolt az óvárosban árul szarvasgombaolajat és sót; ár 8 €-tól, nincs minimumvásárlás."
           }
         ],
         "ro": [
           {
-            "name": "Specialități cu trufe",
-            "tip": "Buje se află la marginea regiunii trufelor."
+            "name": "Specialități cu trufe Buje",
+            "tip": "Mai multe magazine din orașul vechi vând ulei și sare cu trufe; prețuri de la 8 €, fără minim de cumpărare."
           }
         ],
         "en": [
           {
-            "name": "Truffle Specialties",
-            "tip": "Buje is located at the edge of the truffle region."
+            "name": "Buje truffle specialties",
+            "tip": "Several shops in the old town sell truffle oil and truffle salt; prices from €8, no minimum purchase."
           }
         ]
       },
       "tips": {
         "de": [
-          "Buje hat viele steile Gassen, stellen Sie sich auf Treppen ein.",
-          "Der Glockenturm bietet bei klarem Wetter Sicht bis zu den Alpen."
+          "Buje hat steile, gepflasterte Gassen – festes Schuhwerk ist Pflicht, keine Absätze.",
+          "Der Glockenturm ist an klaren Tagen ein Muss; Blick bis zu den slowenischen Alpen möglich.",
+          "San Servolo Craft Beer ist das bekannteste lokale Getränk – in vielen Bars erhältlich.",
+          "Die Trüffelsaison läuft September–November; dann sind die Speisekarten am reichhaltigsten.",
+          "Das Ethnographische Museum hat wochentags 9–12 Uhr geöffnet; samstags nach Voranmeldung.",
+          "Parken am Stadtrand ist kostenlos; die Altstadt ist für Autos weitgehend gesperrt."
         ],
         "hu": [
-          "Buje utcái meredekek, készüljön sok lépcsőre.",
-          "Tiszta időben a harangtoronyból az Alpokig is ellátni."
+          "Buje meredek, köves sikátorokkal rendelkezik – erős cipő kötelező, sarkú nem alkalmas.",
+          "A harangtorony derült napokon kötelező megálló; látni lehet a szlovén Alpokig.",
+          "A San Servolo kézműves sör a leghíresebb helyi ital – sok bárban elérhető.",
+          "A szarvasgomba-szezon szeptember–novemberig tart; ekkor a leggazdagabbak az étlapok.",
+          "Az Etnográfiai Múzeum hétköznapokon 9–12 óra közt tart nyitva; szombaton előzetes bejelentkezéssel.",
+          "A városszélen ingyenes a parkolás; az óváros nagyrészt zárva van az autók előtt."
         ],
         "ro": [
-          "Buje are multe străduțe abrupte, pregătiți-vă pentru trepte.",
-          "Turnul cu clopotniță oferă vedere până la Alpi în zilele senine."
+          "Buje are ulicioare abrupte și pavate – încălțăminte solidă obligatorie, fără tocuri.",
+          "Turnul clopotniță pe vreme senină este obligatoriu; se pot vedea Alpii sloveni.",
+          "Berea artizanală San Servolo este cea mai cunoscută băutură locală – disponibilă în multe baruri.",
+          "Sezonul trufelor durează septembrie–noiembrie; atunci meniurile sunt cele mai bogate.",
+          "Muzeul Etnografic este deschis în zilele de lucru 9–12; sâmbăta la programare.",
+          "Parcarea la marginea orașului este gratuită; centrul vechi este în mare parte închis mașinilor."
         ],
         "en": [
-          "Buje has many steep alleys, so be prepared for stairs.",
-          "On clear days, the bell tower offers views as far as the Alps."
+          "Buje has steep, cobbled alleys – sturdy footwear is essential, no heels.",
+          "The bell tower on clear days is a must; views extending to the Slovenian Alps are possible.",
+          "San Servolo craft beer is the most famous local drink – available in many bars.",
+          "Truffle season runs September–November; menus are at their richest then.",
+          "The Ethnographic Museum is open weekdays 9 AM–noon; Saturdays by prior arrangement.",
+          "Parking on the outskirts is free; the old town is largely closed to cars."
         ]
       },
       "variants": {
@@ -673,10 +741,10 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Starten Sie Ihre Tour am oberen Platz.",
-            "hu": "Kezdje a túrát a felső téren.",
-            "ro": "Începeți turul în piața de sus.",
-            "en": "Start your tour in the upper square."
+            "de": "Beginnen Sie die Tour am oberen Platz – Fahrradständer an der Stadtmauer, kostenlos.",
+            "hu": "Indítsa a túrát a felső téren – kerékpártámasz a városfalnál, ingyenes.",
+            "ro": "Începeți tura din piața de sus – suporturi de biciclete la zidul orașului, gratuit.",
+            "en": "Start the tour from the upper square – bike stands at the city wall, free of charge."
           }
         },
         {
@@ -696,10 +764,10 @@
           "hop_from_prev_min": 35,
           "hop_from_prev_km": 5.0,
           "tip_5lang": {
-            "de": "Radeln Sie durch die sanften Weinberge.",
-            "hu": "Tekerjen a lankás szőlőültetvények között.",
-            "ro": "Pedalați printre podgoriile line.",
-            "en": "Cycle through the gentle vineyards."
+            "de": "Sanfte Hügel durch Weinberge und Olivenhaine – die Route ist auch mit Trekkingrad gut befahrbar.",
+            "hu": "Szelíd dombok szőlőkön és olajligeten át – az útvonal trekkingkerékpárral is jól járható.",
+            "ro": "Dealuri domoale prin vii și livezi de măslini – traseul e bine practicabil și cu bicicletă de trekking.",
+            "en": "Gentle hills through vineyards and olive groves – the route is well rideable with a trekking bike."
           }
         },
         {
@@ -719,10 +787,10 @@
           "hop_from_prev_min": 45,
           "hop_from_prev_km": 7.5,
           "tip_5lang": {
-            "de": "Beeindruckende Ruine auf einem Felsvorsprung.",
-            "hu": "Lenyűgöző várrom egy sziklakiszögellésen.",
-            "ro": "Ruine impresionante pe o proeminență stâncoasă.",
-            "en": "Impressive ruins on a rocky outcrop."
+            "de": "Beeindruckende Ruinen auf einem Felsen oberhalb von Momjan – Zugang kostenlos, aber Steilweg zu Fuß.",
+            "hu": "Lenyűgöző romok Momjan feletti sziklán – a belépés ingyenes, de a közelítés meredek gyalogút.",
+            "ro": "Ruine impresionante pe o stâncă deasupra Momjanului – acces gratuit, dar potecă abruptă pe jos.",
+            "en": "Impressive ruins on a rock above Momjan – access is free but the approach is a steep footpath."
           }
         },
         {
@@ -742,10 +810,10 @@
           "hop_from_prev_min": 45,
           "hop_from_prev_km": 7.5,
           "tip_5lang": {
-            "de": "Schöner Rückweg nach Buje über Feldwege.",
-            "hu": "Szép visszavezető út Bujéba mezei utakon.",
-            "ro": "Drum frumos de întoarcere spre Buje pe poteci.",
-            "en": "Nice way back to Buje via field paths."
+            "de": "Das venezianische Stadttor ist ein schöner Wendepunkt – Feldwege zurück nach Buje sind gut ausgeschildert.",
+            "hu": "A velencei városkapu szép fordulópontot jelent – a mezei ösvények Buje felé jól jelzett.",
+            "ro": "Poarta venețiană este un punct de întoarcere frumos – potecile de câmp spre Buje sunt bine marcate.",
+            "en": "The Venetian gate makes a fine turning point – field paths back to Buje are well marked."
           }
         },
         {
@@ -765,10 +833,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Entspannter Abschluss im unteren Teil der Stadt.",
-            "hu": "Pihentető befejezés a város alsó részén.",
-            "ro": "Încheiere relaxată în partea de jos a orașului.",
-            "en": "Relaxed ending in the lower part of town."
+            "de": "Ruhiger Abschluss in der unteren Altstadt – Buje Craft Beer wartet in der nahen Konoba.",
+            "hu": "Csendes befejezés az alsó óvárosban – a közeli konobában Buje kézműves sör vár.",
+            "ro": "Final liniștit în zona veche de jos – berea artizanală Buje vă așteaptă în konoba din apropiere.",
+            "en": "Quiet ending in the lower old town – Buje craft beer awaits in the nearby konoba."
           }
         }
       ],
@@ -782,100 +850,168 @@
         "de": [
           {
             "name": "Momjan Malvasia",
-            "tip": "Verpassen Sie nicht den Muskatwein in Momjan."
+            "tip": "Suchen Sie nach Weinkellern in Momjan – Verkostung direkt beim Produzenten, oft ab 5 € pro Person."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Malvasia und Muscat sowie istrische Vorspeisen – idealer Stopp nach der Radtour durch die Weinberge."
+          },
+          {
+            "name": "Kozlović Winery",
+            "tip": "Preisgekrönte Weine aus der Region; Tour + Verkostung ab 15 €, Vorbestellung empfohlen."
           }
         ],
         "hu": [
           {
-            "name": "Momjani Malvazija",
-            "tip": "Ne hagyja ki a momjani muskotályt."
+            "name": "Momjani Malvasia",
+            "tip": "Keresse a momjani pincészeteket – kóstoló közvetlenül a termelőnél, sokszor 5 €/főtől."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Malvasia és Muscat bor, isztriai előételek – ideális megálló a szőlők közötti kerékpározás után."
+          },
+          {
+            "name": "Kozlović Winery",
+            "tip": "Díjnyertes regionális borok; túra + kóstoló 15 €-tól, előzetes foglalás ajánlott."
           }
         ],
         "ro": [
           {
-            "name": "Momjan Malvasia",
-            "tip": "Nu ratați vinul muscat în Momjan."
+            "name": "Malvasia din Momjan",
+            "tip": "Căutați crame în Momjan – degustare direct la producător, adesea de la 5 €/persoană."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Malvasia și Muscat plus aperitive istriene – oprire ideală după tura prin vii."
+          },
+          {
+            "name": "Kozlović Winery",
+            "tip": "Vinuri premiate din regiune; tur + degustare de la 15 €, rezervare recomandată."
           }
         ],
         "en": [
           {
             "name": "Momjan Malvasia",
-            "tip": "Don't miss the Muscat wine in Momjan."
+            "tip": "Look for wine cellars in Momjan – tasting direct at the producer, often from €5/person."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Malvasia and Muscat wine plus Istrian starters – ideal stop after cycling through the vineyards."
+          },
+          {
+            "name": "Kozlović Winery",
+            "tip": "Award-winning regional wines; tour + tasting from €15, booking ahead recommended."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Schloss Momjan Ruine",
-            "tip": "Ein mystischer Ort zum Innehalten.",
+            "name": "Momjan Burgruinen",
+            "tip": "Mystischer Ort auf einer Felskuppe – nur per Fahrrad oder Wanderweg erreichbar, kaum Besucher.",
             "emoji": "🏰"
+          },
+          {
+            "name": "Parenzana-Trasse zwischen Buje und Groznjan",
+            "tip": "Alter Bahntrassen-Weg durch Weinberge – ruhig, flach, ohne Autoverkehr.",
+            "emoji": "🌿"
           }
         ],
         "hu": [
           {
             "name": "Momjani várrom",
-            "tip": "Misztikus hely az elcsendesedéshez.",
+            "tip": "Misztikus hely egy sziklakúpon – csak kerékpárral vagy ösvényen érhető el, alig van látogató.",
             "emoji": "🏰"
+          },
+          {
+            "name": "Parenzana-nyomvonal Buje és Groznjan között",
+            "tip": "Régi vasúti töltés szőlők közt – csendes, lapos, autóforgalom nélkül.",
+            "emoji": "🌿"
           }
         ],
         "ro": [
           {
-            "name": "Ruinele castelului Momjan",
-            "tip": "Un loc mistic pentru reculegere.",
+            "name": "Ruinele Castelului Momjan",
+            "tip": "Loc mistic pe un vârf stâncos – accesibil doar cu bicicleta sau pe potecă, aproape fără vizitatori.",
             "emoji": "🏰"
+          },
+          {
+            "name": "Traseul Parenzana între Buje și Groznjan",
+            "tip": "Veche cale ferată prin vii – liniștită, plată, fără trafic auto.",
+            "emoji": "🌿"
           }
         ],
         "en": [
           {
-            "name": "Momjan Castle Ruins",
-            "tip": "A mystical place to pause and reflect.",
+            "name": "Momjan Castle ruins",
+            "tip": "Mystical spot on a rocky hilltop – only reachable by bike or footpath, almost no visitors.",
             "emoji": "🏰"
+          },
+          {
+            "name": "Parenzana trail between Buje and Groznjan",
+            "tip": "Old railway trackbed through vineyards – quiet, flat, no car traffic.",
+            "emoji": "🌿"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Weingut Kozlović",
-            "tip": "Prämierte Weine direkt beim Erzeuger kaufen."
+            "name": "Kozlović Weingut",
+            "tip": "Flaschen direkt ab Weingut kaufen – Malvasia und Teran zu Kellerpreisen, Öffnungszeiten prüfen."
           }
         ],
         "hu": [
           {
-            "name": "Kozlović borászat",
-            "tip": "Díjnyertes borok közvetlenül a termelőtől."
+            "name": "Kozlović pincészet",
+            "tip": "Palackokat közvetlenül a pincészettől vásárolni – Malvasia és Teran pincei áron, nyitvatartást ellenőrizze."
           }
         ],
         "ro": [
           {
-            "name": "Crama Kozlović",
-            "tip": "Cumpărați vinuri premiate direct de la producător."
+            "name": "Cramă Kozlović",
+            "tip": "Cumpărați sticle direct de la cramă – Malvasia și Teran la prețuri de cramă, verificați orarul."
           }
         ],
         "en": [
           {
-            "name": "Kozlović Winery",
-            "tip": "Buy award-winning wines directly from the producer."
+            "name": "Kozlović winery",
+            "tip": "Buy bottles direct from the winery – Malvasia and Teran at cellar-door prices; check opening times."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Region ist Teil der Parenzana-Radstrecke.",
-          "Planen Sie Zeit für Weinproben ein, aber fahren Sie vorsichtig."
+          "Buje liegt auf einem Hügel; der An- und Abstieg hat kurze steile Abschnitte – Trekkingrad ausreichend.",
+          "Die Parenzana-Trasse ist ein alter Bahnweg: flach, breit, perfekt für gemächliche Radtouren.",
+          "Momjan-Wein-Verkostungen (Malvasia, Teran) finden oft direkt in Weinkellern statt – vorher anrufen.",
+          "Fahrradständer in der Buje-Altstadt gibt es nur an der Stadtmauer; Schloss mitbringen.",
+          "Wasser mitnehmen: kein Kiosk zwischen Buje und Momjan auf der direkten Route.",
+          "Die Weinstraßen-Route ist von April bis Oktober gut befahrbar; im Winter matschige Abschnitte."
         ],
         "hu": [
-          "A régió a Parenzana kerékpárút része.",
-          "Tervezzen időt borkóstolóra, de tekerjen óvatosan."
+          "Buje dombon fekvő város; a fel-le rövid meredek szakaszokat tartalmaz – trekkingkerékpár elegendő.",
+          "A Parenzana-nyomvonal régi vasúti pálya: lapos, széles, ideális lassú kerékpártúrákhoz.",
+          "Momjani borkóstolók (Malvasia, Teran) często közvetlenül a pincékben zajlanak – előtte hívjon.",
+          "Kerékpártámasz a bujei óvárosban csak a városfalnál van; hozzon zárat.",
+          "Vigyen vizet: Buje és Momjan között nincs büfé a közvetlen útvonalon.",
+          "A borúti nyomvonal április–október közt jól járható; télen sáros szakaszok lehetnek."
         ],
         "ro": [
-          "Regiunea face parte din traseul de biciclete Parenzana.",
-          "Rezervați timp pentru degustări de vin, dar pedalați cu atenție."
+          "Buje este pe un deal; urcarea și coborârea au porțiuni scurte abrupte – bicicletă de trekking suficientă.",
+          "Traseul Parenzana este o veche cale ferată: plat, lat, perfect pentru ture de bicicletă relaxate.",
+          "Degustările de vin din Momjan (Malvasia, Teran) au loc adesea direct în crame – sunați înainte.",
+          "Suporturi de biciclete în orașul vechi din Buje doar la zidul orașului; aduceți lacăt.",
+          "Luați apă: nu există chioșcuri între Buje și Momjan pe traseul direct.",
+          "Traseul viticol este bine practicabil aprilie–octombrie; iarna pot exista porțiuni noroioase."
         ],
         "en": [
-          "The region is part of the Parenzana bike trail.",
-          "Plan time for wine tastings, but cycle carefully."
+          "Buje sits on a hill; the ascent and descent have short steep sections – a trekking bike is sufficient.",
+          "The Parenzana trail is an old railway line: flat, wide, perfect for leisurely cycling.",
+          "Momjan wine tastings (Malvasia, Teran) often take place directly in the cellars – call ahead.",
+          "Bike stands in Buje old town are only at the city wall; bring a lock.",
+          "Bring water: no kiosks between Buje and Momjan on the direct route.",
+          "The wine road route is well rideable April–October; muddy sections possible in winter."
         ]
       },
       "variants": {
@@ -1258,10 +1394,10 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Parkplatz an der Stadtmauer nutzen.",
-            "hu": "Használja a városfal melletti parkolót.",
-            "ro": "Folosiți parcarea de lângă zidul cetății.",
-            "en": "Use the parking lot by the city wall."
+            "de": "Parkplatz direkt am Stadteingang (kostenlos); das Stadttor mit dem Löwenrelief ist 2 Minuten zu Fuß.",
+            "hu": "Parkoló közvetlenül a városbejáratnál (ingyenes); az oroszlán-dombormüves városkapu 2 perces sétán.",
+            "ro": "Parcare direct la intrarea în oraș (gratuită); poarta cu basorelieful leului e la 2 minute pe jos.",
+            "en": "Car park directly at the town entrance (free); the lion-relief town gate is 2 minutes on foot."
           }
         },
         {
@@ -1281,10 +1417,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Kompakte Ausstellung im Herzen der Altstadt.",
-            "hu": "Kompakt kiállítás az óváros szívében.",
-            "ro": "Expoziție compactă în inima orașului vechi.",
-            "en": "Compact exhibition in the heart of the old town."
+            "de": "Kompaktes Museum im Herzen der Altstadt; Eintritt 2 €, Audioführer auf Anfrage erhältlich.",
+            "hu": "Kompakt múzeum az óváros szívében; belépő 2 €, audio-guide kérésre elérhető.",
+            "ro": "Muzeu compact în inima orașului vechi; bilet 2 €, audioghid disponibil la cerere.",
+            "en": "Compact museum in the heart of the old town; entry €2, audio guide available on request."
           }
         },
         {
@@ -1304,10 +1440,10 @@
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 8.0,
           "tip_5lang": {
-            "de": "Kurze Fahrt durch die Weinberge nach Momjan.",
-            "hu": "Rövid autózás Momjanba a szőlők között.",
-            "ro": "Drum scurt prin podgorii spre Momjan.",
-            "en": "Short drive through the vineyards to Momjan."
+            "de": "Kurze Fahrt durch Weinberge nach Momjan (ca. 5 km) – die unbefestigte letzte 1 km kein Problem für PKW.",
+            "hu": "Rövid autóút szőlők közt Momjanba (kb. 5 km) – az utolsó 1 km-es burkolatlan rész normál autóval nem probléma.",
+            "ro": "Scurtă condusă prin vii spre Momjan (cca. 5 km) – ultimul 1 km neasfaltat nu e problemă pentru mașini normale.",
+            "en": "Short drive through vineyards to Momjan (about 5 km) – the last 1 km unpaved is fine for normal cars."
           }
         },
         {
@@ -1327,10 +1463,10 @@
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 6.0,
           "tip_5lang": {
-            "de": "Besuch eines renommierten Weinguts.",
-            "hu": "Látogatás egy neves borászatnál.",
-            "ro": "Vizită la o cramă renumită.",
-            "en": "Visit to a renowned winery."
+            "de": "Weingutbesuch auf der Rückfahrt – Kozlović und Kabola liegen an dieser Route, Öffnungszeiten prüfen.",
+            "hu": "Pincészet-látogatás visszafelé – Kozlović és Kabola ezen az útvonalon van, nyitvatartást ellenőrizze.",
+            "ro": "Vizitați o cramă la întoarcere – Kozlović și Kabola sunt pe acest traseu, verificați orarul.",
+            "en": "Visit a winery on the way back – Kozlović and Kabola are on this route; check opening times."
           }
         },
         {
@@ -1350,10 +1486,10 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 5.0,
           "tip_5lang": {
-            "de": "Gute Erreichbarkeit am Fuße Bujes.",
-            "hu": "Könnyen megközelíthető Buje lábánál.",
-            "ro": "Acces ușor la poalele orașului Buje.",
-            "en": "Easily accessible at the foot of Buje."
+            "de": "Kirche am Fuß des Hügels, leicht per Auto erreichbar; kurzer Halt für den 16.-Jh.-Altaraufsatz.",
+            "hu": "Templom a domb tövénél, könnyen megközelíthető autóval; rövid megálló a 16. századi oltárhoz.",
+            "ro": "Biserică la poalele dealului, ușor accesibilă cu mașina; scurtă oprire pentru retabloul din sec. XVI.",
+            "en": "Church at the foot of the hill, easily accessible by car; short stop for the 16th-century altarpiece."
           }
         }
       ],
@@ -1367,100 +1503,168 @@
         "de": [
           {
             "name": "Staroštit",
-            "tip": "Traditionelle Jota und Wildgerichte."
+            "tip": "Traditionelles Jota (Eintopf) und Wildgerichte; Parkplatz am Restaurant, Voranmeldung abends nötig."
+          },
+          {
+            "name": "Agriturismo Kabola",
+            "tip": "Weinverkostung plus istrische Küche auf dem Weingut; Paket ab 25 €, Reservierung erforderlich."
+          },
+          {
+            "name": "Trattoria Malvasia",
+            "tip": "Hausgemachte Pasta mit Trüffeln im Zentrum; mittags ohne Reservierung, abends besser vorbuchen."
           }
         ],
         "hu": [
           {
             "name": "Staroštit",
-            "tip": "Hagyományos jota (bableves) és vadételek."
+            "tip": "Hagyományos jota ragu és vadhúsételek; parkoló az étteremnél, esti előfoglalás szükséges."
+          },
+          {
+            "name": "Agriturismo Kabola",
+            "tip": "Borkóstoló isztriai konyhával a pincészeten; csomag 25 €-tól, foglalás szükséges."
+          },
+          {
+            "name": "Trattoria Malvasia",
+            "tip": "Házi szarvasgombás tészta a belvárosban; délben foglalás nélkül, este jobb előre foglalni."
           }
         ],
         "ro": [
           {
             "name": "Staroštit",
-            "tip": "Jota tradițională și preparate din vânat."
+            "tip": "Tocăniță jota tradițională și preparate din vânat; parcare la restaurant, rezervare seara necesară."
+          },
+          {
+            "name": "Agriturismo Kabola",
+            "tip": "Degustare de vin cu bucătărie istriană la cramă; pachet de la 25 €, rezervare obligatorie."
+          },
+          {
+            "name": "Trattoria Malvasia",
+            "tip": "Paste de casă cu trufe în centru; la prânz fără rezervare, seara mai bine rezervați."
           }
         ],
         "en": [
           {
             "name": "Staroštit",
-            "tip": "Traditional 'jota' stew and wild game dishes."
+            "tip": "Traditional jota stew and game dishes; parking at the restaurant, evening reservation needed."
+          },
+          {
+            "name": "Agriturismo Kabola",
+            "tip": "Wine tasting plus Istrian cuisine at the winery; package from €25, reservation required."
+          },
+          {
+            "name": "Trattoria Malvasia",
+            "tip": "Homemade pasta with truffles in the center; lunch without reservation, evenings book ahead."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Aussichtspunkt Buje",
-            "tip": "Blick über die Hügel bis zur Adria.",
-            "emoji": "🌅"
+            "name": "Buje Aussichtspunkt (Nordseite)",
+            "tip": "Kleiner Parkplatz an der Nordseite der Stadt – Weitblick über Hügel bis zur Adria, kaum besucht.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Olivenhain bei Momjan",
+            "tip": "Geparkte Autos auf dem Feldweg, kurzer Spaziergang durch jahrhundertealte Olivenbäume.",
+            "emoji": "🫒"
           }
         ],
         "hu": [
           {
-            "name": "Bujei kilátópont",
-            "tip": "Kilátás a dombokon át az Adriáig.",
-            "emoji": "🌅"
+            "name": "Buje kilátóhely (északi oldal)",
+            "tip": "Kis parkoló a város északi oldalán – széles kilátás dombokon át az Adriáig, alig látogatott.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Olívaligetek Momjan körül",
+            "tip": "Autót a mezei úton parkolva, rövid séta évszázados olajfák között.",
+            "emoji": "🫒"
           }
         ],
         "ro": [
           {
-            "name": "Punctul de belvedere Buje",
-            "tip": "Vedere peste dealuri până la Adriatica.",
-            "emoji": "🌅"
+            "name": "Punctul de belvedere Buje (latura nordică)",
+            "tip": "Mică parcare pe latura nordică a orașului – vedere largă peste dealuri spre Adriatică, aproape nevizitat.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Livada de măslini lângă Momjan",
+            "tip": "Mașina parcată pe drumul de câmp, scurtă plimbare printre măslini seculari.",
+            "emoji": "🫒"
           }
         ],
         "en": [
           {
-            "name": "Buje Viewpoint",
-            "tip": "View over the hills to the Adriatic Sea.",
-            "emoji": "🌅"
+            "name": "Buje viewpoint (north side)",
+            "tip": "Small car park on the north side of town – wide views over hills to the Adriatic, barely visited.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Olive grove near Momjan",
+            "tip": "Park on the field track, short walk through centuries-old olive trees.",
+            "emoji": "🫒"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Hiesiges Olivenöl",
-            "tip": "Besuchen Sie die Ölmühle Basiaco."
+            "name": "Basiaco Ölmühle",
+            "tip": "Frisch gepresstes Olivenöl direkt ab Mühle kaufen; Öffnungszeiten variieren, vorher anrufen."
           }
         ],
         "hu": [
           {
-            "name": "Helyi olívaolaj",
-            "tip": "Látogassa meg a Basiaco olajütőt."
+            "name": "Basiaco olajmalom",
+            "tip": "Frissen sajtolt olívaolajat közvetlenül a malomtól vásárolni; nyitvatartás változó, hívjon előre."
           }
         ],
         "ro": [
           {
-            "name": "Ulei de măsline local",
-            "tip": "Vizitați moara de ulei Basiaco."
+            "name": "Moara de ulei Basiaco",
+            "tip": "Cumpărați ulei de măsline presat direct de la moară; orarul variază, sunați înainte."
           }
         ],
         "en": [
           {
-            "name": "Local Olive Oil",
-            "tip": "Visit the Basiaco oil mill."
+            "name": "Basiaco olive oil mill",
+            "tip": "Buy freshly pressed olive oil direct from the mill; opening hours vary, call ahead."
           }
         ]
       },
       "tips": {
         "de": [
-          "Parken Sie am Ortseingang, die Altstadt ist eng.",
-          "Die Straßen nach Momjan sind schmal, fahren Sie vorausschauend."
+          "Parken am Stadtrand (kostenlos) – die Altstadt ist für Autos gesperrt, zu Fuß 2 Minuten ins Zentrum.",
+          "Straße nach Momjan (5 km) ist schmal – auf entgegenkommende Fahrzeuge gefasst sein.",
+          "Kozlović Winery liegt auf der Rückfahrtsroute nach Umag – ideal für einen Weinsstopp.",
+          "Die Trüffelsaison (Sept.–Nov.) macht alle Restaurants reicher – dann unbedingt Tischreservierung.",
+          "Buje hat keine Tankstelle – vorher in Umag oder Novigrad tanken.",
+          "Für Kamenjak-Fans: Von Buje nach Pula sind es 65 km – gut für einen Tagesausflug kombinierbar."
         ],
         "hu": [
-          "Parkoljon a város szélén, az óváros szűk.",
-          "A Momjanba vezető utak keskenyek, vezessen elővigyázatosan."
+          "Parkolás a városszélen (ingyenes) – az óváros autók előtt zárva, gyalog 2 perc a belvárosba.",
+          "A momjani út (5 km) szűk – számítson szemközti járművekre.",
+          "A Kozlović pincészet az Umag felé vezető visszaúton van – ideális borászati megállóhoz.",
+          "A szarvasgomba-szezon (szept.–nov.) minden éttermet gazdagabbá tesz – akkor mindenképpen foglaljon asztalt.",
+          "Bujéban nincs benzinkút – előre tankoljon Umagon vagy Novigradban.",
+          "Kamenjak-rajongóknak: Bujéból Pulába 65 km – jól kombinálható egy egész napos kirándulással."
         ],
         "ro": [
-          "Parcați la intrarea în localitate, orașul vechi este strâmt.",
-          "Drumurile spre Momjan sunt înguste, conduceți cu atenție."
+          "Parcarea la marginea orașului (gratuită) – centrul vechi este închis mașinilor, 2 minute pe jos până în centru.",
+          "Drumul spre Momjan (5 km) este îngust – fiți pregătiți pentru vehicule care vin din față.",
+          "Crama Kozlović se află pe drumul de întoarcere spre Umag – ideală pentru o oprire de vin.",
+          "Sezonul trufelor (sept.–nov.) îmbogățește toate restaurantele – rezervați masa obligatoriu atunci.",
+          "Buje nu are benzinărie – faceți plinul în avans în Umag sau Novigrad.",
+          "Pentru fanii Kamenjak: de la Buje la Pula sunt 65 km – combinabil bine cu o excursie de o zi."
         ],
         "en": [
-          "Park at the entrance to the town; the old town is narrow.",
-          "The roads to Momjan are narrow, so drive carefully."
+          "Park on the outskirts (free) – the old town is closed to cars, 2 minutes on foot to the center.",
+          "The road to Momjan (5 km) is narrow – expect oncoming vehicles.",
+          "Kozlović winery is on the return route to Umag – ideal for a wine stop.",
+          "Truffle season (Sept–Nov) enriches all restaurants – definitely book a table then.",
+          "Buje has no petrol station – fill up beforehand in Umag or Novigrad.",
+          "For Kamenjak fans: Buje to Pula is 65 km – easily combined into a full-day trip."
         ]
       },
       "variants": {
@@ -1843,10 +2047,10 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Knotenpunkt für Busse aus Umag und Pazin.",
-            "hu": "Csomópont az Umag és Pazin felől érkező buszoknak.",
-            "ro": "Nod rutier pentru autobuzele din Umag și Pazin.",
-            "en": "Hub for buses from Umag and Pazin."
+            "de": "Busstation am Fuß des Hügels; Gepäck dort lassen (kleine Schließfächer) und zu Fuß hinaufgehen (15 Min.).",
+            "hu": "A buszmegálló a domb tövénél; hagyja ott a poggyászát (kis tárolók), és gyalog menjen fel (15 perc).",
+            "ro": "Stația de autobuz la poalele dealului; lăsați bagajele acolo (mici dulapuri) și mergeți pe jos în sus (15 min).",
+            "en": "Bus station at the foot of the hill; leave luggage there (small lockers) and walk up on foot (15 min)."
           }
         },
         {
@@ -1866,10 +2070,10 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Direkt am Weg vom Bahnhof in die Altstadt.",
-            "hu": "Közvetlenül a pályaudvartól az óvárosba vezető úton.",
-            "ro": "Chiar pe drumul de la gară spre orașul vechi.",
-            "en": "Right on the way from the station to the old town."
+            "de": "Direkt an der Route vom Busbahnhof zur Altstadt gelegen – Innenbesuch täglich 9–12 Uhr.",
+            "hu": "Közvetlenül a buszmegállótól az óvárosba vezető úton – belső megtekintés naponta 9–12 óra.",
+            "ro": "Direct pe traseul de la stația de autobuz la orașul vechi – interior deschis zilnic 9–12.",
+            "en": "Directly on the route from the bus station to the old town – interior open daily 9 AM–noon."
           }
         },
         {
@@ -1889,10 +2093,10 @@
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Mittagspause in einem der Cafés am Platz.",
-            "hu": "Ebédszünet a tér egyik kávézójában.",
-            "ro": "Pauză de prânz la una dintre cafenelele din piață.",
-            "en": "Lunch break at one of the cafes in the square."
+            "de": "Pausenlunch auf einem der Terrassencafés am Hauptplatz – Hausgemachte-Pasta-Menüs ab 8 €.",
+            "hu": "Ebédszünet a főtéri teraszos kávézók egyikén – házi tésztamenü 8 €-tól.",
+            "ro": "Pauza de prânz la una dintre terasele din piața principală – meniu cu paste de casă de la 8 €.",
+            "en": "Lunch break at one of the terrace cafés on the main square – homemade pasta menus from €8."
           }
         },
         {
@@ -1912,10 +2116,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Zentraler Punkt der Oberstadt.",
-            "hu": "A felsőváros központi pontja.",
-            "ro": "Punctul central al orașului de sus.",
-            "en": "Central point of the upper town."
+            "de": "Zentraler Knotenpunkt der Altstadt; Kathedrale und Glockenturm sind von hier aus 2 Gehminuten entfernt.",
+            "hu": "Az óváros központi csomópontja; a katedrális és a harangtorony innen 2 perces sétán.",
+            "ro": "Nod central al orașului vechi; catedrala și turnul clopotniță sunt la 2 minute de mers pe jos de aici.",
+            "en": "Central hub of the old town; the cathedral and bell tower are 2 minutes' walk from here."
           }
         },
         {
@@ -1935,10 +2139,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Genießen Sie den Schatten der alten Mauern.",
-            "hu": "Élvezze a régi falak árnyékát.",
-            "ro": "Bucurați-vă de umbra vechilor ziduri.",
-            "en": "Enjoy the shade of the old walls."
+            "de": "Genießen Sie den Schatten der alten Mauern – letzter Bus nach Umag um 18:20 Uhr, nach Pazin um 17:45.",
+            "hu": "Élvezze az óvárosi falak árnyékát – utolsó busz Umag felé 18:20-kor, Pazin felé 17:45-kor.",
+            "ro": "Bucurați-vă de umbra zidurilor vechi – ultimul autobuz spre Umag la 18:20, spre Pazin la 17:45.",
+            "en": "Enjoy the shade of the old walls – last bus to Umag at 6:20 PM, to Pazin at 5:45 PM."
           }
         }
       ],
@@ -1952,25 +2156,57 @@
         "de": [
           {
             "name": "Trattoria Malvasia",
-            "tip": "Hausgemachte Pasta mit Trüffeln."
+            "tip": "Hausgemachte Pasta mit Trüffeln im Zentrum; Lunchmenü ab 10 €, kein Auto nötig."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Malvasia-Wein und istrische Vorspeisen; 5 Minuten Fußweg vom Busbahnhof."
+          },
+          {
+            "name": "Café am Hauptplatz",
+            "tip": "Frühstück (Kaffee + Burek) für ca. 3 € – ideal vor dem Aufstieg zur Altstadt."
           }
         ],
         "hu": [
           {
-            "name": "Malvasia trattoria",
-            "tip": "Házias tészta szarvasgombával."
+            "name": "Trattoria Malvasia",
+            "tip": "Házi szarvasgombás tészta a belvárosban; ebédmenü 10 €-tól, autó nem kell."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Malvasia bor és isztriai előételek; 5 perces gyalogút a buszmegállótól."
+          },
+          {
+            "name": "Kávézó a főtéren",
+            "tip": "Reggeli (kávé + burek) kb. 3 €-ért – ideális az óvárosba felkapaszkodás előtt."
           }
         ],
         "ro": [
           {
             "name": "Trattoria Malvasia",
-            "tip": "Paste de casă cu trufe."
+            "tip": "Paste de casă cu trufe în centru; meniu de prânz de la 10 €, fără mașină."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Vin Malvasia și aperitive istriene; la 5 minute pe jos de la stația de autobuz."
+          },
+          {
+            "name": "Cafenea în piața principală",
+            "tip": "Mic dejun (cafea + burek) pentru cca. 3 € – ideal înainte de urcarea la orașul vechi."
           }
         ],
         "en": [
           {
             "name": "Trattoria Malvasia",
-            "tip": "Homemade pasta with truffles."
+            "tip": "Homemade pasta with truffles in the center; lunch menu from €10, no car needed."
+          },
+          {
+            "name": "Konoba Fakin",
+            "tip": "Malvasia wine and Istrian starters; 5 minutes' walk from the bus station."
+          },
+          {
+            "name": "Café on the main square",
+            "tip": "Breakfast (coffee + burek) for about €3 – ideal before climbing up to the old town."
           }
         ]
       },
@@ -1978,29 +2214,49 @@
         "de": [
           {
             "name": "Pfarrgarten",
-            "tip": "Ruhiges Plätzchen hinter der Kathedrale.",
-            "emoji": "🧘"
+            "tip": "Kleiner, schattiger Garten hinter der Kathedrale – ruhiger Rückzugsort, Zugang durch Sakristei.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Stadtmauerweg",
+            "tip": "Kurzer Weg entlang der historischen Stadtmauer – gute Aussicht, kaum Besucher nach 16 Uhr.",
+            "emoji": "🫒"
           }
         ],
         "hu": [
           {
-            "name": "Plébániakert",
-            "tip": "Csendes zug a székesegyház mögött.",
-            "emoji": "🧘"
+            "name": "Plébániai kert",
+            "tip": "Kis, árnyas kert a katedrális mögött – csendes elvonulási hely, a sekrestyén keresztül érhető el.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Városfalút",
+            "tip": "Rövid ösvény a történelmi városfal mentén – szép kilátás, 16 óra után alig van látogató.",
+            "emoji": "🫒"
           }
         ],
         "ro": [
           {
             "name": "Grădina parohială",
-            "tip": "Un loc liniștit în spatele catedralei.",
-            "emoji": "🧘"
+            "tip": "Mică grădină umbroasă în spatele catedralei – loc retras liniștit, acces prin sacristie.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Poteca pe zidul orașului",
+            "tip": "Scurtă potecă de-a lungul zidului istoric – vedere bună, aproape fără vizitatori după ora 16.",
+            "emoji": "🫒"
           }
         ],
         "en": [
           {
-            "name": "Parish Garden",
-            "tip": "A quiet spot behind the cathedral.",
-            "emoji": "🧘"
+            "name": "Parish garden",
+            "tip": "Small shaded garden behind the cathedral – a quiet retreat, accessed through the sacristy.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "City wall path",
+            "tip": "Short path along the historic city wall – good views, almost no visitors after 4 PM.",
+            "emoji": "🫒"
           }
         ]
       },
@@ -2008,44 +2264,60 @@
         "de": [
           {
             "name": "Lokale Vinothek",
-            "tip": "Große Auswahl an Weinen aus der Region Buje."
+            "tip": "Große Auswahl an Weinen aus der Buje-Region; nahe Busstation, kein Kofferraum nötig – Flaschen als Handgepäck."
           }
         ],
         "hu": [
           {
-            "name": "Helyi vinotéka",
-            "tip": "Széles választék a bujei régió boraiból."
+            "name": "Helyi borkereskedés",
+            "tip": "Nagy Buje-régió borkínálat; a buszmegálló közelében, nem kell csomagtér – palackok kézipoggyászként."
           }
         ],
         "ro": [
           {
-            "name": "Vinoteca locală",
-            "tip": "O selecție largă de vinuri din regiunea Buje."
+            "name": "Vinotecă locală",
+            "tip": "Selecție mare de vinuri din regiunea Buje; lângă stația de autobuz, nu e nevoie de portbagaj – sticle ca bagaj de mână."
           }
         ],
         "en": [
           {
-            "name": "Local Vinotheque",
-            "tip": "Large selection of wines from the Buje region."
+            "name": "Local wine shop",
+            "tip": "Large selection of wines from the Buje region; near the bus station, no car boot needed – bottles fit as hand luggage."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Busse verkehren regelmäßig nach Umag und Novigrad.",
-          "Der Fußweg vom Bahnhof in die Oberstadt dauert etwa 15 Minuten."
+          "Busse nach Buje fahren von Umag (ca. 20 Min.) und Pazin (ca. 40 Min.) – Fahrplan auf buscroatia.com.",
+          "Letzter Bus zurück: Umag 18:20 Uhr, Pazin 17:45 Uhr – Rückfahrt gut einplanen.",
+          "Der Aufstieg vom Busbahnhof zur Altstadt dauert ca. 15 Minuten – steile Gassen, festes Schuhwerk.",
+          "Kein ATM in der Altstadt; einziger Bankomat 200 m vom Busbahnhof entfernt.",
+          "Trüffelspezialitäten aus Buje passen gut als Mitbringsel ins Handgepäck – keine Zollprobleme innerhalb der EU.",
+          "Für Tagesausflügler: Umag (20 km Küste) als Kombination gut planbar – Bus verbindet beide."
         ],
         "hu": [
-          "A buszok rendszeresen járnak Umagba és Novigradba.",
-          "A gyalogút a pályaudvartól a felsővárosba kb. 15 perc."
+          "Buszok Bujéba Umag (kb. 20 perc) és Pazin (kb. 40 perc) irányából – menetrend: buscroatia.com.",
+          "Utolsó visszabusz: Umag 18:20, Pazin 17:45 – a visszautat jól tervezze be.",
+          "A buszmegállótól az óvárosba felkapaszkodás kb. 15 perc – meredek sikátorok, erős cipő szükséges.",
+          "Az óvárosban nincs ATM; az egyetlen bankautomata 200 m-re van a buszmegállótól.",
+          "Bujei szarvasgomba-különlegességek jól elfér kézipoggyászban – EU-n belül nincs vámgond.",
+          "Napizkirándulóknak: Umag (20 km tengerpart) jól kombinálható – busz köti össze mindkettőt."
         ],
         "ro": [
-          "Autobuzele circulă regulat spre Umag și Novigrad.",
-          "Drumul pe jos de la gară spre orașul de sus durează aproximativ 15 minute."
+          "Autobuzele spre Buje vin din Umag (cca. 20 min) și Pazin (cca. 40 min) – orar pe buscroatia.com.",
+          "Ultimul autobuz de întoarcere: Umag 18:20, Pazin 17:45 – planificați bine întoarcerea.",
+          "Urcarea de la stația de autobuz la orașul vechi durează cca. 15 minute – ulicioare abrupte, încălțăminte solidă.",
+          "Nu există bancomat în orașul vechi; singurul este la 200 m de stația de autobuz.",
+          "Specialitățile cu trufe din Buje se potrivesc bine ca suvenir în bagajul de mână – fără probleme vamale în UE.",
+          "Pentru excursioniști de o zi: Umag (20 km coastă) poate fi combinat bine – autobuzul leagă ambele."
         ],
         "en": [
-          "Buses run regularly to Umag and Novigrad.",
-          "The walk from the station to the upper town takes about 15 minutes."
+          "Buses to Buje run from Umag (about 20 min) and Pazin (about 40 min) – timetable at buscroatia.com.",
+          "Last bus back: Umag 6:20 PM, Pazin 5:45 PM – plan your return journey carefully.",
+          "The climb from the bus station to the old town takes about 15 minutes – steep alleys, sturdy shoes needed.",
+          "No ATM in the old town; the only one is 200 m from the bus station.",
+          "Buje truffle specialties make excellent hand-luggage souvenirs – no customs issues within the EU.",
+          "For day trippers: Umag (20 km coast) combines well – buses connect both."
         ]
       },
       "variants": {

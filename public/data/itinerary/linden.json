@@ -1,0 +1,940 @@
+{
+  "city_id": "linden",
+  "anchor": {
+    "name": "Watooka House",
+    "coords": [
+      -58.305,
+      6.01
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Linden Museum",
+          "coords": [
+            -58.3,
+            6.002
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den Bauxitabbau.",
+            "hu": "Ismerje meg a bauxitbányászatot.",
+            "ro": "Aflați despre minieritul de bauxită.",
+            "en": "Learn about the bauxite mining history."
+          }
+        },
+        {
+          "name": "Mackenzie Market",
+          "coords": [
+            -58.301,
+            6.005
+          ],
+          "category": "market",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lokales Obst und Kunsthandwerk.",
+            "hu": "Helyi gyümölcsök és kézműves áruk.",
+            "ro": "Fructe locale și artizanat.",
+            "en": "Local fruits and handicrafts."
+          }
+        },
+        {
+          "name": "Mackenzie Wharf",
+          "coords": [
+            -58.302,
+            6.008
+          ],
+          "category": "harbor",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick auf den Demerara-Fluss.",
+            "hu": "Kilátás a Demerara folyóra.",
+            "ro": "Vedere spre râul Demerara.",
+            "en": "View of the Demerara River."
+          }
+        },
+        {
+          "name": "Watooka House",
+          "coords": [
+            -58.305,
+            6.01
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein koloniales Gästehaus am Fluss.",
+            "hu": "Koloniális vendégház a folyóparton.",
+            "ro": "O casă de oaspeți colonială pe râu.",
+            "en": "A colonial guest house by the river."
+          }
+        },
+        {
+          "name": "Watooka Restaurant",
+          "coords": [
+            -58.305,
+            6.01
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie fangfrischen Fisch.",
+            "hu": "Kóstolja meg a frissen fogott halat.",
+            "ro": "Gustați peștele proaspăt prins.",
+            "en": "Taste the freshly caught river fish."
+          }
+        },
+        {
+          "name": "Riverside Walk",
+          "coords": [
+            -58.306,
+            6.012
+          ],
+          "category": "quiet",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger Weg unter Palmen.",
+            "hu": "Csendes út a pálmák alatt.",
+            "ro": "Alee liniștită sub palmiere.",
+            "en": "Quiet path under the palms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "In Linden erkunden wir die Geschichte der Bauxit-Hauptstadt. Wir beginnen im Museum und dem lebhaften Mackenzie-Markt.\n\nMittags besuchen wir das elegante Watooka House am Ufer des Demerara.\n\nNach dem Essen genießen wir die Ruhe am Flussufer.\n\nEine entspannte Tour durch die Bergbaugeschichte.",
+        "hu": "Lindenben a bauxit-főváros történetét fedezzük fel. A múzeumban és a nyüzsgő Mackenzie piacon kezdünk.\n\nDélben az elegáns Watooka House-t látogatjuk meg a Demerara partján.\n\nAz ebéd után a folyóparti sétány csendjét élvezzük.\n\nPihentető túra a bányászati múlt nyomában.",
+        "ro": "În Linden explorăm istoria capitalei bauxitei. Începem la muzeu și la piața animată Mackenzie.\n\nLa prânz vizităm eleganta casă Watooka de pe malul râului Demerara.\n\nDupă prânz ne bucurăm de liniștea falezei.\n\nUn tur relaxant prin istoria minieră.",
+        "en": "In Linden, we explore the history of the bauxite capital. We start at the museum and the lively Mackenzie market.\n\nMidday visit to the elegant Watooka House on the banks of the Demerara.\n\nAfter lunch, we enjoy the peace of the riverside walk.\n\nA relaxing tour through mining heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Watooka House",
+            "tip": "Hervorragende lokale Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watooka House",
+            "tip": "Kiváló helyi ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Watooka House",
+            "tip": "Mâncăruri locale excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watooka House",
+            "tip": "Excellent local cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riverside Walk",
+            "tip": "Ruhiger Blick auf den Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Csendes kilátás a folyóra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aleea Riverside",
+            "tip": "Vedere liniștită spre râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Walk",
+            "tip": "Quiet views of the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mackenzie Market",
+            "tip": "Frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mackenzie piac",
+            "tip": "Friss termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Mackenzie",
+            "tip": "Produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mackenzie Market",
+            "tip": "Fresh local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Wetter kann sich schnell ändern.",
+          "Nutzen Sie bequeme Schuhe.",
+          "Trinkwasser ist wichtig.",
+          "Buchen Sie Watooka House vorab."
+        ],
+        "hu": [
+          "Az időjárás gyorsan változhat.",
+          "Viselj kényelmes cipőt.",
+          "A ivóvíz fontos.",
+          "Foglald le előre a Watooka House-t."
+        ],
+        "ro": [
+          "Vremea se poate schimba rapid.",
+          "Purtați încălțăminte comodă.",
+          "Apa potabilă este importantă.",
+          "Rezervați din timp la Watooka House."
+        ],
+        "en": [
+          "Weather can change quickly.",
+          "Wear comfortable walking shoes.",
+          "Hydration is key.",
+          "Book Watooka House in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Linden Museum",
+          "coords": [
+            -58.3,
+            6.002
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Einführung in die Stadt.",
+            "hu": "Bevezetés a városba.",
+            "ro": "Introducere în istoria orașului.",
+            "en": "Introduction to the city."
+          }
+        },
+        {
+          "name": "Watooka House",
+          "coords": [
+            -58.305,
+            6.01
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie am Flussufer.",
+            "hu": "Kerekezzen a folyóparton.",
+            "ro": "Pedalați pe malul râului.",
+            "en": "Cycle along the riverbank."
+          }
+        },
+        {
+          "name": "Blue Lake",
+          "coords": [
+            -58.28,
+            5.99
+          ],
+          "category": "lake",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein atemberaubender blauer See.",
+            "hu": "Lélegzetelállító kék tó.",
+            "ro": "Un lac albastru uimitor.",
+            "en": "Stunning blue water lake."
+          }
+        },
+        {
+          "name": "Mackenzie High Street",
+          "coords": [
+            -58.301,
+            6.004
+          ],
+          "category": "shopping",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Lokales Leben pur.",
+            "hu": "Igazi helyi élet.",
+            "ro": "Viață locală autentică.",
+            "en": "Pure local life."
+          }
+        },
+        {
+          "name": "Riverside Park",
+          "coords": [
+            -58.303,
+            6.006
+          ],
+          "category": "quiet",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abschluss am Wasser.",
+            "hu": "Zárás a víznél.",
+            "ro": "Final la malul apei.",
+            "en": "Finish by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erreichen wir den berühmten Blue Lake außerhalb von Linden. Vorher besuchen wir das Museum und Watooka House.\n\nDer Blue Lake bietet eine einzigartige Kulisse für Fotos.\n\nZurück in Mackenzie tauchen wir in das geschäftige Treiben der High Street ein.\n\nEine sportliche Tour zu den Naturwundern.",
+        "hu": "Kerékpárral elérjük a Linden melletti híres Kék-tavat. Előtte megnézzük a múzeumot és a Watooka House-t.\n\nA Kék-tó egyedülálló helyszín a fotózáshoz.\n\nVisszatérve Mackenzie-be, elmerülünk a High Street forgatagában.\n\nSportos túra a természeti csodákhoz.",
+        "ro": "Cu bicicleta ajungem la celebrul Lac Albastru de lângă Linden. Înainte vizităm muzeul și casa Watooka.\n\nLacul Albastru oferă un cadru unic pentru fotografii.\n\nÎntorși în Mackenzie, ne cufundăm în agitația de pe High Street.\n\nUn tur sportiv spre minunile naturii.",
+        "en": "By bike, we explore Linden's natural surroundings. First, we visit the museum and Watooka House.\n\nThe Blue Lake provides a unique backdrop for photos with its turquoise water.\n\nBack in Mackenzie, we dive into the bustle of High Street.\n\nAn active tour reaching local wonders."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mackenzie Bakery",
+            "tip": "Frisches Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mackenzie Bakery",
+            "tip": "Friss sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Mackenzie",
+            "tip": "Patiserie proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mackenzie Bakery",
+            "tip": "Fresh pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blue Lake",
+            "tip": "Türkisfarbenes Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kék-tó",
+            "tip": "Türkizkék víz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Albastru",
+            "tip": "Apă turcoaz.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Blue Lake",
+            "tip": "Turquoise waters.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "High Street",
+            "tip": "Lokale Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "High Street",
+            "tip": "Helyi boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "High Street",
+            "tip": "Magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "High Street",
+            "tip": "Local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg zum See ist sandig.",
+          "Tragen Sie einen Helm.",
+          "Prüfen Sie die Bremsen.",
+          "Sonnenschutz ist Pflicht."
+        ],
+        "hu": [
+          "Az út a tóhoz homokos.",
+          "Viselj sisakot.",
+          "Ellenőrizd a fékeket.",
+          "A naptej kötelező."
+        ],
+        "ro": [
+          "Drumul spre lac este nisipos.",
+          "Purtați cască.",
+          "Verificați frânele.",
+          "Protecția solară e obligatorie."
+        ],
+        "en": [
+          "The path to the lake is sandy.",
+          "Wear a helmet.",
+          "Check your brakes.",
+          "Sunscreen is mandatory."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Linden Museum",
+          "coords": [
+            -58.3,
+            6.002
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken am Mackenzie Square.",
+            "hu": "Parkolás a Mackenzie téren.",
+            "ro": "Parcare la Mackenzie Square.",
+            "en": "Park at Mackenzie Square."
+          }
+        },
+        {
+          "name": "Mackenzie Market",
+          "coords": [
+            -58.301,
+            6.005
+          ],
+          "category": "market",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehdistanz vom Museum.",
+            "hu": "Sétatávolság a múzeumtól.",
+            "ro": "Distanță de mers de la muzeu.",
+            "en": "Walking distance from museum."
+          }
+        },
+        {
+          "name": "Blue Lake",
+          "coords": [
+            -58.28,
+            5.99
+          ],
+          "category": "lake",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Zweiter Cluster: Minenfahrzeuge.",
+            "hu": "Második klaszter: bányagépek.",
+            "ro": "Al doilea cluster: utilaje miniere.",
+            "en": "Second cluster: mining area."
+          }
+        },
+        {
+          "name": "Watooka House",
+          "coords": [
+            -58.305,
+            6.01
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Dritter Cluster: Flussseite.",
+            "hu": "Harmadik klaszter: folyópart.",
+            "ro": "Al treilea cluster: zona râului.",
+            "en": "Third cluster: riverfront."
+          }
+        },
+        {
+          "name": "Watooka Restaurant",
+          "coords": [
+            -58.305,
+            6.01
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Essen mit Aussicht.",
+            "hu": "Étkezés kilátással.",
+            "ro": "Masă cu priveliște.",
+            "en": "Lunch with a view."
+          }
+        },
+        {
+          "name": "Christianburg Waterwheel",
+          "coords": [
+            -58.31,
+            6.015
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Relikt aus dem Jahr 1855.",
+            "hu": "Egy 1855-ös relikvia.",
+            "ro": "O relicvă din 1855.",
+            "en": "A relic from 1855."
+          }
+        },
+        {
+          "name": "Riverside Sunset",
+          "coords": [
+            -58.308,
+            6.012
+          ],
+          "category": "sunset",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Blick nach Westen.",
+            "hu": "Nyugati kilátás.",
+            "ro": "Vedere spre vest.",
+            "en": "Westward river views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt uns den Besuch des Blue Lake und des historischen Wasserrads in Christianburg.\n\nWir erkunden das Zentrum, fahren dann zum See und kehren für ein stilvolles Mittagessen nach Watooka zurück.\n\nDer Nachmittag endet an der historischen Sägemühle.\n\nEin kompletter Überblick über die Region Linden.",
+        "hu": "Az autó lehetővé teszi a Kék-tó és a christianburgi történelmi vízikerék meglátogatását.\n\nBejárjuk a központot, elautózunk a tóhoz, majd visszatérünk Watookába egy elegáns ebédre.\n\nA délután a régi fűrészmalom maradványainál zárul.\n\nTeljes áttekintés Linden környékéről.",
+        "ro": "Mașina ne permite să vizităm Lacul Albastru și roata istorică de apă din Christianburg.\n\nExplorăm centrul, mergem la lac și revenim la Watooka pentru un prânz elegant.\n\nDupă-amiaza se încheie la vestigiile vechiului gater.\n\nO imagine completă a regiunii Linden.",
+        "en": "The car allows us to visit both the Blue Lake and the historic waterwheel in Christianburg.\n\nWe explore the center, drive to the lake, and return to Watooka for a stylish lunch.\n\nAfternoon concludes at the remains of the old sawmill.\n\nA comprehensive overview of the Linden area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Watooka House",
+            "tip": "Beste Adresse der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watooka House",
+            "tip": "A város legjobb helye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Watooka",
+            "tip": "Cea mai bună locație din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watooka House",
+            "tip": "The best spot in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christianburg Riverbank",
+            "tip": "Sehr ruhig.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christianburg folyópart",
+            "tip": "Nagyon csendes.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Christianburg",
+            "tip": "Foarte liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christianburg Riverbank",
+            "tip": "Very peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Linden Plaza",
+            "tip": "Kleine Mall."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linden Plaza",
+            "tip": "Kis üzletközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Linden Plaza",
+            "tip": "Mic centru comercial."
+          }
+        ],
+        "en": [
+          {
+            "name": "Linden Plaza",
+            "tip": "Small shopping plaza."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie vorsichtig auf Schotterwegen.",
+          "Achten Sie auf Bergbau-LKW.",
+          "Parken ist meist kein Problem.",
+          "Besuchen Sie das Wasserrad tagsüber."
+        ],
+        "hu": [
+          "Vezess óvatosan a kavicsos utakon.",
+          "Figyelj a bányadömperekre.",
+          "A parkolás általában nem gond.",
+          "Nappal látogasd meg a vízikereket."
+        ],
+        "ro": [
+          "Conduceți cu grijă pe drumurile cu pietriș.",
+          "Atenție la camioanele miniere.",
+          "Parcarea nu e de obicei o problemă.",
+          "Vizitați roata de apă ziua."
+        ],
+        "en": [
+          "Drive carefully on gravel roads.",
+          "Watch out for mining trucks.",
+          "Parking is usually not an issue.",
+          "Visit the waterwheel during daylight."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Mackenzie Market",
+          "coords": [
+            -58.301,
+            6.005
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Minibus-Drehkreuz.",
+            "hu": "Minibusz csomópont.",
+            "ro": "Nod de microbuze.",
+            "en": "Minibus transport hub."
+          }
+        },
+        {
+          "name": "Linden Museum",
+          "coords": [
+            -58.3,
+            6.002
+          ],
+          "category": "museum",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurze Fahrt vom Markt.",
+            "hu": "Rövid út a piactól.",
+            "ro": "Scurtă cursă de la piață.",
+            "en": "Short ride from the market."
+          }
+        },
+        {
+          "name": "Watooka House",
+          "coords": [
+            -58.305,
+            6.01
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein Taxi zum Ufer.",
+            "hu": "Hívjon taxit a folyóparthoz.",
+            "ro": "Luați un taxi spre mal.",
+            "en": "Take a short taxi to the riverbank."
+          }
+        },
+        {
+          "name": "Watooka Restaurant",
+          "coords": [
+            -58.305,
+            6.01
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ruhiger Mittagstisch.",
+            "hu": "Csendes ebédhely.",
+            "ro": "Loc de prânz liniștit.",
+            "en": "Quiet lunch spot."
+          }
+        },
+        {
+          "name": "Wismar Bridge",
+          "coords": [
+            -58.308,
+            6.008
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Überquerung nach Wismar.",
+            "hu": "Átkelés Wismarba.",
+            "ro": "Traversarea spre Wismar.",
+            "en": "Crossing over to Wismar."
+          }
+        },
+        {
+          "name": "Christianburg Waterwheel",
+          "coords": [
+            -58.31,
+            6.015
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lokalbusse nach Christianburg.",
+            "hu": "Helyi buszok Christianburgba.",
+            "ro": "Autobuze locale spre Christianburg.",
+            "en": "Local buses to Christianburg."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit Taxis und Minibussen erkunden wir beide Seiten des Flusses. Vom Markt zum Museum und dann zum eleganten Watooka-Viertel.\n\nWir genießen ein Mittagessen am Fluss, bevor wir die Brücke nach Wismar überqueren.\n\nDer Nachmittag endet am historischen Wasserrad von Christianburg.\n\nEin authentisches Erlebnis des Alltags in Linden.",
+        "hu": "Taxikkal és minibuszokkal fedezzük fel a folyó mindkét oldalát. A piactól a múzeumhoz, majd az elegáns Watooka negyedbe megyünk.\n\nÉlvezzük az ebédet a folyóparton, mielőtt átkelnénk a hídon Wismarba.\n\nA délután a christianburgi történelmi vízikereknél zárul.\n\nHiteles élmény Linden mindennapjairól.",
+        "ro": "Cu taxiuri și microbuze explorăm ambele maluri ale râului. De la piață la muzeu și apoi în elegantul cartier Watooka.\n\nNe bucurăm de prânz pe malul râului înainte de a traversa podul spre Wismar.\n\nDupă-amiaza se încheie la roata istorică din Christianburg.\n\nO experiență autentică a vieții de zi cu zi din Linden.",
+        "en": "Using taxis and minibuses, we explore both sides of the river. From the market to the museum and then to the elegant Watooka district.\n\nEnjoy lunch by the river before crossing the bridge to Wismar.\n\nAfternoon concludes at the historic Christianburg waterwheel.\n\nAn authentic experience of daily life in Linden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Watooka Restaurant",
+            "tip": "Frische Flussgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watooka étterem",
+            "tip": "Friss folyami ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Watooka",
+            "tip": "Mâncăruri proaspete de râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watooka Restaurant",
+            "tip": "Fresh river dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Watooka Riverside",
+            "tip": "Sehr entspannend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watooka folyópart",
+            "tip": "Nagyon pihentető.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza Watooka",
+            "tip": "Foarte relaxant.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Watooka Riverside",
+            "tip": "Very relaxing vibes.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mackenzie Market",
+            "tip": "Zentrum des Handels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mackenzie piac",
+            "tip": "A kereskedelem központja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Mackenzie",
+            "tip": "Centrul comerțului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mackenzie Market",
+            "tip": "Hub of local trade."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Taxis sind oft schneller als Busse.",
+          "Vereinbaren Sie den Preis vorher.",
+          "Die Brücke kann verstopft sein.",
+          "Fragen Sie nach dem Weg."
+        ],
+        "hu": [
+          "A taxik gyakran gyorsabbak a busznál.",
+          "Egyezz meg az árban előre.",
+          "A híd néha bedugulhat.",
+          "Kérdezz bátran útbaigazítást."
+        ],
+        "ro": [
+          "Taxiurile sunt adesea mai rapide.",
+          "Stabiliți prețul dinainte.",
+          "Podul poate fi aglomerat.",
+          "Cereți indicații localnicilor."
+        ],
+        "en": [
+          "Taxis are often faster than buses.",
+          "Agree on the price beforehand.",
+          "The bridge can be congested.",
+          "Ask locals for directions."
+        ]
+      }
+    }
+  }
+}

@@ -1,134 +1,111 @@
 {
   "city_id": "labin",
   "anchor": {
-    "name": "Labin",
+    "name": "Titov trg",
     "coords": [
-      14.1175,
-      45.095
+      14.1235,
+      45.0908
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3.5,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 2.5,
+      "end_estimate": "15:45",
+      "total_km": 3.2,
       "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Tor San Fior",
-            "hu": "San Fior városkapu",
-            "ro": "Poarta San Fior",
-            "en": "San Fior Gate"
+            "de": "Porta San Fior",
+            "hu": "Porta San Fior",
+            "ro": "Porta San Fior",
+            "en": "Porta San Fior"
           },
           "coords": [
-            14.1185,
-            45.0945
+            14.1238,
+            45.0912
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:00",
-          "stay_min": 30,
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 15,
           "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Das Haupttor aus dem 16. Jahrhundert mit dem venezianischen Löwen.",
-            "hu": "A 16. századi főkapu a velencei oroszlánnal.",
-            "ro": "Poarta principală din secolul al XVI-lea cu leul venețian.",
-            "en": "The 16th-century main gate featuring the Venetian lion."
+            "de": "Achten Sie auf den venezianischen Löwen über dem Tor.",
+            "hu": "Figyelje meg a kapu feletti velencei oroszlánt.",
+            "ro": "Observați leul venețian de deasupra porții.",
+            "en": "Look for the Venetian lion above the gate."
           }
         },
         {
           "name": {
-            "de": "Labiner Altstadt",
+            "de": "Altstadt Labin",
             "hu": "Labin óvárosa",
             "ro": "Orașul vechi Labin",
-            "en": "Labin Old Town"
+            "en": "Old Town Labin"
           },
           "coords": [
-            14.1175,
-            45.095
+            14.1245,
+            45.0915
           ],
-          "category": "squares/old-town",
-          "arrive_at": "09:35",
+          "category": "square",
+          "arrive_at": "09:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die bunten Fassaden sind perfekt für Fotos.",
+            "hu": "A színes homlokzatok tökéletesek a fotózáshoz.",
+            "ro": "Fațadele colorate sunt perfecte pentru fotografii.",
+            "en": "The colorful facades are perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Labin",
+            "hu": "Labini Városi Múzeum",
+            "ro": "Muzeul Orașului Labin",
+            "en": "Labin City Museum"
+          },
+          "coords": [
+            14.1252,
+            45.0918
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den originalgetreuen Bergbaustollen im Keller.",
+            "hu": "Látogasson el a pincében található bányavágatba.",
+            "ro": "Vizitați galeria de mină din subsolul muzeului.",
+            "en": "Visit the authentic mining tunnel in the basement."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Geburt-Kirche",
+            "hu": "Mária születése templom",
+            "ro": "Biserica Nașterea Sf. Maria",
+            "en": "Parish Church of Blessed Virgin Mary"
+          },
+          "coords": [
+            14.126,
+            45.0922
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:55",
           "stay_min": 45,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Farbenfrohe Fassaden und charmante kleine Gassen.",
-            "hu": "Színpompás homlokzatok és bájos kis utcák.",
-            "ro": "Fațade colorate și străduțe fermecătoare.",
-            "en": "Colorful facades and charming small alleys."
-          }
-        },
-        {
-          "name": {
-            "de": "Volksmuseum Labin",
-            "hu": "Labini Néprajzi Múzeum",
-            "ro": "Muzeul Popular Labin",
-            "en": "Labin National Museum"
-          },
-          "coords": [
-            14.117,
-            45.096
-          ],
-          "category": "museums",
-          "arrive_at": "10:25",
-          "stay_min": 75,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Besuchen Sie den originalgetreuen Bergwerksstollen im Keller.",
-            "hu": "Látogasson el a pincében található élethű bányajárathoz.",
-            "ro": "Vizitați galeria de mină fidelă realității de la subsol.",
-            "en": "Visit the realistic mining tunnel in the basement."
-          }
-        },
-        {
-          "name": {
-            "de": "Kirche Mariä Geburt",
-            "hu": "Mária Születése templom",
-            "ro": "Biserica Nașterea Maicii Domnului",
-            "en": "Church of the Nativity of the Blessed Virgin Mary"
-          },
-          "coords": [
-            14.1195,
-            45.0955
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:45",
-          "stay_min": 30,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Achten Sie auf die Reliefs an der Fassade.",
-            "hu": "Ügyeljen a homlokzaton lévő domborművekre.",
-            "ro": "Observați reliefurile de pe fațadă.",
-            "en": "Pay attention to the reliefs on the facade."
-          }
-        },
-        {
-          "name": {
-            "de": "Palazzo Negri",
-            "hu": "Negri-palota",
-            "ro": "Palatul Negri",
-            "en": "Palazzo Negri"
-          },
-          "coords": [
-            14.1205,
-            45.095
-          ],
-          "category": "famous residences",
-          "arrive_at": "12:20",
-          "stay_min": 45,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Probieren Sie hier lokales Olivenöl bei einer Verkostung.",
-            "hu": "Kóstolja meg itt a helyi olívaolajat egy bemutató keretében.",
-            "ro": "Încercați aici ulei de măsline local la o degustare.",
-            "en": "Try local olive oil here during a tasting session."
+            "de": "Bewundern Sie die venezianischen Altarbilder.",
+            "hu": "Csodálja meg a velencei oltárképeket.",
+            "ro": "Admirați picturile de altar venețiene.",
+            "en": "Admire the Venetian altar paintings."
           }
         },
         {
@@ -139,2544 +116,401 @@
             "en": "Fortica Viewpoint"
           },
           "coords": [
-            14.1155,
-            45.094
+            14.1265,
+            45.0925
           ],
-          "category": "natural features",
-          "arrive_at": "13:15",
-          "stay_min": 60,
+          "category": "viewpoint",
+          "arrive_at": "12:50",
+          "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Blick über Rabac bis zur Insel Cres.",
-            "hu": "Kilátás Rabacra és egészen Cres szigetéig.",
-            "ro": "Vedere peste Rabac până la insula Cres.",
-            "en": "View over Rabac all the way to Cres island."
+            "de": "Blick auf Rabac und die Insel Cres.",
+            "hu": "Kilátás Rabacra és Cres szigetére.",
+            "ro": "Vedere spre Rabac și insula Cres.",
+            "en": "View of Rabac and Cres island."
           }
         },
         {
           "name": {
-            "de": "Podlabin Bergbauerbe",
-            "hu": "Podlabin bányászati örökség",
-            "ro": "Moștenirea minieră Podlabin",
-            "en": "Podlabin Mining Heritage"
+            "de": "Palais Negri",
+            "hu": "Negri Palota",
+            "ro": "Palatul Negri",
+            "en": "Negri Palace"
           },
           "coords": [
-            14.125,
-            45.085
+            14.1258,
+            45.0913
           ],
-          "category": "industrial heritage",
-          "arrive_at": "14:35",
-          "stay_min": 60,
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie das lokale Olivenöl direkt beim Produzenten.",
+            "hu": "Kóstolja meg a helyi olívaolajat a termelőnél.",
+            "ro": "Gustați uleiul de măsline local direct de la producător.",
+            "en": "Taste the local olive oil directly at the producer."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbauschacht Šoht",
+            "hu": "Bányászati Šoht",
+            "ro": "Turnul minier Šoht",
+            "en": "Mining Šoht"
+          },
+          "coords": [
+            14.122,
+            45.088
+          ],
+          "category": "monument",
+          "arrive_at": "15:05",
+          "stay_min": 40,
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Sehen Sie den beeindruckenden Förderturm Soso.",
-            "hu": "Nézze meg a lenyűgöző Soso-aknatornyot.",
-            "ro": "Vedeți impresionantul turn de extracție Soso.",
-            "en": "See the impressive Soso mining tower."
+            "de": "Das 33 Meter hohe Stahlsymbol der Stadt.",
+            "hu": "A város 33 méter magas acél jelképe.",
+            "ro": "Simbolul de oțel al orașului, înalt de 33 de metri.",
+            "en": "The 33-meter high steel symbol of the town."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Willkommen in Labin, einer Stadt, in der Bergbaugeschichte auf moderne Kunst trifft. Ihr Rundgang beginnt am Tor San Fior, dem historischen Eingang zur Oberstadt. Die verwinkelten Gassen führen Sie direkt ins Herz der Altstadt, wo jedes Haus eine eigene Geschichte erzählt.\n\nMittags tauchen Sie tief in die Geschichte ein — im wahrsten Sinne des Wortes. Das Volksmuseum bietet einen faszinierenden Einblick in den Alltag der Bergleute. Nach der Besichtigung der Kirche Mariä Geburt ist der Palazzo Negri der perfekte Ort, um lokale Spezialitäten kennenzulernen.\n\nDer Nachmittag bietet weite Horizonte. Vom Aussichtspunkt Fortica blicken Sie hinunter auf das blaue Meer von Rabac. Danach führt der Weg hinab nach Podlabin, wo die industrielle Architektur des 20. Jahrhunderts an die Zeit der 'Labiner Republik' erinnert.\n\nZum Abend hin genießen Sie die ruhige Atmosphäre auf dem Hauptplatz oder kehren in eines der gemütlichen Restaurants in der Altstadt zurück, während die Lichter der Küste zu funkeln beginnen.",
-        "hu": "Üdvözöljük Labinban, a városban, ahol a bányászmúlt találkozik a modern művészettel. Sétája a San Fior kapunál kezdődik, amely az óváros történelmi bejárata. A kanyargós utcák egyenesen az óváros szívébe vezetnek, ahol minden ház saját történetet mesél.\n\nDélben merüljön el a történelemben — a szó szoros értelmében. A Néprajzi Múzeum lenyűgöző betekintést nyújt a bányászok mindennapjaiba. A Mária Születése templom megtekintése után a Negri-palota tökéletes hely a helyi specialitások megismeréséhez.\n\nA délután tágas távlatokat kínál. A Fortica kilátóból letekinthet Rabac kék tengerére. Ezután az út levezet Podlabinba, ahol a 20. századi ipari építészet a 'Labini Köztársaság' idejére emlékeztet.\n\nEste felé élvezze a főtér nyugodt hangulatát, vagy térjen be az óváros egyik hangulatos éttermébe, miközben a tengerpart fényei kigyúlnak.",
-        "ro": "Bun venit în Labin, un oraș în care istoria minieră se întâlnește cu arta modernă. Turul dvs. începe la Poarta San Fior, intrarea istorică în orașul de sus. Străzile șerpuite vă duc direct în inima orașului vechi, unde fiecare casă spune o poveste proprie.\n\nLa prânz, scufundați-vă adânc în istorie — la propriu. Muzeul Popular oferă o privire fascinantă asupra vieții de zi cu zi a minerilor. După vizitarea bisericii Nașterea Maicii Domnului, Palatul Negri este locul perfect pentru a cunoaște specialitățile locale.\n\nDupă-amiaza oferă orizonturi largi. De la punctul de belvedere Fortica, priviți jos spre marea albastră din Rabac. Apoi, drumul coboară spre Podlabin, unde arhitectura industrială a secolului XX amintește de perioada 'Republicii Labin'.\n\nSpre seară, bucurați-vă de atmosfera liniștită din piața principală sau reveniți la unul dintre restaurantele primitoare din orașul vechi, în timp ce luminile coastei încep să sclipească.",
-        "en": "Welcome to Labin, a city where mining history meets modern art. Your tour begins at the San Fior Gate, the historic entrance to the upper town. The winding alleys lead you straight to the heart of the old town, where every house tells its own story.\n\nAt midday, dive deep into history — literally. The National Museum offers a fascinating insight into the daily life of miners. After visiting the Church of Mary's Birth, Palazzo Negri is the perfect place to get to know local specialties.\n\nIn the afternoon, wide horizons await. From the Fortica viewpoint, you look down on the blue sea of Rabac. Afterwards, the path leads down to Podlabin, where 20th-century industrial architecture recalls the time of the 'Labin Republic'.\n\nTowards the evening, enjoy the quiet atmosphere on the main square or return to one of the cozy restaurants in the old town as the coastal lights begin to twinkle."
+        "de": "Beginnen Sie Ihren Tag am venezianischen Stadttor Porta San Fior und tauchen Sie in die farbenfrohen Gassen der Altstadt ein. Das Stadtmuseum bietet einen faszinierenden Einblick in die Bergbaugeschichte inklusive eines begehbaren Stollens.\n\nMittags genießen Sie den Panoramablick von der Fortica, bevor Sie im geschichtsträchtigen Palais Negri lokale Köstlichkeiten und Olivenöl probieren. Zum Abschluss besichtigen Sie das industrielle Erbe am markanten Bergbauturm Šoht.",
+        "hu": "Kezdje a napot a velencei Porta San Fior városkapunál, és merüljön el az óváros színes utcáiban. A Városi Múzeum lenyűgöző betekintést nyújt a bányászat történetébe egy élethű tárnával.\n\nDélben élvezze a panorámát a Fortica kilátóról, majd a patinás Negri-palotában kóstoljon helyi finomságokat és olívaolajat. A napot a város ipari örökségét jelképező Šoht bányatoronynál zárja.",
+        "ro": "Începeți ziua la poarta venețiană Porta San Fior și explorați străzile colorate ale orașului vechi. Muzeul Orașului oferă o perspectivă fascinantă asupra istoriei miniere, incluzând o galerie de mină reală.\n\nLa prânz, bucurați-vă de panorama de la Fortica, înainte de a gusta delicii locale și ulei de măsline în Palatul Negri. Încheiați ziua vizitând patrimoniul industrial la turnul minier Šoht.",
+        "en": "Start your day at the Venetian Porta San Fior gate and dive into the colorful streets of the old town. The City Museum offers a fascinating look into mining history, including an authentic tunnel.\n\nAt midday, enjoy the panoramic view from Fortica before tasting local delicacies and olive oil at the historic Negri Palace. Finish your tour by visiting the industrial heritage at the striking Šoht mining tower."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Velo Kafe",
-            "tip": "Probieren Sie Labinski Krafi (süße Ravioli) auf der Terrasse."
+            "name": "Negri Palace",
+            "tip": "Erstklassige Olivenöl-Verkostung in einem Renaissance-Palast."
           },
           {
-            "name": "Bukaleta",
-            "tip": "Frische Meeresfrüchte und istrische Nudeln (Fuži)."
+            "name": "Restoran Kvarner",
+            "tip": "Traditionelle istrische Küche mit fantastischem Meerblick."
           }
         ],
         "hu": [
           {
-            "name": "Velo Kafe",
-            "tip": "Kóstolja meg a Labinski Krafi-t (édes ravioli) a teraszon."
+            "name": "Negri Palota",
+            "tip": "Kiváló olívaolaj-kóstoló egy reneszánsz palotában."
           },
           {
-            "name": "Bukaleta",
-            "tip": "Friss tenger gyümölcsei és isztriai tészta (Fuži)."
+            "name": "Kvarner Étterem",
+            "tip": "Hagyományos isztriai konyha fantasztikus tengeri kilátással."
           }
         ],
         "ro": [
           {
-            "name": "Velo Kafe",
-            "tip": "Încercați Labinski Krafi (ravioli dulci) pe terasă."
+            "name": "Palatul Negri",
+            "tip": "Degustare de ulei de măsline de top într-un palat renascentist."
           },
           {
-            "name": "Bukaleta",
-            "tip": "Fructe de mare proaspete și paste istriene (Fuži)."
+            "name": "Restaurant Kvarner",
+            "tip": "Bucătărie tradițională istriana cu o vedere superbă la mare."
           }
         ],
         "en": [
           {
-            "name": "Velo Kafe",
-            "tip": "Try Labinski Krafi (sweet ravioli) on the terrace."
+            "name": "Negri Palace",
+            "tip": "Top-tier olive oil tasting in a Renaissance palace."
           },
           {
-            "name": "Bukaleta",
-            "tip": "Fresh seafood and Istrian pasta (Fuži)."
+            "name": "Kvarner Restaurant",
+            "tip": "Traditional Istrian cuisine with a fantastic sea view."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Fortica Panorama",
-            "tip": "Ruhe mit Blick auf die Adria.",
+            "name": "Fortica Aussichtspunkt",
+            "tip": "Ein ruhiger Ort für den Blick über die Bucht von Rabac.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Dubrova Skulpturenpark",
-            "tip": "Meditation zwischen Steinkunstwerken.",
-            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Fortica panoráma",
-            "tip": "Csend az Adriára nézve.",
+            "name": "Fortica kilátó",
+            "tip": "Csendes pont a Rabaci-öbölre nyíló kilátáshoz.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Dubrova szoborpark",
-            "tip": "Meditáció a kőszobrok között.",
-            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Panorama Fortica",
-            "tip": "Liniște cu vedere spre Adria.",
+            "name": "Punctul Fortica",
+            "tip": "Un loc liniștit pentru vederea peste golful Rabac.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Parcul de sculptură Dubrova",
-            "tip": "Meditație printre opere de artă în piatră.",
-            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Fortica Panorama",
-            "tip": "Quietness with a view of the Adriatic.",
+            "name": "Fortica Viewpoint",
+            "tip": "A quiet spot for the view over Rabac bay.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Dubrova Sculpture Park",
-            "tip": "Meditation among stone artworks.",
-            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Keramik-Atelier Allegro",
-            "tip": "Einzigartige handgemachte Souvenirs."
-          },
-          {
-            "name": "Ölmühle Negri",
-            "tip": "Preisgekröntes Olivenöl direkt vom Erzeuger."
+            "name": "Altstadt-Galerien",
+            "tip": "Handgefertigte Keramik und lokale Kunstwerke."
           }
         ],
         "hu": [
           {
-            "name": "Allegro kerámia-műhely",
-            "tip": "Egyedi, kézzel készített szuvenírek."
-          },
-          {
-            "name": "Negri olajütő",
-            "tip": "Díjnyertes olívaolaj közvetlenül a termelőtől."
+            "name": "Óvárosi galériák",
+            "tip": "Kézzel készített kerámiák és helyi műalkotások."
           }
         ],
         "ro": [
           {
-            "name": "Atelierul de ceramică Allegro",
-            "tip": "Suveniruri unice lucrate manual."
-          },
-          {
-            "name": "Presa de ulei Negri",
-            "tip": "Ulei de măsline premiat direct de la producător."
+            "name": "Galeriile din orașul vechi",
+            "tip": "Ceramică lucrată manual și opere de artă locale."
           }
         ],
         "en": [
           {
-            "name": "Allegro Ceramic Studio",
-            "tip": "Unique handmade souvenirs."
-          },
-          {
-            "name": "Negri Oil Mill",
-            "tip": "Award-winning olive oil directly from the producer."
+            "name": "Old Town Galleries",
+            "tip": "Handmade ceramics and local artworks."
           }
         ]
       },
       "tips": {
         "de": [
-          "Besuchen Sie das Bergwerksmuseum unbedingt mit Führung.",
-          "Die Treppen zwischen Ober- und Unterstadt sind steil, nehmen Sie sich Zeit.",
-          "Parken ist auf dem Platz unterhalb der Altstadt am einfachsten.",
-          "Kombinieren Sie Labin mit einem Abstecher zum Strand von Rabac."
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Parken Sie auf dem großen Parkplatz unterhalb der Festung.",
+          "Besuchen Sie das Museum am Vormittag, um den Touristenmassen zu entgehen.",
+          "Kombinieren Sie den Besuch mit einem Abstecher zum Skulpturenpark Dubrova."
         ],
         "hu": [
-          "A bányászmúzeumot mindenképpen vezetéssel látogassa meg.",
-          "Az alsó- és felsőváros közötti lépcsők meredekek, ne siessen.",
-          "A parkolás az óváros alatti téren a legegyszerűbb.",
-          "Kombinálja Labint egy rövid kiruccanással a rabaci strandra."
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "Parkoljon az erőd alatti nagy parkolóban.",
+          "Látogassa meg a múzeumot délelőtt, hogy elkerülje a tömeget.",
+          "Kösse össze a látogatást a Dubrova szoborpark megtekintésével."
         ],
         "ro": [
-          "Vizitați muzeul mineritului neapărat cu ghid.",
-          "Scările dintre orașul de jos și cel de sus sunt abrupte, nu vă grăbiți.",
-          "Parcarea este cea mai ușoară în piața de sub orașul vechi.",
-          "Combinați Labin cu o escapadă la plaja din Rabac."
+          "Purtați încălțăminte comodă pentru străzile pietruite din orașul vechi.",
+          "Parcați în parcarea mare de sub cetate.",
+          "Vizitați muzeul dimineața pentru a evita aglomerația.",
+          "Combinați vizita cu o oprire la Parcul de Sculptură Dubrova."
         ],
         "en": [
-          "Make sure to visit the mining museum with a guide.",
-          "The stairs between the upper and lower town are steep, take your time.",
-          "Parking is easiest in the square below the old town.",
-          "Combine Labin with a trip to the beach in Rabac."
+          "Wear comfortable shoes for the cobblestone streets in the old town.",
+          "Park in the large parking lot below the fortress.",
+          "Visit the museum in the morning to avoid the crowds.",
+          "Combine the visit with a trip to the Dubrova Sculpture Park."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Willkommen in Labin, einer Stadt, in der Bergbaugeschichte auf moderne Kunst trifft. Ihr Rundgang beginnt am Tor San Fior, dem historischen Eingang zur Oberstadt. Die verwinkelten Gassen führen Sie direkt ins Herz der Altstadt, wo jedes Haus eine eigene Geschichte erzählt.\n\nMittags tauchen Sie tief in die Geschichte ein — im wahrsten Sinne des Wortes. Das Volksmuseum bietet einen faszinierenden Einblick in den Alltag der Bergleute. Nach der Besichtigung der Kirche Mariä Geburt ist der Palazzo Negri der perfekte Ort, um lokale Spezialitäten kennenzulernen.\n\nDer Nachmittag bietet weite Horizonte. Vom Aussichtspunkt Fortica blicken Sie hinunter auf das blaue Meer von Rabac. Danach führt der Weg hinab nach Podlabin, wo die industrielle Architektur des 20. Jahrhunderts an die Zeit der 'Labiner Republik' erinnert.\n\nZum Abend hin genießen Sie die ruhige Atmosphäre auf dem Hauptplatz oder kehren in eines der gemütlichen Restaurants in der Altstadt zurück, während die Lichter der Küste zu funkeln beginnen.",
-            "hu": "Üdvözöljük Labinban, a városban, ahol a bányászmúlt találkozik a modern művészettel. Sétája a San Fior kapunál kezdődik, amely az óváros történelmi bejárata. A kanyargós utcák egyenesen az óváros szívébe vezetnek, ahol minden ház saját történetet mesél.\n\nDélben merüljön el a történelemben — a szó szoros értelmében. A Néprajzi Múzeum lenyűgöző betekintést nyújt a bányászok mindennapjaiba. A Mária Születése templom megtekintése után a Negri-palota tökéletes hely a helyi specialitások megismeréséhez.\n\nA délután tágas távlatokat kínál. A Fortica kilátóból letekinthet Rabac kék tengerére. Ezután az út levezet Podlabinba, ahol a 20. századi ipari építészet a 'Labini Köztársaság' idejére emlékeztet.\n\nEste felé élvezze a főtér nyugodt hangulatát, vagy térjen be az óváros egyik hangulatos éttermébe, miközben a tengerpart fényei kigyúlnak.",
-            "ro": "Bun venit în Labin, un oraș în care istoria minieră se întâlnește cu arta modernă. Turul dvs. începe la Poarta San Fior, intrarea istorică în orașul de sus. Străzile șerpuite vă duc direct în inima orașului vechi, unde fiecare casă spune o poveste proprie.\n\nLa prânz, scufundați-vă adânc în istorie — la propriu. Muzeul Popular oferă o privire fascinantă asupra vieții de zi cu zi a minerilor. După vizitarea bisericii Nașterea Maicii Domnului, Palatul Negri este locul perfect pentru a cunoaște specialitățile locale.\n\nDupă-amiaza oferă orizonturi largi. De la punctul de belvedere Fortica, priviți jos spre marea albastră din Rabac. Apoi, drumul coboară spre Podlabin, unde arhitectura industrială a secolului XX amintește de perioada 'Republicii Labin'.\n\nSpre seară, bucurați-vă de atmosfera liniștită din piața principală sau reveniți la unul dintre restaurantele primitoare din orașul vechi, în timp ce luminile coastei încep să sclipească.",
-            "en": "Welcome to Labin, a city where mining history meets modern art. Your tour begins at the San Fior Gate, the historic entrance to the upper town. The winding alleys lead you straight to the heart of the old town, where every house tells its own story.\n\nAt midday, dive deep into history — literally. The National Museum offers a fascinating insight into the daily life of miners. After visiting the Church of Mary's Birth, Palazzo Negri is the perfect place to get to know local specialties.\n\nIn the afternoon, wide horizons await. From the Fortica viewpoint, you look down on the blue sea of Rabac. Afterwards, the path leads down to Podlabin, where 20th-century industrial architecture recalls the time of the 'Labin Republic'.\n\nTowards the evening, enjoy the quiet atmosphere on the main square or return to one of the cozy restaurants in the old town as the coastal lights begin to twinkle."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Tor San Fior",
-                "hu": "San Fior városkapu",
-                "ro": "Poarta San Fior",
-                "en": "San Fior Gate"
-              },
-              "tip_5lang": {
-                "de": "Das Haupttor aus dem 16. Jahrhundert mit dem venezianischen Löwen.",
-                "hu": "A 16. századi főkapu a velencei oroszlánnal.",
-                "ro": "Poarta principală din secolul al XVI-lea cu leul venețian.",
-                "en": "The 16th-century main gate featuring the Venetian lion."
-              }
-            },
-            {
-              "name": {
-                "de": "Labiner Altstadt",
-                "hu": "Labin óvárosa",
-                "ro": "Orașul vechi Labin",
-                "en": "Labin Old Town"
-              },
-              "tip_5lang": {
-                "de": "Farbenfrohe Fassaden und charmante kleine Gassen.",
-                "hu": "Színpompás homlokzatok és bájos kis utcák.",
-                "ro": "Fațade colorate și străduțe fermecătoare.",
-                "en": "Colorful facades and charming small alleys."
-              }
-            },
-            {
-              "name": {
-                "de": "Volksmuseum Labin",
-                "hu": "Labini Néprajzi Múzeum",
-                "ro": "Muzeul Popular Labin",
-                "en": "Labin National Museum"
-              },
-              "tip_5lang": {
-                "de": "Besuchen Sie den originalgetreuen Bergwerksstollen im Keller.",
-                "hu": "Látogasson el a pincében található élethű bányajárathoz.",
-                "ro": "Vizitați galeria de mină fidelă realității de la subsol.",
-                "en": "Visit the realistic mining tunnel in the basement."
-              }
-            },
-            {
-              "name": {
-                "de": "Kirche Mariä Geburt",
-                "hu": "Mária Születése templom",
-                "ro": "Biserica Nașterea Maicii Domnului",
-                "en": "Church of the Nativity of the Blessed Virgin Mary"
-              },
-              "tip_5lang": {
-                "de": "Achten Sie auf die Reliefs an der Fassade.",
-                "hu": "Ügyeljen a homlokzaton lévő domborművekre.",
-                "ro": "Observați reliefurile de pe fațadă.",
-                "en": "Pay attention to the reliefs on the facade."
-              }
-            },
-            {
-              "name": {
-                "de": "Palazzo Negri",
-                "hu": "Negri-palota",
-                "ro": "Palatul Negri",
-                "en": "Palazzo Negri"
-              },
-              "tip_5lang": {
-                "de": "Probieren Sie hier lokales Olivenöl bei einer Verkostung.",
-                "hu": "Kóstolja meg itt a helyi olívaolajat egy bemutató keretében.",
-                "ro": "Încercați aici ulei de măsline local la o degustare.",
-                "en": "Try local olive oil here during a tasting session."
-              }
-            },
-            {
-              "name": {
-                "de": "Fortica Aussichtspunkt",
-                "hu": "Fortica kilátó",
-                "ro": "Punct de belvedere Fortica",
-                "en": "Fortica Viewpoint"
-              },
-              "tip_5lang": {
-                "de": "Blick über Rabac bis zur Insel Cres.",
-                "hu": "Kilátás Rabacra és egészen Cres szigetéig.",
-                "ro": "Vedere peste Rabac până la insula Cres.",
-                "en": "View over Rabac all the way to Cres island."
-              }
-            },
-            {
-              "name": {
-                "de": "Podlabin Bergbauerbe",
-                "hu": "Podlabin bányászati örökség",
-                "ro": "Moștenirea minieră Podlabin",
-                "en": "Podlabin Mining Heritage"
-              },
-              "tip_5lang": {
-                "de": "Sehen Sie den beeindruckenden Förderturm Soso.",
-                "hu": "Nézze meg a lenyűgöző Soso-aknatornyot.",
-                "ro": "Vedeți impresionantul turn de extracție Soso.",
-                "en": "See the impressive Soso mining tower."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Velo Kafe",
-                "tip": "Probieren Sie Labinski Krafi (süße Ravioli) auf der Terrasse."
-              },
-              {
-                "name": "Bukaleta",
-                "tip": "Frische Meeresfrüchte und istrische Nudeln (Fuži)."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Velo Kafe",
-                "tip": "Kóstolja meg a Labinski Krafi-t (édes ravioli) a teraszon."
-              },
-              {
-                "name": "Bukaleta",
-                "tip": "Friss tenger gyümölcsei és isztriai tészta (Fuži)."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Velo Kafe",
-                "tip": "Încercați Labinski Krafi (ravioli dulci) pe terasă."
-              },
-              {
-                "name": "Bukaleta",
-                "tip": "Fructe de mare proaspete și paste istriene (Fuži)."
-              }
-            ],
-            "en": [
-              {
-                "name": "Velo Kafe",
-                "tip": "Try Labinski Krafi (sweet ravioli) on the terrace."
-              },
-              {
-                "name": "Bukaleta",
-                "tip": "Fresh seafood and Istrian pasta (Fuži)."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Fortica Panorama",
-                "tip": "Ruhe mit Blick auf die Adria.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Dubrova Skulpturenpark",
-                "tip": "Meditation zwischen Steinkunstwerken.",
-                "emoji": "🧘"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Fortica panoráma",
-                "tip": "Csend az Adriára nézve.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Dubrova szoborpark",
-                "tip": "Meditáció a kőszobrok között.",
-                "emoji": "🧘"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Panorama Fortica",
-                "tip": "Liniște cu vedere spre Adria.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Parcul de sculptură Dubrova",
-                "tip": "Meditație printre opere de artă în piatră.",
-                "emoji": "🧘"
-              }
-            ],
-            "en": [
-              {
-                "name": "Fortica Panorama",
-                "tip": "Quietness with a view of the Adriatic.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Dubrova Sculpture Park",
-                "tip": "Meditation among stone artworks.",
-                "emoji": "🧘"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Keramik-Atelier Allegro",
-                "tip": "Einzigartige handgemachte Souvenirs."
-              },
-              {
-                "name": "Ölmühle Negri",
-                "tip": "Preisgekröntes Olivenöl direkt vom Erzeuger."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Allegro kerámia-műhely",
-                "tip": "Egyedi, kézzel készített szuvenírek."
-              },
-              {
-                "name": "Negri olajütő",
-                "tip": "Díjnyertes olívaolaj közvetlenül a termelőtől."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Atelierul de ceramică Allegro",
-                "tip": "Suveniruri unice lucrate manual."
-              },
-              {
-                "name": "Presa de ulei Negri",
-                "tip": "Ulei de măsline premiat direct de la producător."
-              }
-            ],
-            "en": [
-              {
-                "name": "Allegro Ceramic Studio",
-                "tip": "Unique handmade souvenirs."
-              },
-              {
-                "name": "Negri Oil Mill",
-                "tip": "Award-winning olive oil directly from the producer."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Besuchen Sie das Bergwerksmuseum unbedingt mit Führung.",
-              "Die Treppen zwischen Ober- und Unterstadt sind steil, nehmen Sie sich Zeit.",
-              "Parken ist auf dem Platz unterhalb der Altstadt am einfachsten.",
-              "Kombinieren Sie Labin mit einem Abstecher zum Strand von Rabac."
-            ],
-            "hu": [
-              "A bányászmúzeumot mindenképpen vezetéssel látogassa meg.",
-              "Az alsó- és felsőváros közötti lépcsők meredekek, ne siessen.",
-              "A parkolás az óváros alatti téren a legegyszerűbb.",
-              "Kombinálja Labint egy rövid kiruccanással a rabaci strandra."
-            ],
-            "ro": [
-              "Vizitați muzeul mineritului neapărat cu ghid.",
-              "Scările dintre orașul de jos și cel de sus sunt abrupte, nu vă grăbiți.",
-              "Parcarea este cea mai ușoară în piața de sub orașul vechi.",
-              "Combinați Labin cu o escapadă la plaja din Rabac."
-            ],
-            "en": [
-              "Make sure to visit the mining museum with a guide.",
-              "The stairs between the upper and lower town are steep, take your time.",
-              "Parking is easiest in the square below the old town.",
-              "Combine Labin with a trip to the beach in Rabac."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Beginnen Sie Ihren Tag am San Fior Tor, wo der Stein im Regen glänzt. Die engen Gassen der Altstadt bieten natürlichen Schutz vor den Tropfen. Mittags ziehen Sie sich in das Nationalmuseum zurück, um die Bergbaugeschichte im trockenen Stollen zu erkunden. Der Nachmittag führt Sie zur Kirche und zum Palazzo Negri, beides ideale Orte zum Aufwärmen. Der Blick von der Fortica ist bei Regen besonders mystisch, wenn der Nebel über Rabac aufsteigt. Den Tag beenden Sie beim Bergbauerbe von Podlabin, wo das industrielle Erbe eine melancholische Atmosphäre versprüht.",
-            "hu": "Kezdje a napot a San Fior kapunál, ahol az esőben csillognak a kövek. Az óváros szűk utcái némi védelmet nyújtanak a záporok elől. Délben vonuljon be a Nemzeti Múzeumba, ahol a bányajáratok között szárazon fedezheti fel a múltat. Délután a Mária születése templom és a Palazzo Negri kínál menedéket a csapadék elől. A Fortica kilátó esőben különösen misztikus, ahogy a köd ráül a tengerpartra. Az estét Podlabin ipari örökségénél zárja, ahol az eső áztatta aknatorony látványa különleges hangulatot áraszt.",
-            "ro": "Începeți ziua la Poarta San Fior, unde piatra strălucește sub ploaie. Străzile înguste ale centrului vechi oferă adăpost natural împotriva picăturilor. La prânz, retrageți-vă la Muzeul Național pentru a explora istoria mineritului în tunelurile uscate. După-amiaza, vizitați Biserica Nașterii Maicii Domnului și Palazzo Negri pentru a rămâne la adăpost. Vederea de la Fortica este mistică pe ploaie, cu ceața ridicându-se peste Rabac. Încheiați ziua la moștenirea minieră din Podlabin, unde atmosfera industrială devine melancolică sub cerul gri.",
-            "en": "Start your day at San Fior Gate, where the stones glisten in the rain. The narrow streets of the Old Town offer some natural cover from the showers. At noon, retreat to the National Museum to explore mining history inside the dry tunnels. The afternoon leads you to the Church and Palazzo Negri, both perfect spots to stay warm. The view from Fortica is particularly mystical in the rain as mist rises over Rabac. End the day at the Podlabin Mining Heritage, where the industrial atmosphere feels uniquely evocative under the rain."
-          },
-          "stops": [
-            {
-              "name": "San Fior Gate",
-              "tip_5lang": {
-                "de": "Vorsicht, das Kopfsteinpflaster unter dem Tor ist bei Nässe sehr rutschig.",
-                "hu": "Vigyázat, a kapu alatti macskakő vizesen nagyon csúszós.",
-                "ro": "Atenție, pavajul de sub poartă este foarte alunecos când este ud.",
-                "en": "Be careful, the cobblestones under the gate are very slippery when wet."
-              }
-            },
-            {
-              "name": "Labin Old Town",
-              "tip_5lang": {
-                "de": "Nutzen Sie die schmalen Gassen als Wind- und Regenschutz beim Gehen.",
-                "hu": "Használja a szűk utcákat szél- és esővédőként séta közben.",
-                "ro": "Folosiți străzile înguste ca protecție împotriva vântului și ploii.",
-                "en": "Use the narrow alleys as wind and rain protection while walking."
-              }
-            },
-            {
-              "name": "Labin National Museum",
-              "tip_5lang": {
-                "de": "Der rekonstruierte Bergwerkstollen ist der perfekte Ort für einen Regentag.",
-                "hu": "A rekonstruált bányajárat tökéletes helyszín egy esős napon.",
-                "ro": "Tunelul minier reconstruit este locul perfect pentru o zi ploioasă.",
-                "en": "The reconstructed mining tunnel is the perfect spot for a rainy day."
-              }
-            },
-            {
-              "name": "Church of the Nativity of the Blessed Virgin Mary",
-              "tip_5lang": {
-                "de": "Genießen Sie die Stille und den trockenen Innenraum dieser historischen Kirche.",
-                "hu": "Élvezze a csendet és a száraz belsőt ebben a történelmi templomban.",
-                "ro": "Bucurați-vă de liniștea și interiorul uscat al acestei biserici istorice.",
-                "en": "Enjoy the silence and the dry interior of this historic church."
-              }
-            },
-            {
-              "name": "Palazzo Negri",
-              "tip_5lang": {
-                "de": "Ein großartiger Ort für eine kurze Pause unter den Arkaden oder im Inneren.",
-                "hu": "Nagyszerű hely egy rövid szünetre az árkádok alatt vagy bent.",
-                "ro": "Un loc excelent pentru o scurtă pauză sub arcade sau în interior.",
-                "en": "A great spot for a short break under the arches or inside."
-              }
-            },
-            {
-              "name": "Fortica Viewpoint",
-              "tip_5lang": {
-                "de": "Halten Sie den Regenschirm fest, da es hier oben sehr windig sein kann.",
-                "hu": "Fogja erősen az esernyőt, mert itt fent nagyon szeles lehet az idő.",
-                "ro": "Țineți bine umbrela, deoarece aici sus poate fi foarte vânt.",
-                "en": "Hold your umbrella firmly as it can be very windy up here."
-              }
-            },
-            {
-              "name": "Podlabin Mining Heritage",
-              "tip_5lang": {
-                "de": "Die industriellen Strukturen bieten einige überdachte Bereiche zum Erkunden.",
-                "hu": "Az ipari építmények több fedett részt is kínálnak a felfedezéshez.",
-                "ro": "Structurile industriale oferă câteva zone acoperite pentru explorare.",
-                "en": "The industrial structures offer several covered areas for exploration."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Tragen Sie wasserfeste Schuhe, da sich in der Altstadt Pfützen bilden können.",
-              "Das Nationalmuseum bietet stundenlangen Schutz vor starkem Regen.",
-              "Nutzen Sie die zahlreichen Cafés in der Altstadt für Aufwärmpausen.",
-              "Die Aussicht von der Fortica ist trotz Regen wegen der Lichtspiele sehenswert."
-            ],
-            "hu": [
-              "Viseljen vízálló cipőt, mert az óvárosban megállhat a víz a mélyedésekben.",
-              "A Nemzeti Múzeum órákig tartó védelmet nyújt a heves eső elől.",
-              "Használja ki az óváros kávézóit egy-egy melegítő szünetre.",
-              "A Fortica kilátása esőben is élmény a fények és a pára játéka miatt."
-            ],
-            "ro": [
-              "Purtați încălțăminte impermeabilă, deoarece în orașul vechi se pot forma bălți.",
-              "Muzeul Național oferă adăpost timp de câteva ore împotriva ploii torențiale.",
-              "Profitați de cafenelele din centrul vechi pentru pauze de încălzire.",
-              "Vederea de la Fortica merită vizitată și pe ploaie pentru jocurile de lumină."
-            ],
-            "en": [
-              "Wear waterproof shoes as puddles can form in the uneven old town streets.",
-              "The National Museum provides hours of shelter from heavy rain.",
-              "Take advantage of the many cafes in the old town for warming breaks.",
-              "The view from Fortica is worth visiting even in rain for the light and mist."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Beginnen Sie Ihren Winterspaziergang am kühlen San Fior Tor. Die Altstadt von Labin ist im Winter ruhig und charmant, ohne die Sommermassen. Mittags wärmen Sie sich im Nationalmuseum auf, während Sie in die Tiefe des Stollens eintauchen. Am Nachmittag bietet die Kirche einen Moment der Besinnung in kühler, aber windgeschützter Umgebung. Beobachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr von der Fortica aus, wenn die Lichter von Rabac unten zu funkeln beginnen. Beenden Sie den Tag in Podlabin, wo die kalte Luft die industrielle Silhouette scharf hervorhebt.",
-            "hu": "Kezdje téli sétáját a hűvös San Fior kapunál. Labin óvárosa télen csendes és bájos, a nyári tömeg nélkül. Délben melegedjen fel a Nemzeti Múzeumban, miközben elmerül a bányászat mélységeiben. Délután a templom nyújt egy pillanatnyi nyugalmat a hűvös, de szélvédett környezetben. Nézze meg a korai naplementét 16:30 körül a Fortica kilátóból, amikor Rabac fényei kigyúlnak odalent. Zárja a napot Podlabinban, ahol a hideg levegő élesen kirajzolja az ipari táj sziluettjét.",
-            "ro": "Începeți plimbarea de iarnă la răcoroasa Poartă San Fior. Orașul vechi Labin este liniștit și fermecător iarna, fără mulțimile de vară. La prânz, încălziți-vă în Muzeul Național în timp ce explorați adâncimile minei. După-amiaza, biserica oferă un moment de reflecție într-un mediu răcoros, dar protejat de vânt. Urmăriți apusul devreme, în jurul orei 16:30, de la Fortica, când luminile din Rabac încep să sclipească. Încheiați ziua în Podlabin, unde aerul rece scoate în evidență silueta industrială.",
-            "en": "Begin your winter walk at the chilly San Fior Gate. Labin's Old Town is quiet and charming in winter, devoid of summer crowds. At noon, warm up in the National Museum while diving into the depths of the mine. In the afternoon, the church offers a moment of reflection in a cool but wind-protected environment. Watch the early sunset around 4:30 PM from Fortica as the lights of Rabac begin to twinkle below. End the day in Podlabin, where the cold air sharply highlights the industrial silhouette."
-          },
-          "stops": [
-            {
-              "name": "San Fior Gate",
-              "tip_5lang": {
-                "de": "Ziehen Sie sich warm an, der Wind zieht oft durch das geöffnete Tor.",
-                "hu": "Öltözzön rétegesen, a kapun keresztül gyakran behúz a hideg szél.",
-                "ro": "Îmbrăcați-vă gros, vântul trece adesea prin poarta deschisă.",
-                "en": "Dress warmly, as the wind often whistles through the open gate."
-              }
-            },
-            {
-              "name": "Labin Old Town",
-              "tip_5lang": {
-                "de": "Genießen Sie die winterliche Ruhe in den fast leeren mittelalterlichen Gassen.",
-                "hu": "Élvezze a téli nyugalmat a szinte üres középkori utcákon.",
-                "ro": "Bucurați-vă de liniștea iernii pe străzile medievale aproape goale.",
-                "en": "Enjoy the winter tranquility in the nearly empty medieval streets."
-              }
-            },
-            {
-              "name": "Labin National Museum",
-              "tip_5lang": {
-                "de": "Ein idealer Ort, um der Winterkälte für eine Weile zu entkommen.",
-                "hu": "Ideális helyszín, hogy egy időre elmeneküljön a téli hideg elől.",
-                "ro": "Un loc ideal pentru a scăpa de frigul iernii pentru o vreme.",
-                "en": "An ideal place to escape the winter cold for a while."
-              }
-            },
-            {
-              "name": "Church of the Nativity of the Blessed Virgin Mary",
-              "tip_5lang": {
-                "de": "Die dicken Mauern schützen gut vor dem beißenden Winterwind.",
-                "hu": "A vastag falak jól védenek a metsző téli szél ellen.",
-                "ro": "Zidurile groase protejează bine împotriva vântului tăios de iarnă.",
-                "en": "The thick walls provide good protection against the biting winter wind."
-              }
-            },
-            {
-              "name": "Palazzo Negri",
-              "tip_5lang": {
-                "de": "Suchen Sie hier einen sonnigen Platz an der Fassade zum Aufwärmen.",
-                "hu": "Keressen itt egy napos helyet a homlokzatnál a felmelegedéshez.",
-                "ro": "Căutați un loc însorit lângă fațadă pentru a vă încălzi.",
-                "en": "Look for a sunny spot near the facade here to warm up."
-              }
-            },
-            {
-              "name": "Fortica Viewpoint",
-              "tip_5lang": {
-                "de": "Der Sonnenuntergang ist hier im Winter wegen der klaren Luft spektakulär.",
-                "hu": "A naplemente itt télen a tiszta levegő miatt lenyűgöző.",
-                "ro": "Apusul de soare aici este spectaculos iarna datorită aerului curat.",
-                "en": "The sunset here is spectacular in winter due to the clear air."
-              }
-            },
-            {
-              "name": "Podlabin Mining Heritage",
-              "tip_5lang": {
-                "de": "Besuchen Sie diesen Ort vor Einbruch der Dunkelheit für die besten Fotos.",
-                "hu": "Látogasson el ide sötétedés előtt a legjobb fotók készítéséhez.",
-                "ro": "Vizitați acest loc înainte de lăsarea întunericului pentru cele mai bune poze.",
-                "en": "Visit this spot before dark for the best photographic lighting."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
-              "Tragen Sie eine winddichte Jacke, besonders für den Aufenthalt an der Fortica.",
-              "Einige Cafés haben im Winter reduzierte Öffnungszeiten.",
-              "Die klare Winterluft ermöglicht weite Sicht bis zur Insel Cres."
-            ],
-            "hu": [
-              "A nap télen már 16:30 körül lemegy, tervezzen eszerint.",
-              "Viseljen szélálló kabátot, különösen a Fortica kilátónál.",
-              "Néhány kávézó télen rövidített nyitvatartással üzemel.",
-              "A tiszta téli levegőben ellátni egészen a Cres-szigetig."
-            ],
-            "ro": [
-              "Soarele apune iarna deja în jurul orei 16:30.",
-              "Purtați o jachetă rezistentă la vânt, mai ales pentru Fortica.",
-              "Unele cafenele au program redus pe timpul iernii.",
-              "Aerul curat de iarnă permite vizibilitate până la insula Cres."
-            ],
-            "en": [
-              "The sun sets as early as 4:30 PM in winter, so plan accordingly.",
-              "Wear a windproof jacket, especially for the time spent at Fortica.",
-              "Some cafes may have reduced operating hours during the winter season.",
-              "The clear winter air allows for views all the way to Cres Island."
-            ]
-          }
-        }
-      }
-    },
-    "bike": {
-      "mode": "bike",
-      "speed_kmh": 12,
-      "start": "09:00",
-      "end_estimate": "15:45",
-      "total_km": 12.0,
-      "stop_count": 6,
-      "stops": [
-        {
-          "name": {
-            "de": "Altstadtplatz",
-            "hu": "Óváros tér",
-            "ro": "Piața orașului vechi",
-            "en": "Old Town Square"
-          },
-          "coords": [
-            14.1175,
-            45.095
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:00",
-          "stay_min": 20,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Zentraler Start.",
-            "hu": "Központi indulás.",
-            "ro": "Start central.",
-            "en": "Central start."
-          }
-        },
-        {
-          "name": {
-            "de": "Dubrova Skulpturenpark",
-            "hu": "Dubrova szoborpark",
-            "ro": "Parcul Dubrova",
-            "en": "Dubrova Sculpture Park"
-          },
-          "coords": [
-            14.14,
-            45.115
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "09:35",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 3.0,
-          "tip_5lang": {
-            "de": "Viel Platz zum Radeln zwischen den Statuen.",
-            "hu": "Sok hely a bringázáshoz a szobrok között.",
-            "ro": "Mult spațiu pentru bicicletă printre statui.",
-            "en": "Lots of space for cycling between the statues."
-          }
-        },
-        {
-          "name": {
-            "de": "Podlabin Soso Turm",
-            "hu": "Podlabin Soso torony",
-            "ro": "Turnul Soso Podlabin",
-            "en": "Podlabin Soso Tower"
-          },
-          "coords": [
-            14.125,
-            45.085
-          ],
-          "category": "industrial heritage",
-          "arrive_at": "11:25",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 4.0,
-          "tip_5lang": {
-            "de": "Industrie-Denkmal.",
-            "hu": "Ipari műemlék.",
-            "ro": "Monument industrial.",
-            "en": "Industrial monument."
-          }
-        },
-        {
-          "name": {
-            "de": "Tor San Fior",
-            "hu": "San Fior kapu",
-            "ro": "Poarta San Fior",
-            "en": "San Fior Gate"
-          },
-          "coords": [
-            14.1185,
-            45.0945
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "12:20",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 2.0,
-          "tip_5lang": {
-            "de": "Steiler Anstieg zurück.",
-            "hu": "Meredek emelkedő visszafelé.",
-            "ro": "Urcare abruptă la întoarcere.",
-            "en": "Steep climb back."
-          }
-        },
-        {
-          "name": {
-            "de": "Volksmuseum",
-            "hu": "Néprajzi Múzeum",
-            "ro": "Muzeul Popular",
-            "en": "National Museum"
-          },
-          "coords": [
-            14.117,
-            45.096
-          ],
-          "category": "museums",
-          "arrive_at": "12:55",
-          "stay_min": 60,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Sicherer Abstellplatz.",
-            "hu": "Biztonságos tárolóhely.",
-            "ro": "Loc sigur de parcare.",
-            "en": "Safe parking spot."
-          }
-        },
-        {
-          "name": {
-            "de": "Fortica",
-            "hu": "Fortica",
-            "ro": "Fortica",
-            "en": "Fortica"
-          },
-          "coords": [
-            14.1155,
-            45.094
-          ],
-          "category": "natural features",
-          "arrive_at": "14:05",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Blick zum Abschluss.",
-            "hu": "Kilátás befejezésül.",
-            "ro": "Vedere la final.",
-            "en": "View at the end."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Labin mit dem Fahrrad zu erkunden bietet eine perfekte Mischung aus Natur und Geschichte. Die Tour beginnt auf dem Altstadtplatz und führt zunächst flach hinaus zum Skulpturenpark Dubrova, einem beeindruckenden Freilichtmuseum.\n\nMittags geht es zurück Richtung Zentrum und hinab nach Podlabin. Die Fahrt vorbei an den alten Bergwerksanlagen ist spektakulär und zeigt die Dimensionen der einstigen Industrie. Der massive Soso-Turm ist ein ideales Fotomotiv.\n\nDer Nachmittag erfordert etwas Kondition für den Anstieg zurück in die Oberstadt. Nach einer Pause am Tor San Fior und einem Museumsbesuch haben Sie sich die Abkühlung in den historischen Mauern verdient.\n\nDie Tour endet am Aussichtspunkt Fortica. Mit dem Fahrrad sind Sie schnell an diesem Logenplatz über der Adria, um den Blick in aller Ruhe zu genießen.",
-        "hu": "Labin felfedezése kerékpárral a természet és a történelem tökéletes keverékét nyújtja. A túra az óváros téren indul, majd először sík terepen vezet ki a Dubrova szoborparkhoz, amely egy lenyűgöző szabadtéri múzeum.\n\nDélben visszafordulunk a központ felé és leereszkedünk Podlabinba. A régi bányák mentén vezető út látványos, és megmutatja az egykori ipar méreteit. A masszív Soso-torony ideális fotótéma.\n\nA délután némi kondíciót igényel a felsővárosba való visszakapaszkodáshoz. A San Fior kapunál tartott pihenő és egy múzeumlátogatás után megérdemli a felfrissülést a történelmi falak között.\n\nA túra a Fortica kilátónál zárul. Bringával gyorsan elérheti ezt a páholyhelyet az Adria felett, hogy nyugodtan élvezhesse a panorámát.",
-        "ro": "Explorarea orașului Labin cu bicicleta oferă un amestec perfect de natură și istorie. Turul începe în piața orașului vechi și duce mai întâi pe un teren plat spre parcul de sculptură Dubrova, un muzeu în aer liber impresionant.\n\nLa prânz vă întoarceți spre centru și coborâți spre Podlabin. Drumul pe lângă vechile instalații miniere este spectaculos și arată dimensiunile industriei de odinioară. Turnul masiv Soso este un motiv fotografic ideal.\n\nDupă-amiaza necesită puțină condiție fizică pentru urcarea înapoi în orașul de sus. După o pauză la Poarta San Fior și o vizită la muzeu, ați meritat răcoarea zidurilor istorice.\n\nTurul se încheie la punctul de belvedere Fortica. Cu bicicleta ajungeți rapid în acest loc privilegiat deasupra Adriaticii, pentru a vă bucura de priveliște în liniște.",
-        "en": "Exploring Labin by bike offers a perfect blend of nature and history. The tour starts at the Old Town Square and leads first on flat terrain out to the Dubrova Sculpture Park, an impressive open-air museum.\n\nAt midday, head back towards the center and down to Podlabin. The ride past the old mining facilities is spectacular and shows the scale of the former industry. The massive Soso tower is an ideal photo motif.\n\nIn the afternoon, some fitness is required for the climb back to the upper town. After a break at the San Fior Gate and a museum visit, you've earned a refreshment within the historic walls.\n\nThe tour ends at the Fortica viewpoint. By bike, you quickly reach this prime spot over the Adriatic to enjoy the view in peace."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Caffe Bar Labin",
-            "tip": "Kalte Getränke für Sportler."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Caffe Bar Labin",
-            "tip": "Hideg italok sportolóknak."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Caffe Bar Labin",
-            "tip": "Băuturi reci pentru sportivi."
-          }
-        ],
-        "en": [
-          {
-            "name": "Caffe Bar Labin",
-            "tip": "Cold drinks for athletes."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Pinienwald Dubrova",
-            "tip": "Schattiger Rastplatz.",
-            "emoji": "🌲"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Dubrovai fenyőerdő",
-            "tip": "Árnyas pihenőhely.",
-            "emoji": "🌲"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Pădurea de pini Dubrova",
-            "tip": "Loc de odihnă umbros.",
-            "emoji": "🌲"
-          }
-        ],
-        "en": [
-          {
-            "name": "Dubrova Pine Forest",
-            "tip": "Shady rest area.",
-            "emoji": "🌲"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Markt Labin",
-            "tip": "Frisches Obst für unterwegs."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Labini piac",
-            "tip": "Friss gyümölcs az útra."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Piața Labin",
-            "tip": "Fructe proaspete pentru drum."
-          }
-        ],
-        "en": [
-          {
-            "name": "Labin Market",
-            "tip": "Fresh fruit for the way."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Mountainbike oder E-Bike empfohlen wegen der Steigungen.",
-          "Achten Sie auf den Verkehr in Podlabin."
-        ],
-        "hu": [
-          "Hegyi kerékpár vagy e-bike ajánlott az emelkedők miatt.",
-          "Ügyeljen a forgalomra Podlabinban."
-        ],
-        "ro": [
-          "Se recomandă mountain bike sau e-bike din cauza pantelor.",
-          "Atenție la trafic în Podlabin."
-        ],
-        "en": [
-          "Mountain bike or e-bike recommended due to the climbs.",
-          "Watch out for traffic in Podlabin."
-        ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Labin mit dem Fahrrad zu erkunden bietet eine perfekte Mischung aus Natur und Geschichte. Die Tour beginnt auf dem Altstadtplatz und führt zunächst flach hinaus zum Skulpturenpark Dubrova, einem beeindruckenden Freilichtmuseum.\n\nMittags geht es zurück Richtung Zentrum und hinab nach Podlabin. Die Fahrt vorbei an den alten Bergwerksanlagen ist spektakulär und zeigt die Dimensionen der einstigen Industrie. Der massive Soso-Turm ist ein ideales Fotomotiv.\n\nDer Nachmittag erfordert etwas Kondition für den Anstieg zurück in die Oberstadt. Nach einer Pause am Tor San Fior und einem Museumsbesuch haben Sie sich die Abkühlung in den historischen Mauern verdient.\n\nDie Tour endet am Aussichtspunkt Fortica. Mit dem Fahrrad sind Sie schnell an diesem Logenplatz über der Adria, um den Blick in aller Ruhe zu genießen.",
-            "hu": "Labin felfedezése kerékpárral a természet és a történelem tökéletes keverékét nyújtja. A túra az óváros téren indul, majd először sík terepen vezet ki a Dubrova szoborparkhoz, amely egy lenyűgöző szabadtéri múzeum.\n\nDélben visszafordulunk a központ felé és leereszkedünk Podlabinba. A régi bányák mentén vezető út látványos, és megmutatja az egykori ipar méreteit. A masszív Soso-torony ideális fotótéma.\n\nA délután némi kondíciót igényel a felsővárosba való visszakapaszkodáshoz. A San Fior kapunál tartott pihenő és egy múzeumlátogatás után megérdemli a felfrissülést a történelmi falak között.\n\nA túra a Fortica kilátónál zárul. Bringával gyorsan elérheti ezt a páholyhelyet az Adria felett, hogy nyugodtan élvezhesse a panorámát.",
-            "ro": "Explorarea orașului Labin cu bicicleta oferă un amestec perfect de natură și istorie. Turul începe în piața orașului vechi și duce mai întâi pe un teren plat spre parcul de sculptură Dubrova, un muzeu în aer liber impresionant.\n\nLa prânz vă întoarceți spre centru și coborâți spre Podlabin. Drumul pe lângă vechile instalații miniere este spectaculos și arată dimensiunile industriei de odinioară. Turnul masiv Soso este un motiv fotografic ideal.\n\nDupă-amiaza necesită puțină condiție fizică pentru urcarea înapoi în orașul de sus. După o pauză la Poarta San Fior și o vizită la muzeu, ați meritat răcoarea zidurilor istorice.\n\nTurul se încheie la punctul de belvedere Fortica. Cu bicicleta ajungeți rapid în acest loc privilegiat deasupra Adriaticii, pentru a vă bucura de priveliște în liniște.",
-            "en": "Exploring Labin by bike offers a perfect blend of nature and history. The tour starts at the Old Town Square and leads first on flat terrain out to the Dubrova Sculpture Park, an impressive open-air museum.\n\nAt midday, head back towards the center and down to Podlabin. The ride past the old mining facilities is spectacular and shows the scale of the former industry. The massive Soso tower is an ideal photo motif.\n\nIn the afternoon, some fitness is required for the climb back to the upper town. After a break at the San Fior Gate and a museum visit, you've earned a refreshment within the historic walls.\n\nThe tour ends at the Fortica viewpoint. By bike, you quickly reach this prime spot over the Adriatic to enjoy the view in peace."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Altstadtplatz",
-                "hu": "Óváros tér",
-                "ro": "Piața orașului vechi",
-                "en": "Old Town Square"
-              },
-              "tip_5lang": {
-                "de": "Zentraler Start.",
-                "hu": "Központi indulás.",
-                "ro": "Start central.",
-                "en": "Central start."
-              }
-            },
-            {
-              "name": {
-                "de": "Dubrova Skulpturenpark",
-                "hu": "Dubrova szoborpark",
-                "ro": "Parcul Dubrova",
-                "en": "Dubrova Sculpture Park"
-              },
-              "tip_5lang": {
-                "de": "Viel Platz zum Radeln zwischen den Statuen.",
-                "hu": "Sok hely a bringázáshoz a szobrok között.",
-                "ro": "Mult spațiu pentru bicicletă printre statui.",
-                "en": "Lots of space for cycling between the statues."
-              }
-            },
-            {
-              "name": {
-                "de": "Podlabin Soso Turm",
-                "hu": "Podlabin Soso torony",
-                "ro": "Turnul Soso Podlabin",
-                "en": "Podlabin Soso Tower"
-              },
-              "tip_5lang": {
-                "de": "Industrie-Denkmal.",
-                "hu": "Ipari műemlék.",
-                "ro": "Monument industrial.",
-                "en": "Industrial monument."
-              }
-            },
-            {
-              "name": {
-                "de": "Tor San Fior",
-                "hu": "San Fior kapu",
-                "ro": "Poarta San Fior",
-                "en": "San Fior Gate"
-              },
-              "tip_5lang": {
-                "de": "Steiler Anstieg zurück.",
-                "hu": "Meredek emelkedő visszafelé.",
-                "ro": "Urcare abruptă la întoarcere.",
-                "en": "Steep climb back."
-              }
-            },
-            {
-              "name": {
-                "de": "Volksmuseum",
-                "hu": "Néprajzi Múzeum",
-                "ro": "Muzeul Popular",
-                "en": "National Museum"
-              },
-              "tip_5lang": {
-                "de": "Sicherer Abstellplatz.",
-                "hu": "Biztonságos tárolóhely.",
-                "ro": "Loc sigur de parcare.",
-                "en": "Safe parking spot."
-              }
-            },
-            {
-              "name": {
-                "de": "Fortica",
-                "hu": "Fortica",
-                "ro": "Fortica",
-                "en": "Fortica"
-              },
-              "tip_5lang": {
-                "de": "Blick zum Abschluss.",
-                "hu": "Kilátás befejezésül.",
-                "ro": "Vedere la final.",
-                "en": "View at the end."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Caffe Bar Labin",
-                "tip": "Kalte Getränke für Sportler."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Caffe Bar Labin",
-                "tip": "Hideg italok sportolóknak."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Caffe Bar Labin",
-                "tip": "Băuturi reci pentru sportivi."
-              }
-            ],
-            "en": [
-              {
-                "name": "Caffe Bar Labin",
-                "tip": "Cold drinks for athletes."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Pinienwald Dubrova",
-                "tip": "Schattiger Rastplatz.",
-                "emoji": "🌲"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Dubrovai fenyőerdő",
-                "tip": "Árnyas pihenőhely.",
-                "emoji": "🌲"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Pădurea de pini Dubrova",
-                "tip": "Loc de odihnă umbros.",
-                "emoji": "🌲"
-              }
-            ],
-            "en": [
-              {
-                "name": "Dubrova Pine Forest",
-                "tip": "Shady rest area.",
-                "emoji": "🌲"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Markt Labin",
-                "tip": "Frisches Obst für unterwegs."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Labini piac",
-                "tip": "Friss gyümölcs az útra."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Piața Labin",
-                "tip": "Fructe proaspete pentru drum."
-              }
-            ],
-            "en": [
-              {
-                "name": "Labin Market",
-                "tip": "Fresh fruit for the way."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Mountainbike oder E-Bike empfohlen wegen der Steigungen.",
-              "Achten Sie auf den Verkehr in Podlabin."
-            ],
-            "hu": [
-              "Hegyi kerékpár vagy e-bike ajánlott az emelkedők miatt.",
-              "Ügyeljen a forgalomra Podlabinban."
-            ],
-            "ro": [
-              "Se recomandă mountain bike sau e-bike din cauza pantelor.",
-              "Atenție la trafic în Podlabin."
-            ],
-            "en": [
-              "Mountain bike or e-bike recommended due to the climbs.",
-              "Watch out for traffic in Podlabin."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Starten Sie vorsichtig am regnerischen Altstadtplatz. Die Fahrt zum Dubrova Skulpturenpark führt über nasse Straßen, daher ist Vorsicht geboten. Im Park glänzen die Steinskulpturen im Regen und wirken fast lebendig. Mittags erreichen Sie den Soso-Turm in Podlabin, wo Sie kurz unterdachen können. Nachmittags geht es zurück zum San Fior Tor und zum Museum, um den Rest des Tages im Trockenen zu verbringen. Die Fortica bietet einen dramatischen Abschluss mit Blick auf die stürmische Adria, bevor Sie Ihre Tour beenden.",
-            "hu": "Induljon óvatosan az esős óvárosi térről. A Dubrova Szoborparkba vezető út vizes aszfalton halad, ezért figyeljen a féktávra. A parkban a kőszobrok csillognak az esőben, szinte életre kelnek. Délben éri el a podlabini Soso-tornyot, ahol rövid menedéket találhat. Délután tekerjen vissza a San Fior kapuhoz és a múzeumba, hogy a nap hátralévő részét szárazon töltse. A Fortica drámai zárást kínál kilátással a viharos Adriára, mielőtt befejezné a túrát.",
-            "ro": "Porniți cu prudență din piața centrală pe ploaie. Drumul către Parcul de Sculpturi Dubrova este pe asfalt ud, deci atenție la frânare. În parc, sculpturile de piatră strălucesc sub ploaie, părând aproape vii. La prânz ajungeți la Turnul Soso din Podlabin, unde puteți găsi un scurt adăpost. După-amiaza, pedalați înapoi spre Poarta San Fior și muzeu pentru a rămâne uscat. Fortica oferă un final dramatic cu vedere spre marea agitată înainte de a încheia turul.",
-            "en": "Start cautiously from the rainy Old Town Square. The ride to Dubrova Sculpture Park follows wet roads, so mind your braking distance. In the park, stone sculptures glisten in the rain, looking almost alive. At noon, you reach the Soso Tower in Podlabin, where you can find brief shelter. In the afternoon, cycle back to San Fior Gate and the museum to spend the rest of the day dry. Fortica offers a dramatic finale with views of the stormy Adriatic before finishing your tour."
-          },
-          "stops": [
-            {
-              "name": "Old Town Square",
-              "tip_5lang": {
-                "de": "Vermeiden Sie beim Anfahren die glatten Metallgitter auf dem Boden.",
-                "hu": "Induláskor kerülje a csúszós fémrácsokat az úton.",
-                "ro": "Evitați grătarele metalice alunecoase de pe drum la plecare.",
-                "en": "Avoid slippery metal grates on the ground when starting off."
-              }
-            },
-            {
-              "name": "Dubrova Sculpture Park",
-              "tip_5lang": {
-                "de": "Die Wege können matschig sein, bleiben Sie auf den befestigten Pfaden.",
-                "hu": "Az utak sárosak lehetnek, maradjon a kikövezett ösvényeken.",
-                "ro": "Potecile pot fi noroioase, rămâneți pe căile pavate.",
-                "en": "Paths can be muddy; try to stay on the paved sections."
-              }
-            },
-            {
-              "name": "Podlabin Soso Tower",
-              "tip_5lang": {
-                "de": "Nutzen Sie die Industriegebäude für eine kurze Pause im Trockenen.",
-                "hu": "Használja az ipari épületeket egy rövid száraz pihenőre.",
-                "ro": "Folosiți clădirile industriale pentru o scurtă pauză la uscat.",
-                "en": "Use the industrial buildings for a quick break in the dry."
-              }
-            },
-            {
-              "name": "San Fior Gate",
-              "tip_5lang": {
-                "de": "Fahren Sie im Schritttempo durch das Tor, um Rutschen zu vermeiden.",
-                "hu": "Hajtson sétatempóban a kapun keresztül a megcsúszás elkerülésére.",
-                "ro": "Pedalați la pas prin poartă pentru a evita alunecarea.",
-                "en": "Ride at walking pace through the gate to avoid sliding."
-              }
-            },
-            {
-              "name": "National Museum",
-              "tip_5lang": {
-                "de": "Sicherer Abstellplatz für Fahrräder in der Nähe vorhanden.",
-                "hu": "Biztonságos kerékpártároló található a közelben.",
-                "ro": "Loc sigur de parcare pentru biciclete disponibil în apropiere.",
-                "en": "Secure bike parking is available nearby."
-              }
-            },
-            {
-              "name": "Fortica",
-              "tip_5lang": {
-                "de": "Vorsicht vor starken Böen, die Ihr Gleichgewicht stören könnten.",
-                "hu": "Vigyázzon az erős széllökésekkel, amik megzavarhatják az egyensúlyát.",
-                "ro": "Atenție la rafalele puternice care vă pot afecta echilibrul.",
-                "en": "Watch out for strong gusts that could affect your balance."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Vergewissern Sie sich, dass Ihre Bremsen bei Nässe einwandfrei funktionieren.",
-              "Schutzbleche am Fahrrad sind bei diesem Wetter unerlässlich.",
-              "Tragen Sie auffällige, reflektierende Regenkleidung für bessere Sichtbarkeit.",
-              "Die Abfahrt von Labin nach Podlabin ist bei Regen besonders rutschig."
-            ],
-            "hu": [
-              "Győződjön meg róla, hogy a fékek megfelelően fognak vizes időben.",
-              "A sárvédő használata elengedhetetlen ilyen időjárás mellett.",
-              "Viseljen feltűnő, fényvisszaverő esőruházatot a láthatóságért.",
-              "A Labinból Podlabinba vezető lejtő vizesen nagyon csúszós."
-            ],
-            "ro": [
-              "Asigurați-vă că frânele funcționează corect pe timp de ploaie.",
-              "Apărătorile de noroi la bicicletă sunt esențiale pe această vreme.",
-              "Purtați haine de ploaie reflectorizante pentru o mai bună vizibilitate.",
-              "Coborârea de la Labin la Podlabin este foarte alunecoasă pe ploaie."
-            ],
-            "en": [
-              "Ensure your brakes are functioning perfectly for wet conditions.",
-              "Mudguards on your bike are essential in this weather.",
-              "Wear bright, reflective rain gear for better visibility.",
-              "The descent from Labin to Podlabin is particularly slippery when wet."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein frischer Start am Old Town Square bei klarem Wintermorgen. Die Fahrt zum Dubrova Skulpturenpark belebt durch die kalte Luft. Mittags erreichen Sie Podlabin, wo das industrielle Erbe unter dem Winterhimmel beeindruckend wirkt. Der Aufstieg zurück zur Altstadt wärmt Sie auf, bevor Sie das Museum besuchen. Die Fortica ist der Höhepunkt am Nachmittag, ideal um das klare Panorama zu genießen, bevor es dunkel wird. Beenden Sie Ihre Tour rechtzeitig vor dem Temperaturabfall am Abend.",
-            "hu": "Friss indulás az óvárosi téren egy tiszta téli reggelen. A Dubrova Szoborparkba vezető út élénkítő a hideg levegőben. Délben éri el Podlabint, ahol az ipari örökség lenyűgözően fest a téli égbolt alatt. A visszaút az óvárosba segít felmelegedni a múzeumlátogatás előtt. A Fortica a délután fénypontja, ideális a tiszta panoráma élvezetéhez, mielőtt besötétedik. Fejezze be a túrát időben, még az esti lehűlés előtt.",
-            "ro": "Un început proaspăt în piața centrală într-o dimineață senină de iarnă. Drumul spre parcul Dubrova este revigorant în aerul rece. La prânz ajungeți în Podlabin, unde moștenirea industrială arată impresionant sub cerul de iarnă. Urcarea înapoi spre orașul vechi vă va încălzi înainte de vizita la muzeu. Fortica este punctul culminant al după-amiezii, ideal pentru a admira panorama clară înainte de lăsarea întunericului. Încheiați turul la timp, înainte de scăderea temperaturii de seară.",
-            "en": "A fresh start at Old Town Square on a clear winter morning. The ride to Dubrova Sculpture Park is invigorating in the cold air. At noon, you reach Podlabin, where the industrial heritage looks impressive under the winter sky. The climb back to the Old Town warms you up before visiting the museum. Fortica is the afternoon highlight, ideal for enjoying the clear panorama before it gets dark. Finish your tour in time, before the evening temperature drop."
-          },
-          "stops": [
-            {
-              "name": "Old Town Square",
-              "tip_5lang": {
-                "de": "Kaltstart: Machen Sie ein paar Aufwärmübungen, bevor Sie losfahren.",
-                "hu": "Hidegindítás: végezzen pár bemelegítő gyakorlatot indulás előtt.",
-                "ro": "Start la rece: faceți câteva exerciții de încălzire înainte de plecare.",
-                "en": "Cold start: do a few warm-up exercises before you head out."
-              }
-            },
-            {
-              "name": "Dubrova Sculpture Park",
-              "tip_5lang": {
-                "de": "Achten Sie auf Raureif an schattigen Stellen der Wege.",
-                "hu": "Ügyeljen a dérre az utak árnyékosabb részein.",
-                "ro": "Atenție la chiciură pe porțiunile umbrite ale drumului.",
-                "en": "Watch out for frost on shaded sections of the paths."
-              }
-            },
-            {
-              "name": "Podlabin Soso Tower",
-              "tip_5lang": {
-                "de": "Die offene Struktur bietet wenig Schutz vor dem kalten Wind.",
-                "hu": "A nyitott szerkezet kevés védelmet nyújt a hideg szél ellen.",
-                "ro": "Structura deschisă oferă puțină protecție împotriva vântului rece.",
-                "en": "The open structure offers little protection from the cold wind."
-              }
-            },
-            {
-              "name": "San Fior Gate",
-              "tip_5lang": {
-                "de": "Bei tiefstehender Wintersonne kann die Sicht geblendet sein.",
-                "hu": "Az alacsonyan járó téli nap elvakíthatja vezetés közben.",
-                "ro": "Soarele jos de iarnă vă poate orbi în timp ce pedalați.",
-                "en": "The low winter sun can cause glare while riding."
-              }
-            },
-            {
-              "name": "National Museum",
-              "tip_5lang": {
-                "de": "Nutzen Sie den Besuch, um Ihre Hände und Füße aufzuwärmen.",
-                "hu": "Használja ki a látogatást a kezei és lábai felmelegítésére.",
-                "ro": "Folosiți vizita pentru a vă încălzi mâinile și picioarele.",
-                "en": "Use the visit to warm up your hands and feet."
-              }
-            },
-            {
-              "name": "Fortica",
-              "tip_5lang": {
-                "de": "Beste Zeit für Fotos ist 15:30 Uhr, kurz vor dem Sonnenuntergang.",
-                "hu": "A legjobb idő a fotózásra 15:30 körül van, röviddel naplemente előtt.",
-                "ro": "Cel mai bun moment pentru poze este 15:30, înainte de apus.",
-                "en": "Best time for photos is 3:30 PM, shortly before sunset."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Tragen Sie Thermohandschuhe und Überschuhe gegen die Kälte.",
-              "Trinken Sie zwischendurch warme Getränke aus einer Thermoskanne.",
-              "Überprüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
-              "Planen Sie Ihre Rückkehr für spätestens 16:30 Uhr ein."
-            ],
-            "hu": [
-              "Viseljen termokesztyűt és kamáslit a hideg ellen.",
-              "Igyon időnként meleg italt termoszból a testhő megőrzéséért.",
-              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet.",
-              "Tervezze a visszaérkezést legkésőbb 16:30-ra."
-            ],
-            "ro": [
-              "Purtați mănuși termice și protecții pentru pantofi împotriva frigului.",
-              "Beți ocazional băuturi calde dintr-un termos.",
-              "Verificați presiunea în pneuri, deoarece aceasta scade la frig.",
-              "Planificați întoarcerea cel târziu pentru ora 16:30."
-            ],
-            "en": [
-              "Wear thermal gloves and shoe covers to combat the cold.",
-              "Drink warm beverages from a thermos to maintain body heat.",
-              "Check your tire pressure, as it can drop in cold temperatures.",
-              "Plan your return for no later than 4:30 PM."
-            ]
-          }
-        }
       }
     },
     "car": {
       "mode": "car",
-      "speed_kmh": 22,
+      "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 18.0,
-      "stop_count": 6,
+      "total_km": 12.5,
+      "stop_count": 8,
       "stops": [
-        {
-          "name": {
-            "de": "Labin Altstadt",
-            "hu": "Labin óvárosa",
-            "ro": "Orașul vechi Labin",
-            "en": "Labin Old Town"
-          },
-          "coords": [
-            14.1175,
-            45.095
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Parkplatz Titov Trg nutzen.",
-            "hu": "Használja a Titov Trg parkolót.",
-            "ro": "Folosiți parcarea Titov Trg.",
-            "en": "Use Titov Trg parking lot."
-          }
-        },
-        {
-          "name": {
-            "de": "Volksmuseum",
-            "hu": "Néprajzi Múzeum",
-            "ro": "Muzeul Popular",
-            "en": "National Museum"
-          },
-          "coords": [
-            14.117,
-            45.096
-          ],
-          "category": "museums",
-          "arrive_at": "10:05",
-          "stay_min": 75,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Bergwerk erleben.",
-            "hu": "Élje át a bányát.",
-            "ro": "Experimentați mina.",
-            "en": "Experience the mine."
-          }
-        },
-        {
-          "name": {
-            "de": "Podlabin Soso",
-            "hu": "Podlabin Soso",
-            "ro": "Podlabin Soso",
-            "en": "Podlabin Soso"
-          },
-          "coords": [
-            14.125,
-            45.085
-          ],
-          "category": "industrial heritage",
-          "arrive_at": "11:35",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Einfaches Parken am Turm.",
-            "hu": "Egyszerű parkolás a toronynál.",
-            "ro": "Parcare ușoară la turn.",
-            "en": "Easy parking at the tower."
-          }
-        },
-        {
-          "name": {
-            "de": "Rabac Strand",
-            "hu": "Rabac strand",
-            "ro": "Plaja Rabac",
-            "en": "Rabac Beach"
-          },
-          "coords": [
-            14.16,
-            45.075
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "12:35",
-          "stay_min": 120,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 5.0,
-          "tip_5lang": {
-            "de": "Kristallklares Wasser.",
-            "hu": "Kristálytiszta víz.",
-            "ro": "Apă de cristal.",
-            "en": "Crystal clear water."
-          }
-        },
         {
           "name": {
             "de": "Skulpturenpark Dubrova",
             "hu": "Dubrova szoborpark",
-            "ro": "Parcul Dubrova",
-            "en": "Dubrova Sculpture Park"
+            "ro": "Parcul de Sculptură Dubrova",
+            "en": "Sculpture Park Dubrova"
           },
           "coords": [
-            14.14,
-            45.115
+            14.115,
+            45.108
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "14:55",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 8.0,
-          "tip_5lang": {
-            "de": "Spaziergang zum Abschluss.",
-            "hu": "Séta befejezésül.",
-            "ro": "Plimbare la final.",
-            "en": "Walk at the end."
-          }
-        },
-        {
-          "name": {
-            "de": "Fortica",
-            "hu": "Fortica",
-            "ro": "Fortica",
-            "en": "Fortica"
-          },
-          "coords": [
-            14.1155,
-            45.094
-          ],
-          "category": "natural features",
-          "arrive_at": "16:10",
-          "stay_min": 30,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 4.0,
-          "tip_5lang": {
-            "de": "Letzter Blick.",
-            "hu": "Utolsó pillantás.",
-            "ro": "Ultima privire.",
-            "en": "Last look."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Mit dem Auto verbinden Sie das historische Labin bequem mit der Küste. Der Tag beginnt in der Altstadt mit einem Spaziergang über den Hauptplatz und dem Besuch des Bergwerksmuseums, das ein Muss für jeden Besucher ist.\n\nMittags führt die kurze Fahrt hinunter nach Podlabin zum Soso-Turm und danach direkt nach Rabac. Nutzen Sie die Zeit für ein Bad in der Adria oder einen Lunch am Meer, wo die tsunamiblauen Buchten auf weiße Kieselstrände treffen.\n\nNachmittags geht es wieder hinauf. Der Skulpturenpark Dubrova bietet eine wunderbare Kulisse für einen entspannten Spaziergang zwischen moderner Steinkunst, bevor Sie die letzten Kilometer zurück ins Zentrum fahren.\n\nDer Tag endet klassisch am Fortica Aussichtspunkt. Von hier aus können Sie die gesamte Route noch einmal überblicken, während die Abendsonne die Landschaft verzaubert.",
-        "hu": "Autóval kényelmesen összekötheti a történelmi Labint a tengerparttal. A nap az óvárosban kezdődik egy sétával a főtéren és a bányamúzeum meglátogatásával, amely minden látogató számára kötelező.\n\nDélben az út levezet Podlabinba a Soso-toronyhoz, majd közvetlenül Rabacba. Használja ki az időt egy fürdőzésre az Adriában vagy egy ebédre a tengerparton, ahol a türkizkék öblök fehér kavicsos strandokkal találkoznak.\n\nDélután ismét felfelé vesszük az irányt. A Dubrova szoborpark csodálatos helyszínt biztosít egy pihentető sétához a modern kőművészet remekei között, mielőtt megtenné az utolsó kilométereket a központ felé.\n\nA nap klasszikusan a Fortica kilátónál ér véget. Innen ismét beláthatja az egész útvonalat, miközben az esti nap fénye elvarázsolja a tájat.",
-        "ro": "Cu mașina, conectați confortabil Labinul istoric cu coasta. Ziua începe în orașul vechi cu o plimbare prin piața principală și vizitarea muzeului mineritului, care este o necesitate pentru orice vizitator.\n\nLa prânz, drumul scurt duce jos la Podlabin, la turnul Soso, și apoi direct la Rabac. Profită de timp pentru o baie în Adria sau un prânz la malul mării, unde golfurile turcoaz întâlnesc plajele cu pietriș alb.\n\nDupă-amiaza urcați din nou. Parcul de sculptură Dubrova oferă un cadru minunat pentru o plimbare relaxată printre operele de artă modernă în piatră, înainte de a parcurge ultimii kilometri înapoi spre centru.\n\nZiua se încheie clasic la punctul de belvedere Fortica. De aici puteți vedea din nou întregul traseu, în timp ce soarele de seară vrăjește peisajul.",
-        "en": "By car, you can comfortably connect historic Labin with the coast. The day starts in the old town with a walk across the main square and a visit to the mining museum, which is a must for every visitor.\n\nAt midday, the short drive leads down to Podlabin to the Soso tower and then directly to Rabac. Use the time for a swim in the Adriatic or lunch by the sea, where turquoise bays meet white pebble beaches.\n\nIn the afternoon, head back up. The Dubrova Sculpture Park offers a wonderful setting for a relaxed walk among modern stone art before driving the last few miles back to the center.\n\nThe day ends classically at the Fortica viewpoint. From here, you can overlook the entire route once more while the evening sun enchants the landscape."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Restaurant Nostromo",
-            "tip": "Beste Fischgerichte in Rabac."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Nostromo Étterem",
-            "tip": "Legjobb halételek Rabacban."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Restaurantul Nostromo",
-            "tip": "Cele mai bune preparate din pește din Rabac."
-          }
-        ],
-        "en": [
-          {
-            "name": "Nostromo Restaurant",
-            "tip": "Best fish dishes in Rabac."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Rabac Bucht",
-            "tip": "Meeresrauschen genießen.",
-            "emoji": "🌊"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Rabaci öböl",
-            "tip": "Élvezze a tenger morajlását.",
-            "emoji": "🌊"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Golful Rabac",
-            "tip": "Bucurați-vă de sunetul mării.",
-            "emoji": "🌊"
-          }
-        ],
-        "en": [
-          {
-            "name": "Rabac Bay",
-            "tip": "Enjoy the sound of the waves.",
-            "emoji": "🌊"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Souvenirshop Rabac",
-            "tip": "Lokale Weine und Geister."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Rabaci ajándékbolt",
-            "tip": "Helyi borok és párlatok."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Magazin suveniruri Rabac",
-            "tip": "Vinuri și spirtoase locale."
-          }
-        ],
-        "en": [
-          {
-            "name": "Rabac Souvenir Shop",
-            "tip": "Local wines and spirits."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "In der Hochsaison ist das Parken in Rabac schwierig, nutzen Sie Parkhäuser.",
-          "Die Fahrt zwischen Labin und Rabac ist steil."
-        ],
-        "hu": [
-          "Főszezonban nehéz a parkolás Rabacban, használjon parkolóházakat.",
-          "Az út Labin és Rabac között meredek."
-        ],
-        "ro": [
-          "În plin sezon parcarea în Rabac este dificilă, folosiți parcările etajate.",
-          "Drumul între Labin și Rabac este abrupt."
-        ],
-        "en": [
-          "In high season, parking in Rabac is difficult, use parking garages.",
-          "The drive between Labin and Rabac is steep."
-        ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Mit dem Auto verbinden Sie das historische Labin bequem mit der Küste. Der Tag beginnt in der Altstadt mit einem Spaziergang über den Hauptplatz und dem Besuch des Bergwerksmuseums, das ein Muss für jeden Besucher ist.\n\nMittags führt die kurze Fahrt hinunter nach Podlabin zum Soso-Turm und danach direkt nach Rabac. Nutzen Sie die Zeit für ein Bad in der Adria oder einen Lunch am Meer, wo die tsunamiblauen Buchten auf weiße Kieselstrände treffen.\n\nNachmittags geht es wieder hinauf. Der Skulpturenpark Dubrova bietet eine wunderbare Kulisse für einen entspannten Spaziergang zwischen moderner Steinkunst, bevor Sie die letzten Kilometer zurück ins Zentrum fahren.\n\nDer Tag endet klassisch am Fortica Aussichtspunkt. Von hier aus können Sie die gesamte Route noch einmal überblicken, während die Abendsonne die Landschaft verzaubert.",
-            "hu": "Autóval kényelmesen összekötheti a történelmi Labint a tengerparttal. A nap az óvárosban kezdődik egy sétával a főtéren és a bányamúzeum meglátogatásával, amely minden látogató számára kötelező.\n\nDélben az út levezet Podlabinba a Soso-toronyhoz, majd közvetlenül Rabacba. Használja ki az időt egy fürdőzésre az Adriában vagy egy ebédre a tengerparton, ahol a türkizkék öblök fehér kavicsos strandokkal találkoznak.\n\nDélután ismét felfelé vesszük az irányt. A Dubrova szoborpark csodálatos helyszínt biztosít egy pihentető sétához a modern kőművészet remekei között, mielőtt megtenné az utolsó kilométereket a központ felé.\n\nA nap klasszikusan a Fortica kilátónál ér véget. Innen ismét beláthatja az egész útvonalat, miközben az esti nap fénye elvarázsolja a tájat.",
-            "ro": "Cu mașina, conectați confortabil Labinul istoric cu coasta. Ziua începe în orașul vechi cu o plimbare prin piața principală și vizitarea muzeului mineritului, care este o necesitate pentru orice vizitator.\n\nLa prânz, drumul scurt duce jos la Podlabin, la turnul Soso, și apoi direct la Rabac. Profită de timp pentru o baie în Adria sau un prânz la malul mării, unde golfurile turcoaz întâlnesc plajele cu pietriș alb.\n\nDupă-amiaza urcați din nou. Parcul de sculptură Dubrova oferă un cadru minunat pentru o plimbare relaxată printre operele de artă modernă în piatră, înainte de a parcurge ultimii kilometri înapoi spre centru.\n\nZiua se încheie clasic la punctul de belvedere Fortica. De aici puteți vedea din nou întregul traseu, în timp ce soarele de seară vrăjește peisajul.",
-            "en": "By car, you can comfortably connect historic Labin with the coast. The day starts in the old town with a walk across the main square and a visit to the mining museum, which is a must for every visitor.\n\nAt midday, the short drive leads down to Podlabin to the Soso tower and then directly to Rabac. Use the time for a swim in the Adriatic or lunch by the sea, where turquoise bays meet white pebble beaches.\n\nIn the afternoon, head back up. The Dubrova Sculpture Park offers a wonderful setting for a relaxed walk among modern stone art before driving the last few miles back to the center.\n\nThe day ends classically at the Fortica viewpoint. From here, you can overlook the entire route once more while the evening sun enchants the landscape."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Labin Altstadt",
-                "hu": "Labin óvárosa",
-                "ro": "Orașul vechi Labin",
-                "en": "Labin Old Town"
-              },
-              "tip_5lang": {
-                "de": "Parkplatz Titov Trg nutzen.",
-                "hu": "Használja a Titov Trg parkolót.",
-                "ro": "Folosiți parcarea Titov Trg.",
-                "en": "Use Titov Trg parking lot."
-              }
-            },
-            {
-              "name": {
-                "de": "Volksmuseum",
-                "hu": "Néprajzi Múzeum",
-                "ro": "Muzeul Popular",
-                "en": "National Museum"
-              },
-              "tip_5lang": {
-                "de": "Bergwerk erleben.",
-                "hu": "Élje át a bányát.",
-                "ro": "Experimentați mina.",
-                "en": "Experience the mine."
-              }
-            },
-            {
-              "name": {
-                "de": "Podlabin Soso",
-                "hu": "Podlabin Soso",
-                "ro": "Podlabin Soso",
-                "en": "Podlabin Soso"
-              },
-              "tip_5lang": {
-                "de": "Einfaches Parken am Turm.",
-                "hu": "Egyszerű parkolás a toronynál.",
-                "ro": "Parcare ușoară la turn.",
-                "en": "Easy parking at the tower."
-              }
-            },
-            {
-              "name": {
-                "de": "Rabac Strand",
-                "hu": "Rabac strand",
-                "ro": "Plaja Rabac",
-                "en": "Rabac Beach"
-              },
-              "tip_5lang": {
-                "de": "Kristallklares Wasser.",
-                "hu": "Kristálytiszta víz.",
-                "ro": "Apă de cristal.",
-                "en": "Crystal clear water."
-              }
-            },
-            {
-              "name": {
-                "de": "Skulpturenpark Dubrova",
-                "hu": "Dubrova szoborpark",
-                "ro": "Parcul Dubrova",
-                "en": "Dubrova Sculpture Park"
-              },
-              "tip_5lang": {
-                "de": "Spaziergang zum Abschluss.",
-                "hu": "Séta befejezésül.",
-                "ro": "Plimbare la final.",
-                "en": "Walk at the end."
-              }
-            },
-            {
-              "name": {
-                "de": "Fortica",
-                "hu": "Fortica",
-                "ro": "Fortica",
-                "en": "Fortica"
-              },
-              "tip_5lang": {
-                "de": "Letzter Blick.",
-                "hu": "Utolsó pillantás.",
-                "ro": "Ultima privire.",
-                "en": "Last look."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Restaurant Nostromo",
-                "tip": "Beste Fischgerichte in Rabac."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Nostromo Étterem",
-                "tip": "Legjobb halételek Rabacban."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Restaurantul Nostromo",
-                "tip": "Cele mai bune preparate din pește din Rabac."
-              }
-            ],
-            "en": [
-              {
-                "name": "Nostromo Restaurant",
-                "tip": "Best fish dishes in Rabac."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Rabac Bucht",
-                "tip": "Meeresrauschen genießen.",
-                "emoji": "🌊"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Rabaci öböl",
-                "tip": "Élvezze a tenger morajlását.",
-                "emoji": "🌊"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Golful Rabac",
-                "tip": "Bucurați-vă de sunetul mării.",
-                "emoji": "🌊"
-              }
-            ],
-            "en": [
-              {
-                "name": "Rabac Bay",
-                "tip": "Enjoy the sound of the waves.",
-                "emoji": "🌊"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Souvenirshop Rabac",
-                "tip": "Lokale Weine und Geister."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Rabaci ajándékbolt",
-                "tip": "Helyi borok és párlatok."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Magazin suveniruri Rabac",
-                "tip": "Vinuri și spirtoase locale."
-              }
-            ],
-            "en": [
-              {
-                "name": "Rabac Souvenir Shop",
-                "tip": "Local wines and spirits."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "In der Hochsaison ist das Parken in Rabac schwierig, nutzen Sie Parkhäuser.",
-              "Die Fahrt zwischen Labin und Rabac ist steil."
-            ],
-            "hu": [
-              "Főszezonban nehéz a parkolás Rabacban, használjon parkolóházakat.",
-              "Az út Labin és Rabac között meredek."
-            ],
-            "ro": [
-              "În plin sezon parcarea în Rabac este dificilă, folosiți parcările etajate.",
-              "Drumul între Labin și Rabac este abrupt."
-            ],
-            "en": [
-              "In high season, parking in Rabac is difficult, use parking garages.",
-              "The drive between Labin and Rabac is steep."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Beginnen Sie komfortabel im regnerischen Labin. Das Auto ermöglicht es Ihnen, trocken zwischen der Altstadt und dem Nationalmuseum zu wechseln. Mittags fahren Sie nach Podlabin, um das industrielle Erbe zu sehen, ohne nass zu werden. Der Höhepunkt ist die Fahrt zum Strand von Rabac, wo Sie die beeindruckende Brandung sicher vom Auto oder einem ufernahen Café aus beobachten können. Am Nachmittag besuchen Sie den Dubrova Skulpturenpark, bevor Sie zur Fortica zurückkehren, um den stürmischen Ausblick zu genießen.",
-            "hu": "Kezdje kényelmesen a napot az esős Labinban. Az autó lehetővé teszi, hogy szárazon váltson az óváros és a múzeum között. Délben hajtson Podlabinba az ipari örökség megtekintéséhez, anélkül, hogy elázna. A nap fénypontja a rabaci tengerpart, ahol a viharos hullámokat biztonságban figyelheti az autóból vagy egy parti kávézóból. Délután látogasson el a Dubrova Szoborparkba, majd térjen vissza a Forticához a drámai kilátásért.",
-            "ro": "Începeți ziua confortabil în Labinul ploios. Mașina vă permite să treceți uscat între orașul vechi și muzeu. La prânz, conduceți spre Podlabin pentru a vedea moștenirea industrială fără a vă uda. Punctul culminant este drumul spre plaja Rabac, unde puteți observa valurile impresionante în siguranță din mașină sau dintr-o cafenea de pe mal. După-amiaza vizitați parcul Dubrova, apoi reveniți la Fortica pentru vederea dramatică.",
-            "en": "Start your day comfortably in rainy Labin. The car allows you to move dry between the Old Town and the National Museum. At noon, drive to Podlabin to see the industrial heritage without getting soaked. The highlight is the trip to Rabac Beach, where you can watch the impressive surf safely from your car or a seaside cafe. In the afternoon, visit the Dubrova Sculpture Park before returning to Fortica for the stormy views."
-          },
-          "stops": [
-            {
-              "name": "Labin Old Town",
-              "tip_5lang": {
-                "de": "Parken Sie auf dem großen Platz direkt am Eingang zur Altstadt.",
-                "hu": "Parkoljon a nagy téren, közvetlenül az óváros bejáratánál.",
-                "ro": "Parcați în piața mare chiar la intrarea în orașul vechi.",
-                "en": "Park in the large square right at the entrance to the Old Town."
-              }
-            },
-            {
-              "name": "National Museum",
-              "tip_5lang": {
-                "de": "Kurze Gehwege vom Parkplatz minimieren den Kontakt mit dem Regen.",
-                "hu": "Rövid séta a parkolótól, így minimális az esővel való érintkezés.",
-                "ro": "Distanța scurtă de la parcare minimizează contactul cu ploaia.",
-                "en": "Short walking distances from the parking lot minimize rain exposure."
-              }
-            },
-            {
-              "name": "Podlabin Soso",
-              "tip_5lang": {
-                "de": "Man kann den Turm gut vom Fahrzeug aus betrachten.",
-                "hu": "A torony kényelmesen megtekinthető akár a járműből is.",
-                "ro": "Turnul poate fi observat confortabil chiar și din vehicul.",
-                "en": "The tower can be viewed comfortably even from the vehicle."
-              }
-            },
-            {
-              "name": "Rabac Beach",
-              "tip_5lang": {
-                "de": "Genießen Sie den Blick auf das Meer aus dem warmen Auto.",
-                "hu": "Élvezze a tenger látványát a meleg autóból.",
-                "ro": "Bucurați-vă de vederea mării din mașina caldă.",
-                "en": "Enjoy the view of the sea from the warmth of your car."
-              }
-            },
-            {
-              "name": "Dubrova Sculpture Park",
-              "tip_5lang": {
-                "de": "Fahren Sie langsam auf dem unbefestigten Parkplatz (Schlammgefahr).",
-                "hu": "Hajtson lassan a nem aszfaltozott parkolóban a sár miatt.",
-                "ro": "Conduceți încet în parcarea neasfaltată din cauza noroiului.",
-                "en": "Drive slowly in the unpaved parking area due to mud risk."
-              }
-            },
-            {
-              "name": "Fortica",
-              "tip_5lang": {
-                "de": "Der Parkplatz ist nah am Aussichtspunkt, ideal bei Schauern.",
-                "hu": "A parkoló közel van a kilátóhoz, ideális záporok idején.",
-                "ro": "Parcarea este aproape de punctul de observație, ideal pe ploaie.",
-                "en": "The parking is close to the viewpoint, ideal during showers."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Achten Sie auf die rutschigen Straßenverhältnisse beim Abstieg nach Rabac.",
-              "Halten Sie die Scheiben beschlagfrei für optimale Sicht.",
-              "Nutzen Sie die Parkplätze in der Nähe der Museen.",
-              "Regenschirm immer griffbereit im Auto lassen."
-            ],
-            "hu": [
-              "Figyeljen a csúszós útviszonyokra a Rabacba vezető szerpentinen.",
-              "Tartsa páramentesen a szélvédőt az optimális látási viszonyokért.",
-              "Használja a múzeumokhoz közeli parkolóhelyeket.",
-              "Az esernyőt tartsa mindig kéznél az autóban."
-            ],
-            "ro": [
-              "Atenție la condițiile de drum alunecos la coborârea spre Rabac.",
-              "Păstrați parbrizul dezaburit pentru vizibilitate optimă.",
-              "Folosiți parcările din apropierea muzeelor.",
-              "Țineți umbrela întotdeauna la îndemână în mașină."
-            ],
-            "en": [
-              "Watch out for slippery road conditions on the descent to Rabac.",
-              "Keep your windows defogged for optimal visibility.",
-              "Utilize parking spots located close to the museums.",
-              "Always keep an umbrella within reach inside the car."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Starten Sie gemütlich im winterlichen Labin. Die Heizung sorgt für eine angenehme Fahrt zwischen den historischen Orten. Nach dem Museumsbesuch in der Altstadt fahren Sie nach Podlabin, um die Industriekultur zu bewundern. Mittags geht es hinunter nach Rabac, wo der Strand im Winter leer und friedlich ist. Am Nachmittag besuchen Sie den Skulpturenpark Dubrova, bevor Sie pünktlich zum Sonnenuntergang an der Fortica eintreffen. Die Fahrt zurück bietet einen schönen Blick auf die beleuchtete Stadt unter dem klaren Winterhimmel.",
-            "hu": "Induljon kényelmesen a téli Labinban. A fűtés kellemes utazást biztosít a történelmi helyszínek között. Az óvárosi múzeumlátogatás után hajtson Podlabinba az ipari kultúra megtekintéséhez. Délben ereszkedjen le Rabacba, ahol a strand télen üres és békés. Délután látogasson el a Dubrova Szoborparkba, majd érkezzen meg a Forticához pontosan a naplementére. A visszaút szép látványt nyújt a kivilágított városra a tiszta téli égbolt alatt.",
-            "ro": "Porniți confortabil în Labinul de iarnă. Încălzirea asigură o călătorie plăcută între siturile istorice. După vizita la muzeu, conduceți spre Podlabin pentru a admira cultura industrială. La prânz, coborâți spre Rabac, unde plaja este goală și liniștită iarna. După-amiaza vizitați parcul Dubrova, apoi ajungeți la Fortica exact la apus. Drumul de întoarcere oferă o vedere frumoasă asupra orașului iluminat sub cerul senin.",
-            "en": "Start comfortably in winter Labin. The heater ensures a pleasant drive between historical sites. After the museum visit in the Old Town, drive to Podlabin to admire the industrial culture. At noon, descend to Rabac, where the beach is empty and peaceful in winter. In the afternoon, visit the Dubrova Sculpture Park, then arrive at Fortica exactly for the sunset. The drive back offers a beautiful view of the illuminated city under the clear winter sky."
-          },
-          "stops": [
-            {
-              "name": "Labin Old Town",
-              "tip_5lang": {
-                "de": "Parken Sie im Windschatten von Gebäuden, um das Auto warm zu halten.",
-                "hu": "Parkoljon az épületek szélvédett oldalán, hogy az autó meleg maradjon.",
-                "ro": "Parcați la adăpostul clădirilor pentru a menține mașina caldă.",
-                "en": "Park in the lee of buildings to keep the car warmer."
-              }
-            },
-            {
-              "name": "National Museum",
-              "tip_5lang": {
-                "de": "Das Museum ist gut beheizt und bietet eine willkommene Aufwärmpause.",
-                "hu": "A múzeum jól fűtött, kellemes felmelegedési lehetőséget kínál.",
-                "ro": "Muzeul este bine încălzit și oferă o pauză de încălzire binevenită.",
-                "en": "The museum is well-heated and offers a welcome warming break."
-              }
-            },
-            {
-              "name": "Podlabin Soso",
-              "tip_5lang": {
-                "de": "Die Parkmöglichkeiten sind im Winter direkt am Turm reichlich vorhanden.",
-                "hu": "Télen bőségesen van parkolóhely közvetlenül a toronynál.",
-                "ro": "Locurile de parcare sunt abundente iarna chiar lângă turn.",
-                "en": "Parking spots are plentiful in winter right by the tower."
-              }
-            },
-            {
-              "name": "Rabac Beach",
-              "tip_5lang": {
-                "de": "Verlassen Sie das Auto nur kurz für einen Spaziergang an der Meeresbrise.",
-                "hu": "Csak rövid időre szálljon ki egy sétára a tengeri szélben.",
-                "ro": "Ieșiți din mașină doar scurt pentru o plimbare în briza mării.",
-                "en": "Leave the car only briefly for a walk in the crisp sea breeze."
-              }
-            },
-            {
-              "name": "Dubrova Sculpture Park",
-              "tip_5lang": {
-                "de": "Die Zufahrtsstraße kann bei Frost stellenweise glatt sein.",
-                "hu": "A bekötőút fagyos időben helyenként csúszós lehet.",
-                "ro": "Drumul de acces poate fi alunecos pe alocuri în caz de îngheț.",
-                "en": "The access road can be slippery in patches if there is frost."
-              }
-            },
-            {
-              "name": "Fortica",
-              "tip_5lang": {
-                "de": "Genießen Sie den Sonnenuntergang bequem von den Parkplätzen aus.",
-                "hu": "Élvezze a naplementét kényelmesen a parkolóhelyekről.",
-                "ro": "Bucurați-vă de apus confortabil direct din parcare.",
-                "en": "Enjoy the sunset comfortably right from the parking area."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Winterreifen sind Pflicht, wenn Sie in die höheren Lagen fahren.",
-              "Frostschutzmittel in der Scheibenwaschanlage nicht vergessen.",
-              "Die Bergstraßen um Labin können im Schatten vereist sein.",
-              "Heizung im Stand nur kurz nutzen, um die Batterie zu schonen."
-            ],
-            "hu": [
-              "Téli gumi használata kötelező, ha a magasabb részekre utazik.",
-              "Ne felejtse el a fagyállót a szélvédőmosó folyadékba.",
-              "A Labin környéki hegyi utak árnyékos részei jegesek lehetnek.",
-              "Álló helyzetben csak rövid ideig használja a fűtést."
-            ],
-            "ro": [
-              "Anvelopele de iarnă sunt obligatorii dacă mergeți spre zonele înalte.",
-              "Nu uitați antigelul în lichidul de spălare a parbrizului.",
-              "Drumurile montane din jurul Labinului pot fi înghețate la umbră.",
-              "Folosiți încălzirea pe loc doar scurt pentru a proteja bateria."
-            ],
-            "en": [
-              "Winter tires are mandatory if traveling to higher elevations.",
-              "Don't forget antifreeze in your windshield washer fluid.",
-              "Mountain roads around Labin can be icy in shaded areas.",
-              "Use the heater sparingly while stationary to save battery."
-            ]
-          }
-        }
-      }
-    },
-    "transit": {
-      "mode": "transit",
-      "speed_kmh": 18,
-      "start": "09:00",
-      "end_estimate": "16:15",
-      "total_km": 12.7,
-      "stop_count": 5,
-      "stops": [
-        {
-          "name": {
-            "de": "Altstadtplatz",
-            "hu": "Óváros tér",
-            "ro": "Piața orașului vechi",
-            "en": "Old Town Square"
-          },
-          "coords": [
-            14.1175,
-            45.095
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:00",
+          "category": "park",
+          "arrive_at": "09:10",
           "stay_min": 60,
           "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Busstation Titov Trg.",
-            "hu": "Titov Trg buszmegálló.",
-            "ro": "Stația de autobuz Titov Trg.",
-            "en": "Titov Trg bus station."
+            "de": "Über 90 Steinskulpturen im Freien.",
+            "hu": "Több mint 90 kőszobor a szabad ég alatt.",
+            "ro": "Peste 90 de sculpturi în piatră în aer liber.",
+            "en": "Over 90 stone sculptures in the open air."
           }
         },
         {
           "name": {
-            "de": "Volksmuseum",
-            "hu": "Néprajzi Múzeum",
-            "ro": "Muzeul Popular",
-            "en": "National Museum"
+            "de": "Altstadt Labin (Eingang)",
+            "hu": "Labin óváros (bejárat)",
+            "ro": "Intrarea în orașul vechi Labin",
+            "en": "Labin Old Town (Entrance)"
           },
           "coords": [
-            14.117,
-            45.096
+            14.1235,
+            45.0908
           ],
-          "category": "museums",
-          "arrive_at": "10:05",
-          "stay_min": 75,
+          "category": "square",
+          "arrive_at": "10:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Stadtrundgang.",
+            "hu": "Parkoljon itt a városi sétához.",
+            "ro": "Parcați aici pentru turul orașului.",
+            "en": "Park here for the city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Labin",
+            "hu": "Labini Városi Múzeum",
+            "ro": "Muzeul Orașului Labin",
+            "en": "Labin City Museum"
+          },
+          "coords": [
+            14.1252,
+            45.0918
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 80,
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Im Zentrum.",
-            "hu": "A központban.",
-            "ro": "În centru.",
-            "en": "In the center."
+            "de": "Besichtigung des Bergbaustollens.",
+            "hu": "Bányajárat megtekintése.",
+            "ro": "Vizitarea galeriei de mină.",
+            "en": "Viewing the mining tunnel."
           }
         },
         {
           "name": {
-            "de": "Podlabin Soso Turm",
-            "hu": "Podlabin Soso torony",
-            "ro": "Turnul Soso Podlabin",
-            "en": "Podlabin Soso Tower"
+            "de": "Fortica Aussichtspunkt",
+            "hu": "Fortica kilátó",
+            "ro": "Punct de belvedere Fortica",
+            "en": "Fortica Viewpoint"
+          },
+          "coords": [
+            14.1265,
+            45.0925
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Panoramablick auf die Küste.",
+            "hu": "Panorámás kilátás a partvidékre.",
+            "ro": "Vedere panoramică asupra coastei.",
+            "en": "Panoramic view of the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Labin",
+            "hu": "Ebéd Labinban",
+            "ro": "Prânz în Labin",
+            "en": "Lunch in Labin"
           },
           "coords": [
             14.125,
-            45.085
+            45.091
           ],
-          "category": "industrial heritage",
-          "arrive_at": "11:35",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Bus hält in der Nähe.",
-            "hu": "A busz a közelben áll meg.",
-            "ro": "Autobuzul oprește în apropiere.",
-            "en": "Bus stops nearby."
+            "de": "Probieren Sie Fuži mit Trüffeln.",
+            "hu": "Kóstolja meg a szarvasgombás fuzit.",
+            "ro": "Încercați fuži cu trufe.",
+            "en": "Try fuži with truffles."
           }
         },
         {
           "name": {
-            "de": "Rabac Hafen",
-            "hu": "Rabaci kikötő",
-            "ro": "Portul Rabac",
-            "en": "Rabac Harbor"
+            "de": "Teleferika (Rabac)",
+            "hu": "Teleferika (Rabac)",
+            "ro": "Teleferika (Rabac)",
+            "en": "Teleferika (Rabac)"
           },
           "coords": [
-            14.16,
+            14.161,
             45.075
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "12:55",
-          "stay_min": 120,
+          "category": "monument",
+          "arrive_at": "14:40",
+          "stay_min": 30,
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5.0,
+          "hop_from_prev_km": 7,
           "tip_5lang": {
-            "de": "Lokaler Linienbus.",
-            "hu": "Helyi menetrend szerinti járat.",
-            "ro": "Autobuz de linie local.",
-            "en": "Local scheduled bus."
+            "de": "Ruinen einer alten Bauxit-Seilbahn.",
+            "hu": "Egy régi bauxit-kötélpálya romjai.",
+            "ro": "Ruinele unei vechi telecabine de bauxită.",
+            "en": "Ruins of an old bauxite cableway."
           }
         },
         {
           "name": {
-            "de": "Fortica",
-            "hu": "Fortica",
-            "ro": "Fortica",
-            "en": "Fortica"
+            "de": "Strand Girandella",
+            "hu": "Girandella strand",
+            "ro": "Plaja Girandella",
+            "en": "Girandella Beach"
           },
           "coords": [
-            14.1155,
-            45.094
+            14.172,
+            45.078
           ],
-          "category": "natural features",
-          "arrive_at": "15:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5.0,
+          "category": "beach",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Bus bringt Sie zurück hoch.",
-            "hu": "A busz visszaviszi a hegyre.",
-            "ro": "Autobuzul vă aduce înapoi sus.",
-            "en": "Bus takes you back up."
+            "de": "Kurze Kaffeepause am Meer.",
+            "hu": "Rövid kávészünet a tengerparton.",
+            "ro": "Scurtă pauză de cafea la malul mării.",
+            "en": "Short coffee break by the sea."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Dank der guten Busanbindung zwischen Labin und Rabac lässt sich die Region entspannt erkunden. Der Tag startet am Hauptplatz der Altstadt, von wo aus alle wichtigen Sehenswürdigkeiten wie das Volksmuseum fußläufig erreichbar sind.\n\nMittags nehmen Sie den Bus hinunter nach Podlabin. Das Bergbauerbe lässt sich hier auch ohne Auto gut erkunden, da die Wege flach sind. Danach geht es mit der nächsten Verbindung weiter hinunter ans Meer.\n\nDer Nachmittag in Rabac bietet die nötige Erholung. Ein Spaziergang am Hafen und ein Eis an der Promenade gehören dazu, bevor Sie der Bus wieder hinauf in die kühle Brise der Oberstadt bringt.\n\nZum Abschluss des Tages besuchen Sie den Fortica Aussichtspunkt, der nur wenige Gehminuten von der Bushaltestelle entfernt liegt. Ein perfekter, stressfreier Kulturtag geht zu Ende.",
-        "hu": "A Labin és Rabac közötti jó buszközlekedésnek köszönhetően a régió kényelmesen felfedezhető. A nap az óváros főterén indul, ahonnan minden fontos látnivaló, például a Néprajzi Múzeum is gyalogosan elérhető.\n\nDélben busszal utazzunk le Podlabinba. A bányászati örökség autó nélkül is jól bejárható, mivel a terep sík. Ezután a következő járattal folytassuk utunkat lefelé a tengerhez.\n\nA délután Rabacban a megérdemelt pihenésé. Egy séta a kikötőben és egy fagylalt a sétányon kötelező program, mielőtt a busz visszaviszi Önt a felsőváros hűvös szellőjébe.\n\nA nap zárásaként látogasson el a Fortica kilátóhoz, amely mindössze pár perc sétára van a buszmegállótól. Egy tökéletes, stresszmentes kulturális nap ér véget.",
-        "ro": "Datorită conexiunilor bune de autobuz între Labin și Rabac, regiunea poate fi explorată relaxat. Ziua începe în piața principală a orașului vechi, de unde toate obiectivele importante, cum ar fi Muzeul Popular, sunt accesibile pe jos.\n\nLa prânz, luați autobuzul jos spre Podlabin. Moștenirea minieră poate fi explorată bine și fără mașină, deoarece traseele sunt plane. Apoi continuați cu următoarea legătură jos la mare.\n\nDupă-amiaza în Rabac oferă relaxarea necesară. O plimbare în port și o înghețată pe faleză sunt obligatorii înainte ca autobuzul să vă aducă înapoi în briza răcoroasă a orașului de sus.\n\nLa finalul zilei, vizitați punctul de belvedere Fortica, situat la doar câteva minute de mers pe jos de stația de autobuz. O zi culturală perfectă și fără stres se încheie.",
-        "en": "Thanks to the good bus connections between Labin and Rabac, the region can be explored in a relaxed way. The day starts at the main square of the old town, from where all important sights like the National Museum are reachable on foot.\n\nAt midday, take the bus down to Podlabin. The mining heritage can be explored well without a car as the paths are flat. Then continue with the next connection down to the sea.\n\nThe afternoon in Rabac offers the necessary relaxation. A walk at the harbor and an ice cream on the promenade are part of it before the bus takes you back up to the cool breeze of the upper town.\n\nAt the end of the day, visit the Fortica viewpoint, which is only a few minutes' walk from the bus stop. A perfect, stress-free cultural day comes to an end."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Bistro Labin",
-            "tip": "Schneller Snack für Transit-Reisende."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Bistro Labin",
-            "tip": "Gyors falatok az úton lévőknek."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Bistro Labin",
-            "tip": "Gustare rapidă pentru călători."
-          }
-        ],
-        "en": [
-          {
-            "name": "Bistro Labin",
-            "tip": "Quick snack for transit travelers."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Stadtpark",
-            "tip": "Schatten nahe der Bushaltestelle.",
-            "emoji": "🍃"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Városliget",
-            "tip": "Árnyék a buszmegálló közelében.",
-            "emoji": "🍃"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Parcul orașului",
-            "tip": "Umbră lângă stația de autobuz.",
-            "emoji": "🍃"
-          }
-        ],
-        "en": [
-          {
-            "name": "City Park",
-            "tip": "Shade near the bus stop.",
-            "emoji": "🍃"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Kiosk Titov Trg",
-            "tip": "Karten und lokale Zeitungen."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Titov Trg pavilon",
-            "tip": "Képeslapok és helyi újságok."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Chioșc Titov Trg",
-            "tip": "Cărți poștale și ziare locale."
-          }
-        ],
-        "en": [
-          {
-            "name": "Titov Trg Kiosk",
-            "tip": "Postcards and local newspapers."
-          }
-        ]
+        "de": "Diese Autotour verbindet die Kunst im Skulpturenpark Dubrova mit der Geschichte von Labin und der Küste von Rabac. Nach dem Parkbesuch erkunden Sie zu Fuß den Kern von Labin inklusive Museum und Aussichtspunkt.\n\nNach einem typisch istrischen Mittagessen führt die Fahrt hinunter nach Rabac zu den beeindruckenden Ruinen der Teleferika und endet mit einem entspannten Blick auf den Girandella-Strand.",
+        "hu": "Ez az autós túra ötvözi a Dubrova szoborpark művészetét Labin történelmével és Rabac partjaival. A parklátogatás után gyalogosan fedezze fel Labin központját, a múzeumot és a kilátót.\n\nEgy tipikus isztriai ebéd után az út Rabacba vezet a Teleferika lenyűgöző romjaihoz, majd a Girandella strandon zárul egy kellemes pihenővel.",
+        "ro": "Acest tur auto îmbină arta din Parcul Dubrova cu istoria orașului Labin și coasta stațiunii Rabac. După vizitarea parcului, explorați la pas centrul Labinului, inclusiv muzeul și punctul de belvedere.\n\nDupă un prânz tipic istrian, drumul coboară spre Rabac la ruinele impresionante ale Teleferika, terminându-se cu o relaxare la plaja Girandella.",
+        "en": "This car tour combines art at Dubrova Sculpture Park with Labin's history and the Rabac coast. After the park, explore Labin's core on foot, including the museum and viewpoint.\n\nFollowing a typical Istrian lunch, drive down to Rabac to see the impressive Teleferika ruins and finish with a relaxing view at Girandella beach."
       },
       "tips": {
         "de": [
-          "Laden Sie die App für den lokalen Busfahrplan herunter.",
-          "Kaufen Sie Tickets direkt beim Fahrer."
+          "Die Straße von Labin nach Rabac ist steil und kurvig.",
+          "Nutzen Sie die Cluster-Parkplätze in Labin Altstadt und Rabac Hafen.",
+          "Dubrova ist am besten am frühen Vormittag zu besichtigen.",
+          "Reservieren Sie in der Hochsaison einen Tisch für das Mittagessen."
         ],
         "hu": [
-          "Töltse le a helyi buszmenetrend alkalmazást.",
-          "Vásároljon jegyet közvetlenül a sofőrnél."
+          "A Labin és Rabac közötti út meredek és kanyargós.",
+          "Használja a központi parkolókat Labin óvárosában és Rabac kikötőjében.",
+          "Dubrovát leginkább a kora délelőtti órákban érdemes felkeresni.",
+          "Főszezonban érdemes asztalt foglalni az ebédhez."
         ],
         "ro": [
-          "Descărcați aplicația pentru mersul autobuzelor locale.",
-          "Cumpărați bilete direct de la șofer."
+          "Drumul de la Labin la Rabac este abrupt și sinuos.",
+          "Folosiți parcările centrale din orașul vechi Labin și portul Rabac.",
+          "Dubrova este cel mai bine de vizitat dimineața devreme.",
+          "Rezervați o masă pentru prânz în timpul sezonului de vârf."
         ],
         "en": [
-          "Download the app for the local bus schedule.",
-          "Buy tickets directly from the driver."
+          "The road from Labin to Rabac is steep and winding.",
+          "Use the cluster parking lots in Labin Old Town and Rabac harbor.",
+          "Dubrova is best visited in the early morning.",
+          "Book a table for lunch during high season."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Dank der guten Busanbindung zwischen Labin und Rabac lässt sich die Region entspannt erkunden. Der Tag startet am Hauptplatz der Altstadt, von wo aus alle wichtigen Sehenswürdigkeiten wie das Volksmuseum fußläufig erreichbar sind.\n\nMittags nehmen Sie den Bus hinunter nach Podlabin. Das Bergbauerbe lässt sich hier auch ohne Auto gut erkunden, da die Wege flach sind. Danach geht es mit der nächsten Verbindung weiter hinunter ans Meer.\n\nDer Nachmittag in Rabac bietet die nötige Erholung. Ein Spaziergang am Hafen und ein Eis an der Promenade gehören dazu, bevor Sie der Bus wieder hinauf in die kühle Brise der Oberstadt bringt.\n\nZum Abschluss des Tages besuchen Sie den Fortica Aussichtspunkt, der nur wenige Gehminuten von der Bushaltestelle entfernt liegt. Ein perfekter, stressfreier Kulturtag geht zu Ende.",
-            "hu": "A Labin és Rabac közötti jó buszközlekedésnek köszönhetően a régió kényelmesen felfedezhető. A nap az óváros főterén indul, ahonnan minden fontos látnivaló, például a Néprajzi Múzeum is gyalogosan elérhető.\n\nDélben busszal utazzunk le Podlabinba. A bányászati örökség autó nélkül is jól bejárható, mivel a terep sík. Ezután a következő járattal folytassuk utunkat lefelé a tengerhez.\n\nA délután Rabacban a megérdemelt pihenésé. Egy séta a kikötőben és egy fagylalt a sétányon kötelező program, mielőtt a busz visszaviszi Önt a felsőváros hűvös szellőjébe.\n\nA nap zárásaként látogasson el a Fortica kilátóhoz, amely mindössze pár perc sétára van a buszmegállótól. Egy tökéletes, stresszmentes kulturális nap ér véget.",
-            "ro": "Datorită conexiunilor bune de autobuz între Labin și Rabac, regiunea poate fi explorată relaxat. Ziua începe în piața principală a orașului vechi, de unde toate obiectivele importante, cum ar fi Muzeul Popular, sunt accesibile pe jos.\n\nLa prânz, luați autobuzul jos spre Podlabin. Moștenirea minieră poate fi explorată bine și fără mașină, deoarece traseele sunt plane. Apoi continuați cu următoarea legătură jos la mare.\n\nDupă-amiaza în Rabac oferă relaxarea necesară. O plimbare în port și o înghețată pe faleză sunt obligatorii înainte ca autobuzul să vă aducă înapoi în briza răcoroasă a orașului de sus.\n\nLa finalul zilei, vizitați punctul de belvedere Fortica, situat la doar câteva minute de mers pe jos de stația de autobuz. O zi culturală perfectă și fără stres se încheie.",
-            "en": "Thanks to the good bus connections between Labin and Rabac, the region can be explored in a relaxed way. The day starts at the main square of the old town, from where all important sights like the National Museum are reachable on foot.\n\nAt midday, take the bus down to Podlabin. The mining heritage can be explored well without a car as the paths are flat. Then continue with the next connection down to the sea.\n\nThe afternoon in Rabac offers the necessary relaxation. A walk at the harbor and an ice cream on the promenade are part of it before the bus takes you back up to the cool breeze of the upper town.\n\nAt the end of the day, visit the Fortica viewpoint, which is only a few minutes' walk from the bus stop. A perfect, stress-free cultural day comes to an end."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Altstadtplatz",
-                "hu": "Óváros tér",
-                "ro": "Piața orașului vechi",
-                "en": "Old Town Square"
-              },
-              "tip_5lang": {
-                "de": "Busstation Titov Trg.",
-                "hu": "Titov Trg buszmegálló.",
-                "ro": "Stația de autobuz Titov Trg.",
-                "en": "Titov Trg bus station."
-              }
-            },
-            {
-              "name": {
-                "de": "Volksmuseum",
-                "hu": "Néprajzi Múzeum",
-                "ro": "Muzeul Popular",
-                "en": "National Museum"
-              },
-              "tip_5lang": {
-                "de": "Im Zentrum.",
-                "hu": "A központban.",
-                "ro": "În centru.",
-                "en": "In the center."
-              }
-            },
-            {
-              "name": {
-                "de": "Podlabin Soso Turm",
-                "hu": "Podlabin Soso torony",
-                "ro": "Turnul Soso Podlabin",
-                "en": "Podlabin Soso Tower"
-              },
-              "tip_5lang": {
-                "de": "Bus hält in der Nähe.",
-                "hu": "A busz a közelben áll meg.",
-                "ro": "Autobuzul oprește în apropiere.",
-                "en": "Bus stops nearby."
-              }
-            },
-            {
-              "name": {
-                "de": "Rabac Hafen",
-                "hu": "Rabaci kikötő",
-                "ro": "Portul Rabac",
-                "en": "Rabac Harbor"
-              },
-              "tip_5lang": {
-                "de": "Lokaler Linienbus.",
-                "hu": "Helyi menetrend szerinti járat.",
-                "ro": "Autobuz de linie local.",
-                "en": "Local scheduled bus."
-              }
-            },
-            {
-              "name": {
-                "de": "Fortica",
-                "hu": "Fortica",
-                "ro": "Fortica",
-                "en": "Fortica"
-              },
-              "tip_5lang": {
-                "de": "Bus bringt Sie zurück hoch.",
-                "hu": "A busz visszaviszi a hegyre.",
-                "ro": "Autobuzul vă aduce înapoi sus.",
-                "en": "Bus takes you back up."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Bistro Labin",
-                "tip": "Schneller Snack für Transit-Reisende."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Bistro Labin",
-                "tip": "Gyors falatok az úton lévőknek."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Bistro Labin",
-                "tip": "Gustare rapidă pentru călători."
-              }
-            ],
-            "en": [
-              {
-                "name": "Bistro Labin",
-                "tip": "Quick snack for transit travelers."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Stadtpark",
-                "tip": "Schatten nahe der Bushaltestelle.",
-                "emoji": "🍃"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Városliget",
-                "tip": "Árnyék a buszmegálló közelében.",
-                "emoji": "🍃"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Parcul orașului",
-                "tip": "Umbră lângă stația de autobuz.",
-                "emoji": "🍃"
-              }
-            ],
-            "en": [
-              {
-                "name": "City Park",
-                "tip": "Shade near the bus stop.",
-                "emoji": "🍃"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Kiosk Titov Trg",
-                "tip": "Karten und lokale Zeitungen."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Titov Trg pavilon",
-                "tip": "Képeslapok és helyi újságok."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Chioșc Titov Trg",
-                "tip": "Cărți poștale și ziare locale."
-              }
-            ],
-            "en": [
-              {
-                "name": "Titov Trg Kiosk",
-                "tip": "Postcards and local newspapers."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Laden Sie die App für den lokalen Busfahrplan herunter.",
-              "Kaufen Sie Tickets direkt beim Fahrer."
-            ],
-            "hu": [
-              "Töltse le a helyi buszmenetrend alkalmazást.",
-              "Vásároljon jegyet közvetlenül a sofőrnél."
-            ],
-            "ro": [
-              "Descărcați aplicația pentru mersul autobuzelor locale.",
-              "Cumpărați bilete direct de la șofer."
-            ],
-            "en": [
-              "Download the app for the local bus schedule.",
-              "Buy tickets directly from the driver."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Starten Sie Ihre Tour am zentralen Busbahnhof in der Nähe des Old Town Square. Der Bus bringt Sie bequem zum Nationalmuseum, während es draußen regnet. Mittags fahren Sie nach Podlabin zum Soso-Turm, wo Sie überdachte Wartebereiche finden. Am Nachmittag führt die Route hinunter zum Hafen von Rabac, wo Sie den Regen bei einem Kaffee mit Blick auf die Schiffe genießen können. Die Rückfahrt zur Fortica bietet einen stimmungsvollen Ausblick auf die im Regen versinkende Landschaft, bevor Sie den Tag beenden.",
-            "hu": "Kezdje a túrát a központi buszmegállóban az óvárosi tér közelében. A busz kényelmesen elviszi a múzeumhoz, miközben kint esik. Délben hajtson Podlabinba a Soso-toronyhoz, ahol fedett váróhelyeket talál. Délután az út levezet a rabaci kikötőbe, ahol egy kávé mellett élvezheti az eső látványát a hajók felett. A visszaút a Forticához hangulatos kilátást nyújt az esőbe burkolózó tájra, mielőtt befejezné a napot.",
-            "ro": "Începeți turul la stația centrală de autobuz de lângă piața veche. Autobuzul vă duce confortabil la muzeu în timp ce afară plouă. La prânz, mergeți spre Podlabin la Turnul Soso, unde veți găsi zone de așteptare acoperite. După-amiaza drumul coboară spre portul Rabac, unde puteți admira ploaia peste bărci la o cafea. Întoarcerea la Fortica oferă o vedere atmosferică asupra peisajului sub ploaie înainte de finalul zilei.",
-            "en": "Start your tour at the central bus stop near the Old Town Square. The bus takes you comfortably to the museum while it rains outside. At noon, head to Podlabin to the Soso Tower, where you'll find covered waiting areas. In the afternoon, the route leads down to Rabac Harbor, where you can enjoy the rain over the boats with a coffee. The return trip to Fortica offers an atmospheric view of the landscape shrouded in rain before finishing the day."
-          },
-          "stops": [
-            {
-              "name": "Old Town Square",
-              "tip_5lang": {
-                "de": "Die Bushaltestelle ist nur wenige Schritte vom überdachten Platz entfernt.",
-                "hu": "A buszmegálló csak pár lépésre van a fedett árkádoktól.",
-                "ro": "Stația de autobuz este la doar câțiva pași de zona acoperită.",
-                "en": "The bus stop is just a few steps from the covered areas."
-              }
-            },
-            {
-              "name": "National Museum",
-              "tip_5lang": {
-                "de": "Hinterlegen Sie nasse Schirme im Garderobenbereich des Museums.",
-                "hu": "A vizes esernyőket hagyja a múzeum ruhatárában.",
-                "ro": "Lăsați umbrelele ude la garderoba muzeului.",
-                "en": "Leave wet umbrellas in the museum's cloakroom area."
-              }
-            },
-            {
-              "name": "Podlabin Soso Tower",
-              "tip_5lang": {
-                "de": "Der Bus hält direkt vor den industriellen Hallen (Windschutz).",
-                "hu": "A busz közvetlenül az ipari csarnokok előtt áll meg (szélvédelem).",
-                "ro": "Autobuzul oprește chiar în fața halelor industriale (protecție contra vântului).",
-                "en": "The bus stops right in front of the industrial halls (wind protection)."
-              }
-            },
-            {
-              "name": "Rabac Harbor",
-              "tip_5lang": {
-                "de": "Wählen Sie ein Café in der ersten Reihe mit direktem Blick auf das Meer.",
-                "hu": "Válasszon egy első sorban lévő kávézót közvetlen rálátással a tengerre.",
-                "ro": "Alegeți o cafenea din prima linie cu vedere directă la mare.",
-                "en": "Choose a cafe in the front row with a direct view of the sea."
-              }
-            },
-            {
-              "name": "Fortica",
-              "tip_5lang": {
-                "de": "Prüfen Sie den Busfahrplan für die Rückfahrt, um Wartezeiten im Regen zu vermeiden.",
-                "hu": "Ellenőrizze a buszmenetrendet, hogy ne kelljen sokat várnia az esőben.",
-                "ro": "Verificați programul autobuzului pentru a evita așteptarea în ploaie.",
-                "en": "Check the bus schedule to avoid long waits in the rain."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Kaufen Sie Fahrkarten im Voraus, um Hektik im Regen zu vermeiden.",
-              "Die Busse zwischen Labin und Rabac verkehren regelmäßig.",
-              "Tragen Sie wasserfeste Kleidung für die Wege zu den Haltestellen.",
-              "Nutzen Sie die App für Echtzeit-Infos zum Busverkehr."
-            ],
-            "hu": [
-              "Vásárolja meg a jegyeket előre, hogy elkerülje a kapkodást az esőben.",
-              "A Labin és Rabac közötti buszok rendszeresen közlekednek.",
-              "Viseljen vízálló ruhát a megállókig tartó gyalogláshoz.",
-              "Használja az alkalmazást a valós idejű közlekedési infókért."
-            ],
-            "ro": [
-              "Cumpărați biletele în avans pentru a evita agitația în ploaie.",
-              "Autobuzele între Labin și Rabac circulă regulat.",
-              "Purtați haine impermeabile pentru drumul spre stații.",
-              "Folosiți aplicația pentru informații în timp real despre transport."
-            ],
-            "en": [
-              "Purchase tickets in advance to avoid rushing in the rain.",
-              "Buses between Labin and Rabac run regularly.",
-              "Wear waterproof clothing for the walk to and from bus stops.",
-              "Use the transit app for real-time schedule information."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Beginnen Sie Ihren Wintertag am Busbahnhof Labin. Die beheizten Busse sind eine willkommene Abwechslung zur kühlen Morgenluft. Mittags erkunden Sie das Nationalmuseum und Podlabin, wobei Sie die kurzen Fahrten zum Aufwärmen nutzen. Am Nachmittag bringt Sie der Bus nach Rabac, wo Sie einen ruhigen Winterspaziergang am Hafen machen können. Pünktlich zur Dämmerung kehren Sie zur Fortica zurück, um das Lichtermeer von Labin und Rabac zu bewundern. Beenden Sie den Tag gemütlich, bevor der Abendfrost einsetzt.",
-            "hu": "Kezdje a téli napot a labini buszállomáson. A fűtött buszok kellemes felüdülést nyújtanak a hűvös reggeli levegő után. Délben fedezze fel a múzeumot és Podlabint, a rövid utazásokat kihasználva a felmelegedésre. Délután a busz leviszi Rabacba, ahol egy csendes téli sétát tehet a kikötőben. Szürkületre térjen vissza a Forticához, hogy megcsodálja Labin és Rabac fényeit. Zárja a napot kellemesen, még az esti fagy beállta előtt.",
-            "ro": "Începeți ziua de iarnă la autogara din Labin. Autobuzele încălzite sunt o relaxare binevenită după aerul rece de dimineață. La prânz, explorați muzeul și Podlabinul, folosind călătoriile scurte pentru a vă încălzi. După-amiaza, autobuzul vă duce în Rabac pentru o plimbare liniștită în port. Reveniți la Fortica la amurg pentru a admira luminile din Labin și Rabac. Încheiați ziua plăcut, înainte de înghețul de seară.",
-            "en": "Start your winter day at the Labin bus station. The heated buses are a welcome break from the chilly morning air. At noon, explore the museum and Podlabin, using the short trips to warm up. In the afternoon, the bus takes you to Rabac for a quiet winter walk at the harbor. Return to Fortica by dusk to admire the sea of lights from Labin and Rabac. End the day comfortably before the evening frost sets in."
-          },
-          "stops": [
-            {
-              "name": "Old Town Square",
-              "tip_5lang": {
-                "de": "Warten Sie in einem nahegelegenen Café, bis der Bus eintrifft.",
-                "hu": "Várjon egy közeli kávézóban a busz érkezéséig.",
-                "ro": "Așteptați într-o cafenea din apropiere până la sosirea autobuzului.",
-                "en": "Wait in a nearby cafe until the bus is about to arrive."
-              }
-            },
-            {
-              "name": "National Museum",
-              "tip_5lang": {
-                "de": "Perfekter Ort, um die Mittagsstunden im Warmen zu verbringen.",
-                "hu": "Tökéletes hely a déli órák melegben való eltöltésére.",
-                "ro": "Locul perfect pentru a petrece orele amiezii la căldură.",
-                "en": "The perfect place to spend the midday hours in the warmth."
-              }
-            },
-            {
-              "name": "Podlabin Soso Tower",
-              "tip_5lang": {
-                "de": "Achten Sie auf die glatten Stufen an den Bushaltestellen.",
-                "hu": "Ügyeljen a csúszós lépcsőkre a buszmegállókban.",
-                "ro": "Atenție la treptele alunecoase din stațiile de autobuz.",
-                "en": "Watch out for slippery steps at the bus stops."
-              }
-            },
-            {
-              "name": "Rabac Harbor",
-              "tip_5lang": {
-                "de": "Im Winter sind die Wartehäuschen am Hafen oft zugig; ziehen Sie sich warm an.",
-                "hu": "Télen a kikötői várók huzatosak lehetnek; öltözzön fel jól.",
-                "ro": "Iarna, adăposturile din port pot fi expuse la curent; îmbrăcați-vă bine.",
-                "en": "In winter, the harbor shelters can be drafty; dress warmly."
-              }
-            },
-            {
-              "name": "Fortica",
-              "tip_5lang": {
-                "de": "Nutzen Sie den letzten Bus vor 17:00 Uhr für die Rückfahrt.",
-                "hu": "Használja az utolsó buszt 17:00 előtt a visszaúthoz.",
-                "ro": "Folosiți ultimul autobuz înainte de ora 17:00 pentru întoarcere.",
-                "en": "Take the last bus before 5:00 PM for your return trip."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Im Winter gibt es oft einen geänderten Fahrplan (Nebensaison).",
-              "Die Busse sind im Winter weniger überfüllt als im Sommer.",
-              "Tragen Sie Schichten, da der Temperaturunterschied Bus/Draußen groß ist.",
-              "Halten Sie Kleingeld für den Fahrkartenkauf beim Fahrer bereit."
-            ],
-            "hu": [
-              "Télen gyakran módosított (utószezoni) menetrend van érvényben.",
-              "A buszok télen sokkal kevésbé zsúfoltak, mint nyáron.",
-              "Öltözzön rétegesen a busz és a kinti hőmérséklet különbsége miatt.",
-              "Legyen Önnél aprópénz a buszvezetőnél történő jegyvásárláshoz."
-            ],
-            "ro": [
-              "Iarna este adesea în vigoare un program de extrasezon.",
-              "Autobuzele sunt mult mai puțin aglomerate iarna decât vara.",
-              "Îmbrăcați-vă în straturi din cauza diferenței de temperatură bus/exterior.",
-              "Aveți pregătit mărunțiș pentru cumpărarea biletului de la șofer."
-            ],
-            "en": [
-              "A winter (off-season) schedule is often in effect; check times carefully.",
-              "Buses are much less crowded in winter compared to summer.",
-              "Wear layers due to the temperature difference between the bus and outside.",
-              "Have small change ready for buying tickets from the driver."
-            ]
-          }
-        }
       }
-    }
-  },
-  "external_resources": {
-    "transit_official": "https://www.arriva.com.hr/en-us/",
-    "transit_app": "https://getbybus.com/en/",
-    "bike_share": null,
-    "city_card": null,
-    "events": "https://www.rabac-labin.com/",
-    "tourism_office": "https://www.istra.hr/en/destinations/labin",
-    "webcam": null,
-    "restaurants_booking": null,
-    "museum_tickets": null,
-    "parking_real_time": null,
-    "language_tips": {
-      "de": "Kroatisch ist Amtssprache, Italienisch zweite Sprache (Labin/Albona). Englisch im Tourismus überall, Deutsch wegen Rabac-Hotellerie häufig, Italienisch in der Altstadt selbstverständlich.",
-      "hu": "A horvát hivatalos, az olasz második nyelv (Labin/Albona). Az angol mindenhol megy, a Rabac közelsége miatt sokan beszélnek németül, az óvárosban olaszul is.",
-      "ro": "Croata este oficială, italiana este a doua limbă (Labin/Albona). Engleza funcționează în turism, germana este frecventă datorită Rabac, italiana firească în orașul vechi.",
-      "en": "Croatian is official, Italian is the second language (Labin/Albona). English is everywhere in tourism, German is common thanks to Rabac hotels, Italian natural in the old town."
-    },
-    "best_time_to_visit": {
-      "de": "Mai/Juni und September für die Altstadt und das Labin Art Republika Festival (Juli/August abendlich). Im Hochsommer Altstadt nachmittags glühend heiß, früh oder abends besuchen.",
-      "hu": "Május–június és szeptember a legjobb az óvárosra és a Labin Art Republika fesztiválra (júl–aug esti programok). Nyár derekán délután forró az óváros, kora reggel vagy este érdemes.",
-      "ro": "Mai–iunie și septembrie sunt ideale pentru orașul vechi și festivalul Labin Art Republika (iulie–august seara). Vara, după-amiezile sunt arzătoare, vizitați dimineața sau seara.",
-      "en": "May/June and September for the old town and Labin Art Republika festival (July/August evenings). Mid-summer afternoons in the old town are scorching, visit early or evening."
-    },
-    "neighborhood_warnings": {
-      "de": "Labin ist sicher. Die Altstadt ist Fußgängerzone, am alten Stadttor parken. Achtung auf steile, glatte Gassen bei Regen und auf wenig beleuchtete Stiegen in der Nacht.",
-      "hu": "Labin biztonságos. Az óváros gyalogos, az óvárosi kapunál parkolj. Esőben csúszós, meredek utcák; éjjel a lépcsők gyengén világítottak.",
-      "ro": "Labin este sigur. Orașul vechi este pietonal, parcați la poarta veche. Atenție la străzile abrupte alunecoase pe ploaie și la treptele slab iluminate noaptea.",
-      "en": "Labin is safe. The old town is pedestrian; park at the old gate. Steep lanes get slippery in rain, and some staircases are poorly lit at night."
     }
   }
 }

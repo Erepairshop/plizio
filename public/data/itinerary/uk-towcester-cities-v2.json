@@ -1,0 +1,1037 @@
+{
+  "city_id": "uk-towcester-cities-v2",
+  "anchor": {
+    "name": "Towcester Market Square",
+    "coords": [
+      -0.991,
+      52.13
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Towcester",
+            "hu": "Towcester piactér",
+            "ro": "Piața Towcester",
+            "en": "Towcester Market Square"
+          },
+          "coords": [
+            -0.991,
+            52.13
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die georgianische Architektur rundherum.",
+            "hu": "Csodálja meg a környék georgiánus építészetét.",
+            "ro": "Admirați arhitectura georgiană din jur.",
+            "en": "Admire the Georgian architecture surrounding the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Towcester",
+            "hu": "Towcesteri Városi Múzeum",
+            "ro": "Muzeul Orașului Towcester",
+            "en": "Towcester Town Museum"
+          },
+          "coords": [
+            -0.99,
+            52.131
+          ],
+          "category": "museum",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das römische Lactodurum.",
+            "hu": "Tudjon meg többet a római Lactodurumról.",
+            "ro": "Aflați mai multe despre Lactodurumul roman.",
+            "en": "Learn about the Roman town of Lactodurum."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Lawrence Church",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica Sfântul Laurențiu",
+            "en": "St Lawrence's Church"
+          },
+          "coords": [
+            -0.992,
+            52.129
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein historisches Bauwerk mit imposantem Kirchturm.",
+            "hu": "Történelmi épület impozáns templomtoronnyal.",
+            "ro": "O structură istorică cu un turn impresionant.",
+            "en": "A historic building with an impressive tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Bury Mount",
+            "hu": "Bury Mount",
+            "ro": "Bury Mount",
+            "en": "Bury Mount"
+          },
+          "coords": [
+            -0.989,
+            52.132
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überreste einer normannischen Motte mit Aussicht.",
+            "hu": "Egy normann földvár maradványai kilátással.",
+            "ro": "Rămășițele unei motte normande cu vedere.",
+            "en": "Remains of a Norman motte-and-bailey castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch in einem lokalen Pub",
+            "hu": "Ebéd egy helyi pubban",
+            "ro": "Prânz la un pub local",
+            "en": "Lunch at a Local Pub"
+          },
+          "coords": [
+            -0.991,
+            52.131
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie traditionelle Gerichte aus Northamptonshire.",
+            "hu": "Kóstoljon tradicionális Northamptonshire-i ételeket.",
+            "ro": "Gustați mâncăruri tradiționale din Northamptonshire.",
+            "en": "Try traditional local dishes and real ales."
+          }
+        },
+        {
+          "name": {
+            "de": "Towcester Watermeadows",
+            "hu": "Towcesteri ártéri rétek",
+            "ro": "Towcester Watermeadows",
+            "en": "Towcester Watermeadows"
+          },
+          "coords": [
+            -0.985,
+            52.133
+          ],
+          "category": "park",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannter Spaziergang entlang des Flusses Tove.",
+            "hu": "Pihentető séta a Tove folyó mentén.",
+            "ro": "Plimbare relaxantă de-a lungul râului Tove.",
+            "en": "Relaxing stroll along the River Tove."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem historischen Marktplatz von Towcester, dem Herzen der Stadt. Das Stadtmuseum bietet einen tiefen Einblick in die römische Vergangenheit als Lactodurum. Nach dem Besuch der imposanten St. Lawrence Church erklimmen Sie den Bury Mount für einen Blick über die Stadt. Ein gemütliches Mittagessen in einem georgianischen Gasthof stärkt Sie für den Nachmittag. Den Abschluss bildet ein friedlicher Spaziergang durch die Watermeadows am Ufer des Flusses Tove.",
+        "hu": "Kezdje a napot Towcester történelmi piacterén, a város szívében. A Városi Múzeum mély betekintést nyújt a római múltba, Lactodurumba. Az impozáns Szent Lőrinc-templom megtekintése után másszon fel a Bury Mountra a városi kilátásért. Egy kényelmes ebéd egy georgiánus fogadóban erőt ad a délutánhoz. A napot zárja egy békés séta az ártéri réteken, a Tove folyó partján.",
+        "ro": "Începeți ziua în piața istorică din Towcester, inima orașului. Muzeul Orașului oferă o perspectivă profundă asupra trecutului roman ca Lactodurum. După vizitarea bisericii impunătoare Sf. Laurențiu, urcați pe Bury Mount pentru o vedere asupra orașului. Un prânz relaxat într-un han georgian vă va pregăti pentru după-amiază. Încheiați cu o plimbare liniștită prin Watermeadows, pe malul râului Tove.",
+        "en": "Start your day in Towcester's historic Market Square, the heart of the town. The Town Museum offers a deep dive into the Roman past as Lactodurum. After visiting the imposing St Lawrence's Church, climb Bury Mount for views over the town. A leisurely lunch in a Georgian inn sets you up for the afternoon. Conclude with a peaceful walk through the Watermeadows along the banks of the River Tove."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Saracen's Head",
+            "tip": "Historischer Gasthof, berühmt durch Charles Dickens."
+          },
+          {
+            "name": "Towcester Mill Brewery",
+            "tip": "Craft-Bier in einer alten Wassermühle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Saracen's Head",
+            "tip": "Történelmi fogadó, amelyet Charles Dickens tett híressé."
+          },
+          {
+            "name": "Towcester Mill sörfőzde",
+            "tip": "Kézműves sör egy régi vízimalomban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Saracen's Head",
+            "tip": "Han istoric făcut celebru de Charles Dickens."
+          },
+          {
+            "name": "Berăria Towcester Mill",
+            "tip": "Bere artizanală într-o moară de apă veche."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Saracen's Head",
+            "tip": "Historic inn famously featured in Dickens' Pickwick Papers."
+          },
+          {
+            "name": "Towcester Mill Brewery",
+            "tip": "Craft beer served in a beautifully restored watermill."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tove Valley",
+            "tip": "Idyllische Uferlandschaft am Stadtrand.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tove-völgy",
+            "tip": "Idilli folyóparti táj a város szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Tove",
+            "tip": "Peisaj idilic pe malul râului la marginea orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tove Valley",
+            "tip": "Idyllic riverside landscape on the edge of town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Towcester Antiques Centre",
+            "tip": "Stöbern Sie nach Schätzen in der Watling Street."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Towcesteri Régiségközpont",
+            "tip": "Böngésszen kincsek után a Watling Streeten."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de Antichități Towcester",
+            "tip": "Căutați comori pe Watling Street."
+          }
+        ],
+        "en": [
+          {
+            "name": "Towcester Antiques Centre",
+            "tip": "Browse for unique treasures on Watling Street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Watling Street ist die Hauptachse der Stadt.",
+          "Das Museum hat begrenzte Öffnungszeiten unter der Woche.",
+          "Die Watermeadows können nach Regen matschig sein."
+        ],
+        "hu": [
+          "A Watling Street a város főtengelye.",
+          "A múzeum nyitvatartása hétköznap korlátozott.",
+          "Az ártéri rétek eső után sárosak lehetnek."
+        ],
+        "ro": [
+          "Watling Street este axa principală a orașului.",
+          "Muzeul are program limitat în timpul săptămânii.",
+          "Watermeadows pot fi noroioase după ploaie."
+        ],
+        "en": [
+          "Watling Street is the historic main thoroughfare.",
+          "Check museum opening times as they may vary.",
+          "Wear appropriate footwear for the Watermeadows path."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Towcester Mill Brewery",
+            "hu": "Towcester Mill sörfőzde",
+            "ro": "Berăria Towcester Mill",
+            "en": "Towcester Mill Brewery"
+          },
+          "coords": [
+            -0.988,
+            52.129
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie an der alten Mühle.",
+            "hu": "Kezdjen a régi malomnál.",
+            "ro": "Începeți la moara veche.",
+            "en": "Start your ride at this historic watermill."
+          }
+        },
+        {
+          "name": {
+            "de": "Easton Neston Park",
+            "hu": "Easton Neston Park",
+            "ro": "Parcul Easton Neston",
+            "en": "Easton Neston Park"
+          },
+          "coords": [
+            -0.97,
+            52.133
+          ],
+          "category": "park",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Blick auf eines der bedeutendsten Herrenhäuser Englands.",
+            "hu": "Kilátás Anglia egyik legjelentősebb kúriájára.",
+            "ro": "Vedere spre unul dintre cele mai importante conace din Anglia.",
+            "en": "View one of England's finest stately homes."
+          }
+        },
+        {
+          "name": {
+            "de": "Whittlebury Village",
+            "hu": "Whittlebury falu",
+            "ro": "Satul Whittlebury",
+            "en": "Whittlebury Village"
+          },
+          "coords": [
+            -1.002,
+            52.091
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ein hübsches Dorf an der alten römischen Route.",
+            "hu": "Szép falu a régi római útvonal mentén.",
+            "ro": "Un sat frumos pe vechiul traseu roman.",
+            "en": "A pretty village along the old Roman route."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch in Whittlebury",
+            "hu": "Ebéd Whittleburyben",
+            "ro": "Prânz în Whittlebury",
+            "en": "Lunch in Whittlebury"
+          },
+          "coords": [
+            -1.003,
+            52.09
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem dörflichen Gasthof.",
+            "hu": "Frissüljön fel egy falusi fogadóban.",
+            "ro": "Reîncărcați-vă la un han din sat.",
+            "en": "Refuel at a local village pub."
+          }
+        },
+        {
+          "name": {
+            "de": "Silverstone Circuit (Perimeter)",
+            "hu": "Silverstone versenypálya (környéke)",
+            "ro": "Circuitul Silverstone (perimetru)",
+            "en": "Silverstone Circuit (Perimeter)"
+          },
+          "coords": [
+            -1.02,
+            52.073
+          ],
+          "category": "landmark",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spüren Sie die Energie der berühmten Rennstrecke.",
+            "hu": "Érezze a híres versenypálya energiáját.",
+            "ro": "Simțiți energia celebrului circuit.",
+            "en": "Feel the energy of the world-famous circuit."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Towcester",
+            "hu": "Visszautazás Towcesterbe",
+            "ro": "Întoarcerea la Towcester",
+            "en": "Return to Towcester"
+          },
+          "coords": [
+            -0.991,
+            52.13
+          ],
+          "category": "transit",
+          "arrive_at": "15:55",
+          "stay_min": 5,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt durch die Landschaft.",
+            "hu": "Kellemes tekerés a vidéken keresztül.",
+            "ro": "O plimbare plăcută prin peisajul rural.",
+            "en": "A pleasant ride back through the countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die sanften Hügel von Northamptonshire mit dem Rad. Starten Sie bei der Towcester Mill und fahren Sie durch das noble Easton Neston Anwesen. Die Route führt Sie ins malerische Whittlebury, wo ein dörfliches Mittagessen auf Sie wartet. Ein Abstecher zum legendären Silverstone Circuit ist für Motorsportfans ein Muss. Die Tour endet entspannt mit der Rückfahrt durch grüne Lanes zurück ins Stadtzentrum von Towcester.",
+        "hu": "Fedezze fel Northamptonshire lankáit kerékpárral. Kezdjen a Towcester Millnél, és tekerjen át a nemes Easton Neston birtokon. Az útvonal a festői Whittleburybe vezet, ahol falusi ebéd várja. Egy kitérő a legendás Silverstone-i versenypályához kötelező az autósport rajongóinak. A túra pihentető visszatekeréssel zárul a zöld utakon keresztül Towcester városközpontjába.",
+        "ro": "Explorați dealurile domoale din Northamptonshire cu bicicleta. Începeți la Towcester Mill și pedalați prin nobilul domeniu Easton Neston. Traseul vă duce în pitorescul Whittlebury, unde vă așteaptă un prânz la sat. O vizită la legendarul circuit Silverstone este obligatorie pentru fanii sporturilor cu motor. Turul se încheie cu o plimbare relaxantă înapoi prin drumurile verzi spre centrul orașului Towcester.",
+        "en": "Explore the rolling hills of Northamptonshire on two wheels. Start at Towcester Mill and cycle through the noble Easton Neston estate. The route takes you to the picturesque Whittlebury for a village lunch. A detour to the legendary Silverstone Circuit is a must for motorsport fans. The tour concludes with a relaxed ride back through leafy lanes to Towcester town center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Fox & Hounds, Whittlebury",
+            "tip": "Traditionelle Küche in Rennsportnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Fox & Hounds, Whittlebury",
+            "tip": "Tradicionális konyha a versenypálya közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Fox & Hounds, Whittlebury",
+            "tip": "Bucătărie tradițională lângă circuit."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Fox & Hounds, Whittlebury",
+            "tip": "Traditional fare close to the racing action."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Easton Neston Parklands",
+            "tip": "Weite Ausblicke und Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Easton Neston parkok",
+            "tip": "Tágas kilátás és nyugalom.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Easton Neston Parklands",
+            "tip": "Vederi largi și liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Easton Neston Parklands",
+            "tip": "Wide vistas and tranquility in the park.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silverstone Museum Shop",
+            "tip": "Exklusives Motorsport-Merchandise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silverstone Múzeum Shop",
+            "tip": "Exkluzív autósport emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Silverstone",
+            "tip": "Produse exclusive de motorsport."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silverstone Museum Shop",
+            "tip": "Exclusive motorsport merchandise and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen rund um Silverstone können an Renntagen sehr voll sein.",
+          "Tragen Sie helle Kleidung für die Landstraßen.",
+          "Ein Helm ist auf den offeneren Streckenabschnitten ratsam."
+        ],
+        "hu": [
+          "A Silverstone környéki utak versenynapokon zsúfoltak lehetnek.",
+          "Viseljen világos ruházatot az országutakon.",
+          "A nyitottabb szakaszokon javasolt a sisak viselése."
+        ],
+        "ro": [
+          "Drumurile din jurul Silverstone pot fi aglomerate în zilele de cursă.",
+          "Purtați haine reflectorizante pentru drumurile rurale.",
+          "Se recomandă purtarea căștii pe secțiunile deschise."
+        ],
+        "en": [
+          "Lanes around Silverstone get very busy during event days.",
+          "Wear bright clothing for visibility on rural roads.",
+          "A helmet is advised for the open road sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 42.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stoke Bruerne (Canal Museum)",
+            "hu": "Stoke Bruerne (Csatorna Múzeum)",
+            "ro": "Stoke Bruerne (Muzeul Canalului)",
+            "en": "Stoke Bruerne (Canal Museum)"
+          },
+          "coords": [
+            -0.915,
+            52.141
+          ],
+          "category": "museum",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein malerisches Dorf am Grand Union Canal.",
+            "hu": "Festői falu a Grand Union-csatorna partján.",
+            "ro": "Un sat pitoresc pe Canalul Grand Union.",
+            "en": "A picturesque village on the Grand Union Canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Towcester Town Centre",
+            "hu": "Towcester városközpont",
+            "ro": "Centrul orașului Towcester",
+            "en": "Towcester Town Centre"
+          },
+          "coords": [
+            -0.991,
+            52.13
+          ],
+          "category": "square",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bummeln Sie durch die historischen Gassen.",
+            "hu": "Sétáljon a történelmi utcákon.",
+            "ro": "Plimbați-vă pe străzile istorice.",
+            "en": "Take a stroll through the historic streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch in Towcester",
+            "hu": "Ebéd Towcesterben",
+            "ro": "Prânz în Towcester",
+            "en": "Lunch in Towcester"
+          },
+          "coords": [
+            -0.99,
+            52.131
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Saracen's Head für Geschichte.",
+            "hu": "Látogassa meg a Saracen's Headet a történelemért.",
+            "ro": "Vizitați Saracen's Head pentru istorie.",
+            "en": "Dine at the Saracen's Head for a historic feel."
+          }
+        },
+        {
+          "name": {
+            "de": "Silverstone Experience",
+            "hu": "Silverstone Experience",
+            "ro": "Silverstone Experience",
+            "en": "Silverstone Experience"
+          },
+          "coords": [
+            -1.02,
+            52.078
+          ],
+          "category": "museum",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Interaktives Museum zur Geschichte des Motorsports.",
+            "hu": "Interaktív múzeum az autósport történetéről.",
+            "ro": "Muzeu interactiv despre istoria motorsportului.",
+            "en": "Interactive museum dedicated to motorsport history."
+          }
+        },
+        {
+          "name": {
+            "de": "Whittlebury Hall (Spa/Tea)",
+            "hu": "Whittlebury Hall (Spa/Tea)",
+            "ro": "Whittlebury Hall (Spa/Tea)",
+            "en": "Whittlebury Hall (Spa/Tea)"
+          },
+          "coords": [
+            -1.006,
+            52.088
+          ],
+          "category": "gastro",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen klassischen Afternoon Tea.",
+            "hu": "Kényeztesse magát egy klasszikus délutáni teával.",
+            "ro": "Răsfățați-vă cu un Afternoon Tea clasic.",
+            "en": "Indulge in a classic British afternoon tea."
+          }
+        },
+        {
+          "name": {
+            "de": "Towcester Racecourse (Abend)",
+            "hu": "Towcesteri lóversenypálya (este)",
+            "ro": "Hipodromul Towcester (seară)",
+            "en": "Towcester Racecourse (Evening)"
+          },
+          "coords": [
+            -0.975,
+            52.12
+          ],
+          "category": "landmark",
+          "arrive_at": "17:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Atmosphäre eines Renntages.",
+            "hu": "Élje át egy versenynap hangulatát.",
+            "ro": "Experimentați atmosfera unei zile de curse.",
+            "en": "Check for greyhound racing schedules."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das Kanalerbe mit modernem Motorsport. Starten Sie im idyllischen Stoke Bruerne, bevor Sie das historische Zentrum von Towcester für einen Stadtbummel und ein Mittagessen besuchen. Der Nachmittag steht ganz im Zeichen der Geschwindigkeit im Silverstone Experience Museum. Ein eleganter Nachmittagstee in Whittlebury Hall bietet Entspannung, bevor Sie den Tag an der traditionsreichen Pferderennbahn von Towcester ausklingen lassen.",
+        "hu": "Ez az autós túra ötvözi a csatornák örökségét a modern autósporttal. Kezdjen az idilli Stoke Bruerne-ben, mielőtt meglátogatná Towcester történelmi központját egy városi sétára és ebédre. A délután a sebességről szól a Silverstone Experience múzeumban. Egy elegáns délutáni tea a Whittlebury Hallban kikapcsolódást nyújt, mielőtt a napot a tradicionális towcesteri lóversenypályán zárná.",
+        "ro": "Acest tur cu mașina îmbină moștenirea canalelor cu motorsportul modern. Începeți în idilicul Stoke Bruerne înainte de a vizita centrul istoric din Towcester pentru o plimbare și prânz. După-amiaza este dedicată vitezei la muzeul Silverstone Experience. Un ceai de după-amiază elegant la Whittlebury Hall oferă relaxare înainte de a încheia ziua la legendarul hipodrom din Towcester.",
+        "en": "This driving tour combines canal heritage with modern motorsport. Start in the idyllic village of Stoke Bruerne before visiting Towcester's historic center for a walk and lunch. The afternoon is all about speed at the Silverstone Experience museum. An elegant afternoon tea at Whittlebury Hall provides relaxation before finishing the day at the traditional Towcester Racecourse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Boat Inn, Stoke Bruerne",
+            "tip": "Uralter Pub direkt an den Kanalschleusen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Boat Inn, Stoke Bruerne",
+            "tip": "Ősi pub közvetlenül a csatornazsilipek mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Boat Inn, Stoke Bruerne",
+            "tip": "Pub vechi chiar lângă ecluzele canalului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Boat Inn, Stoke Bruerne",
+            "tip": "A classic pub situated right by the canal locks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Towcester Racecourse Grounds",
+            "tip": "Weitläufige Aussichten über die Parklandschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Towcesteri versenypálya területe",
+            "tip": "Tágas kilátás a parkos vidékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terenurile hipodromului Towcester",
+            "tip": "Vederi largi asupra parcului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Towcester Racecourse Grounds",
+            "tip": "Beautiful vistas over the historic parkland.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silverstone Museum Gift Shop",
+            "tip": "Große Auswahl für F1-Fans."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silverstone Múzeum ajándékbolt",
+            "tip": "Nagy választék F1 rajongóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Silverstone",
+            "tip": "O selecție mare pentru fanii F1."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silverstone Museum Gift Shop",
+            "tip": "Large selection of memorabilia for F1 fans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt reichlich Parkplätze an allen Stopps.",
+          "Die Rennbahn hat oft Abendveranstaltungen.",
+          "Stoke Bruerne ist nur 10 Autominuten von Towcester entfernt."
+        ],
+        "hu": [
+          "Minden megállónál bőséges parkolóhely áll rendelkezésre.",
+          "A versenypályán gyakran vannak esti rendezvények.",
+          "Stoke Bruerne mindössze 10 perc autóval Towcestertől."
+        ],
+        "ro": [
+          "Există parcare abundentă la toate opririle.",
+          "Hipodromul are adesea evenimente de seară.",
+          "Stoke Bruerne este la doar 10 minute de mers cu mașina."
+        ],
+        "en": [
+          "Ample parking is available at all major attractions.",
+          "Check racecourse schedules for evening fixtures.",
+          "Stoke Bruerne is a quick 10-minute drive from Towcester center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 22.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Northampton Bahnhof",
+            "hu": "Northampton vasútállomás",
+            "ro": "Gara Northampton",
+            "en": "Northampton Railway Station"
+          },
+          "coords": [
+            -0.902,
+            52.238
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 88 nach Towcester.",
+            "hu": "Szálljon fel a 88-as buszra Towcester felé.",
+            "ro": "Luați autobuzul 88 spre Towcester.",
+            "en": "Take bus 88 for a direct link to Towcester."
+          }
+        },
+        {
+          "name": {
+            "de": "Towcester Marktplatz",
+            "hu": "Towcester piactér",
+            "ro": "Piața Towcester",
+            "en": "Towcester Market Square"
+          },
+          "coords": [
+            -0.991,
+            52.13
+          ],
+          "category": "square",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Zentraler Ausstiegspunkt für alle Busse.",
+            "hu": "Központi leszállóhely minden busznak.",
+            "ro": "Punct central de coborâre pentru toate autobuzele.",
+            "en": "Central drop-off point for local bus services."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum & Lunch",
+            "hu": "Városi Múzeum és Ebéd",
+            "ro": "Muzeul Orașului și Prânz",
+            "en": "Town Museum & Lunch"
+          },
+          "coords": [
+            -0.991,
+            52.131
+          ],
+          "category": "gastro",
+          "arrive_at": "11:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Alles ist in Towcester leicht zu Fuß erreichbar.",
+            "hu": "Towcesterben minden könnyen elérhető gyalog.",
+            "ro": "Totul este ușor accesibil pe jos în Towcester.",
+            "en": "Everything in Towcester center is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Towcester Mill",
+            "hu": "Towcester Mill",
+            "ro": "Towcester Mill",
+            "en": "Towcester Mill"
+          },
+          "coords": [
+            -0.988,
+            52.129
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein 10-minütiger Spaziergang vom Marktplatz.",
+            "hu": "10 perc séta a piactértől.",
+            "ro": "O plimbare de 10 minute din piață.",
+            "en": "A pleasant 10-minute walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Rückfahrt",
+            "hu": "Buszmegálló visszaútra",
+            "ro": "Stație de autobuz pentru retur",
+            "en": "Bus Stop for Return"
+          },
+          "coords": [
+            -0.991,
+            52.13
+          ],
+          "category": "transit",
+          "arrive_at": "16:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bus 88 zurück nach Northampton.",
+            "hu": "88-as busz vissza Northamptonba.",
+            "ro": "Autobuzul 88 înapoi spre Northampton.",
+            "en": "Bus 88 returns to Northampton station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Towcester ist hervorragend an Northampton angebunden. Beginnen Sie Ihren Besuch mit einer Busfahrt direkt zum historischen Marktplatz. Verbringen Sie den Vormittag mit der Erkundung des Museums und einem typisch britischen Mittagessen in der Nähe. Ein kleiner Spaziergang führt Sie zur Towcester Mill, wo Sie lokales Bier probieren können, bevor Sie den Bus für die Rückreise nehmen. Ein stressfreier Tag ganz ohne Auto.",
+        "hu": "Towcester kiváló buszkapcsolattal rendelkezik Northamptonnal. Kezdje látogatását egy buszúttal közvetlenül a történelmi piactérre. Töltse a délelőttöt a múzeum felfedezésével és egy közeli, jellegzetes brit ebéddel. Rövid séta vezet a Towcester Millhez, ahol helyi sört kóstolhat, mielőtt felszállna a hazafelé tartó buszra. Autómentes, stresszmentes nap.",
+        "ro": "Towcester are o conexiune excelentă cu Northampton. Începeți vizita cu o călătorie cu autobuzul direct în piața istorică. Petreceți dimineața explorând muzeul și luând un prânz britanic tipic în apropiere. O scurtă plimbare vă duce la Towcester Mill pentru a gusta bere locală înainte de a lua autobuzul înapoi. O zi relaxantă, fără mașină.",
+        "en": "Towcester is well-connected to Northampton by bus. Start your visit with a direct bus ride to the historic Market Square. Spend the morning exploring the museum and enjoying a typical British lunch nearby. A short walk takes you to the Towcester Mill for local beer tasting before catching your return bus. A stress-free day without the need for a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Brave Old Oak",
+            "tip": "Gemütlicher Pub in der Nähe des Marktplatzes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Brave Old Oak",
+            "tip": "Hangulatos pub a piactér közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Brave Old Oak",
+            "tip": "Pub primitor lângă piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Brave Old Oak",
+            "tip": "A cozy and traditional pub near the market square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St Lawrence Graveyard",
+            "tip": "Ruhige historische Anlage.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Lőrinc temetőkert",
+            "tip": "Nyugodt történelmi kert.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Sf. Laurențiu",
+            "tip": "Zonă istorică liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Lawrence's Churchyard",
+            "tip": "Peaceful historic grounds in the town center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Towcester Country Market",
+            "tip": "Frische lokale Produkte jeden Freitag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Towcester vidéki piac",
+            "tip": "Friss helyi termékek minden pénteken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața rurală Towcester",
+            "tip": "Produse locale proaspete în fiecare vineri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Towcester Country Market",
+            "tip": "Fresh local produce available every Friday morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bus 88 verkehrt stündlich.",
+          "Towcester ist kompakt und fußgängerfreundlich.",
+          "Die Mill Brewery hat einen tollen Biergarten."
+        ],
+        "hu": [
+          "A 88-as busz óránként közlekedik.",
+          "Towcester kompakt és gyalogosbarát.",
+          "A Mill sörfőzdének remek sörkertje van."
+        ],
+        "ro": [
+          "Autobuzul 88 circulă la fiecare oră.",
+          "Towcester este compact și prietenos cu pietonii.",
+          "Mill Brewery are o grădină de vară superbă."
+        ],
+        "en": [
+          "Bus 88 runs hourly between Northampton and Towcester.",
+          "The town is compact and very easy to navigate on foot.",
+          "Towcester Mill has a large outdoor seating area by the river."
+        ]
+      }
+    }
+  }
+}

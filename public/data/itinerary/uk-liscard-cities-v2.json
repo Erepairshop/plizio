@@ -1,0 +1,1195 @@
+{
+  "city_id": "uk-liscard-cities-v2",
+  "anchor": {
+    "name": "Liscard",
+    "coords": [
+      53.419,
+      -3.047
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cherry Tree Centre",
+            "hu": "Cherry Tree Centre",
+            "ro": "Cherry Tree Centre",
+            "en": "Cherry Tree Centre"
+          },
+          "coords": [
+            53.4205,
+            -3.0455
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Kaffee inmitten des lokalen Treibens.",
+            "hu": "Kezdje a napot egy kávéval a helyi forgatag közepén.",
+            "ro": "Începeți ziua cu o cafea în mijlocul agitației locale.",
+            "en": "Start your day with a coffee amidst the local bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Liscard Hall",
+            "hu": "Liscard Hall",
+            "ro": "Liscard Hall",
+            "en": "Liscard Hall"
+          },
+          "coords": [
+            53.4182,
+            -3.0485
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Herrenhauses von 1835.",
+            "hu": "Csodálja meg az 1835-ös kúria klasszicista építészetét.",
+            "ro": "Admirați arhitectura neoclasică a conacului din 1835.",
+            "en": "Admire the neoclassical architecture of the 1835 mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Park",
+            "hu": "Central Park",
+            "ro": "Central Park",
+            "en": "Central Park"
+          },
+          "coords": [
+            53.4175,
+            -3.0512
+          ],
+          "category": "park",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang am See.",
+            "hu": "Tökéletes hely egy tóparti sétához a város szívében.",
+            "ro": "Locul perfect pentru o plimbare pe malul lacului.",
+            "en": "The perfect spot for a lakeside stroll in the city heart."
+          }
+        },
+        {
+          "name": {
+            "de": "St Albans Church",
+            "hu": "Szent Albán-templom",
+            "ro": "Biserica St Albans",
+            "en": "St Albans Church"
+          },
+          "coords": [
+            53.4195,
+            -3.0558
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe mit beeindruckender Backsteinarchitektur.",
+            "hu": "A nyugalom szigete lenyűgöző téglaépítészettel.",
+            "ro": "O oază de liniște cu o arhitectură impresionantă din cărămidă.",
+            "en": "A peaceful retreat with impressive brick architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mill Lane Gastro-Pause",
+            "hu": "Mill Lane gasztro-megálló",
+            "ro": "Pauză gastronomică pe Mill Lane",
+            "en": "Mill Lane Gastro Stop"
+          },
+          "coords": [
+            53.4212,
+            -3.0535
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten in den traditionellen Pubs.",
+            "hu": "Kóstolja meg a helyi fogásokat a hagyományos pubok egyikében.",
+            "ro": "Gustați preparatele locale într-unul dintre pub-urile tradiționale.",
+            "en": "Sample local dishes in one of the traditional pubs."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Park",
+            "hu": "Viktória Park",
+            "ro": "Parcul Victoria",
+            "en": "Victoria Park"
+          },
+          "coords": [
+            53.4265,
+            -3.0528
+          ],
+          "category": "park",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie den traditionellen Pavillon im Zentrum des Parks.",
+            "hu": "Nézze meg a park közepén álló hangulatos pavilont.",
+            "ro": "Vizitați pavilionul fermecător din mijlocul parcului.",
+            "en": "Check out the charming bandstand in the park center."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallasey Town Hall",
+            "hu": "Wallasey városháza",
+            "ro": "Primăria Wallasey",
+            "en": "Wallasey Town Hall"
+          },
+          "coords": [
+            53.4225,
+            -3.0335
+          ],
+          "category": "civic",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein monumentales Gebäude direkt am Ufer des Mersey.",
+            "hu": "Monumentális neoklasszicista épület a Mersey partján.",
+            "ro": "O clădire neoclasică monumentală pe malul râului Mersey.",
+            "en": "A monumental neoclassical building on the Mersey banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Egremont Promenade",
+            "hu": "Egremont sétány",
+            "ro": "Promenada Egremont",
+            "en": "Egremont Promenade"
+          },
+          "coords": [
+            53.4198,
+            -3.0312
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Skyline von Liverpool.",
+            "hu": "Élvezze a liverpooli panorámát a naplemente fényeiben.",
+            "ro": "Bucurați-vă de panorama orașului Liverpool la apus.",
+            "en": "Enjoy the Liverpool skyline views in the sunset light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Liscard zu Fuß, beginnend im geschäftigen Zentrum am Cherry Tree Centre. Ein Spaziergang durch den Central Park führt Sie zur historischen Liscard Hall, einem Juwel aus dem 19. Jahrhundert. Nach einer kulturellen Pause an der St Albans Church laden die Cafés der Mill Lane zu einer Stärkung ein. Der Nachmittag gehört der Ruhe im Victoria Park, bevor Sie zum beeindruckenden Rathaus am Mersey-Ufer weiterziehen. Den krönenden Abschluss bildet der Panoramablick von der Egremont Promenade über den Fluss nach Liverpool.",
+        "hu": "Fedezze fel Liscardot gyalogosan, a nyüzsgő Cherry Tree Centre-től indulva. A Central Parkon átvezető út a történelmi Liscard Hallhoz, egy 19. századi építészeti gyöngyszemhez vezet. A Szent Albán-templom megtekintése után a Mill Lane hangulatos kávézói várják. Délután élvezze a Victoria Park nyugalmát, majd látogasson el a Mersey partján álló monumentális városházához. A napot az Egremont sétányon zárja, ahonnan lélegzetelállító kilátás nyílik a túlparti Liverpool sziluettjére.",
+        "ro": "Descoperiți Liscard la pas, pornind din centrul animat Cherry Tree Centre. O plimbare prin Central Park vă va duce la istorica Liscard Hall, o bijuterie arhitecturală din secolul al XIX-lea. După vizitarea bisericii St Albans, cafenelele primitoare de pe Mill Lane vă așteaptă pentru o pauză. După-amiaza, bucurați-vă de liniștea din Victoria Park, apoi vizitați primăria monumentală de pe malul Mersey. Încheiați ziua pe promenada Egremont, de unde aveți o vedere uluitoare asupra orizontului orașului Liverpool.",
+        "en": "Explore Liscard on foot, starting from the bustling Cherry Tree Centre. A stroll through Central Park leads you to the historic Liscard Hall, a 19th-century architectural gem. After visiting St Albans Church, the cozy cafés of Mill Lane invite you for a break. In the afternoon, enjoy the peace of Victoria Park, then visit the monumental Town Hall on the Mersey banks. End your day on the Egremont Promenade, offering breathtaking views of the Liverpool skyline across the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Lazy Landlord",
+            "tip": "Gemütlicher Micropub mit exzellenten lokalen Real Ales."
+          },
+          {
+            "name": "Mill Lane Tea Rooms",
+            "tip": "Klassischer Afternoon Tea in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Lazy Landlord",
+            "tip": "Hangulatos mikropub kiváló helyi kézműves sörökkel."
+          },
+          {
+            "name": "Mill Lane Tea Rooms",
+            "tip": "Klasszikus délutáni tea történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Lazy Landlord",
+            "tip": "Micropub primitor cu beri artizanale locale excelente."
+          },
+          {
+            "name": "Mill Lane Tea Rooms",
+            "tip": "Ceai de după-amiază clasic într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lazy Landlord",
+            "tip": "Cozy micropub with excellent local real ales."
+          },
+          {
+            "name": "Mill Lane Tea Rooms",
+            "tip": "Classic afternoon tea in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Central Park Lake",
+            "tip": "Ruhiger Platz zum Beobachten von Wasservögeln.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Egremont Promenade",
+            "tip": "Perfekter Ort für den Sonnenuntergang über dem Mersey.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Central Park tó",
+            "tip": "Békés hely a vízimadarak megfigyelésére.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Egremont sétány",
+            "tip": "Tökéletes helyszín a Mersey feletti naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din Central Park",
+            "tip": "Loc liniștit pentru observarea păsărilor de apă.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Promenada Egremont",
+            "tip": "Loc perfect pentru apusul soarelui peste Mersey.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Park Lake",
+            "tip": "Peaceful spot for watching waterfowl.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Egremont Promenade",
+            "tip": "Perfect spot for sunset over the Mersey.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cherry Tree Centre",
+            "tip": "Regionales Einkaufszentrum mit lokalen Händlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cherry Tree Centre",
+            "tip": "Regionális bevásárlóközpont helyi üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cherry Tree Centre",
+            "tip": "Centru comercial regional cu comercianți locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cherry Tree Centre",
+            "tip": "Regional shopping centre with local retailers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Promenade ist bei jedem Wetter einen Besuch wert.",
+          "Parken Sie am besten am Cherry Tree Centre.",
+          "Gute Wanderschuhe sind für den Weg zum Ufer ratsam."
+        ],
+        "hu": [
+          "A sétány minden időjárásban különleges élményt nyújt.",
+          "A legkönnyebb parkolás a Cherry Tree Centre-nél van.",
+          "Kényelmes cipő ajánlott a parti sétához."
+        ],
+        "ro": [
+          "Promenada merită vizitată indiferent de vreme.",
+          "Cea mai bună parcare este la Cherry Tree Centre.",
+          "Se recomandă încălțăminte comodă pentru plimbarea pe mal."
+        ],
+        "en": [
+          "The promenade is worth a visit in any weather.",
+          "Best parking is at the Cherry Tree Centre.",
+          "Comfortable walking shoes are advised for the riverside trek."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Central Park",
+            "hu": "Central Park",
+            "ro": "Central Park",
+            "en": "Central Park"
+          },
+          "coords": [
+            53.4175,
+            -3.0512
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radeln Sie auf den breiten Wegen durch den Park.",
+            "hu": "Kerekezzen a park széles aszfaltozott útjain.",
+            "ro": "Mergeți cu bicicleta pe aleile largi din parc.",
+            "en": "Cycle along the wide paved paths through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallasey Town Hall",
+            "hu": "Wallasey városháza",
+            "ro": "Primăria Wallasey",
+            "en": "Wallasey Town Hall"
+          },
+          "coords": [
+            53.4225,
+            -3.0335
+          ],
+          "category": "civic",
+          "arrive_at": "10:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Stoppen Sie für ein Foto der beeindruckenden Fassade.",
+            "hu": "Álljon meg egy fotóra a lenyűgöző homlokzat előtt.",
+            "ro": "Opriți-vă pentru o fotografie a fațadei impresionante.",
+            "en": "Stop for a photo of the impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Egremont Promenade",
+            "hu": "Egremont sétány",
+            "ro": "Promenada Egremont",
+            "en": "Egremont Promenade"
+          },
+          "coords": [
+            53.4198,
+            -3.0312
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Flache Strecke mit konstantem Blick auf den Mersey.",
+            "hu": "Sík terep folyamatos kilátással a Mersey-folyóra.",
+            "ro": "Traseu plat cu vedere constantă la râul Mersey.",
+            "en": "Flat route with constant views of the River Mersey."
+          }
+        },
+        {
+          "name": {
+            "de": "Tower Grounds",
+            "hu": "Tower Grounds",
+            "ro": "Tower Grounds",
+            "en": "Tower Grounds"
+          },
+          "coords": [
+            53.4385,
+            -3.0415
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Historisches Areal mit viel Platz zum Ausruhen.",
+            "hu": "Történelmi terület sok hellyel a pihenésre.",
+            "ro": "Zonă istorică cu mult spațiu pentru relaxare.",
+            "en": "Historic area with plenty of space for resting."
+          }
+        },
+        {
+          "name": {
+            "de": "Seacombe Ferry Lunch",
+            "hu": "Seacombe Ferry ebéd",
+            "ro": "Prânz la feribotul Seacombe",
+            "en": "Seacombe Ferry Lunch"
+          },
+          "coords": [
+            53.4095,
+            -3.0185
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich am Fährterminal für den Rückweg.",
+            "hu": "Frissüljön fel a kompkikötőnél a visszaút előtt.",
+            "ro": "Reîncărcați-vă bateriile la terminalul de feribot.",
+            "en": "Recharge at the ferry terminal before the ride back."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Park Finish",
+            "hu": "Victoria Park zárás",
+            "ro": "Final în Parcul Victoria",
+            "en": "Victoria Park Finish"
+          },
+          "coords": [
+            53.4265,
+            -3.0528
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein entspannter Ausklang Ihrer Radtour.",
+            "hu": "A kerékpártúra kellemes és pihentető lezárása.",
+            "ro": "O încheiere relaxantă a turului cu bicicleta.",
+            "en": "A relaxing end to your cycling tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die grünen Lungen Liscards mit der weiten Küste des Mersey. Sie starten entspannt im Central Park, radeln dann hinunter zum Flussufer und genießen die flache Strecke entlang der Egremont Promenade. Nach einem Abstecher zu den historischen Tower Grounds führt der Weg zum Seacombe Ferry Terminal für ein Mittagessen mit Blick auf Liverpool. Die Tour endet ruhig im Victoria Park.",
+        "hu": "Ez a kerékpártúra összeköti Liscard zöldövezeteit a Mersey tágas partvidékével. A Central Parkból indulva legurulunk a folyópartra, és élvezzük a sík terepet az Egremont sétányon. A történelmi Tower Grounds érintése után a Seacombe kompkikötőhöz tekerünk egy liverpooli panorámás ebédre. A túra a Victoria Parkban ér véget.",
+        "ro": "Acest tur cu bicicleta combină zonele verzi din Liscard cu malul vast al râului Mersey. Pornind din Central Park, coborâm spre malul râului și ne bucurăm de traseul plat de-a lungul promenadei Egremont. După o vizită la Tower Grounds, pedalăm spre terminalul de feribot Seacombe pentru un prânz cu vedere spre Liverpool. Turul se încheie liniștit în Parcul Victoria.",
+        "en": "This cycling tour connects Liscard's green lungs with the wide Mersey coastline. Starting in Central Park, we head down to the riverside and enjoy the flat terrain along Egremont Promenade. After visiting the historic Tower Grounds, we pedal to the Seacombe Ferry terminal for lunch with Liverpool views. The tour ends peacefully in Victoria Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seacombe Ferry Café",
+            "tip": "Snacks mit dem besten Blick auf die Mersey-Fähren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seacombe Ferry Café",
+            "tip": "Snackek a legjobb kilátással a Mersey kompokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seacombe Ferry Café",
+            "tip": "Gustări cu cea mai bună vedere la feriboturile Mersey."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seacombe Ferry Café",
+            "tip": "Snacks with the best view of the Mersey ferries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vale Park",
+            "tip": "Wunderschöner Park nahe der Promenade mit Feengarten.",
+            "emoji": "🧚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vale Park",
+            "tip": "Gyönyörű park a sétány közelében tündérkerttel.",
+            "emoji": "🧚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vale Park",
+            "tip": "Parc frumos lângă promenadă cu o grădină a zânelor.",
+            "emoji": "🧚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vale Park",
+            "tip": "Beautiful park near the promenade with a fairy garden.",
+            "emoji": "🧚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Liscard Market",
+            "tip": "Regionale Produkte für ein Picknick im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liscard piac",
+            "tip": "Helyi termékek egy parkbéli piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Liscard",
+            "tip": "Produse locale pentru un picnic în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Liscard Market",
+            "tip": "Local produce for a picnic in the park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Die Wege im Central Park sind gut asphaltiert.",
+          "Ein Schloss ist für die Stopps an den Sehenswürdigkeiten nötig."
+        ],
+        "hu": [
+          "Figyeljen a gyalogosokra a sétányon.",
+          "A Central Park útjai jól aszfaltozottak.",
+          "A látnivalóknál szükség lesz kerékpárzárra."
+        ],
+        "ro": [
+          "Atenție la pietoni pe promenadă.",
+          "Aleile din Central Park sunt bine asfaltate.",
+          "Veți avea nevoie de un sistem de antifurt la obiective."
+        ],
+        "en": [
+          "Watch out for pedestrians on the promenade.",
+          "Central Park paths are well paved.",
+          "A bike lock is necessary at the sightseeing stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Liscard Village Core",
+            "hu": "Liscard központ",
+            "ro": "Centrul Liscard",
+            "en": "Liscard Village Core"
+          },
+          "coords": [
+            53.4205,
+            -3.0455
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Cherry Tree Centre.",
+            "hu": "Parkoljon a Cherry Tree Centre mélygarázsában.",
+            "ro": "Parcați la Cherry Tree Centre.",
+            "en": "Park at the Cherry Tree Centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Park Walk",
+            "hu": "Central Park séta",
+            "ro": "Plimbare în Central Park",
+            "en": "Central Park Walk"
+          },
+          "coords": [
+            53.4175,
+            -3.0512
+          ],
+          "category": "park",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz zum See.",
+            "hu": "Rövid séta a parkolótól a tóig.",
+            "ro": "Scurtă plimbare de la parcare la lac.",
+            "en": "Short walk from the parking to the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "New Brighton Promenade",
+            "hu": "New Brighton sétány",
+            "ro": "Promenada New Brighton",
+            "en": "New Brighton Promenade"
+          },
+          "coords": [
+            53.4415,
+            -3.0435
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das nahegelegene Fort Perch Rock zu Fuß.",
+            "hu": "Fedezze fel a közeli Fort Perch Rock erődöt gyalog.",
+            "ro": "Explorați fortul Perch Rock din apropiere la pas.",
+            "en": "Explore the nearby Fort Perch Rock on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Point Gastro",
+            "hu": "Marine Point gasztro",
+            "ro": "Gastro la Marine Point",
+            "en": "Marine Point Gastro"
+          },
+          "coords": [
+            53.4425,
+            -3.0405
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Große Auswahl an Restaurants direkt am Meer.",
+            "hu": "Éttermek széles választéka közvetlenül a tengerparton.",
+            "ro": "O gamă largă de restaurante chiar la malul mării.",
+            "en": "Wide range of restaurants right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallasey Town Hall",
+            "hu": "Wallasey városháza",
+            "ro": "Primăria Wallasey",
+            "en": "Wallasey Town Hall"
+          },
+          "coords": [
+            53.4225,
+            -3.0335
+          ],
+          "category": "civic",
+          "arrive_at": "14:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken am Ufer für den besten Blick auf Liverpool.",
+            "hu": "Parkoljon a parton a legjobb liverpooli kilátásért.",
+            "ro": "Parcați pe mal pentru cea mai bună vedere spre Liverpool.",
+            "en": "Park on the bank for the best Liverpool views."
+          }
+        },
+        {
+          "name": {
+            "de": "Egremont Shore Walk",
+            "hu": "Egremont parti séta",
+            "ro": "Plimbare pe țărm la Egremont",
+            "en": "Egremont Shore Walk"
+          },
+          "coords": [
+            53.4198,
+            -3.0312
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Strandspaziergang (Cluster B).",
+            "hu": "Rövid tengerparti séta (B-klaszter).",
+            "ro": "Scurtă plimbare pe plajă (Cluster B).",
+            "en": "Short beach walk (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Leasowe Lighthouse",
+            "hu": "Leasowe világítótorony",
+            "ro": "Farul Leasowe",
+            "en": "Leasowe Lighthouse"
+          },
+          "coords": [
+            53.4175,
+            -3.1235
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Der älteste Ziegel-Leuchtturm Großbritanniens.",
+            "hu": "Nagy-Britannia legrégebbi tégla világítótornya.",
+            "ro": "Cel mai vechi far de cărămidă din Marea Britanie.",
+            "en": "The oldest brick lighthouse in Great Britain."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset at North Wirral",
+            "hu": "Naplemente Észak-Wirralon",
+            "ro": "Apus în North Wirral",
+            "en": "Sunset at North Wirral"
+          },
+          "coords": [
+            53.4185,
+            -3.1255
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spektakulärer Abschluss an der Irischen See.",
+            "hu": "Látványos naplemente az Ír-tenger felett.",
+            "ro": "Apus de soare spectaculos peste Marea Irlandei.",
+            "en": "Spectacular sunset over the Irish Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt das Cluster-Walking-Prinzip: Parken Sie in Liscard für das Stadtzentrum, dann in New Brighton für die Küste und das Fort, und schließlich an der Wallasey Town Hall für die Skyline. Als besonderes Highlight führt der Weg zum historischen Leasowe Lighthouse, dem ältesten seiner Art, wo Sie einen spektakulären Sonnenuntergang an der Irischen See genießen können.",
+        "hu": "Ez az autós túra a klaszter-séta elvét követi: parkolás Liscardban a központért, New Brightonban a partért és az erődi látnivalókért, majd a városházánál a panorámáért. Különleges kitérőként ellátogatunk a történelmi Leasowe világítótoronyhoz, amely a legrégebbi a maga nemében, és tökéletes helyszín az Ír-tenger feletti naplementéhez.",
+        "ro": "Acest tur cu mașina utilizează principiul cluster-walking: parcați în Liscard pentru centru, în New Brighton pentru malul mării și fort, apoi la primărie pentru panoramă. Ca punct culminant, drumul duce la istoricul far Leasowe, cel mai vechi de acest tip, unde puteți savura un apus spectaculos peste Marea Irlandei.",
+        "en": "This car tour follows the cluster-walking principle: park in Liscard for the centre, in New Brighton for the coast and fort, and at the Town Hall for the skyline. As a special highlight, the route leads to the historic Leasowe Lighthouse, the oldest of its kind, where you can enjoy a spectacular sunset over the Irish Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marine Point Restaurants",
+            "tip": "Moderne Gastronomie mit Blick auf das Fort Perch Rock."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marine Point éttermek",
+            "tip": "Modern gasztronómia kilátással a Fort Perch Rock erődre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Marine Point",
+            "tip": "Gastronomie modernă cu vedere la Fort Perch Rock."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marine Point Restaurants",
+            "tip": "Modern dining with views of Fort Perch Rock."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leasowe Common",
+            "tip": "Weite Küstenlandschaft für absolute Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leasowe Common",
+            "tip": "Tágas tengerparti terület a teljes nyugalomhoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leasowe Common",
+            "tip": "Peisaj costier vast pentru liniște deplină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leasowe Common",
+            "tip": "Vast coastal landscape for absolute peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "New Brighton Gift Shops",
+            "tip": "Maritime Souvenirs und lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "New Brighton ajándékboltok",
+            "tip": "Tengeri szuvenírek és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de cadouri New Brighton",
+            "tip": "Suveniruri maritime și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "New Brighton Gift Shops",
+            "tip": "Maritime souvenirs and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die großen Parkplätze in New Brighton.",
+          "Das Lighthouse ist nur zu bestimmten Zeiten von innen zu besichtigen.",
+          "Planen Sie Zeit für die Cluster-Spaziergänge ein."
+        ],
+        "hu": [
+          "Használja New Brighton tágas parkolóit.",
+          "A világítótorony csak bizonyos időpontokban látogatható belülről.",
+          "Hagyjon időt a klasztereken belüli sétákra."
+        ],
+        "ro": [
+          "Folosiți parcările mari din New Brighton.",
+          "Farul poate fi vizitat în interior doar la anumite ore.",
+          "Rezervați timp pentru plimbările în cadrul clusterelor."
+        ],
+        "en": [
+          "Use the large car parks in New Brighton.",
+          "The lighthouse is only open for interior visits at specific times.",
+          "Allow time for the cluster-walking segments."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Liscard Village Core",
+            "hu": "Liscard központ",
+            "ro": "Centrul Liscard",
+            "en": "Liscard Village Core"
+          },
+          "coords": [
+            53.4205,
+            -3.0455
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt für die gesamte Wirral.",
+            "hu": "Központi buszcsomópont az egész Wirral-félszigethez.",
+            "ro": "Nod central de autobuze pentru întreaga peninsulă Wirral.",
+            "en": "Central bus hub for the entire Wirral."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Park",
+            "hu": "Central Park",
+            "ro": "Central Park",
+            "en": "Central Park"
+          },
+          "coords": [
+            53.4175,
+            -3.0512
+          ],
+          "category": "park",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Liscard Village (Cluster A).",
+            "hu": "Rövid séta Liscard központjától (A-klaszter).",
+            "ro": "Scurtă plimbare din Liscard Village (Cluster A).",
+            "en": "Short walk from Liscard Village (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "New Brighton Hub",
+            "hu": "New Brighton központ",
+            "ro": "New Brighton Hub",
+            "en": "New Brighton Hub"
+          },
+          "coords": [
+            53.4405,
+            -3.0455
+          ],
+          "category": "cultural",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Mit dem Bus 432 direkt an die Küste.",
+            "hu": "A 432-es busszal menjen le közvetlenül a partra.",
+            "ro": "Luați autobuzul 432 direct către malul mării.",
+            "en": "Take bus 432 directly to the seafront."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Waterfront",
+            "hu": "Vízparti ebéd",
+            "ro": "Prânz pe malul apei",
+            "en": "Lunch at Waterfront"
+          },
+          "coords": [
+            53.4415,
+            -3.0425
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie Fish and Chips am Meer (Cluster B).",
+            "hu": "Egyen egy klasszikus fish and chipset a parton (B-klaszter).",
+            "ro": "Savurați celebrul fish and chips la malul mării (Cluster B).",
+            "en": "Enjoy classic fish and chips by the sea (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallasey Town Hall",
+            "hu": "Wallasey városháza",
+            "ro": "Primăria Wallasey",
+            "en": "Wallasey Town Hall"
+          },
+          "coords": [
+            53.4225,
+            -3.0335
+          ],
+          "category": "civic",
+          "arrive_at": "14:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bus 411 bringt Sie direkt vor das imposante Gebäude.",
+            "hu": "A 411-es busz közvetlenül az épület előtt áll meg.",
+            "ro": "Autobuzul 411 vă lasă chiar în fața clădirii.",
+            "en": "Bus 411 stops right in front of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Egremont Promenade Walk",
+            "hu": "Egremont sétány séta",
+            "ro": "Plimbare pe promenada Egremont",
+            "en": "Egremont Promenade Walk"
+          },
+          "coords": [
+            53.4198,
+            -3.0312
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang am Mersey (Cluster C).",
+            "hu": "Séta a Mersey partján (C-klaszter).",
+            "ro": "Plimbare pe malul Mersey (Cluster C).",
+            "en": "Stroll along the Mersey (Cluster C)."
+          }
+        },
+        {
+          "name": {
+            "de": "Seacombe Ferry Terminal",
+            "hu": "Seacombe kompkikötő",
+            "ro": "Terminal feribot Seacombe",
+            "en": "Seacombe Ferry Terminal"
+          },
+          "coords": [
+            53.4095,
+            -3.0185
+          ],
+          "category": "harbor",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ende der Tour mit Fährverbindung nach Liverpool.",
+            "hu": "A túra vége, komppal átkelhet Liverpoolba.",
+            "ro": "Finalul turului, puteți lua feribotul spre Liverpool.",
+            "en": "End of tour, ferry connection to Liverpool available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Transit-Tour nutzt das effiziente Busnetz von Wallasey, um drei Hauptcluster zu verbinden: das Herz von Liscard (Cluster A), die Küste von New Brighton (Cluster B) und die Mersey-Uferpromenade (Cluster C). Zwischen den Stationen spazieren Sie bequem zu den Sehenswürdigkeiten. Die Tour endet am Fährterminal Seacombe, von wo aus Sie stilecht nach Liverpool übersetzen können.",
+        "hu": "Ez a közösségi közlekedéssel tervezett túra Wallasey hatékony buszhálózatát használja három fő klaszter összekötésére: Liscard szívét (A-klaszter), New Brighton partvidékét (B-klaszter) és a Mersey-menti sétányt (C-klaszter). A megállók között kényelmes sétával érjük el a látnivalókat. A túra a Seacombe kompkikötőnél ér véget, ahonnan stílusosan átkelhet Liverpoolba.",
+        "ro": "Acest tur cu transportul public utilizează rețeaua eficientă de autobuze din Wallasey pentru a conecta trei clustere principale: inima Liscard (Cluster A), zona de coastă New Brighton (Cluster B) și promenada de pe malul Mersey (Cluster C). Între stații, veți ajunge la obiective printr-o plimbare comodă. Turul se încheie la terminalul de feribot Seacombe, de unde puteți trece cu stil spre Liverpool.",
+        "en": "This transit tour uses Wallasey's efficient bus network to connect three main clusters: the heart of Liscard (Cluster A), the New Brighton coast (Cluster B), and the Mersey riverside promenade (Cluster C). Between stops, you'll reach the sights with a comfortable walk. The tour ends at the Seacombe Ferry terminal, from where you can cross over to Liverpool in style."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Mess",
+            "tip": "Moderne Küche in der Nähe des New Brighton Busbahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Mess",
+            "tip": "Modern konyha a New Brighton buszpályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Mess",
+            "tip": "Bucătărie modernă lângă autogara New Brighton."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Mess",
+            "tip": "Modern cuisine near the New Brighton bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Victoria Gardens",
+            "tip": "Kleiner, ruhiger Garten abseits der Touristenströme.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Victoria Gardens",
+            "tip": "Kicsi, csendes kert távol a turisták tömegétől.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Victoria Gardens",
+            "tip": "Grădină mică și liniștită departe de fluxul de turiști.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Victoria Gardens",
+            "tip": "Small, quiet garden away from the tourist crowds.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Liscard High Street",
+            "tip": "Traditionelle britische Geschäfte und Märkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liscard High Street",
+            "tip": "Hagyományos brit üzletek és piacok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Liscard High Street",
+            "tip": "Magazine și piețe britanice tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Liscard High Street",
+            "tip": "Traditional British shops and markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine 'Merseytravel DaySaver' Karte.",
+          "Busse verkehren regelmäßig zwischen Liscard und New Brighton.",
+          "Laden Sie die 'Arriva' App für Echtzeit-Infos herunter."
+        ],
+        "hu": [
+          "Használjon 'Merseytravel DaySaver' kártyát.",
+          "A buszok gyakran járnak Liscard és New Brighton között.",
+          "Töltse le az 'Arriva' alkalmazást a valós idejű infókért."
+        ],
+        "ro": [
+          "Folosiți un card 'Merseytravel DaySaver'.",
+          "Autobuzele circulă regulat între Liscard și New Brighton.",
+          "Descărcați aplicația 'Arriva' pentru informații în timp real."
+        ],
+        "en": [
+          "Use a 'Merseytravel DaySaver' card.",
+          "Buses run frequently between Liscard and New Brighton.",
+          "Download the 'Arriva' app for real-time bus info."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "ht-jacmel",
+  "anchor": {
+    "name": "Jacmel",
+    "coords": [
+      -72.5333,
+      18.2333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaffee-Speicher Distrikt",
+            "hu": "Kávéház-negyed",
+            "ro": "Districtul depozitelor de cafea",
+            "en": "Coffee Warehouse District"
+          },
+          "coords": [
+            -72.534,
+            18.232
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eisenarchitektur wie in New Orleans.",
+            "hu": "Vasszerkezetes építészet, mint New Orleansban.",
+            "ro": "Arhitectură metalică similară cu New Orleans.",
+            "en": "Cast-iron architecture similar to New Orleans."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthandwerks-Meile",
+            "hu": "Kézműves utca",
+            "ro": "Strada Artizanilor",
+            "en": "Artisans Street"
+          },
+          "coords": [
+            -72.535,
+            18.234
+          ],
+          "category": "shopping",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Berühmt für Pappmaché-Masken.",
+            "hu": "Híres a papírmasé maszkokról.",
+            "ro": "Celebru pentru măștile papier-mâché.",
+            "en": "World-famous for papier-mâché masks."
+          }
+        },
+        {
+          "name": {
+            "de": "Jacmel Kathedrale",
+            "hu": "Jacmel katedrális",
+            "ro": "Catedrala din Jacmel",
+            "en": "Jacmel Cathedral"
+          },
+          "coords": [
+            -72.533,
+            18.235
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wiederaufgebautes religiöses Wahrzeichen.",
+            "hu": "Újjáépített vallási jelkép.",
+            "ro": "Punct de reper religios restaurat.",
+            "en": "Restored religious landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebéd a parton (Lakay)",
+            "hu": "Ebéd a parton (Lakay)",
+            "ro": "Prânz pe plajă",
+            "en": "Lunch by the Sea"
+          },
+          "coords": [
+            -72.532,
+            18.231
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kultureller Treffpunkt mit Meerblick.",
+            "hu": "Kulturális találkozóhely kilátással.",
+            "ro": "Loc de întâlnire cu vedere la mare.",
+            "en": "Cultural hub with great ocean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosaik-Schilder-Seta",
+            "hu": "Mozaik-séta",
+            "ro": "Plimbarea cu mozaicuri",
+            "en": "Mosaic Walk"
+          },
+          "coords": [
+            -72.536,
+            18.233
+          ],
+          "category": "landmark",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Farbenfrohe Mosaike an Wänden und Treppen.",
+            "hu": "Színes mozaikok a falakon és lépcsőkön.",
+            "ro": "Mozaicuri colorate pe ziduri și scări.",
+            "en": "Colorful mosaics on walls and stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard du Bord de Mer",
+            "hu": "Tengerparti sugárút",
+            "ro": "Bulevardul de pe malul mării",
+            "en": "Waterfront Boulevard"
+          },
+          "coords": [
+            -72.531,
+            18.23
+          ],
+          "category": "sunset",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für den Abendspaziergang.",
+            "hu": "Tökéletes esti sétához.",
+            "ro": "Perfect pentru o plimbare de seară.",
+            "en": "Perfect for a scenic evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Jacmel ist Haitis Kunsthauptstadt. Schlendern Sie durch den historischen Distrikt, dessen Architektur New Orleans inspirierte, und bestaunen Sie die weltberühmten Pappmaché-Masken. Nach dem Mittagessen am Meer folgen Sie der Mosaik-Route durch die Stadt und beenden den Tag auf dem eleganten Boulevard am Wasser.",
+        "hu": "Jacmel Haiti művészeti fővárosa. Sétáljon végig a történelmi negyeden, melynek építészete New Orleanst is inspirálta, és csodálja meg a világhírű papírmasé maszkokat. A tengerparti ebéd után kövesse a mozaik-utat a városon át, majd zárja a napot az elegáns parti sugárúton.",
+        "ro": "Jacmel este capitala artistică a Haitiului. Plimbați-vă prin districtul istoric, a cărui arhitectură a inspirat New Orleans, și admirați faimoasele măști papier-mâché. După prânzul la malul mării, urmați ruta mozaicurilor și încheiați ziua pe faleza elegantă.",
+        "en": "Jacmel is Haiti's artistic soul. Stroll through the historic district whose architecture inspired New Orleans, and marvel at the world-famous papier-mâché masks. After a seaside lunch, follow the mosaic trail through the city and end your day on the elegant waterfront boulevard."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banan Pizé",
+            "tip": "Gepresste Kochbananen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banan Pizé",
+            "tip": "Préselt, sült főzőbanán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banan Pizé",
+            "tip": "Banane plantain presate și prăjite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banan Pizé",
+            "tip": "Twice-fried pressed plantains."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mosaik-Treppen",
+            "tip": "Inspiration und Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mozaik lépcsők",
+            "tip": "Inspiráció és nyugalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scările cu mozaic",
+            "tip": "Inspirație și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mosaic Stairs",
+            "tip": "Inspiration and quietude.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pappmaché-Ateliers",
+            "tip": "Handgefertigte Karnevalsmasken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papírmasé műhelyek",
+            "tip": "Kézzel készített karneváli maszkok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de papier-mâché",
+            "tip": "Măști de carnaval lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Papier-mâché Ateliers",
+            "tip": "Handcrafted traditional carnival masks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Jacmel ist berühmt für seinen Karneval im Februar.",
+          "Unterstützen Sie lokale Künstler durch direkten Kauf."
+        ],
+        "hu": [
+          "Jacmel híres a februári karneváljáról.",
+          "Támogasd a helyi művészeket közvetlen vásárlással."
+        ],
+        "ro": [
+          "Jacmel este faimos pentru carnavalul din februarie.",
+          "Susțineți artiștii locali cumpărând direct."
+        ],
+        "en": [
+          "Jacmel is renowned for its vibrant February Carnival.",
+          "Support local artists by purchasing directly from studios."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 30.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bassin-Bleu (Wanderstart)",
+            "hu": "Bassin-Bleu (túra kezdete)",
+            "ro": "Bassin-Bleu",
+            "en": "Bassin-Bleu (Trailhead)"
+          },
+          "coords": [
+            -72.6167,
+            18.2833
+          ],
+          "category": "lake",
+          "arrive_at": "09:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu den türkisblauen Becken.",
+            "hu": "Túrázzon a türkizkék medencékhez.",
+            "ro": "Mergeți la bazinele turcoaz.",
+            "en": "Hike to the stunning turquoise pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebéd Jacmel központjában",
+            "hu": "Ebéd Jacmel központjában",
+            "ro": "Prânz în centrul Jacmelului",
+            "en": "Lunch in Central Jacmel"
+          },
+          "coords": [
+            -72.533,
+            18.233
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich nach der Wanderung.",
+            "hu": "Frissüljön fel a túra után.",
+            "ro": "Reîncărcați-vă după drumeție.",
+            "en": "Recharge after the mountain hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthandwerksmarkt",
+            "hu": "Kézműves piac",
+            "ro": "Piața de artizanat",
+            "en": "Artisan Market"
+          },
+          "coords": [
+            -72.535,
+            18.234
+          ],
+          "category": "shopping",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bunte Kunst und Pappmaché.",
+            "hu": "Színes művészet és papírmasé.",
+            "ro": "Artă colorată și papier-mâché.",
+            "en": "Colorful art and papier-mâché works."
+          }
+        },
+        {
+          "name": {
+            "de": "Cyvadier Strand",
+            "hu": "Cyvadier strand",
+            "ro": "Plaja Cyvadier",
+            "en": "Cyvadier Beach"
+          },
+          "coords": [
+            -72.5,
+            18.22
+          ],
+          "category": "beach",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kleine, malerische Bucht zum Schwimmen.",
+            "hu": "Kicsi, festői öböl úszáshoz.",
+            "ro": "Golf mic și pitoresc pentru înot.",
+            "en": "Small, scenic cove perfect for a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard (Abendessen)",
+            "hu": "Sugárút (Vacsora)",
+            "ro": "Bulevardul principal",
+            "en": "Boulevard (Dinner)"
+          },
+          "coords": [
+            -72.531,
+            18.23
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Abschluss mit Meeresrauschen.",
+            "hu": "Búcsú az óceán morajával.",
+            "ro": "Încheiere cu sunetul valurilor.",
+            "en": "End your day with the sound of waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Tag kombiniert Abenteuer und Entspannung. Starten Sie mit der Wanderung zu den magischen Bassin-Bleu-Wasserfällen. Nach einem Mittagessen in der Stadt erkunden Sie die Kunstszene und beenden den Nachmittag am ruhigen Cyvadier-Strand, bevor es zum Abendessen zurück nach Jacmel geht.",
+        "hu": "Ez a nap a kalandot és a pihenést ötvözi. Kezdje a túrával a mágikus Bassin-Bleu vízesésekhez. A városi ebéd után fedezze fel a művészeti életet, majd töltse a délutánt a csendes Cyvadier strandon, mielőtt visszatérne Jacmelbe vacsorázni.",
+        "ro": "Această zi îmbină aventura și relaxarea. Începeți cu o drumeție la magicele cascade Bassin-Bleu. După prânzul în oraș, explorați scena artistică și petreceți după-amiaza pe plaja liniștită Cyvadier, înainte de cină.",
+        "en": "This day combines adventure and relaxation. Start with a hike to the magical Bassin-Bleu waterfalls. After lunch in town, explore the local art scene and spend the afternoon at the tranquil Cyvadier Beach before returning to Jacmel for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poisson Gros Sel",
+            "tip": "Fisch in grobem Meersalz gekocht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poisson Gros Sel",
+            "tip": "Durva tengeri sóban főtt hal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poisson Gros Sel",
+            "tip": "Pește gătit în sare mare de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poisson Gros Sel",
+            "tip": "Fish cooked in coarse sea salt and spices."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bassin Clair",
+            "tip": "Das oberste, leiseste Becken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bassin Clair",
+            "tip": "A legfelső, legcsendesebb medence.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bassin Clair",
+            "tip": "Cel mai de sus și liniștit bazin.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bassin Clair",
+            "tip": "The uppermost and quietest pool.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jacmel Mosaik-Shop",
+            "tip": "Kleine dekorative Mosaike."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jacmel mozaik bolt",
+            "tip": "Kicsi dekoratív mozaikok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de mozaicuri",
+            "tip": "Mozaicuri decorative mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jacmel Mosaic Shop",
+            "tip": "Small decorative mosaic pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bassin-Bleu erfordert festes Schuhwerk.",
+          "Die Straße nach Cyvadier ist eng und kurvig."
+        ],
+        "hu": [
+          "A Bassin-Bleu-höz túrabakancs szükséges.",
+          "A Cyvadier felé vezető út szűk és kanyargós."
+        ],
+        "ro": [
+          "Bassin-Bleu necesită încălțăminte de drumeție.",
+          "Drumul spre Cyvadier este îngust și virajat."
+        ],
+        "en": [
+          "Bassin-Bleu requires sturdy hiking shoes.",
+          "The road to Cyvadier is narrow and winding."
+        ]
+      }
+    }
+  }
+}

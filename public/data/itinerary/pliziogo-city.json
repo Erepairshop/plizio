@@ -1,0 +1,910 @@
+{
+  "city_id": "pliziogo-city",
+  "anchor": {
+    "name": "PlizioGo Hauptplatz",
+    "coords": [
+      46.1,
+      24.5
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "PlizioGo Hauptplatz",
+          "coords": [
+            46.101,
+            24.501
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Früh morgens ist es am ruhigsten.",
+            "hu": "Reggel a legcsendesebb.",
+            "ro": "Dimineața este cel mai liniștit.",
+            "en": "It's quietest in the morning."
+          }
+        },
+        {
+          "name": "Altes Rathaus",
+          "coords": [
+            46.102,
+            24.502
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Uhr schlägt um 12:00.",
+            "hu": "Az óra 12:00-kor üt.",
+            "ro": "Ceasul bate la 12:00.",
+            "en": "The clock strikes at 12:00."
+          }
+        },
+        {
+          "name": "St. Georg Kathedrale",
+          "coords": [
+            46.103,
+            24.503
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta.",
+            "hu": "Látogassa meg a kriptát.",
+            "ro": "Vizitați cripta.",
+            "en": "Visit the crypt."
+          }
+        },
+        {
+          "name": "Kunstmuseum PlizioGo",
+          "coords": [
+            46.104,
+            24.504
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Eintritt ist am ersten Sonntag frei.",
+            "hu": "Az első vasárnap ingyenes a belépés.",
+            "ro": "Intrarea este gratuită în prima duminică.",
+            "en": "Free entry on the first Sunday."
+          }
+        },
+        {
+          "name": "Stadtpark PlizioGo",
+          "coords": [
+            46.105,
+            24.505
+          ],
+          "category": "park",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Im Rosengarten gibt es eine schöne Aussicht.",
+            "hu": "A rózsakertből gyönyörű a kilátás.",
+            "ro": "Grădina de trandafiri oferă o vedere frumoasă.",
+            "en": "The rose garden has a lovely view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Start am Hauptplatz, dann historisches Rathaus. Mittag: Kathedrale und Museum. Nachmittag: Spaziergang im Stadtpark. Abend: gemütlicher Ausklang.",
+        "hu": "Reggel: A főtéren kezdünk, majd a történelmi városháza. Dél: Székesegyház és múzeum. Délután: Séta a városi parkban. Este: pihenés.",
+        "ro": "Dimineața: Plecare din piața principală, apoi primăria istorică. Pranz: Catedrala și muzeul. După-amiază: Plimbare în parcul orașului. Seara: relaxare.",
+        "en": "Morning: Start at the main square, then historic town hall. Midday: Cathedral and museum. Afternoon: Walk in the city park. Evening: winding down."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café Central",
+            "tip": "Probieren Sie die Sachertorte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café Central",
+            "tip": "Kóstolja meg a Sacher tortát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café Central",
+            "tip": "Încercați tortul Sacher."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café Central",
+            "tip": "Try the Sacher torte."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten",
+            "tip": "Ruhe und Aussicht genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert",
+            "tip": "Nyugalom és kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri",
+            "tip": "Liniște și vedere.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden",
+            "tip": "Peace and view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt am Hauptplatz",
+            "tip": "Handgefertigte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac a főtéren",
+            "tip": "Kézműves ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din piața principală",
+            "tip": "Suveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market at Main Square",
+            "tip": "Handcrafted souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe.",
+          "Nehmen Sie Wasser mit.",
+          "Die besten Fotos gelingen am Morgen."
+        ],
+        "hu": [
+          "Kényelmes cipőt viseljen.",
+          "Vigyen vizet.",
+          "A legjobb fotók reggel készülnek."
+        ],
+        "ro": [
+          "Purtați pantofi comozi.",
+          "Luați apă.",
+          "Cele mai bune fotografii se fac dimineața."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Bring water.",
+          "Best photos in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "PlizioGo Hauptplatz",
+          "coords": [
+            46.101,
+            24.501
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahrradparkplatz am Brunnen.",
+            "hu": "Kerékpárparkoló a kútnál.",
+            "ro": "Parcare biciclete la fântână.",
+            "en": "Bike parking at the fountain."
+          }
+        },
+        {
+          "name": "Alter Flussweg",
+          "coords": [
+            46.11,
+            24.51
+          ],
+          "category": "park",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radweg entlang des Flusses.",
+            "hu": "Kerékpárút a folyó mentén.",
+            "ro": "Pistă pentru biciclete de-a lungul râului.",
+            "en": "Bike path along the river."
+          }
+        },
+        {
+          "name": "Weingut am Hügel",
+          "coords": [
+            46.12,
+            24.52
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Weinprobe mit lokalen Sorten.",
+            "hu": "Borkóstoló helyi fajtákkal.",
+            "ro": "Degustare de vinuri locale.",
+            "en": "Wine tasting with local varieties."
+          }
+        },
+        {
+          "name": "Aussichtsturm Panorama",
+          "coords": [
+            46.13,
+            24.53
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Turm ist 30 m hoch.",
+            "hu": "A torony 30 m magas.",
+            "ro": "Turnul are 30 m înălțime.",
+            "en": "The tower is 30 m high."
+          }
+        },
+        {
+          "name": "Stadtstrand PlizioGo",
+          "coords": [
+            46.09,
+            24.48
+          ],
+          "category": "beach",
+          "arrive_at": "14:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Sonnenuntergang am Strand genießen.",
+            "hu": "Naplemente a strandon.",
+            "ro": "Apusul soarelui pe plajă.",
+            "en": "Enjoy sunset at the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln durch die Stadt: Hauptplatz, Flussweg, Weinberg, Turm, Strand. Mittagspause im Weingut. Nachmittag am Wasser.",
+        "hu": "Kerékpározás a városban: Főtér, folyóút, szőlőhegy, torony, strand. Ebéd a borászatban. Délután a vízparton.",
+        "ro": "Plimbare cu bicicleta prin oraș: Piața principală, drumul râului, dealul viilor, turn, plajă. Prânzul la cramă. După-amiază la apă.",
+        "en": "Bike through the city: Main square, river path, vineyard, tower, beach. Lunch at winery. Afternoon by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weingut am Hügel",
+            "tip": "Probieren Sie den Riesling."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőhegyi Borászat",
+            "tip": "Kóstolja meg a rajnai rizlinget."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama de pe deal",
+            "tip": "Încercați Rieslingul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard on the Hill",
+            "tip": "Try the Riesling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtstrand bei Sonnenuntergang",
+            "tip": "Stille und Wellen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi strand naplementekor",
+            "tip": "Csend és hullámok.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja orașului la apus",
+            "tip": "Liniște și valuri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Beach at Sunset",
+            "tip": "Silence and waves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen am Hauptplatz",
+            "tip": "Reparatur und Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt a főtéren",
+            "tip": "Javítás és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete în piața principală",
+            "tip": "Reparații și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop on Main Square",
+            "tip": "Repairs and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Helm tragen.",
+          "Radweg-Karte besorgen.",
+          "Licht am Rad prüfen."
+        ],
+        "hu": [
+          "Viseljen sisakot.",
+          "Szerezzen be kerékpárút-térképet.",
+          "Ellenőrizze a lámpákat."
+        ],
+        "ro": [
+          "Purtați cască.",
+          "Obțineți o hartă a pistelor.",
+          "Verificați luminile."
+        ],
+        "en": [
+          "Wear a helmet.",
+          "Get a bike path map.",
+          "Check the lights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 45.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "PlizioGo Hauptplatz (Cluster A)",
+          "coords": [
+            46.101,
+            24.501
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken in der Tiefgarage.",
+            "hu": "Parkolás a mélygarázsban.",
+            "ro": "Parcare în garajul subteran.",
+            "en": "Park in the underground garage."
+          }
+        },
+        {
+          "name": "Altes Rathaus (Cluster A)",
+          "coords": [
+            46.102,
+            24.502
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besonders die Fassade ist sehenswert.",
+            "hu": "Különösen a homlokzat érdemes megtekinteni.",
+            "ro": "Fațada merită văzută în special.",
+            "en": "The facade is particularly worth seeing."
+          }
+        },
+        {
+          "name": "St. Georg Kathedrale (Cluster A)",
+          "coords": [
+            46.103,
+            24.503
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Orgelkonzert um 12:00.",
+            "hu": "Orgona hangverseny 12:00-kor.",
+            "ro": "Concert de orgă la 12:00.",
+            "en": "Organ concert at 12:00."
+          }
+        },
+        {
+          "name": "Kunstmuseum PlizioGo (Cluster A)",
+          "coords": [
+            46.104,
+            24.504
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzbesuch, da Sie weiterfahren.",
+            "hu": "Rövid látogatás, mivel tovább kell mennie.",
+            "ro": "Vizită scurtă, deoarece trebuie să continuați.",
+            "en": "Short visit as you need to move on."
+          }
+        },
+        {
+          "name": "Schloss Plizio (Cluster B, 15 km)",
+          "coords": [
+            46.12,
+            24.55
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Führung um 14:00 möglich.",
+            "hu": "Túra 14:00-kor lehetséges.",
+            "ro": "Tur ghidat posibil la 14:00.",
+            "en": "Guided tour possible at 14:00."
+          }
+        },
+        {
+          "name": "Schlosspark (Cluster B)",
+          "coords": [
+            46.121,
+            24.551
+          ],
+          "category": "park",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schöner Spaziergang durch den Barockgarten.",
+            "hu": "Szép séta a barokk kertben.",
+            "ro": "Plimbare frumoasă prin grădina barocă.",
+            "en": "Nice walk through the Baroque garden."
+          }
+        },
+        {
+          "name": "Seeufer Restaurant (Cluster C, 12 km)",
+          "coords": [
+            46.14,
+            24.58
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12,
+          "tip_5lang": {
+            "de": "Frischer Fisch vom See.",
+            "hu": "Friss hal a tóból.",
+            "ro": "Pește proaspăt din lac.",
+            "en": "Fresh fish from the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auto-Tag: Cluster A (Stadtkern) zu Fuß erkunden, dann Fahrt zum Schloss, Park, und abschließend See mit Abendessen.",
+        "hu": "Autós nap: A klaszter A (városközpont) gyalogos felfedezése, majd autóval a kastélyba, parkba, végül tó vacsorával.",
+        "ro": "Zi cu mașina: Explorarea pe jos a clusterului A (centrul orașului), apoi cu mașina la castel, parc, și în final lac cu cină.",
+        "en": "Car day: Walk cluster A (city center), then drive to castle, park, and finally lake with dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seeufer Restaurant",
+            "tip": "Forelle Müllerin Art."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti Étterem",
+            "tip": "Pisztráng molnárné módra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant malul lacului",
+            "tip": "Păstrăv în stil müllerin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Restaurant",
+            "tip": "Trout meunière style."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Abendstimmung",
+            "tip": "Spaziergang bei Dämmerung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark alkonyatban",
+            "tip": "Séta szürkületben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul castelului la amurg",
+            "tip": "Plimbare la crepuscul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park at Dusk",
+            "tip": "Walk at twilight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schlossladen",
+            "tip": "Regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélybolt",
+            "tip": "Helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul castelului",
+            "tip": "Produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Shop",
+            "tip": "Regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mautstraßen beachten.",
+          "Parkplätze vorher checken.",
+          "Reservierung für Restaurant empfohlen."
+        ],
+        "hu": [
+          "Ügyeljen a fizetős utakra.",
+          "Ellenőrizze a parkolóhelyeket előre.",
+          "Étterem foglalás ajánlott."
+        ],
+        "ro": [
+          "Atenție la drumurile cu taxă.",
+          "Verificați parcările în avans.",
+          "Rezervarea la restaurant este recomandată."
+        ],
+        "en": [
+          "Watch for toll roads.",
+          "Check parking in advance.",
+          "Restaurant reservation recommended."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "PlizioGo Hauptplatz (Distrikt A)",
+          "coords": [
+            46.101,
+            24.501
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "U-Bahn Station direkt am Platz.",
+            "hu": "Metróállomás közvetlenül a téren.",
+            "ro": "Stația de metrou direct în piață.",
+            "en": "Metro station right on the square."
+          }
+        },
+        {
+          "name": "Altes Rathaus (Distrikt A)",
+          "coords": [
+            46.102,
+            24.502
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stadtführung hier startend.",
+            "hu": "Városi séta innen indul.",
+            "ro": "Turul orașului începe de aici.",
+            "en": "City tour starts here."
+          }
+        },
+        {
+          "name": "St. Georg Kathedrale (Distrikt A)",
+          "coords": [
+            46.103,
+            24.503
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schauen Sie in die Seitenkapelle.",
+            "hu": "Nézzen be az oldalkápolnába.",
+            "ro": "Uitați-vă în capela laterală.",
+            "en": "Look into the side chapel."
+          }
+        },
+        {
+          "name": "Kunstmuseum PlizioGo (Distrikt B, 4 km mit Metro)",
+          "coords": [
+            46.115,
+            24.515
+          ],
+          "category": "museum",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Metro Linie 2 bis Museumplatz.",
+            "hu": "2-es metró a Múzeum térig.",
+            "ro": "Metroul linia 2 până la Piața Muzeului.",
+            "en": "Metro line 2 to Museum Square."
+          }
+        },
+        {
+          "name": "Markthalle (Distrikt B)",
+          "coords": [
+            46.116,
+            24.516
+          ],
+          "category": "market",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Käsesorten.",
+            "hu": "Kóstolja meg a helyi sajtokat.",
+            "ro": "Încercați brânzeturile locale.",
+            "en": "Try local cheeses."
+          }
+        },
+        {
+          "name": "Uferpromenade (Distrikt C, 5 km mit Tram)",
+          "coords": [
+            46.12,
+            24.48
+          ],
+          "category": "harbor",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Bootsfahrt möglich.",
+            "hu": "Hajókirándulás lehetséges.",
+            "ro": "Plimbare cu barca posibilă.",
+            "en": "Boat trip possible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "ÖPNV-Tag: Mit der U-Bahn durch die Stadt. Distrikt A zu Fuß, dann Metro zum Museum, Markthalle, und Tram zur Promenade.",
+        "hu": "Tömegközlekedési nap: Metróval a városon keresztül. A körzet gyalog, majd metró a múzeumba, piac, és villamos a sétányra.",
+        "ro": "Zi cu transport public: Cu metroul prin oraș. Districtul A pe jos, apoi metroul la muzeu, piață, și tramvaiul la promenadă.",
+        "en": "Transit day: By metro across the city. District A on foot, then metro to museum, market, and tram to promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Markthalle Bistro",
+            "tip": "Frische Saftbar und Tapas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csarnok Bisztró",
+            "tip": "Friss gyümölcslé bár és tapas."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Piață",
+            "tip": "Bar de sucuri proaspete și tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall Bistro",
+            "tip": "Fresh juice bar and tapas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade Abend",
+            "tip": "Ruhiger Spaziergang am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti sétány este",
+            "tip": "Csendes séta a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada malului seara",
+            "tip": "Plimbare liniștită pe mal.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront Promenade Evening",
+            "tip": "Quiet walk by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle",
+            "tip": "Regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csarnok",
+            "tip": "Helyi specialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața acoperită",
+            "tip": "Specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall",
+            "tip": "Regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tagesticket kaufen.",
+          "App für Fahrplan nutzen.",
+          "In der Stoßzeit voll.",
+          "Wertgegenstände sichern."
+        ],
+        "hu": [
+          "Vásároljon napijegyet.",
+          "Használja a menetrend alkalmazást.",
+          "Csúcsidőben zsúfolt.",
+          "Őrizze meg értékeit."
+        ],
+        "ro": [
+          "Cumpărați bilet zilnic.",
+          "Folosiți aplicația de orar.",
+          "Agitat la orele de vârf.",
+          "Asigurați obiectele de valoare."
+        ],
+        "en": [
+          "Buy a day ticket.",
+          "Use schedule app.",
+          "Crowded during rush hour.",
+          "Secure valuables."
+        ]
+      }
+    }
+  }
+}

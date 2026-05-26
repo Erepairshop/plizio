@@ -1,0 +1,975 @@
+{
+  "city_id": "hanoi-cities-v2",
+  "anchor": {
+    "name": "Hanoi Old Quarter",
+    "coords": [
+      105.8542,
+      21.0285
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ho-Chi-Minh-Mausoleum",
+            "hu": "Ho Si Minh-mauzóleum",
+            "ro": "Mausoleul Ho Și Min",
+            "en": "Ho Chi Minh Mausoleum"
+          },
+          "coords": [
+            105.8347,
+            21.0368
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um die langen Schlangen zu vermeiden.",
+            "hu": "Érkezzen korán, hogy elkerülje a hosszú sorokat.",
+            "ro": "Sosiți devreme pentru a evita cozile lungi.",
+            "en": "Arrive early to avoid the long morning queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsäulenpagode",
+            "hu": "Egyoszlopos pagoda",
+            "ro": "Pagoda cu un singur stâlp",
+            "en": "One Pillar Pagoda"
+          },
+          "coords": [
+            105.8336,
+            21.0359
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Symbol Hanois, das wie eine Lotusblüte aussieht.",
+            "hu": "Hanoi szimbóluma, amely egy lótuszvirágra hasonlít.",
+            "ro": "Un simbol al orașului Hanoi, care seamănă cu o floare de lotus.",
+            "en": "A symbol of Hanoi, designed to resemble a lotus flower."
+          }
+        },
+        {
+          "name": {
+            "de": "Literaturtempel",
+            "hu": "Irodalom Temploma",
+            "ro": "Templul Literaturii",
+            "en": "Temple of Literature"
+          },
+          "coords": [
+            105.8358,
+            21.0294
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Schildkrötenstelen der Gelehrten.",
+            "hu": "Keresse fel a tudósok tiszteletére emelt teknőssztéléket.",
+            "ro": "Vizitați stelele de piatră cu broaște țestoase ale învățaților.",
+            "en": "Visit the stone turtle stelae honoring ancient scholars."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Mittagessen)",
+            "hu": "Ónegyed (Ebéd)",
+            "ro": "Cartierul Vechi (Prânz)",
+            "en": "Old Quarter (Lunch)"
+          },
+          "coords": [
+            105.85,
+            21.0333
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Bun Cha oder Pho in einer Seitenstraße.",
+            "hu": "Kóstolja meg a Bun Cha-t vagy a Pho-t egy mellékutcában.",
+            "ro": "Încercați Bun Cha sau Pho pe o străduță lăturalnică.",
+            "en": "Try authentic Bun Cha or Pho in a narrow side street."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoan-Kiem-See",
+            "hu": "Hoan Kiem-tó",
+            "ro": "Lacul Hoan Kiem",
+            "en": "Hoan Kiem Lake"
+          },
+          "coords": [
+            105.8523,
+            21.0287
+          ],
+          "category": "park",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die rote Huc-Brücke zum Tempel.",
+            "hu": "Sétáljon át a piros Huc-hídon a templomhoz.",
+            "ro": "Traversați podul roșu Huc până la templu.",
+            "en": "Walk across the red Huc Bridge to the island temple."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joseph-Kathedrale",
+            "hu": "Szent József-székesegyház",
+            "ro": "Catedrala Sfântul Iosif",
+            "en": "St. Joseph's Cathedral"
+          },
+          "coords": [
+            105.8491,
+            21.0287
+          ],
+          "category": "cathedral",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Eiskaffee auf einem der Balkone gegenüber.",
+            "hu": "Igyon egy jegeskávét az egyik szemközti erkélyen.",
+            "ro": "Savurați o cafea cu gheață pe unul dintre balcoanele de vizavi.",
+            "en": "Enjoy an iced coffee on one of the balconies opposite."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im politischen Herzen Hanois am Ho-Chi-Minh-Komplex. Nach der spirituellen Ruhe der Einsäulenpagode tauchen Sie im Literaturtempel in die jahrtausendealte Bildungstradition ein. Das Mittagessen im quirligen Old Quarter bietet authentische Aromen, bevor Sie den Nachmittag entspannt am Hoan-Kiem-See ausklingen lassen.",
+        "hu": "Kezdje a napot Hanoi politikai szívében, a Ho Si Minh-komplexumnál. Az Egyoszlopos pagoda spirituális békéje után merüljön el az Irodalom templomának évezredes oktatási hagyományaiban. Az ebéd a pezsgő Ónegyedben autentikus ízeket kínál, mielőtt délután a Hoan Kiem-tó partján lazítana.",
+        "ro": "Începeți ziua în inima politică a Hanoiului, la complexul Ho Și Min. După liniștea spirituală a Pagodei cu un singur stâlp, scufundați-vă în tradiția educațională milenară la Templul Literaturii. Prânzul în Cartierul Vechi oferă arome autentice, înainte de a încheia după-amiaza relaxat pe malul lacului Hoan Kiem.",
+        "en": "Start your day in Hanoi's political heart at the Ho Chi Minh Complex. After the spiritual peace of the One Pillar Pagoda, immerse yourself in the thousand-year-old educational tradition at the Temple of Literature. Lunch in the bustling Old Quarter offers authentic flavors before ending the afternoon by the serene Hoan Kiem Lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bún Chả Hương Liên",
+            "tip": "Berühmt durch den Besuch von Obama."
+          },
+          {
+            "name": "Giảng Café",
+            "tip": "Der Geburtsort des legendären Eierkaffees."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bún Chả Hương Liên",
+            "tip": "Híres hely, ahol Obama is vacsorázott."
+          },
+          {
+            "name": "Giảng Café",
+            "tip": "A legendás tojásos kávé szülőhelye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bún Chả Hương Liên",
+            "tip": "Faimos pentru vizita lui Barack Obama."
+          },
+          {
+            "name": "Giảng Café",
+            "tip": "Locul unde s-a născut legendara cafea cu ou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bún Chả Hương Liên",
+            "tip": "Famous for the visit by Barack Obama."
+          },
+          {
+            "name": "Giảng Café",
+            "tip": "The birthplace of the legendary egg coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Westsee (Tay Ho)",
+            "tip": "Wunderschöner Sonnenuntergang am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyugati-tó (Tay Ho)",
+            "tip": "Gyönyörű naplemente a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul de Vest (Tay Ho)",
+            "tip": "Apus de soare superb pe malul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "West Lake (Tay Ho)",
+            "tip": "Beautiful sunset by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dong Xuan Markt",
+            "tip": "Großer lokaler Markt für fast alles."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dong Xuan piac",
+            "tip": "Hatalmas helyi piac, ahol minden kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Dong Xuan",
+            "tip": "O piață locală imensă pentru aproape orice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dong Xuan Market",
+            "tip": "Large local market for almost everything."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie beim Besuch der Tempel angemessene Kleidung.",
+          "Achten Sie beim Überqueren der Straße auf das gleichmäßige Tempo der Motorräder."
+        ],
+        "hu": [
+          "A templomok látogatásakor viseljen illő öltözéket.",
+          "Az úton való átkeléskor tartsa a folyamatos tempót a motorosok között."
+        ],
+        "ro": [
+          "Purtați haine adecvate atunci când vizitați templele.",
+          "Când traversați strada, mențineți un ritm constant printre motociclete."
+        ],
+        "en": [
+          "Wear respectful clothing when visiting temples.",
+          "Maintain a steady pace when crossing roads filled with motorbikes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Long-Bien-Brücke",
+            "hu": "Long Bien híd",
+            "ro": "Podul Long Bien",
+            "en": "Long Bien Bridge"
+          },
+          "coords": [
+            105.8572,
+            21.0416
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Historische Stahlbrücke von Gustave Eiffel entworfen.",
+            "hu": "Gustave Eiffel által tervezett történelmi acélhíd.",
+            "ro": "Pod istoric din oțel proiectat de Gustave Eiffel.",
+            "en": "Historic steel bridge designed by Gustave Eiffel."
+          }
+        },
+        {
+          "name": {
+            "de": "Westsee-Promenade",
+            "hu": "Nyugati-tó sétány",
+            "ro": "Promenada Lacului de Vest",
+            "en": "West Lake Promenade"
+          },
+          "coords": [
+            105.8286,
+            21.0456
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Beste Strecke zum Radfahren fernab vom Stadtlärm.",
+            "hu": "A legjobb útvonal kerékpározáshoz, távol a város zajától.",
+            "ro": "Cea mai bună rută pentru ciclism departe de zgomotul orașului.",
+            "en": "Best route for cycling away from the city noise."
+          }
+        },
+        {
+          "name": {
+            "de": "Tran-Quoc-Pagode",
+            "hu": "Tran Quoc pagoda",
+            "ro": "Pagoda Tran Quoc",
+            "en": "Tran Quoc Pagoda"
+          },
+          "coords": [
+            105.8373,
+            21.0478
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die älteste Pagode Hanois auf einer Insel im See.",
+            "hu": "Hanoi legrégebbi pagodája a tó egyik szigetén.",
+            "ro": "Cea mai veche pagodă din Hanoi, pe o insulă în lac.",
+            "en": "The oldest pagoda in Hanoi, located on a small island."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tóparton",
+            "ro": "Prânz pe malul lacului",
+            "en": "Lunch by the Lake"
+          },
+          "coords": [
+            105.825,
+            21.055
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Garnelenkuchen (Banh Tom).",
+            "hu": "Kóstolja meg a friss garnélarákos lepényt (Banh Tom).",
+            "ro": "Savurați plăcinte proaspete cu creveți (Banh Tom).",
+            "en": "Enjoy fresh shrimp cakes (Banh Tom) by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumenmarkt Quang Ba",
+            "hu": "Quang Ba virágpiac",
+            "ro": "Piața de flori Quang Ba",
+            "en": "Quang Ba Flower Market"
+          },
+          "coords": [
+            105.8267,
+            21.0667
+          ],
+          "category": "market",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Frühmorgens am lebhaftesten, aber auch tagsüber sehenswert.",
+            "hu": "Kora hajnalban a legélénkebb, de nappal is érdekes látvány.",
+            "ro": "Cea mai animată dimineața devreme, dar merită vizitată și ziua.",
+            "en": "Most vibrant in the early morning, but worth a visit by day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entfliehen Sie dem Verkehr auf einer Radtour um den Westsee. Starten Sie an der historischen Long-Bien-Brücke und genießen Sie die kühle Brise am Seeufer, besuchen Sie die alte Tran-Quoc-Pagode und entdecken Sie die farbenfrohe Pracht der lokalen Märkte.",
+        "hu": "Meneküljön el a forgalom elől egy kerékpártúrával a Nyugati-tó körül. Kezdjen a történelmi Long Bien hídnál, élvezze a hűvös szellőt a tóparton, látogassa meg az ősi Tran Quoc pagodát és fedezze fel a helyi piacok színes világát.",
+        "ro": "Evadați de trafic cu o tură de bicicletă în jurul Lacului de Vest. Începeți la podul istoric Long Bien și bucurați-vă de briza răcoroasă de pe malul lacului, vizitați vechea pagodă Tran Quoc și descoperiți splendoarea colorată a piețelor locale.",
+        "en": "Escape the traffic with a bike tour around West Lake. Start at the historic Long Bien Bridge and enjoy the cool breeze by the lakeshore, visit the ancient Tran Quoc Pagoda, and discover the colorful world of local markets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bánh Tôm Hồ Tây",
+            "tip": "Traditionelle Garnelenkuchen mit Seeblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bánh Tôm Hồ Tây",
+            "tip": "Hagyományos garnélarákos lepény tóparti kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bánh Tôm Hồ Tây",
+            "tip": "Plăcinte tradiționale cu creveți și vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bánh Tôm Hồ Tây",
+            "tip": "Traditional shrimp cakes with a view of the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tay Ho Tempel",
+            "tip": "Ruhiger spiritueller Ort am nördlichen Ufer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tay Ho templom",
+            "tip": "Csendes spirituális hely az északi parton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul Tay Ho",
+            "tip": "Loc spiritual liniștit pe malul nordic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tay Ho Temple",
+            "tip": "Quiet spiritual spot on the northern shore.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Quang Ba Markt",
+            "tip": "Tausende von frischen Blumen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quang Ba piac",
+            "tip": "Több ezer friss virág és illat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Quang Ba",
+            "tip": "Mii de flori proaspete și parfumate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quang Ba Market",
+            "tip": "Thousands of fresh flowers and scents."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gangschaltung für die Brückenrampen.",
+          "Trinken Sie viel Wasser, die Luftfeuchtigkeit am See ist hoch."
+        ],
+        "hu": [
+          "Béreljen sebességváltós kerékpárt a híd emelkedőihez.",
+          "Igyon sok vizet, a tóparton magas a páratartalom."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze pentru rampele podului.",
+          "Beți multă apă, umiditatea de lângă lac este ridicată."
+        ],
+        "en": [
+          "Rent a bike with gears for the bridge ramps.",
+          "Drink plenty of water as humidity near the lake is high."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 35.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Literaturtempel (Cluster A)",
+            "hu": "Irodalom Temploma (A-klaszter)",
+            "ro": "Templul Literaturii (Cluster A)",
+            "en": "Temple of Literature (Cluster A)"
+          },
+          "coords": [
+            105.8358,
+            21.0294
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang, erkunden Sie den Park.",
+            "hu": "Parkoljon a bejáratnál, fedezze fel a parkot.",
+            "ro": "Parcați la intrare, explorați parcul.",
+            "en": "Park at the entrance and explore the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Vietnam Fine Arts Museum",
+            "hu": "Vietnámi Szépművészeti Múzeum",
+            "ro": "Muzeul Național de Artă",
+            "en": "Vietnam Fine Arts Museum"
+          },
+          "coords": [
+            105.8385,
+            21.0305
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur 5 Gehminuten vom Tempel entfernt.",
+            "hu": "Csak 5 perc séta a templomtól.",
+            "ro": "La doar 5 minute de mers de templu.",
+            "en": "Just a 5-minute walk from the temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle Thang Long (Cluster B)",
+            "hu": "Thang Long citadella (B-klaszter)",
+            "ro": "Citadela Thang Long (Cluster B)",
+            "en": "Thang Long Citadel (Cluster B)"
+          },
+          "coords": [
+            105.8394,
+            21.0345
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit geheimen Bunkern.",
+            "hu": "UNESCO Világörökség titkos bunkerekkel.",
+            "ro": "Patrimoniu UNESCO cu buncăre secrete.",
+            "en": "UNESCO Heritage site with secret underground bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "Militärhistorisches Museum",
+            "hu": "Hadtörténeti Múzeum",
+            "ro": "Muzeul de Istorie Militară",
+            "en": "Military History Museum"
+          },
+          "coords": [
+            105.8398,
+            21.0326
+          ],
+          "category": "museum",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Flaggenturm von Hanoi ist ein Muss.",
+            "hu": "A hanoi zászlótorony kötelező látnivaló.",
+            "ro": "Turnul Drapelului din Hanoi este obligatoriu.",
+            "en": "The Hanoi Flag Tower is a must-see landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnologisches Museum (Cluster C)",
+            "hu": "Néprajzi Múzeum (C-klaszter)",
+            "ro": "Muzeul de Etnografie (Cluster C)",
+            "en": "Ethnology Museum (Cluster C)"
+          },
+          "coords": [
+            105.7983,
+            21.0406
+          ],
+          "category": "museum",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahrt in den Außenbezirk Cau Giay.",
+            "hu": "Utazás a külső Cau Giay negyedbe.",
+            "ro": "Deplasare în districtul exterior Cau Giay.",
+            "en": "Drive out to the Cau Giay district for this gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um bequem zwischen den kulturellen Schwerpunkten Hanois zu wechseln. Beginnen Sie in der Innenstadt bei Kunst und Literatur, erkunden Sie die gewaltige Zitadelle und fahren Sie schließlich zum faszinierenden Ethnologischen Museum, das die Vielfalt der vietnamesischen Völker zeigt.",
+        "hu": "Használja az autót a kényelmes közlekedéshez Hanoi kulturális gócpontjai között. Kezdjen a belvárosban művészettel és irodalommal, fedezze fel a hatalmas citadellát, majd utazzon a lenyűgöző Néprajzi Múzeumba, amely Vietnám etnikai sokszínűségét mutatja be.",
+        "ro": "Folosiți mașina pentru a vă deplasa confortabil între centrele culturale ale Hanoiului. Începeți în centrul orașului cu artă și literatură, explorați citadela masivă și încheiați la fascinantul Muzeu de Etnografie, care prezintă diversitatea popoarelor vietnameze.",
+        "en": "Use the car to travel comfortably between Hanoi's cultural hubs. Start in the city center with art and literature, explore the massive Citadel, and finally drive to the fascinating Ethnology Museum showcasing Vietnam's ethnic diversity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "KOTO Van Mieu",
+            "tip": "Hervorragendes Training-Restaurant für benachteiligte Jugendliche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "KOTO Van Mieu",
+            "tip": "Kiváló étterem, amely hátrányos helyzetű fiatalokat képez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "KOTO Van Mieu",
+            "tip": "Restaurant excelent care instruiește tineri defavorizați."
+          }
+        ],
+        "en": [
+          {
+            "name": "KOTO Van Mieu",
+            "tip": "Excellent training restaurant for disadvantaged youth."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bach Thao Park",
+            "tip": "Botanischer Garten neben dem Präsidentenpalast.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bach Thao park",
+            "tip": "Botanikus kert az elnöki palota mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bach Thao",
+            "tip": "Grădină botanică lângă palatul prezidențial.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bach Thao Park",
+            "tip": "Botanical garden next to the Presidential Palace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lotte Center",
+            "tip": "Moderner Wolkenkratzer mit Luxus-Shopping."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lotte Center",
+            "tip": "Modern felhőkarcoló luxus üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lotte Center",
+            "tip": "Zgârie-nori modern cu shopping de lux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lotte Center",
+            "tip": "Modern skyscraper with luxury shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind in der Altstadt extrem rar, nutzen Sie offizielle Parkhäuser.",
+          "Vermeiden Sie die Hauptverkehrszeit zwischen 17:00 und 19:00 Uhr."
+        ],
+        "hu": [
+          "A parkolóhely az Ónegyedben nagyon ritka, használjon hivatalos parkolóházat.",
+          "Kerülje a csúcsforgalmat 17:00 és 19:00 között."
+        ],
+        "ro": [
+          "Locurile de parcare sunt rare în centrul vechi, folosiți parcările oficiale.",
+          "Evitați orele de vârf între 17:00 și 19:00."
+        ],
+        "en": [
+          "Parking is extremely rare in the Old Quarter; use official parking lots.",
+          "Avoid rush hour between 5 PM and 7 PM."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Präsidentenpalast (Bus 09)",
+            "hu": "Elnöki Palota (Busz 09)",
+            "ro": "Palatul Prezidențial (Autobuz 09)",
+            "en": "Presidential Palace (Bus 09)"
+          },
+          "coords": [
+            105.8341,
+            21.0387
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gelber Kolonialbau, nur von außen zu besichtigen.",
+            "hu": "Sárga gyarmati épület, csak kívülről nézhető meg.",
+            "ro": "Clădire colonială galbenă, vizibilă doar din exterior.",
+            "en": "Yellow colonial building, viewable from the outside only."
+          }
+        },
+        {
+          "name": {
+            "de": "Westsee / Tran Quoc",
+            "hu": "Nyugati-tó / Tran Quoc",
+            "ro": "Lacul de Vest / Tran Quoc",
+            "en": "West Lake / Tran Quoc"
+          },
+          "coords": [
+            105.8373,
+            21.0478
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 50 hält direkt vor der Pagode.",
+            "hu": "Az 50-es busz megáll közvetlenül a pagoda előtt.",
+            "ro": "Linia de autobuz 50 oprește chiar în fața pagodei.",
+            "en": "Bus route 50 stops right in front of the pagoda."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt / Hoan Kiem",
+            "hu": "Ónegyed / Hoan Kiem",
+            "ro": "Cartierul Vechi / Hoan Kiem",
+            "en": "Old Quarter / Hoan Kiem"
+          },
+          "coords": [
+            105.8523,
+            21.0287
+          ],
+          "category": "park",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt für viele Stadtbusse.",
+            "hu": "Központi átszállóhely számos városi buszhoz.",
+            "ro": "Punct central de transfer pentru multe autobuze locale.",
+            "en": "Central transfer point for many city bus routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Opernhaus",
+            "hu": "Operaház",
+            "ro": "Opera din Hanoi",
+            "en": "Hanoi Opera House"
+          },
+          "coords": [
+            105.8567,
+            21.0241
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel französischer Architektur.",
+            "hu": "A francia építészet pazar példája.",
+            "ro": "Un exemplu magnific de arhitectură franceză.",
+            "en": "A magnificent example of French colonial architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "History Museum"
+          },
+          "coords": [
+            105.8594,
+            21.0253
+          ],
+          "category": "museum",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Artefakte aus allen Epochen Vietnams.",
+            "hu": "Lenyűgöző leletek Vietnám minden korszakából.",
+            "ro": "Artefacte impresionante din toate epocile Vietnamului.",
+            "en": "Impressive artifacts from every era of Vietnamese history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Hanoi wie ein Einheimischer mit dem Busnetz. Diese Route verbindet das Regierungsviertel im Norden mit dem eleganten Opernviertel im Südosten und lässt Ihnen viel Zeit für ausgiebige Spaziergänge am See und durch die Altstadt.",
+        "hu": "Fedezze fel Hanoit úgy, mint a helyiek a buszhálózat segítségével. Ez az útvonal összeköti az északi kormányzati negyedet a délkeleti elegáns Operaház környékével, sok időt hagyva a tavi sétákra és az Ónegyedre.",
+        "ro": "Explorați Hanoi ca un localnic folosind rețeaua de autobuze. Acest traseu face legătura între cartierul guvernamental din nord și zona elegantă a Operei din sud-est, oferindu-vă timp suficient pentru plimbări pe malul lacului și prin centrul vechi.",
+        "en": "Explore Hanoi like a local using the city bus network. This route connects the government district in the north with the elegant Opera House area in the southeast, leaving plenty of time for lake walks and Old Quarter exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bánh Mì Phố",
+            "tip": "Schneller Snack an den Busknotenpunkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bánh Mì Phố",
+            "tip": "Gyors szendvics a buszcsomópontoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bánh Mì Phố",
+            "tip": "Snack rapid în nodurile de transport."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bánh Mì Phố",
+            "tip": "Quick sandwich snack near transport hubs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Truc Bach See",
+            "tip": "Ruhigere Alternative zum Westsee.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Truc Bach tó",
+            "tip": "Csendesebb alternatíva a Nyugati-tó mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Truc Bach",
+            "tip": "Alternativă mai liniștită la Lacul de Vest.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Truc Bach Lake",
+            "tip": "A quieter alternative right next to West Lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trang Tien Plaza",
+            "tip": "Luxuriöses Einkaufszentrum im französischen Viertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trang Tien Plaza",
+            "tip": "Luxus bevásárlóközpont a francia negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trang Tien Plaza",
+            "tip": "Mall de lux în cartierul francez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trang Tien Plaza",
+            "tip": "Luxury shopping mall in the French Quarter."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Halten Sie Kleingeld für das Busticket bereit (meist 7.000 VND).",
+          "Nutzen Sie die App 'BusMap' für Echtzeit-Informationen."
+        ],
+        "hu": [
+          "Készítsen aprópénzt a buszjegyhez (általában 7000 VND).",
+          "Használja a 'BusMap' alkalmazást a valós idejű információkhoz."
+        ],
+        "ro": [
+          "Aveți pregătit rest pentru biletul de autobuz (aprox. 7.000 VND).",
+          "Folosiți aplicația 'BusMap' pentru informații în timp real."
+        ],
+        "en": [
+          "Have small change ready for the bus fare (usually 7,000 VND).",
+          "Use the 'BusMap' app for real-time route information."
+        ]
+      }
+    }
+  }
+}

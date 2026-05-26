@@ -1,0 +1,1400 @@
+{
+  "city_id": "timisoara",
+  "anchor": {
+    "name": "Piața Victoriei",
+    "coords": [
+      21.2083,
+      45.7489
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Victoriei",
+          "coords": [
+            21.2083,
+            45.7489
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh ankommen, die Sonne auf den bunten Fassaden genießen.",
+            "hu": "Érkezz korán, élvezd a napfényt a színes homlokzatokon.",
+            "ro": "Vino devreme, bucură-te de soare pe fațadele colorate.",
+            "en": "Arrive early to enjoy the sunlight on the colorful facades."
+          }
+        },
+        {
+          "name": "Palatul Baroc",
+          "coords": [
+            21.209,
+            45.7495
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schau dir die Innenhofarkaden an – ein verstecktes Juwel.",
+            "hu": "Nézd meg a belső udvar árkádjait – rejtett gyöngyszem.",
+            "ro": "Privește arcadele curții interioare – o bijuterie ascunsă.",
+            "en": "Check the inner courtyard arcades – a hidden gem."
+          }
+        },
+        {
+          "name": "Catedrala Mitropolitană",
+          "coords": [
+            21.2075,
+            45.7505
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steh still unter der Kuppel – die Akustik ist beeindruckend.",
+            "hu": "Állj meg a kupola alatt – a akusztika lenyűgöző.",
+            "ro": "Stai sub cupolă – acustica este impresionantă.",
+            "en": "Stand still under the dome – the acoustics are stunning."
+          }
+        },
+        {
+          "name": "Muzeul Național de Artă",
+          "coords": [
+            21.2068,
+            45.7512
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die rumänische Moderne im ersten Stock ist ein Muss.",
+            "hu": "A román modern művészet az első emeleten kötelező.",
+            "ro": "Modernismul românesc de la etajul 1 este obligatoriu.",
+            "en": "Romanian modern art on the first floor is a must-see."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            21.2055,
+            45.752
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Setz dich auf eine Bank am See – perfekt für eine Pause.",
+            "hu": "Ülj le egy padra a tónál – tökéletes pihenő.",
+            "ro": "Așază-te pe o bancă lângă lac – perfect pentru o pauză.",
+            "en": "Sit on a bench by the lake – perfect for a break."
+          }
+        },
+        {
+          "name": "Restaurant Tradițional",
+          "coords": [
+            21.204,
+            45.753
+          ],
+          "category": "gastro",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probier die Mici mit Senf – lokale Spezialität.",
+            "hu": "Kóstold meg a Mici-t mustárral – helyi specialitás.",
+            "ro": "Încearcă mici cu muștar – specialitate locală.",
+            "en": "Try the Mici with mustard – a local specialty."
+          }
+        },
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            21.21,
+            45.7475
+          ],
+          "category": "square",
+          "arrive_at": "17:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Abends leuchten die Laternen – romantische Atmosphäre.",
+            "hu": "Este kigyúlnak a lámpák – romantikus hangulat.",
+            "ro": "Seara se aprind felinarele – atmosferă romantică.",
+            "en": "In the evening the lanterns glow – romantic atmosphere."
+          }
+        },
+        {
+          "name": "Cafenea Artizană",
+          "coords": [
+            21.2105,
+            45.747
+          ],
+          "category": "gastro",
+          "arrive_at": "17:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestell einen Kaffee mit Blick auf den Brunnen.",
+            "hu": "Rendelj kávét a szökőkútra néző kilátással.",
+            "ro": "Comandă o cafea cu vedere la fântână.",
+            "en": "Order a coffee with a view of the fountain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf der Piața Victoriei, wo die bunten Fassaden im Sonnenlicht erstrahlen. Ein Spaziergang zum Palatul Baroc und zur Kathedrale führt durch die Geschichte der Stadt. Das Mittagessen im Park bietet eine entspannte Pause, bevor der Nachmittag im Kunstmuseum und auf der Piața Unirii ausklingt.",
+        "hu": "A reggel a Piața Victoriei-n kezdődik, ahol a színes homlokzatok a napfényben ragyognak. A Barokk Palota és a Székesegyház felé sétálva a város történelmébe merülünk. Az ebéd a parkban pihentető szünetet kínál, mielőtt a délután a Művészeti Múzeumban és az Unió téren zárul.",
+        "ro": "Dimineața începe în Piața Victoriei, unde fațadele colorate strălucesc în lumina soarelui. O plimbare spre Palatul Baroc și Catedrală te poartă prin istoria orașului. Prânzul în parc oferă o pauză relaxantă, înainte ca după-amiaza să se încheie la Muzeul de Artă și în Piața Unirii.",
+        "en": "The morning starts at Piața Victoriei, where colorful facades glow in the sunlight. A walk to the Baroque Palace and the Cathedral takes you through the city's history. Lunch in the park offers a relaxing break before the afternoon ends at the Art Museum and Piața Unirii."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Senf",
+            "tip": "Probier die gegrillten Hackfleischröllchen im Restaurant Tradițional."
+          },
+          {
+            "name": "Paprikaș",
+            "tip": "Hühnchen-Paprikasch mit Sauerrahm – herzhaft und cremig."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Süßer Hefekuchen, frisch aus dem Ofen – perfekt für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici mustárral",
+            "tip": "Kóstold meg a grillezett húsgolyókat a Tradițional Étteremben."
+          },
+          {
+            "name": "Paprikás csirke",
+            "tip": "Csirkepaprikás tejföllel – laktató és krémes."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes kelt tészta, frissen a sütőből – tökéletes útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu muștar",
+            "tip": "Încearcă rulourile de carne tocată la grătar la Restaurantul Tradițional."
+          },
+          {
+            "name": "Papricaș de pui",
+            "tip": "Pui cu smântână – sățios și cremos."
+          },
+          {
+            "name": "Colac secuiesc",
+            "tip": "Prăjitură dulce, proaspătă din cuptor – perfectă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with mustard",
+            "tip": "Try the grilled minced meat rolls at Restaurant Tradițional."
+          },
+          {
+            "name": "Chicken paprikash",
+            "tip": "Chicken stew with sour cream – hearty and creamy."
+          },
+          {
+            "name": "Chimney cake",
+            "tip": "Sweet yeast cake, fresh from the oven – perfect on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Fluss Bega",
+            "tip": "Spaziergang entlang des Ufers bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rosenpark",
+            "tip": "Duftende Rosen und schattige Bänke – eine Oase der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kuppel der Kathedrale",
+            "tip": "Blick über die Dächer der Stadt – still und erhaben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Béga folyónál",
+            "tip": "Séta a parton napnyugtakor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rózsakert",
+            "tip": "Illatos rózsák és árnyas padok – a nyugalom oázisa.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Székesegyház kupolája",
+            "tip": "Kilátás a város tetejére – csendes és fenséges.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe râul Bega",
+            "tip": "Plimbare pe mal la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul cu trandafiri",
+            "tip": "Trandafiri parfumați și bănci umbroase – oază de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Domul Catedralei",
+            "tip": "Priveliște peste acoperișurile orașului – tăcut și sublim.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset on the Bega River",
+            "tip": "Walk along the bank at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rose Park",
+            "tip": "Fragrant roses and shady benches – an oasis of calm.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cathedral Dome",
+            "tip": "View over the city rooftops – quiet and majestic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt am Huniade-Platz",
+            "tip": "Frische lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Antiquitätenläden in der Innenstadt",
+            "tip": "Einzigartige Funde aus der Habsburgerzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huniade téri piac",
+            "tip": "Friss helyi termékek és kézműves áruk."
+          },
+          {
+            "name": "Belvárosi régiségboltok",
+            "tip": "Egyedi leletek a Habsburg-korból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de la Huniade",
+            "tip": "Produse locale proaspete și meșteșuguri."
+          },
+          {
+            "name": "Magazine de antichități din centru",
+            "tip": "Descoperiri unice din perioada habsburgică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Huniade Square Market",
+            "tip": "Fresh local produce and handicrafts."
+          },
+          {
+            "name": "Downtown antique shops",
+            "tip": "Unique finds from the Habsburg era."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trage bequeme Schuhe – die Altstadt ist am besten zu Fuß erkundbar.",
+          "Starte früh, um den Menschenmassen zu entgehen.",
+          "Halte Ausschau nach den versteckten Innenhöfen – sie sind oft die schönsten Orte.",
+          "Nimm eine Wasserflasche mit – es gibt viele Trinkbrunnen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt – a belvárost legjobban gyalog lehet felfedezni.",
+          "Indulj korán, hogy elkerüld a tömeget.",
+          "Figyeld a rejtett belső udvarokat – gyakran ezek a legszebb helyek.",
+          "Vigyél magaddal kulacsot – sok ivókút van."
+        ],
+        "ro": [
+          "Poartă pantofi comozi – centrul vechi se explorează cel mai bine pe jos.",
+          "Pornește devreme pentru a evita aglomerația.",
+          "Fii atent la curțile interioare ascunse – sunt adesea cele mai frumoase locuri.",
+          "Ia o sticlă de apă – există multe fântâni de băut."
+        ],
+        "en": [
+          "Wear comfortable shoes – the old town is best explored on foot.",
+          "Start early to avoid the crowds.",
+          "Look out for hidden courtyards – they are often the most beautiful spots.",
+          "Bring a water bottle – there are many drinking fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Victoriei",
+          "coords": [
+            21.2083,
+            45.7489
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stell dein Fahrrad am Rand ab – der Platz ist autofrei.",
+            "hu": "Tedd le a biciklit a szélén – a tér autómentes.",
+            "ro": "Lasă bicicleta la margine – piața este pietonală.",
+            "en": "Park your bike at the edge – the square is car-free."
+          }
+        },
+        {
+          "name": "Palatul Baroc",
+          "coords": [
+            21.209,
+            45.7495
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Fahrrad kannst du am Eingang abschließen.",
+            "hu": "A biciklit a bejáratnál lezárhatod.",
+            "ro": "Poți încuia bicicleta la intrare.",
+            "en": "You can lock your bike at the entrance."
+          }
+        },
+        {
+          "name": "Catedrala Mitropolitană",
+          "coords": [
+            21.2075,
+            45.7505
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahr nicht zu nah an die Stufen heran.",
+            "hu": "Ne menj túl közel a lépcsőkhöz.",
+            "ro": "Nu te apropia prea mult de trepte.",
+            "en": "Don't ride too close to the steps."
+          }
+        },
+        {
+          "name": "Muzeul Național de Artă",
+          "coords": [
+            21.2068,
+            45.7512
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Es gibt einen Fahrradständer vor dem Museum.",
+            "hu": "A múzeum előtt van biciklitároló.",
+            "ro": "Există un suport de biciclete în fața muzeului.",
+            "en": "There is a bike rack in front of the museum."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            21.2055,
+            45.752
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radweg durch den Park – genieße die Fahrt.",
+            "hu": "Bicikliút a parkon át – élvezd a tekerést.",
+            "ro": "Pistă de biciclete prin parc – bucură-te de plimbare.",
+            "en": "Bike path through the park – enjoy the ride."
+          }
+        },
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            21.21,
+            45.7475
+          ],
+          "category": "square",
+          "arrive_at": "15:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendere zu Fuß – das Fahrrad schieben ist hier besser.",
+            "hu": "Sétálj gyalog – itt jobb tolni a biciklit.",
+            "ro": "Plimbă-te pe jos – aici e mai bine să împingi bicicleta.",
+            "en": "Stroll on foot – it's better to walk the bike here."
+          }
+        },
+        {
+          "name": "Cafenea Artizană",
+          "coords": [
+            21.2105,
+            45.747
+          ],
+          "category": "gastro",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt vor dem Café.",
+            "hu": "Biciklitároló közvetlenül a kávézó előtt.",
+            "ro": "Suport de biciclete chiar în fața cafenelei.",
+            "en": "Bike rack right in front of the café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad gleitest du durch die morgendliche Stille der Piața Victoriei. Die Fahrt zum Palatul Baroc und zur Kathedrale ist kurz, aber voller Eindrücke. Der Nachmittag führt dich durch den Park zur Piața Unirii, wo du das Rad schiebst und den Charme der Altstadt genießt.",
+        "hu": "Biciklivel siklász a reggeli csendben a Piața Victoriei-n. A Barokk Palota és a Székesegyház felé vezető út rövid, de élményekkel teli. A délután a parkon át az Unió térre visz, ahol tolva a biciklit élvezed a belváros varázsát.",
+        "ro": "Cu bicicleta, aluneci prin liniștea dimineții în Piața Victoriei. Drumul spre Palatul Baroc și Catedrală este scurt, dar plin de impresii. După-amiaza te duce prin parc spre Piața Unirii, unde împingi bicicleta și te bucuri de farmecul centrului vechi.",
+        "en": "By bike, you glide through the morning silence of Piața Victoriei. The ride to the Baroque Palace and the Cathedral is short but full of impressions. The afternoon takes you through the park to Piața Unirii, where you walk the bike and enjoy the old town's charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Senf",
+            "tip": "Probier die gegrillten Hackfleischröllchen im Restaurant Tradițional."
+          },
+          {
+            "name": "Paprikaș",
+            "tip": "Hühnchen-Paprikasch mit Sauerrahm – herzhaft und cremig."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Süßer Hefekuchen, frisch aus dem Ofen – perfekt für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici mustárral",
+            "tip": "Kóstold meg a grillezett húsgolyókat a Tradițional Étteremben."
+          },
+          {
+            "name": "Paprikás csirke",
+            "tip": "Csirkepaprikás tejföllel – laktató és krémes."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes kelt tészta, frissen a sütőből – tökéletes útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu muștar",
+            "tip": "Încearcă rulourile de carne tocată la grătar la Restaurantul Tradițional."
+          },
+          {
+            "name": "Papricaș de pui",
+            "tip": "Pui cu smântână – sățios și cremos."
+          },
+          {
+            "name": "Colac secuiesc",
+            "tip": "Prăjitură dulce, proaspătă din cuptor – perfectă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with mustard",
+            "tip": "Try the grilled minced meat rolls at Restaurant Tradițional."
+          },
+          {
+            "name": "Chicken paprikash",
+            "tip": "Chicken stew with sour cream – hearty and creamy."
+          },
+          {
+            "name": "Chimney cake",
+            "tip": "Sweet yeast cake, fresh from the oven – perfect on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Fluss Bega",
+            "tip": "Spaziergang entlang des Ufers bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rosenpark",
+            "tip": "Duftende Rosen und schattige Bänke – eine Oase der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kuppel der Kathedrale",
+            "tip": "Blick über die Dächer der Stadt – still und erhaben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Béga folyónál",
+            "tip": "Séta a parton napnyugtakor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rózsakert",
+            "tip": "Illatos rózsák és árnyas padok – a nyugalom oázisa.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Székesegyház kupolája",
+            "tip": "Kilátás a város tetejére – csendes és fenséges.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe râul Bega",
+            "tip": "Plimbare pe mal la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul cu trandafiri",
+            "tip": "Trandafiri parfumați și bănci umbroase – oază de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Domul Catedralei",
+            "tip": "Priveliște peste acoperișurile orașului – tăcut și sublim.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset on the Bega River",
+            "tip": "Walk along the bank at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rose Park",
+            "tip": "Fragrant roses and shady benches – an oasis of calm.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cathedral Dome",
+            "tip": "View over the city rooftops – quiet and majestic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt am Huniade-Platz",
+            "tip": "Frische lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Antiquitätenläden in der Innenstadt",
+            "tip": "Einzigartige Funde aus der Habsburgerzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huniade téri piac",
+            "tip": "Friss helyi termékek és kézműves áruk."
+          },
+          {
+            "name": "Belvárosi régiségboltok",
+            "tip": "Egyedi leletek a Habsburg-korból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de la Huniade",
+            "tip": "Produse locale proaspete și meșteșuguri."
+          },
+          {
+            "name": "Magazine de antichități din centru",
+            "tip": "Descoperiri unice din perioada habsburgică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Huniade Square Market",
+            "tip": "Fresh local produce and handicrafts."
+          },
+          {
+            "name": "Downtown antique shops",
+            "tip": "Unique finds from the Habsburg era."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trage einen Helm – die Straßen können holprig sein.",
+          "Nutze die Fahrradwege entlang der Bega.",
+          "Schließe dein Fahrrad immer gut ab – es gibt viele Fahrraddiebstähle.",
+          "Plane Pausen ein – die Altstadt hat viele Steigungen."
+        ],
+        "hu": [
+          "Viselj sisakot – az utak kátyúsak lehetnek.",
+          "Használd a Béga menti kerékpárutakat.",
+          "Mindig zárd le a biciklit – sok a lopás.",
+          "Tervezz be szüneteket – a belvárosban sok az emelkedő."
+        ],
+        "ro": [
+          "Poartă cască – drumurile pot fi denivelate.",
+          "Folosește pistele de biciclete de-a lungul Begăi.",
+          "Încuie întotdeauna bicicleta – sunt multe furturi.",
+          "Planifică pauze – centrul vechi are multe pante."
+        ],
+        "en": [
+          "Wear a helmet – the streets can be bumpy.",
+          "Use the bike paths along the Bega River.",
+          "Always lock your bike – there are many thefts.",
+          "Plan breaks – the old town has many slopes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Victoriei",
+          "coords": [
+            21.2083,
+            45.7489
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parke am Rand der Fußgängerzone – kostenpflichtig.",
+            "hu": "Parkolj a gyalogosövezet szélén – fizetős.",
+            "ro": "Parchează la marginea zonei pietonale – cu plată.",
+            "en": "Park at the edge of the pedestrian zone – paid parking."
+          }
+        },
+        {
+          "name": "Palatul Baroc",
+          "coords": [
+            21.209,
+            45.7495
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus erreichst du das Palast zu Fuß.",
+            "hu": "A parkolóból gyalog éred el a palotát.",
+            "ro": "De la parcare ajungi pe jos la palat.",
+            "en": "From the parking lot you reach the palace on foot."
+          }
+        },
+        {
+          "name": "Catedrala Mitropolitană",
+          "coords": [
+            21.2075,
+            45.7505
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lass das Auto stehen – die Kathedrale ist nur 5 Minuten entfernt.",
+            "hu": "Hagyd az autót – a székesegyház csak 5 percre van.",
+            "ro": "Lasă mașina – catedrala este la doar 5 minute.",
+            "en": "Leave the car – the cathedral is only 5 minutes away."
+          }
+        },
+        {
+          "name": "Muzeul Național de Artă",
+          "coords": [
+            21.2068,
+            45.7512
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist Teil des Fußgänger-Clusters – zu Fuß erreichbar.",
+            "hu": "A múzeum a gyalogos klaszter része – gyalog elérhető.",
+            "ro": "Muzeul face parte din clusterul pietonal – accesibil pe jos.",
+            "en": "The museum is part of the walking cluster – accessible on foot."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            21.2055,
+            45.752
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Museum aus gehst du direkt in den Park.",
+            "hu": "A múzeumból egyenesen a parkba sétálsz.",
+            "ro": "De la muzeu mergi direct în parc.",
+            "en": "From the museum you walk straight into the park."
+          }
+        },
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            21.21,
+            45.7475
+          ],
+          "category": "square",
+          "arrive_at": "15:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Park aus erreichst du den Platz zu Fuß.",
+            "hu": "A parkból gyalog éred el a teret.",
+            "ro": "Din parc ajungi pe jos în piață.",
+            "en": "From the park you reach the square on foot."
+          }
+        },
+        {
+          "name": "Cafenea Artizană",
+          "coords": [
+            21.2105,
+            45.747
+          ],
+          "category": "gastro",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Café ist der letzte Stopp im Cluster – genieße den Kaffee.",
+            "hu": "A kávézó az utolsó állomás a klaszterben – élvezd a kávét.",
+            "ro": "Cafeneaua este ultima oprire din cluster – bucură-te de cafea.",
+            "en": "The café is the last stop in the cluster – enjoy the coffee."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Dealul Viilor",
+          "coords": [
+            21.22,
+            45.74
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahre den Hügel hinauf – der Blick über die Stadt ist atemberaubend.",
+            "hu": "Hajts fel a dombra – a városra nyíló kilátás lélegzetelállító.",
+            "ro": "Urcă pe deal – priveliștea asupra orașului este uluitoare.",
+            "en": "Drive up the hill – the view over the city is breathtaking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem Auto auf der Piața Victoriei, wo du parkst und zu Fuß die Barockpaläste und die Kathedrale erkundest. Nach dem Mittagessen im Park fährst du zur Piața Unirii, bevor der Nachmittag auf dem Dealul Viilor mit einem Panoramablick endet.",
+        "hu": "A reggel autóval kezdődik a Piața Victoriei-n, ahol parkolsz, és gyalog fedezed fel a barokk palotákat és a székesegyházat. Az ebéd után a parkban az Unió térre hajtasz, mielőtt a délután a Dealul Viilor-i panorámával zárul.",
+        "ro": "Dimineața începe cu mașina în Piața Victoriei, unde parchezi și explorezi pe jos palatele baroce și catedrala. După prânzul în parc, conduci spre Piața Unirii, înainte ca după-amiaza să se încheie cu o panoramă pe Dealul Viilor.",
+        "en": "The morning starts with the car at Piața Victoriei, where you park and explore the Baroque palaces and the cathedral on foot. After lunch in the park, you drive to Piața Unirii, before the afternoon ends with a panorama on Dealul Viilor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Senf",
+            "tip": "Probier die gegrillten Hackfleischröllchen im Restaurant Tradițional."
+          },
+          {
+            "name": "Paprikaș",
+            "tip": "Hühnchen-Paprikasch mit Sauerrahm – herzhaft und cremig."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Süßer Hefekuchen, frisch aus dem Ofen – perfekt für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici mustárral",
+            "tip": "Kóstold meg a grillezett húsgolyókat a Tradițional Étteremben."
+          },
+          {
+            "name": "Paprikás csirke",
+            "tip": "Csirkepaprikás tejföllel – laktató és krémes."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes kelt tészta, frissen a sütőből – tökéletes útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu muștar",
+            "tip": "Încearcă rulourile de carne tocată la grătar la Restaurantul Tradițional."
+          },
+          {
+            "name": "Papricaș de pui",
+            "tip": "Pui cu smântână – sățios și cremos."
+          },
+          {
+            "name": "Colac secuiesc",
+            "tip": "Prăjitură dulce, proaspătă din cuptor – perfectă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with mustard",
+            "tip": "Try the grilled minced meat rolls at Restaurant Tradițional."
+          },
+          {
+            "name": "Chicken paprikash",
+            "tip": "Chicken stew with sour cream – hearty and creamy."
+          },
+          {
+            "name": "Chimney cake",
+            "tip": "Sweet yeast cake, fresh from the oven – perfect on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Fluss Bega",
+            "tip": "Spaziergang entlang des Ufers bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rosenpark",
+            "tip": "Duftende Rosen und schattige Bänke – eine Oase der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kuppel der Kathedrale",
+            "tip": "Blick über die Dächer der Stadt – still und erhaben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Béga folyónál",
+            "tip": "Séta a parton napnyugtakor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rózsakert",
+            "tip": "Illatos rózsák és árnyas padok – a nyugalom oázisa.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Székesegyház kupolája",
+            "tip": "Kilátás a város tetejére – csendes és fenséges.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe râul Bega",
+            "tip": "Plimbare pe mal la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul cu trandafiri",
+            "tip": "Trandafiri parfumați și bănci umbroase – oază de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Domul Catedralei",
+            "tip": "Priveliște peste acoperișurile orașului – tăcut și sublim.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset on the Bega River",
+            "tip": "Walk along the bank at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rose Park",
+            "tip": "Fragrant roses and shady benches – an oasis of calm.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cathedral Dome",
+            "tip": "View over the city rooftops – quiet and majestic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt am Huniade-Platz",
+            "tip": "Frische lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Antiquitätenläden in der Innenstadt",
+            "tip": "Einzigartige Funde aus der Habsburgerzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huniade téri piac",
+            "tip": "Friss helyi termékek és kézműves áruk."
+          },
+          {
+            "name": "Belvárosi régiségboltok",
+            "tip": "Egyedi leletek a Habsburg-korból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de la Huniade",
+            "tip": "Produse locale proaspete și meșteșuguri."
+          },
+          {
+            "name": "Magazine de antichități din centru",
+            "tip": "Descoperiri unice din perioada habsburgică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Huniade Square Market",
+            "tip": "Fresh local produce and handicrafts."
+          },
+          {
+            "name": "Downtown antique shops",
+            "tip": "Unique finds from the Habsburg era."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parke in einem der zentralen Parkhäuser – die Innenstadt ist verkehrsberuhigt.",
+          "Nutze die Park-and-Ride-Angebote am Stadtrand.",
+          "Fahre nicht in die Fußgängerzone – es gibt hohe Strafen.",
+          "Plane genug Zeit für die Parkplatzsuche ein – besonders am Wochenende."
+        ],
+        "hu": [
+          "Parkolj az egyik központi parkolóházban – a belváros forgalomcsillapított.",
+          "Használd a külvárosi parkolóházakat.",
+          "Ne hajts be a gyalogosövezetbe – magas a bírság.",
+          "Tervezz elegendő időt a parkolóhely keresésére – főleg hétvégén."
+        ],
+        "ro": [
+          "Parchează într-una din parcările centrale – centrul este cu trafic redus.",
+          "Folosește parcările Park-and-Ride de la periferie.",
+          "Nu intra în zona pietonală – amenzile sunt mari.",
+          "Planifică suficient timp pentru căutarea locului de parcare – mai ales în weekend."
+        ],
+        "en": [
+          "Park in one of the central parking garages – the city center is traffic-calmed.",
+          "Use the park-and-ride facilities on the outskirts.",
+          "Don't drive into the pedestrian zone – fines are high.",
+          "Allow enough time for parking – especially on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Victoriei",
+          "coords": [
+            21.2083,
+            45.7489
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steig an der Haltestelle Piața Victoriei aus – der Platz liegt direkt vor dir.",
+            "hu": "Szállj le a Piața Victoriei megállónál – a tér közvetlenül előtted van.",
+            "ro": "Coboară la stația Piața Victoriei – piața este chiar în fața ta.",
+            "en": "Get off at Piața Victoriei station – the square is right in front of you."
+          }
+        },
+        {
+          "name": "Palatul Baroc",
+          "coords": [
+            21.209,
+            45.7495
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Platz aus erreichst du das Palast zu Fuß.",
+            "hu": "A térről gyalog éred el a palotát.",
+            "ro": "Din piață ajungi pe jos la palat.",
+            "en": "From the square you reach the palace on foot."
+          }
+        },
+        {
+          "name": "Catedrala Mitropolitană",
+          "coords": [
+            21.2075,
+            45.7505
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kathedrale ist nur einen kurzen Fußweg entfernt.",
+            "hu": "A székesegyház csak egy rövid sétára van.",
+            "ro": "Catedrala este la doar o scurtă plimbare.",
+            "en": "The cathedral is just a short walk away."
+          }
+        },
+        {
+          "name": "Muzeul Național de Artă",
+          "coords": [
+            21.2068,
+            45.7512
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist Teil des Fußgänger-Clusters – kein Transit nötig.",
+            "hu": "A múzeum a gyalogos klaszter része – nincs szükség tömegközlekedésre.",
+            "ro": "Muzeul face parte din clusterul pietonal – nu e nevoie de transport.",
+            "en": "The museum is part of the walking cluster – no transit needed."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            21.2055,
+            45.752
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Museum aus gehst du direkt in den Park.",
+            "hu": "A múzeumból egyenesen a parkba sétálsz.",
+            "ro": "De la muzeu mergi direct în parc.",
+            "en": "From the museum you walk straight into the park."
+          }
+        },
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            21.21,
+            45.7475
+          ],
+          "category": "square",
+          "arrive_at": "15:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Park aus erreichst du den Platz zu Fuß.",
+            "hu": "A parkból gyalog éred el a teret.",
+            "ro": "Din parc ajungi pe jos în piață.",
+            "en": "From the park you reach the square on foot."
+          }
+        },
+        {
+          "name": "Cafenea Artizană",
+          "coords": [
+            21.2105,
+            45.747
+          ],
+          "category": "gastro",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Café ist der letzte Stopp im Cluster – genieße den Kaffee.",
+            "hu": "A kávézó az utolsó állomás a klaszterben – élvezd a kávét.",
+            "ro": "Cafeneaua este ultima oprire din cluster – bucură-te de cafea.",
+            "en": "The café is the last stop in the cluster – enjoy the coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Straßenbahn zur Piața Victoriei, wo du zu Fuß die Barockpaläste und die Kathedrale erkundest. Nach dem Mittagessen im Park nimmst du die Straßenbahn zur Piața Unirii, bevor der Nachmittag in einem gemütlichen Café ausklingt.",
+        "hu": "A reggel villamossal kezdődik a Piața Victoriei-ra, ahol gyalog fedezed fel a barokk palotákat és a székesegyházat. Az ebéd után a parkban villamossal az Unió térre utazol, mielőtt a délután egy hangulatos kávézóban zárul.",
+        "ro": "Dimineața începe cu tramvaiul spre Piața Victoriei, unde explorezi pe jos palatele baroce și catedrala. După prânzul în parc, iei tramvaiul spre Piața Unirii, înainte ca după-amiaza să se încheie într-o cafenea cochetă.",
+        "en": "The morning starts with the tram to Piața Victoriei, where you explore the Baroque palaces and the cathedral on foot. After lunch in the park, you take the tram to Piața Unirii, before the afternoon ends in a cozy café."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Senf",
+            "tip": "Probier die gegrillten Hackfleischröllchen im Restaurant Tradițional."
+          },
+          {
+            "name": "Paprikaș",
+            "tip": "Hühnchen-Paprikasch mit Sauerrahm – herzhaft und cremig."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Süßer Hefekuchen, frisch aus dem Ofen – perfekt für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici mustárral",
+            "tip": "Kóstold meg a grillezett húsgolyókat a Tradițional Étteremben."
+          },
+          {
+            "name": "Paprikás csirke",
+            "tip": "Csirkepaprikás tejföllel – laktató és krémes."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes kelt tészta, frissen a sütőből – tökéletes útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu muștar",
+            "tip": "Încearcă rulourile de carne tocată la grătar la Restaurantul Tradițional."
+          },
+          {
+            "name": "Papricaș de pui",
+            "tip": "Pui cu smântână – sățios și cremos."
+          },
+          {
+            "name": "Colac secuiesc",
+            "tip": "Prăjitură dulce, proaspătă din cuptor – perfectă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with mustard",
+            "tip": "Try the grilled minced meat rolls at Restaurant Tradițional."
+          },
+          {
+            "name": "Chicken paprikash",
+            "tip": "Chicken stew with sour cream – hearty and creamy."
+          },
+          {
+            "name": "Chimney cake",
+            "tip": "Sweet yeast cake, fresh from the oven – perfect on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Fluss Bega",
+            "tip": "Spaziergang entlang des Ufers bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rosenpark",
+            "tip": "Duftende Rosen und schattige Bänke – eine Oase der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kuppel der Kathedrale",
+            "tip": "Blick über die Dächer der Stadt – still und erhaben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Béga folyónál",
+            "tip": "Séta a parton napnyugtakor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rózsakert",
+            "tip": "Illatos rózsák és árnyas padok – a nyugalom oázisa.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Székesegyház kupolája",
+            "tip": "Kilátás a város tetejére – csendes és fenséges.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe râul Bega",
+            "tip": "Plimbare pe mal la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul cu trandafiri",
+            "tip": "Trandafiri parfumați și bănci umbroase – oază de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Domul Catedralei",
+            "tip": "Priveliște peste acoperișurile orașului – tăcut și sublim.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset on the Bega River",
+            "tip": "Walk along the bank at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rose Park",
+            "tip": "Fragrant roses and shady benches – an oasis of calm.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cathedral Dome",
+            "tip": "View over the city rooftops – quiet and majestic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt am Huniade-Platz",
+            "tip": "Frische lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Antiquitätenläden in der Innenstadt",
+            "tip": "Einzigartige Funde aus der Habsburgerzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huniade téri piac",
+            "tip": "Friss helyi termékek és kézműves áruk."
+          },
+          {
+            "name": "Belvárosi régiségboltok",
+            "tip": "Egyedi leletek a Habsburg-korból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de la Huniade",
+            "tip": "Produse locale proaspete și meșteșuguri."
+          },
+          {
+            "name": "Magazine de antichități din centru",
+            "tip": "Descoperiri unice din perioada habsburgică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Huniade Square Market",
+            "tip": "Fresh local produce and handicrafts."
+          },
+          {
+            "name": "Downtown antique shops",
+            "tip": "Unique finds from the Habsburg era."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufe eine Tageskarte für die Straßenbahn – sie ist günstig und deckt alle Linien ab.",
+          "Die Straßenbahnen sind zuverlässig, aber zur Stoßzeit voll.",
+          "Steige an der Haltestelle Piața Victoriei aus – sie ist der zentrale Knotenpunkt.",
+          "Plane genug Zeit für Umstiege ein – die Intervalle betragen 10-15 Minuten."
+        ],
+        "hu": [
+          "Vegyél napijegyet a villamosra – olcsó és minden vonalra érvényes.",
+          "A villamosok megbízhatóak, de csúcsidőben zsúfoltak.",
+          "Szállj le a Piața Victoriei megállónál – ez a központi csomópont.",
+          "Tervezz elegendő időt az átszállásokra – az intervallumok 10-15 percesek."
+        ],
+        "ro": [
+          "Cumpără un bilet de o zi pentru tramvai – este ieftin și acoperă toate liniile.",
+          "Tramvaiele sunt de încredere, dar aglomerate la orele de vârf.",
+          "Coboară la stația Piața Victoriei – este nodul central.",
+          "Planifică suficient timp pentru schimbări – intervalele sunt de 10-15 minute."
+        ],
+        "en": [
+          "Buy a day ticket for the tram – it's cheap and covers all lines.",
+          "The trams are reliable but crowded during rush hour.",
+          "Get off at Piața Victoriei station – it's the central hub.",
+          "Allow enough time for transfers – intervals are 10-15 minutes."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,854 @@
+{
+  "city_id": "uk-ellon-cities-v2",
+  "anchor": {
+    "name": "Ellon",
+    "coords": [
+      57.366,
+      -2.086
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "The Tollbooth",
+          "coords": [
+            57.3662,
+            -2.0855
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Historisches Zentrum der Stadtverwaltung.",
+            "hu": "A városvezetés egykori történelmi központja.",
+            "ro": "Vechiul centru administrativ al orașului.",
+            "en": "Historic centre of the town's administration."
+          }
+        },
+        {
+          "name": "Ellon Parish Church",
+          "coords": [
+            57.3665,
+            -2.0845
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stattliche Kirche mit langer Tradition.",
+            "hu": "Tekintélyes templom nagy múltú hagyományokkal.",
+            "ro": "O biserică impunătoare cu o istorie bogată.",
+            "en": "Stately church with a long local heritage."
+          }
+        },
+        {
+          "name": "Ellon Castle Gardens",
+          "coords": [
+            57.3655,
+            -2.0825
+          ],
+          "category": "garden",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wunderschön restaurierte Eibenhecken.",
+            "hu": "Gyönyörűen felújított tiszafa sövények.",
+            "ro": "Garduri vii de tisă restaurate superb.",
+            "en": "See the beautifully restored ancient yew hedges."
+          }
+        },
+        {
+          "name": "River Ythan Walk",
+          "coords": [
+            57.3645,
+            -2.085
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie Lachse und Meerforellen.",
+            "hu": "Figyelje meg a lazacokat és tengeri pisztrángokat.",
+            "ro": "Observați somonii și păstrăvii în apa râului.",
+            "en": "Look out for salmon and sea trout in the water."
+          }
+        },
+        {
+          "name": "Riverside Park",
+          "coords": [
+            57.3635,
+            -2.0885
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für eine entspannte Mittagspause.",
+            "hu": "Tökéletes hely egy nyugodt ebédszünethez.",
+            "ro": "Ideal pentru o pauză de prânz relaxantă.",
+            "en": "Perfect spot for a relaxing lunch break."
+          }
+        },
+        {
+          "name": "The Old Bridge",
+          "coords": [
+            57.365,
+            -2.0875
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wahrzeichen von 1793 über den Ythan.",
+            "hu": "Az 1793-ban épült híd a város jelképe.",
+            "ro": "Simbolul orașului, construit în anul 1793.",
+            "en": "The town's iconic bridge built in 1793."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ellon lässt sich wunderbar zu Fuß erkunden. Beginnen Sie im historischen Kern am Tollbooth und der Pfarrkirche, bevor Sie die prächtigen Castle Gardens besuchen. Ein Spaziergang am Fluss Ythan und durch den Riverside Park zeigt die grüne Seite der Stadt. Den Abschluss bildet die elegante Old Bridge aus dem 18. Jahrhundert.",
+        "hu": "Ellon városa gyalogosan is kiválóan felfedezhető. Kezdjen a Tollbooth és a plébániatemplom környékén, majd látogasson el a pazar várkertbe. Az Ythan folyó menti séta és a Riverside Park megmutatja a város zöld arcát. A programot az 1793-ban épült elegáns Öreg Hídnál zárja.",
+        "ro": "Ellon poate fi explorat minunat la pas. Începeți la Tollbooth și biserica parohială, apoi vizitați superbele grădini ale castelului. O plimbare pe malul râului Ythan și prin Riverside Park vă va arăta fața verde a orașului. Încheiați cu elegantul Pod Vechi din secolul al XVIII-lea.",
+        "en": "Explore the peaceful charm of Ellon on foot. Start at the historic Tollbooth and Parish Church before heading to the stunning Castle Gardens. A stroll along the River Ythan and through Riverside Park highlights the town's natural beauty. Finish your walk at the iconic Old Bridge spanning the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The New Inn",
+            "tip": "Traditionelle Gastfreundschaft im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The New Inn",
+            "tip": "Hagyományos vendégszeretet a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The New Inn",
+            "tip": "Gastronomie tradițională în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The New Inn",
+            "tip": "Traditional local hospitality and good food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "McDonald Park",
+            "tip": "Große Parkanlage mit viel Ruhe am Stadtrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "McDonald Park",
+            "tip": "Hatalmas park csenddel a város szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul McDonald",
+            "tip": "Parc vast și liniștit la marginea orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "McDonald Park",
+            "tip": "Large community park with peaceful trails.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ellon Market Square",
+            "tip": "Kleine unabhängige Geschäfte im Kern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ellon Piactér",
+            "tip": "Kis független boltok a városmagban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Ellon",
+            "tip": "Mici magazine independente în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ellon Market Square",
+            "tip": "Quaint independent shops in the town centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege entlang des Ythan sind sehr gut ausgebaut.",
+          "Die Castle Gardens sind oft am Wochenende geöffnet."
+        ],
+        "hu": [
+          "Az Ythan menti sétányok jól karbantartottak.",
+          "A várkert gyakran csak hétvégén látogatható."
+        ],
+        "ro": [
+          "Potecile de-a lungul râului Ythan sunt bine amenajate.",
+          "Grădinile castelului sunt deschise adesea în weekend."
+        ],
+        "en": [
+          "The riverside paths are well-maintained and easy.",
+          "Check opening times for the Castle Gardens in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Ellon Viaduct",
+          "coords": [
+            57.3615,
+            -2.0945
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Teil des Formartine and Buchan Way Radwegs.",
+            "hu": "A Formartine and Buchan Way kerékpárút része.",
+            "ro": "Parte din traseul de ciclism Formartine and Buchan.",
+            "en": "Part of the Formartine and Buchan Way cycle route."
+          }
+        },
+        {
+          "name": "Esslemont Castle",
+          "coords": [
+            57.3505,
+            -2.1285
+          ],
+          "category": "fortress",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Stimmungsvolle Ruine südwestlich der Stadt.",
+            "hu": "Hangulatos várrom a várostól délnyugatra.",
+            "ro": "Ruină plină de atmosferă la sud-vest de oraș.",
+            "en": "Atmospheric ruins southwest of the town."
+          }
+        },
+        {
+          "name": "River Ythan",
+          "coords": [
+            57.3645,
+            -2.085
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Schöner Uferweg zurück ins Zentrum.",
+            "hu": "Szép vízparti szakasz vissza a központba.",
+            "ro": "Traseu superb pe malul apei spre centru.",
+            "en": "Scenic riverside path back to the town centre."
+          }
+        },
+        {
+          "name": "McDonald Golf Club",
+          "coords": [
+            57.3755,
+            -2.0825
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkähnlicher Golfplatz am Stadtrand.",
+            "hu": "Parkszerű golfpálya a város szélén.",
+            "ro": "Teren de golf pitoresc la marginea orașului.",
+            "en": "Parkland golf course on the edge of town."
+          }
+        },
+        {
+          "name": "BrewDog Brauerei HQ",
+          "coords": [
+            57.3895,
+            -2.0855
+          ],
+          "category": "culinary",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie den 'DogTap' Schankraum.",
+            "hu": "Látogassa meg a 'DogTap' sörözőt.",
+            "ro": "Vizitați barul 'DogTap' din cadrul fabricii.",
+            "en": "Visit the world-famous 'DogTap' taproom."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den alten Bahndamm für eine Radtour um Ellon. Starten Sie am imposanten Viadukt und fahren Sie zur Ruine von Esslemont Castle. Entlang des Ythan geht es zurück und weiter nördlich zur modernen BrewDog Brauerei, bevor Sie den Tag entspannt im Zentrum ausklingen lassen.",
+        "hu": "Használja a régi vasúti töltést egy Ellon környéki tekeréshez. Induljon a monumentális viadukttól, majd látogassa meg Esslemont várromját. Az Ythan mentén haladva északon érheti el a BrewDog sörfőzdét, végül pihenjen meg a városközpontban.",
+        "ro": "Folosiți terasamentul vechii căi ferate pentru o tură în jurul Ellon-ului. Începeți la viaductul impunător, apoi vizitați ruinele castelului Esslemont. Reveniți pe malul râului și mergeți spre nord la fabrica BrewDog înainte de încheiere.",
+        "en": "Cycle along the former railway line for a tour of Ellon's surroundings. Start at the grand viaduct and pedal out to the Esslemont Castle ruins. Follow the River Ythan back and head north to the modern BrewDog Brewery HQ for a rewarding finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "DogTap Ellon",
+            "tip": "Direkt bei der BrewDog Brauerei, frisches Craft Beer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "DogTap Ellon",
+            "tip": "Közvetlenül a sörfőzdénél, friss kézműves sörök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "DogTap Ellon",
+            "tip": "Chiar la fabrica BrewDog, beri artizanale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "DogTap Ellon",
+            "tip": "Fresh craft beer straight from the source."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ythan Estuary View",
+            "tip": "Blick auf das Mündungsgebiet etwas flussabwärts.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ythan torkolat",
+            "tip": "Kilátás a torkolatvidékre kicsit lejjebb a folyón.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Estuarul Ythan",
+            "tip": "Vedere spre vărsarea râului, în aval de oraș.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ythan Estuary View",
+            "tip": "Scenic views of the estuary further downstream.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "BrewDog Merchandise",
+            "tip": "Alles für den Craft Beer Fan."
+          }
+        ],
+        "hu": [
+          {
+            "name": "BrewDog Ajándékbolt",
+            "tip": "Minden a kézműves sörök kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul BrewDog",
+            "tip": "Produse promoționale pentru fanii craft beer."
+          }
+        ],
+        "en": [
+          {
+            "name": "BrewDog Merchandise",
+            "tip": "Essential gear for every craft beer enthusiast."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Formartine and Buchan Way ist flach und autofrei.",
+          "Denken Sie an Licht für die Fahrt am späten Nachmittag."
+        ],
+        "hu": [
+          "A Formartine and Buchan Way sík és autómentes.",
+          "Gondoskodjon világításról a késő délutáni tekeréshez."
+        ],
+        "ro": [
+          "Traseul este plat și ferit de traficul auto.",
+          "Nu uitați de luminile bicicletei pentru după-amiază."
+        ],
+        "en": [
+          "The railway path is exceptionally flat and car-free.",
+          "Ensure you have lights if cycling back late."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 28.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Ellon Castle Gardens",
+          "coords": [
+            57.3655,
+            -2.0825
+          ],
+          "category": "garden",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem zentralen Parkplatz Market Street.",
+            "hu": "Parkoljon a Market Street központi parkolójában.",
+            "ro": "Parcați în parcarea centrală de pe Market Street.",
+            "en": "Park at the central Market Street car park."
+          }
+        },
+        {
+          "name": "The Old Bridge",
+          "coords": [
+            57.365,
+            -2.0875
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A very short walk from the town centre parking."
+          }
+        },
+        {
+          "name": "Esslemont Castle",
+          "coords": [
+            57.3505,
+            -2.1285
+          ],
+          "category": "fortress",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kleiner Parkplatz an der Straße vorhanden.",
+            "hu": "Kis útmenti parkolóhely elérhető.",
+            "ro": "Mică parcare disponibilă la marginea drumului.",
+            "en": "Small layby parking available near the site."
+          }
+        },
+        {
+          "name": "BrewDog Brauerei HQ",
+          "coords": [
+            57.3895,
+            -2.0855
+          ],
+          "category": "culinary",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Führung durch die moderne Produktion machen.",
+            "hu": "Vegyen részt a modern sörgyári túrán.",
+            "ro": "Urmați turul ghidat prin fabrica modernă.",
+            "en": "Take the guided tour of the high-tech facility."
+          }
+        },
+        {
+          "name": "Auchmacoy Estate",
+          "coords": [
+            57.3785,
+            -2.0345
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein prächtiges privates Anwesen östlich der Stadt.",
+            "hu": "Pompás magánbirtok a várostól keletre.",
+            "ro": "O proprietate privată superbă la est de oraș.",
+            "en": "Grand private estate just east of Ellon."
+          }
+        },
+        {
+          "name": "Newburgh Beach",
+          "coords": [
+            57.3185,
+            -2.0025
+          ],
+          "category": "beach",
+          "arrive_at": "15:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Sehen Sie die Robbenkolonie am Strand.",
+            "hu": "Nézze meg a fóka-kolóniát a tengerparton.",
+            "ro": "Observați colonia de foci de pe plajă.",
+            "en": "Famous for the large seal colony on the sands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert lokale Kultur mit der Tierwelt der Küste. Nach dem historischen Kern von Ellon besuchen Sie die BrewDog Brauerei und das Auchmacoy Anwesen. Der krönende Abschluss ist die Fahrt zum Strand von Newburgh, wo Sie eine der größten Robbenkolonien Schottlands hautnah erleben können.",
+        "hu": "Ez az autós túra ötvözi a helyi kultúrát a tengerparti élővilággal. Ellon történelmi magja után látogasson el a BrewDog központba és az Auchmacoy birtokra. A nap fénypontja a newburgh-i tengerpart, ahol Skócia egyik legnagyobb fóka-kolóniáját láthatja.",
+        "ro": "Acest tur auto îmbină cultura locală cu fauna sălbatică de pe coastă. După centrul istoric din Ellon, vizitați sediul BrewDog și domeniul Auchmacoy. Încheiați ziua la plaja Newburgh, unde puteți vedea una dintre cele mai mari colonii de foci din Scoția.",
+        "en": "Combine town history with coastal wildlife on this driving tour. Explore Ellon's central gems, visit the world-famous BrewDog Brewery, and see the grand Auchmacoy Estate. End your day at nearby Newburgh Beach, home to one of Scotland's largest and most famous seal colonies."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Udny Arms",
+            "tip": "Bekanntes Hotel und Restaurant im nahen Newburgh."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Udny Arms",
+            "tip": "Híres hotel és étterem a közeli Newburgh-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Udny Arms",
+            "tip": "Hotel și restaurant renumit în Newburgh."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Udny Arms",
+            "tip": "Well-known dining spot in nearby Newburgh."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forvie National Nature Reserve",
+            "tip": "Wanderung durch die Dünen bei Newburgh.",
+            "emoji": "🌾"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forvie Természetvédelmi Terület",
+            "tip": "Séta a dűnék között Newburgh mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Forvie",
+            "tip": "Drumeție prin dunele de nisip de la Newburgh.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forvie Nature Reserve",
+            "tip": "Stroll through the massive sand dunes.",
+            "emoji": "🌾"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "BrewDog Ellon Shop",
+            "tip": "Exklusive Biere und Merchandise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "BrewDog Ellon Bolt",
+            "tip": "Exkluzív sörök és emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul BrewDog Ellon",
+            "tip": "Beri exclusive și produse promoționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "BrewDog Ellon Shop",
+            "tip": "Exclusive brews and brewery merchandise."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Newburgh ist nur 10 Minuten Fahrt von Ellon entfernt.",
+          "Achten Sie auf die Gezeiten, um die Robben besser zu sehen."
+        ],
+        "hu": [
+          "Newburgh csak 10 perc autóval Ellontól.",
+          "Figyelje az árapályt a fókák megfigyeléséhez."
+        ],
+        "ro": [
+          "Newburgh este la doar 10 minute de mers de la Ellon.",
+          "Verificați mareea pentru o mai bună vizibilitate a focilor."
+        ],
+        "en": [
+          "Newburgh is a quick 10-minute drive south of Ellon.",
+          "Visit at low tide for the best chance to see the seals."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 30.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "The Tollbooth",
+          "coords": [
+            57.3662,
+            -2.0855
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt im Stadtzentrum.",
+            "hu": "Buszmegálló közvetlenül a központban.",
+            "ro": "Stație de autobuz chiar în centrul orașului.",
+            "en": "Bus stop located right in the town centre."
+          }
+        },
+        {
+          "name": "Ellon Castle Gardens",
+          "coords": [
+            57.3655,
+            -2.0825
+          ],
+          "category": "garden",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Haltestelle.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "O scurtă plimbare de la stație.",
+            "en": "Just a few minutes' walk from the stops."
+          }
+        },
+        {
+          "name": "Aberdeen Beach",
+          "coords": [
+            57.1515,
+            -2.0845
+          ],
+          "category": "beach",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 26.5,
+          "tip_5lang": {
+            "de": "Direkte Busverbindung (X20) nach Aberdeen.",
+            "hu": "Közvetlen buszjárat (X20) Aberdeenbe.",
+            "ro": "Legătură directă cu autobuzul X20 spre Aberdeen.",
+            "en": "Take the frequent X20 express bus to Aberdeen."
+          }
+        },
+        {
+          "name": "Riverside Park",
+          "coords": [
+            57.3635,
+            -2.0885
+          ],
+          "category": "park",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 105,
+          "hop_from_prev_km": 26.5,
+          "tip_5lang": {
+            "de": "Abschluss am Fluss nach der Rückfahrt.",
+            "hu": "Zárja a napot a folyóparton a visszaút után.",
+            "ro": "Relaxare pe malul râului după revenirea în oraș.",
+            "en": "Riverside relax after returning to Ellon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Verbinden Sie Ellon mit der Metropole Aberdeen. Nach dem Besuch der Schlossgärten in Ellon bringt Sie der Expressbus direkt an die Küste von Aberdeen. Genießen Sie dort den breiten Sandstrand und die Promenade, bevor Sie am späten Nachmittag zurückkehren.",
+        "hu": "Kösse össze Ellont Aberdeen metropoliszával. A várkert megtekintése után az expresszbusz egyenesen az aberdeeni tengerpartra viszi. Élvezze a homokos strandot és a sétányt, majd késő délután térjen vissza Ellonba.",
+        "ro": "Conectați Ellon-ul cu metropola Aberdeen. După vizitarea grădinilor castelului, autobuzul expres vă duce direct pe coasta Aberdeen-ului. Bucurați-vă de plajă și faleză înainte de a reveni în Ellon după-amiaza.",
+        "en": "Use the efficient express bus link to see Aberdeen too. Start with Ellon's historic gardens, then catch the X20 bus directly to Aberdeen's coastline. Spend a few hours on the sandy beach before heading back to Ellon for a quiet evening stroll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beach Esplanade Café",
+            "tip": "Typisches Strandcafé in Aberdeen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beach Esplanade Café",
+            "tip": "Tipikus tengerparti kávézó Aberdeenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beach Esplanade Café",
+            "tip": "Cafenea tradițională pe faleza din Aberdeen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Esplanade Café",
+            "tip": "Classic seaside café on the Aberdeen promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Footdee Village",
+            "tip": "Malerisches altes Fischerdorf am Ende des Strands.",
+            "emoji": "🏠"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Footdee falu",
+            "tip": "Festői régi halászfalu a strand végén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Footdee",
+            "tip": "Vechi sat de pescari pitoresc la capătul plajei.",
+            "emoji": "🏠"
+          }
+        ],
+        "en": [
+          {
+            "name": "Footdee (Fittie)",
+            "tip": "Quaint and tiny fishing village at the harbour mouth.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Union Square Aberdeen",
+            "tip": "Großes Einkaufszentrum direkt am Busbahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Union Square Aberdeen",
+            "tip": "Hatalmas bevásárlóközpont a buszpályaudvarnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Union Square Aberdeen",
+            "tip": "Mare centru comercial lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Union Square Aberdeen",
+            "tip": "Major shopping centre right next to the bus station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bus X20 ist die schnellste Verbindung nach Aberdeen.",
+          "Fahrkarten können kontaktlos beim Fahrer bezahlt werden."
+        ],
+        "hu": [
+          "Az X20-as busz a leggyorsabb Aberdeen felé.",
+          "A jegyért érintős kártyával is fizethet a sofőrnél."
+        ],
+        "ro": [
+          "Linia X20 este cea mai rapidă spre Aberdeen.",
+          "Biletele pot fi plătite contactless direct la șofer."
+        ],
+        "en": [
+          "Bus X20 is the express service to central Aberdeen.",
+          "You can pay with contactless cards on all local buses."
+        ]
+      }
+    }
+  }
+}

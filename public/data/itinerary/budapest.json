@@ -1,0 +1,1488 @@
+{
+  "city_id": "budapest",
+  "anchor": {
+    "name": "Deák Ferenc tér",
+    "coords": [
+      19.054,
+      47.497
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Vörösmarty tér",
+          "coords": [
+            19.05,
+            47.496
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früher Marktplatz, heute Treffpunkt für Einheimische.",
+            "hu": "Régi piactér, ma találkozóhely a helyieknek.",
+            "ro": "Fostă piață, acum loc de întâlnire pentru localnici.",
+            "en": "Former market square, now a meeting point for locals."
+          }
+        },
+        {
+          "name": "Széchenyi Lánchíd",
+          "coords": [
+            19.043,
+            47.499
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie über die Brücke für einen tollen Blick auf das Parlament.",
+            "hu": "Sétáljon át a hídon a Parlament lenyűgöző kilátásáért.",
+            "ro": "Treceți podul pentru o priveliște minunată asupra Parlamentului.",
+            "en": "Cross the bridge for a stunning view of the Parliament."
+          }
+        },
+        {
+          "name": "Mátyás-templom",
+          "coords": [
+            19.035,
+            47.502
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm – fantastischer Blick über die Stadt.",
+            "hu": "Menjen fel a toronyba – csodálatos kilátás a városra.",
+            "ro": "Urcati în turn – o priveliște fantastică asupra orașului.",
+            "en": "Climb the tower for a fantastic view over the city."
+          }
+        },
+        {
+          "name": "Halászbástya",
+          "coords": [
+            19.034,
+            47.503
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Jöjjön korán, hogy elkerülje a tömeget.",
+            "ro": "Veniți devreme pentru a evita aglomerația.",
+            "en": "Come early to avoid the crowds."
+          }
+        },
+        {
+          "name": "Budai Vár",
+          "coords": [
+            19.039,
+            47.496
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Burgmuseum für die ungarische Geschichte.",
+            "hu": "Látogassa meg a Vármúzeumot a magyar történelemért.",
+            "ro": "Vizitați Muzeul Castelului pentru istoria Ungariei.",
+            "en": "Visit the Castle Museum for Hungarian history."
+          }
+        },
+        {
+          "name": "Gellért-hegy",
+          "coords": [
+            19.045,
+            47.486
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Picknick mit Blick auf die Donau – ein Traum.",
+            "hu": "Piknik a Dunára néző kilátással – álomszép.",
+            "ro": "Picnic cu vedere la Dunăre – un vis.",
+            "en": "Picnic with a view of the Danube – dreamy."
+          }
+        },
+        {
+          "name": "Great Market Hall",
+          "coords": [
+            19.058,
+            47.487
+          ],
+          "category": "market",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie Langos und Paprika – echte ungarische Spezialitäten.",
+            "hu": "Kóstoljon lángost és paprikát – igazi magyar specialitások.",
+            "ro": "Încercați langoș și ardei – adevărate specialități maghiare.",
+            "en": "Try langos and paprika – real Hungarian specialties."
+          }
+        },
+        {
+          "name": "Ruin Bar (Szimpla Kert)",
+          "coords": [
+            19.06,
+            47.492
+          ],
+          "category": "gastro",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestellen Sie einen Unicum – lokaler Kräuterlikör.",
+            "hu": "Rendeljen Unicumot – helyi gyomorkeserű.",
+            "ro": "Comandați un Unicum – lichior local de plante.",
+            "en": "Order an Unicum – local herbal liqueur."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie auf dem Vörösmarty tér, wo sich das historische Zentrum öffnet. Spazieren Sie über die Kettenbrücke zur Budaer Burg. Mittag: Erkunden Sie die Fischerbastei und die Matthiaskirche. Nachmittag: Genießen Sie die Aussicht vom Gellértberg und schlendern Sie durch die Große Markthalle. Abend: Lassen Sie den Tag in einer Ruinenbar ausklingen.",
+        "hu": "Reggel: Kezdje a Vörösmarty téren, ahol a történelmi központ megnyílik. Sétáljon át a Lánchídon a Budai Várba. Dél: Fedezze fel a Halászbástyát és a Mátyás-templomot. Délután: Élvezze a kilátást a Gellért-hegyről és sétáljon a Nagycsarnokban. Este: Zárja a napot egy romkocsmában.",
+        "ro": "Dimineața: Începeți în Piața Vörösmarty, unde centrul istoric se deschide. Plimbați-vă pe Podul cu Lanțuri până la Castelul Buda. Prânz: Explorați Bastionul Pescarilor și Biserica Matia. După-amiaza: Bucurați-vă de priveliștea de pe Dealul Gellért și colindați prin Piața Mare. Seara: Încheiați ziua într-un bar ruină.",
+        "en": "Morning: Start at Vörösmarty Square, where the historic center opens up. Walk across the Chain Bridge to Buda Castle. Midday: Explore Fisherman's Bastion and Matthias Church. Afternoon: Enjoy the view from Gellért Hill and stroll through the Great Market Hall. Evening: End the day in a ruin bar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch",
+            "tip": "Im 'Gulaschmuseum' probieren"
+          },
+          {
+            "name": "Langos",
+            "tip": "Am Marktstand der Großen Markthalle"
+          },
+          {
+            "name": "Tokaji Ausbruch",
+            "tip": "Im 'Fausto's' im 7. Bezirk"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyás",
+            "tip": "A 'Gulyásmúzeumban' kóstolja"
+          },
+          {
+            "name": "Lángos",
+            "tip": "A Nagycsarnok piaci standjánál"
+          },
+          {
+            "name": "Tokaji aszú",
+            "tip": "A 'Fausto's'-ban a 7. kerületben"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș",
+            "tip": "Încercați la 'Muzeul Gulașului'"
+          },
+          {
+            "name": "Langoș",
+            "tip": "La standul din Piața Mare"
+          },
+          {
+            "name": "Tokaji aszú",
+            "tip": "La 'Fausto's' în districtul 7"
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash",
+            "tip": "Try at 'Goulash Museum'"
+          },
+          {
+            "name": "Langos",
+            "tip": "At the Great Market Hall stall"
+          },
+          {
+            "name": "Tokaji Aszú",
+            "tip": "At 'Fausto's' in the 7th district"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zitadelle bei Sonnenuntergang",
+            "tip": "Ruhiger Blick auf die Lichter der Stadt",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Margareteninsel",
+            "tip": "Versteckter Garten mit japanischem Brunnen",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Károlyi-Kert",
+            "tip": "Grüne Oase im 5. Bezirk",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella naplementekor",
+            "tip": "Csendes kilátás a város fényeire",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Margitsziget",
+            "tip": "Rejtett kert japán kúttal",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Károlyi-kert",
+            "tip": "Zöld oázis az 5. kerületben",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Citadela la apus",
+            "tip": "Vedere liniștită asupra luminilor orașului",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Insula Margareta",
+            "tip": "Grădină ascunsă cu fântână japoneză",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Károlyi",
+            "tip": "Oază verde în districtul 5",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel at sunset",
+            "tip": "Quiet view of the city lights",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Margaret Island",
+            "tip": "Hidden garden with Japanese fountain",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Károlyi Garden",
+            "tip": "Green oasis in district 5",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Große Markthalle",
+            "tip": "Souvenirs und ungarische Gewürze"
+          },
+          {
+            "name": "Váci utca",
+            "tip": "Designermode und lokale Kunst"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagycsarnok",
+            "tip": "Szouvenírek és magyar fűszerek"
+          },
+          {
+            "name": "Váci utca",
+            "tip": "Divat és helyi művészet"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Mare",
+            "tip": "Suveniruri și condimente maghiare"
+          },
+          {
+            "name": "Strada Váci",
+            "tip": "Modă și artă locală"
+          }
+        ],
+        "en": [
+          {
+            "name": "Great Market Hall",
+            "tip": "Souvenirs and Hungarian spices"
+          },
+          {
+            "name": "Váci Street",
+            "tip": "Designer fashion and local art"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe – viele Kopfsteinpflasterstraßen.",
+          "Kaufen Sie einen Tagespass für die öffentlichen Verkehrsmittel, falls nötig.",
+          "Probieren Sie die Straßenküche, besonders die Lángos.",
+          "Besuchen Sie früh am Morgen die Fischerbastei, um Massen zu vermeiden.",
+          "Reservieren Sie in der Ruinenbar am Abend vorher einen Tisch."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt – sok macskaköves utca.",
+          "Vásároljon napi bérletet a tömegközlekedéshez, ha szükséges.",
+          "Kóstolja meg az utcai ételeket, különösen a lángost.",
+          "Látogassa meg a Halászbástyát kora reggel a tömeg elkerülése érdekében.",
+          "Foglaljon asztalt a romkocsmában előző este."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă – multe străzi pietruite.",
+          "Cumpărați un abonament zilnic pentru transportul public, dacă este necesar.",
+          "Încercați mâncarea stradală, în special langoșul.",
+          "Vizitați Bastionul Pescarilor devreme dimineața pentru a evita aglomerația.",
+          "Rezervați o masă în barul ruină cu o seară înainte."
+        ],
+        "en": [
+          "Wear comfortable shoes – many cobblestone streets.",
+          "Buy a day pass for public transport if needed.",
+          "Try street food, especially langos.",
+          "Visit Fisherman's Bastion early morning to avoid crowds.",
+          "Reserve a table at the ruin bar in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Városliget",
+          "coords": [
+            19.082,
+            47.514
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie um den See – sehr malerisch.",
+            "hu": "Kerékpározzon a tó körül – nagyon festői.",
+            "ro": "Pedalați în jurul lacului – foarte pitoresc.",
+            "en": "Cycle around the lake – very scenic."
+          }
+        },
+        {
+          "name": "Hősök tere",
+          "coords": [
+            19.078,
+            47.515
+          ],
+          "category": "square",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Statuen bei gutem Licht.",
+            "hu": "Fényképezze le a szobrokat jó fényben.",
+            "ro": "Fotografiați statuile în lumină bună.",
+            "en": "Photograph the statues in good light."
+          }
+        },
+        {
+          "name": "Andrássy út",
+          "coords": [
+            19.064,
+            47.507
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie auf dem Radweg – breite Allee.",
+            "hu": "Kerékpározzon a kerékpárúton – széles sugárút.",
+            "ro": "Pedalați pe pistă – bulevard larg.",
+            "en": "Cycle on the bike lane – wide avenue."
+          }
+        },
+        {
+          "name": "Operaház",
+          "coords": [
+            19.058,
+            47.502
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Führung – prächtige Innenräume.",
+            "hu": "Látogassa meg a vezetést – pompás belső terek.",
+            "ro": "Vizitați turul – interioare splendide.",
+            "en": "Take the guided tour – splendid interiors."
+          }
+        },
+        {
+          "name": "Dohány utcai zsinagóga",
+          "coords": [
+            19.06,
+            47.495
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den jüdischen Friedhof im Innenhof.",
+            "hu": "Látogassa meg a belső udvarban lévő zsidó temetőt.",
+            "ro": "Vizitați cimitirul evreiesc din curtea interioară.",
+            "en": "Visit the Jewish cemetery in the inner courtyard."
+          }
+        },
+        {
+          "name": "Duna-part (Belgrád rakpart)",
+          "coords": [
+            19.051,
+            47.491
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halten Sie für ein Eis an – viele Stände.",
+            "hu": "Álljon meg egy fagyira – sok stand van.",
+            "ro": "Opriți-vă pentru o înghețată – multe standuri.",
+            "en": "Stop for an ice cream – many stalls."
+          }
+        },
+        {
+          "name": "Szabadság híd",
+          "coords": [
+            19.054,
+            47.485
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die grüne Brücke aus der Ferne.",
+            "hu": "Fényképezze le a zöld hidat távolról.",
+            "ro": "Fotografiați podul verde de departe.",
+            "en": "Photograph the green bridge from afar."
+          }
+        },
+        {
+          "name": "Buda Promenade (Döbrentei tér)",
+          "coords": [
+            19.044,
+            47.49
+          ],
+          "category": "gastro",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den Fisch aus der Donau in einem Lokal.",
+            "hu": "Kóstolja meg a Duna halát egy étteremben.",
+            "ro": "Încercați peștele din Dunăre la un restaurant.",
+            "en": "Try the Danube fish at a restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Start im Stadtwäldchen mit Radtour um den See. Mittag: Über die Andrássy zum Opernhaus. Nachmittag: Jüdisches Viertel und Donauufer. Abend: Genießen Sie Abendessen an der Budaer Seite mit Blick auf die Brücken.",
+        "hu": "Reggel: Rajt a Városligetben, kerékpározás a tó körül. Dél: Az Andrássyn át az Operaházig. Délután: Zsidó negyed és Duna-part. Este: Vacsora a budai oldalon, a hidakra néző kilátással.",
+        "ro": "Dimineața: Start în Parcul Orașului, pedalat în jurul lacului. Prânz: Pe Andrássy până la Operă. După-amiaza: Cartierul Evreiesc și malul Dunării. Seara: Cină pe partea Buda cu vedere la poduri.",
+        "en": "Morning: Start in City Park, cycling around the lake. Midday: Along Andrássy to the Opera House. Afternoon: Jewish Quarter and Danube bank. Evening: Dinner on the Buda side with views of the bridges."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe",
+            "tip": "Im 'Halászlé' Restaurant am Donauufer"
+          },
+          {
+            "name": "Gefüllte Paprika",
+            "tip": "Im 'Kárpátia' am Várhegy"
+          },
+          {
+            "name": "Sachertorte (ungarisch)",
+            "tip": "Im 'Gerbeaud' am Vörösmarty tér"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "A 'Halászlé' étteremben a Duna-parton"
+          },
+          {
+            "name": "Töltött paprika",
+            "tip": "A 'Kárpátia'-ban a Várhegyen"
+          },
+          {
+            "name": "Sacher torta (magyar)",
+            "tip": "A 'Gerbeaud'-ban a Vörösmarty téren"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "La restaurantul 'Halászlé' pe malul Dunării"
+          },
+          {
+            "name": "Ardei umpluți",
+            "tip": "La 'Kárpátia' pe Dealul Cetății"
+          },
+          {
+            "name": "Prăjitură Sacher (maghiară)",
+            "tip": "La 'Gerbeaud' în Piața Vörösmarty"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's soup",
+            "tip": "At 'Halászlé' restaurant on the Danube"
+          },
+          {
+            "name": "Stuffed peppers",
+            "tip": "At 'Kárpátia' on Castle Hill"
+          },
+          {
+            "name": "Hungarian Sacher torte",
+            "tip": "At 'Gerbeaud' on Vörösmarty Square"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zitadelle bei Sonnenuntergang",
+            "tip": "Ruhiger Blick auf die Lichter der Stadt",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Margareteninsel",
+            "tip": "Versteckter Garten mit japanischem Brunnen",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Károlyi-Kert",
+            "tip": "Grüne Oase im 5. Bezirk",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella naplementekor",
+            "tip": "Csendes kilátás a város fényeire",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Margitsziget",
+            "tip": "Rejtett kert japán kúttal",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Károlyi-kert",
+            "tip": "Zöld oázis az 5. kerületben",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Citadela la apus",
+            "tip": "Vedere liniștită asupra luminilor orașului",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Insula Margareta",
+            "tip": "Grădină ascunsă cu fântână japoneză",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Károlyi",
+            "tip": "Oază verde în districtul 5",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel at sunset",
+            "tip": "Quiet view of the city lights",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Margaret Island",
+            "tip": "Hidden garden with Japanese fountain",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Károlyi Garden",
+            "tip": "Green oasis in district 5",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Große Markthalle",
+            "tip": "Souvenirs und ungarische Gewürze"
+          },
+          {
+            "name": "Váci utca",
+            "tip": "Designermode und lokale Kunst"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagycsarnok",
+            "tip": "Szouvenírek és magyar fűszerek"
+          },
+          {
+            "name": "Váci utca",
+            "tip": "Divat és helyi művészet"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Mare",
+            "tip": "Suveniruri și condimente maghiare"
+          },
+          {
+            "name": "Strada Váci",
+            "tip": "Modă și artă locală"
+          }
+        ],
+        "en": [
+          {
+            "name": "Great Market Hall",
+            "tip": "Souvenirs and Hungarian spices"
+          },
+          {
+            "name": "Váci Street",
+            "tip": "Designer fashion and local art"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Fahrradwege entlang der Donau.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Planen Sie eine Pause in einem der Parks ein.",
+          "Fahren Sie nicht auf der Straße, wenn ein Radweg vorhanden ist.",
+          "Tragen Sie einen Helm – gesetzlich vorgeschrieben."
+        ],
+        "hu": [
+          "Használja a Duna menti kerékpárutakat.",
+          "Zárja le a biciklijét mindig.",
+          "Tervezzen be egy pihenőt a parkok egyikében.",
+          "Ne biciklizz az úton, ha van kerékpárút.",
+          "Viseljen sisakot – törvényileg előírt."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul Dunării.",
+          "Încuiați întotdeauna bicicleta.",
+          "Planificați o pauză într-unul dintre parcuri.",
+          "Nu pedalați pe șosea dacă există pistă.",
+          "Purtați cască – obligatoriu prin lege."
+        ],
+        "en": [
+          "Use the bike paths along the Danube.",
+          "Always lock your bike securely.",
+          "Plan a break in one of the parks.",
+          "Don't cycle on the road if a bike lane is available.",
+          "Wear a helmet – required by law."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 38.4,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": "Vörösmarty tér (Cluster A)",
+          "coords": [
+            19.05,
+            47.496
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus in der Nähe.",
+            "hu": "Parkoljon a közeli parkolóházban.",
+            "ro": "Parcați în parcarea din apropiere.",
+            "en": "Park in the nearby garage."
+          }
+        },
+        {
+          "name": "Széchenyi Lánchíd (Cluster A)",
+          "coords": [
+            19.043,
+            47.499
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gehen Sie zu Fuß – Parken auf der Budaer Seite schwierig.",
+            "hu": "Gyalogoljon – a budai oldalon nehéz parkolni.",
+            "ro": "Mergeți pe jos – parcarea pe partea Buda este dificilă.",
+            "en": "Walk – parking on the Buda side is difficult."
+          }
+        },
+        {
+          "name": "Mátyás-templom (Cluster A)",
+          "coords": [
+            19.035,
+            47.502
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kombinieren Sie mit der Fischerbastei – nah.",
+            "hu": "Kombinálja a Halászbástyával – közel van.",
+            "ro": "Combinați cu Bastionul Pescarilor – aproape.",
+            "en": "Combine with Fisherman's Bastion – close by."
+          }
+        },
+        {
+          "name": "Halászbástya (Cluster A)",
+          "coords": [
+            19.034,
+            47.503
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie ein Panoramafoto – bester Blick.",
+            "hu": "Készítsen panorámafotót – a legjobb kilátás.",
+            "ro": "Faceți o fotografie panoramică – cea mai bună vedere.",
+            "en": "Take a panoramic photo – best view."
+          }
+        },
+        {
+          "name": "Szentendre (Cluster B, 18km)",
+          "coords": [
+            19.08,
+            47.669
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Fahren Sie an die Donau – malerische Altstadt.",
+            "hu": "Menjen a Dunához – festői óváros.",
+            "ro": "Mergeți la Dunăre – oraș vechi pitoresc.",
+            "en": "Drive to the Danube – picturesque old town."
+          }
+        },
+        {
+          "name": "Szentendre, Fő tér (Cluster B)",
+          "coords": [
+            19.076,
+            47.669
+          ],
+          "category": "square",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Wein in einem Café.",
+            "hu": "Kóstolja a helyi bort egy kávézóban.",
+            "ro": "Încercați vinul local într-o cafenea.",
+            "en": "Try the local wine in a café."
+          }
+        },
+        {
+          "name": "Szentendre, Múzeum (Cluster B)",
+          "coords": [
+            19.078,
+            47.67
+          ],
+          "category": "museum",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Freilichtmuseum – lohnt sich.",
+            "hu": "Látogassa meg a Szabadtéri Néprajzi Múzeumot – megéri.",
+            "ro": "Vizitați Muzeul în Aer Liber – merită.",
+            "en": "Visit the Open Air Ethnographic Museum – worth it."
+          }
+        },
+        {
+          "name": "Visegrád (Cluster C, 22km)",
+          "coords": [
+            19.01,
+            47.788
+          ],
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Burgruine mit toller Aussicht auf die Donau.",
+            "hu": "Várrom csodálatos kilátással a Dunára.",
+            "ro": "Ruinele castelului cu priveliște minunată asupra Dunării.",
+            "en": "Castle ruins with great view of the Danube."
+          }
+        },
+        {
+          "name": "Visegrád, Salomon-torony (Cluster C)",
+          "coords": [
+            19.008,
+            47.789
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sonnenuntergang von hier – unvergesslich.",
+            "hu": "Naplemente innen – felejthetetlen.",
+            "ro": "Apusul de soare de aici – de neuitat.",
+            "en": "Sunset from here – unforgettable."
+          }
+        },
+        {
+          "name": "Visegrád, Rendezvény étterem (Cluster C)",
+          "coords": [
+            19.012,
+            47.787
+          ],
+          "category": "gastro",
+          "arrive_at": "17:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestellen Sie Wildgerichte – regionale Spezialität.",
+            "hu": "Rendeljen vadas ételeket – regionális specialitás.",
+            "ro": "Comandați preparate din vânat – specialitate regională.",
+            "en": "Order game dishes – regional specialty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Start in der Budaer Burg, dann Fahrt ins malerische Szentendre. Mittag: Altstadt und Museum. Nachmittag: Weiter nach Visegrád zur Burgruine. Abend: Abendessen mit regionalem Wild und Blick auf die Donau.",
+        "hu": "Reggel: Rajt a Budai Várban, majd autózás a festői Szentendrére. Dél: Óváros és múzeum. Délután: Tovább Visegrádra a várromhoz. Este: Vacsora regionális vadas ételekkel és kilátással a Dunára.",
+        "ro": "Dimineața: Start în Castelul Buda, apoi drum spre pitorescul Szentendre. Prânz: Orașul vechi și muzeul. După-amiaza: În continuare la Visegrád la ruinele castelului. Seara: Cină cu preparate regionale de vânat și vedere la Dunăre.",
+        "en": "Morning: Start at Buda Castle, then drive to picturesque Szentendre. Midday: Old town and museum. Afternoon: Continue to Visegrád for the castle ruins. Evening: Dinner with regional game and Danube view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildgulasch",
+            "tip": "In der 'Rendezvény' in Visegrád"
+          },
+          {
+            "name": "Lángos",
+            "tip": "In Szentendre auf dem Hauptplatz"
+          },
+          {
+            "name": "Donau-Zander",
+            "tip": "Im 'Halászcsárda' in Szentendre"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadas gulyás",
+            "tip": "A 'Rendezvény'-ben Visegrádon"
+          },
+          {
+            "name": "Lángos",
+            "tip": "Szentendrén a főtéren"
+          },
+          {
+            "name": "Dunai süllő",
+            "tip": "A 'Halászcsárdában' Szentendrén"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș de vânat",
+            "tip": "La 'Rendezvény' în Visegrád"
+          },
+          {
+            "name": "Langoș",
+            "tip": "În Szentendre pe piața principală"
+          },
+          {
+            "name": "Șalău dunărean",
+            "tip": "La 'Halászcsárda' în Szentendre"
+          }
+        ],
+        "en": [
+          {
+            "name": "Game goulash",
+            "tip": "At 'Rendezvény' in Visegrád"
+          },
+          {
+            "name": "Langos",
+            "tip": "In Szentendre at the main square"
+          },
+          {
+            "name": "Danube pike-perch",
+            "tip": "At 'Halászcsárda' in Szentendre"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Visegrád Burg – Sonnenuntergang",
+            "tip": "Ruhiger Blick auf das Donauknie",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szentendre – Kirchenweg",
+            "tip": "Versteckte Gasse mit Aussicht",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Budaer Berge – Normafa",
+            "tip": "Ruhiger Waldspaziergang",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Visegrádi vár – naplemente",
+            "tip": "Csendes kilátás a Dunakanyarra",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szentendre – Templom út",
+            "tip": "Rejtett sikátor kilátással",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Budai-hegység – Normafa",
+            "tip": "Csendes erdei séta",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castelul Visegrád – apus",
+            "tip": "Vedere liniștită asupra cotului Dunării",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szentendre – Drumul Bisericii",
+            "tip": "Aleea ascunsă cu vedere",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Munții Buda – Normafa",
+            "tip": "Plimbare liniștită în pădure",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Visegrád Castle – Sunset",
+            "tip": "Quiet view of the Danube Bend",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szentendre – Church Lane",
+            "tip": "Hidden alley with a view",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buda Hills – Normafa",
+            "tip": "Quiet forest walk",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Szentendre, Handwerksläden",
+            "tip": "Holzschnitzereien und Keramik"
+          },
+          {
+            "name": "Visegrád, Burg Souvenir",
+            "tip": "Historische Andenken"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentendre, kézműves boltok",
+            "tip": "Fafaragások és kerámia"
+          },
+          {
+            "name": "Visegrád, vár szuvenír",
+            "tip": "Történelmi emlékek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Szentendre, magazine artizanale",
+            "tip": "Sculpturi în lemn și ceramică"
+          },
+          {
+            "name": "Visegrád, suveniruri castel",
+            "tip": "Amintiri istorice"
+          }
+        ],
+        "en": [
+          {
+            "name": "Szentendre, craft shops",
+            "tip": "Wood carvings and pottery"
+          },
+          {
+            "name": "Visegrád, castle souvenirs",
+            "tip": "Historical memorabilia"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie früh los, um Stau zu vermeiden.",
+          "Parken Sie immer in bewachten Parkhäusern.",
+          "Planen Sie Tankstopps – keine Tankstellen in kleinen Dörfern.",
+          "Nehmen Sie Bargeld mit – nicht alle Orte akzeptieren Karten.",
+          "Reservieren Sie Abendessen in Visegrád im Voraus."
+        ],
+        "hu": [
+          "Induljon el korán, hogy elkerülje a dugót.",
+          "Mindig őrzött parkolóházakban parkoljon.",
+          "Tervezzen tankolási megállókat – nincs benzinkút a kis falvakban.",
+          "Vigyen készpénzt – nem mindenhol fogadnak el kártyát.",
+          "Foglalja le előre a vacsorát Visegrádon."
+        ],
+        "ro": [
+          "Plecați devreme pentru a evita ambuteiajele.",
+          "Paracți întotdeauna în parcări supravegheate.",
+          "Planificați opriri pentru alimentare – nu există benzinării în satele mici.",
+          "Luați numerar – nu toate locurile acceptă cardul.",
+          "Rezervați cina în Visegrád în avans."
+        ],
+        "en": [
+          "Leave early to avoid traffic jams.",
+          "Always park in guarded garages.",
+          "Plan fuel stops – no gas stations in small villages.",
+          "Bring cash – not all places accept cards.",
+          "Reserve dinner in Visegrád in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Deák Ferenc tér (District A)",
+          "coords": [
+            19.054,
+            47.497
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt – hier steigen Sie in die Metro um.",
+            "hu": "Csomópont – itt száll át a metróra.",
+            "ro": "Nod – aici schimbați cu metroul.",
+            "en": "Hub – change to metro here."
+          }
+        },
+        {
+          "name": "Bazilika Szent István (District A)",
+          "coords": [
+            19.053,
+            47.5
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Aufzug zur Kuppel – Panorama.",
+            "hu": "Menjen fel lifttel a kupolához – panoráma.",
+            "ro": "Urcați cu liftul la cupolă – panoramă.",
+            "en": "Take the elevator to the dome – panorama."
+          }
+        },
+        {
+          "name": "Parlament (District A, zu Fuß)",
+          "coords": [
+            19.046,
+            47.507
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Führung – beeindruckender Saal.",
+            "hu": "Látogassa meg a vezetést – lenyűgöző terem.",
+            "ro": "Vizitați turul – sală impresionantă.",
+            "en": "Take the guided tour – impressive hall."
+          }
+        },
+        {
+          "name": "Hősök tere (District B, Metro M1)",
+          "coords": [
+            19.078,
+            47.515
+          ],
+          "category": "square",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der alten Metro – historisch.",
+            "hu": "Utazzon a régi metróval – történelmi.",
+            "ro": "Călătoriți cu metroul vechi – istoric.",
+            "en": "Travel on the old metro – historic."
+          }
+        },
+        {
+          "name": "Szépművészeti Múzeum (District B)",
+          "coords": [
+            19.076,
+            47.516
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie die altägyptische Sammlung – einzigartig.",
+            "hu": "Nézze meg az egyiptomi gyűjteményt – egyedülálló.",
+            "ro": "Vedeți colecția egipteană antică – unică.",
+            "en": "See the ancient Egyptian collection – unique."
+          }
+        },
+        {
+          "name": "Városliget (District B, zu Fuß)",
+          "coords": [
+            19.082,
+            47.514
+          ],
+          "category": "park",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot auf dem See.",
+            "hu": "Béreljen vízibiciklit a tavon.",
+            "ro": "Închiriați o barcă cu pedale pe lac.",
+            "en": "Rent a paddleboat on the lake."
+          }
+        },
+        {
+          "name": "Duna Korzó (District C, Tram 2)",
+          "coords": [
+            19.05,
+            47.493
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Straßenbahn 2 – schöne Strecke.",
+            "hu": "Utazzon a 2-es villamossal – gyönyörű útvonal.",
+            "ro": "Călătoriți cu tramvaiul 2 – traseu frumos.",
+            "en": "Take tram 2 – beautiful route."
+          }
+        },
+        {
+          "name": "Gellért Gyógyfürdő (District C, zu Fuß)",
+          "coords": [
+            19.047,
+            47.483
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Thermalbad nach dem Laufen.",
+            "hu": "Pihenjen a termálfürdőben a séta után.",
+            "ro": "Relaxați-vă în baia termală după plimbare.",
+            "en": "Relax in the thermal bath after walking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Vom Deák Platz zur St.-Stephans-Basilika und zum Parlament. Mittag: Mit der Metro zum Heldenplatz und ins Museum. Nachmittag: Spaziergang im Stadtpark, dann mit der Straßenbahn zur Donau. Abend: Thermalbad Gellért und Abendessen.",
+        "hu": "Reggel: A Deák tértől a Szent István-bazilikáig és a Parlamentig. Dél: Metróval a Hősök terére és a múzeumba. Délután: Séta a Városligetben, majd villamossal a Dunához. Este: Gellért gyógyfürdő és vacsora.",
+        "ro": "Dimineața: De la Piața Deák la Bazilica Sf. Ștefan și Parlament. Prânz: Cu metroul la Piața Eroilor și la muzeu. După-amiaza: Plimbare în Parcul Orașului, apoi cu tramvaiul la Dunăre. Seara: Baia termală Gellért și cină.",
+        "en": "Morning: From Deák Square to St. Stephen's Basilica and Parliament. Midday: Metro to Heroes' Square and museum. Afternoon: Stroll in City Park, then tram to the Danube. Evening: Gellért thermal bath and dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulaschsuppe",
+            "tip": "Im 'Kispiac' am Deák tér"
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Am Vörösmarty tér – Straßenstand"
+          },
+          {
+            "name": "Langos",
+            "tip": "Am Stadtpark – Imbiss"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "A 'Kispiac'-ban a Deák téren"
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "A Vörösmarty téren – utcai árus"
+          },
+          {
+            "name": "Lángos",
+            "tip": "A Városligetben – büfé"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de gulaș",
+            "tip": "La 'Kispiac' în Piața Deák"
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "În Piața Vörösmarty – vânzător stradal"
+          },
+          {
+            "name": "Langoș",
+            "tip": "În Parcul Orașului – bufet"
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash soup",
+            "tip": "At 'Kispiac' on Deák Square"
+          },
+          {
+            "name": "Chimney cake",
+            "tip": "On Vörösmarty Square – street vendor"
+          },
+          {
+            "name": "Langos",
+            "tip": "At City Park – snack bar"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gellértberg – Aussicht",
+            "tip": "Ruhiger Ort mit Blick auf die Brücken",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Margareteninsel – Rosengarten",
+            "tip": "Duftende Rosen und Stille",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Károlyi-Kert – versteckt",
+            "tip": "Mitten in der Stadt grün und ruhig",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gellért-hegy – kilátás",
+            "tip": "Csendes hely a hidakra néző kilátással",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Margitsziget – rózsakert",
+            "tip": "Illatos rózsák és csend",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Károlyi-kert – rejtett",
+            "tip": "A város közepén zöld és csendes",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Gellért – vedere",
+            "tip": "Loc liniștit cu vedere la poduri",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Insula Margareta – grădina de trandafiri",
+            "tip": "Trandafiri parfumați și liniște",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Károlyi – ascunsă",
+            "tip": "În mijlocul orașului, verde și liniștit",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gellért Hill – view",
+            "tip": "Quiet spot overlooking the bridges",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Margaret Island – rose garden",
+            "tip": "Fragrant roses and silence",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Károlyi Garden – hidden",
+            "tip": "Green and quiet in the city center",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Große Markthalle",
+            "tip": "Souvenirs und Paprika"
+          },
+          {
+            "name": "Gozsdu Udvar",
+            "tip": "Designmarkt und Vintage"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagycsarnok",
+            "tip": "Szouvenírek és paprika"
+          },
+          {
+            "name": "Gozsdu Udvar",
+            "tip": "Design piac és vintage"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Mare",
+            "tip": "Suveniruri și ardei"
+          },
+          {
+            "name": "Curtea Gozsdu",
+            "tip": "Piață de design și vintage"
+          }
+        ],
+        "en": [
+          {
+            "name": "Great Market Hall",
+            "tip": "Souvenirs and paprika"
+          },
+          {
+            "name": "Gozsdu Court",
+            "tip": "Design market and vintage"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein 24h-Ticket für die öffentlichen Verkehrsmittel.",
+          "Die Metro M1 ist die älteste auf dem europäischen Festland.",
+          "Steigen Sie in der Rushhour nicht an den Hauptbahnhöfen um.",
+          "Halten Sie Ihren Fahrschein bereit – es gibt Kontrollen.",
+          "Planen Sie Umsteigezeiten von 5-10 Minuten ein."
+        ],
+        "hu": [
+          "Vásároljon 24 órás jegyet a tömegközlekedéshez.",
+          "Az M1-es metró a legrégebbi a kontinentális Európában.",
+          "Csúcsidőben ne szálljon át a főpályaudvarokon.",
+          "Tartsa készen a jegyét – ellenőrzések vannak.",
+          "Tervezzen 5-10 perces átszállási időket."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 de ore pentru transportul public.",
+          "Metroul M1 este cel mai vechi din Europa continentală.",
+          "Nu schimbați la gările principale în orele de vârf.",
+          "Țineți biletul pregătit – există controale.",
+          "Planificați timpi de schimbare de 5-10 minute."
+        ],
+        "en": [
+          "Buy a 24h ticket for public transport.",
+          "The M1 metro is the oldest in continental Europe.",
+          "Don't change at main stations during rush hour.",
+          "Keep your ticket ready – there are inspections.",
+          "Plan transfer times of 5-10 minutes."
+        ]
+      }
+    }
+  }
+}

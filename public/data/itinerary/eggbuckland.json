@@ -1,0 +1,985 @@
+{
+  "city_id": "eggbuckland",
+  "anchor": {
+    "name": "St Edward's Church",
+    "coords": [
+      -4.1126,
+      50.4044
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Edward's Kirche",
+            "hu": "Szent Edward-templom",
+            "ro": "Biserica Sf. Edward",
+            "en": "St Edward's Church"
+          },
+          "coords": [
+            -4.1126,
+            50.4044
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur aus dem 15. Jahrhundert.",
+            "hu": "Csodálja meg a 15. századi építészetet.",
+            "ro": "Admirați arhitectura din secolul al XV-lea.",
+            "en": "Admire the 15th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Eggbuckland Keep",
+            "hu": "Eggbuckland erőd",
+            "ro": "Cetatea Eggbuckland",
+            "en": "Eggbuckland Keep"
+          },
+          "coords": [
+            -4.115,
+            50.406
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel der viktorianischen Verteidigungsanlagen.",
+            "hu": "A viktoriánus védművek rejtett gyöngyszeme.",
+            "ro": "O bijuterie ascunsă a apărării victoriene.",
+            "en": "A hidden gem of Victorian defenses."
+          }
+        },
+        {
+          "name": {
+            "de": "Forder Valley Naturreservat",
+            "hu": "Forder Valley Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Forder Valley",
+            "en": "Forder Valley Nature Reserve"
+          },
+          "coords": [
+            -4.105,
+            50.408
+          ],
+          "category": "park",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine ruhige Waldwanderung.",
+            "hu": "Tökéletes egy csendes erdei sétához.",
+            "ro": "Perfect pentru o plimbare liniștită prin pădure.",
+            "en": "Perfect for a quiet woodland stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Prince Maurice Pub",
+            "hu": "Prince Maurice Pub",
+            "ro": "Pub-ul Prince Maurice",
+            "en": "Prince Maurice Pub"
+          },
+          "coords": [
+            -4.113,
+            50.405
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Ale in gemütlicher Atmosphäre.",
+            "hu": "Kóstoljon meg egy helyi sört barátságos környezetben.",
+            "ro": "Încercați o bere locală într-o atmosferă primitoare.",
+            "en": "Try a local ale in a cozy setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokaler Gemeinschaftspark",
+            "hu": "Helyi közösségi park",
+            "ro": "Parcul comunitar local",
+            "en": "Local Community Park"
+          },
+          "coords": [
+            -4.11,
+            50.403
+          ],
+          "category": "park",
+          "arrive_at": "14:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Ort, um den Tag Revue passieren zu lassen.",
+            "hu": "Pihentető hely a nap végére.",
+            "ro": "Un loc relaxant pentru a încheia ziua.",
+            "en": "A relaxing spot to end the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Eggbuckland",
+            "hu": "Eggbuckland kilátó",
+            "ro": "Punctul de belvedere Eggbuckland",
+            "en": "Eggbuckland Viewpoint"
+          },
+          "coords": [
+            -4.114,
+            50.402
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick über Plymouth.",
+            "hu": "Élvezze a kilátást Plymouth felé.",
+            "ro": "Bucurați-vă de priveliștea spre Plymouth.",
+            "en": "Enjoy the view across Plymouth."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der historischen St. Edward's Church, dem Herzstück des alten Dorfes. Ein kurzer Spaziergang führt Sie zum Eggbuckland Keep, wo Sie in die viktorianische Militärgeschichte eintauchen können. Danach bietet das Forder Valley Naturreservat eine willkommene Flucht in die Natur. Stärken Sie sich im Prince Maurice Pub mit traditioneller Gastfreundschaft, bevor Sie den Nachmittag in den lokalen Grünanlagen ausklingen lassen.",
+        "hu": "Kezdje a napot a történelmi Szent Edward-templomnál, az egykori falu szívében. Egy rövid séta elvezeti az Eggbuckland Keep-hez, ahol elmerülhet a viktoriánus hadtörténetben. Ezt követően a Forder Valley természetvédelmi terület kínál felüdülést a természetben. Ebédeljen a Prince Maurice Pubban, élvezve a hagyományos vendéglátást, majd töltse a délutánt a helyi zöldterületek felfedezésével.",
+        "ro": "Începeți ziua la biserica istorică Sf. Edward, inima vechiului sat. O scurtă plimbare vă duce la Cetatea Eggbuckland, unde puteți explora istoria militară victoriană. Apoi, Rezervația Naturală Forder Valley oferă o evadare relaxantă în natură. Luați masa la pub-ul Prince Maurice pentru o experiență locală autentică, înainte de a vă bucura de o după-amiază liniștită în parcurile din zonă.",
+        "en": "Start your day at the historic St Edward's Church, the heart of the old village. A short walk leads you to Eggbuckland Keep, where you can delve into Victorian military history. Afterwards, the Forder Valley Nature Reserve offers a welcome escape into nature. Refuel at the Prince Maurice Pub with traditional hospitality before spending the afternoon exploring the local green spaces and viewpoints."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Prince Maurice",
+            "tip": "Traditioneller Pub mit herzhaften Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prince Maurice",
+            "tip": "Hagyományos pub kiadós ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prince Maurice",
+            "tip": "Pub tradițional cu mâncăruri consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Prince Maurice",
+            "tip": "Traditional pub serving hearty meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forder Valley",
+            "tip": "Ruhiger Waldweg für Meditation.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forder Valley",
+            "tip": "Csendes erdei ösvény meditációhoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forder Valley",
+            "tip": "Cărare liniștită prin pădure.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forder Valley",
+            "tip": "Quiet forest path for meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Läden",
+            "tip": "Kleine Geschäfte für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi boltok",
+            "tip": "Kis üzletek a mindennapi szükségletekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale",
+            "tip": "Magazine mici pentru necesități zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Shops",
+            "tip": "Small shops for daily essentials."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege im Forder Valley können nach Regen matschig sein.",
+          "Besuchen Sie die Kirche während der Gottesdienstzeiten für Musik."
+        ],
+        "hu": [
+          "A Forder Valley ösvényei eső után sárosak lehetnek.",
+          "Látogasson el a templomba mise idején a zene miatt."
+        ],
+        "ro": [
+          "Potecile din Forder Valley pot fi noroioase după ploaie.",
+          "Vizitați biserica în timpul slujbelor pentru a asculta muzica."
+        ],
+        "en": [
+          "Paths in Forder Valley can be muddy after rain.",
+          "Visit the church during service times for live organ music."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Eggbuckland Keep",
+            "hu": "Eggbuckland erőd",
+            "ro": "Cetatea Eggbuckland",
+            "en": "Eggbuckland Keep"
+          },
+          "coords": [
+            -4.115,
+            50.406
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an den alten Festungsmauern.",
+            "hu": "Kezdje a túrát a régi várfalaknál.",
+            "ro": "Începeți turul la vechile ziduri ale cetății.",
+            "en": "Start your tour at the old fortress walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Crownhill Fort",
+            "hu": "Crownhill erőd",
+            "ro": "Fortul Crownhill",
+            "en": "Crownhill Fort"
+          },
+          "coords": [
+            -4.13,
+            50.408
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein sehr gut erhaltenes Beispiel viktorianischer Forts.",
+            "hu": "Egy nagyon jó állapotban megmaradt viktoriánus erőd.",
+            "ro": "Un exemplu foarte bine conservat de fort victorian.",
+            "en": "A very well-preserved example of Victorian forts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bircham Valley",
+            "hu": "Bircham Valley",
+            "ro": "Valea Bircham",
+            "en": "Bircham Valley"
+          },
+          "coords": [
+            -4.11,
+            50.415
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schöne Radwege durch das Grüne.",
+            "hu": "Szép kerékpárutak a zöldben.",
+            "ro": "Piste de biciclete frumoase prin natură.",
+            "en": "Beautiful bike paths through the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Lockyer Arms",
+            "hu": "Lockyer Arms",
+            "ro": "Lockyer Arms",
+            "en": "Lockyer Arms"
+          },
+          "coords": [
+            -4.118,
+            50.41
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein beliebter Stopp für eine Erfrischung.",
+            "hu": "Népszerű megálló egy kis frissítőre.",
+            "ro": "O oprire populară pentru o gustare.",
+            "en": "A popular stop for a refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Edward's Platz",
+            "hu": "Szent Edward tér",
+            "ro": "Piața Sf. Edward",
+            "en": "St Edward's Square"
+          },
+          "coords": [
+            -4.1126,
+            50.4044
+          ],
+          "category": "square",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag im alten Dorfzentrum.",
+            "hu": "Zárja a napot a régi falu központjában.",
+            "ro": "Încheiați ziua în centrul vechi al satului.",
+            "en": "End the day in the old village center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die historischen Verteidigungsanlagen von Plymouth. Von Eggbuckland Keep radeln Sie zum beeindruckenden Crownhill Fort. Genießen Sie die Fahrt durch das Bircham Valley, bevor Sie sich im Lockyer Arms stärken. Die Tour endet am friedlichen St. Edward's Platz.",
+        "hu": "Ez a kerékpártúra Plymouth történelmi védműveit köti össze. Az Eggbuckland Keep-től a lenyűgöző Crownhill erőd felé tekerhet. Élvezze az utat a Bircham Valley-n keresztül, mielőtt megpihenne a Lockyer Arms-nál. A túra a békés Szent Edward téren ér véget.",
+        "ro": "Acest tur cu bicicleta face legătura între fortificațiile istorice din Plymouth. De la Cetatea Eggbuckland, pedalați spre impresionantul Fort Crownhill. Bucurați-vă de plimbarea prin Valea Bircham înainte de a vă relaxa la Lockyer Arms. Turul se încheie în liniștita piață Sf. Edward.",
+        "en": "This bike tour connects Plymouth's historic defenses. From Eggbuckland Keep, cycle to the impressive Crownhill Fort. Enjoy the ride through Bircham Valley before refuelling at the Lockyer Arms. The tour concludes at the peaceful St Edward's Square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lockyer Arms",
+            "tip": "Gemütlicher Pub mit gutem Service."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lockyer Arms",
+            "tip": "Hangulatos pub jó kiszolgálással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lockyer Arms",
+            "tip": "Pub primitor cu servire bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lockyer Arms",
+            "tip": "Cozy pub with good service."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bircham Valley",
+            "tip": "Natur pur am Stadtrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bircham Valley",
+            "tip": "Tiszta természet a város szélén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bircham Valley",
+            "tip": "Natură pură la marginea orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bircham Valley",
+            "tip": "Pure nature on the outskirts.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Einige Abschnitte sind recht steil.",
+          "Achten Sie auf Wanderer in den Tälern."
+        ],
+        "hu": [
+          "Néhány szakasz elég meredek.",
+          "Figyeljen a gyalogosokra a völgyekben."
+        ],
+        "ro": [
+          "Unele secțiuni sunt destul de abrupte.",
+          "Atenție la pietoni în văi."
+        ],
+        "en": [
+          "Some sections are quite steep.",
+          "Watch out for hikers in the valleys."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Edward's Kirche",
+            "hu": "Szent Edward-templom",
+            "ro": "Biserica Sf. Edward",
+            "en": "St Edward's Church"
+          },
+          "coords": [
+            -4.1126,
+            50.4044
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Kirche.",
+            "hu": "Parkoljon a templom közelében.",
+            "ro": "Parcați lângă biserică.",
+            "en": "Park near the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Eggbuckland Keep Walk",
+            "hu": "Eggbuckland erőd séta",
+            "ro": "Plimbare la Cetatea Eggbuckland",
+            "en": "Eggbuckland Keep Walk"
+          },
+          "coords": [
+            -4.115,
+            50.406
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Kirche.",
+            "hu": "Rövid séta a templomtól.",
+            "ro": "Scurtă plimbare de la biserică.",
+            "en": "Short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Crownhill Fort",
+            "hu": "Crownhill erőd",
+            "ro": "Fortul Crownhill",
+            "en": "Crownhill Fort"
+          },
+          "coords": [
+            -4.13,
+            50.408
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vor Ort vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre a helyszínen.",
+            "ro": "Parcare mare disponibilă la fața locului.",
+            "en": "Large car park available on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Manadon Park",
+            "hu": "Manadon Park",
+            "ro": "Parcul Manadon",
+            "en": "Manadon Park"
+          },
+          "coords": [
+            -4.135,
+            50.395
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Pause.",
+            "hu": "Szép hely egy kis szünetre.",
+            "ro": "Un loc frumos pentru o pauză.",
+            "en": "A lovely spot for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "The Toby Carvery",
+            "hu": "The Toby Carvery",
+            "ro": "The Toby Carvery",
+            "en": "The Toby Carvery"
+          },
+          "coords": [
+            -4.138,
+            50.39
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Klassischer britischer Sonntagsbraten.",
+            "hu": "Klasszikus brit sült húsok.",
+            "ro": "Friptură britanică clasică.",
+            "en": "Classic British carvery roast."
+          }
+        },
+        {
+          "name": {
+            "de": "Plymbridge Woods",
+            "hu": "Plymbridge erdő",
+            "ro": "Pădurea Plymbridge",
+            "en": "Plymbridge Woods"
+          },
+          "coords": [
+            -4.08,
+            50.4
+          ],
+          "category": "park",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein wunderbares Naturerlebnis am Fluss Plym.",
+            "hu": "Csodálatos természetélmény a Plym folyó mentén.",
+            "ro": "O experiență minunată în natură pe malul râului Plym.",
+            "en": "A wonderful nature experience by the River Plym."
+          }
+        },
+        {
+          "name": {
+            "de": "Eggbuckland Panorama",
+            "hu": "Eggbuckland panoráma",
+            "ro": "Panorama Eggbuckland",
+            "en": "Eggbuckland Panorama"
+          },
+          "coords": [
+            -4.112,
+            50.402
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Sonnenuntergang über der Stadt.",
+            "hu": "Naplemente a város felett.",
+            "ro": "Apus de soare peste oraș.",
+            "en": "Sunset over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Umgebung von Eggbuckland bequem mit dem Auto. Beginnen Sie im historischen Dorfkern und besuchen Sie das Crownhill Fort. Nach einem Mittagessen im Manadon-Viertel führt Sie die Fahrt zu den idyllischen Plymbridge Woods, bevor Sie den Tag mit einem weiten Blick über Plymouth krönen.",
+        "hu": "Fedezze fel Eggbuckland környékét kényelmesen, autóval. Kezdje a történelmi faluközpontban, majd látogasson el a Crownhill erődhöz. A Manadon negyedben elköltött ebéd után az út a festői Plymbridge Woods-ba vezet, végül a napot egy Plymouth-ra nyíló széles panorámával zárhatja.",
+        "ro": "Explorați împrejurimile Eggbuckland confortabil cu mașina. Începeți în centrul istoric al satului și vizitați Fortul Crownhill. După un prânz în cartierul Manadon, drumul vă duce spre idilica pădure Plymbridge, înainte de a încheia ziua cu o panoramă superbă peste Plymouth.",
+        "en": "Discover the surroundings of Eggbuckland comfortably by car. Start in the historic village center and visit Crownhill Fort. After lunch in the Manadon area, the drive takes you to the idyllic Plymbridge Woods before crowning the day with a wide view over Plymouth."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Toby Carvery",
+            "tip": "Ideal für Familien und große Gruppen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toby Carvery",
+            "tip": "Ideális családoknak és nagyobb csoportoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Toby Carvery",
+            "tip": "Ideal pentru familii și grupuri mari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toby Carvery",
+            "tip": "Ideal for families and large groups."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plymbridge Woods",
+            "tip": "Sehr ruhig unter der alten Brücke.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plymbridge Woods",
+            "tip": "Nagyon csendes a régi híd alatt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plymbridge Woods",
+            "tip": "Foarte liniștit sub vechiul pod.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plymbridge Woods",
+            "tip": "Very quiet under the old bridge.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marsh Mills",
+            "tip": "Großes Einkaufszentrum in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marsh Mills",
+            "tip": "Nagy bevásárlóközpont a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marsh Mills",
+            "tip": "Centru comercial mare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marsh Mills",
+            "tip": "Large retail park nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Eggbuckland kann in engen Straßen schwierig sein.",
+          "Nutzen Sie den Parkplatz am Plymbridge."
+        ],
+        "hu": [
+          "A parkolás Eggbuckland szűk utcáin nehéz lehet.",
+          "Használja a plymbridge-i parkolót."
+        ],
+        "ro": [
+          "Parcarea în Eggbuckland poate fi dificilă pe străzile înguste.",
+          "Folosiți parcarea de la Plymbridge."
+        ],
+        "en": [
+          "Parking in Eggbuckland's narrow streets can be tricky.",
+          "Use the designated car park at Plymbridge."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Royal Parade Plymouth",
+            "hu": "Royal Parade Plymouth",
+            "ro": "Royal Parade Plymouth",
+            "en": "Royal Parade Plymouth"
+          },
+          "coords": [
+            -4.14,
+            50.37
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für viele Buslinien nach Eggbuckland.",
+            "hu": "Indulási pont számos buszjárathoz Eggbuckland felé.",
+            "ro": "Punct de plecare pentru multe linii de autobuz spre Eggbuckland.",
+            "en": "Starting point for many bus lines to Eggbuckland."
+          }
+        },
+        {
+          "name": {
+            "de": "Eggbuckland Road",
+            "hu": "Eggbuckland Road",
+            "ro": "Eggbuckland Road",
+            "en": "Eggbuckland Road"
+          },
+          "coords": [
+            -4.1126,
+            50.4044
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Spaziergang durch den alten Dorfkern.",
+            "hu": "Séta a régi faluközpontban.",
+            "ro": "Plimbare prin centrul vechi al satului.",
+            "en": "Walk through the old village core."
+          }
+        },
+        {
+          "name": {
+            "de": "The Blue Peter",
+            "hu": "The Blue Peter",
+            "ro": "The Blue Peter",
+            "en": "The Blue Peter"
+          },
+          "coords": [
+            -4.12,
+            50.4
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Günstiges und gutes Essen direkt an der Buslinie.",
+            "hu": "Olcsó és jó étel közvetlenül a buszvonal mellett.",
+            "ro": "Mâncare ieftină și bună chiar lângă linia de autobuz.",
+            "en": "Affordable and good food right by the bus line."
+          }
+        },
+        {
+          "name": {
+            "de": "Hartley Park",
+            "hu": "Hartley Park",
+            "ro": "Parcul Hartley",
+            "en": "Hartley Park"
+          },
+          "coords": [
+            -4.125,
+            50.39
+          ],
+          "category": "park",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Zwischenstopp auf dem Rückweg.",
+            "hu": "Szép megálló a visszaúton.",
+            "ro": "O oprire frumoasă la întoarcere.",
+            "en": "A nice stopover on the way back."
+          }
+        },
+        {
+          "name": {
+            "de": "Mutley Plain",
+            "hu": "Mutley Plain",
+            "ro": "Mutley Plain",
+            "en": "Mutley Plain"
+          },
+          "coords": [
+            -4.13,
+            50.38
+          ],
+          "category": "shopping",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Viele Geschäfte und Cafés.",
+            "hu": "Számos üzlet és kávézó.",
+            "ro": "Multe magazine și cafenele.",
+            "en": "Many shops and cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Bussystem von Plymouth, um Eggbuckland zu erkunden. Starten Sie im Zentrum und fahren Sie in das ruhige Vorstadtviertel. Nach der Besichtigung der historischen Ecken können Sie auf dem Rückweg im Hartley Park entspannen und den Tag im lebhaften Mutley Plain abschließen.",
+        "hu": "Használja Plymouth kiváló buszhálózatát Eggbuckland felfedezéséhez. Induljon a központból, és utazzon el ebbe a csendes külvárosi negyedbe. A történelmi helyszínek megtekintése után a visszaúton pihenjen meg a Hartley Parkban, majd zárja a napot a nyüzsgő Mutley Plain-en.",
+        "ro": "Folosiți sistemul excelent de autobuze din Plymouth pentru a explora Eggbuckland. Începeți în centru și mergeți spre acest cartier suburban liniștit. După vizitarea colțurilor istorice, vă puteți relaxa în Parcul Hartley la întoarcere și puteți încheia ziua în vibrantul Mutley Plain.",
+        "en": "Use Plymouth's excellent bus network to explore Eggbuckland. Start in the center and travel to this quiet suburban district. After visiting the historic sites, relax in Hartley Park on your way back and finish the day at the lively Mutley Plain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Blue Peter",
+            "tip": "Hervorragende Fish & Chips."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blue Peter",
+            "tip": "Kiváló fish & chips."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Blue Peter",
+            "tip": "Fish & chips excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blue Peter",
+            "tip": "Excellent fish & chips."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hartley Park Reservoir",
+            "tip": "Ruhiger Blick auf das Reservoir.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hartley Park víztározó",
+            "tip": "Csendes kilátás a víztározóra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervorul Hartley Park",
+            "tip": "Vedere liniștită spre rezervor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hartley Park Reservoir",
+            "tip": "Quiet view of the reservoir.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mutley Plain",
+            "tip": "Buntes Treiben mit vielen kleinen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mutley Plain",
+            "tip": "Színes forgatag sok kis bolttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mutley Plain",
+            "tip": "Agitație colorată cu multe magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mutley Plain",
+            "tip": "Colorful bustle with many small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Bus.",
+          "Die Linie 34 fährt direkt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra.",
+          "A 34-es járat közvetlenül közlekedik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz.",
+          "Linia 34 merge direct."
+        ],
+        "en": [
+          "Buy a day ticket for the bus.",
+          "Bus line 34 goes directly there."
+        ]
+      }
+    }
+  }
+}

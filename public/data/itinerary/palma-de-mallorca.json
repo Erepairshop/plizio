@@ -1,0 +1,1668 @@
+{
+  "city_id": "palma-de-mallorca",
+  "anchor": {
+    "name": "Palma de Mallorca",
+    "coords": [
+      2.6502,
+      39.5696
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 3.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaça d'Espanya",
+            "hu": "Plaça d'Espanya",
+            "ro": "Plaça d'Espanya",
+            "en": "Plaça d'Espanya"
+          },
+          "coords": [
+            2.655,
+            39.575
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Verkehrsknotenpunkt der Stadt, idealer Ausgangspunkt.",
+            "hu": "A város közlekedési csomópontja, ideális kiindulópont.",
+            "ro": "Nodul de transport al orașului, un punct de plecare ideal.",
+            "en": "The city's transport hub, an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercat de l'Olivar",
+            "hu": "Olivar Piac",
+            "ro": "Piața Olivar",
+            "en": "Olivar Market"
+          },
+          "coords": [
+            2.6525,
+            39.5739
+          ],
+          "category": "market",
+          "arrive_at": "09:31",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Meeresfrüchte an einer der Theken.",
+            "hu": "Kóstoljon friss tengeri herkentyűket az egyik pultnál.",
+            "ro": "Încercați fructe de mare proaspete la una dintre tarabe.",
+            "en": "Try some fresh seafood at one of the counter bars."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça Major",
+            "hu": "Plaça Major (Főtér)",
+            "ro": "Plaça Major",
+            "en": "Plaça Major"
+          },
+          "coords": [
+            2.651,
+            39.5714
+          ],
+          "category": "square",
+          "arrive_at": "10:27",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Architektur und beobachten Sie die Straßenkünstler.",
+            "hu": "Élvezze az építészetet és figyelje az utcai művészeket.",
+            "ro": "Admirați arhitectura și priviți artiștii stradali.",
+            "en": "Enjoy the architecture and watch the street performers."
+          }
+        },
+        {
+          "name": {
+            "de": "Königspalast La Almudaina",
+            "hu": "Almudaina királyi palota",
+            "ro": "Palatul Regal Almudaina",
+            "en": "Almudaina Royal Palace"
+          },
+          "coords": [
+            2.6474,
+            39.5683
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf den Wachwechsel, falls er stattfindet.",
+            "hu": "Ha van, nézze meg az őrségváltást.",
+            "ro": "Urmăriți schimbarea gărzii, dacă are loc.",
+            "en": "Check for the changing of the guard ceremony."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale La Seu",
+            "hu": "La Seu katedrális",
+            "ro": "Catedrala La Seu",
+            "en": "La Seu Cathedral"
+          },
+          "coords": [
+            2.6486,
+            39.5679
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie morgens, um das Licht durch das Rosettenfenster zu sehen.",
+            "hu": "Látogasson el reggel, hogy lássa a fényt átsütni a rózsaablakon.",
+            "ro": "Vizitați dimineața pentru a vedea lumina prin rozeta.",
+            "en": "Visit in the morning to see the light through the rose window."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            2.6495,
+            39.5695
+          ],
+          "category": "gastro",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach einem „Menú del día“ für ein gutes Preis-Leistungs-Verhältnis.",
+            "hu": "Keressen egy „Menú del día”-t a jó ár-érték arányért.",
+            "ro": "Căutați un „Menú del día” pentru un raport calitate-preț bun.",
+            "en": "Look for a 'Menú del día' for great value."
+          }
+        },
+        {
+          "name": {
+            "de": "Es Baluard Museum",
+            "hu": "Es Baluard Múzeum",
+            "ro": "Muzeul Es Baluard",
+            "en": "Es Baluard Museum"
+          },
+          "coords": [
+            2.6416,
+            39.5706
+          ],
+          "category": "museum",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von den Außenterrassen.",
+            "hu": "Élvezze a panorámás kilátást a külső teraszokról.",
+            "ro": "Bucurați-vă de vederea panoramică de pe terasele exterioare.",
+            "en": "Enjoy the panoramic views from the outer terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig des Born",
+            "hu": "Passeig des Born",
+            "ro": "Passeig des Born",
+            "en": "Passeig des Born"
+          },
+          "coords": [
+            2.6475,
+            39.5701
+          ],
+          "category": "shopping",
+          "arrive_at": "17:09",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für einen Schaufensterbummel und eine Kaffeepause.",
+            "hu": "Ideális kirakatnézegetéshez és egy kávészünethez.",
+            "ro": "Ideal pentru a privi vitrinele și a lua o pauză de cafea.",
+            "en": "Great for window shopping and a coffee break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im pulsierenden Herzen von Palma, zwischen den Gerüchen des Olivar-Marktes und der Pracht der Plaça Major. Sie tauchen in die Geschichte ein und besuchen den Almudaina-Palast und die majestätische Kathedrale. Nach einem lokalen Mittagessen widmen Sie den Nachmittag der modernen Kunst im Es Baluard, das einen Kontrast zur historischen Architektur bietet. Der Tag endet mit einem entspannten Spaziergang entlang des eleganten Passeig des Born, wo Sie das städtische Ambiente auf sich wirken lassen.",
+        "hu": "A reggel Palma lüktető szívében indul, az Olivar piac illatai és a Plaça Major pompája között. Elmerül a történelemben az Almudaina-palota és a fenséges katedrális meglátogatásával. Egy helyi ebéd után a délutánt a modern művészetnek szenteli az Es Baluard múzeumban, amely kontrasztot képez a történelmi építészettel. A nap egy pihentető sétával zárul az elegáns Passeig des Born sugárúton, magába szívva a városi hangulatot.",
+        "ro": "Dimineața începe în inima vibrantă a orașului Palma, printre aromele pieței Olivar și splendoarea din Plaça Major. Vă veți cufunda în istorie vizitând Palatul Almudaina și catedrala maiestuoasă. După un prânz local, după-amiaza este dedicată artei moderne la Es Baluard, care contrastează cu arhitectura istorică. Ziua se încheie cu o plimbare relaxantă pe elegantul Passeig des Born, absorbind atmosfera urbană.",
+        "en": "The morning starts in the vibrant heart of Palma, amidst the scents of the Olivar market and the splendour of Plaça Major. You'll dive into history visiting the Almudaina Palace and the majestic cathedral. After a local lunch, the afternoon is dedicated to modern art at Es Baluard, offering a contrast to the historic architecture. The day concludes with a relaxing stroll along the elegant Passeig des Born, soaking up the urban atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ensaimada",
+            "tip": "Ein spiralförmiges Gebäck, das man am besten zum Frühstück mit Kaffee genießt."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Ein vegetarisches Gericht aus Kartoffeln, Auberginen und Paprika in Tomatensauce."
+          },
+          {
+            "name": "Celler Sa Premsa",
+            "tip": "Ein traditionelles Restaurant, das authentische mallorquinische Küche serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ensaimada",
+            "tip": "Spirál alakú péksütemény, legjobb reggelire kávéval."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Vegetáriánus étel krumplival, padlizsánnal és paprikával paradicsomszószban."
+          },
+          {
+            "name": "Celler Sa Premsa",
+            "tip": "Hagyományos étterem, amely autentikus mallorcai ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ensaimada",
+            "tip": "Un produs de patiserie în formă de spirală, cel mai bun la micul dejun cu cafea."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "Un fel de mâncare vegetarian din cartofi, vinete și ardei în sos de roșii."
+          },
+          {
+            "name": "Celler Sa Premsa",
+            "tip": "Un restaurant tradițional care servește bucătărie autentică mallorquină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ensaimada",
+            "tip": "A spiral-shaped pastry, best enjoyed for breakfast with coffee."
+          },
+          {
+            "name": "Tumbet",
+            "tip": "A vegetarian dish of potatoes, aubergines, and peppers in tomato sauce."
+          },
+          {
+            "name": "Celler Sa Premsa",
+            "tip": "A traditional restaurant serving authentic Mallorcan cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Banys Àrabs Gärten",
+            "tip": "Eine kleine Oase der Ruhe in der Altstadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Mar",
+            "tip": "Entspannen Sie sich auf einer Bank mit Blick auf die Kathedrale und das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bischofsgarten",
+            "tip": "Ein versteckter, formeller Garten hinter der Kathedrale.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arab Fürdők kertjei",
+            "tip": "A nyugalom kis oázisa az óvárosban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Mar",
+            "tip": "Pihenjen meg egy padon a katedrálisra és a tengerre néző kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Püspöki kert",
+            "tip": "Rejtett, formális kert a katedrális mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Banys Àrabs",
+            "tip": "O mică oază de liniște în centrul vechi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Mar",
+            "tip": "Relaxați-vă pe o bancă cu vedere la catedrală și la mare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Episcopului",
+            "tip": "O grădină formală ascunsă în spatele catedralei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banys Àrabs Gardens",
+            "tip": "A small oasis of peace in the old town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de la Mar",
+            "tip": "Relax on a bench overlooking the cathedral and the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bishop's Garden",
+            "tip": "A hidden formal garden behind the cathedral.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat de l'Olivar",
+            "tip": "Kaufen Sie lokale Produkte wie Sobrassada und Olivenöl."
+          },
+          {
+            "name": "Via Verí",
+            "tip": "Eine charmante Straße mit unabhängigen Boutiquen und Kunstgalerien."
+          },
+          {
+            "name": "Passeig des Born",
+            "tip": "Hier finden Sie internationale Marken und Luxusgeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olivar Piac",
+            "tip": "Vásároljon helyi termékeket, mint a sobrassada és az olívaolaj."
+          },
+          {
+            "name": "Via Verí",
+            "tip": "Bájos utca független butikokkal és művészeti galériákkal."
+          },
+          {
+            "name": "Passeig des Born",
+            "tip": "Nemzetközi márkák és luxusüzletek otthona."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Olivar",
+            "tip": "Cumpărați produse locale precum sobrassada și ulei de măsline."
+          },
+          {
+            "name": "Via Verí",
+            "tip": "O stradă fermecătoare cu buticuri independente și galerii de artă."
+          },
+          {
+            "name": "Passeig des Born",
+            "tip": "Găzduiește mărci internaționale și magazine de lux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olivar Market",
+            "tip": "Shop for local products like sobrassada and olive oil."
+          },
+          {
+            "name": "Via Verí",
+            "tip": "A charming street with independent boutiques and art galleries."
+          },
+          {
+            "name": "Passeig des Born",
+            "tip": "Home to international brands and luxury stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Verlieren Sie sich absichtlich in den engen Gassen der Altstadt.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Achten Sie auf Taschendiebe in überfüllten Gegenden wie Märkten und Plätzen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Szándékosan tévedjen el az óváros szűk sikátoraiban.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "Vigyázzon a zsebtolvajokra a forgalmas helyeken, mint a piacok és terek."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele pot fi denivelate.",
+          "Pierdeți-vă intenționat pe străduțele înguste din centrul vechi.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Fiți atenți la hoții de buzunare în zonele aglomerate precum piețele și piețele."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Get intentionally lost in the narrow alleyways of the old town.",
+          "Bring plenty of water, especially during the summer months.",
+          "Be aware of pickpockets in crowded areas like markets and squares."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "20:29",
+      "total_km": 8.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih",
+            "hu": "Kerékpárkölcsönző",
+            "ro": "Închiriere de biciclete",
+            "en": "Bike Rental"
+          },
+          "coords": [
+            2.6545,
+            39.5755
+          ],
+          "category": "activity",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+            "hu": "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+            "ro": "Verificați frânele și anvelopele înainte de a porni.",
+            "en": "Check the brakes and tires before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale La Seu",
+            "hu": "La Seu katedrális",
+            "ro": "Catedrala La Seu",
+            "en": "La Seu Cathedral"
+          },
+          "coords": [
+            2.6486,
+            39.5679
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:34",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie hineingehen.",
+            "hu": "Mielőtt bemegy, gondosan zárja le a kerékpárját.",
+            "ro": "Asigurați-vă bicicleta bine înainte de a intra.",
+            "en": "Lock your bike securely before going inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Es Baluard Museum",
+            "hu": "Es Baluard Múzeum",
+            "ro": "Muzeul Es Baluard",
+            "en": "Es Baluard Museum"
+          },
+          "coords": [
+            2.6416,
+            39.5706
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Catalina Markt",
+            "hu": "Santa Catalina Piac",
+            "ro": "Piața Santa Catalina",
+            "en": "Santa Catalina Market"
+          },
+          "coords": [
+            2.639,
+            39.572
+          ],
+          "category": "market",
+          "arrive_at": "12:38",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für einen schnellen, frischen Snack.",
+            "hu": "Nagyszerű hely egy gyors, friss harapnivalóhoz.",
+            "ro": "Un loc minunat pentru o gustare rapidă și proaspătă.",
+            "en": "A great spot for a quick, fresh snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Santa Catalina",
+            "hu": "Ebéd Santa Catalinában",
+            "ro": "Prânz în Santa Catalina",
+            "en": "Lunch in Santa Catalina"
+          },
+          "coords": [
+            2.6385,
+            39.5725
+          ],
+          "category": "gastro",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses Viertel ist bekannt für seine trendigen Restaurants und Cafés.",
+            "hu": "Ez a negyed a divatos éttermeiről és kávézóiról ismert.",
+            "ro": "Acest cartier este cunoscut pentru restaurantele și cafenelele sale la modă.",
+            "en": "This neighborhood is known for its trendy restaurants and cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Marítim",
+            "hu": "Passeig Marítim (Tengerparti sétány)",
+            "ro": "Passeig Marítim",
+            "en": "Passeig Marítim"
+          },
+          "coords": [
+            2.655,
+            39.565
+          ],
+          "category": "harbor",
+          "arrive_at": "14:58",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den Hafen und die Yachten.",
+            "hu": "Élvezze a kikötőre és a jachtokra nyíló kilátást.",
+            "ro": "Bucurați-vă de priveliștea portului și a iahturilor.",
+            "en": "Enjoy the views of the harbour and the yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Portixol",
+            "hu": "Portixol",
+            "ro": "Portixol",
+            "en": "Portixol"
+          },
+          "coords": [
+            2.673,
+            39.559
+          ],
+          "category": "landmark",
+          "arrive_at": "15:53",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein ehemaliges Fischerdorf, das jetzt ein schickes Viertel ist.",
+            "hu": "Egykori halászfalu, ma sikkes negyed.",
+            "ro": "Un fost sat pescăresc, acum un cartier șic.",
+            "en": "A former fishing village, now a chic neighbourhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Can Pere Antoni",
+            "hu": "Can Pere Antoni strand",
+            "ro": "Plaja Can Pere Antoni",
+            "en": "Can Pere Antoni Beach"
+          },
+          "coords": [
+            2.665,
+            39.562
+          ],
+          "category": "beach",
+          "arrive_at": "16:59",
+          "stay_min": 210,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Stadtstrand mit einem tollen Blick auf die Kathedrale.",
+            "hu": "A városi strand, remek kilátással a katedrálisra.",
+            "ro": "Plaja orașului, cu o priveliște minunată a catedralei.",
+            "en": "The city beach, with a great view of the cathedral."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Palma, beginnend mit den kulturellen Highlights, der Kathedrale und dem Es Baluard Museum. Sie radeln zum belebten Santa Catalina Markt für einen schnellen Happen, gefolgt von einem entspannten Mittagessen in diesem trendigen Viertel. Der Nachmittag steht ganz im Zeichen der Meeresbrise, während Sie entlang des Passeig Marítim nach Portixol fahren, einem charmanten ehemaligen Fischerdorf. Der Tag endet mit purer Entspannung am Stadtstrand Can Pere Antoni, wo Sie die Sonne und den Blick auf die Kathedrale genießen.",
+        "hu": "Két keréken fedezi fel Palmát, kezdve a kulturális csúcspontokkal, a katedrálissal és az Es Baluard Múzeummal. Átteker a nyüzsgő Santa Catalina piacra egy gyors falatra, majd egy laza ebéd következik ebben a divatos negyedben. A délután a tengeri szellőé, miközben a Passeig Marítim mentén Portixolba, egy bájos egykori halászfaluba teker. A nap a városi Can Pere Antoni strandon végződik, ahol élvezheti a napot és a katedrális látványát.",
+        "ro": "Pe două roți, explorați Palma, începând cu atracțiile culturale, Catedrala și Muzeul Es Baluard. Pedalați spre animata Piață Santa Catalina pentru o gustare rapidă, urmată de un prânz relaxat în acest cartier la modă. După-amiaza este dedicată brizei mării, în timp ce mergeți pe Passeig Marítim spre Portixol, un fermecător fost sat pescăresc. Ziua se încheie cu relaxare pură pe plaja orașului, Can Pere Antoni, bucurându-vă de soare și de priveliștea catedralei.",
+        "en": "On two wheels, you'll explore Palma starting with the cultural highlights, the Cathedral and Es Baluard Museum. You'll cycle to the bustling Santa Catalina market for a quick bite, followed by a relaxed lunch in this trendy neighbourhood. The afternoon is all about the sea breeze as you ride along the Passeig Marítim to Portixol, a charming former fishing village. The day concludes with pure relaxation on the city beach, Can Pere Antoni, enjoying the sun and the cathedral view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pa amb oli",
+            "tip": "Brot mit Tomate, Olivenöl und Salz. Einfach aber köstlich."
+          },
+          {
+            "name": "Meeresfrüchte-Paella",
+            "tip": "Ein Muss, wenn man so nah am Meer ist."
+          },
+          {
+            "name": "Bar Duke",
+            "tip": "Ein beliebtes Lokal in Santa Catalina, bekannt für seine kosmopolitische Atmosphäre und sein Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pa amb oli",
+            "tip": "Kenyér paradicsommal, olívaolajjal és sóval. Egyszerű, de finom."
+          },
+          {
+            "name": "Tenger gyümölcsei paella",
+            "tip": "Kötelező, ha ilyen közel van a tengerhez."
+          },
+          {
+            "name": "Bar Duke",
+            "tip": "Népszerű hely Santa Catalinában, ismert a kozmopolita hangulatáról és ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pa amb oli",
+            "tip": "Pâine cu roșii, ulei de măsline și sare. Simplu, dar delicios."
+          },
+          {
+            "name": "Paella cu fructe de mare",
+            "tip": "O necesitate când ești atât de aproape de mare."
+          },
+          {
+            "name": "Bar Duke",
+            "tip": "Un loc popular în Santa Catalina, cunoscut pentru atmosfera sa cosmopolită și mâncare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pa amb oli",
+            "tip": "Bread with tomato, olive oil, and salt. Simple but delicious."
+          },
+          {
+            "name": "Seafood Paella",
+            "tip": "A must-try when you're so close to the sea."
+          },
+          {
+            "name": "Bar Duke",
+            "tip": "A popular spot in Santa Catalina known for its cosmopolitan vibe and food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang in Portixol",
+            "tip": "Beobachten Sie, wie die Sonne über der Bucht von Palma untergeht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Strand von Es Molinar",
+            "tip": "Ein ruhigerer Strandabschnitt gleich hinter Portixol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg am Meer",
+            "tip": "Finden Sie einen ruhigen Moment auf dem langen Radweg entlang der Küste.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente Portixolban",
+            "tip": "Nézze, ahogy a nap lemegy a Palma-öböl felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Es Molinar strand",
+            "tip": "Csendesebb partszakasz közvetlenül Portixol után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tengerparti kerékpárút",
+            "tip": "Találjon egy csendes pillanatot a hosszú tengerparti kerékpárúton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare în Portixol",
+            "tip": "Priviți soarele apunând peste Golful Palma.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Es Molinar",
+            "tip": "O porțiune de plajă mai liniștită, imediat după Portixol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete de pe malul mării",
+            "tip": "Găsiți un moment de liniște pe lunga pistă de biciclete de-a lungul coastei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Portixol",
+            "tip": "Watch the sun go down over the Bay of Palma.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Es Molinar Beach",
+            "tip": "A quieter stretch of beach just past Portixol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seaside bike path",
+            "tip": "Find a quiet moment on the long cycle path along the coast.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Santa Catalina Markt",
+            "tip": "Perfekt für Gourmet-Souvenirs."
+          },
+          {
+            "name": "Passeig Marítim",
+            "tip": "Einige Geschäfte, die auf nautische Ausrüstung und Kleidung spezialisiert sind."
+          },
+          {
+            "name": "Kleine Läden in Portixol",
+            "tip": "Entdecken Sie einzigartige Fundstücke in den Boutiquen dieses Viertels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santa Catalina Piac",
+            "tip": "Tökéletes ínyenc szuvenírekhez."
+          },
+          {
+            "name": "Passeig Marítim",
+            "tip": "Néhány üzlet, amely hajózási felszerelésekre és ruházatra szakosodott."
+          },
+          {
+            "name": "Kis boltok Portixolban",
+            "tip": "Fedezzen fel egyedi darabokat a negyed butikjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Santa Catalina",
+            "tip": "Perfect pentru suveniruri gourmet."
+          },
+          {
+            "name": "Passeig Marítim",
+            "tip": "Câteva magazine specializate în echipamente și îmbrăcăminte nautică."
+          },
+          {
+            "name": "Mici magazine în Portixol",
+            "tip": "Descoperiți piese unice în buticurile din acest cartier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Catalina Market",
+            "tip": "Perfect for gourmet souvenirs."
+          },
+          {
+            "name": "Passeig Marítim",
+            "tip": "Some shops specializing in nautical gear and clothing."
+          },
+          {
+            "name": "Small shops in Portixol",
+            "tip": "Discover unique finds in the neighbourhood's boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die ausgezeichneten Radwege entlang der Bucht.",
+          "Ein Helm wird empfohlen, ist aber nicht immer Pflicht.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Planen Sie Pausen ein, um die Aussicht zu genießen und zu hydrieren."
+        ],
+        "hu": [
+          "Használja ki az öböl mentén húzódó kiváló kerékpárutakat.",
+          "Sisak használata ajánlott, de nem mindig kötelező.",
+          "Vigyen magával egy jó lakatot a kerékpár biztonságos lezárásához.",
+          "Tervezzen be szüneteket a kilátás élvezetéhez és a hidratáláshoz."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete excelente de-a lungul golfului.",
+          "Se recomandă cască, dar nu este întotdeauna obligatorie.",
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta.",
+          "Planificați pauze pentru a vă bucura de priveliști și a vă hidrata."
+        ],
+        "en": [
+          "Make use of the excellent cycle paths along the bay.",
+          "A helmet is recommended, though not always mandatory.",
+          "Bring a good lock to secure your bike.",
+          "Plan for breaks to enjoy the views and hydrate."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:44",
+      "total_km": 8.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Parc de la Mar",
+            "hu": "Parkolás a Parc de la Mar-nál",
+            "ro": "Parcare la Parc de la Mar",
+            "en": "Parking at Parc de la Mar"
+          },
+          "coords": [
+            2.651,
+            39.565
+          ],
+          "category": "activity",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein großer Tiefgaragenparkplatz, ideal für die Erkundung der Altstadt.",
+            "hu": "Nagy mélygarázs, ideális az óváros felfedezéséhez.",
+            "ro": "O parcare subterană mare, ideală pentru a explora centrul vechi.",
+            "en": "A large underground car park, ideal for exploring the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale La Seu",
+            "hu": "La Seu katedrális",
+            "ro": "Catedrala La Seu",
+            "en": "La Seu Cathedral"
+          },
+          "coords": [
+            2.6486,
+            39.5679
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:23",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kaufen Sie Tickets online, um die Warteschlange zu umgehen.",
+            "hu": "Vásároljon jegyet online a sorban állás elkerülése érdekében.",
+            "ro": "Cumpărați bilete online pentru a evita coada.",
+            "en": "Buy tickets online to skip the queue."
+          }
+        },
+        {
+          "name": {
+            "de": "Königspalast La Almudaina",
+            "hu": "Almudaina királyi palota",
+            "ro": "Palatul Regal Almudaina",
+            "en": "Almudaina Royal Palace"
+          },
+          "coords": [
+            2.6474,
+            39.5683
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Palast ist immer noch eine offizielle Residenz der königlichen Familie.",
+            "hu": "A palota ma is a királyi család hivatalos rezidenciája.",
+            "ro": "Palatul este încă o reședință oficială a familiei regale.",
+            "en": "The palace is still an official residence of the royal family."
+          }
+        },
+        {
+          "name": {
+            "de": "Arabische Bäder",
+            "hu": "Arab Fürdők",
+            "ro": "Băile Arabe",
+            "en": "Arab Baths"
+          },
+          "coords": [
+            2.6514,
+            39.5668
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein seltener Überrest der maurischen Vergangenheit der Stadt.",
+            "hu": "A város mór múltjának ritka emléke.",
+            "ro": "O rămășiță rară a trecutului maur al orașului.",
+            "en": "A rare remnant of the city's Moorish past."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bellver",
+            "hu": "Bellver kastély",
+            "ro": "Castelul Bellver",
+            "en": "Bellver Castle"
+          },
+          "coords": [
+            2.6186,
+            39.5639
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das einzige runde Schloss in Spanien mit fantastischer Aussicht.",
+            "hu": "Spanyolország egyetlen kör alakú kastélya, fantasztikus kilátással.",
+            "ro": "Singurul castel rotund din Spania, cu vederi fantastice.",
+            "en": "The only circular castle in Spain, with fantastic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Bellver",
+            "hu": "Ebéd a Bellver közelében",
+            "ro": "Prânz lângă Bellver",
+            "en": "Lunch near Bellver"
+          },
+          "coords": [
+            2.622,
+            39.565
+          ],
+          "category": "gastro",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant mit Terrasse, um die Aussicht zu genießen.",
+            "hu": "Keressen egy teraszos éttermet, hogy élvezze a kilátást.",
+            "ro": "Căutați un restaurant cu terasă pentru a vă bucura de priveliște.",
+            "en": "Find a restaurant with a terrace to enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftung Pilar und Joan Miró",
+            "hu": "Pilar és Joan Miró Alapítvány",
+            "ro": "Fundația Pilar și Joan Miró",
+            "en": "Pilar and Joan Miró Foundation"
+          },
+          "coords": [
+            2.622,
+            39.557
+          ],
+          "category": "museum",
+          "arrive_at": "16:07",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein Einblick in das Leben und Werk des Künstlers in seinem eigenen Atelier.",
+            "hu": "Betekintés a művész életébe és munkásságába a saját műtermében.",
+            "ro": "O incursiune în viața și opera artistului, în propriul său studio.",
+            "en": "An insight into the artist's life and work in his own studio."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Cala Major",
+            "hu": "Cala Major strand",
+            "ro": "Plaja Cala Major",
+            "en": "Cala Major Beach"
+          },
+          "coords": [
+            2.617,
+            39.558
+          ],
+          "category": "beach",
+          "arrive_at": "17:59",
+          "stay_min": 105,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein wunderschöner Sandstrand, der bei Einheimischen und Touristen beliebt ist.",
+            "hu": "Gyönyörű homokos strand, népszerű a helyiek és a turisták körében.",
+            "ro": "O plajă frumoasă cu nisip, populară printre localnici și turiști.",
+            "en": "A beautiful sandy beach popular with locals and tourists."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, verschiedene Cluster von Palma zu erkunden. Der Morgen ist dem historischen Kern gewidmet, mit einem Spaziergang von der Kathedrale zu den Arabischen Bädern. Anschließend fahren Sie zum Schloss Bellver, um einen Panoramablick über die Stadt zu genießen und in der Nähe zu Mittag zu essen. Der Nachmittag führt Sie in die Welt der Kunst in der Miró-Stiftung, gefolgt von einem entspannenden Ausklang am Strand von Cala Major, weit weg von der Hektik des Zentrums.",
+        "hu": "Az autó szabadságot ad Palma különböző részeit felfedezni. A délelőtt a történelmi magé, egy sétával a katedrálistól az Arab Fürdőkig. Ezután felhajt a Bellver-kastélyhoz a városra nyíló panorámáért és egy közeli ebédért. A délután a művészet világába kalauzol a Miró Alapítványnál, majd a napot a Cala Major strandon pihenéssel zárja, távol a központ nyüzsgésétől.",
+        "ro": "Cu mașina, aveți libertatea de a explora diferite zone din Palma. Dimineața este dedicată nucleului istoric, cu o plimbare de la Catedrală la Băile Arabe. Apoi, conduceți la Castelul Bellver pentru vederi panoramice asupra orașului și un prânz în apropiere. După-amiaza vă duce în lumea artei la Fundația Miró, urmată de o încheiere relaxantă pe plaja Cala Major, departe de agitația centrului.",
+        "en": "With a car, you have the freedom to explore different clusters of Palma. The morning is dedicated to the historic core, with a walk from the Cathedral to the Arab Baths. You then drive up to Bellver Castle for panoramic city views and lunch nearby. The afternoon takes you into the world of art at the Miró Foundation, followed by a relaxing end to the day at Cala Major beach, away from the hustle of the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sobrassada",
+            "tip": "Eine streichfähige Paprikawurst, oft auf Brot serviert."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Ein traditionelles Gericht aus Lamm-Innereien und Gemüse."
+          },
+          {
+            "name": "Restaurant Il Paradiso",
+            "tip": "Bietet italienische Küche mit einer der besten Aussichten in Palma."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sobrassada",
+            "tip": "Kenhető paprikás kolbász, gyakran kenyérrel tálalva."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Hagyományos étel báránybelsőségekből és zöldségekből."
+          },
+          {
+            "name": "Restaurant Il Paradiso",
+            "tip": "Olasz konyhát kínál Palma egyik legjobb kilátásával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sobrassada",
+            "tip": "Un cârnat tartinabil cu boia, adesea servit pe pâine."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "Un fel de mâncare tradițional din măruntaie de miel și legume."
+          },
+          {
+            "name": "Restaurant Il Paradiso",
+            "tip": "Oferă bucătărie italiană cu una dintre cele mai bune vederi din Palma."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sobrassada",
+            "tip": "A spreadable paprika sausage, often served on bread."
+          },
+          {
+            "name": "Frito Mallorquín",
+            "tip": "A traditional dish made with lamb offal and vegetables."
+          },
+          {
+            "name": "Restaurant Il Paradiso",
+            "tip": "Offers Italian cuisine with one of the best views in Palma."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wald um Schloss Bellver",
+            "tip": "Machen Sie einen Spaziergang im Pinienwald, der das Schloss umgibt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de Marivent",
+            "tip": "Wunderschöne Gärten neben dem königlichen Palast, die zeitweise für die Öffentlichkeit zugänglich sind.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt Na Burguesa",
+            "tip": "Eine kurze Fahrt für einen atemberaubenden Sonnenuntergang über der Bucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Bellver kastély körüli erdő",
+            "tip": "Sétáljon egyet a kastélyt körülvevő fenyőerdőben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de Marivent",
+            "tip": "Gyönyörű kertek a királyi palota mellett, időszakosan látogathatók.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Na Burguesa kilátó",
+            "tip": "Rövid autóút egy lélegzetelállító naplementéért az öböl felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea din jurul Castelului Bellver",
+            "tip": "Faceți o plimbare prin pădurea de pini care înconjoară castelul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Marivent",
+            "tip": "Grădini frumoase lângă palatul regal, deschise publicului uneori.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punctul de belvedere Na Burguesa",
+            "tip": "O scurtă călătorie cu mașina pentru un apus de soare uluitor peste golf.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bellver Castle Forest",
+            "tip": "Take a walk in the pine forest surrounding the castle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de Marivent",
+            "tip": "Beautiful gardens next to the royal palace, sometimes open to the public.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Na Burguesa Viewpoint",
+            "tip": "A short drive for a stunning sunset over the bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Porto Pi Centro Comercial",
+            "tip": "Ein großes Einkaufszentrum in der Nähe des Hafens."
+          },
+          {
+            "name": "Fan Mallorca Shopping",
+            "tip": "Ein weiteres großes Einkaufszentrum in der Nähe des Flughafens."
+          },
+          {
+            "name": "Museumsshop der Miró-Stiftung",
+            "tip": "Für einzigartige, kunstinspirierte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porto Pi Centro Comercial",
+            "tip": "Nagy bevásárlóközpont a kikötő közelében."
+          },
+          {
+            "name": "Fan Mallorca Shopping",
+            "tip": "Egy másik nagy bevásárlóközpont a repülőtér közelében."
+          },
+          {
+            "name": "A Miró Alapítvány múzeumi boltja",
+            "tip": "Egyedi, művészet által inspirált ajándékokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porto Pi Centro Comercial",
+            "tip": "Un centru comercial mare lângă port."
+          },
+          {
+            "name": "Fan Mallorca Shopping",
+            "tip": "Un alt centru comercial mare lângă aeroport."
+          },
+          {
+            "name": "Magazinul muzeului Fundației Miró",
+            "tip": "Pentru cadouri unice, inspirate de artă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porto Pi Centro Comercial",
+            "tip": "A large shopping centre near the port."
+          },
+          {
+            "name": "Fan Mallorca Shopping",
+            "tip": "Another large shopping centre near the airport."
+          },
+          {
+            "name": "Miró Foundation Museum Shop",
+            "tip": "For unique, art-inspired gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist teuer und schwierig. Nutzen Sie Tiefgaragen.",
+          "Ein kleineres Auto ist für die engen Straßen besser geeignet.",
+          "Achten Sie auf die „ORA“-Parkzonen mit blauen Linien, die gebührenpflichtig sind.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága és nehézkes. Használjon mélygarázsokat.",
+          "Kisebb autóval könnyebb közlekedni a szűk utcákon.",
+          "Figyeljen a kék vonalakkal jelölt, fizetős „ORA” parkolási zónákra.",
+          "Tervezze az utazásokat csúcsidőn kívülre a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este scumpă și dificilă. Folosiți parcările subterane.",
+          "O mașină mai mică este mai bună pentru străzile înguste.",
+          "Fiți atenți la zonele de parcare „ORA” cu linii albastre, care sunt cu plată.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita traficul."
+        ],
+        "en": [
+          "Parking in the city centre is expensive and difficult. Use underground car parks.",
+          "A smaller car is better for navigating the narrow streets.",
+          "Be aware of the 'ORA' blue-lined parking zones, which require payment.",
+          "Plan your drives outside of peak hours to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercat de l'Olivar",
+            "hu": "Olivar Piac",
+            "ro": "Piața Olivar",
+            "en": "Olivar Market"
+          },
+          "coords": [
+            2.6525,
+            39.5739
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof Estació Intermodal aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog az Estació Intermodal buszpályaudvarról.",
+            "ro": "Ușor de accesat pe jos de la stația de autobuz Estació Intermodal.",
+            "en": "Easily walkable from the Estació Intermodal bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça Major",
+            "hu": "Plaça Major",
+            "ro": "Plaça Major",
+            "en": "Plaça Major"
+          },
+          "coords": [
+            2.651,
+            39.5714
+          ],
+          "category": "square",
+          "arrive_at": "10:06",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein belebter Platz, umgeben von Geschäften und Restaurants.",
+            "hu": "Nyüzsgő tér, üzletekkel és éttermekkel körülvéve.",
+            "ro": "O piață plină de viață, înconjurată de magazine și restaurante.",
+            "en": "A bustling square surrounded by shops and restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale La Seu",
+            "hu": "La Seu katedrális",
+            "ro": "Catedrala La Seu",
+            "en": "La Seu Cathedral"
+          },
+          "coords": [
+            2.6486,
+            39.5679
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:42",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der Spaziergang von der Plaça Major ist ein schöner Weg durch die Altstadt.",
+            "hu": "A séta a Plaça Majorról egy szép út az óvároson keresztül.",
+            "ro": "Plimbarea de la Plaça Major este un traseu frumos prin centrul vechi.",
+            "en": "The walk from Plaça Major is a lovely route through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Es Baluard Museum",
+            "hu": "Es Baluard Múzeum",
+            "ro": "Muzeul Es Baluard",
+            "en": "Es Baluard Museum"
+          },
+          "coords": [
+            2.6416,
+            39.5706
+          ],
+          "category": "museum",
+          "arrive_at": "12:08",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten in der Nähe. Überprüfen Sie die EMT Palma App.",
+            "hu": "Több buszjárat is megáll a közelben. Ellenőrizze az EMT Palma alkalmazást.",
+            "ro": "Mai multe linii de autobuz opresc în apropiere. Verificați aplicația EMT Palma.",
+            "en": "Several bus lines stop nearby. Check the EMT Palma app."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Santa Catalina",
+            "hu": "Ebéd Santa Catalinában",
+            "ro": "Prânz în Santa Catalina",
+            "en": "Lunch in Santa Catalina"
+          },
+          "coords": [
+            2.639,
+            39.572
+          ],
+          "category": "gastro",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Es Baluard in ein Viertel voller kulinarischer Möglichkeiten.",
+            "hu": "Rövid séta az Es Baluard-tól egy kulináris lehetőségekkel teli negyedbe.",
+            "ro": "O scurtă plimbare de la Es Baluard într-un cartier plin de opțiuni culinare.",
+            "en": "A short walk from Es Baluard into a neighborhood full of culinary options."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bellver",
+            "hu": "Bellver kastély",
+            "ro": "Castelul Bellver",
+            "en": "Bellver Castle"
+          },
+          "coords": [
+            2.6186,
+            39.5639
+          ],
+          "category": "historical",
+          "arrive_at": "15:32",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Touristenbus oder die Linie 20 fahren zum Schloss.",
+            "hu": "A turista busz vagy a 20-as járat visz fel a kastélyhoz.",
+            "ro": "Autobuzul turistic sau linia 20 merg la castel.",
+            "en": "The tourist bus or line 20 will take you to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Passeig Marítim",
+            "hu": "Naplemente a Passeig Marítim-en",
+            "ro": "Apus de soare pe Passeig Marítim",
+            "en": "Sunset at Passeig Marítim"
+          },
+          "coords": [
+            2.635,
+            39.568
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:05",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Schloss hinunter und spazieren Sie am Hafen entlang.",
+            "hu": "Menjen le busszal a kastélytól, és sétáljon a kikötő mentén.",
+            "ro": "Luați un autobuz de la castel și plimbați-vă de-a lungul portului.",
+            "en": "Take a bus down from the castle and walk along the harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln navigieren Sie mühelos durch Palma. Sie beginnen im Herzen der Stadt, erkunden den Olivar-Markt und die Kathedrale zu Fuß. Ein kurzer Bus bringt Sie zum Kunst-Cluster von Es Baluard und dem gastronomischen Viertel Santa Catalina. Am Nachmittag bringt Sie ein weiterer Bus zum Schloss Bellver, das auf einem Hügel thront. Der Tag endet mit einer letzten Busfahrt hinunter zum Hafen, wo Sie einen malerischen Spaziergang bei Sonnenuntergang entlang des Passeig Marítim genießen.",
+        "hu": "A tömegközlekedéssel könnyedén navigálhat Palmában. A város szívében kezd, gyalogosan fedezi fel az Olivar piacot és a katedrálist. Egy rövid buszút elviszi az Es Baluard művészeti negyedébe és a Santa Catalina gasztronómiai negyedébe. Délután egy másik busz felviszi a dombon trónoló Bellver-kastélyhoz. A nap egy utolsó buszúttal zárul a kikötőbe, ahol egy festői naplementi sétát tesz a Passeig Marítim mentén.",
+        "ro": "Folosind transportul public, navigați cu ușurință prin Palma. Începeți în inima orașului, explorând pe jos Piața Olivar și Catedrala. Un autobuz scurt vă duce la clusterul de artă Es Baluard și la cartierul gastronomic Santa Catalina. După-amiaza, un alt autobuz vă urcă la Castelul Bellver, cocoțat pe deal. Ziua se încheie cu o ultimă călătorie cu autobuzul până în port pentru o plimbare pitorească la apus de-a lungul Passeig Marítim.",
+        "en": "Using public transit, you navigate Palma with ease. You'll start in the city's heart, exploring Olivar Market and the Cathedral on foot. A short bus takes you to the art cluster of Es Baluard and the gastronomic Santa Catalina neighborhood. In the afternoon, another bus takes you up to the hilltop Bellver Castle. The day concludes with a final bus ride down to the port for a scenic sunset walk along the Passeig Marítim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hierbas",
+            "tip": "Ein lokaler Kräuterlikör, der oft nach dem Essen getrunken wird."
+          },
+          {
+            "name": "Gató de Almendra",
+            "tip": "Ein köstlicher Mandelkuchen, oft mit Eis serviert."
+          },
+          {
+            "name": "Mercat 1930",
+            "tip": "Ein gehobener Food-Court am Passeig Marítim mit vielen Optionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hierbas",
+            "tip": "Helyi gyógynövénylikőr, gyakran étkezés után fogyasztják."
+          },
+          {
+            "name": "Gató de Almendra",
+            "tip": "Finom mandulatorta, gyakran fagylalttal tálalva."
+          },
+          {
+            "name": "Mercat 1930",
+            "tip": "Elegáns ételudvar a Passeig Marítim-en, számos lehetőséggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hierbas",
+            "tip": "Un lichior local din ierburi, adesea băut după masă."
+          },
+          {
+            "name": "Gató de Almendra",
+            "tip": "O prăjitură delicioasă cu migdale, adesea servită cu înghețată."
+          },
+          {
+            "name": "Mercat 1930",
+            "tip": "O zonă de restaurante de lux pe Passeig Marítim, cu multe opțiuni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hierbas",
+            "tip": "A local herbal liqueur, often drunk after a meal."
+          },
+          {
+            "name": "Gató de Almendra",
+            "tip": "A delicious almond cake, often served with ice cream."
+          },
+          {
+            "name": "Mercat 1930",
+            "tip": "An upscale food court on the Passeig Marítim with many options."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Sa Feixina",
+            "tip": "Ein lokaler Park zwischen Santa Catalina und dem Hafen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von Bellver",
+            "tip": "Finden Sie einen ruhigen Platz auf den Burgmauern, um die Aussicht zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Hafen",
+            "tip": "Beobachten Sie, wie die Boote bei Sonnenuntergang in den Hafen ein- und auslaufen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de Sa Feixina",
+            "tip": "Helyi park Santa Catalina és a kikötő között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Bellverről",
+            "tip": "Találjon egy csendes helyet a várfalakon, hogy élvezze a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a kikötőben",
+            "tip": "Nézze a naplementében a kikötőbe be- és kifutó hajókat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de Sa Feixina",
+            "tip": "Un parc local între Santa Catalina și port.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Bellver",
+            "tip": "Găsiți un loc liniștit pe zidurile castelului pentru a admira priveliștea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare în port",
+            "tip": "Priviți bărcile intrând și ieșind din port la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Sa Feixina",
+            "tip": "A local park between Santa Catalina and the port.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Bellver",
+            "tip": "Find a quiet spot on the castle walls to take in the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the harbour",
+            "tip": "Watch the boats come in and out of the harbour at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Spaniens größtes Kaufhaus mit zwei Standorten in Palma."
+          },
+          {
+            "name": "Carrer de Sant Miquel",
+            "tip": "Eine wichtige Einkaufsstraße, die von der Plaça Major ausgeht."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Finden Sie Perlenimitate und traditionelle Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Spanyolország legnagyobb áruháza, két helyen Palmában."
+          },
+          {
+            "name": "Carrer de Sant Miquel",
+            "tip": "Fontos bevásárlóutca, amely a Plaça Majortól indul."
+          },
+          {
+            "name": "Szuvenírboltok az óvárosban",
+            "tip": "Találjon hamis gyöngyöket és hagyományos kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Cel mai mare magazin universal din Spania, cu două locații în Palma."
+          },
+          {
+            "name": "Carrer de Sant Miquel",
+            "tip": "O stradă comercială importantă care pornește din Plaça Major."
+          },
+          {
+            "name": "Magazine de suveniruri din centrul vechi",
+            "tip": "Găsiți imitații de perle și ceramică tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Spain's largest department store, with two locations in Palma."
+          },
+          {
+            "name": "Carrer de Sant Miquel",
+            "tip": "A major shopping street leading off Plaça Major."
+          },
+          {
+            "name": "Old Town Souvenir Shops",
+            "tip": "Find imitation pearls and traditional ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 10er-Karte (tarjeta de 10 viajes) für Busse, um Geld zu sparen.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus.",
+          "Die meisten Busse fahren über die Plaça d'Espanya, was sie zu einem guten Umsteigepunkt macht.",
+          "Nutzen Sie die EMT Palma App für Echtzeit-Businformationen."
+        ],
+        "hu": [
+          "Vásároljon 10 utazásos kártyát (tarjeta de 10 viajes) a buszokra, hogy pénzt takarítson meg.",
+          "Érvényesítse a jegyét, amikor felszáll a buszra.",
+          "A legtöbb busz a Plaça d'Espanya-n keresztül közlekedik, ami jó átszállóponttá teszi.",
+          "Használja az EMT Palma alkalmazást a valós idejű buszinformációkért."
+        ],
+        "ro": [
+          "Cumpărați un card de 10 călătorii (tarjeta de 10 viajes) pentru autobuze pentru a economisi bani.",
+          "Validați-vă biletul la urcarea în autobuz.",
+          "Majoritatea autobuzelor trec prin Plaça d'Espanya, ceea ce o face un bun punct de transfer.",
+          "Utilizați aplicația EMT Palma pentru informații despre autobuze în timp real."
+        ],
+        "en": [
+          "Buy a 10-journey card (tarjeta de 10 viajes) for buses to save money.",
+          "Validate your ticket when you board the bus.",
+          "Most buses route through Plaça d'Espanya, making it a good transfer point.",
+          "Use the EMT Palma app for real-time bus information."
+        ]
+      }
+    }
+  }
+}

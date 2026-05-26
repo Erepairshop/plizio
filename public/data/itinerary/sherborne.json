@@ -1,0 +1,1192 @@
+{
+  "city_id": "sherborne",
+  "anchor": {
+    "name": "Sherborne Abbey",
+    "coords": [
+      -2.516,
+      50.947
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sherborne Abbey",
+            "hu": "Sherborne-i apátság",
+            "ro": "Abația Sherborne",
+            "en": "Sherborne Abbey"
+          },
+          "coords": [
+            -2.516,
+            50.947
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das berühmte Fächergewölbe aus dem 15. Jahrhundert.",
+            "hu": "Csodáld meg a híres 15. századi legyezőboltozatot.",
+            "ro": "Admirați faimoasa boltă în evantai din secolul al XV-lea.",
+            "en": "Admire the famous 15th-century fan vaulting."
+          }
+        },
+        {
+          "name": {
+            "de": "Cheap Street",
+            "hu": "Cheap Street",
+            "ro": "Cheap Street",
+            "en": "Cheap Street"
+          },
+          "coords": [
+            -2.515,
+            50.948
+          ],
+          "category": "shopping",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bummeln Sie durch die unabhängigen Boutiquen dieser historischen Straße.",
+            "hu": "Sétálj végig a történelmi utca független butikjai között.",
+            "ro": "Plimbați-vă prin boutique-urile independente de pe această stradă istorică.",
+            "en": "Stroll through the independent boutiques of this historic street."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Johns Almshouses",
+            "hu": "Szent János ispotály",
+            "ro": "Azilul Sf. Ioan",
+            "en": "St Johns Almshouses"
+          },
+          "coords": [
+            -2.517,
+            50.946
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein hervorragendes Beispiel für mittelalterliche Wohltätigkeitsbauten.",
+            "hu": "A középkori jótékonysági építészet kiváló példája.",
+            "ro": "Un exemplu excelent de arhitectură caritabilă medievală.",
+            "en": "An excellent example of medieval charitable architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "The Digby Tap (Mittagessen)",
+            "hu": "The Digby Tap (Ebéd)",
+            "ro": "The Digby Tap (Prânz)",
+            "en": "The Digby Tap (Lunch)"
+          },
+          "coords": [
+            -2.514,
+            50.947
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein traditioneller Pub mit lokalem Ale und herzhafter Kost.",
+            "hu": "Hagyományos pub helyi sörökkel és kiadós ételekkel.",
+            "ro": "Un pub tradițional cu bere locală și mâncare consistentă.",
+            "en": "A traditional pub with local ale and hearty food."
+          }
+        },
+        {
+          "name": {
+            "de": "Sherborne Old Castle",
+            "hu": "Sherborne régi kastélya",
+            "ro": "Vechiul Castel Sherborne",
+            "en": "Sherborne Old Castle"
+          },
+          "coords": [
+            -2.502,
+            50.948
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die romantischen Ruinen aus dem 12. Jahrhundert.",
+            "hu": "Fedezd fel a 12. századi romantikus romokat.",
+            "ro": "Explorați ruinele romantice din secolul al XII-lea.",
+            "en": "Explore the romantic 12th-century ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Sherborne New Castle",
+            "hu": "Sherborne új kastélya",
+            "ro": "Noul Castel Sherborne",
+            "en": "Sherborne New Castle"
+          },
+          "coords": [
+            -2.506,
+            50.944
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Haus von Sir Walter Raleigh und den Park.",
+            "hu": "Nézd meg Sir Walter Raleigh házát és a parkot.",
+            "ro": "Vizitați casa lui Sir Walter Raleigh și parcul.",
+            "en": "Visit the home of Sir Walter Raleigh and the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Peverell Garden (Abschluss)",
+            "hu": "Peverell kert (Búcsú)",
+            "ro": "Grădina Peverell (Final)",
+            "en": "Peverell Garden (Farewell)"
+          },
+          "coords": [
+            -2.512,
+            50.946
+          ],
+          "category": "park",
+          "arrive_at": "16:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag Revue passieren zu lassen.",
+            "hu": "Csendes hely a nap élményeinek átgondolására.",
+            "ro": "Un loc liniștit pentru a trece în revistă ziua.",
+            "en": "A quiet place to review the day's events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im spirituellen Herzen der Stadt, der Sherborne Abbey. Die beeindruckende Deckenkonstruktion ist ein Meisterwerk spätgotischer Kunst. Ein kurzer Gang führt Sie in die Cheap Street, wo Sie das geschäftige Treiben der Marktstadt erleben können.\n\nZur Mittagszeit erkunden Sie die St. Johns Almshouses, bevor Sie im Digby Tap einkehren. Dieser traditionelle Pub ist bekannt für seine authentische Atmosphäre und bietet den idealen Rahmen für eine Pause zwischen den historischen Erkundungen.\n\nDer Nachmittag steht ganz im Zeichen der Schlösser. Zuerst besuchen Sie die Ruinen des Old Castle, die Geschichten von Belagerungen erzählen, und spazieren dann zum New Castle. Die von Capability Brown gestaltete Parklandschaft lädt zu einem ausgiebigen Rundgang ein.\n\nZum Abschluss des Tages spazieren Sie zurück in Richtung Zentrum. Der Peverell Garden bietet eine friedliche Kulisse, um den Tag in Dorset entspannt ausklingen zu lassen, bevor Sie vielleicht noch ein letztes Mal die Silhouette der Abbey bewundern.",
+        "hu": "A napod a város spirituális központjában, a Sherborne-i apátságban indul. A lenyűgöző mennyezeti szerkezet a késő gótikus művészet remekműve. Rövid séta után a Cheap Streetre érsz, ahol a mezőváros nyüzsgését tapasztalhatod meg.\n\nEbédidőben a Szent János ispotályt fedezed fel, mielőtt betérnél a Digby Tap pubba. Ez a hagyományos hely híres az autentikus hangulatáról, és ideális keretet ad a történelmi felfedezések közötti pihenőhöz.\n\nA délután a kastélyok jegyében telik. Először a régi kastély romjait látogatod meg, amely ostromokról mesél, majd átsétálsz az új kastélyhoz. A Capability Brown által tervezett park ideális egy hosszabb sétához.\n\nA nap végén visszasétálsz a központ felé. A Peverell kert békés környezetet nyújt, hogy a Dorsetben töltött napot nyugodtan zárd le, mielőtt utoljára megcsodálnád az apátság sziluettjét.",
+        "ro": "Ziua începe în inima spirituală a orașului, Abația Sherborne. Construcția impresionantă a tavanului este o capodoperă a artei gotice târzii. O scurtă plimbare vă duce pe Cheap Street, unde puteți experimenta agitația orașului-târg.\n\nLa prânz, explorați Azilul Sf. Ioan înainte de a opri la Digby Tap. Acest pub tradițional este cunoscut pentru atmosfera sa autentică și oferă cadrul ideal pentru o pauză între explorările istorice.\n\nDupă-amiaza este dedicată castelelor. Mai întâi vizitați ruinele Vechiului Castel, care spun povești despre asedii, apoi mergeți la Noul Castel. Peisajul parcului amenajat de Capability Brown invită la o plimbare lungă.\n\nLa sfârșitul zilei, vă întoarceți spre centru. Grădina Peverell oferă un cadru liniștit pentru a încheia relaxat ziua în Dorset, înainte de a admira probabil pentru ultima oară silueta abației.",
+        "en": "Your day begins in the spiritual heart of the town, Sherborne Abbey. The impressive ceiling construction is a masterpiece of late Gothic art. A short walk leads you to Cheap Street, where you can experience the hustle and bustle of the market town.\n\nAt midday, explore St Johns Almshouses before stopping at the Digby Tap. This traditional pub is known for its authentic atmosphere and provides the ideal setting for a break between historical explorations.\n\nThe afternoon is all about the castles. First, you visit the ruins of the Old Castle, which tell stories of sieges, and then walk to the New Castle. The parkland designed by Capability Brown invites you for an extensive walk.\n\nTo end the day, stroll back towards the center. Peverell Garden offers a peaceful setting to relax and end your day in Dorset before perhaps admiring the Abbey's silhouette one last time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Digby Tap",
+            "tip": "Legendärer Pub für Real Ale Fans."
+          },
+          {
+            "name": "Oliver's Coffee House",
+            "tip": "Hausgemachter Kuchen in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Digby Tap",
+            "tip": "Legendás pub a valódi sörök kedvelőinek."
+          },
+          {
+            "name": "Oliver's Coffee House",
+            "tip": "Házias sütemények történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Digby Tap",
+            "tip": "Pub legendar pentru fanii berii artizanale."
+          },
+          {
+            "name": "Oliver's Coffee House",
+            "tip": "Prăjituri de casă într-o ambianță istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Digby Tap",
+            "tip": "Legendary pub for real ale fans."
+          },
+          {
+            "name": "Oliver's Coffee House",
+            "tip": "Homemade cake in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sherborne Abbey Cloisters",
+            "tip": "Besinnliche Ruhe im Kreuzgang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lake at Sherborne Castle",
+            "tip": "Panorama am Seeufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sherborne-i apátság keresztfolyosója",
+            "tip": "Elmélkedő nyugalom a kerengőben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sherborne kastély tava",
+            "tip": "Panoráma a tóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Abației Sherborne",
+            "tip": "Liniște meditativă în claustru.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lacul de la Castelul Sherborne",
+            "tip": "Panoramă pe malul lacului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sherborne Abbey Cloisters",
+            "tip": "Meditative quiet in the cloisters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lake at Sherborne Castle",
+            "tip": "Panorama by the lakeside.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cheap Street Antiques",
+            "tip": "Einzigartige Fundstücke aus Dorset."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheap Street régiségboltok",
+            "tip": "Egyedi leletek Dorsetből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antichități pe Cheap Street",
+            "tip": "Obiecte unice găsite în Dorset."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheap Street Antiques",
+            "tip": "Unique finds from Dorset."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Abbey ist oft für Konzerte genutzt.",
+          "Tragen Sie festes Schuhwerk für die Burgruinen.",
+          "Cheap Street ist am Markttag besonders lebhaft.",
+          "Die Almshouses haben eingeschränkte Besuchszeiten."
+        ],
+        "hu": [
+          "Az apátságot gyakran használják koncertekre.",
+          "Viselj erős lábbelit a várromokhoz.",
+          "A Cheap Street vásárnapokon különösen élénk.",
+          "Az ispotály látogatási ideje korlátozott."
+        ],
+        "ro": [
+          "Abația este adesea folosită pentru concerte.",
+          "Purtați încălțăminte solidă pentru ruinele castelului.",
+          "Cheap Street este deosebit de plină de viață în ziua de târg.",
+          "Azilul are ore de vizitare limitate."
+        ],
+        "en": [
+          "The Abbey is often used for concerts.",
+          "Wear sturdy footwear for the castle ruins.",
+          "Cheap Street is especially lively on market day.",
+          "The Almshouses have limited visiting hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 20.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sherborne Abbey Square",
+            "hu": "Sherborne Abbey tér",
+            "ro": "Piața Abației Sherborne",
+            "en": "Sherborne Abbey Square"
+          },
+          "coords": [
+            -2.516,
+            50.947
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Startpunkt am Wahrzeichen der Stadt.",
+            "hu": "Kiindulópont a város jelképénél.",
+            "ro": "Punct de plecare la simbolul orașului.",
+            "en": "Starting point at the town's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Sherborne Lake Loop",
+            "hu": "Sherborne-i tó körút",
+            "ro": "Bucla Lacului Sherborne",
+            "en": "Sherborne Lake Loop"
+          },
+          "coords": [
+            -2.5,
+            50.94
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Uferwege des Schlossteichs.",
+            "hu": "Kerekezz a kastélytó partján.",
+            "ro": "Pedalați de-a lungul malului lacului castelului.",
+            "en": "Cycle along the shores of the castle lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandford Orcas (Kirándulás)",
+            "hu": "Sandford Orcas (Kirándulás)",
+            "ro": "Sandford Orcas (Excursie)",
+            "en": "Sandford Orcas (Excursion)"
+          },
+          "coords": [
+            -2.528,
+            50.985
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein prächtiges elisabethanisches Herrenhaus.",
+            "hu": "Pompás Erzsébet-kori udvarház.",
+            "ro": "Un conac elisabetan magnific.",
+            "en": "A magnificent Elizabethan manor house."
+          }
+        },
+        {
+          "name": {
+            "de": "The Half Moon Inn (Mittagessen)",
+            "hu": "The Half Moon Inn (Ebéd)",
+            "ro": "The Half Moon Inn (Prânz)",
+            "en": "The Half Moon Inn (Lunch)"
+          },
+          "coords": [
+            -2.51,
+            50.948
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem klassischen Gasthof.",
+            "hu": "Egyél egy klasszikus fogadóban.",
+            "ro": "Reîncărcați-vă la un han clasic.",
+            "en": "Refuel in a classic inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Sherborne Castle Grounds",
+            "hu": "Sherborne kastélypark",
+            "ro": "Domeniul Castelului Sherborne",
+            "en": "Sherborne Castle Grounds"
+          },
+          "coords": [
+            -2.506,
+            50.944
+          ],
+          "category": "park",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch die Parklandschaft.",
+            "hu": "Élvezd az utazást a parkon keresztül.",
+            "ro": "Bucurați-vă de plimbarea prin parc.",
+            "en": "Enjoy the ride through the parkland."
+          }
+        },
+        {
+          "name": {
+            "de": "Cheap Street Farewell",
+            "hu": "Cheap Street búcsú",
+            "ro": "Final pe Cheap Street",
+            "en": "Cheap Street Farewell"
+          },
+          "coords": [
+            -2.515,
+            50.948
+          ],
+          "category": "gastro",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein letzter Stopp für einen Kaffee im Zentrum.",
+            "hu": "Utolsó megálló egy kávéra a központban.",
+            "ro": "O ultimă oprire pentru o cafea în centru.",
+            "en": "A last stop for a coffee in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am belebten Abbey Square. Von hier aus radeln Sie direkt in die grüne Umgebung des Sherborne Lake, wo die flachen Wege am Wasser ideal zum Einrollen sind.\n\nZur Mittagszeit führt Sie die Route nach Norden zum Sandford Orcas. Das elisabethanische Herrenhaus ist ein verstecktes Juwel in der Hügellandschaft von Dorset. Nach der Besichtigung radeln Sie zurück in Richtung Stadt und kehren im Half Moon Inn für ein stärkendes Mittagessen ein.\n\nDer Nachmittag führt Sie durch die weitläufigen Parkanlagen des Sherborne Castle. Das Radfahren in dieser von Capability Brown gestalteten Landschaft bietet immer neue Perspektiven auf das Schloss und die Seen.\n\nDer Tag endet in der Cheap Street. Hier können Sie die Räder sicher abstellen und den Tag bei einem entspannten Besuch in einem der charmanten Cafés der historischen Altstadt Revue passieren lassen.",
+        "hu": "Biciklitúrád a nyüzsgő Abbey Square-en indul. Innen egyenesen a Sherborne-tó zöld környezetébe kerekezel, ahol a vízparti sík utak ideálisak a bemelegítéshez.\n\nEbédidőben az útvonal északra, Sandford Orcas felé vezet. Az Erzsébet-kori udvarház Dorset dombjai között rejtőző gyöngyszem. A látogatás után visszatekersz a város felé, és a Half Moon Innben fogyasztasz el egy tápláló ebédet.\n\nDélután a Sherborne-kastély kiterjedt parkjain haladsz keresztül. A Capability Brown által tervezett tájon való biciklizés mindig új perspektívákat kínál a kastélyra és a tavakra.\n\nA nap a Cheap Streeten ér véget. Itt biztonságban leteheted a bringát, és a történelmi óváros egyik bájos kávézójában pihenhetsz meg, miközben átgondolod a nap eseményeit.",
+        "ro": "Tura cu bicicleta începe în piața animată a abației. De aici pedalați direct în împrejurimile verzi ale lacului Sherborne, unde potecile plate de pe malul apei sunt ideale pentru încălzire.\n\nLa prânz, ruta vă poartă spre nord, către Sandford Orcas. Conacul elisabetan este o bijuterie ascunsă în dealurile din Dorset. După vizită, pedalați înapoi spre oraș și opriți la Half Moon Inn pentru un prânz consistent.\n\nDupă-amiaza vă poartă prin parcurile vaste ale Castelului Sherborne. Mersul cu bicicleta prin acest peisaj amenajat de Capability Brown oferă mereu noi perspective asupra castelului și lacurilor.\n\nZiua se încheie pe Cheap Street. Aici puteți lăsa bicicletele în siguranță și puteți trece în revistă ziua la o vizită relaxată într-una dintre cafenelele fermecătoare din centrul istoric.",
+        "en": "Your bike tour starts at the lively Abbey Square. From here you cycle directly into the green surroundings of Sherborne Lake, where the flat paths by the water are ideal for warming up.\n\nAt midday, the route takes you north to Sandford Orcas. The Elizabethan manor house is a hidden gem in the Dorset hills. After the visit, cycle back towards town and stop at the Half Moon Inn for a restorative lunch.\n\nThe afternoon takes you through the extensive parkland of Sherborne Castle. Cycling in this landscape designed by Capability Brown offers ever-new perspectives on the castle and the lakes.\n\nThe day ends in Cheap Street. Here you can park the bikes safely and review the day with a relaxed visit to one of the charming cafes in the historic old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Half Moon Inn",
+            "tip": "Gute Pub-Küche für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Half Moon Inn",
+            "tip": "Jó pub-konyha kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Half Moon Inn",
+            "tip": "Mâncare bună de pub pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Half Moon Inn",
+            "tip": "Good pub food for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lakeside Cycle Path",
+            "tip": "Ruhige Fahrt am Schlossteich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti kerékpárút",
+            "tip": "Csendes kerekezés a kastélytónál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul lacului",
+            "tip": "Plimbare liniștită la lacul castelului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Cycle Path",
+            "tip": "Quiet ride by the castle pond.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sherborne Market Square",
+            "tip": "Lokale Produkte für den Rucksack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sherborne piaci tér",
+            "tip": "Helyi termékek a hátizsákba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Sherborne",
+            "tip": "Produse locale pentru rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sherborne Market Square",
+            "tip": "Local products for your backpack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Hügel um Sandford Orcas sind moderat.",
+          "Achten Sie auf Fußgänger am Abbey Square.",
+          "Ein Helm ist für die Landstraßen empfohlen.",
+          "Prüfen Sie die Öffnungszeiten von Sandford Orcas."
+        ],
+        "hu": [
+          "A dombok Sandford Orcas körül mérsékeltek.",
+          "Figyelj a gyalogosokra az Abbey Square-en.",
+          "A vidéki utakon ajánlott a sisak használata.",
+          "Ellenőrizd Sandford Orcas nyitvatartását."
+        ],
+        "ro": [
+          "Dealurile din jurul Sandford Orcas sunt moderate.",
+          "Atenție la pietonii din piața abației.",
+          "Se recomandă casca pentru drumurile rurale.",
+          "Verificați programul la Sandford Orcas."
+        ],
+        "en": [
+          "Hills around Sandford Orcas are moderate.",
+          "Watch for pedestrians at Abbey Square.",
+          "A helmet is recommended for the country roads.",
+          "Check Sandford Orcas Manor opening hours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Town Center Cluster",
+            "hu": "Városközpont klaszter",
+            "ro": "Clusterul centrului orașului",
+            "en": "Town Center Cluster"
+          },
+          "coords": [
+            -2.516,
+            50.947
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Culverhayes Car Park für das Zentrum.",
+            "hu": "Parkolj a Culverhayes parkolóban a központhoz.",
+            "ro": "Parcați la Culverhayes Car Park pentru centru.",
+            "en": "Park at Culverhayes Car Park for the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sherborne Abbey Walk",
+            "hu": "Sherborne Abbey séta",
+            "ro": "Plimbare la Abația Sherborne",
+            "en": "Sherborne Abbey Walk"
+          },
+          "coords": [
+            -2.517,
+            50.946
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Parkplatz zur Abbey.",
+            "hu": "Rövid séta a parkolótól az apátságig.",
+            "ro": "O scurtă plimbare de la parcare la abație.",
+            "en": "A short walk from the car park to the Abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Cluster (Cluster 2)",
+            "hu": "Kastély klaszter (2. klaszter)",
+            "ro": "Clusterul castelelor (Cluster 2)",
+            "en": "Castle Cluster (Cluster 2)"
+          },
+          "coords": [
+            -2.502,
+            50.948
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplatz am Old Castle nutzen.",
+            "hu": "Használd a régi kastély parkolóját.",
+            "ro": "Folosiți parcarea de la Vechiul Castel.",
+            "en": "Use the car park at the Old Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "New Castle Garden Walk",
+            "hu": "Új kastélykert séta",
+            "ro": "Plimbare în grădina Noului Castel",
+            "en": "New Castle Garden Walk"
+          },
+          "coords": [
+            -2.506,
+            50.944
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Gärten zu Fuß vom Schloss aus.",
+            "hu": "Fedezd fel a kerteket gyalog a kastélytól.",
+            "ro": "Descoperiți grădinile pe jos de la castel.",
+            "en": "Discover the gardens on foot from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Minterne Gardens (Kirándulás)",
+            "hu": "Minterne kertek (Kirándulás)",
+            "ro": "Grădinile Minterne (Excursie)",
+            "en": "Minterne Gardens (Excursion)"
+          },
+          "coords": [
+            -2.478,
+            50.835
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein spektakulärer Waldgarten mit Rhododendren.",
+            "hu": "Látványos erdei kert rododendronokkal.",
+            "ro": "O grădină spectaculoasă cu rododendroni.",
+            "en": "A spectacular woodland garden with rhododendrons."
+          }
+        },
+        {
+          "name": {
+            "de": "Cerne Abbas Giant (Cluster 3)",
+            "hu": "Cerne Abbas Giant klaszter",
+            "ro": "Gigantul Cerne Abbas (Cluster 3)",
+            "en": "Cerne Abbas Giant (Cluster 3)"
+          },
+          "coords": [
+            -2.476,
+            50.812
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplatz am Aussichtspunkt nutzen.",
+            "hu": "Használd a kilátó parkolóját.",
+            "ro": "Folosiți parcarea de la punctul de vedere.",
+            "en": "Use the car park at the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Giant Viewpoint Walk",
+            "hu": "Óriás kilátó séta",
+            "ro": "Plimbare la Gigant",
+            "en": "Giant Viewpoint Walk"
+          },
+          "coords": [
+            -2.475,
+            50.813
+          ],
+          "category": "landmark",
+          "arrive_at": "16:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Aufstieg für den besten Blick auf den Riesen.",
+            "hu": "Rövid felmenetel a legjobb kilátáshoz az óriásra.",
+            "ro": "Scurtă urcare pentru cea mai bună vedere asupra gigantului.",
+            "en": "Short climb for the best view of the Giant."
+          }
+        },
+        {
+          "name": {
+            "de": "Sherborne Evening Gastro",
+            "hu": "Sherborne-i esti gasztro",
+            "ro": "Final gastronomic în Sherborne",
+            "en": "Sherborne Evening Gastro"
+          },
+          "coords": [
+            -2.516,
+            50.947
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 15.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum für den Tagesabschluss.",
+            "hu": "Visszatérés a központba a nap zárásaként.",
+            "ro": "Întoarcere în centru pentru finalul zilei.",
+            "en": "Return to the center for the day's conclusion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag mit dem Auto beginnt im Zentrum von Sherborne. Sie parken bequem in der Nähe der Abbey und erkunden das historische Herz der Stadt zu Fuß. Das Auto ist Ihr Ankerpunkt für den Vormittag.\n\nZur Mittagszeit fahren Sie zu den Schlössern am Stadtrand. Dank der Parkplätze direkt vor Ort können Sie sowohl das Old Castle als auch die Gärten des New Castle stressfrei besichtigen. Die Flexibilität des Autos erlaubt Ihnen danach eine Fahrt durch das malerische Hinterland von Dorset.\n\nEin Ausflug am Nachmittag führt Sie zu den Minterne Gardens und dem berühmten Cerne Abbas Giant. Diese ikonische Kalksteinfigur im Hügel ist ein absolutes Muss in der Region. Die Fahrt durch die sanften Täler von Dorset ist dabei ebenso reizvoll wie die Ziele selbst.\n\nDer Tag endet wieder in Sherborne. Die Rückfahrt bietet noch einmal weite Ausblicke über die Landschaft, bevor Sie den Abend bei einem feinen Abendessen in der Stadt ausklingen lassen.",
+        "hu": "Az autós nap Sherborne központjában indul. Kényelmesen leparkolsz az apátság közelében, és gyalog fedezed fel a város történelmi szívét. Az autó horgonyként szolgál a délelőtt folyamán.\n\nEbédidőben a város szélén található kastélyokhoz hajtasz. A helyszíni parkolóknak köszönhetően stresszmentesen látogathatod meg a régi kastélyt és az új kastély kertjeit is. Az autó adta rugalmasság lehetővé teszi, hogy utána Dorset festői hátországát is felfedezd.\n\nEgy délutáni kirándulás a Minterne Gardens-hez és a híres Cerne Abbas-i óriáshoz vezet. Ez az ikonikus mészkőfigura a domboldalban a környék kötelező látnivalója. A Dorset lankás völgyein átvezető út éppoly vonzó, mint maguk a célpontok.\n\nA nap ismét Sherborne-ban ér véget. A visszautazás még egyszer tágas kilátást nyújt a tájra, mielőtt az estét egy finom vacsorával zárnád a városban.",
+        "ro": "Ziua cu mașina începe în centrul orașului Sherborne. Parcați confortabil lângă abație și explorați pe jos inima istorică a orașului. Mașina este punctul vostru de ancorare pentru dimineață.\n\nLa prânz, mergeți la castelele de la marginea orașului. Datorită parcărilor de la fața locului, puteți vizita fără stres atât Vechiul Castel, cât și grădinile Noului Castel. Flexibilitatea mașinii vă permite apoi o călătorie prin zona rurală pitorească din Dorset.\n\nO excursie după-amiaza vă duce la Grădinile Minterne și la faimosul Gigant Cerne Abbas. Această figură iconică de calcar din deal este o vizită obligatorie în regiune. Drumul prin văile domoale ale Dorsetului este la fel de încântător ca și destinațiile în sine.\n\nZiua se încheie din nou în Sherborne. Întoarcerea oferă încă o dată vederi largi asupra peisajului, înainte de a încheia seara cu o cină fină în oraș.",
+        "en": "The car day starts in the center of Sherborne. You park conveniently near the Abbey and explore the historic heart of the town on foot. The car is your anchor point for the morning.\n\nAt midday, drive to the castles on the outskirts. Thanks to the on-site parking, you can visit both the Old Castle and the gardens of the New Castle stress-free. The flexibility of the car then allows you a drive through the picturesque Dorset hinterland.\n\nA late afternoon trip takes you to Minterne Gardens and the famous Cerne Abbas Giant. This iconic chalk figure in the hillside is an absolute must-see in the region. The drive through the gentle Dorset valleys is as attractive as the destinations themselves.\n\nThe day ends back in Sherborne. The return journey offers wide views over the landscape once more before you end the evening with a fine dinner in the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "New Castle Tea Room",
+            "tip": "Mittagessen mit Blick auf den Schlosspark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "New Castle Tea Room",
+            "tip": "Ebéd a kastélyparkra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "New Castle Tea Room",
+            "tip": "Prânz cu vedere la parcul castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "New Castle Tea Room",
+            "tip": "Lunch with a view of the castle park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Minterne Lake",
+            "tip": "Stille am Waldsee.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Minterne-tó",
+            "tip": "Csend az erdei tónál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Minterne",
+            "tip": "Liniște la lacul din pădure.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Minterne Lake",
+            "tip": "Quiet by the woodland lake.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sherborne Antique Market",
+            "tip": "Große Auswahl an Sammlerstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sherborne-i régiségpiac",
+            "tip": "Nagy választék gyűjtőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de antichități Sherborne",
+            "tip": "O selecție largă de obiecte de colecție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sherborne Antique Market",
+            "tip": "Large selection of collectibles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Parkplatz am Riesen ist klein, kommen Sie früh.",
+          "Die M13 nach Cerne Abbas ist landschaftlich reizvoll.",
+          "Planen Sie 20 Minuten für den Giant Viewpoint ein.",
+          "New Castle Parkplatz schließt pünktlich."
+        ],
+        "hu": [
+          "Az óriásnál lévő parkoló kicsi, érkezz korán.",
+          "Az M13-as út Cerne Abbas felé festői.",
+          "Szánj 20 percet az óriás kilátójára.",
+          "Az új kastély parkolója pontosan zár."
+        ],
+        "ro": [
+          "Parcarea de la gigant este mică, veniți devreme.",
+          "Drumul M13 spre Cerne Abbas este pitoresc.",
+          "Alocați 20 de minute pentru punctul de vedere al gigantului.",
+          "Parcarea Noului Castel se închide punctual."
+        ],
+        "en": [
+          "The car park at the Giant is small, arrive early.",
+          "The drive to Cerne Abbas is scenic.",
+          "Allow 20 minutes for the Giant Viewpoint.",
+          "New Castle car park closes promptly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sherborne Station (District A)",
+            "hu": "Sherborne vasútállomás (A negyed)",
+            "ro": "Gara Sherborne (District A)",
+            "en": "Sherborne Station (District A)"
+          },
+          "coords": [
+            -2.51,
+            50.945
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Direkte Verbindung aus London Waterloo.",
+            "hu": "Közvetlen kapcsolat a londoni Waterloo állomásról.",
+            "ro": "Legătură directă din Londra Waterloo.",
+            "en": "Direct connection from London Waterloo."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbey District Walk",
+            "hu": "Apátsági negyed séta",
+            "ro": "Plimbare în districtul Abației",
+            "en": "Abbey District Walk"
+          },
+          "coords": [
+            -2.516,
+            50.947
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Bahnhof zum Wahrzeichen.",
+            "hu": "Rövid séta az állomástól a jelképig.",
+            "ro": "O scurtă plimbare de la gară la simbolul orașului.",
+            "en": "Short walk from the station to the landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Cheap Street (District B)",
+            "hu": "Cheap Street (B negyed)",
+            "ro": "Cheap Street (District B)",
+            "en": "Cheap Street (District B)"
+          },
+          "coords": [
+            -2.515,
+            50.948
+          ],
+          "category": "shopping",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Spezialitäten.",
+            "hu": "Fedezd fel a helyi különlegességeket.",
+            "ro": "Descoperiți specialitățile locale.",
+            "en": "Discover local specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeovil Bus Link (District C)",
+            "hu": "Yeovil buszjárat (C negyed)",
+            "ro": "Legătura de autobuz Yeovil (District C)",
+            "en": "Yeovil Bus Link (District C)"
+          },
+          "coords": [
+            -2.633,
+            50.942
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kurze Busfahrt in die Nachbarstadt Yeovil.",
+            "hu": "Rövid buszút a szomszédos Yeovil városába.",
+            "ro": "O scurtă călătorie cu autobuzul până la Yeovil.",
+            "en": "Short bus ride to the neighboring town of Yeovil."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeovil Railway Museum Walk",
+            "hu": "Yeovil vasúti múzeum séta",
+            "ro": "Muzeul Căilor Ferate Yeovil",
+            "en": "Yeovil Railway Museum Walk"
+          },
+          "coords": [
+            -2.605,
+            50.925
+          ],
+          "category": "museum",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Für Eisenbahnliebhaber ein Muss.",
+            "hu": "A vasút szerelmeseinek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru iubitorii de căi ferate.",
+            "en": "A must-see for railway enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Sherborne Rail Farewell",
+            "hu": "Sherborne-i vasúti búcsú",
+            "ro": "Final la gara Sherborne",
+            "en": "Sherborne Rail Farewell"
+          },
+          "coords": [
+            -2.51,
+            50.945
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Rückkehr für die Heimreise.",
+            "hu": "Visszatérés a hazautazáshoz.",
+            "ro": "Întoarcere pentru drumul spre casă.",
+            "en": "Return for the journey home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt am Bahnhof Sherborne, einem charmanten viktorianischen Gebäude. Der erste Cluster (District A) umfasst die prächtige Abbey, die Sie bequem zu Fuß erreichen können.\n\nZur Mittagszeit erkunden Sie die Cheap Street (District B) und genießen ein lokales Mittagessen. Danach nutzen Sie den Bus nach Yeovil (District C), um die regionale Vielfalt der Region zu erleben. Die Fahrt durch die Landschaft von Dorset bietet einen guten Überblick über die Gegend.\n\nIn Yeovil besuchen Sie das Railway Museum, das die reiche Verkehrsgeschichte der Region dokumentiert. Der Spaziergang dorthin führt durch interessante Teile der Stadt, die einen Kontrast zum historischen Sherborne bilden.\n\nDer Tag endet wieder am Bahnhof von Sherborne. In der Nähe finden Sie gemütliche Orte für einen letzten Tee oder Kaffee, bevor Sie den Zug für die Rückreise besteigen und die Eindrücke des Tages Revue passieren lassen.",
+        "hu": "Utazásod a Sherborne vasútállomáson indul, egy bájos viktoriánus épületben. Az első látnivalócsoport (A negyed) a pompás apátságot foglalja magában, amit könnyen elérhetsz gyalog.\n\nEbédidőben a Cheap Streetet (B negyed) fedezed fel és élvezed a helyi ebédet. Ezután a Yeovilba tartó buszt (C negyed) választod, hogy megismerd a régió sokszínűségét. A Dorset tájain átvezető út jó áttekintést nyújt a környékről.\n\nYeovilban a vasúti múzeumot látogatod meg, amely a régió gazdag közlekedési történelmét mutatja be. A séta odáig a város érdekes részein vezet keresztül, ami kontrasztot alkot a történelmi Sherborne-nal.\n\nA nap ismét a sherborne-i állomáson ér véget. A közelben hangulatos helyeket találsz egy utolsó teára vagy kávéra, mielőtt felszállnál a vonatra a hazautazáshoz.",
+        "ro": "Călătoria începe la gara Sherborne, o clădire victoriană fermecătoare. Primul cluster (District A) include abația magnifică, la care puteți ajunge ușor pe jos.\n\nLa prânz, explorați Cheap Street (District B) și savurați un prânz local. Apoi folosiți autobuzul spre Yeovil (District C) pentru a experimenta diversitatea regională. Călătoria prin peisajul din Dorset oferă o imagine de ansamblu bună asupra zonei.\n\nÎn Yeovil vizitați Muzeul Căilor Ferate, care documentează istoria bogată a transporturilor din regiune. Plimbarea până acolo trece prin părți interesante ale orașului, care formează un contrast cu istoricul Sherborne.\n\nZiua se încheie din nou la gara din Sherborne. În apropiere veți găsi locuri primitoare pentru un ultim ceai sau cafea înainte de a urca în trenul pentru drumul de întoarcere.",
+        "en": "Your journey begins at Sherborne Station, a charming Victorian building. The first cluster (District A) includes the magnificent Abbey, which you can easily reach on foot.\n\nAt midday, explore Cheap Street (District B) and enjoy a local lunch. Then use the bus to Yeovil (District C) to experience the regional diversity. The ride through the Dorset countryside offers a good overview of the area.\n\nIn Yeovil, you visit the Railway Museum, which documents the region's rich transport history. The walk there takes you through interesting parts of the town, forming a contrast to historic Sherborne.\n\nThe day ends back at Sherborne Station. Nearby you will find cozy places for a last tea or coffee before boarding the train for the journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Yeovil Station Buffet",
+            "tip": "Nostalgischer Stopp für Reisende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Yeovil Station Buffet",
+            "tip": "Nosztalgikus megálló az utazóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bufetul Gării Yeovil",
+            "tip": "Oprire nostalgică pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Yeovil Station Buffet",
+            "tip": "Nostalgic stop for travelers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbey Quiet Garden",
+            "tip": "Besinnung vor der Weiterreise.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abbey csendes kert",
+            "tip": "Elmélkedés a továbbutazás előtt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina liniștită a Abației",
+            "tip": "Reflecție înainte de continuarea călătoriei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Quiet Garden",
+            "tip": "Contemplation before the onward journey.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Station Books & News",
+            "tip": "Lesestoff für die Zugfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Station Books & News",
+            "tip": "Olvasnivaló a vonatúthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Station Books & News",
+            "tip": "Lectură pentru călătoria cu trenul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Books & News",
+            "tip": "Reading material for the train ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Züge verkehren stündlich nach London.",
+          "Die Buslinie X10 verbindet Sherborne und Yeovil.",
+          "Achten Sie auf die Gleisansagen.",
+          "Das Bahnmuseum hat begrenzte Tage."
+        ],
+        "hu": [
+          "A vonatok óránként járnak Londonba.",
+          "Az X10-es buszjárat köti össze Sherborne-t és Yeovilt.",
+          "Figyelj a peronbejelentésekre.",
+          "A vasúti múzeum korlátozott napokon van nyitva."
+        ],
+        "ro": [
+          "Trenurile circulă la fiecare oră spre Londra.",
+          "Linia de autobuz X10 face legătura între Sherborne și Yeovil.",
+          "Atenție la anunțurile de pe peron.",
+          "Muzeul căilor ferate are zile limitate de funcționare."
+        ],
+        "en": [
+          "Trains run hourly to London.",
+          "The X10 bus connects Sherborne and Yeovil.",
+          "Listen for platform announcements.",
+          "The railway museum has limited opening days."
+        ]
+      }
+    }
+  }
+}

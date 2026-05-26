@@ -1,0 +1,1311 @@
+{
+  "city_id": "adria-nova",
+  "anchor": {
+    "name": "Adria Nova Center",
+    "coords": [
+      43.51,
+      16.44
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pazar Grüner Markt",
+            "hu": "Pazar zöldpiac",
+            "ro": "Piața Verde Pazar",
+            "en": "Pazar Green Market"
+          },
+          "coords": [
+            43.509,
+            16.444
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Käse und Prosciutto.",
+            "hu": "Kóstolja meg a helyi sajtot és sonkát.",
+            "ro": "Încercați brânza locală și prosciutto.",
+            "en": "Try the local cheese and prosciutto."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Republik",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Republic Square"
+          },
+          "coords": [
+            43.508,
+            16.439
+          ],
+          "category": "square",
+          "arrive_at": "10:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Kaffee am Morgen.",
+            "hu": "Tökéletes hely egy reggeli kávéhoz.",
+            "ro": "Locul perfect pentru o cafea de dimineață.",
+            "en": "Perfect spot for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des Heiligen Marius",
+            "hu": "Szent Marius-székesegyház",
+            "ro": "Catedrala Sfântul Marius",
+            "en": "Cathedral of Saint Marius"
+          },
+          "coords": [
+            43.507,
+            16.438
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Glockenturm für eine großartige Aussicht.",
+            "hu": "Másszon fel a harangtoronyba a nagyszerű kilátásért.",
+            "ro": "Urcați în clopotniță pentru o priveliște minunată.",
+            "en": "Climb the bell tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Diokletians Sommerpalast",
+            "hu": "Diocletianus nyári palotája",
+            "ro": "Palatul de vară al lui Dioclețian",
+            "en": "Diocletian's Summer Palace"
+          },
+          "coords": [
+            43.508,
+            16.441
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die alten Keller.",
+            "hu": "Ne hagyja ki az ősi pincéket.",
+            "ro": "Nu ratați pivnițele antice.",
+            "en": "Don't miss the ancient cellars."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen an der Riva-Promenade",
+            "hu": "Ebéd a Riva sétányon",
+            "ro": "Prânz pe promenada Riva",
+            "en": "Lunch at Riva Promenade"
+          },
+          "coords": [
+            43.507,
+            16.437
+          ],
+          "category": "gastro",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf das Meer.",
+            "hu": "Válasszon egy tengerre néző éttermet.",
+            "ro": "Alegeți un restaurant cu vedere la mare.",
+            "en": "Pick a restaurant with a sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Bačvice Strand",
+            "hu": "Bačvice strand",
+            "ro": "Plaja Bačvice",
+            "en": "Bačvice Beach"
+          },
+          "coords": [
+            43.503,
+            16.449
+          ],
+          "category": "beach",
+          "arrive_at": "15:07",
+          "stay_min": 180,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Sandstrand, ideal für Familien.",
+            "hu": "Homokos strand, ideális családoknak.",
+            "ro": "O plajă cu nisip, ideală pentru familii.",
+            "en": "A sandy beach perfect for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt zum Sonnenuntergang",
+            "hu": "Naplemente kilátópont",
+            "ro": "Punct de belvedere la apus",
+            "en": "Sunset Viewpoint"
+          },
+          "coords": [
+            43.505,
+            16.432
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der beste Ort, um den Tag ausklingen zu lassen.",
+            "hu": "A legjobb hely a nap befejezéséhez.",
+            "ro": "Cel mai bun loc pentru a încheia ziua.",
+            "en": "The best place to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Pazar-Markt. Tauchen Sie mittags in die Geschichte des Diokletianpalastes und der Kathedrale ein. Entspannen Sie sich am Nachmittag am berühmten Sandstrand Bačvice. Beenden Sie den Tag mit einem atemberaubenden Sonnenuntergang von einem Panorama-Aussichtspunkt über der Stadt.",
+        "hu": "Kezdje a napot a nyüzsgő Pazar piacon. Délben merüljön el a Diocletianus-palota és a katedrális történelmében. Délután pihenjen a híres homokos Bačvice strandon. Zárja a napot egy lélegzetelállító naplementével a város feletti panorámakilátóból.",
+        "ro": "Începeți ziua în vibranta piață Pazar. La prânz, cufundați-vă în istoria Palatului lui Dioclețian și a catedralei. Relaxați-vă după-amiaza pe celebra plajă cu nisip Bačvice. Încheiați ziua cu un apus de soare uluitor de la un punct de belvedere panoramic asupra orașului.",
+        "en": "Start your day at the vibrant Pazar market. At noon, immerse yourself in the history of Diocletian's Palace and the cathedral. Relax in the afternoon on the famous sandy Bačvice beach. End the day with a breathtaking sunset from a panoramic viewpoint above the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Risotto",
+            "tip": "Ein dalmatinisches Grundnahrungsmittel, probieren Sie es in der Konoba Varoš."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frisch aus der Adria, am besten an der Riva."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete rizottó",
+            "tip": "Dalmát alapétel, próbálja ki a Konoba Varošban."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen az Adriai-tengerből, a legjobb a Riván."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto negru",
+            "tip": "Un preparat de bază dalmat, încercați-l la Konoba Varoš."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt din Marea Adriatică, cel mai bun pe Riva."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Risotto",
+            "tip": "A Dalmatian staple, try it at Konoba Varoš."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Fresh from the Adriatic, best enjoyed on the Riva."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marjan Hügel",
+            "tip": "Wandern Sie durch die Pinienwälder für Ruhe und Frieden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sustipan Park",
+            "tip": "Ein ruhiger Park auf einer Klippe mit Blick auf das Meer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marjan-hegy",
+            "tip": "Sétáljon a fenyőerdőkben a csendért és nyugalomért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sustipan park",
+            "tip": "Csendes park egy sziklán, kilátással a tengerre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Marjan",
+            "tip": "Plimbați-vă prin pădurile de pini pentru pace și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Sustipan",
+            "tip": "Un parc liniștit pe o stâncă cu vedere la mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marjan Hill",
+            "tip": "Hike through the pine forests for peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sustipan Park",
+            "tip": "A quiet cliffside park overlooking the sea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pazar Markt",
+            "tip": "Bester Ort für frische Produkte und lokale Köstlichkeiten."
+          },
+          {
+            "name": "Altstadtgeschäfte",
+            "tip": "Finden Sie handgefertigten Schmuck und Lavendelprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pazar piac",
+            "tip": "A legjobb hely friss termékekért és helyi finomságokért."
+          },
+          {
+            "name": "Óvárosi üzletek",
+            "tip": "Találjon kézzel készített ékszereket és levendulatermékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Pazar",
+            "tip": "Cel mai bun loc pentru produse proaspete și delicatese locale."
+          },
+          {
+            "name": "Magazinele din orașul vechi",
+            "tip": "Găsiți bijuterii artizanale și produse din lavandă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pazar Market",
+            "tip": "Best place for fresh produce and local delicacies."
+          },
+          {
+            "name": "Old Town Shops",
+            "tip": "Find handmade jewelry and lavender products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die alten Straßen rutschig sein können.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Die meisten Orte im Zentrum akzeptieren Karten, aber Bargeld ist auf dem Markt nützlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a régi utcák csúszósak lehetnek.",
+          "Hozzon magával sok vizet, különösen nyáron.",
+          "A legtöbb belvárosi helyen elfogadják a kártyát, de a piacon hasznos a készpénz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece străzile vechi pot fi alunecoase.",
+          "Luați multă apă cu voi, mai ales vara.",
+          "Majoritatea locurilor din centru acceptă carduri, dar numerarul este util la piață."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old streets can be slippery.",
+          "Bring plenty of water, especially in the summer.",
+          "Most places in the center accept cards, but cash is useful at the market."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt entlang der Riva-Promenade",
+            "hu": "Kerékpározás a Riva sétányon",
+            "ro": "Plimbare cu bicicleta pe promenada Riva",
+            "en": "Ride along Riva Promenade"
+          },
+          "coords": [
+            43.507,
+            16.437
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Hafens.",
+            "hu": "Béreljen kerékpárt a kikötő közelében.",
+            "ro": "Închiriați o bicicletă lângă port.",
+            "en": "Rent a bike near the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Bačvice Strand",
+            "hu": "Bačvice strand",
+            "ro": "Plaja Bačvice",
+            "en": "Bačvice Beach"
+          },
+          "coords": [
+            43.503,
+            16.449
+          ],
+          "category": "beach",
+          "arrive_at": "09:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie ein kurzes Bad.",
+            "hu": "Zárja le a kerékpárját, és ússzon egyet.",
+            "ro": "Încuiați-vă bicicleta și bucurați-vă de o baie rapidă.",
+            "en": "Lock your bike and enjoy a quick swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Marjan Hügel Aussichtspunkt",
+            "hu": "Marjan-hegyi kilátó",
+            "ro": "Punct de belvedere Dealul Marjan",
+            "en": "Marjan Hill Viewpoint"
+          },
+          "coords": [
+            43.512,
+            16.425
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist es wert für die Panoramaaussicht.",
+            "hu": "A panorámás kilátásért megéri a mászást.",
+            "ro": "Urcușul merită pentru priveliștea panoramică.",
+            "en": "The climb is worth it for the panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Varoš",
+            "hu": "Ebéd Varošban",
+            "ro": "Prânz în Varoš",
+            "en": "Lunch in Varoš"
+          },
+          "coords": [
+            43.51,
+            16.434
+          ],
+          "category": "gastro",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Probieren Sie eine traditionelle Konoba in diesem alten Viertel.",
+            "hu": "Próbáljon ki egy hagyományos konobát ebben a régi negyedben.",
+            "ro": "Încercați o konoba tradițională în acest cartier vechi.",
+            "en": "Try a traditional konoba in this old quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkundung des Diokletianpalastes",
+            "hu": "A Diocletianus-palota felfedezése",
+            "ro": "Explorarea Palatului lui Dioclețian",
+            "en": "Exploring Diocletian's Palace"
+          },
+          "coords": [
+            43.508,
+            16.441
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie den Komplex zu Fuß.",
+            "hu": "Parkolja le a kerékpárt a közelben, és fedezze fel a komplexumot gyalog.",
+            "ro": "Parcați-vă bicicleta în apropiere și explorați complexul pe jos.",
+            "en": "Park your bike nearby and explore the complex on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Marjan Sonnenuntergang",
+            "hu": "Punta Marjan naplemente",
+            "ro": "Apus de soare la Punta Marjan",
+            "en": "Punta Marjan Sunset"
+          },
+          "coords": [
+            43.515,
+            16.419
+          ],
+          "category": "sunset",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Sonnenuntergang über dem Meer zu beobachten.",
+            "hu": "Csendes hely a tenger feletti naplemente megtekintésére.",
+            "ro": "Un loc liniștit pentru a privi apusul peste mare.",
+            "en": "A quiet spot to watch the sunset over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit einer Radtour entlang der belebten Riva-Promenade. Fahren Sie mittags zum Marjan-Hügel für spektakuläre Ausblicke. Erkunden Sie am Nachmittag das Herz der Altstadt und den Diokletianpalast. Beenden Sie Ihren Tag mit einer ruhigen Fahrt zu einem abgelegenen Punkt, um den Sonnenuntergang zu beobachten.",
+        "hu": "Kezdje a napot egy kerékpártúrával a nyüzsgő Riva sétányon. Délben tekerjen fel a Marjan-hegyre a látványos kilátásért. Délután fedezze fel az óváros szívét és a Diocletianus-palotát. Zárja a napot egy csendes tekeréssel egy eldugott ponthoz, ahol megnézheti a naplementét.",
+        "ro": "Începeți cu o plimbare cu bicicleta de-a lungul promenadei aglomerate Riva. La prânz, mergeți cu bicicleta până la Dealul Marjan pentru priveliști spectaculoase. După-amiaza, explorați inima orașului vechi și Palatul lui Dioclețian. Încheiați-vă ziua cu o plimbare liniștită până la un punct retras pentru a privi apusul.",
+        "en": "Start with a bike ride along the bustling Riva promenade. At noon, cycle up to Marjan Hill for spectacular views. In the afternoon, explore the heart of the old town and Diocletian's Palace. End your day with a peaceful ride to a secluded spot to watch the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peka",
+            "tip": "Ein langsam gegartes Gericht mit Fleisch oder Meeresfrüchten, das man im Voraus bestellen sollte."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "Ein herzhafter Mangoldkuchen, perfekt als schneller Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peka",
+            "tip": "Lassan sült étel hússal vagy tenger gyümölcseivel, érdemes előre megrendelni."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "Sós mángoldos pite, tökéletes gyors harapnivalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peka",
+            "tip": "Un fel de mâncare gătit lent cu carne sau fructe de mare, cel mai bine comandat în avans."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "O plăcintă sărată cu mangold, perfectă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peka",
+            "tip": "A slow-cooked dish of meat or seafood, best to order in advance."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "A savory swiss chard pie, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bene Strand",
+            "tip": "Ein felsiger Strand im Marjan Park, der mit dem Fahrrad erreichbar ist.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Nicholas Kirche",
+            "tip": "Eine kleine, einsame Kirche auf dem Marjan-Hügel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bene strand",
+            "tip": "Sziklás strand a Marjan parkban, kerékpárral elérhető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós templom",
+            "tip": "Kicsi, magányos templom a Marjan-hegyen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Bene",
+            "tip": "O plajă stâncoasă în Parcul Marjan, accesibilă cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sf. Nicolae",
+            "tip": "O biserică mică și izolată pe Dealul Marjan.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bene Beach",
+            "tip": "A rocky beach within Marjan Park, reachable by bike.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Nicholas Church",
+            "tip": "A small, solitary church on Marjan Hill.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Erleben Sie das lokale Leben und sehen Sie den Fang des Tages."
+          },
+          {
+            "name": "Nadalina Chocolate",
+            "tip": "Lokale Schokoladenmanufaktur mit einzigartigen Geschmacksrichtungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Tapasztalja meg a helyi életet és nézze meg a napi fogást."
+          },
+          {
+            "name": "Nadalina csokoládé",
+            "tip": "Helyi csokoládémanufaktúra egyedi ízekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Experimentați viața locală și vedeți captura zilei."
+          },
+          {
+            "name": "Ciocolata Nadalina",
+            "tip": "Fabrică locală de ciocolată cu arome unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Experience the local life and see the catch of the day."
+          },
+          {
+            "name": "Nadalina Chocolate",
+            "tip": "Local chocolate maker with unique flavors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Küstenwege sind fahrradfreundlich.",
+          "Der Marjan-Hügel hat einige steile Anstiege, seien Sie also vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer an, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Sok tengerparti ösvény kerékpárbarát.",
+          "A Marjan-hegyen vannak meredek emelkedők, ezért készüljön fel.",
+          "Mindig zárja le a kerékpárját, még rövid megállókra is."
+        ],
+        "ro": [
+          "Multe poteci de coastă sunt prietenoase cu bicicletele.",
+          "Dealul Marjan are câteva urcări abrupte, așa că fiți pregătiți.",
+          "Încuiați-vă întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Many coastal paths are bike-friendly.",
+          "Marjan Hill has some steep climbs, so be prepared.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 20.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Marjan Hügel Parkplatz",
+            "hu": "Érkezés a Marjan-hegyi parkolóba",
+            "ro": "Sosire în parcarea de pe Dealul Marjan",
+            "en": "Arrival at Marjan Hill Parking"
+          },
+          "coords": [
+            43.513,
+            16.428
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu erkunden.",
+            "hu": "Parkoljon itt az első klaszter felfedezéséhez.",
+            "ro": "Parcați aici pentru a explora primul cluster.",
+            "en": "Park here to explore the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Marjan Aussichtspunkt",
+            "hu": "Séta a Marjan kilátóhoz",
+            "ro": "Plimbare până la punctul de belvedere Marjan",
+            "en": "Walk to Marjan Viewpoint"
+          },
+          "coords": [
+            43.512,
+            16.425
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang für atemberaubende Stadtansichten.",
+            "hu": "Rövid séta a lélegzetelállító városi kilátásért.",
+            "ro": "O scurtă plimbare pentru priveliști uimitoare ale orașului.",
+            "en": "A short walk for stunning city views."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Parkplatz der Altstadt",
+            "hu": "Utazás az óvárosi parkolóba",
+            "ro": "Călătorie spre parcarea din Orașul Vechi",
+            "en": "Drive to Old Town Parking"
+          },
+          "coords": [
+            43.506,
+            16.443
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken und zu Fuß zum Diokletianpalast.",
+            "hu": "Parkoljon és sétáljon a Diocletianus-palotához.",
+            "ro": "Parcați și mergeți pe jos la Palatul lui Dioclețian.",
+            "en": "Park and walk to Diocletian's Palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des Heiligen Marius",
+            "hu": "Szent Marius-székesegyház",
+            "ro": "Catedrala Sfântul Marius",
+            "en": "Cathedral of Saint Marius"
+          },
+          "coords": [
+            43.507,
+            16.438
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des Palastes.",
+            "hu": "A palota szíve.",
+            "ro": "Inima palatului.",
+            "en": "The heart of the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            43.509,
+            16.44
+          ],
+          "category": "gastro",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants in den alten Mauern.",
+            "hu": "Számos étterem a régi falakon belül.",
+            "ro": "Multe restaurante între zidurile vechi.",
+            "en": "Plenty of restaurants within the ancient walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Strand von Kašjuni",
+            "hu": "Utazás a Kašjuni strandra",
+            "ro": "Călătorie spre plaja Kašjuni",
+            "en": "Drive to Kašjuni Beach"
+          },
+          "coords": [
+            43.507,
+            16.402
+          ],
+          "category": "beach",
+          "arrive_at": "15:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein schöner Kiesstrand mit einer trendigen Bar.",
+            "hu": "Gyönyörű kavicsos strand egy divatos bárral.",
+            "ro": "O plajă frumoasă cu pietriș și un bar la modă.",
+            "en": "A beautiful pebble beach with a trendy bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Auto",
+            "hu": "Visszatérés az autóhoz",
+            "ro": "Întoarcere la mașină",
+            "en": "Return to the car"
+          },
+          "coords": [
+            43.507,
+            16.402
+          ],
+          "category": "sunset",
+          "arrive_at": "18:05",
+          "stay_min": 62,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die letzten Momente des Tages am Meer.",
+            "hu": "Élvezze a nap utolsó pillanatait a tengernél.",
+            "ro": "Bucurați-vă de ultimele momente ale zilei la mare.",
+            "en": "Enjoy the day's last moments by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Panoramaaussicht vom Marjan-Hügel. Fahren Sie mittags ins Zentrum, um den historischen Diokletianpalast zu erkunden. Verbringen Sie einen entspannten Nachmittag an einem der schönsten Strände der Gegend, der nur eine kurze Autofahrt entfernt ist. Beenden Sie den Tag, indem Sie die Küstenatmosphäre genießen, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Kezdje a napot panorámás kilátással a Marjan-hegyről. Délben autózzon a központba, hogy felfedezze a történelmi Diocletianus-palotát. Töltsön egy pihentető délutánt a környék egyik legszebb strandján, egy rövid autóútra. Zárja a napot a tengerparti hangulat élvezetével, mielőtt visszatér az autójához.",
+        "ro": "Începeți ziua cu vederi panoramice de pe Dealul Marjan. La prânz, conduceți spre centru pentru a explora Palatul istoric al lui Dioclețian. Petreceți o după-amiază relaxantă la una dintre cele mai frumoase plaje din zonă, la o scurtă călătorie cu mașina. Încheiați ziua bucurându-vă de atmosfera de coastă înainte de a vă întoarce la mașină.",
+        "en": "Start your day with panoramic views from Marjan Hill. At noon, drive to the center to explore the historic Diocletian's Palace. Spend a relaxing afternoon at one of the area's most beautiful beaches, a short drive away. End the day soaking up the coastal atmosphere before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm vom Spieß",
+            "tip": "Eine Spezialität, die man oft in Restaurants außerhalb des Stadtzentrums findet."
+          },
+          {
+            "name": "Oktopussalat",
+            "tip": "Eine erfrischende Vorspeise, perfekt für einen heißen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "Különlegesség, amelyet gyakran a városközponton kívüli éttermekben találni."
+          },
+          {
+            "name": "Polipsaláta",
+            "tip": "Frissítő előétel, tökéletes egy forró napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "O specialitate găsită adesea la restaurantele din afara centrului orașului."
+          },
+          {
+            "name": "Salată de caracatiță",
+            "tip": "Un aperitiv răcoritor, perfect pentru o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb on the spit",
+            "tip": "A specialty often found at restaurants outside the city center."
+          },
+          {
+            "name": "Octopus Salad",
+            "tip": "A refreshing appetizer perfect for a hot day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alte Mühlen am Fluss Žrnovnica",
+            "tip": "Eine kurze Autofahrt ins Grüne für eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Festung Klis",
+            "tip": "Historische Festung mit atemberaubender Aussicht, am besten mit dem Auto erreichbar.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi malmok a Žrnovnica folyón",
+            "tip": "Rövid autóút a zöldbe egy békés szünetért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klis erőd",
+            "tip": "Történelmi erőd lélegzetelállító kilátással, autóval a legjobb megközelíteni.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Morile vechi de pe râul Žrnovnica",
+            "tip": "O scurtă călătorie cu mașina în natură pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortăreața Klis",
+            "tip": "Fortăreață istorică cu priveliști uimitoare, cel mai bine accesibilă cu mașina.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old mills on the Žrnovnica river",
+            "tip": "A short drive into the green for a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klis Fortress",
+            "tip": "Historic fortress with breathtaking views, best reached by car.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum City Center one",
+            "tip": "Für internationales Markenshopping außerhalb des Zentrums."
+          },
+          {
+            "name": "Weingüter",
+            "tip": "Besuchen Sie lokale Weingüter im Umland, um dalmatinischen Wein zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City Center one bevásárlóközpont",
+            "tip": "Nemzetközi márkák vásárlásához a központon kívül."
+          },
+          {
+            "name": "Borászatok",
+            "tip": "Látogasson el a környező helyi borászatokba dalmát bor vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mall City Center one",
+            "tip": "Pentru cumpărături de mărci internaționale în afara centrului."
+          },
+          {
+            "name": "Crame",
+            "tip": "Vizitați cramele locale din împrejurimi pentru a cumpăra vin dalmat."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center one Mall",
+            "tip": "For international brand shopping outside the center."
+          },
+          {
+            "name": "Wineries",
+            "tip": "Visit local wineries in the countryside to buy Dalmatian wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann teuer und schwer zu finden sein.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten, um Verkehr zu vermeiden.",
+          "Verwenden Sie Park-Apps, um verfügbare Plätze zu finden und zu bezahlen."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága és nehezen található.",
+          "Tervezze az utazásokat a csúcsforgalmon kívülre a dugók elkerülése érdekében.",
+          "Használjon parkolóalkalmazásokat a rendelkezésre álló helyek megtalálásához és fizetéséhez."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă și greu de găsit.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita traficul.",
+          "Folosiți aplicații de parcare pentru a găsi și plăti locurile disponibile."
+        ],
+        "en": [
+          "Parking in the city center can be expensive and hard to find.",
+          "Plan your drives outside of peak hours to avoid traffic.",
+          "Use parking apps to find and pay for available spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Platz der Republik",
+            "hu": "Érkezés a Köztársaság térre",
+            "ro": "Sosire în Piața Republicii",
+            "en": "Arrival at Republic Square"
+          },
+          "coords": [
+            43.508,
+            16.439
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe.",
+            "hu": "A legtöbb buszjárat a közelben áll meg.",
+            "ro": "Majoritatea liniilor de autobuz opresc în apropiere.",
+            "en": "Most bus lines stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Diokletianpalast",
+            "hu": "Diocletianus-palota",
+            "ro": "Palatul lui Dioclețian",
+            "en": "Diocletian's Palace"
+          },
+          "coords": [
+            43.508,
+            16.441
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den alten Gassen.",
+            "hu": "Vesszen el az ősi sikátorokban.",
+            "ro": "Pierdeți-vă pe aleile antice.",
+            "en": "Get lost in the ancient alleyways."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            43.509,
+            16.44
+          ],
+          "category": "gastro",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie einen Tisch im Freien, um die Atmosphäre zu genießen.",
+            "hu": "Keressen egy szabadtéri asztalt, hogy élvezze a hangulatot.",
+            "ro": "Găsiți o masă în aer liber pentru a vă bucura de atmosferă.",
+            "en": "Find an outdoor table to enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Strand Bačvice",
+            "hu": "Buszozás a Bačvice strandra",
+            "ro": "Călătorie cu autobuzul spre plaja Bačvice",
+            "en": "Bus ride to Bačvice Beach"
+          },
+          "coords": [
+            43.503,
+            16.449
+          ],
+          "category": "beach",
+          "arrive_at": "13:17",
+          "stay_min": 180,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien fahren von der Markt-Haltestelle ab.",
+            "hu": "Több buszjárat indul a piaci megállóból.",
+            "ro": "Mai multe linii de autobuz pleacă din stația de la piață.",
+            "en": "Several bus lines depart from the market station."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Marjan-Hügel",
+            "hu": "Utazás a Marjan-hegyre",
+            "ro": "Călătorie spre Dealul Marjan",
+            "en": "Ride to Marjan Hill"
+          },
+          "coords": [
+            43.512,
+            16.425
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 12 für eine malerische Route.",
+            "hu": "Válassza a 12-es buszt a festői útvonalért.",
+            "ro": "Luați autobuzul 12 pentru un traseu pitoresc.",
+            "en": "Take bus 12 for a scenic route."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang die Promenade hinunter",
+            "hu": "Séta a sétányon",
+            "ro": "Plimbare pe promenadă",
+            "en": "Stroll down the promenade"
+          },
+          "coords": [
+            43.507,
+            16.437
+          ],
+          "category": "park",
+          "arrive_at": "17:02",
+          "stay_min": 58,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang zurück ins Zentrum.",
+            "hu": "Pihentető séta vissza a központba.",
+            "ro": "O plimbare relaxantă înapoi spre centru.",
+            "en": "A relaxing walk back towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt am Platz der Republik. Erkunden Sie zu Fuß den Palast und genießen Sie ein Mittagessen, bevor Sie den Bus zum beliebten Strand Bačvice nehmen. Am späten Nachmittag bringt Sie ein anderer Bus zum Marjan-Hügel für eine tolle Aussicht. Beenden Sie den Tag mit einem gemütlichen Spaziergang entlang der Riva zurück ins Zentrum.",
+        "hu": "Kezdje a napot a város szívében, a Köztársaság téren. Fedezze fel gyalog a palotát és ebédeljen, mielőtt buszra szállna a népszerű Bačvice strandra. Késő délután egy másik busz elviszi a Marjan-hegyre a nagyszerű kilátásért. Zárja a napot egy kellemes sétával a Riva mentén vissza a központba.",
+        "ro": "Începeți ziua în inima orașului, în Piața Republicii. Explorați palatul pe jos și bucurați-vă de prânz înainte de a lua autobuzul spre populara plajă Bačvice. Spre sfârșitul după-amiezii, un alt autobuz vă va duce pe Dealul Marjan pentru priveliști minunate. Încheiați ziua cu o plimbare agale de-a lungul Rivei înapoi spre centru.",
+        "en": "Start your day in the heart of the city at Republic Square. Explore the palace on foot and have lunch before taking a bus to the popular Bačvice beach. In the late afternoon, another bus will take you up Marjan Hill for great views. End your day with a leisurely stroll down the Riva back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen, ein Balkan-Klassiker, den man in der ganzen Stadt findet."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Suchen Sie nach Bars, die kroatische Craft-Biere ausschenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús tekercsek, egy balkáni klasszikus, amely az egész városban megtalálható."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Keressen bárokat, amelyek horvát kézműves söröket szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Rulouri de carne tocată la grătar, un clasic balcanic găsit în tot orașul."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Căutați baruri care servesc beri artizanale croate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls, a Balkan classic found all over the city."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Look for bars serving Croatian craft beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Archäologisches Museum",
+            "tip": "Ein ruhiger Ort, um der Mittagshitze zu entfliehen.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Friedhof Sustipan",
+            "tip": "Ein historischer Friedhof, der in einen ruhigen Park umgewandelt wurde.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régészeti Múzeum",
+            "tip": "Csendes hely a déli hőség elől való menekülésre.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Sustipan temető",
+            "tip": "Történelmi temető, amelyet csendes parkká alakítottak át.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzeul de Arheologie",
+            "tip": "Un loc liniștit pentru a scăpa de căldura de la amiază.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Cimitirul Sustipan",
+            "tip": "Un cimitir istoric transformat într-un parc liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Archaeological Museum",
+            "tip": "A quiet place to escape the midday heat.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Sustipan Cemetery",
+            "tip": "A historic cemetery turned into a peaceful park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grüner Markt (Pazar)",
+            "tip": "Kaufen Sie lokales Olivenöl und getrocknete Feigen."
+          },
+          {
+            "name": "Untergeschosse des Diokletianpalastes",
+            "tip": "Einzigartige Souvenirs im historischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zöldpiac (Pazar)",
+            "tip": "Vásároljon helyi olívaolajat és szárított fügét."
+          },
+          {
+            "name": "Diocletianus-palota alagsora",
+            "tip": "Egyedi szuvenírek történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Verde (Pazar)",
+            "tip": "Cumpărați ulei de măsline local și smochine uscate."
+          },
+          {
+            "name": "Subsolurile Palatului lui Dioclețian",
+            "tip": "Suveniruri unice într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Green Market (Pazar)",
+            "tip": "Buy local olive oil and dried figs."
+          },
+          {
+            "name": "Diocletian's Palace Basements",
+            "tip": "Unique souvenirs in a historic setting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Die Busfahrpläne finden Sie an den Haltestellen oder online.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A buszmenetrendek megtalálhatók a megállókban vagy online.",
+          "Érvényesítse a jegyét, amikor felszáll a buszra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Orarele autobuzelor pot fi găsite la stații sau online.",
+          "Validați-vă biletul la urcarea în autobuz."
+        ],
+        "en": [
+          "Buy a daily bus ticket for unlimited rides.",
+          "Bus schedules can be found at the stops or online.",
+          "Validate your ticket when you board the bus."
+        ]
+      }
+    }
+  }
+}

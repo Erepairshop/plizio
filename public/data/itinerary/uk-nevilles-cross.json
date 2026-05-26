@@ -1,0 +1,942 @@
+{
+  "city_id": "uk-nevilles-cross",
+  "anchor": {
+    "name": "Neville's Cross",
+    "coords": [
+      -1.595,
+      54.773
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Neville's Cross Monument",
+          "coords": [
+            -1.596,
+            54.773
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Hinweisschild, das die Schlacht von 1346 erklärt.",
+            "hu": "Keresd az 1346-os csata menetét magyarázó táblát a maradványoknál.",
+            "ro": "Căutați panoul explicativ despre bătălia din 1346 de lângă ruine.",
+            "en": "Look for the plaque explaining the 1346 battle near the ruins."
+          }
+        },
+        {
+          "name": "Durham University Botanic Garden",
+          "coords": [
+            -1.574,
+            54.761
+          ],
+          "category": "garden",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das Tropenhaus ist auch an kühleren Tagen ein echtes Highlight.",
+            "hu": "A trópusi ház hűvösebb napokon is kiváló menedék és látvány.",
+            "ro": "Sera tropicală este o atracție excelentă chiar și în zilele răcoroase.",
+            "en": "The tropical house is a highlight even on cooler days."
+          }
+        },
+        {
+          "name": "Prebends Bridge",
+          "coords": [
+            -1.579,
+            54.772
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der klassische Blick auf die Kathedrale, wie ihn Turner malte.",
+            "hu": "A klasszikus katedrális-kilátás, ahogy azt Turner is megfestette.",
+            "ro": "Perspectiva clasică asupra catedralei, pictată cândva de Turner.",
+            "en": "The classic view of the cathedral as painted by Turner."
+          }
+        },
+        {
+          "name": "The Old Elm Tree",
+          "coords": [
+            -1.583,
+            54.775
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Pub mit exzellentem traditionellen Sonntagsbraten.",
+            "hu": "Hangulatos pub kiváló hagyományos vasárnapi sültekkel.",
+            "ro": "Un pub primitor cu fripturi tradiționale de duminică excelente.",
+            "en": "Cozy pub with excellent traditional Sunday roasts."
+          }
+        },
+        {
+          "name": "Durham Cathedral",
+          "coords": [
+            -1.576,
+            54.773
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine fantastische Rundumsicht.",
+            "hu": "Mássz fel a toronyba a fantasztikus körpanorámáért.",
+            "ro": "Urcați în turn pentru o panoramă circulară superbă asupra orașului.",
+            "en": "Climb the tower for a fantastic 360-degree view of the city."
+          }
+        },
+        {
+          "name": "Durham Castle",
+          "coords": [
+            -1.576,
+            54.775
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Buchen Sie eine geführte Tour, um die normannische Kapelle zu sehen.",
+            "hu": "Foglalj vezetett túrát a normann kápolna megtekintéséhez.",
+            "ro": "Rezervați un tur ghidat pentru a vedea capela normandă.",
+            "en": "Book a guided tour to see the impressive Norman chapel."
+          }
+        },
+        {
+          "name": "Market Square",
+          "coords": [
+            -1.575,
+            54.777
+          ],
+          "category": "square",
+          "arrive_at": "17:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue von Lord Londonderry auf seinem Pferd.",
+            "hu": "Csodáld meg Lord Londonderry lovas szobrát a téren.",
+            "ro": "Admirați statuia ecvestră a lordului Londonderry din piață.",
+            "en": "Admire the statue of Lord Londonderry on his horse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an den historischen Ruinen von Neville's Cross, wo einst eine bedeutende Schlacht stattfand. Ein kurzer Spaziergang führt Sie zum Botanischen Garten, bevor Sie die malerische Prebends Bridge überqueren. Nach einem herzhaften Mittagessen in einem lokalen Pub widmen Sie den Nachmittag der beeindruckenden Kathedrale und dem Schloss von Durham. Beenden Sie den Tag auf dem lebhaften Marktplatz.",
+        "hu": "Kezdje a napot Neville's Cross történelmi romjainál, az egykori csatahelyszínen. Egy rövid séta elvezeti a Botanikus Kertbe, mielőtt átkelne a festői Prebends-hídon. Egy kiadós pub-ebéd után a délutánt a lenyűgöző durhami katedrálisnak és várnak szenteljük. A napot a nyüzsgő piactéren zárjuk, ahol átélhetjük a város igazi hangulatát.",
+        "ro": "Începeți ziua la ruinele istorice Neville's Cross, locul unei bătălii celebre. O scurtă plimbare vă duce la Grădina Botanică, înainte de a traversa pitorescul pod Prebends. După un prânz copios la un pub local, dedicați după-amiaza catedralei și castelului din Durham. Încheiați ziua în piața centrală, inima pulsândă a orașului.",
+        "en": "Start your day at the historic ruins of Neville's Cross, the site of a famous battle. A short walk leads you to the Botanic Garden before crossing the scenic Prebends Bridge. After a hearty pub lunch, spend the afternoon exploring Durham's magnificent cathedral and castle. End your day at the bustling Market Square to soak in the local atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Elm Tree",
+            "tip": "Traditioneller Pub mit britischen Klassikern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Elm Tree",
+            "tip": "Hagyományos brit pub klasszikus fogásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Elm Tree",
+            "tip": "Pub britanic tradițional cu preparate clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Elm Tree",
+            "tip": "Traditional British pub with classic dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prebends Bridge",
+            "tip": "Ruhiger Blick auf den Fluss Wear.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prebends Bridge",
+            "tip": "Csendes kilátás a Wear-folyóra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prebends Bridge",
+            "tip": "Vedere liniștită spre râul Wear.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prebends Bridge",
+            "tip": "Quiet view overlooking the River Wear.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Durham Indoor Market",
+            "tip": "Lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Durham Indoor Market",
+            "tip": "Helyi termékek és kézműves áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Durham Indoor Market",
+            "tip": "Produse locale și obiecte de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Durham Indoor Market",
+            "tip": "Local produce and artisanal crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die kopfsteingepflasterten Straßen.",
+          "Die Kathedrale ist kostenlos, Spenden sind willkommen.",
+          "Durham ist sehr hügelig, planen Sie Pausen ein."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a macskaköves utcákhoz.",
+          "A katedrális ingyenes, de az adományokat szívesen fogadják.",
+          "Durham dombos város, tervezz be pihenőket."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Intrarea în catedrală este gratuită, donațiile sunt apreciate.",
+          "Durham are multe pante, planificați pauze de odihnă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobbled streets.",
+          "The cathedral is free to enter, though donations are welcome.",
+          "Durham is quite hilly, so plan for rest stops."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Neville's Cross Monument",
+          "coords": [
+            -1.596,
+            54.773
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz am Straßenrand.",
+            "hu": "Biztonságos kerékpártároló az út mentén.",
+            "ro": "Loc sigur pentru parcat bicicleta la marginea drumului.",
+            "en": "Safe bike parking available by the roadside."
+          }
+        },
+        {
+          "name": "River Wear Path",
+          "coords": [
+            -1.577,
+            54.765
+          ],
+          "category": "park",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Radweg entlang des Flussufers.",
+            "hu": "Gyönyörű kerékpárút a folyópart mentén.",
+            "ro": "Pistă de biciclete superbă de-a lungul râului.",
+            "en": "Beautiful cycling path along the riverbanks."
+          }
+        },
+        {
+          "name": "Durham University Botanic Garden",
+          "coords": [
+            -1.574,
+            54.761
+          ],
+          "category": "garden",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad am Eingang des Gartens.",
+            "hu": "Parkold a bringát a kert bejáratánál.",
+            "ro": "Parcați bicicleta la intrarea în grădină.",
+            "en": "Park your bike at the garden entrance."
+          }
+        },
+        {
+          "name": "The Swan & Three Cygnets",
+          "coords": [
+            -1.574,
+            54.774
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Große Terrasse mit Blick auf die Elvet Bridge.",
+            "hu": "Hatalmas terasz kilátással az Elvet-hídra.",
+            "ro": "Terasă mare cu vedere spre podul Elvet.",
+            "en": "Large terrace with views of Elvet Bridge."
+          }
+        },
+        {
+          "name": "Palace Green",
+          "coords": [
+            -1.576,
+            54.774
+          ],
+          "category": "square",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der zentrale Platz zwischen Kathedrale und Schloss.",
+            "hu": "A központi tér a katedrális és a vár között.",
+            "ro": "Piața centrală dintre catedrală și castel.",
+            "en": "The central green between cathedral and castle."
+          }
+        },
+        {
+          "name": "Wharton Park",
+          "coords": [
+            -1.583,
+            54.781
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Stadt und das Viadukt.",
+            "hu": "A legjobb panoráma a városra és a viaduktra.",
+            "ro": "Cea mai bună vedere panoramică spre oraș și viaduct.",
+            "en": "Best panoramic view of the city and viaduct."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Durham auf zwei Rädern, beginnend am geschichtsträchtigen Neville's Cross. Radeln Sie entlang des malerischen River Wear Path bis zum Botanischen Garten. Nach einer Stärkung am Flussufer genießen Sie die Atmosphäre am Palace Green und beenden Ihre Tour mit einem spektakulären Blick vom Wharton Park über die gesamte Stadt.",
+        "hu": "Fedezze fel Durhamot két keréken, kezdve a történelmi Neville's Crossnál. Tekerjen a festői River Wear Path mentén a Botanikus Kertig. Egy vízparti pihenő után élvezze a Palace Green hangulatát, majd zárja a túrát a Wharton Parkból nyíló látványos panorámával, ahonnan az egész várost belátni.",
+        "ro": "Explorați Durham pe două roți, pornind de la istoricul Neville's Cross. Pedalati pe malul râului Wear până la Grădina Botanică. După un popas la malul apei, bucurați-vă de atmosfera de la Palace Green și încheiați turul cu o panoramă spectaculoasă din Wharton Park.",
+        "en": "Explore Durham on two wheels, starting at the historic Neville's Cross. Cycle along the scenic River Wear Path to the Botanic Garden. After a riverside break, soak in the atmosphere at Palace Green and conclude your tour with a spectacular view from Wharton Park overlooking the entire city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Swan & Three Cygnets",
+            "tip": "Beliebter Pub am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Swan & Three Cygnets",
+            "tip": "Népszerű pub a folyóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Swan & Three Cygnets",
+            "tip": "Pub popular pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Swan & Three Cygnets",
+            "tip": "Popular pub located by the riverside."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "River Wear Path",
+            "tip": "Friedliche Wege abseits des Verkehrs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "River Wear Path",
+            "tip": "Békés ösvények távol a forgalomtól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "River Wear Path",
+            "tip": "Poteci liniștite departe de trafic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Wear Path",
+            "tip": "Peaceful paths away from city traffic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bramwells Jewellers",
+            "tip": "Traditionelles lokales Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramwells Jewellers",
+            "tip": "Hagyományos helyi ékszerészek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bramwells Jewellers",
+            "tip": "Bijutieri locali tradiționali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramwells Jewellers",
+            "tip": "Traditional local family jewellers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Wege am Fluss können bei Nässe rutschig sein.",
+          "Nutzen Sie die Fahrradständer am Marktplatz.",
+          "Achtung: Das Stadtzentrum hat einige sehr steile Abschnitte."
+        ],
+        "hu": [
+          "A folyóparti utak nedves időben csúszósak lehetnek.",
+          "Használd a piactéri kerékpártárolókat.",
+          "Figyelem: a városközpontban nagyon meredek szakaszok vannak."
+        ],
+        "ro": [
+          "Potecile de lângă râu pot fi alunecoase când plouă.",
+          "Folosiți suporturile de biciclete din piață.",
+          "Atenție: centrul orașului are câteva pante foarte abrupte."
+        ],
+        "en": [
+          "Some riverside paths can be slippery when wet.",
+          "Use the bike racks located at the Market Square.",
+          "Caution: the city centre has some very steep sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 28.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Neville's Cross Monument",
+          "coords": [
+            -1.596,
+            54.773
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurzer Halt direkt an der Hauptstraße.",
+            "hu": "Rövid megálló közvetlenül a főút mellett.",
+            "ro": "Oscurtă oprire chiar lângă drumul principal.",
+            "en": "Quick stop right next to the main road."
+          }
+        },
+        {
+          "name": "Durham University Botanic Garden",
+          "coords": [
+            -1.574,
+            54.761
+          ],
+          "category": "garden",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze für Gartenbesucher vorhanden.",
+            "hu": "Ingyenes parkolás a kert látogatóinak.",
+            "ro": "Parcare gratuită disponibilă pentru vizitatori.",
+            "en": "Free parking available for garden visitors."
+          }
+        },
+        {
+          "name": "Durham Cathedral",
+          "coords": [
+            -1.576,
+            54.773
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Park-and-Ride-System für die Innenstadt.",
+            "hu": "Használd a Park-and-Ride rendszert a belvároshoz.",
+            "ro": "Folosiți sistemul Park-and-Ride pentru centru.",
+            "en": "Use the Park-and-Ride system for the city centre."
+          }
+        },
+        {
+          "name": "Durham Castle",
+          "coords": [
+            -1.576,
+            54.775
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigung nur im Rahmen von Führungen möglich.",
+            "hu": "Látogatás csak vezetett túra keretében.",
+            "ro": "Vizitare posibilă doar prin tururi ghidate.",
+            "en": "Visits are only possible via guided tours."
+          }
+        },
+        {
+          "name": "Finchale Priory",
+          "coords": [
+            -1.548,
+            54.818
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Wunderschöne Klosterruine am Ufer des Wear.",
+            "hu": "Gyönyörű kolostorromok a Wear partján.",
+            "ro": "Ruine de mănăstire superbe pe malul râului Wear.",
+            "en": "Beautiful priory ruins on the banks of the Wear."
+          }
+        },
+        {
+          "name": "Adventure Valley",
+          "coords": [
+            -1.525,
+            54.81
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Perfekt für Familien mit Kindern.",
+            "hu": "Tökéletes választás gyermekes családoknak.",
+            "ro": "Perfect pentru familiile cu copii.",
+            "en": "Perfect choice for families with children."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights von Durham mit den Schätzen der Umgebung. Nach Neville's Cross und dem Botanischen Garten parken Sie am Stadtrand und erkunden das Weltkulturerbe zu Fuß. Am Nachmittag fahren Sie zu den idyllischen Ruinen von Finchale Priory und beenden den Tag bei Adventure Valley, ideal für Familien.",
+        "hu": "Ez az autós túra Durham legfontosabb látnivalóit ötvözi a környék kincseivel. Neville's Cross és a Botanikus Kert után parkoljon a város szélén, és fedezze fel a világörökséget gyalogosan. Délután látogasson el Finchale Priory idilli romjaihoz, majd zárja a napot az Adventure Valley-ben.",
+        "ro": "Acest tur cu mașina combină atracțiile principale din Durham cu bijuteriile din împrejurimi. După Neville's Cross și Grădina Botanică, parcați la periferie și explorați centrul istoric. După-amiaza, vizitați ruinele idilice de la Finchale Priory și încheiați ziua la Adventure Valley.",
+        "en": "This car tour combines Durham's highlights with nearby gems. After visiting Neville's Cross and the Botanic Garden, use the Park-and-Ride to explore the World Heritage Site. In the afternoon, drive to the idyllic ruins of Finchale Priory and finish the day at Adventure Valley, perfect for families."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brambles Coffee Shop",
+            "tip": "Gemütlicher Ort für Tee und Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brambles Coffee Shop",
+            "tip": "Hangulatos hely teára és süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brambles Coffee Shop",
+            "tip": "Local primitor pentru ceai și prăjituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brambles Coffee Shop",
+            "tip": "Cozy spot for tea and homemade cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Finchale Priory",
+            "tip": "Abgeschiedene Ruhe am Flussufer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Finchale Priory",
+            "tip": "Elszigetelt nyugalom a folyóparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Finchale Priory",
+            "tip": "Liniște deplină pe malul râului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Finchale Priory",
+            "tip": "Secluded tranquility on the riverbanks.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dalton Park Outlet",
+            "tip": "Marken-Shopping nur 15 Min Fahrt entfernt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalton Park Outlet",
+            "tip": "Márkás termékek 15 perc autóútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dalton Park Outlet",
+            "tip": "Shopping de marcă la 15 minute distanță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalton Park Outlet",
+            "tip": "Brand shopping just 15 mins drive away."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist teuer und schwierig, nutzen Sie Park & Ride.",
+          "Planen Sie mehr Zeit für die Kathedrale ein.",
+          "Das Wetter kann im Nordosten schnell umschlagen."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága, használd a P+R-t.",
+          "Hagyj több időt a katedrális megtekintésére.",
+          "Az északkeleti időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Parcarea în centru este scumpă, folosiți Park & Ride.",
+          "Acordați mai mult timp vizitării catedralei.",
+          "Vremea în nord-est se poate schimba rapid."
+        ],
+        "en": [
+          "City centre parking is expensive; use Park & Ride.",
+          "Allow extra time for the cathedral visit.",
+          "Northeast weather can change very quickly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Neville's Cross (Bus Stop)",
+          "coords": [
+            -1.595,
+            54.773
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mehrere Buslinien verbinden das Stadtzentrum mit Neville's Cross.",
+            "hu": "Számos buszjárat köti össze a belvárost Neville's Cross-szal.",
+            "ro": "Mai multe linii de autobuz leagă centrul de Neville's Cross.",
+            "en": "Multiple bus lines connect the city centre to Neville's Cross."
+          }
+        },
+        {
+          "name": "Durham Bus Station",
+          "coords": [
+            -1.579,
+            54.778
+          ],
+          "category": "port",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Neu renovierte Station mit allen wichtigen Verbindungen.",
+            "hu": "Frissen felújított állomás minden fontos csatlakozással.",
+            "ro": "Stație proaspăt renovată cu toate legăturile importante.",
+            "en": "Newly renovated station with all key connections."
+          }
+        },
+        {
+          "name": "Palace Green",
+          "coords": [
+            -1.576,
+            54.774
+          ],
+          "category": "square",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Cathedral Bus (Linie 40) vom Bahnhof.",
+            "hu": "Használd a Cathedral Bus-t (40-es járat) a pályaudvartól.",
+            "ro": "Folosiți Cathedral Bus (linia 40) de la gară.",
+            "en": "Use the Cathedral Bus (Service 40) from the station."
+          }
+        },
+        {
+          "name": "Durham Market Place",
+          "coords": [
+            -1.575,
+            54.777
+          ],
+          "category": "square",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für fast alle lokalen Buslinien.",
+            "hu": "Központi csomópont szinte minden helyi buszjárat számára.",
+            "ro": "Nod central pentru aproape toate liniile locale de autobuz.",
+            "en": "Central hub for almost all local bus routes."
+          }
+        },
+        {
+          "name": "Durham University Botanic Garden",
+          "coords": [
+            -1.574,
+            54.761
+          ],
+          "category": "garden",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Linie 6 hält direkt am Eingang des Gartens.",
+            "hu": "A 6-os busz közvetlenül a kert bejáratánál áll meg.",
+            "ro": "Linia 6 oprește chiar la intrarea în grădină.",
+            "en": "Bus route 6 stops right at the garden entrance."
+          }
+        },
+        {
+          "name": "Wharton Park",
+          "coords": [
+            -1.583,
+            54.781
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Bahnhof entfernt.",
+            "hu": "Csak pár perc séta a vasútállomástól.",
+            "ro": "La doar câteva minute de mers pe jos de gară.",
+            "en": "Just a few minutes' walk from the railway station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Durhams effizientes Bussystem, um die Stadt stressfrei zu erkunden. Starten Sie in Neville's Cross und fahren Sie zum Palace Green, um die Kathedrale zu besuchen. Nach einem Bummel über den Marktplatz bringt Sie der Bus zum Botanischen Garten. Den Tag krönen Sie mit einem Ausblick vom Wharton Park, direkt neben dem Bahnhof.",
+        "hu": "Használja Durham hatékony buszhálózatát a város stresszmentes felfedezéséhez. Kezdjen Neville's Crossnál, majd utazzon a Palace Greenre a katedrális megtekintéséhez. Egy piactéri séta után a busz elviszi a Botanikus Kertbe. A napot a Wharton Park kilátójával zárja, közvetlenül a pályaudvar mellett.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Durham pentru o explorare relaxată. Începeți la Neville's Cross și mergeți la Palace Green pentru catedrală. După o plimbare în piață, autobuzul vă duce la Grădina Botanică. Încheiați ziua cu panorama din Wharton Park, lângă gară.",
+        "en": "Use Durham's efficient bus network to explore the city stress-free. Start at Neville's Cross and head to Palace Green for the cathedral. After a stroll through the Market Place, take a bus to the Botanic Garden. Finish your day with the views from Wharton Park, located right next to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vennels Café",
+            "tip": "Verstecktes Juwel in einer schmalen Gasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vennels Café",
+            "tip": "Rejtett kincs egy szűk sikátorban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vennels Café",
+            "tip": "O bijuterie ascunsă într-o alee îngustă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vennels Café",
+            "tip": "Hidden gem located down a narrow alleyway."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "South Bailey",
+            "tip": "Ruhige historische Straße hinter der Kathedrale.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "South Bailey",
+            "tip": "Csendes történelmi utca a katedrális mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "South Bailey",
+            "tip": "Stradă istorică liniștită în spatele catedralei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "South Bailey",
+            "tip": "Quiet historic street behind the cathedral.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Durham Market Hall",
+            "tip": "Überdachter Markt mit vielfältigem Angebot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Durham Market Hall",
+            "tip": "Fedett piac változatos kínálattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Durham Market Hall",
+            "tip": "Piață acoperită cu o ofertă variată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Durham Market Hall",
+            "tip": "Historic indoor market with varied stalls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tages-Ticket für unbegrenzte Fahrten.",
+          "Der 'Cathedral Bus' verbindet Bahnhof und Kathedrale direkt.",
+          "Die Busse verkehren im Zentrum sehr häufig."
+        ],
+        "hu": [
+          "Vegyél napijegyet a korlátlan utazáshoz.",
+          "A 'Cathedral Bus' közvetlenül összeköti a várat a pályaudvarral.",
+          "A belvárosban a buszok nagyon gyakran járnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "'Cathedral Bus' leagă direct gara de catedrală.",
+          "Autobuzele circulă foarte frecvent în centru."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited bus travel.",
+          "The 'Cathedral Bus' links the station and cathedral directly.",
+          "Buses run very frequently within the city centre."
+        ]
+      }
+    }
+  }
+}

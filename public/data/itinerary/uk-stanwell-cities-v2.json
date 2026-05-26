@@ -1,0 +1,982 @@
+{
+  "city_id": "uk-stanwell-cities-v2",
+  "anchor": {
+    "name": "Stanwell",
+    "coords": [
+      51.45,
+      -0.483
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St Mary's Church",
+            "hu": "Szűz Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            51.451,
+            -0.482
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schiefe Turmspitze.",
+            "hu": "Figyelje meg a ferde toronysisakot.",
+            "ro": "Observați tura înclinată a bisericii.",
+            "en": "Check out the distinctive leaning spire."
+          }
+        },
+        {
+          "name": {
+            "de": "Lord Knyvett's School",
+            "hu": "Lord Knyvett Iskola",
+            "ro": "Școala Lord Knyvett",
+            "en": "Lord Knyvett's School"
+          },
+          "coords": [
+            51.452,
+            -0.481
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein historischer Backsteinbau von 1624.",
+            "hu": "Történelmi téglaépület 1624-ből.",
+            "ro": "Clădire istorică din cărămidă din 1624.",
+            "en": "A historic brick building dating to 1624."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanwell War Memorial",
+            "hu": "Stanwelli háborús emlékmű",
+            "ro": "Monumentul Eroilor Stanwell",
+            "en": "Stanwell War Memorial"
+          },
+          "coords": [
+            51.45,
+            -0.48
+          ],
+          "category": "monument",
+          "arrive_at": "10:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentral im Dorf gelegen.",
+            "hu": "Központi helyen a faluban.",
+            "ro": "Situat central în localitate.",
+            "en": "Located centrally within the village."
+          }
+        },
+        {
+          "name": {
+            "de": "The Swan Inn",
+            "hu": "The Swan Inn",
+            "ro": "Hanul The Swan",
+            "en": "The Swan Inn"
+          },
+          "coords": [
+            51.449,
+            -0.485
+          ],
+          "category": "culinary",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Traditioneller Pub für die Mittagspause.",
+            "hu": "Hagyományos pub ebédszünetre.",
+            "ro": "Pub tradițional pentru pauza de prânz.",
+            "en": "Traditional pub for a midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Moormede Park",
+            "hu": "Moormede Park",
+            "ro": "Parcul Moormede",
+            "en": "Moormede Park"
+          },
+          "coords": [
+            51.445,
+            -0.49
+          ],
+          "category": "park",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Grüne Lunge zwischen Dorf und Flughafen.",
+            "hu": "Zöld sziget a falu és a reptér között.",
+            "ro": "Zonă verde între sat și aeroport.",
+            "en": "Green space between village and airport."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanwell Moor",
+            "hu": "Stanwell Moor",
+            "ro": "Stanwell Moor",
+            "en": "Stanwell Moor"
+          },
+          "coords": [
+            51.455,
+            -0.505
+          ],
+          "category": "natural",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ideal für Naturbeobachtungen.",
+            "hu": "Ideális természetmegfigyelésre.",
+            "ro": "Ideal pentru observarea naturii.",
+            "en": "Ideal for nature watching and walking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Stanwell bietet einen faszinierenden Kontrast zwischen dem 12. Jahrhundert und der modernen Luftfahrt. Starten Sie an der charakteristischen St Mary's Church und erkunden Sie den historischen Kern, bevor Sie im Moormede Park entspannen. Der Tag endet im naturbelassenen Stanwell Moor, während die Flugzeuge über Ihnen in die Welt abheben.",
+        "hu": "Stanwell lenyűgöző kontrasztot kínál a 12. század és a modern repülés között. Kezdje a jellegzetes Szűz Mária-templomnál, fedezze fel a történelmi magot, majd pihenjen a Moormede Parkban. A nap a természetes Stanwell Moornál zárul, miközben a feje felett a világ minden tájára indulnak a gépek.",
+        "ro": "Stanwell oferă un contrast fascinant între secolul al XII-lea și aviația modernă. Începeți la biserica emblematică Sfânta Maria și explorați centrul istoric, înainte de a vă relaxa în parcul Moormede. Ziua se încheie în zona naturală Stanwell Moor, în timp ce avioanele decolează spre toate colțurile lumii.",
+        "en": "Stanwell offers a fascinating contrast between the 12th century and modern aviation. Start at the distinctive St Mary's Church and explore the historic core before relaxing in Moormede Park. The day ends at the natural Stanwell Moor, as planes soar overhead to destinations across the globe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Wheatsheaf",
+            "tip": "Gemütlicher Pub mit gutem Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Wheatsheaf",
+            "tip": "Hangulatos pub jó ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Wheatsheaf",
+            "tip": "Pub primitor cu mâncare bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Wheatsheaf",
+            "tip": "Cozy local pub with quality meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St Mary's Churchyard",
+            "tip": "Ein ruhiger Ort trotz Flughafen-Nähe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomkert",
+            "tip": "Csendes hely a reptér közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii Sf. Maria",
+            "tip": "Un loc liniștit lângă aeroport.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Mary's Churchyard",
+            "tip": "A quiet spot for reflection near the airport.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Shops",
+            "tip": "Kleine Läden für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi boltok",
+            "tip": "Kisboltok a napi szükségletekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale",
+            "tip": "Mici magazine pentru necesități zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Village Shops",
+            "tip": "Convenience stores for daily needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fluglärm ist hier unvermeidlich, gehört aber zum Erlebnis.",
+          "Besuchen Sie die Kirche während der Gottesdienstzeiten für Musik."
+        ],
+        "hu": [
+          "A repülőzaj elkerülhetetlen, de a hangulat része.",
+          "Látogassa meg a templomot miseidőben a zene miatt."
+        ],
+        "ro": [
+          "Zgomotul avioanelor este inevitabil aici.",
+          "Vizitați biserica în timpul slujbelor pentru muzică."
+        ],
+        "en": [
+          "Plane noise is inevitable here, but it's part of the vibe.",
+          "Visit the church during service times to hear the organ."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 13.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stanwell Village Green",
+            "hu": "Falu főtere",
+            "ro": "Parcul central Stanwell",
+            "en": "Stanwell Village Green"
+          },
+          "coords": [
+            51.45,
+            -0.481
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt.",
+            "hu": "Központi találkozóhely.",
+            "ro": "Punct de întâlnire central.",
+            "en": "Central community meeting spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanwell Moor Nature Area",
+            "hu": "Természetvédelmi terület",
+            "ro": "Zona naturală Stanwell Moor",
+            "en": "Stanwell Moor Nature Area"
+          },
+          "coords": [
+            51.455,
+            -0.505
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schöne Wege am Fluss Colne.",
+            "hu": "Szép utak a Colne-folyó mentén.",
+            "ro": "Trasee frumoase pe malul râului Colne.",
+            "en": "Scenic paths along the River Colne."
+          }
+        },
+        {
+          "name": {
+            "de": "Staines Reservoirs",
+            "hu": "Staines víztározók",
+            "ro": "Rezervoarele Staines",
+            "en": "Staines Reservoirs"
+          },
+          "coords": [
+            51.44,
+            -0.495
+          ],
+          "category": "natural",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Beeindruckende Wasserflächen.",
+            "hu": "Lenyűgöző vízfelületek.",
+            "ro": "Suprafețe de apă impresionante.",
+            "en": "Impressive expanses of water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bedfont Lakes Country Park",
+            "hu": "Bedfont Lakes Country Park",
+            "ro": "Parcul Bedfont Lakes",
+            "en": "Bedfont Lakes Country Park"
+          },
+          "coords": [
+            51.44,
+            -0.45
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ideal für Radfahrer.",
+            "hu": "Ideális kerékpárosoknak.",
+            "ro": "Ideal pentru bicicliști.",
+            "en": "Ideal for recreational cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "The Happy Landing",
+            "hu": "The Happy Landing",
+            "ro": "The Happy Landing",
+            "en": "The Happy Landing"
+          },
+          "coords": [
+            51.452,
+            -0.475
+          ],
+          "category": "culinary",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Passender Name für die Gegend.",
+            "hu": "A környékhez illő név.",
+            "ro": "Nume potrivit pentru această zonă.",
+            "en": "A fittingly named local pub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Wasserlandschaften von Surrey. Diese Route führt Sie von Stanwell zu den riesigen Staines Reservoirs und weiter zum Bedfont Lakes Country Park. Genießen Sie die flachen Wege und die einzigartige Perspektive auf die startenden Jumbos direkt über den Seen.",
+        "hu": "Tekerjen keresztül Surrey vizes tájain. Az útvonal Stanwellből a hatalmas Staines víztározókhoz, majd a Bedfont Lakes Country Parkba vezet. Élvezze a sík utakat és a különleges látványt, ahogy a repülők közvetlenül a tavak felett szállnak fel.",
+        "ro": "Mergeți cu bicicleta prin peisajele acvatice din Surrey. Acest traseu vă poartă din Stanwell la rezervoarele uriașe Staines și apoi la parcul Bedfont Lakes. Bucurați-vă de drumurile plane și de perspectiva unică a avioanelor care decolează direct deasupra lacurilor.",
+        "en": "Cycle through the waterscapes of Surrey. This route takes you from Stanwell to the massive Staines Reservoirs and on to Bedfont Lakes Country Park. Enjoy the flat paths and the unique perspective of jumbo jets taking off directly over the lakes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Village Cafe",
+            "tip": "Schneller Imbiss für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Village Cafe",
+            "tip": "Gyors harapnivaló bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Village Cafe",
+            "tip": "Gustare rapidă pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Cafe",
+            "tip": "Quick bites for cyclists on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bedfont Lakes Bird Hide",
+            "tip": "Vogelbeobachtung in aller Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bedfont Lakes madárfigyelő",
+            "tip": "Madárles teljes nyugalomban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul de păsări Bedfont",
+            "tip": "Observarea păsărilor în liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bedfont Lakes Bird Hide",
+            "tip": "Quiet bird watching at the lakes.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Cycle Shop (Ashford)",
+            "tip": "Zubehör und Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bringabolt (Ashford)",
+            "tip": "Kiegészítők és javítás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete (Ashford)",
+            "tip": "Accesorii și reparații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cycle Shop (Ashford)",
+            "tip": "Gear and quick repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Wege um die Stauseen sind gesperrt.",
+          "Achten Sie auf den Wind auf offenen Strecken."
+        ],
+        "hu": [
+          "Néhány út a tározók körül lezárt.",
+          "Vigyázzon a szélre a nyílt szakaszokon."
+        ],
+        "ro": [
+          "Unele drumuri din jurul rezervoarelor sunt închise.",
+          "Atenție la vânt pe segmentele deschise."
+        ],
+        "en": [
+          "Some paths around the reservoirs may be restricted.",
+          "Be mindful of wind on open cycling stretches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 24.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "St Mary's Church (Cluster A)",
+            "hu": "Szűz Mária-templom (A klaszter)",
+            "ro": "Biserica Sfânta Maria (Cluster A)",
+            "en": "St Mary's Church (Cluster A)"
+          },
+          "coords": [
+            51.451,
+            -0.482
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken in der Nähe der Kirche.",
+            "hu": "Parkolás a templom közelében.",
+            "ro": "Parcare în apropierea bisericii.",
+            "en": "Parking available near the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanwell Village Hall (Cluster A)",
+            "hu": "Faluház (A klaszter)",
+            "ro": "Căminul Cultural (Cluster A)",
+            "en": "Stanwell Village Hall (Cluster A)"
+          },
+          "coords": [
+            51.45,
+            -0.48
+          ],
+          "category": "civic",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß im Dorfkern.",
+            "hu": "Gyalog a falu központjában.",
+            "ro": "Accesibil pe jos în centrul satului.",
+            "en": "Accessible on foot in the village core."
+          }
+        },
+        {
+          "name": {
+            "de": "Staines Moor (Cluster B)",
+            "hu": "Staines Moor (B klaszter)",
+            "ro": "Staines Moor (Cluster B)",
+            "en": "Staines Moor (Cluster B)"
+          },
+          "coords": [
+            51.435,
+            -0.505
+          ],
+          "category": "natural",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parkplatz am Mooreingang.",
+            "hu": "Parkoló a mocsár bejáratánál.",
+            "ro": "Parcare la intrarea în rezervație.",
+            "en": "Car park at the moor entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Staines Reservoirs View (Cluster B)",
+            "hu": "Víztározó kilátó (B klaszter)",
+            "ro": "Belvedere Rezervoare (Cluster B)",
+            "en": "Staines Reservoirs View (Cluster B)"
+          },
+          "coords": [
+            51.44,
+            -0.495
+          ],
+          "category": "natural",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Toller Blick auf die Vogelwelt.",
+            "hu": "Kiváló madármegfigyelő hely.",
+            "ro": "Vedere excelentă spre păsările sălbatice.",
+            "en": "Great spot for watching local birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at The Swan (Cluster C)",
+            "hu": "Ebéd a The Swan-ban (C klaszter)",
+            "ro": "Prânz la The Swan (Cluster C)",
+            "en": "Lunch at The Swan (Cluster C)"
+          },
+          "coords": [
+            51.449,
+            -0.485
+          ],
+          "category": "culinary",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz am Pub vorhanden.",
+            "hu": "Parkoló a pubnál.",
+            "ro": "Parcare disponibilă la pub.",
+            "en": "Parking available at the pub."
+          }
+        },
+        {
+          "name": {
+            "de": "Runnymede (Nearby)",
+            "hu": "Runnymede (közeli)",
+            "ro": "Runnymede (Aproape)",
+            "en": "Runnymede (Nearby)"
+          },
+          "coords": [
+            51.444,
+            -0.56
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Ort der Magna Carta.",
+            "hu": "A Magna Carta helyszíne.",
+            "ro": "Locul semnării Magna Carta.",
+            "en": "The historic site of the Magna Carta."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour verbindet das alte Stanwell mit dem weltberühmten Runnymede. Erkunden Sie zuerst den Dorfkern und die Moore von Staines, bevor Sie zum Ort fahren, an dem die Demokratie begründet wurde. Ein Auto ermöglicht es Ihnen, die Weite der Stauseen und die Geschichte der Themse bequem zu erleben.",
+        "hu": "Ez a túra összeköti a régi Stanwellt a világhírű Runnymede-del. Először fedezze fel a falu központját és a Staines-lápot, majd hajtson el a helyszínre, ahol a demokrácia alapjait lefektették. Az autó lehetővé teszi, hogy kényelmesen élvezze a tározók és a Temze történelmét.",
+        "ro": "Acest tur combină vechiul Stanwell cu faimosul Runnymede. Explorați mai întâi centrul satului și mlaștinile din Staines, înainte de a conduce spre locul unde s-au pus bazele democrației. Mașina vă permite să experimentați confortabil mărimea rezervoarelor și istoria Tamisei.",
+        "en": "This tour connects old Stanwell with the world-famous Runnymede. First explore the village core and the Staines Moor before driving to the site where democracy was founded. A car allows you to comfortably experience the vastness of the reservoirs and the history of the Thames."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Toby Carvery Staines",
+            "tip": "Klassischer Sonntagsbraten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toby Carvery Staines",
+            "tip": "Hagyományos vasárnapi sült."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Toby Carvery Staines",
+            "tip": "Friptură tradițională de duminică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toby Carvery Staines",
+            "tip": "Classic British Sunday roast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Magna Carta Memorial",
+            "tip": "Friedlicher Ort an der Themse.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magna Carta emlékmű",
+            "tip": "Békés hely a Temze partján.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Memorialul Magna Carta",
+            "tip": "Loc liniștit pe malul Tamisei.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Magna Carta Memorial",
+            "tip": "Peaceful spot by the River Thames.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Staines Two Rivers",
+            "tip": "Großes Einkaufszentrum in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Staines Two Rivers",
+            "tip": "Nagy bevásárlóközpont a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Staines Two Rivers",
+            "tip": "Centru comercial mare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Staines Two Rivers",
+            "tip": "Large shopping complex nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die M25 kann sehr stauanfällig sein.",
+          "Parkplätze in Runnymede sind kostenpflichtig."
+        ],
+        "hu": [
+          "Az M25-ös autópálya gyakran bedugul.",
+          "Runnymede-ben a parkolás fizetős."
+        ],
+        "ro": [
+          "Autostrada M25 poate fi foarte aglomerată.",
+          "Parcarea la Runnymede este cu plată."
+        ],
+        "en": [
+          "The M25 motorway can be very congested.",
+          "Parking at Runnymede is pay and display."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ashford Railway Station (District A)",
+            "hu": "Ashford vasútállomás (A negyed)",
+            "ro": "Gara Ashford (District A)",
+            "en": "Ashford Railway Station (District A)"
+          },
+          "coords": [
+            51.432,
+            -0.468
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Direkte Züge von London Waterloo.",
+            "hu": "Közvetlen vonatok London Waterloo-ból.",
+            "ro": "Trenuri directe de la London Waterloo.",
+            "en": "Direct train links from London Waterloo."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanwell High Street (District B)",
+            "hu": "Fő utca (B negyed)",
+            "ro": "High Street (District B)",
+            "en": "Stanwell High Street (District B)"
+          },
+          "coords": [
+            51.451,
+            -0.482
+          ],
+          "category": "civic",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 203 oder 555 nutzen.",
+            "hu": "Használja a 203-as vagy 555-ös buszt.",
+            "ro": "Folosiți linia de autobuz 203 sau 555.",
+            "en": "Take bus route 203 or 555."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanwell Village Green (District B)",
+            "hu": "Falu főtere (B negyed)",
+            "ro": "Parcul central (District B)",
+            "en": "Stanwell Village Green (District B)"
+          },
+          "coords": [
+            51.45,
+            -0.481
+          ],
+          "category": "civic",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß von der High Street.",
+            "hu": "Séta a Fő utcától.",
+            "ro": "La mică distanță de High Street.",
+            "en": "Short walk from the High Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Town Lane (District C)",
+            "hu": "Town Lane (C negyed)",
+            "ro": "Strada Town Lane (District C)",
+            "en": "Town Lane (District C)"
+          },
+          "coords": [
+            51.442,
+            -0.478
+          ],
+          "category": "civic",
+          "arrive_at": "12:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einkaufsmöglichkeiten und Cafés.",
+            "hu": "Vásárlási lehetőség és kávézók.",
+            "ro": "Magazine și cafenele locale.",
+            "en": "Local shops and cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ashford Hospital Ground",
+            "hu": "Ashford Kórház környéke",
+            "ro": "Zona Spitalului Ashford",
+            "en": "Ashford Hospital Ground"
+          },
+          "coords": [
+            51.444,
+            -0.465
+          ],
+          "category": "civic",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein wichtiger Orientierungspunkt.",
+            "hu": "Fontos tájékozódási pont.",
+            "ro": "Un reper important în zonă.",
+            "en": "A major local landmark and hub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Stanwell mit den 'Red Buses' von London. Von der Station Ashford aus erreichen Sie schnell den historischen Dorfkern. Genießen Sie die Atmosphäre eines englischen Dorfes, das direkt an die modernste Infrastruktur der Welt grenzt, und nutzen Sie die hervorragenden Busverbindungen der Region.",
+        "hu": "Fedezze fel Stanwellt a londoni piros buszokkal. Az ashfordi állomástól gyorsan elérheti a történelmi faluközpontot. Élvezze egy angol falu hangulatát, amely közvetlenül a világ legmodernebb infrastruktúrája mellett fekszik, és használja ki a kiváló buszhálózatot.",
+        "ro": "Descoperiți Stanwell folosind faimoasele autobuze roșii londoneze. De la gara Ashford, ajungeți rapid în centrul istoric al satului. Bucurați-vă de atmosfera unui sat englezesc situat lângă cea mai modernă infrastructură din lume și profitați de conexiunile excelente.",
+        "en": "Discover Stanwell using London's iconic red buses. From Ashford station, you can quickly reach the historic village core. Enjoy the atmosphere of an English village located right next to world-class modern infrastructure, making use of the region's excellent bus network."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Bulldog",
+            "tip": "Nahe der Transitstrecken gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Bulldog",
+            "tip": "A tranzitútvonalak közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Bulldog",
+            "tip": "Situat aproape de rutele de tranzit."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bulldog",
+            "tip": "Located conveniently near transit routes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lord Knyvett's Gardens",
+            "tip": "Kleine grüne Ecke im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lord Knyvett kertje",
+            "tip": "Kis zöld sarok a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Lord Knyvett",
+            "tip": "Mic colț verde în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lord Knyvett's Gardens",
+            "tip": "A small green corner in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ashford High Street",
+            "tip": "Vielfältige Einkaufsmöglichkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ashford főutcája",
+            "tip": "Változatos vásárlási lehetőségek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "High Street Ashford",
+            "tip": "Diverse opțiuni de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ashford High Street",
+            "tip": "A variety of shopping options."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie kontaktloses Bezahlen oder Oyster.",
+          "Die Busse Richtung Heathrow Terminal 4 sind sehr häufig."
+        ],
+        "hu": [
+          "Használjon érintős fizetést vagy Oyster kártyát.",
+          "A Heathrow 4-es terminál felé tartó buszok sűrűn járnak."
+        ],
+        "ro": [
+          "Folosiți plata contactless sau cardul Oyster.",
+          "Autobuzele spre Terminalul 4 Heathrow sunt foarte frecvente."
+        ],
+        "en": [
+          "Use contactless payment or an Oyster card for buses.",
+          "Buses towards Heathrow Terminal 4 are very frequent."
+        ]
+      }
+    }
+  }
+}

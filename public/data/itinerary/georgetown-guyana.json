@@ -1,0 +1,1113 @@
+{
+  "city_id": "georgetown-guyana",
+  "anchor": {
+    "name": "Georgetown",
+    "coords": [
+      -58.1551,
+      6.8013
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St. George's Cathedral",
+            "hu": "Szent György-székesegyház",
+            "ro": "Catedrala Sf. Gheorghe",
+            "en": "St. George's Cathedral"
+          },
+          "coords": [
+            -58.1633,
+            6.8122
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hölzerne Architektur der Kirche.",
+            "hu": "Csodáld meg a katedrális lenyűgöző faépítészetét.",
+            "ro": "Admirați arhitectura spectaculoasă din lemn a catedralei.",
+            "en": "Marvel at the world's tallest wooden cathedral architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Guyana National Museum",
+            "hu": "Guyanai Nemzeti Múzeum",
+            "ro": "Muzeul Național al Guyanei",
+            "en": "Guyana National Museum"
+          },
+          "coords": [
+            -58.1645,
+            6.8142
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie die Nachbildung eines Riesenfaultiers.",
+            "hu": "Nézd meg az óriáslajhár élethű rekonstrukcióját.",
+            "ro": "Vedeți replica fascinantă a unui leneș gigant.",
+            "en": "Check out the giant ground sloth replica and local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stabroek Market",
+            "hu": "Stabroek piac",
+            "ro": "Piața Stabroek",
+            "en": "Stabroek Market"
+          },
+          "coords": [
+            -58.1678,
+            6.8118
+          ],
+          "category": "market",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kaufen Sie frisches Obst und lokales Handwerk.",
+            "hu": "Vegyél friss gyümölcsöket és helyi kézműves termékeket.",
+            "ro": "Cumpărați fructe proaspete și obiecte de artizanat local.",
+            "en": "Experience the bustling energy of the historic cast-iron market."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Water Street",
+            "hu": "Ebéd a Water Streeten",
+            "ro": "Prânz pe Water Street",
+            "en": "Lunch at Water Street"
+          },
+          "coords": [
+            -58.1685,
+            6.8135
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Pepperpot oder Cook-up Rice.",
+            "hu": "Kóstold meg a helyi Pepperpotot vagy a Cook-up Rice-t.",
+            "ro": "Gustați celebrul Pepperpot sau orezul Cook-up.",
+            "en": "Try authentic Guyanese Pepperpot or flavorful Cook-up Rice."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade Gardens",
+            "hu": "Promenád kertek",
+            "ro": "Grădinile Promenade",
+            "en": "Promenade Gardens"
+          },
+          "coords": [
+            -58.1625,
+            6.8162
+          ],
+          "category": "garden",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Rückzugsort im Stadtzentrum.",
+            "hu": "Csendes oázis a város szívében, gyönyörű virágokkal.",
+            "ro": "O oază de liniște în centrul orașului, plină de flori.",
+            "en": "Enjoy a peaceful stroll in these beautifully manicured gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Umana Yana",
+            "hu": "Umana Yana",
+            "ro": "Umana Yana",
+            "en": "Umana Yana"
+          },
+          "coords": [
+            -58.1585,
+            6.8225
+          ],
+          "category": "landmark",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein traditionelles indianisches Versammlungshaus.",
+            "hu": "Hagyományos indián találkozóhely nádtetővel.",
+            "ro": "O casă tradițională de întâlnire a populației indigene.",
+            "en": "Visit this iconic conical thatched structure built by Wai-Wai."
+          }
+        },
+        {
+          "name": {
+            "de": "Georgetown Lighthouse",
+            "hu": "Georgetowni világítótorony",
+            "ro": "Farul din Georgetown",
+            "en": "Georgetown Lighthouse"
+          },
+          "coords": [
+            -58.1612,
+            6.8242
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Blick auf den Demerara-Fluss und den Atlantik.",
+            "hu": "Kilátás a Demerara-folyóra és az Atlanti-óceánra.",
+            "ro": "Priviți gura de vărsare a râului Demerara în ocean.",
+            "en": "Get a great view of the Demerara River meeting the Atlantic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Georgetown bei der beeindruckenden St. George's Cathedral. Tauchen Sie im Nationalmuseum in die Geschichte ein, bevor Sie das bunte Treiben auf dem Stabroek-Markt erleben. Nach einem herzhaften guyanischen Mittagessen bieten die Promenade Gardens Entspannung. Der Nachmittag endet mit einem Besuch der kulturellen Umana Yana und dem Sonnenuntergang am Leuchtturm.",
+        "hu": "Kezdjd a napot Georgetown történelmi szívében, a monumentális Szent György-székesegyháznál. Merülj el a történelemben a Nemzeti Múzeumban, majd vesd bele magad a Stabroek piac forgatagába. Egy kiadós guyanai ebéd után a Promenád kertekben pihenhetsz meg. A délután az Umana Yana kulturális épületének megtekintésével és a világítótoronynál tett látogatással zárul.",
+        "ro": "Începeți ziua în inima istorică a orașului Georgetown, la impresionanta Catedrală Sf. Gheorghe. Explorați istoria locală la Muzeul Național înainte de a experimenta agitația din Piața Stabroek. După un prânz tradițional, Grădinile Promenade oferă relaxare totală. După-amiaza se încheie cu vizitarea structurii culturale Umana Yana și cu priveliștea de la farul istoric.",
+        "en": "Start your day in the historic heart of Georgetown at the stunning St. George's Cathedral. Dive into local history at the National Museum before experiencing the vibrant energy of Stabroek Market. After a hearty Guyanese lunch, relax in the Promenade Gardens. The afternoon concludes with a visit to the cultural Umana Yana and watching the early evening light by the iconic lighthouse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Backer's Pepperpot",
+            "tip": "Probieren Sie das Nationalgericht mit Kassava-Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Backer's Pepperpot",
+            "tip": "Kóstold meg a nemzeti ételt friss kasszáva kenyérrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Backer's Pepperpot",
+            "tip": "Încercați mâncarea națională servită cu pâine de manioc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Backer's Pepperpot",
+            "tip": "Try the national dish served with traditional cassava bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sea Wall Path",
+            "tip": "Genießen Sie die Meeresbrise.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sea Wall sétány",
+            "tip": "Élvezd az óceáni szellőt és a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza Sea Wall",
+            "tip": "Bucurați-vă de briza oceanului la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sea Wall Path",
+            "tip": "Enjoy the cool Atlantic breeze at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hibiscus Craft Market",
+            "tip": "Handgefertigter Schmuck und Korbwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hibiscus kézműves piac",
+            "tip": "Kézzel készített ékszerek és fonott kosarak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de artizanat Hibiscus",
+            "tip": "Bijuterii handmade și obiecte împletite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hibiscus Craft Market",
+            "tip": "Best spot for local handmade jewelry and basketry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Innenstadt.",
+          "Achten Sie auf Ihre Wertsachen in belebten Gegenden.",
+          "Trinken Sie viel Wasser bei der Hitze."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a városi sétához.",
+          "Figyelj az értékeidre a zsúfolt piacokon.",
+          "Igyál sok vizet a trópusi melegben."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru centrul orașului.",
+          "Aveți grijă la bunurile personale în zonele aglomerate.",
+          "Hidratați-vă constant din cauza căldurii tropicale."
+        ],
+        "en": [
+          "Wear comfortable walking shoes for the city center.",
+          "Keep an eye on your belongings in crowded market areas.",
+          "Stay hydrated in the intense tropical humidity."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Botanical Gardens",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Gardens"
+          },
+          "coords": [
+            -58.1485,
+            6.8125
+          ],
+          "category": "garden",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den Seekühen in den Teichen.",
+            "hu": "Keresd a lamantinokat a tavakban.",
+            "ro": "Căutați lamantinii în iazurile grădinii.",
+            "en": "Look for the gentle manatees in the garden ponds."
+          }
+        },
+        {
+          "name": {
+            "de": "Guyana Zoological Park",
+            "hu": "Guyanai állatkert",
+            "ro": "Grădina Zoologică Guyana",
+            "en": "Guyana Zoological Park"
+          },
+          "coords": [
+            -58.1472,
+            6.8138
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehen Sie Harpyien und Jaguare.",
+            "hu": "Nézd meg a hárpiákat és a jaguárokat.",
+            "ro": "Vedeți harpiile și jaguarii locali.",
+            "en": "See native species like harpy eagles and jaguars."
+          }
+        },
+        {
+          "name": {
+            "de": "Castellani House",
+            "hu": "Castellani-ház",
+            "ro": "Casa Castellani",
+            "en": "Castellani House"
+          },
+          "coords": [
+            -58.1525,
+            6.8152
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nationale Kunstgalerie in einem Holzhaus.",
+            "hu": "Nemzeti művészeti galéria egy szép faházban.",
+            "ro": "Galeria națională de artă într-o clădire de lemn.",
+            "en": "National Art Gallery housed in a beautiful wooden building."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Kitty",
+            "hu": "Ebéd Kitty negyedben",
+            "ro": "Prânz în Kitty",
+            "en": "Lunch at Kitty"
+          },
+          "coords": [
+            -58.1512,
+            6.8255
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Meeresfrüchte.",
+            "hu": "Kóstold meg a friss tengeri gyümölcsöket.",
+            "ro": "Încercați fructele de mare proaspăt gătite.",
+            "en": "Stop for some fresh local seafood in the Kitty district."
+          }
+        },
+        {
+          "name": {
+            "de": "Georgetown Seawall",
+            "hu": "Georgetowni gát",
+            "ro": "Digul din Georgetown",
+            "en": "Georgetown Seawall"
+          },
+          "coords": [
+            -58.1555,
+            6.8322
+          ],
+          "category": "landmark",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Atlantiks.",
+            "hu": "Biciklizz végig az Atlanti-óceán partján.",
+            "ro": "Pedalați de-a lungul coastei Oceanului Atlantic.",
+            "en": "Cycle along the long stretch of the historic sea wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Non-Aligned Monument",
+            "hu": "El nem kötelezettek emlékműve",
+            "ro": "Monumentul Nealiniat",
+            "en": "Non-Aligned Monument"
+          },
+          "coords": [
+            -58.1582,
+            6.8185
+          ],
+          "category": "monument",
+          "arrive_at": "15:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein wichtiges diplomatisches Wahrzeichen.",
+            "hu": "Fontos diplomáciai emlékhely a városban.",
+            "ro": "Un monument diplomatic important al orașului.",
+            "en": "A brief stop at this monument to four founding leaders."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Georgetowns grüne Lungen mit dem Fahrrad. Starten Sie in den Botanischen Gärten und dem Zoo, bevor Sie Kunst im Castellani House genießen. Radeln Sie dann zum Kitty-Viertel für ein Mittagessen und spüren Sie die Meeresbrise auf der langen Fahrt entlang der Sea Wall. Ein entspannter Weg, um die Weite der Stadt zu erleben.",
+        "hu": "Fedezd fel Georgetown zöldövezeteit kerékpárral. Kezdj a Botanikus kertben és az állatkertben, majd nézd meg a Castellani-ház kiállításait. Tekerj el a Kitty negyedbe egy finom ebédre, végül élvezd az óceáni szelet a gát mentén húzódó hosszú úton. Ideális módja a város tágasabb részeinek bejárására.",
+        "ro": "Explorați zonele verzi ale orașului Georgetown pe bicicletă. Începeți la Grădina Botanică și Zoo, apoi admirați arta la Casa Castellani. Pedalați spre cartierul Kitty pentru un prânz revigorant și simțiți briza oceanului pe digul lung (Sea Wall). O modalitate relaxantă de a vedea spațiile deschise ale capitalei.",
+        "en": "Explore Georgetown's green lungs by bicycle. Start at the Botanical Gardens and Zoo, then enjoy local art at Castellani House. Cycle up to the Kitty district for lunch and feel the sea breeze on the long ride along the Sea Wall. This mode offers a refreshing way to see the city's wider layouts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bento's Grill",
+            "tip": "Hähnchen und Meeresfrüchte vom Grill."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bento's Grill",
+            "tip": "Kiváló grillezett csirke és tengeri ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bento's Grill",
+            "tip": "Pui și fructe de mare la grătar, foarte populare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bento's Grill",
+            "tip": "Known for delicious grilled chicken and seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seven Ponds",
+            "tip": "Ein heiliger und ruhiger Ort im Park.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hét tó emlékmű",
+            "tip": "Szent és békés hely a park belsejében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monumentul celor Șapte Iazuri",
+            "tip": "Un loc sacru și liniștit în inima parcului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Seven Ponds",
+            "tip": "A sacred and peaceful spot within the Botanical Gardens.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fogarty's",
+            "tip": "Traditionelles Kaufhaus für Alltagsgegenstände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fogarty's",
+            "tip": "Hagyományos áruház a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Fogarty's",
+            "tip": "Un magazin universal tradițional în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fogarty's",
+            "tip": "A historic department store for local everyday items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in gutem Zustand.",
+          "Fahren Sie vorsichtig im Stadtverkehr.",
+          "Nutzen Sie den breiten Weg auf der Sea Wall."
+        ],
+        "hu": [
+          "Bérelj jó állapotú kerékpárt.",
+          "Vigyázz a forgalomra a városi utakon.",
+          "Használd a gát széles sétányát a tekeréshez."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în stare bună.",
+          "Fiți atenți la trafic în zonele centrale.",
+          "Folosiți calea largă de pe dig pentru pedalat."
+        ],
+        "en": [
+          "Ensure your rental bike is in good working order.",
+          "Be cautious of minibus traffic in the city center.",
+          "Use the wide promenade on the Sea Wall for safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 42.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parliament Building",
+            "hu": "Parlament épülete",
+            "ro": "Clădirea Parlamentului",
+            "en": "Parliament Building"
+          },
+          "coords": [
+            -58.1652,
+            6.8085
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein neoklassizistisches Juwel von 1834.",
+            "hu": "Egy neoklasszicista ékszerdoboz 1834-ből.",
+            "ro": "O bijuterie neoclasică construită în 1834.",
+            "en": "Admire the 19th-century architecture of this legislative hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Demerara Harbour Bridge",
+            "hu": "Demerara kikötői híd",
+            "ro": "Podul Demerara Harbour",
+            "en": "Demerara Harbour Bridge"
+          },
+          "coords": [
+            -58.1822,
+            6.7785
+          ],
+          "category": "landmark",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Eine der längsten schwimmenden Brücken.",
+            "hu": "A világ egyik leghosszabb úszó hídja.",
+            "ro": "Una dintre cele mai lungi poduri plutitoare din lume.",
+            "en": "Drive across one of the world's longest floating bridges."
+          }
+        },
+        {
+          "name": {
+            "de": "Royals Lunch (Peter's Hall)",
+            "hu": "Ebéd Peter's Hall negyedben",
+            "ro": "Prânz în Peter's Hall",
+            "en": "Lunch at Peter's Hall"
+          },
+          "coords": [
+            -58.1885,
+            6.7722
+          ],
+          "category": "gastro",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lokale indoguyanische Küche genießen.",
+            "hu": "Kóstold meg a helyi indo-guyanai konyhát.",
+            "ro": "Savurați bucătăria locală indo-guyaneză.",
+            "en": "Enjoy some delicious local Indo-Guyanese curry and roti."
+          }
+        },
+        {
+          "name": {
+            "de": "Mon Repos Agricultural Market",
+            "hu": "Mon Repos mezőgazdasági piac",
+            "ro": "Piața agricolă Mon Repos",
+            "en": "Mon Repos Agricultural Market"
+          },
+          "coords": [
+            -58.1152,
+            6.8022
+          ],
+          "category": "market",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Riesiger Markt außerhalb der Stadt.",
+            "hu": "Hatalmas piac a városon kívül, friss áruval.",
+            "ro": "O piață uriașă în afara orașului, cu produse proaspete.",
+            "en": "Visit this massive market for a local rural shopping feel."
+          }
+        },
+        {
+          "name": {
+            "de": "Arthur Chung Conference Centre",
+            "hu": "Arthur Chung Konferencia Központ",
+            "ro": "Centrul de Conferințe Arthur Chung",
+            "en": "Arthur Chung Conference Centre"
+          },
+          "coords": [
+            -58.1322,
+            6.8088
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Moderne Architektur, von China gespendet.",
+            "hu": "Modern épület, Kína ajándéka a nemzetnek.",
+            "ro": "Arhitectură modernă, un cadou din partea Chinei.",
+            "en": "View this modern landmark, a gift from China to Guyana."
+          }
+        },
+        {
+          "name": {
+            "de": "Guyana International Conference Centre",
+            "hu": "Nemzetközi Konferencia Központ",
+            "ro": "Centrul Internațional de Conferințe",
+            "en": "Guyana International Conference Centre"
+          },
+          "coords": [
+            -58.1345,
+            6.8112
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wichtiger Ort für regionale Politik.",
+            "hu": "Regionális politikai események fontos helyszíne.",
+            "ro": "Loc important pentru politica regională CARICOM.",
+            "en": "A key venue for Caribbean regional political meetings."
+          }
+        },
+        {
+          "name": {
+            "de": "Giftland Mall",
+            "hu": "Giftland Mall",
+            "ro": "Giftland Mall",
+            "en": "Giftland Mall"
+          },
+          "coords": [
+            -58.1388,
+            6.8135
+          ],
+          "category": "shopping",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Modernes Shopping und Entertainment.",
+            "hu": "Modern vásárlási és szórakozási központ.",
+            "ro": "Centru modern de cumpărături și divertisment.",
+            "en": "Guyana's premier modern shopping and cinema complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Kitty Seawall",
+            "hu": "Vacsora a Kitty gátnál",
+            "ro": "Cină la Digul Kitty",
+            "en": "Dinner at Kitty Seawall"
+          },
+          "coords": [
+            -58.1522,
+            6.8345
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.8,
+          "tip_5lang": {
+            "de": "Beliebter Ort für Streetfood am Abend.",
+            "hu": "Népszerű helyi street food lelőhely este.",
+            "ro": "Loc popular pentru street food în aer liber seara.",
+            "en": "Famous spot for outdoor street food and social atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet das politische Herz Georgetowns mit den Außenbezirken. Überqueren Sie die Demerara Harbour Bridge, besuchen Sie geschäftige Märkte außerhalb des Zentrums und entdecken Sie moderne Wahrzeichen wie die Giftland Mall. Der Tag endet perfekt mit Streetfood an der belebten Sea Wall.",
+        "hu": "Ez az autós túra összeköti Georgetown politikai központját a külső kerületekkel. Kelj át a Demerara-hídon, látogass el a város szélén lévő piacokra, és fedezd fel a modern Giftland Mallt. A napot a népszerű Kitty gátnál fejezheted be egy hangulatos vacsorával.",
+        "ro": "Acest tur cu mașina conectează centrul politic al orașului cu zonele periferice. Traversați celebrul pod plutitor peste râul Demerara, vizitați piețele rurale și mall-urile moderne. Ziua se încheie perfect cu mâncare stradală pe faleza animată Sea Wall.",
+        "en": "This driving tour connects Georgetown's political heart with its growing outskirts. Cross the unique floating bridge over the Demerara River, visit bustling suburban markets, and explore modern landmarks like Giftland Mall. The day ends perfectly with local street food at the lively Sea Wall."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "704 Sports Bar",
+            "tip": "Moderne Bar mit guter Aussicht und Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "704 Sports Bar",
+            "tip": "Modern bár jó kilátással és finom ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "704 Sports Bar",
+            "tip": "Bar modern cu priveliște și mâncare diversificată."
+          }
+        ],
+        "en": [
+          {
+            "name": "704 Sports Bar",
+            "tip": "A popular modern sports bar with great food and views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "National Park",
+            "tip": "Ruhiger Park für einen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nemzeti Park",
+            "tip": "Csendes park a pihenéshez és sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Național",
+            "tip": "Un loc liniștit pentru relaxare și plimbare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "National Park",
+            "tip": "A serene place for a walk away from the city noise.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City Mall",
+            "tip": "Klimatisiertes Einkaufen im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City Mall",
+            "tip": "Légkondicionált vásárlás a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "City Mall",
+            "tip": "Cumpărături cu aer condiționat în zona centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Mall",
+            "tip": "Air-conditioned shopping in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die Öffnungszeiten der Demerara-Brücke.",
+          "Parken Sie an bewachten Plätzen.",
+          "Vermeiden Sie die Hauptverkehrszeit am Morgen."
+        ],
+        "hu": [
+          "Ellenőrizd a Demerara-híd zárási időpontjait.",
+          "Használj őrzött parkolókat.",
+          "Kerüld el a reggeli csúcsforgalmat."
+        ],
+        "ro": [
+          "Verificați orarul de închidere al podului Demerara.",
+          "Folosiți parcări supravegheate unde este posibil.",
+          "Evitați orele de vârf de dimineață în trafic."
+        ],
+        "en": [
+          "Check the Demerara Harbour Bridge opening times beforehand.",
+          "Use secured parking lots in the city center.",
+          "Avoid the morning rush hour traffic into the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Main Minibus Station",
+            "hu": "Központi minibusz állomás",
+            "ro": "Stația centrală de microbuze",
+            "en": "Main Minibus Station"
+          },
+          "coords": [
+            -58.1672,
+            6.8115
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Herz des guyanischen Verkehrs.",
+            "hu": "A guyanai közlekedés lüktető szíve.",
+            "ro": "Inima transportului public din Guyana.",
+            "en": "Experience the organized chaos of the local transit hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Town Hall",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            -58.1642,
+            6.8128
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Einzigartige viktorianische Holzarchitektur.",
+            "hu": "Egyedülálló viktoriánus faépület.",
+            "ro": "Arhitectură victoriană din lemn, unică.",
+            "en": "A stunning example of high Victorian Gothic wooden architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourda Market",
+            "hu": "Bourda piac",
+            "ro": "Piața Bourda",
+            "en": "Bourda Market"
+          },
+          "coords": [
+            -58.1585,
+            6.8122
+          ],
+          "category": "market",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der älteste Markt der Stadt.",
+            "hu": "A város legrégebbi és legautentikusabb piaca.",
+            "ro": "Cea mai veche piață din oraș, foarte autentică.",
+            "en": "The city's oldest market, great for local produce and vibes."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Sheriff Street",
+            "hu": "Ebéd a Sheriff Streeten",
+            "ro": "Prânz pe Sheriff Street",
+            "en": "Lunch at Sheriff Street"
+          },
+          "coords": [
+            -58.1425,
+            6.8182
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Viele Restaurants in dieser belebten Straße.",
+            "hu": "Számos étterem ezen a forgalmas utcán.",
+            "ro": "Multe restaurante pe această stradă animată.",
+            "en": "A busy commercial street with many dining options."
+          }
+        },
+        {
+          "name": {
+            "de": "Bel Air Park",
+            "hu": "Bel Air Park negyed",
+            "ro": "Cartierul Bel Air Park",
+            "en": "Bel Air Park"
+          },
+          "coords": [
+            -58.1455,
+            6.8142
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein gehobenes Wohnviertel zum Spazierengehen.",
+            "hu": "Elegáns lakóövezet, kellemes sétákhoz.",
+            "ro": "Un cartier rezidențial select, bun pentru plimbare.",
+            "en": "An upscale residential area showcasing modern local villas."
+          }
+        },
+        {
+          "name": {
+            "de": "Lama Canal",
+            "hu": "Lama-csatorna",
+            "ro": "Canalul Lama",
+            "en": "Lama Canal"
+          },
+          "coords": [
+            -58.1352,
+            6.8055
+          ],
+          "category": "river",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Wichtiger Wasserweg für die Stadt.",
+            "hu": "A város egyik fontos vízi útja.",
+            "ro": "O cale navigabilă importantă pentru capitală.",
+            "en": "Learn about the city's drainage and water supply system."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie den Alltag in Georgetown wie ein Einheimischer mit den allgegenwärtigen Minibussen. Von der zentralen Station geht es zum historischen Rathaus und dem authentischen Bourda-Markt. Nach einem Mittagessen in der Sheriff Street erkunden Sie ruhigere Wohngebiete und die lebenswichtigen Kanäle der Stadt.",
+        "hu": "Éld át Georgetown mindennapjait helyiként a mindenütt jelenlévő minibuszokkal. A központi állomásról a történelmi városházához és az autentikus Bourda piachoz utazhatsz. Egy Sheriff utcai ebéd után felfedezheted a nyugodtabb lakónegyedeket és a város életfontosságú csatornáit.",
+        "ro": "Experimentați viața de zi cu zi în Georgetown ca un localnic folosind microbuzele (minibus). De la stația centrală mergeți la primăria istorică și piața autentică Bourda. După un prânz pe Sheriff Street, explorați cartierele rezidențiale liniștite și canalele vitale ale orașului.",
+        "en": "Experience daily life in Georgetown like a local using the ubiquitous minibuses. From the central station, head to the historic Town Hall and the authentic Bourda Market. After lunch on the bustling Sheriff Street, explore quieter residential areas and the city's essential canal systems."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shanta's Puri Shop",
+            "tip": "Berühmt für Dhal Puri und Curry."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shanta's Puri Shop",
+            "tip": "Híres a Dhal Puri és curry ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Shanta's Puri Shop",
+            "tip": "Renumit pentru Dhal Puri și curry tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shanta's Puri Shop",
+            "tip": "Iconic spot for authentic Guyanese Dhal Puri and curry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garden of Remembrance",
+            "tip": "Ein kleiner, friedlicher Park.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emlékezés kertje",
+            "tip": "Kicsi, csendes park a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Amintirii",
+            "tip": "Un parc mic și liniștit în oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Remembrance",
+            "tip": "A small, peaceful park dedicated to war veterans.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regent Street Shops",
+            "tip": "Lokale Mode und Elektronik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regent utcai üzletek",
+            "tip": "Helyi divat és elektronikai cikkek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe strada Regent",
+            "tip": "Modă locală și articole electronice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regent Street Shops",
+            "tip": "The main commercial street for clothes and electronics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Halten Sie Kleingeld für den Minibus bereit.",
+          "Nennen Sie dem Fahrer deutlich Ihr Ziel.",
+          "Reisen Sie außerhalb der Stoßzeiten."
+        ],
+        "hu": [
+          "Készíts elő aprópénzt a minibuszhoz.",
+          "Mondd meg egyértelműen a sofőrnek az úticélod.",
+          "Utazz csúcsidőn kívül, ha teheted."
+        ],
+        "ro": [
+          "Aveți pregătiți bani mărunți pentru microbuz.",
+          "Spuneți clar șoferului destinația dorită.",
+          "Călătoriți în afara orelor de vârf."
+        ],
+        "en": [
+          "Keep small change ready for the minibus fare.",
+          "Clearly state your drop-off point to the driver.",
+          "Try to travel mid-morning to avoid overloaded buses."
+        ]
+      }
+    }
+  }
+}

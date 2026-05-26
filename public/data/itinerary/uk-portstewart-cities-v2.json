@@ -1,0 +1,236 @@
+{
+  "city_id": "uk-portstewart-cities-v2",
+  "anchor": {
+    "name": "Portstewart",
+    "coords": [
+      -6.711,
+      55.18
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Portstewart Harbour",
+          "coords": [
+            -6.7135,
+            55.1815
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote.",
+            "hu": "Figyeld a halászhajókat a kikötőben.",
+            "ro": "Priviți bărcile de pescuit din port.",
+            "en": "Watch the fishing boats in the harbor."
+          }
+        },
+        {
+          "name": "The Promenade",
+          "coords": [
+            -6.7125,
+            55.1805
+          ],
+          "category": "recreational",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Holen Sie sich ein Morelli's Eis.",
+            "hu": "Egyél egy Morelli's fagyit.",
+            "ro": "Luați o înghețată Morelli's.",
+            "en": "Grab a Morelli's ice cream."
+          }
+        },
+        {
+          "name": "Dominican College",
+          "coords": [
+            -6.718,
+            55.1825
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Gebäude auf der Klippe ist ikonisch.",
+            "hu": "A szikla szélén álló épület ikonikus.",
+            "ro": "Clădirea de pe stâncă este iconică.",
+            "en": "The building on the cliff edge is iconic."
+          }
+        },
+        {
+          "name": "Portstewart Strand",
+          "coords": [
+            -6.735,
+            55.175
+          ],
+          "category": "natural",
+          "arrive_at": "12:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Perfekt für einen langen Strandspaziergang.",
+            "hu": "Tökéletes egy hosszú tengerparti sétához.",
+            "ro": "Perfect pentru o plimbare lungă pe plajă.",
+            "en": "Perfect for a long beach walk."
+          }
+        },
+        {
+          "name": "The Herring Pond",
+          "coords": [
+            -6.7155,
+            55.183
+          ],
+          "category": "natural",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein beliebter Ort für Klippenspringer.",
+            "hu": "Népszerű hely a sziklaugróknak.",
+            "ro": "Loc popular pentru sărituri în apă.",
+            "en": "Popular spot for cliff jumpers."
+          }
+        },
+        {
+          "name": "Agherton Parish Church",
+          "coords": [
+            -6.705,
+            55.178
+          ],
+          "category": "religious",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wunderschöne Architektur im Inneren.",
+            "hu": "Gyönyörű belső építészet.",
+            "ro": "Arhitectură interioară superbă.",
+            "en": "Beautiful interior architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens genießen Sie das maritime Flair am Hafen und die lebhafte Promenade. Nach einem Abstecher zum Dominican College wandern Sie zum weiten Portstewart Strand. Den Nachmittag verbringen Sie am Herring Pond und besuchen die historische Agherton Church, bevor Sie den Tag gemütlich ausklingen lassen.",
+        "hu": "Reggel élvezze a tengerparti hangulatot a kikötőben és a sétányon. A Dominican College érintésével sétáljon el a Portstewart Strandig. Délután a Herring Pond természetes medencéje és az Agherton templom várja, mielőtt befejezné a napot.",
+        "ro": "Dimineața savurați atmosfera maritimă din port și de pe faleză. După o oprire la Dominican College, mergeți pe jos până la plaja Portstewart Strand. După-amiaza vizitați Herring Pond și biserica istorică Agherton înainte de a încheia ziua.",
+        "en": "In the morning, enjoy the maritime flair at the harbor and the lively promenade. After a stop at Dominican College, walk to the vast Portstewart Strand. Spend the afternoon at the Herring Pond and visit historic Agherton Church before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morelli's",
+            "tip": "Legendäres Eis an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morelli's",
+            "tip": "Legendás fagylalt a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Morelli's",
+            "tip": "Înghețată legendară pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morelli's",
+            "tip": "Legendary ice cream on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Portstewart Strand",
+            "tip": "Abgelegene Dünen zum Entspannen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portstewart Strand",
+            "tip": "Félreeső dűnék a pihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portstewart Strand",
+            "tip": "Dune izolate pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Portstewart Strand",
+            "tip": "Secluded dunes for relaxing.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Promenade Shops",
+            "tip": "Lokales Kunsthandwerk und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány boltjai",
+            "tip": "Helyi kézműves termékek és ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe faleză",
+            "tip": "Artizanat local și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Promenade Shops",
+            "tip": "Local crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie Windkleidung für den Strand mit.",
+          "Probieren Sie die berühmten 'Sundae' Variationen."
+        ],
+        "hu": [
+          "Vigyél szélálló ruhát a tengerpartra.",
+          "Kóstold meg a híres 'Sundae' fagylaltkelyheket."
+        ],
+        "ro": [
+          "Aduceți haine rezistente la vânt pentru plajă.",
+          "Încercați faimoasele variante de înghețată 'Sundae'."
+        ],
+        "en": [
+          "Bring windproof clothing for the beach.",
+          "Try the famous 'Sundae' ice cream variations."
+        ]
+      }
+    }
+  }
+}

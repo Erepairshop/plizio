@@ -1,0 +1,891 @@
+{
+  "city_id": "uk-saffron-walden-cities-v2",
+  "anchor": {
+    "name": "Saffron Walden",
+    "coords": [
+      52.0262,
+      0.2449
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Market Square",
+            "hu": "Piactér",
+            "ro": "Market Square",
+            "en": "Market Square"
+          },
+          "coords": [
+            52.0238,
+            0.2405
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das historische Herz mit prächtigen Fachwerkhäusern.",
+            "hu": "Történelmi központ gyönyörű fagerendás házakkal.",
+            "ro": "Inima istorică cu superbe clădiri cu cadru de lemn.",
+            "en": "The historic heart with beautiful timber-framed buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Sun Inn",
+            "hu": "Old Sun Inn",
+            "ro": "Old Sun Inn",
+            "en": "Old Sun Inn"
+          },
+          "coords": [
+            52.0235,
+            0.2395
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Berühmt für die kunstvollen Stuckverzierungen (Pargeting).",
+            "hu": "Híres a különleges, díszes vakolatdíszítéseiről (pargeting).",
+            "ro": "Faimos pentru decorațiunile sale de ipsos (pargeting).",
+            "en": "Famous for its elaborate decorative plasterwork (pargeting)."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary's Church",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            52.0248,
+            0.2402
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die größte Pfarrkirche in Essex mit beeindruckendem Turm.",
+            "hu": "Essex legnagyobb plébániatemploma, lenyűgöző toronnyal.",
+            "ro": "Cea mai mare biserică parohială din Essex.",
+            "en": "The largest parish church in Essex with a stunning spire."
+          }
+        },
+        {
+          "name": {
+            "de": "Saffron Walden Castle",
+            "hu": "Saffron Walden-i vár",
+            "ro": "Castelul Saffron Walden",
+            "en": "Saffron Walden Castle"
+          },
+          "coords": [
+            52.0258,
+            0.2418
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ruinen eines normannischen Bergfrieds aus dem 12. Jahrhundert.",
+            "hu": "Egy 12. századi normann vár romjai a város közepén.",
+            "ro": "Ruinele unui donjon normand din secolul al XII-lea.",
+            "en": "Ruins of a 12th-century Norman keep in the town centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Eight Bells Lunch",
+            "hu": "Eight Bells ebéd",
+            "ro": "Prânz la Eight Bells",
+            "en": "Eight Bells Lunch"
+          },
+          "coords": [
+            52.0225,
+            0.2385
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hervorragende englische Küche in einem Gasthof von 1500.",
+            "hu": "Kiváló angol konyha egy 1500-ból származó fogadóban.",
+            "ro": "Bucătărie englezească excelentă într-un han din 1500.",
+            "en": "Excellent English cuisine in a 1500s timber-framed inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge End Garden",
+            "hu": "Bridge End Garden",
+            "ro": "Grădina Bridge End",
+            "en": "Bridge End Garden"
+          },
+          "coords": [
+            52.0265,
+            0.2375
+          ],
+          "category": "garden",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich im viktorianischen Buchsbaum-Labyrinth.",
+            "hu": "Tévedjen el a viktoriánus puszpáng-labirintusban.",
+            "ro": "Rătăciți prin labirintul victorian de cimișir.",
+            "en": "Get lost in the Victorian box hedge maze."
+          }
+        },
+        {
+          "name": {
+            "de": "Fry Art Gallery",
+            "hu": "Fry Művészeti Galéria",
+            "ro": "Galeria de Artă Fry",
+            "en": "Fry Art Gallery"
+          },
+          "coords": [
+            52.0268,
+            0.2365
+          ],
+          "category": "museum",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spezialisiert auf lokale Künstler des 20. Jahrhunderts.",
+            "hu": "A 20. századi helyi művészek alkotásaira szakosodott.",
+            "ro": "Specializată pe artiștii locali din secolul al XX-lea.",
+            "en": "Specializing in local 20th-century artists' work."
+          }
+        },
+        {
+          "name": {
+            "de": "The Turf Maze",
+            "hu": "Gyeplabirintus",
+            "ro": "Labirintul de gazon",
+            "en": "The Turf Maze"
+          },
+          "coords": [
+            52.0245,
+            0.2485
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das größte erhaltene Rasenlabyrinth Englands.",
+            "hu": "Anglia legnagyobb épségben maradt gyeplabirintusa.",
+            "ro": "Cel mai mare labirint de gazon din Anglia.",
+            "en": "The largest surviving turf maze in England."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Saffron Walden ist ein mittelalterlicher Traum in Essex. Dieser Rundgang beginnt am belebten Marktplatz und führt Sie vorbei an den kunstvollen Stuckfassaden des Old Sun Inn zur majestätischen St Mary's Church. Nach der Erkundung der Burgruine genießen Sie ein lokales Mittagessen im historischen Eight Bells. Der Nachmittag ist der botanischen Schönheit im Bridge End Garden gewidmet, bevor Sie den Tag am faszinierenden Rasenlabyrinth auf dem Common ausklingen lassen.",
+        "hu": "Saffron Walden egy középkori álom Essexben. Ez a gyalogtúra a nyüzsgő piactérről indul, érintve az Old Sun Inn különleges vakolatdíszeit és a fenséges Szent Mária-templomot. A várromok felfedezése után élvezze a helyi ebédet a történelmi Eight Bells-ben. A délutánt a Bridge End Garden botanikai csodáinak szenteljük, majd a napot a Common-on található izgalmas gyeplabirintusnál zárjuk.",
+        "ro": "Saffron Walden este un vis medieval în Essex. Acest tur pietonal începe din piața centrală, trece pe lângă fațadele decorate ale hanului Old Sun Inn și ajunge la maiestuoasa biserică St Mary. După explorarea ruinelor castelului, savurați un prânz local la istoricul Eight Bells. După-amiaza este dedicată frumuseții botanice din Bridge End Garden, încheind ziua la fascinantul labirint de gazon de pe Common.",
+        "en": "Saffron Walden is a medieval dream in Essex. This walking tour starts at the lively Market Square, taking you past the elaborate pargeting of the Old Sun Inn to the majestic St Mary's Church. After exploring the castle ruins, enjoy a local lunch at the historic Eight Bells. The afternoon is dedicated to the botanical beauty of Bridge End Garden, ending the day at the fascinating Turf Maze on the Common."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Eight Bells",
+            "tip": "Traditioneller Gasthof mit Fokus auf lokale Erzeugnisse."
+          },
+          {
+            "name": "Saffron Walden Market",
+            "tip": "Probieren Sie lokalen Käse und frisches Gebäck (Di & Sa)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Eight Bells",
+            "tip": "Hagyományos fogadó helyi alapanyagokra épülő konyhával."
+          },
+          {
+            "name": "Saffron Walden piac",
+            "tip": "Kóstoljon helyi sajtokat és friss péksüteményeket (kedd & szombat)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Eight Bells",
+            "tip": "Han tradițional cu accent pe produsele locale."
+          },
+          {
+            "name": "Piața Saffron Walden",
+            "tip": "Gustați brânzeturi locale și patiserie proaspătă (Mar & Sâm)."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Eight Bells",
+            "tip": "Traditional inn focusing on local Essex produce."
+          },
+          {
+            "name": "Saffron Walden Market",
+            "tip": "Try local cheeses and fresh pastries (Tue & Sat)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bridge End Garden",
+            "tip": "Sanktuarium der Ruhe mit viktorianischem Flair.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "The Common",
+            "tip": "Weite Grünfläche ideal für ein Abendpicknick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bridge End Garden",
+            "tip": "A nyugalom szigete viktoriánus hangulattal.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "The Common",
+            "tip": "Tágas zöldterület esti piknikhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Bridge End",
+            "tip": "Sanctuar de liniște cu aer victorian.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "The Common",
+            "tip": "Spațiu verde vast ideal pentru un picnic de seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bridge End Garden",
+            "tip": "A sanctuary of peace with Victorian flair.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "The Common",
+            "tip": "Expansive green space ideal for an evening picnic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Saffron Walden Market Square",
+            "tip": "Einer der besten Märkte in Essex für Antiquitäten und Lebensmittel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saffron Walden Piactér",
+            "tip": "Essex egyik legjobb piaca antikvitásokkal és élelmiszerekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Market Square Saffron Walden",
+            "tip": "Una dintre cele mai bune piețe din Essex pentru antichități și alimente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saffron Walden Market Square",
+            "tip": "One of the best markets in Essex for antiques and food."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Dienstag und Samstag sind Markttage und besonders lebhaft.",
+          "Das Pargeting an den Fassaden ist ein Markenzeichen der Stadt.",
+          "Bridge End Garden ist kostenlos, wird aber von Freiwilligen gepflegt."
+        ],
+        "hu": [
+          "A kedd és a szombat a piaci nap, ilyenkor a legélénkebb a város.",
+          "A házak falán látható díszes vakolás a város védjegye.",
+          "A Bridge End Garden ingyenes, de önkéntesek gondozzák."
+        ],
+        "ro": [
+          "Marțea și sâmbăta sunt zile de piață și sunt foarte animate.",
+          "Tehnica pargeting de pe fațade este emblema orașului.",
+          "Grădina Bridge End este gratuită, fiind întreținută de voluntari."
+        ],
+        "en": [
+          "Tuesday and Saturday are market days and particularly vibrant.",
+          "The decorative pargeting on facades is a signature of the town.",
+          "Bridge End Garden is free, maintained by dedicated volunteers."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Historic Core Cluster",
+            "hu": "Történelmi központ",
+            "ro": "Cluster Centrul Istoric",
+            "en": "Historic Core Cluster"
+          },
+          "coords": [
+            52.0238,
+            0.2405
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Swan Meadow Parkplatz.",
+            "hu": "Parkoljon a Swan Meadow parkolóban.",
+            "ro": "Parcați la parcarea Swan Meadow.",
+            "en": "Park at Swan Meadow car park."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary's Church",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            52.0248,
+            0.2402
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuch zu Fuß vom Markt (Cluster A).",
+            "hu": "Gyalogos látogatás a piactérről (A-klaszter).",
+            "ro": "Vizită pe jos din piață (Cluster A).",
+            "en": "Walk from the market (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Audley End House",
+            "hu": "Audley End House",
+            "ro": "Casa Audley End",
+            "en": "Audley End House"
+          },
+          "coords": [
+            52.0205,
+            0.2215
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein prächtiges jakobinisches Anwesen mit eigenem Parkplatz.",
+            "hu": "Pompás jakobinus birtok saját parkolóval.",
+            "ro": "O proprietate iacobiană splendidă cu parcare proprie.",
+            "en": "A grand Jacobean estate with its own parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Audley End Gastro",
+            "hu": "Audley End ebéd",
+            "ro": "Gastro la Audley End",
+            "en": "Audley End Gastro"
+          },
+          "coords": [
+            52.0195,
+            0.2225
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Mittagessen im Tea Room des Anwesens.",
+            "hu": "Ebéd a birtok teázójában.",
+            "ro": "Prânz la ceainăria domeniului.",
+            "en": "Lunch in the estate's tea room."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge End Garden",
+            "hu": "Bridge End Garden",
+            "ro": "Grădina Bridge End",
+            "en": "Bridge End Garden"
+          },
+          "coords": [
+            52.0265,
+            0.2375
+          ],
+          "category": "garden",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Rückkehr ins Dorfzentrum (Cluster C).",
+            "hu": "Visszatérés a városközpontba (C-klaszter).",
+            "ro": "Revenire în centrul orașului (Cluster C).",
+            "en": "Return to the town centre (Cluster C)."
+          }
+        },
+        {
+          "name": {
+            "de": "Saffron Walden Museum",
+            "hu": "Saffron Walden Múzeum",
+            "ro": "Muzeul Saffron Walden",
+            "en": "Saffron Walden Museum"
+          },
+          "coords": [
+            52.0262,
+            0.2425
+          ],
+          "category": "museum",
+          "arrive_at": "16:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuch zu Fuß vom Parkplatz (Cluster C).",
+            "hu": "Gyalogos látogatás a parkolóból (C-klaszter).",
+            "ro": "Vizită pe jos din parcare (Cluster C).",
+            "en": "Walk from the parking (Cluster C)."
+          }
+        },
+        {
+          "name": {
+            "de": "Leaden Roding Kirándulás",
+            "hu": "Leaden Roding kirándulás",
+            "ro": "Excursie Leaden Roding",
+            "en": "Leaden Roding Trip"
+          },
+          "coords": [
+            51.8155,
+            0.3155
+          ],
+          "category": "historical",
+          "arrive_at": "17:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Mühle in der Nähe.",
+            "hu": "Látogassa meg a közeli történelmi malmot.",
+            "ro": "Vizitați moara istorică din apropiere.",
+            "en": "Visit the nearby historic windmill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das malerische Saffron Walden mit dem imposanten Audley End House. Wir parken in strategischen Clustern, um den historischen Kern und die prächtigen Gärten zu Fuß zu erkunden. Der Tag endet mit einem kurzen Ausflug nach Leaden Roding, um die ländliche Architektur von Essex zu bewundern.",
+        "hu": "Ez az autós túra ötvözi a festői Saffron Waldent a lenyűgöző Audley End House-zal. Stratégiai klaszterekben parkolunk, hogy gyalogosan fedezzük fel a történelmi magot és a pompás kerteket. A napot egy rövid kirándulással zárjuk Leaden Rodingba, Essex vidékének építészeti kincseihez.",
+        "ro": "Acest tur cu mașina combină pitorescul Saffron Walden cu impunătoarea casă Audley End. Parcăm în clustere strategice pentru a explora la pas nucleul istoric și grădinile splendide. Ziua se încheie cu o scurtă excursie la Leaden Roding pentru a admira arhitectura rurală din Essex.",
+        "en": "This car tour combines picturesque Saffron Walden with the imposing Audley End House. We park in strategic clusters to explore the historic core and grand gardens on foot. The day ends with a short trip to Leaden Roding to admire the rural Essex architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Audley End Tea Room",
+            "tip": "Hauseigene Kuchen in königlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Audley End teázó",
+            "tip": "Helyben készült sütemények királyi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceainăria Audley End",
+            "tip": "Prăjituri de casă într-o atmosferă regală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Audley End Tea Room",
+            "tip": "Homemade cakes in a royal atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Audley End Gardens",
+            "tip": "Weitläufige Parklandschaft von Capability Brown.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Audley End kertek",
+            "tip": "Hatalmas park Capability Brown tervezésében.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Audley End",
+            "tip": "Parc vast proiectat de Capability Brown.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Audley End Gardens",
+            "tip": "Expansive parkland designed by Capability Brown.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Saffron Walden Antique Centre",
+            "tip": "Schatzkammer für seltene Fundstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saffron Walden Antikvitás Központ",
+            "tip": "Kincsesbánya ritka leletek kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de Antichități Saffron Walden",
+            "tip": "O adevărată comoară pentru obiecte rare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saffron Walden Antique Centre",
+            "tip": "A treasure trove for rare finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Audley End erfordert ein separates Ticket.",
+          "Die Fahrt nach Leaden Roding führt durch typische Weald-Landschaften.",
+          "Swan Meadow ist der praktischste Parkplatz für den Stadtbesuch."
+        ],
+        "hu": [
+          "Az Audley End House belépője külön fizetendő.",
+          "A Leaden Roding-i út tipikus vidéki tájakon vezet keresztül.",
+          "A Swan Meadow a legpraktikusabb parkoló a városlátogatáshoz."
+        ],
+        "ro": [
+          "Casa Audley End necesită bilet separat.",
+          "Drumul spre Leaden Roding trece prin peisaje rurale tipice.",
+          "Swan Meadow este cea mai practică parcare pentru vizitarea orașului."
+        ],
+        "en": [
+          "Audley End requires a separate admission ticket.",
+          "The drive to Leaden Roding passes through typical Weald scenery.",
+          "Swan Meadow is the most convenient car park for town visits."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Audley End Station Hub",
+            "hu": "Audley End vasútállomás",
+            "ro": "Gara Audley End",
+            "en": "Audley End Station Hub"
+          },
+          "coords": [
+            52.0125,
+            0.2075
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Direkte Züge von London Liverpool Street.",
+            "hu": "Közvetlen vonatok London Liverpool Street állomásról.",
+            "ro": "Trenuri directe de la Londra Liverpool Street.",
+            "en": "Direct trains from London Liverpool Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Market Square Cluster",
+            "hu": "Piactér",
+            "ro": "Cluster Market Square",
+            "en": "Market Square Cluster"
+          },
+          "coords": [
+            52.0238,
+            0.2405
+          ],
+          "category": "square",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Bus 301 bringt Sie direkt ins Zentrum (Cluster A).",
+            "hu": "A 301-es busz közvetlenül a központba visz (A-klaszter).",
+            "ro": "Autobuzul 301 vă duce direct în centru (Cluster A).",
+            "en": "Bus 301 takes you directly to the centre (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary's & Castle",
+            "hu": "Szent Mária & Vár",
+            "ro": "St Mary & Castelul",
+            "en": "St Mary's & Castle"
+          },
+          "coords": [
+            52.0258,
+            0.2418
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang innerhalb von Cluster A.",
+            "hu": "Rövid séta az A-klaszteren belül.",
+            "ro": "Scurtă plimbare în cadrul clusterului A.",
+            "en": "Short walk within Cluster A."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro-Pause Old Sun Inn",
+            "hu": "Ebéd az Old Sun Inn-nél",
+            "ro": "Prânz la Old Sun Inn",
+            "en": "Gastro Break Old Sun Inn"
+          },
+          "coords": [
+            52.0235,
+            0.2395
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kultiger Ort für ein traditionelles Mittagessen.",
+            "hu": "Ikonikus hely egy hagyományos ebédhez.",
+            "ro": "Loc iconic pentru un prânz tradițional.",
+            "en": "Iconic spot for a traditional lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge End Garden",
+            "hu": "Bridge End Garden",
+            "ro": "Grădina Bridge End",
+            "en": "Bridge End Garden"
+          },
+          "coords": [
+            52.0265,
+            0.2375
+          ],
+          "category": "garden",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger Abschluss im Grünen (Cluster B).",
+            "hu": "Csendes zárás a zöldben (B-klaszter).",
+            "ro": "Final liniștit în mijlocul naturii (Cluster B).",
+            "en": "Quiet end in the greenery (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Audley End Station Return",
+            "hu": "Visszatérés az állomásra",
+            "ro": "Revenire la gara Audley End",
+            "en": "Audley End Station Return"
+          },
+          "coords": [
+            52.0125,
+            0.2075
+          ],
+          "category": "civic",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Letzter Busanschluss vor dem Zug zurück.",
+            "hu": "Utolsó buszcsatlakozás a vonat előtt.",
+            "ro": "Ultima conexiune de autobuz înainte de tren.",
+            "en": "Last bus connection before the train back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Per Zug und Bus erschließen wir das mittelalterliche Saffron Walden. Vom Bahnhof Audley End führt uns der lokale Transit direkt in das historische Herz (Cluster A), wo wir den Markt, die Kirche und die Burgruine zu Fuß entdecken. Nach einer kulinarischen Pause im legendären Old Sun Inn erkunden wir die Gärten im Norden, bevor uns der Bus zurück zum Bahnhof bringt.",
+        "hu": "Vonattal és busszal fedezzük fel a középkori Saffron Waldent. Az Audley End vasútállomástól helyi járattal érkezünk a történelmi magba (A-klaszter), ahol gyalogosan fedezzük fel a piacot, a templomot és a várromokat. A legendás Old Sun Inn-ben tett ebédszünet után az északi kerteket látogatjuk meg, majd busszal térünk vissza az állomásra.",
+        "ro": "Descoperim orașul medieval Saffron Walden cu trenul și autobuzul. De la gara Audley End, transportul local ne duce direct în inima istorică (Cluster A), unde explorăm la pas piața, biserica și ruinele castelului. După o pauză culinară la legendarul Old Sun Inn, vizităm grădinile din nord înainte ca autobuzul să ne ducă înapoi la gară.",
+        "en": "We explore medieval Saffron Walden by train and bus. From Audley End station, local transit takes us straight to the historic heart (Cluster A), where we discover the market, church, and castle ruins on foot. After a culinary break at the legendary Old Sun Inn, we explore the northern gardens before the bus takes us back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Cross Keys",
+            "tip": "Historischer Pub mit toller Atmosphäre nahe dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Cross Keys",
+            "tip": "Történelmi pub remek hangulattal a piac közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Cross Keys",
+            "tip": "Pub istoric cu o atmosferă grozavă lângă piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Cross Keys",
+            "tip": "Historic pub with great atmosphere near the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fry Art Gallery Garden",
+            "tip": "Ein verborgener Schatz hinter der Galerie.",
+            "emoji": "🎨"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fry Art Gallery kert",
+            "tip": "Egy rejtett kincs a galéria mögött.",
+            "emoji": "🎨"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Fry Art Gallery",
+            "tip": "O comoară ascunsă în spatele galeriei.",
+            "emoji": "🎨"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fry Art Gallery Garden",
+            "tip": "A hidden gem behind the gallery.",
+            "emoji": "🎨"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hart's Books",
+            "tip": "Wunderschöne unabhängige Buchhandlung im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hart's Books",
+            "tip": "Gyönyörű független könyvesbolt a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hart's Books",
+            "tip": "Librărie independentă superbă în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hart's Books",
+            "tip": "Beautiful independent bookshop in the centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Station Audley End liegt etwa 2 Meilen vom Zentrum entfernt.",
+          "Kaufen Sie ein PlusBus Ticket für unbegrenzte Fahrten.",
+          "Die Busfrequenzen sind an Sonntagen stark reduziert."
+        ],
+        "hu": [
+          "Az Audley End állomás kb. 2 mérföldre van a központtól.",
+          "Váltson PlusBus jegyet a korlátlan buszozáshoz.",
+          "Vasárnaponként a buszjáratok ritkábban közlekednek."
+        ],
+        "ro": [
+          "Gara Audley End se află la aproximativ 2 mile de centru.",
+          "Cumpărați un bilet PlusBus pentru călătorii nelimitate.",
+          "Frecvența autobuzelor este redusă semnificativ duminica."
+        ],
+        "en": [
+          "Audley End station is about 2 miles from the town centre.",
+          "Buy a PlusBus ticket for unlimited local bus travel.",
+          "Bus frequencies are significantly reduced on Sundays."
+        ]
+      }
+    }
+  }
+}

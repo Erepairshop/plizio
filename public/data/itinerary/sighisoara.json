@@ -1,0 +1,1488 @@
+{
+  "city_id": "sighisoara",
+  "anchor": {
+    "name": "Sighișoara Óváros",
+    "coords": [
+      46.2193,
+      24.7926
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bürgerplatz",
+            "hu": "Polgárok tere",
+            "ro": "Piața Cetății",
+            "en": "Citadel Square"
+          },
+          "coords": [
+            46.2195,
+            24.7928
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh ankommen, um die Ruhe zu genießen.",
+            "hu": "Érkezz korán, hogy élvezd a csendet.",
+            "ro": "Sosiți devreme pentru a vă bucura de liniște.",
+            "en": "Arrive early to enjoy the quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            46.2197,
+            24.7925
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Blick von der Spitze ist spektakulär.",
+            "hu": "A torony tetejéről a kilátás lenyűgöző.",
+            "ro": "Priveliștea de sus este spectaculoasă.",
+            "en": "The view from the top is spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergkirche",
+            "hu": "Hegyi templom",
+            "ro": "Biserica din Deal",
+            "en": "Church on the Hill"
+          },
+          "coords": [
+            46.2202,
+            24.7918
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Fresken sind einzigartig.",
+            "hu": "A freskók egyedülállóak.",
+            "ro": "Frescele sunt unice.",
+            "en": "The frescoes are unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Geschichtsmuseum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "History Museum"
+          },
+          "coords": [
+            46.219,
+            24.7922
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Folterkammer ist nichts für schwache Nerven.",
+            "hu": "A kínzókamra nem gyenge idegzetűeknek.",
+            "ro": "Camera de tortură nu este pentru cei slabi de înger.",
+            "en": "The torture chamber is not for the faint-hearted."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joseph-Kathedrale",
+            "hu": "Szent József-székesegyház",
+            "ro": "Catedrala Sfântul Iosif",
+            "en": "St. Joseph's Cathedral"
+          },
+          "coords": [
+            46.2182,
+            24.7935
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Orgelkonzerte im Sommer sind ein Genuss.",
+            "hu": "A nyári orgonakoncertek élvezetesek.",
+            "ro": "Concertele de orgă din vară sunt o încântare.",
+            "en": "Summer organ concerts are a delight."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen – Casa Vlad Dracul",
+            "hu": "Ebéd – Casa Vlad Dracul",
+            "ro": "Prânz – Casa Vlad Dracul",
+            "en": "Lunch – Casa Vlad Dracul"
+          },
+          "coords": [
+            46.2196,
+            24.793
+          ],
+          "category": "gastro",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Versuch den Dracula-Burger!",
+            "hu": "Próbáld ki a Drakula hamburgert!",
+            "ro": "Încearcă burgerul Dracula!",
+            "en": "Try the Dracula burger!"
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadellenpark",
+            "hu": "Citadella Park",
+            "ro": "Parcul Cetății",
+            "en": "Citadel Park"
+          },
+          "coords": [
+            46.2188,
+            24.791
+          ],
+          "category": "park",
+          "arrive_at": "16:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schattige Bänke mit Blick auf die Altstadt.",
+            "hu": "Árnyékos padok az óvárosra néző kilátással.",
+            "ro": "Bănci umbrite cu vedere spre orașul vechi.",
+            "en": "Shaded benches with a view of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie auf dem Bürgerplatz mit einem Kaffee, bevor Sie den Uhrturm erklimmen. Mittag: Besuchen Sie die Bergkirche und das Geschichtsmuseum. Nachmittag: Genießen Sie ein traditionelles Mittagessen in der Casa Vlad Dracul, danach ein Spaziergang durch den Zitadellenpark. Abend: Lassen Sie den Tag bei einem Glas Wein auf der Terrasse ausklingen.",
+        "hu": "Reggel: Kezdje a Polgárok terén egy kávéval, majd mássza meg az Óratornyot. Dél: Látogassa meg a Hegyi templomot és a Történeti Múzeumot. Délután: Ebédeljen a Casa Vlad Draculban, majd sétáljon a Citadella Parkban. Este: Egy pohár borral zárja a napot a teraszon.",
+        "ro": "Dimineața: Începeți cu o cafea în Piața Cetății, apoi urcați în Turnul cu Ceas. Prânz: Vizitați Biserica din Deal și Muzeul de Istorie. După-amiază: Prânziți la Casa Vlad Dracul, apoi plimbați-vă prin Parcul Cetății. Seara: Încheiați ziua cu un pahar de vin pe terasă.",
+        "en": "Morning: Start with coffee at Citadel Square, then climb the Clock Tower. Midday: Visit the Church on the Hill and the History Museum. Afternoon: Enjoy a traditional lunch at Casa Vlad Dracul, then stroll through Citadel Park. Evening: End the day with a glass of wine on the terrace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Casa Vlad Dracul",
+            "tip": "Dracula-Burger und Mici"
+          },
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Traditionelle siebenbürgische Küche"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Hausgemachtes Eis"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa Vlad Dracul",
+            "tip": "Drakula burger és mici"
+          },
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Hagyományos erdélyi konyha"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Házi készítésű fagylalt"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Vlad Dracul",
+            "tip": "Burger Dracula și mici"
+          },
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Bucătărie tradițională transilvăneană"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Înghețată artizanală"
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa Vlad Dracul",
+            "tip": "Dracula burger and mici"
+          },
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Traditional Transylvanian cuisine"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Homemade ice cream"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zitadellenpark",
+            "tip": "Sonnenuntergang mit Blick auf die Altstadt",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bergkirche",
+            "tip": "Stiller Innenhof",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gassen hinterm Uhrturm",
+            "tip": "Wenig besuchte Gässchen",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella Park",
+            "tip": "Naplemente az óvárosra néző kilátással",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hegyi templom",
+            "tip": "Csendes belső udvar",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Óratorny mögötti sikátorok",
+            "tip": "Kevésbé látogatott utcácskák",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cetății",
+            "tip": "Apus de soare cu vedere spre orașul vechi",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica din Deal",
+            "tip": "Curte interioară liniștită",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ulițele din spatele Turnului cu Ceas",
+            "tip": "Străduțe mai puțin frecventate",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel Park",
+            "tip": "Sunset with a view of the old town",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Church on the Hill",
+            "tip": "Quiet inner courtyard",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alleys behind Clock Tower",
+            "tip": "Less frequented lanes",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksmarkt am Bürgerplatz",
+            "tip": "Strickwaren, Keramik"
+          },
+          {
+            "name": "Weinladen 'Vinoteca'",
+            "tip": "Siebenbürgische Weine"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves piac a Polgárok terén",
+            "tip": "Kötöttáruk, kerámiák"
+          },
+          {
+            "name": "Borbolt 'Vinoteca'",
+            "tip": "Erdélyi borok"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târgul meșteșugarilor din Piața Cetății",
+            "tip": "Articole tricotate, ceramică"
+          },
+          {
+            "name": "Magazin de vinuri 'Vinoteca'",
+            "tip": "Vinuri transilvănene"
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft market at Citadel Square",
+            "tip": "Knitted goods, ceramics"
+          },
+          {
+            "name": "Wine shop 'Vinoteca'",
+            "tip": "Transylvanian wines"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist autofrei – perfekt für Fußgänger.",
+          "Tragen Sie bequeme Schuhe; das Pflaster ist uneben.",
+          "Viele Souvenirläden akzeptieren nur Bargeld.",
+          "Der Aufstieg zum Uhrturm lohnt sich für das Panorama.",
+          "Probieren Sie unbedingt die lokale Küche – Mici und Palinka."
+        ],
+        "hu": [
+          "Az óváros autómentes – tökéletes gyalogosoknak.",
+          "Viseljen kényelmes cipőt; a macskakő egyenetlen.",
+          "Sok ajándékbolt csak készpénzt fogad el.",
+          "Az Óratoronyba való feljutás megéri a panorámáért.",
+          "Feltétlenül kóstolja meg a helyi ételeket – mici és pálinka."
+        ],
+        "ro": [
+          "Centrul vechi este pietonal – perfect pentru pietoni.",
+          "Purtați încălțăminte confortabilă; piatra cubică este neuniformă.",
+          "Multe magazine de suveniruri acceptă doar numerar.",
+          "Urcarea în Turnul cu Ceas merită pentru panoramă.",
+          "Încercați neapărat bucătăria locală – mici și țuică."
+        ],
+        "en": [
+          "The old town is car-free – perfect for pedestrians.",
+          "Wear comfortable shoes; the cobblestone is uneven.",
+          "Many souvenir shops accept cash only.",
+          "The climb to the Clock Tower is worth it for the panorama.",
+          "Be sure to try local cuisine – mici and palinka."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bürgerplatz",
+            "hu": "Polgárok tere",
+            "ro": "Piața Cetății",
+            "en": "Citadel Square"
+          },
+          "coords": [
+            46.2195,
+            24.7928
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahrradparkplatz am Rand des Platzes.",
+            "hu": "Kerékpárparkoló a tér szélén.",
+            "ro": "Parcare pentru biciclete la marginea pieței.",
+            "en": "Bike parking at the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            46.2197,
+            24.7925
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schloss das Fahrrad am Geländer unten an.",
+            "hu": "A kerékpárt az alul lévő korláthoz lakatold.",
+            "ro": "Lacăți bicicleta de garda de jos.",
+            "en": "Lock your bike to the railing below."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joseph-Kathedrale",
+            "hu": "Szent József-székesegyház",
+            "ro": "Catedrala Sfântul Iosif",
+            "en": "St. Joseph's Cathedral"
+          },
+          "coords": [
+            46.2182,
+            24.7935
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ruhiger Innenhof für eine Pause.",
+            "hu": "Csendes belső udvar egy szünetre.",
+            "ro": "Curte interioară liniștită pentru o pauză.",
+            "en": "Quiet inner courtyard for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen – Casa cu Cerb",
+            "hu": "Ebéd – Casa cu Cerb",
+            "ro": "Prânz – Casa cu Cerb",
+            "en": "Lunch – Casa cu Cerb"
+          },
+          "coords": [
+            46.219,
+            24.794
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fahrradständer vor dem Restaurant.",
+            "hu": "Kerékpártároló az étterem előtt.",
+            "ro": "Suport pentru biciclete în fața restaurantului.",
+            "en": "Bike rack in front of the restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Târnava Mare Uferweg",
+            "hu": "Nagy-Küküllő-parti kerékpárút",
+            "ro": "Traseul de biciclete pe malul Târnavei Mari",
+            "en": "Târnava Mare Riverside Bike Path"
+          },
+          "coords": [
+            46.215,
+            24.79
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schöne Strecke entlang des Flusses, wenig Verkehr.",
+            "hu": "Szép útvonal a folyó mentén, kevés forgalom.",
+            "ro": "Traseu frumos de-a lungul râului, trafic redus.",
+            "en": "Nice route along the river, low traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Breite",
+            "hu": "Kilátó a Breitén",
+            "ro": "Punct de belvedere Breite",
+            "en": "Breite Viewpoint"
+          },
+          "coords": [
+            46.212,
+            24.785
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bringen Sie ein Fernglas mit – Vögel beobachten!",
+            "hu": "Hozzon távcsövet – madármegfigyelés!",
+            "ro": "Aduceți binoclul – observarea păsărilor!",
+            "en": "Bring binoculars – birdwatching!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zum Bürgerplatz und besichtigen Sie den Uhrturm. Mittag: Fahren Sie zur Kathedrale und genießen Sie das Mittagessen im Casa cu Cerb. Nachmittag: Folgen Sie dem Flussuferweg zum Aussichtspunkt Breite. Abend: Rückfahrt durch die Altstadt – ein paar Fotos machen.",
+        "hu": "Reggel: Kerékpározzon a Polgárok terére, nézze meg az Óratornyot. Dél: Kerékpározzon a székesegyházhoz, ebédeljen a Casa cu Cerb-ben. Délután: Kövesse a folyóparti utat a Breite kilátóhoz. Este: Visszautazás az óvároson át – pár fotó.",
+        "ro": "Dimineața: Pedalați spre Piața Cetății și vizitați Turnul cu Ceas. Prânz: Mergeți la catedrală și luați prânzul la Casa cu Cerb. După-amiază: Urmați drumul de pe malul râului până la punctul de belvedere Breite. Seara: Întoarcere prin orașul vechi – câteva fotografii.",
+        "en": "Morning: Cycle to Citadel Square and visit the Clock Tower. Midday: Bike to the cathedral and have lunch at Casa cu Cerb. Afternoon: Follow the riverside path to the Breite viewpoint. Evening: Ride back through the old town – take some photos."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Siebenbürgische Spezialitäten"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Erfrischung nach der Radtour"
+          },
+          {
+            "name": "Weinbar am Platz",
+            "tip": "Lokale Weine"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Erdélyi specialitások"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Frissítő a bringatúra után"
+          },
+          {
+            "name": "Borozó a téren",
+            "tip": "Helyi borok"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Specialități transilvănene"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Răcorire după turul cu bicicleta"
+          },
+          {
+            "name": "Crama din piață",
+            "tip": "Vinuri locale"
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Transylvanian specialties"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Refreshment after the bike ride"
+          },
+          {
+            "name": "Wine bar at the square",
+            "tip": "Local wines"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Breite Aussichtspunkt",
+            "tip": "Weite Sicht über das Tal",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Flussuferweg",
+            "tip": "Ruhiger Radweg",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bergkirche – Innenhof",
+            "tip": "Stiller Ort",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Breite kilátó",
+            "tip": "Tágas kilátás a völgyre",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Folyóparti út",
+            "tip": "Csendes kerékpárút",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hegyi templom – udvar",
+            "tip": "Csendes hely",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Breite",
+            "tip": "Vedere largă asupra văii",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Drumul pe malul râului",
+            "tip": "Traseu liniștit pentru biciclete",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica din Deal – curte",
+            "tip": "Loc liniștit",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Breite Viewpoint",
+            "tip": "Wide view over the valley",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Riverside path",
+            "tip": "Quiet bike path",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church on the Hill – courtyard",
+            "tip": "Quiet place",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen 'Bicicleta'",
+            "tip": "Zubehör und Reparatur"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt 'Bicicleta'",
+            "tip": "Kiegészítők és javítás"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete 'Bicicleta'",
+            "tip": "Accesorii și reparații"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop 'Bicicleta'",
+            "tip": "Accessories and repair"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Radwege in der Altstadt sind eng – schieben Sie.",
+          "Helmpflicht in Rumänien? Es wird empfohlen.",
+          "Trinken Sie viel Wasser; es gibt Brunnen in der Stadt.",
+          "Planen Sie genug Zeit für die Breite-Auffahrt ein.",
+          "Achten Sie auf Kopfsteinpflaster in den Gassen."
+        ],
+        "hu": [
+          "Az óvárosban a kerékpárutak szűkek – tolja a biciklit.",
+          "Bukósisak kötelező Romániában? Ajánlott.",
+          "Igyon sok vizet; szökőkutak vannak a városban.",
+          "Tervezzen elég időt a Breite feljutáshoz.",
+          "Figyeljen a macskakövekre az utcácskákban."
+        ],
+        "ro": [
+          "Pistele de biciclete din centrul vechi sunt înguste – mergeți pe jos.",
+          "Casca de protecție este obligatorie în România? Se recomandă.",
+          "Beți multă apă; există fântâni în oraș.",
+          "Planificați suficient timp pentru urcarea la Breite.",
+          "Atenție la piatra cubică în străduțe."
+        ],
+        "en": [
+          "Bike lanes in the old town are narrow – walk your bike.",
+          "Helmet mandatory in Romania? It's recommended.",
+          "Drink plenty of water; there are fountains in the city.",
+          "Allow enough time for the climb to Breite.",
+          "Watch out for cobblestones in the alleys."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 35.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bürgerplatz",
+            "hu": "Polgárok tere",
+            "ro": "Piața Cetății",
+            "en": "Citadel Square"
+          },
+          "coords": [
+            46.2195,
+            24.7928
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Rand der Altstadt (Parkhaus 'Parcare Cetate').",
+            "hu": "Parkoljon az óváros szélén (Parcare Cetate parkolóház).",
+            "ro": "Parchează la marginea orașului vechi (parcarea 'Parcare Cetate').",
+            "en": "Park at the edge of the old town (Parcare Cetate parking garage)."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            46.2197,
+            24.7925
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wandern Sie vom Parkplatz aus zu Fuß weiter.",
+            "hu": "Sétáljon tovább a parkolótól gyalog.",
+            "ro": "Continuați pe jos de la parcare.",
+            "en": "Continue on foot from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joseph-Kathedrale",
+            "hu": "Szent József-székesegyház",
+            "ro": "Catedrala Sfântul Iosif",
+            "en": "St. Joseph's Cathedral"
+          },
+          "coords": [
+            46.2182,
+            24.7935
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Uhrturm.",
+            "hu": "Rövid séta az Óratoronytól.",
+            "ro": "Scurtă plimbare de la Turnul cu Ceas.",
+            "en": "Short walk from the Clock Tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen – Casa Vlad Dracul",
+            "hu": "Ebéd – Casa Vlad Dracul",
+            "ro": "Prânz – Casa Vlad Dracul",
+            "en": "Lunch – Casa Vlad Dracul"
+          },
+          "coords": [
+            46.2196,
+            24.793
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beliebt – reservieren Sie vorher.",
+            "hu": "Népszerű – foglaljon előre.",
+            "ro": "Popular – rezervați înainte.",
+            "en": "Popular – book in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Breite",
+            "hu": "Autózás a Breitére",
+            "ro": "Drumul cu mașina la Breite",
+            "en": "Drive to Breite"
+          },
+          "coords": [
+            46.212,
+            24.785
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Aussichtspunkt.",
+            "hu": "Parkoló közvetlenül a kilátónál.",
+            "ro": "Parcare direct la punctul de belvedere.",
+            "en": "Parking right at the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Saschiz – Kirchenburg",
+            "hu": "Autózás Szászkézdre – Erődtemplom",
+            "ro": "Drumul cu mașina la Saschiz – Biserica fortificată",
+            "en": "Drive to Saschiz – Fortified Church"
+          },
+          "coords": [
+            46.193,
+            24.97
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "UNESCO-Welterbe – lohnt die Fahrt.",
+            "hu": "UNESCO világörökség – megéri az utat.",
+            "ro": "Patrimoniu UNESCO – merită drumul.",
+            "en": "UNESCO World Heritage – worth the drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch Saschiz",
+            "hu": "Séta Szászkézden",
+            "ro": "Plimbare prin Saschiz",
+            "en": "Walk through Saschiz"
+          },
+          "coords": [
+            46.194,
+            24.969
+          ],
+          "category": "garden",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schöne Bauerngärten hinter der Kirche.",
+            "hu": "Szép parasztkertek a templom mögött.",
+            "ro": "Grădini țărănești frumoase în spatele bisericii.",
+            "en": "Beautiful peasant gardens behind the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Sighișoara – Abendessen",
+            "hu": "Visszaút Székelyudvarhelyre – vacsora",
+            "ro": "Întoarcere la Sighișoara – cină",
+            "en": "Return to Sighișoara – dinner"
+          },
+          "coords": [
+            46.2195,
+            24.7928
+          ],
+          "category": "gastro",
+          "arrive_at": "17:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Abschluss mit einem Glas Țuică.",
+            "hu": "Zárás egy pohár pálinkával.",
+            "ro": "Încheiați cu un pahar de țuică.",
+            "en": "Finish with a glass of Țuică."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Parken am Altstadtrand, besichtigen Sie den Uhrturm und die Kathedrale. Mittag: Mittagessen in der Casa Vlad Dracul. Nachmittag: Fahrt zur Breite-Aussicht, dann weiter zur Kirchenburg in Saschiz. Abend: Rückfahrt und Abendessen in Sighișoara.",
+        "hu": "Reggel: Parkoljon az óváros szélén, nézze meg az Óratornyot és a székesegyházat. Dél: Ebéd a Casa Vlad Draculban. Délután: Autózás a Breite kilátóhoz, majd tovább a szászkézdi erődtemplomhoz. Este: Visszaút és vacsora Székelyudvarhelyen.",
+        "ro": "Dimineața: Parcați la marginea orașului vechi, vizitați Turnul cu Ceas și catedrala. Prânz: Prânz la Casa Vlad Dracul. După-amiază: Drum cu mașina la punctul de belvedere Breite, apoi la biserica fortificată din Saschiz. Seara: Întoarcere și cină în Sighișoara.",
+        "en": "Morning: Park at the edge of the old town, visit the Clock Tower and the cathedral. Midday: Lunch at Casa Vlad Dracul. Afternoon: Drive to the Breite viewpoint, then to the fortified church in Saschiz. Evening: Return and dinner in Sighișoara."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Casa Vlad Dracul",
+            "tip": "Dracula-Burger"
+          },
+          {
+            "name": "Crama Saschiz",
+            "tip": "Traditionelle Küche und Wein"
+          },
+          {
+            "name": "Restaurant Sighișoara",
+            "tip": "Papanasi zum Dessert"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa Vlad Dracul",
+            "tip": "Drakula burger"
+          },
+          {
+            "name": "Crama Saschiz",
+            "tip": "Hagyományos konyha és bor"
+          },
+          {
+            "name": "Restaurant Sighișoara",
+            "tip": "Papanasi desszert"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Vlad Dracul",
+            "tip": "Burger Dracula"
+          },
+          {
+            "name": "Crama Saschiz",
+            "tip": "Bucătărie tradițională și vin"
+          },
+          {
+            "name": "Restaurant Sighișoara",
+            "tip": "Papanasi la desert"
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa Vlad Dracul",
+            "tip": "Dracula burger"
+          },
+          {
+            "name": "Crama Saschiz",
+            "tip": "Traditional cuisine and wine"
+          },
+          {
+            "name": "Restaurant Sighișoara",
+            "tip": "Papanasi for dessert"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Breite Aussicht",
+            "tip": "Weiter Blick bei Sonnenuntergang",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Saschiz – Kirchenburg Innenhof",
+            "tip": "Stiller Ort abseits",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gärten von Saschiz",
+            "tip": "Blühende Ruhe",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Breite kilátó",
+            "tip": "Tágas kilátás naplementekor",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szászkézd – erődtemplom udvara",
+            "tip": "Csendes hely félreesőn",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szászkézd kertjei",
+            "tip": "Virágzó nyugalom",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Breite",
+            "tip": "Vedere largă la apus",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Saschiz – curtea bisericii fortificate",
+            "tip": "Loc linișit retras",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile din Saschiz",
+            "tip": "Liniște înfloritoare",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Breite Viewpoint",
+            "tip": "Wide view at sunset",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Saschiz – Fortified Church courtyard",
+            "tip": "Quiet spot away",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Saschiz Gardens",
+            "tip": "Blossoming peace",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vinoteca Sighișoara",
+            "tip": "Siebenbürgische Weine"
+          },
+          {
+            "name": "Handwerksladen in Saschiz",
+            "tip": "Töpferwaren"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinoteca Sighișoara",
+            "tip": "Erdélyi borok"
+          },
+          {
+            "name": "Kézműves bolt Szászkézden",
+            "tip": "Fazekasáruk"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinoteca Sighișoara",
+            "tip": "Vinuri transilvănene"
+          },
+          {
+            "name": "Magazin de artizanat în Saschiz",
+            "tip": "Obiecte de ceramică"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinoteca Sighișoara",
+            "tip": "Transylvanian wines"
+          },
+          {
+            "name": "Craft shop in Saschiz",
+            "tip": "Pottery items"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie am besten im Parkhaus 'Parcare Cetate'.",
+          "Die Fahrt nach Saschiz dauert ca. 20 Minuten.",
+          "In Saschiz gibt es wenig Parkplätze – früh kommen.",
+          "Die Kirchenburg ist nur zu Fuß erreichbar.",
+          "Tanken Sie vor der Abfahrt nach Saschiz voll."
+        ],
+        "hu": [
+          "A legjobb a 'Parcare Cetate' parkolóházban parkolni.",
+          "A Szászkézdre vezető út kb. 20 perc.",
+          "Szászkézden kevés parkolóhely van – jöjjön korán.",
+          "Az erődtemplom csak gyalog közelíthető meg.",
+          "Tankoljon tele, mielőtt Szászkézdre indul."
+        ],
+        "ro": [
+          "Parcează de preferință în parcarea 'Parcare Cetate'.",
+          "Drumul până la Saschiz durează aprox. 20 de minute.",
+          "În Saschiz sunt puține locuri de parcare – veniți devreme.",
+          "Biserica fortificată este accesibilă doar pe jos.",
+          "Alimentați mașina înainte de plecarea spre Saschiz."
+        ],
+        "en": [
+          "Best to park at 'Parcare Cetate' parking garage.",
+          "The drive to Saschiz takes about 20 minutes.",
+          "Few parking spots in Saschiz – come early.",
+          "The fortified church is only accessible on foot.",
+          "Fill up the tank before heading to Saschiz."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bürgerplatz",
+            "hu": "Polgárok tere",
+            "ro": "Piața Cetății",
+            "en": "Citadel Square"
+          },
+          "coords": [
+            46.2195,
+            24.7928
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Bus 3 bis zur Altstadt.",
+            "hu": "A vasútállomásról 3-as busz az óvárosig.",
+            "ro": "De la gară autobuzul 3 până în centrul vechi.",
+            "en": "From the station take bus 3 to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            46.2197,
+            24.7925
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Platz.",
+            "hu": "Rövid séta a tértől.",
+            "ro": "Scurtă plimbare de la piață.",
+            "en": "Short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joseph-Kathedrale",
+            "hu": "Szent József-székesegyház",
+            "ro": "Catedrala Sfântul Iosif",
+            "en": "St. Joseph's Cathedral"
+          },
+          "coords": [
+            46.2182,
+            24.7935
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eintritt frei – Spende erwünscht.",
+            "hu": "Ingyenes belépés – adományt várnak.",
+            "ro": "Intrare liberă – se acceptă donații.",
+            "en": "Free entry – donations welcome."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen – Casa cu Cerb",
+            "hu": "Ebéd – Casa cu Cerb",
+            "ro": "Prânz – Casa cu Cerb",
+            "en": "Lunch – Casa cu Cerb"
+          },
+          "coords": [
+            46.219,
+            24.794
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie die Hausgemachten Papanasi.",
+            "hu": "Kóstolja meg a házi készítésű papanasit.",
+            "ro": "Încercați papanasii de casă.",
+            "en": "Try the homemade papanasi."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Breite",
+            "hu": "Busz a Breitére",
+            "ro": "Autobuzul către Breite",
+            "en": "Bus to Breite"
+          },
+          "coords": [
+            46.212,
+            24.785
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Buslinie 5 bis Endstation, dann 10 min zu Fuß.",
+            "hu": "5-ös busz a végállomásig, majd 10 perc séta.",
+            "ro": "Autobuzul 5 până la capăt, apoi 10 min pe jos.",
+            "en": "Bus line 5 to the terminus, then 10 min walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück, dann Park Zitadelle",
+            "hu": "Busz vissza, majd Citadella Park",
+            "ro": "Autobuz înapoi, apoi Parcul Cetății",
+            "en": "Bus back, then Citadel Park"
+          },
+          "coords": [
+            46.2188,
+            24.791
+          ],
+          "category": "park",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick.",
+            "hu": "Tökéletes piknikhez.",
+            "ro": "Perfect pentru un picnic.",
+            "en": "Perfect for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen – Gelateria",
+            "hu": "Vacsora – Gelateria",
+            "ro": "Cină – Gelateria",
+            "en": "Dinner – Gelateria"
+          },
+          "coords": [
+            46.2193,
+            24.7932
+          ],
+          "category": "gastro",
+          "arrive_at": "17:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eis zum Abschluss des Tages.",
+            "hu": "Fagylalt a nap zárásaként.",
+            "ro": "Înghețată pentru încheierea zilei.",
+            "en": "Ice cream to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Mit dem Bus zum Bürgerplatz, besichtigen Sie Uhrturm und Kathedrale. Mittag: Mittagessen im Casa cu Cerb. Nachmittag: Bus zur Breite-Aussicht, dann zurück in den Zitadellenpark. Abend: Abschluss mit Eis in der Gelateria.",
+        "hu": "Reggel: Busszal a Polgárok terére, nézze meg az Óratornyot és a székesegyházat. Dél: Ebéd a Casa cu Cerb-ben. Délután: Busz a Breite kilátóhoz, majd vissza a Citadella Parkba. Este: Zárás fagylalttal a Gelateriában.",
+        "ro": "Dimineața: Cu autobuzul în Piața Cetății, vizitați Turnul cu Ceas și catedrala. Prânz: Prânz la Casa cu Cerb. După-amiază: Autobuzul spre Belvedere Breite, apoi înapoi în Parcul Cetății. Seara: Încheiere cu înghețată la Gelateria.",
+        "en": "Morning: Take the bus to Citadel Square, visit Clock Tower and cathedral. Midday: Lunch at Casa cu Cerb. Afternoon: Bus to Breite viewpoint, then back to Citadel Park. Evening: End with ice cream at Gelateria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Mici und Polenta"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Hausgemachtes Eis"
+          },
+          {
+            "name": "Crama Sighișoara",
+            "tip": "Weinprobe"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Mici és puliszka"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Házi fagylalt"
+          },
+          {
+            "name": "Crama Sighișoara",
+            "tip": "Borkóstoló"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Mici și mămăligă"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Înghețată artizanală"
+          },
+          {
+            "name": "Crama Sighișoara",
+            "tip": "Degustare de vinuri"
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa cu Cerb",
+            "tip": "Mici and polenta"
+          },
+          {
+            "name": "Gelateria",
+            "tip": "Homemade ice cream"
+          },
+          {
+            "name": "Crama Sighișoara",
+            "tip": "Wine tasting"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Breite Aussicht",
+            "tip": "Ruhiger Blick von oben",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zitadellenpark – Bank am Rand",
+            "tip": "Schatten und Ruhe",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bergkirche – Treppe",
+            "tip": "Wenig besuchter Ort",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Breite kilátó",
+            "tip": "Csendes kilátás a magasból",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Citadella Park – pad a szélén",
+            "tip": "Árnyék és csend",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hegyi templom – lépcső",
+            "tip": "Kevéssé látogatott hely",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Breite",
+            "tip": "Priveliște liniștită de sus",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Cetății – bancă la margine",
+            "tip": "Umbră și liniște",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica din Deal – scară",
+            "tip": "Loc puțin vizitat",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Breite Viewpoint",
+            "tip": "Quiet view from above",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Citadel Park – bench at edge",
+            "tip": "Shade and quiet",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church on the Hill – stairs",
+            "tip": "Less visited spot",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt am Bürgerplatz",
+            "tip": "Lokale Produkte"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piack a Polgárok terén",
+            "tip": "Helyi termékek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târgul din Piața Cetății",
+            "tip": "Produse locale"
+          }
+        ],
+        "en": [
+          {
+            "name": "Market at Citadel Square",
+            "tip": "Local products"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Bus (ca. 1 €).",
+          "Die Busse fahren unregelmäßig – nutzen Sie die App.",
+          "Am Wochenende weniger Busse – planen Sie Reserve.",
+          "Der Bus zur Breite fährt nur stündlich.",
+          "Halten Sie Kleingeld für Tickets bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra (kb. 1 €).",
+          "A buszok rendszertelenül járnak – használja az appot.",
+          "Hétvégén kevesebb busz – tervezzen tartalékot.",
+          "A Breite busz csak óránként jár.",
+          "Tartson aprópénzt a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz (aprox. 1 €).",
+          "Autobuzele circulă neregulat – folosiți aplicația.",
+          "În weekenduri sunt mai puține autobuze – planificați rezervă.",
+          "Autobuzul spre Breite circulă doar din oră în oră.",
+          "Păstrați monede mici pentru bilete."
+        ],
+        "en": [
+          "Buy a day ticket for the bus (approx. 1 €).",
+          "Buses run irregularly – use the app.",
+          "Fewer buses on weekends – plan a buffer.",
+          "The bus to Breite runs only hourly.",
+          "Keep small change for tickets."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,924 @@
+{
+  "city_id": "stari-grad",
+  "anchor": {
+    "name": "Tvrdalj Castle",
+    "coords": [
+      16.5982,
+      43.1815
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Stari Grad Riva",
+          "coords": [
+            16.596,
+            43.1825
+          ],
+          "category": "promenade",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Blick auf die Bucht.",
+            "hu": "Kezdje a napot az öbölre nyíló kilátással.",
+            "ro": "Începeți ziua cu o vedere spre golf.",
+            "en": "Start your day with a view of the bay."
+          }
+        },
+        {
+          "name": "Skor Square",
+          "coords": [
+            16.5975,
+            43.1818
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kleiner, barocker Juwel-Platz.",
+            "hu": "Egy apró, barokk ékszerdoboz tér.",
+            "ro": "O mică bijuterie de piață barocă.",
+            "en": "A small, baroque jewel of a square."
+          }
+        },
+        {
+          "name": "Tvrdalj Castle",
+          "coords": [
+            16.5982,
+            43.1815
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den berühmten Fischteich im Inneren.",
+            "hu": "Ne hagyja ki a híres benti halastavat.",
+            "ro": "Nu ratați faimosul iaz cu pești din interior.",
+            "en": "Don't miss the famous fish pond inside."
+          }
+        },
+        {
+          "name": "St. Stephen Church",
+          "coords": [
+            16.5995,
+            43.181
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prachtvolle Fassade am ehemaligen Stadtzentrum.",
+            "hu": "Pompás homlokzat az egykori városközpontban.",
+            "ro": "Fațadă splendidă în fostul centru al orașului.",
+            "en": "Splendid facade at the former city center."
+          }
+        },
+        {
+          "name": "Stari Grad Museum",
+          "coords": [
+            16.599,
+            43.1805
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in 2400 Jahre Stadtgeschichte.",
+            "hu": "Merüljön el a város 2400 éves történelmében.",
+            "ro": "Explorați istoria de 2400 de ani a orașului.",
+            "en": "Dive into the town's 2400-year history."
+          }
+        },
+        {
+          "name": "Srinjo Kola Street",
+          "coords": [
+            16.598,
+            43.1812
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die charmanteste Gasse der Altstadt.",
+            "hu": "Az óváros legbájosabb utcája.",
+            "ro": "Cea mai fermecătoare stradă din orașul vechi.",
+            "en": "The most charming street in the old town."
+          }
+        },
+        {
+          "name": "Roman Mosaics",
+          "coords": [
+            16.5985,
+            43.182
+          ],
+          "category": "museum",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Antike Schätze mitten in den heutigen Gassen.",
+            "hu": "Ókori kincsek a mai utcák közepén.",
+            "ro": "Comori antice în mijlocul străzilor actuale.",
+            "en": "Ancient treasures in the middle of modern streets."
+          }
+        },
+        {
+          "name": "Dominican Monastery",
+          "coords": [
+            16.602,
+            43.183
+          ],
+          "category": "religious",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe mit bedeutenden Kunstwerken.",
+            "hu": "A nyugalom szigete jelentős műalkotásokkal.",
+            "ro": "Un loc al liniștii cu opere de artă semnificative.",
+            "en": "A place of peace with significant artworks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Spazieren Sie durch eine der ältesten Städte Europas. Der Vormittag gehört der Riva und dem einzigartigen Tvrdalj-Schloss. Nach dem Mittagessen erkunden Sie die barocken Plätze und Kirchen, bevor Sie im Stadtmuseum tief in die Geschichte eintauchen. Den Nachmittag verbringen Sie in den charmanten Gassen der Srinjo Kola und bewundern antike römische Mosaike.",
+        "hu": "Sétáljon végig Európa egyik legrégebbi városán. A délelőtt a Riva sétányé és az egyedülálló Tvrdalj-kastélyé. Ebéd után fedezze fel a barokk tereket és templomokat, majd merüljön el a történelemben a Városi Múzeumban. A délutánt töltse a Srinjo Kola bájos utcáin, és csodálja meg az ókori római mozaikokat.",
+        "ro": "Plimbați-vă prin unul dintre cele mai vechi orașe din Europa. Dimineața aparține falezei Riva și castelului unic Tvrdalj. După prânz, explorați piețele și bisericile baroce înainte de a aprofunda istoria la muzeul municipal. Petreceți după-amiaza pe străzile fermecătoare Srinjo Kola și admirați mozaicurile romane antice.",
+        "en": "Stroll through one of Europe's oldest towns. The morning is dedicated to the Riva promenade and the unique Tvrdalj Castle. After lunch, explore the Baroque squares and churches before diving into history at the City Museum. Spend the afternoon in the charming Srinjo Kola streets and admire the ancient Roman mosaics."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Antika",
+            "tip": "In einer alten Gasse gelegen, bekannt für lokales Fleisch."
+          },
+          {
+            "name": "Pinetta",
+            "tip": "Traditionelle dalmatinische Küche in urigem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antika",
+            "tip": "Régi utcában található, helyi húsételeiről híres."
+          },
+          {
+            "name": "Pinetta",
+            "tip": "Hagyományos dalmát konyha hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antika",
+            "tip": "Situat pe o stradă veche, renumit pentru carne locală."
+          },
+          {
+            "name": "Pinetta",
+            "tip": "Bucătărie tradițională dalmată într-un cadru rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antika",
+            "tip": "Located in an old street, famous for local meat dishes."
+          },
+          {
+            "name": "Pinetta",
+            "tip": "Traditional Dalmatian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dominikanerkloster",
+            "tip": "Ruhiger Kreuzgang und Garten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dominikánus kolostor",
+            "tip": "Csendes kerengő és kert.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Dominicană",
+            "tip": "Curte interioară și grădină liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dominican Monastery",
+            "tip": "Quiet cloister and garden area.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stari Grad Markt",
+            "tip": "Lavendelöl und lokaler Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stari Grad-i piac",
+            "tip": "Levendulaolaj és helyi bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Stari Grad",
+            "tip": "Ulei de lavandă și vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stari Grad Market",
+            "tip": "Lavender oil and local wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stari Grad ist flacher und entspannter als Hvar-Stadt.",
+          "Die Mosaike sind oft in privaten Höfen, achten Sie auf Schilder."
+        ],
+        "hu": [
+          "Stari Grad síkabb és nyugodtabb, mint Hvar városa.",
+          "A mozaikok gyakran magánudvarokban vannak, figyelje a táblákat."
+        ],
+        "ro": [
+          "Stari Grad este mai plat și mai relaxat decât orașul Hvar.",
+          "Mozaicurile sunt adesea în curți private, atenție la indicatoare."
+        ],
+        "en": [
+          "Stari Grad is flatter and more relaxed than Hvar town.",
+          "Mosaics are often in private courtyards; look for the signs."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stari Grad Riva",
+          "coords": [
+            16.596,
+            43.1825
+          ],
+          "category": "promenade",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie flach am Hafen entlang.",
+            "hu": "Induljon sík terepen a kikötő mentén.",
+            "ro": "Start pe teren plat de-a lungul portului.",
+            "en": "Start flat along the harbor area."
+          }
+        },
+        {
+          "name": "Stari Grad Plain",
+          "coords": [
+            16.635,
+            43.185
+          ],
+          "category": "heritage",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe, perfekt mit dem Rad erkundbar.",
+            "hu": "UNESCO világörökség, tökéletes bringás felfedezéshez.",
+            "ro": "Patrimoniu UNESCO, perfect de explorat cu bicicleta.",
+            "en": "UNESCO World Heritage site, perfect for cycling."
+          }
+        },
+        {
+          "name": "Vrboska Harbor",
+          "coords": [
+            16.675,
+            43.182
+          ],
+          "category": "harbor",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Kleines Venedig von Hvar, idealer Mittagshalt.",
+            "hu": "Hvar 'kis Velencéje', ideális ebédmegálló.",
+            "ro": "Mica Veneție a insulei Hvar, oprire ideală pentru prânz.",
+            "en": "Hvar's 'Little Venice', ideal lunch stop."
+          }
+        },
+        {
+          "name": "St. Roch Church",
+          "coords": [
+            16.5978,
+            43.1812
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Kleine Votivkirche zurück in Stari Grad.",
+            "hu": "Kis fogadalmi templom visszaérve Stari Gradba.",
+            "ro": "Mică biserică votivă la revenirea în Stari Grad.",
+            "en": "Small votive church upon returning to Stari Grad."
+          }
+        },
+        {
+          "name": "Glavica Hill",
+          "coords": [
+            16.594,
+            43.188
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Anstrengender Anstieg, der mit Panoramablick belohnt wird.",
+            "hu": "Fárasztó emelkedő, amelyet panoráma jutalmaz.",
+            "ro": "Urcare solicitantă răsplătită cu o panoramă.",
+            "en": "Tiring climb rewarded with a panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Rad ist das beste Mittel, um das antike Agrarsystem der Stari Grad Ebene zu verstehen. Radeln Sie auf jahrtausendealten Wegen durch Weinberge und Olivenhaine bis ins malerische Vrboska. Nach der Rückkehr nach Stari Grad fordern Sie sich mit dem Anstieg zum Glavica-Hügel heraus, um den perfekten Überblick über die Bucht zu erhalten.",
+        "hu": "A kerékpár a legjobb eszköz a Stari Grad-i síkság ókori rendszerének megértéséhez. Tekerjen évezredes utakon szőlők és olajfaligetek között a festői Vrboskáig. Stari Gradba visszatérve tegye próbára magát a Glavica-domb emelkedőjén a tökéletes öbölnézeti panorámáért.",
+        "ro": "Bicicleta este cel mai bun mijloc pentru a înțelege sistemul agricol antic din Câmpia Stari Grad. Pedalați pe drumuri milenare printre vii și livezi de măslini până în pitorescul Vrboska. La revenirea în Stari Grad, provocați-vă cu urcarea pe dealul Glavica pentru o panoramă perfectă asupra golfului.",
+        "en": "The bicycle is the best way to understand the ancient agricultural system of the Stari Grad Plain. Cycle on millennia-old paths through vineyards and olive groves to the picturesque Vrboska. After returning to Stari Grad, challenge yourself with the climb to Glavica Hill for a perfect view over the bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Gardelin",
+            "tip": "In Vrboska, direkt am Kanal gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Gardelin",
+            "tip": "Vrboskában, közvetlenül a csatorna partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Gardelin",
+            "tip": "În Vrboska, situat chiar pe malul canalului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Gardelin",
+            "tip": "Located in Vrboska, right by the canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stari Grad Ebene",
+            "tip": "Unendliche Ruhe zwischen antiken Steinmauern.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stari Grad-i síkság",
+            "tip": "Végtelen nyugalom az ókori kőfalak között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpia Stari Grad",
+            "tip": "Liniște nesfârșită între zidurile de piatră antice.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stari Grad Plain",
+            "tip": "Endless peace among ancient stone walls.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hora Hvar",
+            "tip": "Biologische Produkte direkt von der Ebene."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hora Hvar",
+            "tip": "Biotermékek közvetlenül a síkságról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hora Hvar",
+            "tip": "Produse bio direct din câmpia Stari Grad."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hora Hvar",
+            "tip": "Organic products directly from the plain."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Ebene ist fast völlig schattenlos, nutzen Sie Sonnenschutz.",
+          "Die Wege sind meist geschottert, ein Trekkingrad ist ideal."
+        ],
+        "hu": [
+          "A síkságon szinte nincs árnyék, használjon fényvédőt.",
+          "Az utak többnyire murvásak, a trekking bringa az ideális."
+        ],
+        "ro": [
+          "Câmpia este aproape lipsită de umbră, folosiți protecție solară.",
+          "Drumurile sunt preponderent cu pietriș, o bicicletă de trekking este ideală."
+        ],
+        "en": [
+          "The plain has almost no shade; use sunscreen.",
+          "Paths are mostly gravel; a trekking bike is ideal."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 25.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Stari Grad Riva",
+          "coords": [
+            16.596,
+            43.1825
+          ],
+          "category": "promenade",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Ortseingang und spazieren Sie zur Riva.",
+            "hu": "Parkoljon a város szélén, és sétáljon a Rivára.",
+            "ro": "Parcați la intrarea în oraș și mergeți pe jos spre Riva.",
+            "en": "Park at the entrance and walk to the Riva promenade."
+          }
+        },
+        {
+          "name": "Tvrdalj Castle",
+          "coords": [
+            16.5982,
+            43.1815
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das poetische Herz der Stadt.",
+            "hu": "A város költői szíve.",
+            "ro": "Inima poetică a orașului.",
+            "en": "The poetic heart of the town."
+          }
+        },
+        {
+          "name": "Stari Grad Plain",
+          "coords": [
+            16.635,
+            43.185
+          ],
+          "category": "heritage",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Befahren Sie die Hauptwege durch das Weltkulturerbe.",
+            "hu": "Hajtson át a világörökségi terület főútjain.",
+            "ro": "Circulați pe drumurile principale prin situl UNESCO.",
+            "en": "Drive through the main paths of the World Heritage site."
+          }
+        },
+        {
+          "name": "Vrboska Harbor",
+          "coords": [
+            16.675,
+            43.182
+          ],
+          "category": "harbor",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Ideal für ein entspanntes Mittagessen am Kanal.",
+            "hu": "Ideális egy pihentető ebédhez a csatorna partján.",
+            "ro": "Ideal pentru un prânz relaxat pe malul canalului.",
+            "en": "Ideal for a relaxed lunch by the canal."
+          }
+        },
+        {
+          "name": "Jelsa Riva",
+          "coords": [
+            16.694,
+            43.162
+          ],
+          "category": "promenade",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Nachbarort mit seiner schönen Parkanlage.",
+            "hu": "Látogassa meg a szomszédos várost szép parkjával.",
+            "ro": "Vizitați orașul vecin cu parcul său frumos.",
+            "en": "Visit the neighboring town with its lovely park."
+          }
+        },
+        {
+          "name": "Glavica Hill",
+          "coords": [
+            16.594,
+            43.188
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Parkplatz am Fuß des Hügels.",
+            "hu": "Hajtson a domb lábánál lévő parkolóig.",
+            "ro": "Mergeți până la parcarea de la baza dealului.",
+            "en": "Drive to the parking area at the base of the hill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie nicht nur Stari Grad, sondern den gesamten zentralen Teil der Insel Hvar. Nach der Kultur in der Altstadt führt Sie die Fahrt durch die UNESCO-Ebene in die charmanten Fischerdörfer Vrboska und Jelsa. Zum Sonnenuntergang kehren Sie nach Stari Grad zurück und genießen den Blick vom Glavica-Hügel über die gesamte Inselwelt.",
+        "hu": "Autóval nemcsak Stari Gradot, hanem Hvar szigetének teljes középső részét felfedezheti. Az óvárosi kultúra után az út az UNESCO-síkságon át Vrboska és Jelsa bájos halászfaluiba vezet. Naplementére térjen vissza Stari Gradba, és élvezze a Glavica-dombról nyíló kilátást az egész szigetvilágra.",
+        "ro": "Cu mașina explorați nu doar Stari Grad, ci întreaga parte centrală a insulei Hvar. După cultura din orașul vechi, drumul vă poartă prin câmpia UNESCO spre satele pescărești Vrboska și Jelsa. La apus, reveniți în Stari Grad pentru a admira vederea de pe dealul Glavica peste întregul arhipelag.",
+        "en": "By car, you explore not only Stari Grad but the entire central part of Hvar island. After the culture in the old town, the drive takes you through the UNESCO plain to the charming fishing villages of Vrboska and Jelsa. For sunset, return to Stari Grad and enjoy the view from Glavica Hill over the island world."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Pinjeta",
+            "tip": "In Stari Grad, berühmt für 'Peka' (unter der Glocke gegart)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Pinjeta",
+            "tip": "Stari Gradban, híres a 'Peka' (harang alatt sült) ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Pinjeta",
+            "tip": "În Stari Grad, faimos pentru 'Peka' (gătit sub capac de fier)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Pinjeta",
+            "tip": "In Stari Grad, famous for 'Peka' (dishes cooked under a bell)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Glavica Hill",
+            "tip": "Das weiße Kreuz bietet den besten Meditationsplatz.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glavica-domb",
+            "tip": "A fehér kereszt a legjobb hely az elcsendesedéshez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Glavica",
+            "tip": "Crucea albă oferă cel mai bun loc pentru meditație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Glavica Hill",
+            "tip": "The white cross offers the best spot for reflection.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vina Carić",
+            "tip": "Verkostung und Verkauf in Jelsa oder Vrboska."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vina Carić",
+            "tip": "Borkóstoló és vásárlás Jelsában vagy Vrboskában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vina Carić",
+            "tip": "Degustare și vânzare de vinuri în Jelsa sau Vrboska."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vina Carić",
+            "tip": "Wine tasting and sales in Jelsa or Vrboska."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt von Stari Grad ist fast unmöglich, nutzen Sie die großen Parkplätze am Hafen.",
+          "Die Straßen in der Ebene sind schmal, nehmen Sie Rücksicht auf Radfahrer."
+        ],
+        "hu": [
+          "Stari Grad óvárosában szinte lehetetlen parkolni, használja a kikötői nagy parkolókat.",
+          "A síkság útjai keskenyek, ügyeljen a kerékpárosokra."
+        ],
+        "ro": [
+          "Parcarea în centrul vechi este aproape imposibilă, folosiți parcările mari din port.",
+          "Drumurile din câmpie sunt înguste, atenție la bicicliști."
+        ],
+        "en": [
+          "Parking in the old town is nearly impossible; use the large lots at the harbor.",
+          "The roads in the plain are narrow; be considerate of cyclists."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Stari Grad Bus Station",
+          "coords": [
+            16.593,
+            43.183
+          ],
+          "category": "promenade",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof liegt nur wenige Gehminuten von der Riva entfernt.",
+            "hu": "A buszállomás pár perc sétára van a Rivától.",
+            "ro": "Autogara se află la doar câteva minute de mers pe jos de Riva.",
+            "en": "The bus station is just a few minutes' walk from the Riva."
+          }
+        },
+        {
+          "name": "Tvrdalj Castle",
+          "coords": [
+            16.5982,
+            43.1815
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einfacher Spaziergang durch die Altstadt.",
+            "hu": "Könnyű séta az óvároson keresztül.",
+            "ro": "Plimbare ușoară prin orașul vechi.",
+            "en": "Easy walk through the old town streets."
+          }
+        },
+        {
+          "name": "Jelsa Riva",
+          "coords": [
+            16.694,
+            43.162
+          ],
+          "category": "promenade",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Der Bus zwischen Stari Grad und Jelsa verkehrt regelmäßig.",
+            "hu": "A busz Stari Grad és Jelsa között rendszeresen közlekedik.",
+            "ro": "Autobuzul între Stari Grad și Jelsa circulă regulat.",
+            "en": "The bus between Stari Grad and Jelsa runs frequently."
+          }
+        },
+        {
+          "name": "Stari Grad Riva Lunch",
+          "coords": [
+            16.596,
+            43.1825
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Zurück in Stari Grad für ein entspanntes spätes Mittagessen.",
+            "hu": "Vissza Stari Gradba egy pihentető késői ebédre.",
+            "ro": "Revenire în Stari Grad pentru un prânz târziu relaxat.",
+            "en": "Back in Stari Grad for a relaxed late lunch."
+          }
+        },
+        {
+          "name": "St. Stephen Church",
+          "coords": [
+            16.5995,
+            43.181
+          ],
+          "category": "religious",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt des Busses.",
+            "hu": "Utolsó állomás a busz indulása előtt.",
+            "ro": "Ultima oprire înainte de plecarea autobuzului.",
+            "en": "Final stop before the bus departs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Inselbusnetzes können Sie Stari Grad und das benachbarte Jelsa problemlos verbinden. Verbringen Sie den Vormittag mit der Poesie von Petar Hektorović in Stari Grad. Mittags bringt Sie der Bus in das lebhafte Jelsa für einen Spaziergang im Park. Am Nachmittag kehren Sie zurück, um die Kirchen und die Hafenstimmung von Stari Grad zu genießen.",
+        "hu": "A jól kiépített buszhálózatnak köszönhetően könnyen összekötheti Stari Gradot és Jelsát. Töltse a délelőttöt Petar Hektorović költészetével Stari Gradban. Délben a busz a pezsgő Jelsába viszi egy parkbéli sétára. Délután térjen vissza, hogy élvezze a templomokat és Stari Grad kikötői hangulatát.",
+        "ro": "Datorită rețelei bine puse la punct de autobuze, puteți combina ușor Stari Grad cu Jelsa. Petreceți dimineața cu poezia lui Petar Hektorović în Stari Grad. La prânz, autobuzul vă duce în Jelsa pentru o plimbare în parc. După-amiaza reveniți pentru a vă bucura de bisericile și atmosfera din portul Stari Grad.",
+        "en": "Thanks to the well-developed island bus network, you can easily combine Stari Grad and neighboring Jelsa. Spend the morning with the poetry of Petar Hektorović in Stari Grad. At noon, the bus takes you to lively Jelsa for a walk in the park. In the afternoon, return to enjoy the churches and harbor atmosphere of Stari Grad."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pelago",
+            "tip": "Moderne Küche direkt im historischen Kern von Stari Grad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pelago",
+            "tip": "Modern konyha közvetlenül Stari Grad történelmi magjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pelago",
+            "tip": "Bucătărie modernă chiar în nucleul istoric al orașului Stari Grad."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pelago",
+            "tip": "Modern cuisine right in the historical heart of Stari Grad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Perivoj Jelsa",
+            "tip": "Einer der schönsten öffentlichen Parks in Dalmatien.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jelsai közpark",
+            "tip": "Dalmácia egyik legszebb nyilvános parkja.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Jelsa",
+            "tip": "Unul dintre cele mai frumoase parcuri publice din Dalmația.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jelsa Park",
+            "tip": "One of the most beautiful public parks in Dalmatia.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paprenjak",
+            "tip": "Traditionelles Pfefferkuchengebäck von Hvar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paprenjak",
+            "tip": "Hagyományos hvari mézeskalács-szerű sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paprenjak",
+            "tip": "Biscuiți tradiționali cu piper și miere din Hvar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paprenjak",
+            "tip": "Traditional Hvar gingerbread-style cookies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können meist bar beim Fahrer gekauft werden.",
+          "Die Haltestellen sind gut markiert, aber fragen Sie im Zweifel Einheimische."
+        ],
+        "hu": [
+          "A jegyeket általában készpénzzel veheti meg a sofőrnél.",
+          "A megállók jól jelzettek, de kétség esetén kérdezze a helyieket."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate de obicei cu numerar de la șofer.",
+          "Stațiile sunt bine marcate, dar în caz de dubiu întrebați localnicii."
+        ],
+        "en": [
+          "Tickets can usually be purchased with cash from the driver.",
+          "Stops are well-marked, but ask locals if you are unsure."
+        ]
+      }
+    }
+  }
+}

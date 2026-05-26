@@ -1,0 +1,543 @@
+{
+  "city_id": "ht-pap",
+  "anchor": {
+    "name": "Port-au-Prince",
+    "coords": [
+      -72.3333,
+      18.5333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée du Panthéon National (MUPANAH)",
+            "hu": "Nemzeti Panteon Múzeum",
+            "ro": "Muzeul Panteonului Național",
+            "en": "National Pantheon Museum"
+          },
+          "coords": [
+            -72.3344,
+            18.5436
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Anker von Kolumbus' Santa Maria.",
+            "hu": "Nézd meg Kolumbusz Santa Maria hajójának horgonyát.",
+            "ro": "Vedeți ancora navei Santa Maria a lui Columb.",
+            "en": "See the anchor of Columbus's Santa Maria."
+          }
+        },
+        {
+          "name": {
+            "de": "Champ de Mars",
+            "hu": "Champ de Mars",
+            "ro": "Champ de Mars",
+            "en": "Champ de Mars"
+          },
+          "coords": [
+            -72.332,
+            18.541
+          ],
+          "category": "square",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zentraler Platz mit Statuen der Nationalhelden.",
+            "hu": "Központi tér a nemzeti hősök szobraival.",
+            "ro": "Piața centrală cu statuile eroilor naționali.",
+            "en": "Central square with statues of national heroes."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Marron Inconnu",
+            "hu": "Az ismeretlen rabszolga szobra",
+            "ro": "Marron Inconnu",
+            "en": "The Unknown Slave Statue"
+          },
+          "coords": [
+            -72.335,
+            18.545
+          ],
+          "category": "monument",
+          "arrive_at": "11:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Symbol der Freiheit und des Sklavenaufstands.",
+            "hu": "A szabadság és a rabszolgafelkelés szimbóluma.",
+            "ro": "Simbolul libertății și al revoltei sclavilor.",
+            "en": "Symbol of freedom and the slave revolt."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in Downtown"
+          },
+          "coords": [
+            -72.338,
+            18.548
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Griot (frittiertes Schweinefleisch).",
+            "hu": "Kóstold meg a griot-t (sült sertéshús).",
+            "ro": "Încercați griot (carne de porc prăjită).",
+            "en": "Try Griot (fried pork) with pikliz."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedralruinen Notre-Dame",
+            "hu": "Notre-Dame székesegyház romjai",
+            "ro": "Ruinele Catedralei Notre-Dame",
+            "en": "Notre-Dame Cathedral Ruins"
+          },
+          "coords": [
+            -72.33,
+            18.55
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eindrucksvolle Zeugen des Erdbebens von 2010.",
+            "hu": "A 2010-es földrengés megrázó mementója.",
+            "ro": "Un memento impresionant al seismului din 2010.",
+            "en": "A poignant reminder of the 2010 earthquake."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché en Fer (Eisenmarkt)",
+            "hu": "Vaspiac",
+            "ro": "Piața de Fier",
+            "en": "Iron Market"
+          },
+          "coords": [
+            -72.3375,
+            18.5511
+          ],
+          "category": "market",
+          "arrive_at": "14:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Rote Metallstruktur mit maurischem Design.",
+            "hu": "Vörös vasszerkezet mór stílusú tornyokkal.",
+            "ro": "Structură metalică roșie cu turnuri maure.",
+            "en": "Red iron structure with Moorish-style towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Italie (Uferpromenade)",
+            "hu": "Olasz tér (Parti sétány)",
+            "ro": "Place d'Italie",
+            "en": "Place d'Italie (Waterfront)"
+          },
+          "coords": [
+            -72.345,
+            18.542
+          ],
+          "category": "harbor",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spaziergang am Golf von Gonâve.",
+            "hu": "Séta a Gonâve-öböl partján.",
+            "ro": "O plimbare pe malul Golfului Gonâve.",
+            "en": "A stroll along the Gulf of Gonâve coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im MUPANAH, wo Haitis stolze Geschichte von Kolumbus bis zur Unabhängigkeit unterirdisch bewahrt wird. Spazieren Sie über den Champ de Mars, vorbei an Nationalhelden, zum symbolträchtigen Denkmal des unbekannten Sklaven. Nach einem herzhaften kreolischen Mittagessen erkunden Sie die dramatischen Ruinen der Kathedrale und den geschäftigen Eisenmarkt. Der Tag endet entspannt an der Uferpromenade mit Blick auf die Karibik.",
+        "hu": "Kezdje a napot a MUPANAH-ban, ahol Haiti büszke történelmét őrzik a föld alatt Kolumbusztól a függetlenségig. Sétáljon át a Champ de Mars-on a nemzeti hősök szobrai mellett az ismeretlen rabszolga emlékművéhez. Egy bőséges kreol ebéd után fedezze fel a katedrális drámai romjait és a nyüzsgő Vaspiacot. A nap a tengerparti sétányon zárul, kilátással a Karib-tengerre.",
+        "ro": "Începeți ziua la MUPANAH, unde istoria mândră a Haitiului este păstrată sub pământ, de la Columb până la independență. Plimbați-vă prin Champ de Mars, pe lângă eroii naționali, către monumentul simbolic al sclavului necunoscut. După un prânz creol copios, explorați ruinele dramatice ale catedralei și Piața de Fier. Ziua se încheie relaxat pe faleză, cu vedere spre Marea Caraibelor.",
+        "en": "Start your day at MUPANAH, where Haiti's proud history from Columbus to independence is preserved underground. Walk across Champ de Mars, past national heroes, to the iconic Unknown Slave monument. After a hearty Creole lunch, explore the dramatic cathedral ruins and the bustling Iron Market. The day ends with a relaxed stroll along the waterfront with views of the Caribbean Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Griot & Pikliz",
+            "tip": "Knuspriges Schweinefleisch mit scharfem Krautsalat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Griot és Pikliz",
+            "tip": "Ropogós sertéshús csípős savanyított káposztával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Griot și Pikliz",
+            "tip": "Carne de porc crocantă cu salată de varză picantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Griot with Pikliz",
+            "tip": "Crispy fried pork with spicy pickled slaw."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "Ruhiger Park abseits des Trubels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenade kertek",
+            "tip": "Csendes park távol a nyüzsgéstől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Promenade",
+            "tip": "Parc liniștit departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Gardens",
+            "tip": "Peaceful park away from the downtown noise.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché en Fer",
+            "tip": "Handwerkskunst und Voodoo-Objekte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vaspiac",
+            "tip": "Kézműves termékek és vudu tárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de Fier",
+            "tip": "Artizanat local și obiecte voodoo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Iron Market",
+            "tip": "Local crafts and unique Vodou artifacts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Pflaster uneben sein kann.",
+          "Vermeiden Sie das Fotografieren von Personen ohne Erlaubnis."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert az útburkolat egyenetlen lehet.",
+          "Kérj engedélyt, mielőtt embereket fotóznál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, pavajul poate fi neregulat.",
+          "Evitați să fotografiați oamenii fără permisiune."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as pavements can be uneven.",
+          "Always ask for permission before taking photos of locals."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 28.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Observatorium Boutilliers",
+            "hu": "Boutilliers kilátó",
+            "ro": "Observatorul Boutilliers",
+            "en": "Boutilliers Observatory"
+          },
+          "coords": [
+            -72.31,
+            18.51
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Bester Panoramablick über die gesamte Stadt.",
+            "hu": "A legjobb panoráma az egész városra.",
+            "ro": "Cea mai bună vedere panoramică asupra orașului.",
+            "en": "Best panoramic view over the entire city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Jacques",
+            "hu": "Fort Jacques erőd",
+            "ro": "Fortul Jacques",
+            "en": "Fort Jacques"
+          },
+          "coords": [
+            -72.2833,
+            18.4667
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Alte Festung in den kühlen Bergen.",
+            "hu": "Régi erőd a hűvös hegyek között.",
+            "ro": "Vechea fortăreață în munții răcoroși.",
+            "en": "Old fortress in the cool mountain air."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Pétion-Ville",
+            "hu": "Ebéd Pétion-Ville-ben",
+            "ro": "Prânz în Pétion-Ville",
+            "en": "Lunch in Pétion-Ville"
+          },
+          "coords": [
+            -72.28,
+            18.51
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Exklusive Restaurants in den Hügeln.",
+            "hu": "Exkluzív éttermek a domboldalon.",
+            "ro": "Restaurante exclusiviste pe dealuri.",
+            "en": "Upscale dining in the hills above the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallerien von Pétion-Ville",
+            "hu": "Pétion-Ville művészeti galériái",
+            "ro": "Galeriile din Pétion-Ville",
+            "en": "Pétion-Ville Art Galleries"
+          },
+          "coords": [
+            -72.285,
+            18.512
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie moderne haitianische Malerei.",
+            "hu": "Fedezze fel a modern haiti festészetet.",
+            "ro": "Descoperiți pictura modernă haitiană.",
+            "en": "Explore vibrant modern Haitian paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "MUPANAH (Stadtzentrum)",
+            "hu": "MUPANAH (Belváros)",
+            "ro": "MUPANAH",
+            "en": "MUPANAH (Downtown)"
+          },
+          "coords": [
+            -72.3344,
+            18.5436
+          ],
+          "category": "museum",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Wichtigstes Nationalmuseum Haitis.",
+            "hu": "Haiti legfontosabb nemzeti múzeuma.",
+            "ro": "Cel mai important muzeu național.",
+            "en": "Haiti's premier national museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché en Fer",
+            "hu": "Vaspiac",
+            "ro": "Piața de Fier",
+            "en": "Iron Market"
+          },
+          "coords": [
+            -72.3375,
+            18.5511
+          ],
+          "category": "shopping",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Souvenirs und Kunsthandwerk.",
+            "hu": "Ajándéktárgyak és kézműves termékek.",
+            "ro": "Suveniruri și artizanat local.",
+            "en": "Final stop for souvenirs and crafts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens hinauf zum Boutilliers-Kilátó für einen Überblick, gefolgt von der kühlen Bergluft beim Fort Jacques. Den Mittag verbringen Sie im mondänen Pétion-Ville mit seinen Kunstgalerien und exzellenter Gastronomie. Am Nachmittag geht es zurück ins Zentrum zum MUPANAH und einem schnellen Besuch auf dem farbenfrohen Eisenmarkt.",
+        "hu": "Reggel hajtson fel a Boutilliers-kilátóhoz a városképért, majd élvezze a hűvös hegyi levegőt Fort Jacques erődjeinél. A delet a divatos Pétion-Ville-ben töltse, galériák és kiváló éttermek között. Délután térjen vissza a központba a MUPANAH múzeumhoz és egy gyors látogatásra a színes Vaspiachoz.",
+        "ro": "Dimineața, urcați la belvederea Boutilliers pentru o privire de ansamblu, urmată de aerul curat de la Fort Jacques. Petreceți prânzul în selectul Pétion-Ville, explorând galerii de artă și gastronomie excelentă. După-amiaza, reveniți în centru pentru MUPANAH și o vizită rapidă în colorata Piață de Fier.",
+        "en": "Drive up to Boutilliers Observatory for a bird's-eye view, followed by the fresh mountain air at Fort Jacques. Spend midday in trendy Pétion-Ville, visiting art galleries and enjoying excellent dining. In the afternoon, return to the center for the MUPANAH museum and a quick stop at the vibrant Iron Market."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lambi",
+            "tip": "Meerschnecke in pikanter Sauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lambi",
+            "tip": "Tengeri csigahús csípős szószban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lambi",
+            "tip": "Melc de mare în sos picant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lambi",
+            "tip": "Conch meat stewed in spicy sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fort Jacques",
+            "tip": "Ruhiges Pinienwald-Areal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fort Jacques",
+            "tip": "Csendes fenyőerdős terület.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fort Jacques",
+            "tip": "Zonă liniștită de pădure de pini.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort Jacques",
+            "tip": "Peaceful area surrounded by pine forests.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galerie Marassa",
+            "tip": "Hochwertige zeitgenössische Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marassa Galéria",
+            "tip": "Kiváló kortárs művészeti alkotások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Marassa",
+            "tip": "Artă contemporană de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galerie Marassa",
+            "tip": "High-quality contemporary Haitian art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie einen Fahrer, der die Bergstraßen kennt.",
+          "Pétion-Ville ist kühler als das Stadtzentrum."
+        ],
+        "hu": [
+          "Bérelj sofőrt, aki ismeri a hegyi utakat.",
+          "Pétion-Ville hűvösebb, mint a belváros."
+        ],
+        "ro": [
+          "Închiriați un șofer care cunoaște drumurile montane.",
+          "Pétion-Ville este mai răcoros decât centrul orașului."
+        ],
+        "en": [
+          "Hire a driver familiar with the steep mountain roads.",
+          "Pétion-Ville is significantly cooler than downtown."
+        ]
+      }
+    }
+  }
+}

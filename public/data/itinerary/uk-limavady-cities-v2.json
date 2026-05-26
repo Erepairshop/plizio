@@ -1,0 +1,982 @@
+{
+  "city_id": "uk-limavady-cities-v2",
+  "anchor": {
+    "name": "Limavady",
+    "coords": [
+      55.05,
+      -6.95
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Danny Boy Statue",
+            "hu": "Danny Boy szobor",
+            "ro": "Statuia Danny Boy",
+            "en": "Danny Boy Statue"
+          },
+          "coords": [
+            55.052,
+            -6.948
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans der berühmten Melodie.",
+            "hu": "A híres dallam rajongóinak kötelező.",
+            "ro": "Un punct obligatoriu pentru fanii celebrei melodii.",
+            "en": "A must-see for fans of the famous melody."
+          }
+        },
+        {
+          "name": {
+            "de": "Limavady Town Hall",
+            "hu": "Városháza",
+            "ro": "Primăria Limavady",
+            "en": "Limavady Town Hall"
+          },
+          "coords": [
+            55.054,
+            -6.946
+          ],
+          "category": "civic",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur.",
+            "hu": "Csodálja meg az elegáns építészetet.",
+            "ro": "Admirați arhitectura elegantă.",
+            "en": "Admire the elegant civic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Canice's Church",
+            "hu": "Szent Canice-templom",
+            "ro": "Biserica St. Canice",
+            "en": "St. Canice's Church"
+          },
+          "coords": [
+            55.056,
+            -6.944
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die friedliche Anlage.",
+            "hu": "Látogassa meg a békés templomkertet.",
+            "ro": "Vizitați curtea liniștită a bisericii.",
+            "en": "Visit the peaceful church grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Roe Valley Country Park",
+            "hu": "Roe Valley Country Park",
+            "ro": "Parcul Roe Valley",
+            "en": "Roe Valley Country Park"
+          },
+          "coords": [
+            55.042,
+            -6.94
+          ],
+          "category": "park",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Folgen Sie den Pfaden entlang des Flusses.",
+            "hu": "Kövesse a folyó menti ösvényeket.",
+            "ro": "Urmați potecile de-a lungul râului.",
+            "en": "Follow the paths along the scenic river."
+          }
+        },
+        {
+          "name": {
+            "de": "Largy Waterfall",
+            "hu": "Largy-vízesés",
+            "ro": "Cascada Largy",
+            "en": "Largy Waterfall"
+          },
+          "coords": [
+            55.04,
+            -6.935
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein verborgenes Juwel in der Natur.",
+            "hu": "Rejtett gyöngyszem a természetben.",
+            "ro": "O bijuterie ascunsă în natură.",
+            "en": "A hidden gem tucked away in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Market Yard",
+            "hu": "Vásártér",
+            "ro": "Curtea Pieței",
+            "en": "Market Yard"
+          },
+          "coords": [
+            55.053,
+            -6.947
+          ],
+          "category": "civic",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ideal für den späten Nachmittag.",
+            "hu": "Ideális késő délutáni program.",
+            "ro": "Ideal pentru după-amiaza târzie.",
+            "en": "Ideal for a late afternoon visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Limavady empfängt Sie mit der Geschichte des Liedes 'Danny Boy'. Nach einem Stadtspaziergang führt Sie der Weg in den atemberaubenden Roe Valley Country Park, wo die Natur den Ton angibt. Entdecken Sie versteckte Wasserfälle und beenden Sie den Tag im historischen Market Yard, dem pulsierenden Herz der Stadt.",
+        "hu": "Limavady a híres 'Danny Boy' dal történetével várja Önt. A városi séta után az út a lenyűgöző Roe Valley Country Parkba vezet, ahol a természeté a főszerep. Fedezze fel a rejtett vízeséseket, és zárja a napot a történelmi Market Yardban, a város lüktető szívében.",
+        "ro": "Limavady vă întâmpină cu povestea cântecului „Danny Boy”. După o plimbare prin oraș, drumul vă duce în spectaculosul parc Roe Valley, unde natura domină peisajul. Descoperiți cascadele ascunse și încheiați ziua în istoricul Market Yard, inima vibrantă a orașului.",
+        "en": "Limavady welcomes you with the heritage of the 'Danny Boy' song. After a city stroll, the path leads you to the stunning Roe Valley Country Park, where nature takes center stage. Discover hidden waterfalls and end your day at the historic Market Yard, the pulsating heart of the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frank Owens Bar",
+            "tip": "Traditionelles Essen in gemütlicher Runde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frank Owens Bar",
+            "tip": "Hagyományos ételek barátságos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frank Owens Bar",
+            "tip": "Mâncare tradițională într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frank Owens Bar",
+            "tip": "Traditional food in a cozy, welcoming setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "River Roe Banks",
+            "tip": "Beruhigendes Wasserrauschen am Flussufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roe folyó partja",
+            "tip": "Megnyugtató vízcsobogás a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Roe",
+            "tip": "Sunetul liniștitor al apei pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Roe Banks",
+            "tip": "Soothing water sounds along the riverbank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Main Street Shops",
+            "tip": "Lokale Handwerkskunst und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Főutcai boltok",
+            "tip": "Helyi kézműves termékek és ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Main Street",
+            "tip": "Artizanat local și cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Street Shops",
+            "tip": "Local crafts and unique gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie wasserfeste Kleidung für die Wasserfälle mit.",
+          "Besuchen Sie das Danny Boy Denkmal am Morgen."
+        ],
+        "hu": [
+          "Vigyen vízálló ruhát a vízesésekhez.",
+          "Látogassa meg a Danny Boy emlékművet reggel."
+        ],
+        "ro": [
+          "Luați haine impermeabile pentru cascade.",
+          "Vizitați monumentul Danny Boy dimineața."
+        ],
+        "en": [
+          "Bring waterproof clothing for the waterfall visits.",
+          "Visit the Danny Boy monument early in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 14.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Limavady Centre",
+            "hu": "Városközpont",
+            "ro": "Centrul Limavady",
+            "en": "Limavady Centre"
+          },
+          "coords": [
+            55.053,
+            -6.947
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am zentralen Platz.",
+            "hu": "Kezdje a központi téren.",
+            "ro": "Începeți în piața centrală.",
+            "en": "Start at the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Roe Valley Country Park",
+            "hu": "Roe Valley Country Park",
+            "ro": "Parcul Roe Valley",
+            "en": "Roe Valley Country Park"
+          },
+          "coords": [
+            55.042,
+            -6.94
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Hervorragende Radwege im Park.",
+            "hu": "Kiváló kerékpárutak a parkban.",
+            "ro": "Piste de biciclete excelente în parc.",
+            "en": "Excellent cycling trails throughout the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Broighter Gold Site",
+            "hu": "Broighter Gold lelőhely",
+            "ro": "Situl Aurului de la Broighter",
+            "en": "Broighter Gold Site"
+          },
+          "coords": [
+            55.08,
+            -6.98
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Der Ort eines Schatzfundes.",
+            "hu": "Egy híres kincseslelet helyszíne.",
+            "ro": "Locul unei descoperiri de tezaur celebre.",
+            "en": "The site of a famous ancient treasure find."
+          }
+        },
+        {
+          "name": {
+            "de": "Roe Park Resort Grounds",
+            "hu": "Roe Park Resort kertje",
+            "ro": "Domeniul Roe Park Resort",
+            "en": "Roe Park Resort Grounds"
+          },
+          "coords": [
+            55.045,
+            -6.955
+          ],
+          "category": "hotel",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schöne Alleen zum Radfahren.",
+            "hu": "Szép fasorok a biciklizéshez.",
+            "ro": "Alei frumoase pentru ciclism.",
+            "en": "Beautiful avenues for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Limavady Library",
+            "hu": "Könyvtár",
+            "ro": "Biblioteca Limavady",
+            "en": "Limavady Library"
+          },
+          "coords": [
+            55.052,
+            -6.949
+          ],
+          "category": "civic",
+          "arrive_at": "14:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein modernes Gebäude im Zentrum.",
+            "hu": "Modern épület a központban.",
+            "ro": "O clădire modernă în centru.",
+            "en": "A modern civic building in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das Roe Valley auf zwei Rädern. Diese Route führt Sie vom Stadtzentrum in die grüne Lunge des Country Parks und weiter zum historischen Fundort des Broighter Gold. Genießen Sie die flachen Wege entlang der Küstenebene und den Ausblick auf die Binevenagh-Berge.",
+        "hu": "Fedezze fel a Roe-völgyet két keréken. Az útvonal a városközpontból a Country Park zöld tüdejébe, majd a történelmi Broighter Gold lelőhelyhez vezet. Élvezze a sík utakat a parti síkságon és a Binevenagh-hegyek látványát.",
+        "ro": "Explorați valea Roe pe două roți. Acest traseu vă poartă din centrul orașului în plămânul verde al parcului natural și mai departe spre situl istoric Broighter Gold. Bucurați-vă de drumurile plane de-a lungul câmpiei de coastă și de priveliștea munților Binevenagh.",
+        "en": "Explore the Roe Valley on two wheels. This route takes you from the town center into the green lung of the Country Park and further to the historic Broighter Gold site. Enjoy the flat paths along the coastal plain and the views of the Binevenagh mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Roe Park Resort Brasserie",
+            "tip": "Gehobenes Mittagessen im Grünen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roe Park Resort Brasserie",
+            "tip": "Színvonalas ebéd zöld környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Roe Park Resort Brasserie",
+            "tip": "Prânz rafinat într-un cadru verde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roe Park Resort Brasserie",
+            "tip": "Upscale lunch in a beautiful green setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Binevenagh Viewpoint",
+            "tip": "Panorama über das Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Binevenagh kilátó",
+            "tip": "Panoráma a völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Binevenagh",
+            "tip": "Panoramă peste vale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Binevenagh Viewpoint",
+            "tip": "Panoramic views across the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Market Yard Shops",
+            "tip": "Lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Market Yard boltok",
+            "tip": "Helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din Market Yard",
+            "tip": "Artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Market Yard Shops",
+            "tip": "Local artisanal products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenwinde können stark sein.",
+          "Nehmen Sie Karten für die ländlichen Wege mit."
+        ],
+        "hu": [
+          "A parti szél erős lehet.",
+          "Vigyen térképet a vidéki utakhoz."
+        ],
+        "ro": [
+          "Vânturile de coastă pot fi puternice.",
+          "Luați hărți pentru drumurile rurale."
+        ],
+        "en": [
+          "Coastal winds can be strong in this area.",
+          "Carry maps for the rural cycling paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Limavady Town Hall (Cluster A)",
+            "hu": "Városháza (A klaszter)",
+            "ro": "Primăria Limavady (Cluster A)",
+            "en": "Limavady Town Hall (Cluster A)"
+          },
+          "coords": [
+            55.054,
+            -6.946
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum.",
+            "hu": "Parkoljon a városközpontban.",
+            "ro": "Parcați în centrul orașului.",
+            "en": "Park in the town center car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Danny Boy Statue (Cluster A)",
+            "hu": "Danny Boy szobor (A klaszter)",
+            "ro": "Statuia Danny Boy (Cluster A)",
+            "en": "Danny Boy Statue (Cluster A)"
+          },
+          "coords": [
+            55.052,
+            -6.948
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Rathaus erreichbar.",
+            "hu": "Gyalog elérhető a városházától.",
+            "ro": "Accesibil pe jos de la primărie.",
+            "en": "Accessible on foot from the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Roe Valley Country Park (Cluster B)",
+            "hu": "Roe Valley Country Park (B klaszter)",
+            "ro": "Parcul Roe Valley (Cluster B)",
+            "en": "Roe Valley Country Park (Cluster B)"
+          },
+          "coords": [
+            55.042,
+            -6.94
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Besucherzentrum.",
+            "hu": "Nagy parkoló a látogatóközpontnál.",
+            "ro": "Parcare mare la centrul de vizitare.",
+            "en": "Large car park at the visitor center."
+          }
+        },
+        {
+          "name": {
+            "de": "Largy Waterfall (Cluster B)",
+            "hu": "Largy-vízesés (B klaszter)",
+            "ro": "Cascada Largy (Cluster B)",
+            "en": "Largy Waterfall (Cluster B)"
+          },
+          "coords": [
+            55.04,
+            -6.935
+          ],
+          "category": "natural",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Roe Park (Cluster C)",
+            "hu": "Ebéd a Roe Parkban (C klaszter)",
+            "ro": "Prânz la Roe Park (Cluster C)",
+            "en": "Lunch at Roe Park (Cluster C)"
+          },
+          "coords": [
+            55.045,
+            -6.955
+          ],
+          "category": "culinary",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Hoteleigenes Restaurant mit Aussicht.",
+            "hu": "Szállodai étterem kilátással.",
+            "ro": "Restaurant de hotel cu vedere.",
+            "en": "Hotel restaurant with scenic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Drumceatt (Nearby)",
+            "hu": "Drumceatt (közeli)",
+            "ro": "Drumceatt (Aproape)",
+            "en": "Drumceatt (Nearby)"
+          },
+          "coords": [
+            55.06,
+            -6.97
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ort der Versammlung von 575.",
+            "hu": "Az 575-ös gyűlés helyszíne.",
+            "ro": "Locul marii adunări din 575.",
+            "en": "Site of the historic 575 convention."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Limavady mit dem Auto bietet Flexibilität für Stadt und Umland. Beginnen Sie im Zentrum für Kultur, verbringen Sie den Mittag im herrlichen Roe Valley Park und machen Sie am Nachmittag einen Abstecher zum historischen Drumceatt. Eine perfekte Mischung aus Komfort und Entdeckung.",
+        "hu": "Limavady autóval rugalmasságot kínál a városhoz és környékéhez. Kezdje a központban a kultúrával, töltse a delet a csodás Roe Valley Parkban, délután pedig tegyen egy kitérőt a történelmi Drumceatt felé. A kényelem és a felfedezés tökéletes egyvelege.",
+        "ro": "Limavady cu mașina oferă flexibilitate pentru oraș și împrejurimi. Începeți în centru pentru cultură, petreceți amiaza în minunatul parc Roe Valley și faceți o scurtă vizită după-amiaza la istoricul Drumceatt. Un amestec perfect de confort și explorare.",
+        "en": "Exploring Limavady by car offers flexibility for both town and countryside. Start in the center for culture, spend midday in the magnificent Roe Valley Park, and take a detour to the historic Drumceatt in the afternoon. A perfect blend of convenience and discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Alexander Arms",
+            "tip": "Herzhafte Pub-Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Alexander Arms",
+            "tip": "Bőséges pub-ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Alexander Arms",
+            "tip": "Clasice de pub consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Alexander Arms",
+            "tip": "Hearty traditional pub classics."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gortmore Viewpoint",
+            "tip": "Blick bis zum Atlantik (15 Min Fahrt).",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gortmore kilátó",
+            "tip": "Kilátás az Atlanti-óceánig (15 perc autóval).",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Gortmore",
+            "tip": "Vedere până la Atlantic (15 min cu mașina).",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gortmore Viewpoint",
+            "tip": "Views to the Atlantic (15 min drive).",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Limavady Shopping Centre",
+            "tip": "Bekannte Marken und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Limavady bevásárlóközpont",
+            "tip": "Ismert márkák és kávézók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Limavady",
+            "tip": "Branduri cunoscute și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Limavady Shopping Centre",
+            "tip": "Popular brands and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist oft zeitlich begrenzt.",
+          "Die Straßen zum Roe Valley Park sind gut ausgeschildert."
+        ],
+        "hu": [
+          "A központi parkolás gyakran időhöz kötött.",
+          "A Roe Valley Park felé vezető utak jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Parcarea în centru este adesea limitată temporal.",
+          "Drumurile spre parcul Roe Valley sunt bine semnalizate."
+        ],
+        "en": [
+          "Parking in the town center is often time-limited.",
+          "Roads to Roe Valley Park are well signposted."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Limavady Bus Station (District A)",
+            "hu": "Buszpályaudvar (A negyed)",
+            "ro": "Autogara Limavady (District A)",
+            "en": "Limavady Bus Station (District A)"
+          },
+          "coords": [
+            55.051,
+            -6.95
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Regionalbusse.",
+            "hu": "Regionális buszok központi csomópontja.",
+            "ro": "Nod central pentru autobuzele regionale.",
+            "en": "Central hub for regional bus services."
+          }
+        },
+        {
+          "name": {
+            "de": "Main Street (District A)",
+            "hu": "Fő utca (A negyed)",
+            "ro": "Main Street (District A)",
+            "en": "Main Street (District A)"
+          },
+          "coords": [
+            55.053,
+            -6.948
+          ],
+          "category": "civic",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bester Ort für einen ersten Kaffee.",
+            "hu": "Legjobb hely egy reggeli kávéhoz.",
+            "ro": "Cel mai bun loc pentru prima cafea.",
+            "en": "Best place for your first coffee of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Roe Valley Visitor Centre (District B)",
+            "hu": "Roe Valley látogatóközpont (B negyed)",
+            "ro": "Centrul de vizitare Roe Valley (District B)",
+            "en": "Roe Valley Visitor Centre (District B)"
+          },
+          "coords": [
+            55.042,
+            -6.94
+          ],
+          "category": "cultural",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Buslinie 234 hält in der Nähe.",
+            "hu": "A 234-es busz megáll a közelben.",
+            "ro": "Autobuzul 234 oprește în apropiere.",
+            "en": "The 234 bus stops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Connell Street",
+            "hu": "Connell Street",
+            "ro": "Strada Connell",
+            "en": "Connell Street"
+          },
+          "coords": [
+            55.055,
+            -6.945
+          ],
+          "category": "civic",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Historische Straßenzüge erkunden.",
+            "hu": "Fedezze fel a történelmi utcákat.",
+            "ro": "Explorați străzile istorice.",
+            "en": "Explore the historic streetscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Limavady Arts Centre",
+            "hu": "Művészeti Központ",
+            "ro": "Centrul de Artă Limavady",
+            "en": "Limavady Arts Centre"
+          },
+          "coords": [
+            55.054,
+            -6.946
+          ],
+          "category": "cultural",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wechselnde Ausstellungen lokaler Künstler.",
+            "hu": "Helyi művészek időszaki kiállításai.",
+            "ro": "Expoziții temporare ale artiștilor locali.",
+            "en": "Rotating exhibitions of local artists."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Limavady stressfrei mit dem Bus. Diese Route verbindet den historischen Stadtkern mit dem malerischen Roe Valley Country Park. Zwischen den Busfahrten bleibt genug Zeit für gemütliche Spaziergänge, Museumsbesuche und das Eintauchen in die lokale Kultur Nordirlands.",
+        "hu": "Ismerje meg Limavadyt stresszmentesen, busszal. Az útvonal összeköti a történelmi városmagot a festői Roe Valley Country Parkkal. A buszutak között bőven marad idő kényelmes sétákra, múzeumlátogatásra és az északír kultúrában való elmélyülésre.",
+        "ro": "Experimentați Limavady fără stres, folosind autobuzul. Acest traseu conectează nucleul istoric al orașului cu parcul pitoresc Roe Valley. Între călătoriile cu autobuzul, aveți suficient timp pentru plimbări relaxante, vizite la muzee și imersiune în cultura locală.",
+        "en": "Experience Limavady stress-free by bus. This route connects the historic town center with the scenic Roe Valley Country Park. Between bus rides, there is plenty of time for leisurely strolls, museum visits, and immersing yourself in Northern Irish culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Depot",
+            "tip": "Kaffee und Snacks an der Busstation."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Depot",
+            "tip": "Kávé és harapnivalók a buszmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Depot",
+            "tip": "Cafea și gustări la autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Depot",
+            "tip": "Coffee and snacks right at the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Library Garden",
+            "tip": "Ein ruhiger Ort zum Lesen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvtárkert",
+            "tip": "Csendes hely az olvasáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Bibliotecii",
+            "tip": "Un loc liniștit pentru citit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Library Garden",
+            "tip": "A quiet spot for reading and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Main Street Delis",
+            "tip": "Regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Főutcai delikátok",
+            "tip": "Regionális különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delicatese pe Main Street",
+            "tip": "Specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Street Delis",
+            "tip": "Regional culinary specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Translink-App für Live-Fahrzeiten.",
+          "Die Busse am Wochenende verkehren seltener."
+        ],
+        "hu": [
+          "Használja a Translink appot az élő menetrendhez.",
+          "Hétvégén a buszok ritkábban járnak."
+        ],
+        "ro": [
+          "Folosiți aplicația Translink pentru timpi reali.",
+          "Autobuzele circulă mai rar în weekend."
+        ],
+        "en": [
+          "Use the Translink app for live bus times.",
+          "Be aware that weekend bus services are less frequent."
+        ]
+      }
+    }
+  }
+}

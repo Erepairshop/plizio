@@ -1,2278 +1,1605 @@
 {
   "city_id": "cres",
   "anchor": {
-    "name": "Cres",
+    "name": "Cres Harbor",
     "coords": [
-      14.4083,
-      44.9583
+      14.4075,
+      44.9568
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "13:45",
-      "total_km": 1.8,
-      "stop_count": 6,
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 8,
       "stops": [
         {
-          "name": "Uferpromenade Riva",
+          "name": {
+            "de": "Frane Petrić Platz",
+            "hu": "Frane Petrić tér",
+            "ro": "Piața Frane Petrić",
+            "en": "Frane Petrić Square"
+          },
           "coords": [
-            14.407,
-            44.96
+            14.4072,
+            44.9571
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "09:00",
-          "stay_min": 20,
-          "hop_from_prev_min": 0,
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.0,
-          "tip_4lang": {
-            "de": "Frühmorgens ist der Blick auf die Fischerboote am schönsten.",
-            "hu": "Kora reggel a legszebb a kilátás a halászhajókra a kikötőben.",
-            "ro": "Dimineața devreme, vederea ambarcațiunilor de pescuit este cea mai frumoasă.",
-            "en": "The view of the fishing boats is best in the early morning."
-          },
           "tip_5lang": {
-            "de": "Setzen Sie sich auf eine der Steinbänke und beobachten Sie die Cresanka-Schafe-Fähren.",
-            "hu": "Üljön le egy kőpadra, és figyelje a kikötőbe érkező halászhajókat.",
-            "ro": "Așezați-vă pe o bancă de piatră și priviți ambarcațiunile intrând în port.",
-            "en": "Sit on one of the stone benches and watch the fishing boats glide in."
+            "de": "Probieren Sie den Morgenkaffee in einem der Cafés mit Blick auf den Mandrač.",
+            "hu": "Kóstoljon meg egy reggeli kávét az egyik kávézóban, kilátással a Mandraćra.",
+            "ro": "Încercați o cafea de dimineață la una dintre cafenelele cu vedere la Mandrač.",
+            "en": "Try a morning coffee at one of the cafés overlooking the Mandrač."
           }
         },
         {
-          "name": "Loggia und Uhrturm",
-          "coords": [
-            14.408,
-            44.959
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:25",
-          "stay_min": 15,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_4lang": {
-            "de": "Achten Sie auf die Reliefs unter dem Dach der Loggia.",
-            "hu": "Figyelje meg a loggia tetőszerkezete alatti domborműveket.",
-            "ro": "Observați reliefurile de sub acoperișul lojei.",
-            "en": "Look for the reliefs under the roof of the loggia."
+          "name": {
+            "de": "Stadtloggia und Glockenturm",
+            "hu": "Városi Loggia és Óratorony",
+            "ro": "Loggia orașului și Turnul cu Ceas",
+            "en": "City Loggia and Clock Tower"
           },
-          "tip_5lang": {
-            "de": "Unter der Loggia hingen einst die öffentlichen Bekanntmachungen der venezianischen Verwaltung.",
-            "hu": "A loggia alatt egykor a velencei közigazgatás hirdetményeit függesztették ki.",
-            "ro": "Sub lojă erau afișate odinioară anunțurile administrației venețiene.",
-            "en": "Under the loggia, Venetian-era public notices were once posted for the townsfolk."
-          }
-        },
-        {
-          "name": "Pfarrkirche St. Isidor",
           "coords": [
-            14.409,
-            44.958
+            14.4078,
+            44.9575
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:45",
+          "category": "historical",
+          "arrive_at": "09:40",
           "stay_min": 30,
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.2,
-          "tip_4lang": {
-            "de": "Die Kirche beherbergt eine Statue des Schutzpatrons der Stadt.",
-            "hu": "A templom a város védőszentjének szobrát őrzi.",
-            "ro": "Biserica adăpostește o statuie a sfântului protector al orașului.",
-            "en": "The church houses a statue of the town's patron saint."
-          },
           "tip_5lang": {
-            "de": "Achten Sie auf das Renaissance-Portal mit dem Relief der Madonna mit Kind.",
-            "hu": "Figyelje meg a reneszánsz portált a Madonna gyermekkel domborművével.",
-            "ro": "Observați portalul renascentist cu relieful Madonei cu Pruncul.",
-            "en": "Look up at the Renaissance portal with its relief of the Madonna and Child."
+            "de": "Achten Sie auf die alte 'Säule der Schande' neben der Loggia.",
+            "hu": "Keresse meg a régi 'szégyenkövet' a Loggia mellett.",
+            "ro": "Observați vechea 'coloană a rușinii' de lângă Loggia.",
+            "en": "Look for the old 'Pillar of Shame' next to the Loggia."
           }
         },
         {
-          "name": "Palast Arsan",
-          "coords": [
-            14.41,
-            44.957
-          ],
-          "category": "museums",
-          "arrive_at": "10:25",
-          "stay_min": 75,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "tip_4lang": {
-            "de": "Das Museum zeigt interessante Exponate zur Inselgeschichte.",
-            "hu": "A múzeum érdekes kiállításokat mutat be a sziget történelméről.",
-            "ro": "Muzeul prezintă exponate interesante despre istoria insulei.",
-            "en": "The museum displays interesting exhibits on island history."
+          "name": {
+            "de": "Kirche St. Maria im Schnee",
+            "hu": "Havas Boldogasszony-templom",
+            "ro": "Biserica Sf. Maria a Zăpezii",
+            "en": "Church of St. Mary of the Snow"
           },
+          "coords": [
+            14.4082,
+            44.958
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Im Innenhof findet man Lapidarium-Stücke aus der römischen Zeit.",
-            "hu": "A belső udvarban római kori lapidárium-darabok láthatók.",
-            "ro": "În curtea interioară veți găsi piese de lapidarium din epoca romană.",
-            "en": "The inner courtyard hides Roman-era lapidarium fragments worth a closer look."
+            "de": "Der Glockenturm aus dem 15. Jahrhundert ist ein Wahrzeichen der Stadt.",
+            "hu": "A 15. századi harangtorony a város egyik jelképe.",
+            "ro": "Clopotnița sa din secolul al XV-lea este un simbol al orașului.",
+            "en": "Its 15th-century bell tower is a landmark of the town."
           }
         },
         {
-          "name": "Stadtmauern von Cres",
+          "name": {
+            "de": "Cres Museum (Arsan Palast)",
+            "hu": "Cres Múzeum (Arsan-palota)",
+            "ro": "Muzeul din Cres (Palatul Arsan)",
+            "en": "Cres Museum (Arsan Palace)"
+          },
           "coords": [
-            14.411,
-            44.96
+            14.4069,
+            44.9583
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "11:50",
-          "stay_min": 45,
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Ausstellung umfasst Amphoren, die aus dem Meer geborgen wurden.",
+            "hu": "A kiállítás tengerből kiemelt amforákat is bemutat.",
+            "ro": "Expoziția include amfore recuperate de pe fundul mării.",
+            "en": "The exhibition includes amphorae recovered from the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Konoba Bukaleta",
+            "hu": "Ebéd a Bukaleta Konobában",
+            "ro": "Prânz la Konoba Bukaleta",
+            "en": "Lunch at Konoba Bukaleta"
+          },
+          "coords": [
+            14.4085,
+            44.9572
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
-          "tip_4lang": {
-            "de": "Teile der Mauern bieten einen tollen Blick auf die Altstadt.",
-            "hu": "A falak egyes részeiről remek kilátás nyílik az óvárosra.",
-            "ro": "Părți ale zidurilor oferă o vedere excelentă asupra orașului vechi.",
-            "en": "Parts of the walls offer a great view of the old town."
-          },
           "tip_5lang": {
-            "de": "Vom erhaltenen Mauerabschnitt sieht man am besten in den späten Nachmittagsstunden.",
-            "hu": "A megmaradt falszakaszról késő délután a legszebb a kilátás.",
-            "ro": "De pe porțiunea păstrată a zidului, priveliștea este cea mai frumoasă spre seară.",
-            "en": "The surviving wall section gives the best views in the late afternoon light."
+            "de": "Ein Muss ist das Lamm, das hier eine lokale Spezialität ist.",
+            "hu": "A bárányhús kihagyhatatlan, ez a helyi specialitás.",
+            "ro": "Mielul este o specialitate locală care trebuie încercată.",
+            "en": "The lamb is a must-try, it's a local specialty."
           }
         },
         {
-          "name": "Franziskanerkloster St. Franziskus",
+          "name": {
+            "de": "Spaziergang am Hafen",
+            "hu": "Séta a kikötőben",
+            "ro": "Promenadă în port",
+            "en": "Harborfront Walk"
+          },
           "coords": [
-            14.412,
-            44.957
+            14.407,
+            44.956
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "12:45",
-          "stay_min": 30,
+          "category": "harbor",
+          "arrive_at": "14:00",
+          "stay_min": 45,
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.4,
-          "tip_4lang": {
-            "de": "Besuchen Sie das kleine Museum im Kreuzgang des Klosters.",
-            "hu": "Látogassa meg a kolostor keringőjében található kis múzeumot.",
-            "ro": "Vizitați micul muzeu din claustrul mănăstirii.",
-            "en": "Visit the small museum in the monastery cloister."
-          },
           "tip_5lang": {
-            "de": "Bitten Sie im Kloster, das kleine Museum mit den glagolitischen Handschriften zu sehen.",
-            "hu": "Kérdezze a kolostorban, hogy megtekintheti-e a glagolita kéziratok kis múzeumát.",
-            "ro": "Întrebați la mănăstire dacă puteți vizita micul muzeu cu manuscrise glagolitice.",
-            "en": "Ask at the convent to see the small museum of Glagolitic manuscripts."
+            "de": "Beobachten Sie die Fischerboote und genießen Sie die Meeresbrise.",
+            "hu": "Figyelje a halászhajókat és élvezze a tengeri szellőt.",
+            "ro": "Priviți bărcile de pescuit și bucurați-vă de briza mării.",
+            "en": "Watch the fishing boats and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Grabar",
+            "hu": "Grabar strand",
+            "ro": "Plaja Grabar",
+            "en": "Grabar Beach"
+          },
+          "coords": [
+            14.4021,
+            44.9525
+          ],
+          "category": "beach",
+          "arrive_at": "15:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Kiesstrand, der von Pinien umgeben ist.",
+            "hu": "Szép, fenyőkkel övezett kavicsos strand.",
+            "ro": "O plajă frumoasă cu pietriș, înconjurată de pini.",
+            "en": "A lovely pebble beach surrounded by pine trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee und Kuchen bei 'Gozinka'",
+            "hu": "Kávé és süti a 'Gozinka'-ban",
+            "ro": "Cafea și prăjitură la 'Gozinka'",
+            "en": "Coffee and cake at 'Gozinka'"
+          },
+          "coords": [
+            14.4065,
+            44.9568
+          ],
+          "category": "gastro",
+          "arrive_at": "17:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die traditionellen kroatischen Desserts.",
+            "hu": "Kóstolja meg a hagyományos horvát desszerteket.",
+            "ro": "Încercați deserturile tradiționale croate.",
+            "en": "Try the traditional Croatian desserts."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag an der belebten Riva, wo die pastellfarbenen Häuser im Hafen reflektiert werden. Ein kurzer Spaziergang führt Sie zur Loggia, dem einstigen Zentrum des öffentlichen Lebens. Mittags tauchen Sie im Arsan-Palast in die lokale Geschichte ein und bewundern die gotischen Details von St. Isidor. Nachmittags erkunden Sie die alten Befestigungsanlagen und genießen die Ruhe im Franziskanerkloster. Zum Abschluss des Tages lockt ein Abendessen mit fangfrischem Fisch direkt am Wasser.",
-        "hu": "Kezdje a napot a nyüzsgő Riván, ahol a pasztellszínű házak tükröződnek a kikötő vizében. Egy rövid séta elvezeti a Loggiához, a közélet egykori központjához. Délben merüljön el a helyi történelemben az Arsan-palotában, és csodálja meg a Szent Izidor-templom gótikus részleteit. Délután fedezze fel a régi erődítményeket, és élvezze a ferences kolostor nyugalmát. A nap zárásaként kóstoljon meg egy frissen fogott tengeri halat közvetlenül a vízparton.",
-        "ro": "Începeți ziua la Riva animată, unde casele în culori pastelate se reflectă în port. O scurtă plimbare vă duce la Loggia, fostul centru al vieții publice. La prânz, scufundați-vă în istoria locală la Palatul Arsan și admirați detaliile gotice ale bisericii Sf. Isidor. După-amiaza, explorați vechile fortificații și bucurați-vă de liniștea mănăstirii franciscane. La finalul zilei, savurați un pește proaspăt prins chiar pe malul apei.",
-        "en": "Start your day at the lively Riva, where pastel-colored houses reflect in the harbor water. A short walk leads you to the Loggia, the former center of public life. At midday, dive into local history at Arsan Palace and admire the Gothic details of St. Isidore's Church. In the afternoon, explore the old fortifications and enjoy the peace of the Franciscan monastery. To finish the day, enjoy some fresh fish right by the water."
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt, auf dem Frane Petrić Platz, und spüren Sie die venezianische Atmosphäre. Erkunden Sie historische Gebäude wie die Stadtloggia und die beeindruckende Kirche St. Maria im Schnee. Der Vormittag ist der reichen Geschichte von Cres gewidmet, die im Arsan-Palast zum Leben erweckt wird. Nach einem köstlichen Mittagessen mit lokalen Spezialitäten führt Sie ein entspannter Spaziergang entlang des Hafens und zu den nahegelegenen Stränden, wo Sie die adriatische Sonne genießen können. Der Tag endet gemütlich in einem Café im Hafen, wo Sie die Eindrücke bei einem Stück Kuchen Revue passieren lassen können.",
+        "hu": "Kezdje a napot az óváros szívében, a Frane Petrić téren, és szívja magába a velencei hangulatot. Fedezze fel a történelmi épületeket, mint a Városi Loggiát és a lenyűgöző Havas Boldogasszony-templomot. A délelőtt Cres gazdag történelmének jegyében telik, amely az Arsan-palotában kel életre. Egy helyi specialitásokból álló finom ebéd után egy pihentető séta vezet a kikötő mentén és a közeli strandokhoz, ahol élvezheti az adriai napsütést. A napot egy kikötői kávézóban zárja, ahol egy sütemény mellett idézheti fel az élményeket.",
+        "ro": "Începeți ziua în inima orașului vechi, în Piața Frane Petrić, și simțiți atmosfera venețiană. Explorați clădiri istorice precum Loggia orașului și impresionanta Biserică Sf. Maria a Zăpezii. Dimineața este dedicată istoriei bogate a insulei Cres, care prinde viață la Palatul Arsan. După un prânz delicios cu specialități locale, o plimbare relaxantă vă va duce de-a lungul portului și spre plajele din apropiere, unde vă puteți bucura de soarele Adriaticii. Ziua se încheie într-o cafenea din port, unde puteți reflecta la experiențele zilei savurând o prăjitură.",
+        "en": "Start your day in the heart of the old town, at Frane Petrić Square, and soak up the Venetian atmosphere. Explore historic buildings like the City Loggia and the impressive Church of St. Mary of the Snow. The morning is dedicated to Cres's rich history, brought to life in the Arsan Palace. After a delicious lunch featuring local specialties, a relaxing walk takes you along the harbor and to the nearby beaches to enjoy the Adriatic sun. The day concludes cozily in a harbor café, reflecting on your experiences over a piece of cake."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Creska janjetina",
-            "tip": "Probieren Sie das berühmte Insellamm im Restaurant Bukaleta."
+            "name": "Konoba Bukaleta",
+            "tip": "Berühmt für Lammgerichte, eine Spezialität der Insel."
           },
           {
-            "name": "Scampi a la Buzara",
-            "tip": "Frische Scampi in Knoblauch-Wein-Sauce bei Riva Cres."
+            "name": "Gostionica Belona",
+            "tip": "Frischer Fisch und Meeresfrüchte direkt am Hafen."
+          },
+          {
+            "name": "Riva",
+            "tip": "Ideal für eine Pizza oder einen leichten Salat mit Blick auf die Bucht."
           }
         ],
         "hu": [
           {
-            "name": "Cres-i bárány",
-            "tip": "Kóstolja meg a híres szigeti bárányt a Bukaleta étteremben."
+            "name": "Konoba Bukaleta",
+            "tip": "Híres a bárányételeiről, ami a sziget specialitása."
           },
           {
-            "name": "Scampi a la Buzara",
-            "tip": "Friss skampi fokhagymás-boros szószban a Riva Cres vendéglőben."
+            "name": "Gostionica Belona",
+            "tip": "Friss halak és tenger gyümölcsei közvetlenül a kikötőben."
+          },
+          {
+            "name": "Riva",
+            "tip": "Ideális egy pizzára vagy egy könnyű salátára, kilátással az öbölre."
           }
         ],
         "ro": [
           {
-            "name": "Miel de Cres",
-            "tip": "Gustați faimosul miel de pe insulă la restaurantul Bukaleta."
+            "name": "Konoba Bukaleta",
+            "tip": "Renumită pentru preparatele din miel, o specialitate a insulei."
           },
           {
-            "name": "Scampi a la Buzara",
-            "tip": "Scampi proaspeți în sos de usturoi și vin la Riva Cres."
+            "name": "Gostionica Belona",
+            "tip": "Pește proaspăt și fructe de mare chiar în port."
+          },
+          {
+            "name": "Riva",
+            "tip": "Ideal pentru o pizza sau o salată ușoară cu vedere la golf."
           }
         ],
         "en": [
           {
-            "name": "Cres Lamb",
-            "tip": "Taste the famous island lamb at Bukaleta restaurant."
+            "name": "Konoba Bukaleta",
+            "tip": "Famous for its lamb dishes, a specialty of the island."
           },
           {
-            "name": "Scampi a la Buzara",
-            "tip": "Fresh scampi in garlic and wine sauce at Riva Cres."
+            "name": "Gostionica Belona",
+            "tip": "Fresh fish and seafood right at the harbor."
+          },
+          {
+            "name": "Riva",
+            "tip": "Ideal for a pizza or a light salad with a view of the bay."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Kirche St. Maria Magdalena",
-            "tip": "Ein abgelegener Ort mit schöner Aussicht.",
+            "name": "Spaziergang zum Kloster St. Franziskus",
+            "tip": "Ein ruhiger Ort mit einem schönen Kreuzgang und Friedhof.",
             "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Strand Kovacine",
+            "tip": "Etwas weiter entfernt, aber der Spaziergang lohnt sich für die Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olivenhaine oberhalb der Stadt",
+            "tip": "Finden Sie einen ruhigen Pfad und genießen Sie die Stille.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Szent Mária Magdolna templom",
-            "tip": "Egy eldugott hely, csodálatos kilátással.",
+            "name": "Séta a Szent Ferenc-kolostorhoz",
+            "tip": "Csendes hely, szép kerengővel és temetővel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Kovacine strandnál",
+            "tip": "Kicsit távolabb van, de a séta megéri a kilátásért.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Olajfaligetek a város felett",
+            "tip": "Találjon egy csendes ösvényt, és élvezze a nyugalmat.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Biserica Sf. Maria Magdalena",
-            "tip": "Un loc retras cu o vedere frumoasă.",
+            "name": "Plimbare la Mănăstirea Sf. Francisc",
+            "tip": "Un loc liniștit cu un claustru și un cimitir frumos.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la plaja Kovacine",
+            "tip": "Puțin mai departe, dar plimbarea merită pentru priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Livezile de măslini de deasupra orașului",
+            "tip": "Găsiți o potecă liniștită și bucurați-vă de calm.",
             "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "St. Mary Magdalene Church",
-            "tip": "A secluded spot with a beautiful view.",
-            "emoji": "🏞️"
+            "name": "Walk to St. Francis Monastery",
+            "tip": "A peaceful spot with a beautiful cloister and cemetery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Kovacine Beach",
+            "tip": "A bit further away, but the walk is worth it for the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olive groves above the town",
+            "tip": "Find a quiet path and enjoy the tranquility.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Olivenöl aus Cres",
-            "tip": "Kaufen Sie lokales Öl direkt bei den Erzeugern in der Stadt."
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Olivenöl, Honig und Schafskäse aus der Region."
+          },
+          {
+            "name": "Ruta - Woll-Genossenschaft",
+            "tip": "Einzigartige Souvenirs aus Cres-Wolle."
+          },
+          {
+            "name": "Hafen-Souvenirläden",
+            "tip": "Handgemachter Schmuck und Keramik."
           }
         ],
         "hu": [
           {
-            "name": "Cres-i olívaolaj",
-            "tip": "Vásároljon helyi olajat közvetlenül a termelőktől a városban."
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi olívaolajat, mézet és juhsajtot."
+          },
+          {
+            "name": "Ruta - Gyapjúszövetkezet",
+            "tip": "Egyedi szuvenírek cresi gyapjúból."
+          },
+          {
+            "name": "Kikötői szuvenírboltok",
+            "tip": "Kézzel készített ékszerek és kerámiák."
           }
         ],
         "ro": [
           {
-            "name": "Ulei de măsline din Cres",
-            "tip": "Cumpărați ulei local direct de la producători din oraș."
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline local, miere și brânză de oaie."
+          },
+          {
+            "name": "Ruta - Cooperativa de lână",
+            "tip": "Suveniruri unice din lână de Cres."
+          },
+          {
+            "name": "Magazine de suveniruri din port",
+            "tip": "Bijuterii și ceramică artizanală."
           }
         ],
         "en": [
           {
-            "name": "Cres Olive Oil",
-            "tip": "Buy local oil directly from producers in the town."
+            "name": "Local Market",
+            "tip": "Buy local olive oil, honey, and sheep cheese."
+          },
+          {
+            "name": "Ruta - Wool Cooperative",
+            "tip": "Unique souvenirs made from Cres wool."
+          },
+          {
+            "name": "Harbor Souvenir Shops",
+            "tip": "Handmade jewelry and ceramics."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
-          "Die Altstadt ist weitgehend autofrei und ideal zum Wandern."
+          "Tragen Sie bequeme Schuhe, da die Altstadtgassen mit Kopfsteinpflaster gepflastert sind.",
+          "Nehmen Sie Badesachen mit, da es viele kleine Strände in Gehweite gibt.",
+          "Probieren Sie unbedingt das Cres-Lamm, eine lokale Delikatesse.",
+          "Vermeiden Sie die Mittagshitze im Sommer für längere Spaziergänge."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
-          "Az óváros nagy része autómentes, így ideális a sétához."
+          "Viseljen kényelmes cipőt, az óváros utcái macskakövesek.",
+          "Hozzon magával fürdőruhát, mert sok kis strand van sétatávolságra.",
+          "Feltétlenül kóstolja meg a cresi bárányt, a helyi finomságot.",
+          "Nyáron kerülje a déli hőséget a hosszabb séták során."
         ],
         "ro": [
-          "Purtați pantofi confortabili pentru străzile pietruite.",
-          "Centrul vechi este în mare parte pietonal, ideal pentru plimbare."
+          "Purtați încălțăminte confortabilă, străzile din orașul vechi sunt pavate cu piatră cubică.",
+          "Luați cu voi un costum de baie, există multe plaje mici la distanță de mers pe jos.",
+          "Nu ratați mielul de Cres, o delicatesă locală.",
+          "Evitați căldura de la amiază în timpul verii pentru plimbări mai lungi."
         ],
         "en": [
-          "Wear comfortable shoes for the cobblestone streets.",
-          "The old town is largely car-free and ideal for walking."
+          "Wear comfortable shoes as the old town streets are cobblestoned.",
+          "Bring a swimsuit, as there are many small beaches within walking distance.",
+          "Be sure to try the Cres lamb, a local delicacy.",
+          "Avoid the midday heat in summer for longer walks."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Beginnen Sie Ihren Tag an der belebten Riva, wo die pastellfarbenen Häuser im Hafen reflektiert werden. Ein kurzer Spaziergang führt Sie zur Loggia, dem einstigen Zentrum des öffentlichen Lebens. Mittags tauchen Sie im Arsan-Palast in die lokale Geschichte ein und bewundern die gotischen Details von St. Isidor. Nachmittags erkunden Sie die alten Befestigungsanlagen und genießen die Ruhe im Franziskanerkloster. Zum Abschluss des Tages lockt ein Abendessen mit fangfrischem Fisch direkt am Wasser.",
-            "hu": "Kezdje a napot a nyüzsgő Riván, ahol a pasztellszínű házak tükröződnek a kikötő vizében. Egy rövid séta elvezeti a Loggiához, a közélet egykori központjához. Délben merüljön el a helyi történelemben az Arsan-palotában, és csodálja meg a Szent Izidor-templom gótikus részleteit. Délután fedezze fel a régi erődítményeket, és élvezze a ferences kolostor nyugalmát. A nap zárásaként kóstoljon meg egy frissen fogott tengeri halat közvetlenül a vízparton.",
-            "ro": "Începeți ziua la Riva animată, unde casele în culori pastelate se reflectă în port. O scurtă plimbare vă duce la Loggia, fostul centru al vieții publice. La prânz, scufundați-vă în istoria locală la Palatul Arsan și admirați detaliile gotice ale bisericii Sf. Isidor. După-amiaza, explorați vechile fortificații și bucurați-vă de liniștea mănăstirii franciscane. La finalul zilei, savurați un pește proaspăt prins chiar pe malul apei.",
-            "en": "Start your day at the lively Riva, where pastel-colored houses reflect in the harbor water. A short walk leads you to the Loggia, the former center of public life. At midday, dive into local history at Arsan Palace and admire the Gothic details of St. Isidore's Church. In the afternoon, explore the old fortifications and enjoy the peace of the Franciscan monastery. To finish the day, enjoy some fresh fish right by the water."
-          },
-          "stops": [
-            {
-              "name": "Uferpromenade Riva",
-              "tip_5lang": null
-            },
-            {
-              "name": "Loggia und Uhrturm",
-              "tip_5lang": null
-            },
-            {
-              "name": "Pfarrkirche St. Isidor",
-              "tip_5lang": null
-            },
-            {
-              "name": "Palast Arsan",
-              "tip_5lang": null
-            },
-            {
-              "name": "Stadtmauern von Cres",
-              "tip_5lang": null
-            },
-            {
-              "name": "Franziskanerkloster St. Franziskus",
-              "tip_5lang": null
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Creska janjetina",
-                "tip": "Probieren Sie das berühmte Insellamm im Restaurant Bukaleta."
-              },
-              {
-                "name": "Scampi a la Buzara",
-                "tip": "Frische Scampi in Knoblauch-Wein-Sauce bei Riva Cres."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Cres-i bárány",
-                "tip": "Kóstolja meg a híres szigeti bárányt a Bukaleta étteremben."
-              },
-              {
-                "name": "Scampi a la Buzara",
-                "tip": "Friss skampi fokhagymás-boros szószban a Riva Cres vendéglőben."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Miel de Cres",
-                "tip": "Gustați faimosul miel de pe insulă la restaurantul Bukaleta."
-              },
-              {
-                "name": "Scampi a la Buzara",
-                "tip": "Scampi proaspeți în sos de usturoi și vin la Riva Cres."
-              }
-            ],
-            "en": [
-              {
-                "name": "Cres Lamb",
-                "tip": "Taste the famous island lamb at Bukaleta restaurant."
-              },
-              {
-                "name": "Scampi a la Buzara",
-                "tip": "Fresh scampi in garlic and wine sauce at Riva Cres."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Kirche St. Maria Magdalena",
-                "tip": "Ein abgelegener Ort mit schöner Aussicht.",
-                "emoji": "🧘"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Szent Mária Magdolna templom",
-                "tip": "Egy eldugott hely, csodálatos kilátással.",
-                "emoji": "🌅"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Biserica Sf. Maria Magdalena",
-                "tip": "Un loc retras cu o vedere frumoasă.",
-                "emoji": "🍃"
-              }
-            ],
-            "en": [
-              {
-                "name": "St. Mary Magdalene Church",
-                "tip": "A secluded spot with a beautiful view.",
-                "emoji": "🏞️"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Olivenöl aus Cres",
-                "tip": "Kaufen Sie lokales Öl direkt bei den Erzeugern in der Stadt."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Cres-i olívaolaj",
-                "tip": "Vásároljon helyi olajat közvetlenül a termelőktől a városban."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Ulei de măsline din Cres",
-                "tip": "Cumpărați ulei local direct de la producători din oraș."
-              }
-            ],
-            "en": [
-              {
-                "name": "Cres Olive Oil",
-                "tip": "Buy local oil directly from producers in the town."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
-              "Die Altstadt ist weitgehend autofrei und ideal zum Wandern."
-            ],
-            "hu": [
-              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
-              "Az óváros nagy része autómentes, így ideális a sétához."
-            ],
-            "ro": [
-              "Purtați pantofi confortabili pentru străzile pietruite.",
-              "Centrul vechi este în mare parte pietonal, ideal pentru plimbare."
-            ],
-            "en": [
-              "Wear comfortable shoes for the cobblestone streets.",
-              "The old town is largely car-free and ideal for walking."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Der Morgen an der Riva beginnt mit einer mystischen Stimmung, während Regentropfen das Hafenbecken kräuseln. Ein Schirm ist heute Ihr wichtigster Begleiter.  Mittags bietet die Loggia perfekten Schutz vor den Schauern. Beobachten Sie das geschäftige Treiben im Regen, während Sie trocken unter den historischen Bögen stehen.  Der Nachmittag gehört dem Arsan-Palast. Das Museum ist der ideale Rückzugsort, um tief in die Inselgeschichte einzutauchen, ohne nass zu werden.  Den Abend lassen wir ruhig ausklingen. Die engen Gassen der Altstadt bieten erstaunlich viel Schutz vor Wind und Wetter auf dem Weg zum Franziskanerkloster.",
-            "hu": "A reggel a Riva mentén misztikus hangulatban indul, ahogy az esőcseppek fodrozzák a kikötő vizét. Az esernyő ma a legfontosabb kísérője lesz.  Délben a Loggia nyújt tökéletes menedéket a záporok elől. Figyelje a várost a történelmi boltívek alól, miközben szárazon marad.  A délután az Arsan-palotáé. A múzeum ideális búvóhely, ahol elmélyedhet a sziget történelmében anélkül, hogy megázna.  Az estét nyugodtan zárjuk. Az óváros szűk utcái meglepően jó védelmet nyújtanak a szél és az eső ellen a ferences kolostor felé vezető úton.",
-            "ro": "Dimineața pe Riva începe cu o atmosferă mistică, în timp ce picăturile de ploaie ondulează apa portului. Umbrela este astăzi cel mai important accesoriu.  La prânz, Loggia oferă adăpostul perfect împotriva averselor. Observați agitația orașului de sub arcadele istorice, rămânând la adăpost.  După-amiaza aparține Palatului Arsan. Muzeul este refugiul ideal pentru a explora istoria insulei fără a vă uda.  Încheiem seara liniștit. Străzile înguste ale centrului vechi oferă un adăpost surprinzător împotriva vântului în drum spre mănăstirea franciscană.",
-            "en": "Morning at the Riva begins with a mystical atmosphere as raindrops ripple the harbor water. An umbrella is your most important companion today.  At noon, the Loggia provides perfect shelter from the showers. Watch the town's activity from under the historical arches while staying dry.  The afternoon belongs to the Arsan Palace. The museum is the ideal retreat to dive deep into island history without getting wet.  We end the evening quietly. The narrow streets of the old town offer surprisingly good protection from wind and rain on the way to the Franciscan monastery."
-          },
-          "stops": [
-            {
-              "name": "Uferpromenade Riva",
-              "tip_5lang": {
-                "de": "Achtung, die Steinplatten können bei Nässe rutschig sein. Feste Sohlen tragen.",
-                "hu": "Vigyázat, a kőlapok nedvesen csúszhatnak. Viseljen tapadós talpú cipőt.",
-                "ro": "Atenție, dalele de piatră pot fi alunecoase când sunt ude. Purtați tălpi aderente.",
-                "en": "Caution, the stone slabs can be slippery when wet. Wear grippy soles."
-              }
-            },
-            {
-              "name": "Loggia und Uhrturm",
-              "tip_5lang": {
-                "de": "Der ideale Ort, um einen Schauer trocken abzuwarten und Leute zu beobachten.",
-                "hu": "Ideális hely egy zápor szárazon való megvárásához és az emberek figyeléséhez.",
-                "ro": "Locul ideal pentru a aștepta trecerea unei averse și pentru a observa oamenii.",
-                "en": "The ideal spot to wait out a shower dry and watch the world go by."
-              }
-            },
-            {
-              "name": "Pfarrkirche St. Isidor",
-              "tip_5lang": {
-                "de": "Nutzen Sie die Stille des Kirchenraums für eine besinnliche Pause im Trockenen.",
-                "hu": "Használja ki a templom csendjét egy békés, száraz pihenőre.",
-                "ro": "Profitați de liniștea bisericii pentru o pauză relaxantă la adăpost.",
-                "en": "Take advantage of the church's silence for a peaceful, dry break."
-              }
-            },
-            {
-              "name": "Palast Arsan",
-              "tip_5lang": {
-                "de": "Verlängern Sie den Aufenthalt, wenn es draußen stark regnet; es gibt viel zu sehen.",
-                "hu": "Hosszabbítsa meg a látogatást, ha kint erősen esik; rengeteg a látnivaló.",
-                "ro": "Prelungiți vizita dacă afară plouă torențial; sunt multe de văzut.",
-                "en": "Extend your stay if it's raining hard outside; there is much to see."
-              }
-            },
-            {
-              "name": "Stadtmauern von Cres",
-              "tip_5lang": {
-                "de": "Die Mauern bieten wenig Schutz; halten Sie den Schirm bei Wind gut fest.",
-                "hu": "A falak kevés védelmet nyújtanak; szélben tartsa erősen az esernyőt.",
-                "ro": "Zidurile oferă puțin adăpost; țineți bine umbrela dacă bate vântul.",
-                "en": "The walls offer little shelter; hold your umbrella firmly in the wind."
-              }
-            },
-            {
-              "name": "Franziskanerkloster St. Franziskus",
-              "tip_5lang": {
-                "de": "Der Kreuzgang bietet einen wunderschönen, überdachten Spazierweg.",
-                "hu": "A kolostor folyosója csodálatos, fedett sétalehetőséget kínál.",
-                "ro": "Cloastrul oferă o cale de plimbare acoperită și minunată.",
-                "en": "The cloister offers a beautiful, covered walkway."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Die Steinpflaster in Cres werden bei Regen extrem glatt.",
-              "Tragen Sie wasserfeste Schuhe mit gutem Profil.",
-              "Nutzen Sie die vielen Cafés rund um den Hafen als trockene Stützpunkte.",
-              "Der Arsan-Palast ist die beste Indoor-Option der Stadt.",
-              "Packen Sie einen stabilen Schirm ein, da der Wind am Meer tückisch sein kann."
-            ],
-            "hu": [
-              "Cres kőburkolata esőben rendkívül csúszóssá válik.",
-              "Viseljen vízálló, jó tapadású talppal rendelkező cipőt.",
-              "Használja a kikötő körüli kávézókat száraz bázispontként.",
-              "Az Arsan-palota a város legjobb fedett programlehetősége.",
-              "Vigyél magaddal strapabíró esernyőt, mert a tengerparti szél csalóka lehet."
-            ],
-            "ro": [
-              "Pavajul de piatră din Cres devine extrem de alunecos pe ploaie.",
-              "Purtați încălțăminte impermeabilă cu o talpă aderentă.",
-              "Folosiți numeroasele cafenele din jurul portului ca puncte de sprijin uscate.",
-              "Palatul Arsan este cea mai bună opțiune de interior din oraș.",
-              "Luați o umbrelă rezistentă, deoarece vântul de la malul mării poate fi puternic."
-            ],
-            "en": [
-              "The stone pavements in Cres become extremely slippery when it rains.",
-              "Wear waterproof shoes with good traction.",
-              "Use the many cafes around the harbor as dry base points.",
-              "The Arsan Palace is the best indoor option in town.",
-              "Pack a sturdy umbrella, as the seaside wind can be tricky."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein klarer Wintermorgen an der Riva mit der frischen Bura-Brise weckt die Geister. Die Stadt gehört Ihnen fast allein.  Mittags wärmen die Sonnenstrahlen auf der Loggia. Es ist die Zeit für einen heißen Kaffee unter Einheimischen im windgeschützten Eck.  Am Nachmittag tauchen wir in die Geschichte des Arsan-Palastes ein. Die dicken Mauern speichern die Kühle, aber die Exponate erwärmen das Herz.  Bevor die Sonne früh hinter den Hügeln verschwindet, besuchen wir die Stadtmauern. Das goldene Licht des Winters ist perfekt für Fotos.",
-            "hu": "A tiszta téli reggel a Riva mentén a friss bura széllel felfrissíti az embert. A város szinte csak az Öné.  Délben a napsugarak felmelegítik a Loggiát. Itt az idő egy forró kávéra a helyiek között egy szélvédett sarokban.  Délután elmerülünk az Arsan-palota történelmében. A vastag falak őrzik a hűvöst, de a kiállítási tárgyak melengetik a szívet.  Mielőtt a nap korán eltűnik a dombok mögött, meglátogatjuk a városfalakat. A téli aranyfény tökéletes a fotózáshoz.",
-            "ro": "O dimineață senină de iarnă pe Riva, cu briza proaspătă a Burei, trezește spiritul. Orașul vă aparține aproape în întregime.  La prânz, razele soarelui încălzesc Loggia. Este momentul pentru o cafea fierbinte printre localnici, într-un colț ferit de vânt.  După-amiaza ne scufundăm în istoria Palatului Arsan. Zidurile groase păstrează răcoarea, dar exponatele vă vor încânta inima.  Înainte ca soarele să apună devreme după dealuri, vizităm zidurile orașului. Lumina aurie a iernii este perfectă pentru fotografii.",
-            "en": "A clear winter morning at the Riva with the fresh Bura breeze awakens the spirit. The town belongs almost entirely to you.  At noon, the sun's rays warm the Loggia. It's time for a hot coffee among locals in a wind-sheltered corner.  In the afternoon, we dive into the history of the Arsan Palace. The thick walls keep the chill, but the exhibits warm the heart.  Before the sun sets early behind the hills, we visit the city walls. The golden light of winter is perfect for photos."
-          },
-          "stops": [
-            {
-              "name": "Uferpromenade Riva",
-              "tip_5lang": {
-                "de": "Warme Kleidung ist Pflicht, besonders wenn die Bura kräftig weht.",
-                "hu": "Meleg ruházat kötelező, különösen, ha erősen fúj a bura.",
-                "ro": "Îmbrăcămintea groasă este obligatorie, mai ales când bate Bura.",
-                "en": "Warm clothing is mandatory, especially when the Bura blows strongly."
-              }
-            },
-            {
-              "name": "Loggia und Uhrturm",
-              "tip_5lang": {
-                "de": "Suchen Sie sich einen Platz in der Sonne, um die Winterwärme aufzusaugen.",
-                "hu": "Keressen egy napsütötte helyet, hogy magába szívja a téli meleget.",
-                "ro": "Căutați un loc la soare pentru a absorbi căldura iernii.",
-                "en": "Find a spot in the sun to soak up the winter warmth."
-              }
-            },
-            {
-              "name": "Pfarrkirche St. Isidor",
-              "tip_5lang": {
-                "de": "In der Kirche kann es recht kühl sein; behalten Sie Ihren Mantel an.",
-                "hu": "A templomban elég hűvös lehet; ne vegye le a kabátját.",
-                "ro": "În biserică poate fi destul de răcoare; păstrați-vă haina pe dvs.",
-                "en": "It can be quite chilly inside the church; keep your coat on."
-              }
-            },
-            {
-              "name": "Palast Arsan",
-              "tip_5lang": {
-                "de": "Ein Besuch im Winter bietet die nötige Ruhe für die Details der Sammlung.",
-                "hu": "A téli látogatás kellő nyugalmat biztosít a gyűjtemény részleteihez.",
-                "ro": "O vizită iarna oferă liniștea necesară pentru a observa detaliile colecției.",
-                "en": "A winter visit offers the necessary tranquility for the collection's details."
-              }
-            },
-            {
-              "name": "Stadtmauern von Cres",
-              "tip_5lang": {
-                "de": "Idealer Fotospot für das weiche Winterlicht am späten Nachmittag.",
-                "hu": "Ideális fotóhelyszín a késő délutáni lágy téli fényekhez.",
-                "ro": "Loc ideal pentru fotografii în lumina caldă a iernii de după-amiază.",
-                "en": "Ideal photo spot for the soft winter light in the late afternoon."
-              }
-            },
-            {
-              "name": "Franziskanerkloster St. Franziskus",
-              "tip_5lang": {
-                "de": "Besuchen Sie das Kloster früh, da es im Winter oft zeitiger schließt.",
-                "hu": "Látogassa meg korán a kolostort, mert télen gyakran korábban zár.",
-                "ro": "Vizitați mănăstirea devreme, deoarece iarna se închide adesea mai repede.",
-                "en": "Visit the monastery early, as it often closes sooner in winter."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Die Bura kann sehr kalt und böig sein; Windstopper-Kleidung hilft.",
-              "Die Sonne geht im Winter gegen 16:30 Uhr unter.",
-              "Viele touristische Geschäfte haben Winterpause, Cafés für Einheimische sind offen.",
-              "Genießen Sie die absolute Ruhe ohne die sommerlichen Menschenmassen.",
-              "Trinken Sie 'Rakija', um sich nach dem Spaziergang aufzuwärmen."
-            ],
-            "hu": [
-              "A bura szél nagyon hideg és lökésszerű lehet; a szélálló ruházat sokat segít.",
-              "A nap télen 16:30 körül nyugszik.",
-              "Sok turistaüzlet téli szünetet tart, de a helyi kávézók nyitva vannak.",
-              "Élvezze a tökéletes nyugalmat a nyári tömeg nélkül.",
-              "Igyon egy kis 'Rakija'-t, hogy felmelegedjen a séta után."
-            ],
-            "ro": [
-              "Bura poate fi foarte rece și în rafale; hainele rezistente la vânt ajută.",
-              "Iarna, soarele apune în jurul orei 16:30.",
-              "Multe magazine turistice sunt închise, dar cafenelele localnicilor rămân deschise.",
-              "Bucurați-vă de liniștea absolută, fără mulțimile de vară.",
-              "Beți o 'Rakija' pentru a vă încălzi după plimbare."
-            ],
-            "en": [
-              "The Bura wind can be very cold and gusty; windstopper clothing helps.",
-              "The sun sets around 4:30 PM in winter.",
-              "Many tourist shops are closed for winter, but local cafes remain open.",
-              "Enjoy the absolute peace without the summer crowds.",
-              "Have some 'Rakija' to warm up after your walk."
-            ]
-          }
-        }
       }
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 12,
+      "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "12:15",
-      "total_km": 4.5,
-      "stop_count": 5,
+      "end_estimate": "18:05",
+      "total_km": 15.5,
+      "stop_count": 7,
       "stops": [
         {
-          "name": "Uferpromenade Riva",
-          "coords": [
-            14.407,
-            44.96
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "09:00",
-          "stay_min": 15,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_4lang": {
-            "de": "Ein flacher Start entlang der Küstenstraße.",
-            "hu": "Sima indulás a tengerparti út mentén.",
-            "ro": "Un început lin de-a lungul drumului de coastă.",
-            "en": "A flat start along the coastal road."
+          "name": {
+            "de": "Fahrradverleih am Hafen",
+            "hu": "Kerékpárkölcsönző a kikötőben",
+            "ro": "Închiriere de biciclete în port",
+            "en": "Bike Rental at the Harbor"
           },
-          "tip_5lang": {
-            "de": "Schließen Sie das Rad an den ausgewiesenen Ständern an der Hauptpromenade an.",
-            "hu": "A kerékpárt a fő sétány kijelölt tartóihoz lakatolja, ne a korláthoz.",
-            "ro": "Legați bicicleta la suporturile dedicate de pe faleză, nu de balustradă.",
-            "en": "Lock your bike at the dedicated racks along the main promenade, not the railing."
-          }
-        },
-        {
-          "name": "Mletačka Kula",
           "coords": [
-            14.412,
-            44.962
+            14.4068,
+            44.9562
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:20",
-          "stay_min": 30,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 1.0,
-          "tip_4lang": {
-            "de": "Der venezianische Turm ist das Wahrzeichen der Befestigung.",
-            "hu": "A velencei torony az erődítmény jelképe.",
-            "ro": "Turnul venețian este simbolul fortificației.",
-            "en": "The Venetian tower is the landmark of the fortification."
-          },
-          "tip_5lang": {
-            "de": "Der venezianische Turm steht direkt am Weg, ideal für eine kurze Trinkpause.",
-            "hu": "A velencei torony közvetlenül az út mellett áll, jó hely egy rövid pihenőre.",
-            "ro": "Turnul venețian se află chiar lângă drum, ideal pentru o pauză scurtă.",
-            "en": "The Venetian tower stands right beside the path — a perfect quick water break."
-          }
-        },
-        {
-          "name": "Stadttor Marcana",
-          "coords": [
-            14.409,
-            44.963
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "10:00",
-          "stay_min": 15,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.5,
-          "tip_4lang": {
-            "de": "Eines der drei erhaltenen Stadttore.",
-            "hu": "A három épségben maradt városkapu egyike.",
-            "ro": "Una dintre cele trei porți ale orașului păstrate.",
-            "en": "One of the three preserved city gates."
-          },
-          "tip_5lang": {
-            "de": "Steigen Sie hier ab, das Kopfsteinpflaster unter dem Tor ist sehr rutschig.",
-            "hu": "Szálljon le itt, a kapu alatti macskakő rendkívül csúszós kerékkel.",
-            "ro": "Coborâți aici, pavajul de sub poartă este foarte alunecos pentru biciclete.",
-            "en": "Dismount here — the cobblestones under the gate are slippery on two wheels."
-          }
-        },
-        {
-          "name": "Kirche Maria im Schnee",
-          "coords": [
-            14.408,
-            44.96
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:25",
+          "category": "service",
+          "arrive_at": "09:10",
           "stay_min": 20,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.0,
-          "tip_4lang": {
-            "de": "Eine hübsche kleine Kirche nahe dem Zentrum.",
-            "hu": "Egy csinos kis templom a központ közelében.",
-            "ro": "O biserică mică și drăguță aproape de centru.",
-            "en": "A pretty little church near the center."
-          },
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Diese Kirche wird selten geöffnet — fragen Sie im Pfarrhaus nebenan.",
-            "hu": "Ezt a templomot ritkán nyitják ki, érdeklődjön a melletti plébánián.",
-            "ro": "Această biserică se deschide rar, întrebați la parohia alăturată.",
-            "en": "This church is rarely open — ask at the neighbouring parish house for access."
+            "de": "Wählen Sie ein Mountainbike für die Schotterwege außerhalb der Stadt.",
+            "hu": "Válasszon mountain bike-ot a városon kívüli murvás utakra.",
+            "ro": "Alegeți un mountain bike pentru drumurile cu pietriș din afara orașului.",
+            "en": "Choose a mountain bike for the gravel paths outside the town."
           }
         },
         {
-          "name": "Kirche St. Maria Magdalena",
+          "name": {
+            "de": "Fahrt entlang der Bucht nach Melin",
+            "hu": "Kerékpározás az öböl mentén Melinbe",
+            "ro": "Plimbare cu bicicleta de-a lungul golfului spre Melin",
+            "en": "Ride along the bay to Melin"
+          },
           "coords": [
-            14.415,
-            44.955
+            14.4152,
+            44.9495
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:00",
+          "category": "nature",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine malerische Strecke mit tollen Fotomotiven.",
+            "hu": "Festői útvonal, remek fotózási lehetőségekkel.",
+            "ro": "Un traseu pitoresc cu oportunități excelente pentru fotografii.",
+            "en": "A scenic route with great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Besuch des Klosters St. Salvator",
+            "hu": "A Szent Megváltó kolostor meglátogatása",
+            "ro": "Vizită la Mănăstirea Sf. Salvator",
+            "en": "Visit to the Monastery of St. Salvator"
+          },
+          "coords": [
+            14.4178,
+            44.948
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel mit einer reichen Geschichte.",
+            "hu": "Rejtett gyöngyszem gazdag történelemmel.",
+            "ro": "O bijuterie ascunsă cu o istorie bogată.",
+            "en": "A hidden gem with a rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück nach Cres und Mittagessen",
+            "hu": "Vissza Cresbe és ebéd",
+            "ro": "Înapoi la Cres și prânz",
+            "en": "Back to Cres and Lunch"
+          },
+          "coords": [
+            14.408,
+            44.957
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine Pause in einem der Restaurants am Hafen.",
+            "hu": "Pihenjen meg az egyik kikötői étteremben.",
+            "ro": "Acordați-vă o pauză la unul dintre restaurantele din port.",
+            "en": "Treat yourself to a break at one of the harbor restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Strand Kimen",
+            "hu": "Kerékpártúra a Kimen strandra",
+            "ro": "Plimbare cu bicicleta la plaja Kimen",
+            "en": "Ride to Kimen Beach"
+          },
+          "coords": [
+            14.401,
+            44.9635
+          ],
+          "category": "beach",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Dieser Strand ist gut ausgestattet und ideal für Familien.",
+            "hu": "Ez a strand jól felszerelt és ideális családok számára.",
+            "ro": "Această plajă este bine dotată și ideală pentru familii.",
+            "en": "This beach is well-equipped and ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt bei Sv. Bartolomej",
+            "hu": "Kilátópont a Sv. Bartolomej-nál",
+            "ro": "Punct de belvedere la Sf. Bartolomeu",
+            "en": "Viewpoint at Sv. Bartolomej"
+          },
+          "coords": [
+            14.3985,
+            44.968
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:00",
           "stay_min": 30,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.0,
-          "tip_4lang": {
-            "de": "Etwas steilerer Anstieg, aber die Ruhe lohnt sich.",
-            "hu": "Kicsit meredekebb emelkedő, de a nyugalom megéri.",
-            "ro": "Urcare puțin mai abruptă, dar liniștea merită.",
-            "en": "Slightly steeper climb, but the peace is worth it."
-          },
+          "hop_from_prev_km": 2.0,
           "tip_5lang": {
-            "de": "Die kleine Kapelle hat einen schattigen Vorhof, perfekt für eine Mittagsrast.",
-            "hu": "A kis kápolna előtti árnyékos udvar ideális egy déli pihenőhöz.",
-            "ro": "Mica capelă are o curte umbroasă în față, perfectă pentru un popas la prânz.",
-            "en": "The little chapel has a shady forecourt that's perfect for a midday rest."
+            "de": "Genießen Sie den Panoramablick auf die Stadt und die Bucht.",
+            "hu": "Élvezze a panorámás kilátást a városra és az öbölre.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului și a golfului.",
+            "en": "Enjoy the panoramic view of the town and the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückgabe der Fahrräder und Ausklang",
+            "hu": "Kerékpárok visszaadása és a nap lezárása",
+            "ro": "Returnarea bicicletelor și încheierea zilei",
+            "en": "Return Bikes and Wind Down"
+          },
+          "coords": [
+            14.4068,
+            44.9562
+          ],
+          "category": "service",
+          "arrive_at": "16:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Eis am Hafen.",
+            "hu": "Jutalmazza meg magát egy fagyival a kikötőben.",
+            "ro": "Recompensați-vă cu o înghețată în port.",
+            "en": "Reward yourself with an ice cream at the harbor."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Erkunden Sie Cres auf zwei Rädern. Beginnen Sie entspannt an der Riva und radeln Sie zum beeindruckenden venezianischen Turm. Entlang der alten Mauern gelangen Sie zum Stadttor Marcana. Nach einer kurzen Pause bei der Kirche Maria im Schnee führt Sie der Weg bergauf zur abgelegenen Kirche St. Maria Magdalena, von wo aus Sie einen weiten Blick über die Bucht genießen können.",
-        "hu": "Fedezze fel Cres-t két keréken. Kezdjen pihentetően a Riván, majd kerekezzen el a lenyűgöző velencei toronyhoz. A régi falak mentén jut el a Marcana városkapuhoz. Rövid pihenő után a Havas Boldogasszony templomnál az út felfelé vezet a távolabbi Szent Mária Magdolna templomhoz, ahonnan pazar kilátás nyílik az öbölre.",
-        "ro": "Explorați orașul Cres pe două roți. Începeți relaxat pe Riva și pedalați până la impresionantul turn venețian. De-a lungul zidurilor vechi veți ajunge la poarta Marcana. După o scurtă pauză la biserica Sf. Maria a Zăpezii, drumul vă duce la biserica retrasă Sf. Maria Magdalena, de unde vă puteți bucura de o vedere panoramică asupra golfului.",
-        "en": "Explore Cres on two wheels. Start relaxed on the Riva and bike to the impressive Venetian tower. Along the old walls, you'll reach the Marcana city gate. After a short break at the Church of Mary of the Snows, the path leads uphill to the secluded St. Mary Magdalene Church, offering a wide view over the bay."
+        "de": "Schwingen Sie sich aufs Rad und erkunden Sie die malerische Bucht von Cres. Die Tour führt Sie zunächst südwärts entlang der Küste nach Melin und zum historischen Kloster St. Salvator, wo Sie die Ruhe genießen können. Nach der Rückkehr in die Stadt und einem stärkenden Mittagessen am Hafen geht es nordwärts. Der Nachmittag ist für Entspannung am gut ausgestatteten Kimen-Strand reserviert. Zum Abschluss radeln Sie zu einem Aussichtspunkt oberhalb der Stadt, um einen unvergesslichen Panoramablick zu genießen, bevor Sie den Tag entspannt am Hafen ausklingen lassen.",
+        "hu": "Pattanjon biciklire, és fedezze fel a festői Cres-öblöt. A túra először dél felé vezet a part mentén Melinbe és a történelmi Szent Megváltó kolostorhoz, ahol élvezheti a csendet. Miután visszatért a városba és megebédelt a kikötőben, észak felé veszi az irányt. A délután a jól felszerelt Kimen strandon való pihenésé. Végül tekerjen fel egy, a város feletti kilátóponthoz, ahonnan felejthetetlen panoráma nyílik, mielőtt a napot a kikötőben zárná.",
+        "ro": "Urcați-vă pe bicicletă și explorați golful pitoresc Cres. Turul vă duce mai întâi spre sud, de-a lungul coastei, spre Melin și spre mănăstirea istorică Sf. Salvator, unde vă puteți bucura de liniște. După ce vă întoarceți în oraș și luați un prânz copios în port, vă îndreptați spre nord. După-amiaza este rezervată relaxării pe plaja bine echipată Kimen. La final, pedalați până la un punct de belvedere deasupra orașului pentru o priveliște panoramică de neuitat, înainte de a încheia ziua relaxându-vă în port.",
+        "en": "Hop on a bike and explore the picturesque bay of Cres. The tour first takes you south along the coast to Melin and the historic Monastery of St. Salvator, where you can enjoy the tranquility. After returning to town for a hearty lunch at the harbor, you'll head north. The afternoon is reserved for relaxation at the well-equipped Kimen Beach. To finish, you'll cycle up to a viewpoint above the town for an unforgettable panoramic view before winding down your day at the harbor."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Käse aus Cres",
-            "tip": "Harter Schafskäse mit Oliven."
+            "name": "Konoba Feral",
+            "tip": "Ideal für ein schnelles und leckeres Mittagessen, probieren Sie die gegrillten Calamari."
+          },
+          {
+            "name": "Pizzeria-Buffet Kovacine",
+            "tip": "In der Nähe des Strandes, perfekt für einen Snack nach dem Schwimmen."
+          },
+          {
+            "name": "Gostionica Amfora",
+            "tip": "Bietet eine große Auswahl an lokalen Gerichten in gemütlicher Atmosphäre."
           }
         ],
         "hu": [
           {
-            "name": "Cres-i sajt",
-            "tip": "Kemény juhsajt olívabogyóval."
+            "name": "Konoba Feral",
+            "tip": "Ideális egy gyors és finom ebédhez, kóstolja meg a grillezett kalmárt."
+          },
+          {
+            "name": "Pizzeria-Buffet Kovacine",
+            "tip": "A strand közelében, tökéletes egy úszás utáni harapnivalóhoz."
+          },
+          {
+            "name": "Gostionica Amfora",
+            "tip": "Helyi ételek széles választékát kínálja hangulatos környezetben."
           }
         ],
         "ro": [
           {
-            "name": "Brânză de Cres",
-            "tip": "Brânză tare de oaie cu măsline."
+            "name": "Konoba Feral",
+            "tip": "Ideal pentru un prânz rapid și delicios, încercați calamarii la grătar."
+          },
+          {
+            "name": "Pizzeria-Buffet Kovacine",
+            "tip": "Aproape de plajă, perfect pentru o gustare după înot."
+          },
+          {
+            "name": "Gostionica Amfora",
+            "tip": "Oferă o selecție largă de mâncăruri locale într-o atmosferă primitoare."
           }
         ],
         "en": [
           {
-            "name": "Cres Cheese",
-            "tip": "Hard sheep cheese with olives."
+            "name": "Konoba Feral",
+            "tip": "Ideal for a quick and tasty lunch, try the grilled calamari."
+          },
+          {
+            "name": "Pizzeria-Buffet Kovacine",
+            "tip": "Near the beach, perfect for a post-swim snack."
+          },
+          {
+            "name": "Gostionica Amfora",
+            "tip": "Offers a wide selection of local dishes in a cozy atmosphere."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Bucht von Cres",
-            "tip": "Ideal für eine Pause am Wasser.",
-            "emoji": "🌊"
+            "name": "Bucht von Valun",
+            "tip": "Eine längere, aber lohnende Radtour zu einem autofreien Fischerdorf.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pfad nach Sv. Blaz",
+            "tip": "Ein anspruchsvollerer Weg zu einer abgelegenen Bucht.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Sonnenaufgang am Hafen",
+            "tip": "Stehen Sie früh auf und genießen Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Cres-i öböl",
-            "tip": "Ideális egy pihenőhöz a vízparton.",
-            "emoji": "🧘"
+            "name": "Valun-öböl",
+            "tip": "Hosszabb, de megéri a kerékpártúra egy autómentes halászfaluhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ösvény Sv. Blaz felé",
+            "tip": "Kihívást jelentő út egy eldugott öbölhöz.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Napfelkelte a kikötőben",
+            "tip": "Keljen korán, és élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Golful Cres",
-            "tip": "Ideal pentru o pauză lângă apă.",
+            "name": "Golful Valun",
+            "tip": "O plimbare mai lungă cu bicicleta, dar care merită, până la un sat pescăresc fără mașini.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă spre Sv. Blaz",
+            "tip": "Un traseu mai dificil către un golf izolat.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Răsărit în port",
+            "tip": "Treziți-vă devreme și bucurați-vă de liniște înainte ca orașul să se trezească.",
             "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Cres Bay",
-            "tip": "Ideal for a break by the water.",
+            "name": "Bay of Valun",
+            "tip": "A longer but rewarding bike ride to a car-free fishing village.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Path to Sv. Blaz",
+            "tip": "A more challenging trail to a secluded bay.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Sunrise at the harbor",
+            "tip": "Get up early and enjoy the quiet before the town wakes up.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Kräuterlikör",
-            "tip": "Travarica mit lokalen Bergkräutern."
+            "name": "Natura Shop",
+            "tip": "Kräuter, Tees und Kosmetik aus lokalen Pflanzen."
+          },
+          {
+            "name": "Creski Kaić",
+            "tip": "Souvenirs, die das maritime Erbe von Cres widerspiegeln."
+          },
+          {
+            "name": "Ölmühle",
+            "tip": "Kaufen Sie preisgekröntes Olivenöl direkt vom Erzeuger."
           }
         ],
         "hu": [
           {
-            "name": "Gyógynövénylikőr",
-            "tip": "Travarica helyi hegyi gyógynövényekkel."
+            "name": "Natura Shop",
+            "tip": "Gyógynövények, teák és kozmetikumok helyi növényekből."
+          },
+          {
+            "name": "Creski Kaić",
+            "tip": "Cres tengeri örökségét tükröző ajándéktárgyak."
+          },
+          {
+            "name": "Olajütő",
+            "tip": "Vásároljon díjnyertes olívaolajat közvetlenül a termelőtől."
           }
         ],
         "ro": [
           {
-            "name": "Lichior de ierburi",
-            "tip": "Travarica cu ierburi locale de munte."
+            "name": "Magazin Natura",
+            "tip": "Ierburi, ceaiuri și cosmetice din plante locale."
+          },
+          {
+            "name": "Creski Kaić",
+            "tip": "Suveniruri care reflectă moștenirea maritimă a insulei Cres."
+          },
+          {
+            "name": "Presă de ulei",
+            "tip": "Cumpărați ulei de măsline premiat direct de la producător."
           }
         ],
         "en": [
           {
-            "name": "Herbal Liqueur",
-            "tip": "Travarica with local mountain herbs."
+            "name": "Natura Shop",
+            "tip": "Herbs, teas, and cosmetics from local plants."
+          },
+          {
+            "name": "Creski Kaić",
+            "tip": "Souvenirs reflecting the maritime heritage of Cres."
+          },
+          {
+            "name": "Olive Oil Mill",
+            "tip": "Buy award-winning olive oil directly from the producer."
           }
         ]
       },
       "tips": {
         "de": [
-          "Mieten Sie ein Fahrrad nahe der Marina.",
-          "Die Küstenpromenade ist perfekt zum gemütlichen Radeln."
+          "Prüfen Sie den Zustand des Fahrrads, bevor Sie losfahren.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an heißen Tagen.",
+          "Einige Wege können steil sein, seien Sie also auf Anstiege vorbereitet.",
+          "Ein Helm wird dringend empfohlen."
         ],
         "hu": [
-          "Béreljen kerékpárt a marina közelében.",
-          "A tengerparti sétány tökéletes a kényelmes biciklizéshez."
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Vigyen magával elegendő vizet, különösen a forró napokon.",
+          "Néhány út meredek lehet, készüljön fel az emelkedőkre.",
+          "Sisak használata erősen ajánlott."
         ],
         "ro": [
-          "Închiriați o bicicletă lângă marină.",
-          "Promenada de coastă este perfectă pentru o plimbare relaxată."
+          "Verificați starea bicicletei înainte de a porni.",
+          "Luați suficientă apă cu voi, mai ales în zilele călduroase.",
+          "Unele poteci pot fi abrupte, așa că fiți pregătiți pentru urcări.",
+          "Casca este puternic recomandată."
         ],
         "en": [
-          "Rent a bike near the marina.",
-          "The coastal promenade is perfect for easy cycling."
+          "Check the condition of the bike before you set off.",
+          "Take plenty of water with you, especially on hot days.",
+          "Some paths can be steep, so be prepared for climbs.",
+          "A helmet is highly recommended."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Erkunden Sie Cres auf zwei Rädern. Beginnen Sie entspannt an der Riva und radeln Sie zum beeindruckenden venezianischen Turm. Entlang der alten Mauern gelangen Sie zum Stadttor Marcana. Nach einer kurzen Pause bei der Kirche Maria im Schnee führt Sie der Weg bergauf zur abgelegenen Kirche St. Maria Magdalena, von wo aus Sie einen weiten Blick über die Bucht genießen können.",
-            "hu": "Fedezze fel Cres-t két keréken. Kezdjen pihentetően a Riván, majd kerekezzen el a lenyűgöző velencei toronyhoz. A régi falak mentén jut el a Marcana városkapuhoz. Rövid pihenő után a Havas Boldogasszony templomnál az út felfelé vezet a távolabbi Szent Mária Magdolna templomhoz, ahonnan pazar kilátás nyílik az öbölre.",
-            "ro": "Explorați orașul Cres pe două roți. Începeți relaxat pe Riva și pedalați până la impresionantul turn venețian. De-a lungul zidurilor vechi veți ajunge la poarta Marcana. După o scurtă pauză la biserica Sf. Maria a Zăpezii, drumul vă duce la biserica retrasă Sf. Maria Magdalena, de unde vă puteți bucura de o vedere panoramică asupra golfului.",
-            "en": "Explore Cres on two wheels. Start relaxed on the Riva and bike to the impressive Venetian tower. Along the old walls, you'll reach the Marcana city gate. After a short break at the Church of Mary of the Snows, the path leads uphill to the secluded St. Mary Magdalene Church, offering a wide view over the bay."
-          },
-          "stops": [
-            {
-              "name": "Uferpromenade Riva",
-              "tip_5lang": null
-            },
-            {
-              "name": "Mletačka Kula",
-              "tip_5lang": null
-            },
-            {
-              "name": "Stadttor Marcana",
-              "tip_5lang": null
-            },
-            {
-              "name": "Kirche Maria im Schnee",
-              "tip_5lang": null
-            },
-            {
-              "name": "Kirche St. Maria Magdalena",
-              "tip_5lang": null
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Käse aus Cres",
-                "tip": "Harter Schafskäse mit Oliven."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Cres-i sajt",
-                "tip": "Kemény juhsajt olívabogyóval."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Brânză de Cres",
-                "tip": "Brânză tare de oaie cu măsline."
-              }
-            ],
-            "en": [
-              {
-                "name": "Cres Cheese",
-                "tip": "Hard sheep cheese with olives."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Bucht von Cres",
-                "tip": "Ideal für eine Pause am Wasser.",
-                "emoji": "🌊"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Cres-i öböl",
-                "tip": "Ideális egy pihenőhöz a vízparton.",
-                "emoji": "🧘"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Golful Cres",
-                "tip": "Ideal pentru o pauză lângă apă.",
-                "emoji": "🌅"
-              }
-            ],
-            "en": [
-              {
-                "name": "Cres Bay",
-                "tip": "Ideal for a break by the water.",
-                "emoji": "🏞️"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Kräuterlikör",
-                "tip": "Travarica mit lokalen Bergkräutern."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Gyógynövénylikőr",
-                "tip": "Travarica helyi hegyi gyógynövényekkel."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Lichior de ierburi",
-                "tip": "Travarica cu ierburi locale de munte."
-              }
-            ],
-            "en": [
-              {
-                "name": "Herbal Liqueur",
-                "tip": "Travarica with local mountain herbs."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Mieten Sie ein Fahrrad nahe der Marina.",
-              "Die Küstenpromenade ist perfekt zum gemütlichen Radeln."
-            ],
-            "hu": [
-              "Béreljen kerékpárt a marina közelében.",
-              "A tengerparti sétány tökéletes a kényelmes biciklizéshez."
-            ],
-            "ro": [
-              "Închiriați o bicicletă lângă marină.",
-              "Promenada de coastă este perfectă pentru o plimbare relaxată."
-            ],
-            "en": [
-              "Rent a bike near the marina.",
-              "The coastal promenade is perfect for easy cycling."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Ein mutiger Start an der Riva im Regen. Mit guter Regenbekleidung ist die kurze Strecke zur Mletačka Kula kein Problem.  Mittags suchen wir Schutz beim Stadttor Marcana. Die historischen Steine glänzen silbern unter dem wolkenverhangenen Himmel.  Nachmittags geht es zur Kirche Maria im Schnee. Der Regen unterstreicht die melancholische Schönheit dieser alten Mauern.  Zum Abschluss radeln wir zur Kirche St. Maria Magdalena. Die Luft riecht wunderbar nach frischem Regen und Meersalz.",
-            "hu": "Bátor kezdés az esős Riván. Jó esőruházattal a rövid táv a Mletačka Kula toronyig nem probléma.  Délben menedéket keresünk a Marcana városkapunál. A történelmi kövek ezüstösen csillognak a felhős ég alatt.  Délután a Havas Boldogasszony-templom felé vesszük az irányt. Az eső kiemeli a régi falak melankolikus szépségét.  Befejezésül a Szent Mária Magdolna-templomhoz tekerünk. A levegőnek csodálatos friss eső és tengeri só illata van.",
-            "ro": "Un început curajos pe Riva, sub ploaie. Cu echipament adecvat, distanța scurtă până la Turnul Venețian nu este o problemă.  La prânz, căutăm adăpost la poarta orașului Marcana. Pietrele istorice strălucesc argintiu sub cerul înnorat.  După-amiaza ne îndreptăm spre Biserica Sfânta Maria a Zăpezii. Ploaia subliniază frumusețea melancolică a acestor ziduri vechi.  La final, pedalăm spre Biserica Sfânta Maria Magdalena. Aerul miroase minunat a ploaie proaspătă și sare de mare.",
-            "en": "A brave start at the Riva in the rain. With good rain gear, the short distance to the Venetian Tower is no problem.  At noon, we seek shelter at the Marcana city gate. The historical stones shine silvery under the overcast sky.  In the afternoon, we head to the Church of St. Mary of the Snows. The rain emphasizes the melancholic beauty of these old walls.  Finally, we cycle to the Church of St. Mary Magdalene. The air smells wonderfully of fresh rain and sea salt."
-          },
-          "stops": [
-            {
-              "name": "Uferpromenade Riva",
-              "tip_5lang": {
-                "de": "Vorsicht beim Bremsen auf den nassen Pflastersteinen am Hafen.",
-                "hu": "Vigyázzon a fékezéssel a kikötő nedves macskakövein.",
-                "ro": "Atenție la frânare pe pavajul umed din port.",
-                "en": "Be careful when braking on the wet cobblestones at the harbor."
-              }
-            },
-            {
-              "name": "Mletačka Kula",
-              "tip_5lang": {
-                "de": "Die Auffahrt kann rutschig sein; im Stehen fahren vermeiden.",
-                "hu": "A feljáró csúszós lehet; kerülje a nyeregből kiállva tekerést.",
-                "ro": "Urcarea poate fi alunecoasă; evitați pedalatul din picioare.",
-                "en": "The climb can be slippery; avoid out-of-saddle pedaling."
-              }
-            },
-            {
-              "name": "Stadttor Marcana",
-              "tip_5lang": {
-                "de": "Nutzen Sie den Torbogen für eine kurze Trinkpause im Trockenen.",
-                "hu": "Használja a kapualjat egy rövid, száraz ivószünethez.",
-                "ro": "Folosiți arcada porții pentru o scurtă pauză de hidratare la adăpost.",
-                "en": "Use the gateway for a short, dry hydration break."
-              }
-            },
-            {
-              "name": "Kirche Maria im Schnee",
-              "tip_5lang": {
-                "de": "Stellen Sie das Rad sicher ab; Metallständer können bei Nässe glatt sein.",
-                "hu": "Támassza le biztonságosan a biciklit; a fémállványok nedvesen csúszhatnak.",
-                "ro": "Parcați bicicleta în siguranță; suporturile metalice pot fi alunecoase.",
-                "en": "Park your bike securely; metal stands can be slick when wet."
-              }
-            },
-            {
-              "name": "Kirche St. Maria Magdalena",
-              "tip_5lang": {
-                "de": "Der Weg hierher ist exponiert; achten Sie auf seitliche Windböen.",
-                "hu": "Az idevezető út nyitott; figyeljen az oldalszélre.",
-                "ro": "Drumul până aici este expus; atenție la rafalele laterale de vânt.",
-                "en": "The path here is exposed; watch out for lateral wind gusts."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Reduzieren Sie den Reifendruck leicht für mehr Grip auf nassem Stein.",
-              "Vermeiden Sie hektische Lenkbewegungen auf Markierungen.",
-              "Schutzbleche sind bei diesem Wetter ein Muss.",
-              "Beleuchtung einschalten, da die Sicht bei Regen stark abnimmt.",
-              "Tragen Sie eine Brille, um Regentropfen aus den Augen fernzuhalten."
-            ],
-            "hu": [
-              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a nedves kövön.",
-              "Kerülje a hirtelen kormánymozdulatokat az útburkolati jeleken.",
-              "A sárvédő ilyen időben kötelező.",
-              "Kapcsolja be a világítást, mert a látótávolság esőben jelentősen csökken.",
-              "Viseljen szemüveget, hogy távol tartsa az esőcseppeket a szemétől."
-            ],
-            "ro": [
-              "Reduceți ușor presiunea din pneuri pentru o aderență mai bună pe piatra umedă.",
-              "Evitați manevrele bruște pe marcajele rutiere.",
-              "Apărătorile de noroi sunt obligatorii pe această vreme.",
-              "Aprindeți luminile, deoarece vizibilitatea scade semnificativ pe ploaie.",
-              "Purtați ochelari pentru a proteja ochii de picăturile de ploaie."
-            ],
-            "en": [
-              "Reduce tire pressure slightly for more grip on wet stones.",
-              "Avoid sudden steering movements on road markings.",
-              "Mudguards are a must in this weather.",
-              "Turn on your lights as visibility decreases significantly in rain.",
-              "Wear glasses to keep raindrops out of your eyes."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Die kühle Morgenluft an der Riva macht die Beine wach. Der Winter auf Cres ist ruhig und perfekt zum Radeln ohne Hitze.  Mittags erreichen wir die Mletačka Kula. Die Fernsicht über das glitzernde Meer ist im Winter oft klarer als im Sommer.  Nachmittags radeln wir durch die stillen Gassen zum Stadttor Marcana. Die Sonne steht tief und wirft lange Schatten.  Zum Sonnenuntergang erreichen wir die Kapelle St. Maria Magdalena. Die Stille der Natur ist hier im Winter absolut beeindruckend.",
-            "hu": "A hűvös reggeli levegő a Riván felébreszti a lábakat. A tél Cresen csendes és tökéletes a biciklizéshez a hőség nélkül.  Délben érjük el a Mletačka Kula tornyot. A kilátás a csillogó tengerre télen gyakran tisztább, mint nyáron.  Délután a csendes utcákon tekerünk a Marcana városkapuhoz. A nap alacsonyan jár és hosszú árnyékokat vet.  Naplementére érjük el a Szent Mária Magdolna-kápolnát. A természet csendje itt télen egészen lenyűgöző.",
-            "ro": "Aerul răcoros de dimineață de pe Riva vă va trezi rapid. Iarna în Cres este liniștită și perfectă pentru ciclism, fără arșiță.  La prânz ajungem la Turnul Venețian. Vizibilitatea asupra mării sclipitoare este adesea mai clară iarna decât vara.  După-amiaza pedalăm prin străzile tăcute spre poarta Marcana. Soarele este jos pe cer și aruncă umbre lungi.  La apus ajungem la capela Sfânta Maria Magdalena. Liniștea naturii de aici este absolut impresionantă iarna.",
-            "en": "The cool morning air at the Riva wakes up your legs. Winter on Cres is quiet and perfect for cycling without the heat.  At noon, we reach the Venetian Tower. The view over the sparkling sea is often clearer in winter than in summer.  In the afternoon, we cycle through the quiet streets to the Marcana gate. The sun is low, casting long shadows.  By sunset, we reach the St. Mary Magdalene chapel. The silence of nature here is absolutely impressive in winter."
-          },
-          "stops": [
-            {
-              "name": "Uferpromenade Riva",
-              "tip_5lang": {
-                "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter beißend kalt.",
-                "hu": "Viseljen kesztyűt; a menetszél télen metszően hideg.",
-                "ro": "Purtați mănuși; vântul din timpul mersului este tăios iarna.",
-                "en": "Wear gloves; the headwind is bitingly cold in winter."
-              }
-            },
-            {
-              "name": "Mletačka Kula",
-              "tip_5lang": {
-                "de": "Genießen Sie den Panoramablick; die Winterluft garantiert weite Sicht.",
-                "hu": "Élvezze a panorámát; a téli levegő garantálja a messzi kilátást.",
-                "ro": "Bucurați-vă de panorama; aerul de iarnă garantează o vizibilitate mare.",
-                "en": "Enjoy the panoramic view; the winter air guarantees far visibility."
-              }
-            },
-            {
-              "name": "Stadttor Marcana",
-              "tip_5lang": {
-                "de": "Achten Sie auf vereiste Stellen in schattigen Gassen am Morgen.",
-                "hu": "Figyeljen a jeges foltokra az árnyékos utcákban reggelente.",
-                "ro": "Atenție la porțiunile înghețate de pe străzile umbrite dimineața.",
-                "en": "Watch out for icy spots in shaded alleys in the morning."
-              }
-            },
-            {
-              "name": "Kirche Maria im Schnee",
-              "tip_5lang": {
-                "de": "Kurze Pause im Windschatten der Kirche einlegen.",
-                "hu": "Tartson rövid pihenőt a templom szélárnyékában.",
-                "ro": "Faceți o scurtă pauză la adăpost de vânt lângă biserică.",
-                "en": "Take a short break in the wind shadow of the church."
-              }
-            },
-            {
-              "name": "Kirche St. Maria Magdalena",
-              "tip_5lang": {
-                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit ein.",
-                "hu": "Tervezze meg a visszautat sötétedés előtt.",
-                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
-                "en": "Plan your return trip before darkness falls."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Layering (Zwiebelprinzip) ist wichtig gegen Auskühlung.",
-              "Die Bura kann das Radfahren an exponierten Stellen gefährlich machen.",
-              "Beleuchtung ist wegen des frühen Sonnenuntergangs essenziell.",
-              "Nehmen Sie einen Thermosbecher mit warmem Tee mit.",
-              "Prüfen Sie den Reifendruck; kalte Luft verringert ihn."
-            ],
-            "hu": [
-              "A réteges öltözködés fontos a kihűlés ellen.",
-              "A bura szél veszélyessé teheti a biciklizést a nyitott szakaszokon.",
-              "A világítás a korai naplemente miatt elengedhetetlen.",
-              "Vigyen magával termoszban meleg teát.",
-              "Ellenőrizze a guminyomást; a hideg levegő csökkenti azt."
-            ],
-            "ro": [
-              "Îmbrăcămintea în straturi este importantă împotriva răcelii.",
-              "Bura poate face ciclismul periculos în locurile expuse.",
-              "Luminile sunt esențiale din cauza apusului timpuriu.",
-              "Luați un termos cu ceai cald la voi.",
-              "Verificați presiunea în pneuri; aerul rece o reduce."
-            ],
-            "en": [
-              "Layering is important to prevent getting chilled.",
-              "The Bura can make cycling dangerous in exposed areas.",
-              "Lights are essential due to the early sunset.",
-              "Take a thermos with warm tea with you.",
-              "Check tire pressure; cold air reduces it."
-            ]
-          }
-        }
       }
     },
     "car": {
       "mode": "car",
-      "speed_kmh": 22,
+      "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "15:30",
-      "total_km": 45.0,
-      "stop_count": 5,
+      "end_estimate": "18:40",
+      "total_km": 54.8,
+      "stop_count": 8,
       "stops": [
         {
-          "name": "Cres Riva",
+          "name": {
+            "de": "Fahrt zum Dorf Lubenice",
+            "hu": "Autózás Lubenice faluba",
+            "ro": "Drum spre satul Lubenice",
+            "en": "Drive to the village of Lubenice"
+          },
           "coords": [
-            14.407,
-            44.96
+            14.3312,
+            44.8901
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "09:00",
+          "category": "village",
+          "arrive_at": "09:40",
           "stay_min": 20,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_4lang": {
-            "de": "Parken Sie am großen Parkplatz am Stadteingang.",
-            "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban.",
-            "ro": "Parcați în parcarea mare de la intrarea în oraș.",
-            "en": "Park at the large parking lot at the town entrance."
-          },
-          "tip_5lang": {
-            "de": "Parken Sie am Stadtrand, das Zentrum ist im Sommer praktisch unbefahrbar.",
-            "hu": "A város szélén parkoljon, nyáron a központ szinte járhatatlan autóval.",
-            "ro": "Parcați la marginea orașului, centrul este aproape impracticabil cu mașina vara.",
-            "en": "Park on the outskirts — the centre is practically impassable by car in summer."
-          }
-        },
-        {
-          "name": "Lubenice (Bergdorf)",
-          "coords": [
-            14.331,
-            44.887
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "10:00",
-          "stay_min": 90,
           "hop_from_prev_min": 40,
-          "hop_from_prev_km": 15.0,
-          "tip_4lang": {
-            "de": "Ein 4000 Jahre altes Dorf auf einer Klippe.",
-            "hu": "Egy 4000 éves falu egy sziklaszirten.",
-            "ro": "Un sat vechi de 4000 de ani pe o stâncă.",
-            "en": "A 4000-year-old village on a cliff."
-          },
+          "hop_from_prev_km": 22.0,
           "tip_5lang": {
-            "de": "Lubenice ist autofrei — parken Sie unterhalb und gehen Sie die letzten 200 Meter.",
-            "hu": "Lubenice gyalogos falu, parkoljon alatta és sétáljon fel az utolsó 200 métert.",
-            "ro": "Lubenice este pietonal, parcați mai jos și mergeți pe jos ultimii 200 de metri.",
-            "en": "Lubenice is car-free; park below and walk the last 200 metres uphill."
-          }
+            "de": "Parken Sie außerhalb des Dorfes und genießen Sie die spektakuläre Aussicht bei der Ankunft.",
+            "hu": "Parkoljon a falu előtt, és élvezze a látványos kilátást már érkezéskor.",
+            "ro": "Parcați în afara satului și bucurați-vă de priveliștea spectaculoasă la sosire.",
+            "en": "Park outside the village and enjoy the spectacular view upon arrival."
+          },
+          "hop_mode": "car"
         },
         {
-          "name": "Valun (Fischerdorf)",
+          "name": {
+            "de": "Erkundung von Lubenice",
+            "hu": "Lubenice felfedezése",
+            "ro": "Explorarea satului Lubenice",
+            "en": "Exploring Lubenice"
+          },
           "coords": [
-            14.364,
-            44.903
+            14.3305,
+            44.8905
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "12:00",
+          "category": "historical",
+          "arrive_at": "10:05",
           "stay_min": 60,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 10.0,
-          "tip_4lang": {
-            "de": "Bekannt für die Tafel von Valun (Glagoliza).",
-            "hu": "A Valuni tábláról (glagolita írás) híres.",
-            "ro": "Cunoscut pentru tabla din Valun (alfabetul glagolitic).",
-            "en": "Famous for the Valun Tablet (Glagolitic script)."
-          },
-          "tip_5lang": {
-            "de": "Im Friedhof von Valun steht die berühmte glagolitische Tafel aus dem 11. Jahrhundert.",
-            "hu": "A valuni temetőben látható a híres 11. századi glagolita kőtábla.",
-            "ro": "În cimitirul din Valun se află celebra placă glagolitică din secolul al XI-lea.",
-            "en": "Valun's cemetery contains the famous eleventh-century Glagolitic stone tablet."
-          }
-        },
-        {
-          "name": "Palast Arsan",
-          "coords": [
-            14.41,
-            44.957
-          ],
-          "category": "museums",
-          "arrive_at": "13:40",
-          "stay_min": 60,
-          "hop_from_prev_min": 40,
-          "hop_from_prev_km": 15.0,
-          "tip_4lang": {
-            "de": "Besuch des Inselmuseums im Stadtzentrum.",
-            "hu": "A szigeti múzeum meglátogatása a városközpontban.",
-            "ro": "Vizita muzeului insulei în centrul orașului.",
-            "en": "Visit the island museum in the town center."
-          },
-          "tip_5lang": {
-            "de": "Der Palast hat keine eigenen Parkplätze, nutzen Sie den Hafenparkplatz.",
-            "hu": "A palotának nincs saját parkolója, használja a kikötői parkolót.",
-            "ro": "Palatul nu are parcare proprie, folosiți parcarea din port.",
-            "en": "The palace has no dedicated parking — use the harbour lot a short walk away."
-          }
-        },
-        {
-          "name": "Loggia und Uhrturm",
-          "coords": [
-            14.408,
-            44.959
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "14:45",
-          "stay_min": 20,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.5,
-          "tip_4lang": {
-            "de": "Abschluss im historischen Herzen der Stadt.",
-            "hu": "Zárás a város történelmi szívében.",
-            "ro": "Final în inima istorică a orașului.",
-            "en": "Wrap up in the historical heart of the town."
-          },
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Zum Hauptplatz fährt kein Auto, der nächste freie Stellplatz ist 5 Minuten entfernt.",
-            "hu": "A főtérre nem lehet autóval behajtani, a legközelebbi parkolóhely 5 perc séta.",
-            "ro": "Nu se poate ajunge cu mașina în piața centrală, cea mai apropiată parcare este la 5 minute.",
-            "en": "No cars reach the main square — the nearest free space is a five-minute walk."
-          }
+            "de": "Ein 4000 Jahre altes Dorf auf einer Klippe. Verlieren Sie sich in den engen Gassen.",
+            "hu": "Egy 4000 éves, sziklára épült falu. Vesszen el a szűk utcácskákban.",
+            "ro": "Un sat vechi de 4000 de ani, cocoțat pe o stâncă. Pierdeți-vă pe străduțele înguste.",
+            "en": "A 4000-year-old village perched on a cliff. Get lost in its narrow alleys."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Aussicht auf den Strand Sveti Ivan",
+            "hu": "Kilátás a Sveti Ivan strandra",
+            "ro": "Vedere spre plaja Sveti Ivan",
+            "en": "View of Sveti Ivan Beach"
+          },
+          "coords": [
+            14.3298,
+            44.889
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einer der schönsten Strände Kroatiens, von oben gesehen.",
+            "hu": "Horvátország egyik legszebb strandja, fentről nézve.",
+            "ro": "Una dintre cele mai frumoase plaje din Croația, văzută de sus.",
+            "en": "One of Croatia's most beautiful beaches, seen from above."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Valun & Mittagessen",
+            "hu": "Utazás Valunba és ebéd",
+            "ro": "Drum spre Valun și prânz",
+            "en": "Drive to Valun & Lunch"
+          },
+          "coords": [
+            14.3795,
+            44.908
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Parken Sie oberhalb des Dorfes. Valun ist autofrei. Genießen Sie frischen Fisch.",
+            "hu": "Parkoljon a falu felett. Valun autómentes. Élvezze a friss halat.",
+            "ro": "Parcați deasupra satului. Valun este o zonă fără mașini. Savurați pește proaspăt.",
+            "en": "Park above the village. Valun is car-free. Enjoy some fresh fish."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch Valun",
+            "hu": "Séta Valunban",
+            "ro": "Plimbare prin Valun",
+            "en": "Walk through Valun"
+          },
+          "coords": [
+            14.3788,
+            44.9075
+          ],
+          "category": "village",
+          "arrive_at": "14:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche, in der die Tafel von Valun gefunden wurde.",
+            "hu": "Látogassa meg a templomot, ahol a valuni táblát találták.",
+            "ro": "Vizitați biserica unde a fost găsită Tăblița din Valun.",
+            "en": "Visit the church where the Valun Tablet was found."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Osor",
+            "hu": "Utazás Osorba",
+            "ro": "Drum spre Osor",
+            "en": "Drive to Osor"
+          },
+          "coords": [
+            14.394,
+            44.693
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Dieses historische Städtchen verbindet die Inseln Cres und Lošinj.",
+            "hu": "Ez a történelmi városka köti össze Cres és Lošinj szigetét.",
+            "ro": "Acest orășel istoric leagă insulele Cres și Lošinj.",
+            "en": "This historic town connects the islands of Cres and Lošinj."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Skulpturengarten von Osor",
+            "hu": "Osori Szoborpark",
+            "ro": "Grădina de sculpturi din Osor",
+            "en": "Osor's Sculpture Garden"
+          },
+          "coords": [
+            14.3935,
+            44.6925
+          ],
+          "category": "art",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein Freilichtmuseum mit Werken kroatischer Bildhauer.",
+            "hu": "Szabadtéri múzeum horvát szobrászok műveivel.",
+            "ro": "Un muzeu în aer liber cu lucrări ale sculptorilor croați.",
+            "en": "An open-air museum with works by Croatian sculptors."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Cres-Stadt & Abendessen",
+            "hu": "Visszaút Cres városába és vacsora",
+            "ro": "Întoarcere în orașul Cres și cină",
+            "en": "Drive back to Cres Town & Dinner"
+          },
+          "coords": [
+            14.4075,
+            44.9568
+          ],
+          "category": "gastro",
+          "arrive_at": "17:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 24.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Abendessen am Hafen von Cres.",
+            "hu": "Zárja a napot egy kellemes vacsorával a cresi kikötőben.",
+            "ro": "Încheiați ziua cu o cină relaxantă în portul din Cres.",
+            "en": "End your day with a relaxing dinner at the Cres harbor."
+          },
+          "hop_mode": "car"
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto entdecken Sie die Highlights rund um Cres. Nach einem kurzen Halt an der Riva fahren Sie ins spektakuläre Lubenice, das hoch über dem Meer thront. Weiter geht es ins idyllische Fischerdorf Valun, bekannt für seine Strände und Geschichte. Zurück in Cres besuchen Sie den Arsan-Palast und lassen den Tag am Uhrturm ausklingen.",
-        "hu": "Autóval felfedezheti a Cres környéki látnivalókat is. A Riván tett rövid megálló után irány a látványos Lubenice, amely magasan a tenger felett trónol. Folytassa az utat az idilli Valun halászfaluba, amely strandjairól és történelméről híres. Visszatérve Cres-be, látogassa meg az Arsan-palotát, a napot pedig az óratoronynál zárja.",
-        "ro": "Cu mașina veți descoperi punctele de atracție din jurul orașului Cres. După o scurtă oprire pe Riva, conduceți spre spectaculosul Lubenice, cocoțat deasupra mării. Continuați spre satul idilic de pescari Valun, cunoscut pentru plajele și istoria sa. Revenind în Cres, vizitați Palatul Arsan și încheiați ziua la Turnul cu Ceas.",
-        "en": "By car, you can discover highlights around Cres. After a brief stop at the Riva, drive to spectacular Lubenice, perched high above the sea. Continue to the idyllic fishing village of Valun, known for its beaches and history. Back in Cres, visit Arsan Palace and end the day at the Clock Tower."
+        "de": "Nutzen Sie das Auto, um die verborgenen Schätze von Cres zu entdecken. Der Tag beginnt mit einer Fahrt zum atemberaubenden Klippendorf Lubenice, wo Sie 4000 Jahre Geschichte und eine unglaubliche Aussicht erwarten. Nach diesem Cluster-Besuch fahren Sie zum malerischen Fischerdorf Valun, wo Sie in einer autofreien Zone zu Mittag essen. Der Nachmittag führt Sie weiter südlich nach Osor, einer historischen Stadt, die zwei Inseln verbindet und mit einem einzigartigen Skulpturengarten überrascht. Die Rückfahrt nach Cres-Stadt rundet den Tag ab, wo Sie das Erlebte bei einem Abendessen am Hafen Revue passieren lassen können.",
+        "hu": "Használja ki az autót, hogy felfedezze Cres rejtett kincseit. A nap egy lélegzetelállító utazással kezdődik Lubenice sziklafalujába, ahol 4000 év történelme és hihetetlen kilátás várja. Ezen klaszter-látogatás után a festői Valun halászfaluba hajt, ahol egy autómentes zónában ebédel. A délután tovább viszi délre Osorba, egy történelmi városba, amely két szigetet köt össze, és egy egyedülálló szoborparkkal lepi meg. A napot a Cres városába való visszautazás zárja, ahol a kikötőben elköltött vacsora mellett idézheti fel az élményeket.",
+        "ro": "Folosiți mașina pentru a descoperi comorile ascunse ale insulei Cres. Ziua începe cu o excursie la uimitorul sat de pe stâncă, Lubenice, unde vă așteaptă 4000 de ani de istorie și priveliști incredibile. După această vizită în cluster, conduceți spre pitorescul sat pescăresc Valun pentru prânz într-o zonă fără mașini. După-amiaza vă duce mai la sud, la Osor, un oraș istoric care leagă două insule și surprinde cu o grădină unică de sculpturi. Călătoria de întoarcere în orașul Cres încheie ziua, unde puteți rememora experiențele la o cină în port.",
+        "en": "Use the car to discover the hidden gems of Cres. The day starts with a drive to the stunning cliff-top village of Lubenice, where 4000 years of history and incredible views await. After this cluster visit, you'll drive to the picturesque fishing village of Valun for lunch in a car-free zone. The afternoon takes you further south to Osor, a historic town that connects two islands and surprises with a unique sculpture garden. The return journey to Cres town rounds off the day, where you can reflect on your experiences over dinner at the harbor."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Lamm unter der Peka",
-            "tip": "In Lubenice ein absolutes Muss."
+            "name": "Hibernicia",
+            "tip": "In Lubenice, probieren Sie einfache, traditionelle Gerichte."
+          },
+          {
+            "name": "Restaurant Na Moru",
+            "tip": "In Valun, bekannt für frischen Fisch und die 'Valun Tablet'-Kopie."
+          },
+          {
+            "name": "Konoba Bonifacic",
+            "tip": "In Osor, eine gemütliche Taverne mit lokaler Küche."
           }
         ],
         "hu": [
           {
-            "name": "Bárány peka alatt",
-            "tip": "Lubenice-ben kötelező megkóstolni."
+            "name": "Hibernicia",
+            "tip": "Lubeniceben, kóstoljon egyszerű, hagyományos ételeket."
+          },
+          {
+            "name": "Restaurant Na Moru",
+            "tip": "Valunban, híres friss halairól és a 'valuni tábla' másolatáról."
+          },
+          {
+            "name": "Konoba Bonifacic",
+            "tip": "Osorban, hangulatos taverna helyi konyhával."
           }
         ],
         "ro": [
           {
-            "name": "Miel sub capac (peka)",
-            "tip": "O necesitate absolută în Lubenice."
+            "name": "Hibernicia",
+            "tip": "În Lubenice, încercați mâncăruri simple, tradiționale."
+          },
+          {
+            "name": "Restaurant Na Moru",
+            "tip": "În Valun, renumit pentru peștele proaspăt și copia Tăbliței din Valun."
+          },
+          {
+            "name": "Konoba Bonifacic",
+            "tip": "În Osor, o tavernă primitoare cu bucătărie locală."
           }
         ],
         "en": [
           {
-            "name": "Lamb under the Peka",
-            "tip": "An absolute must-try in Lubenice."
+            "name": "Hibernicia",
+            "tip": "In Lubenice, try simple, traditional dishes."
+          },
+          {
+            "name": "Restaurant Na Moru",
+            "tip": "In Valun, known for fresh fish and the 'Valun Tablet' copy."
+          },
+          {
+            "name": "Konoba Bonifacic",
+            "tip": "In Osor, a cozy tavern with local cuisine."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Klippen von Lubenice",
-            "tip": "Atemberaubender Sonnenuntergang.",
-            "emoji": "🌅"
+            "name": "Gänsegeier-Schutzzentrum in Beli",
+            "tip": "Eine längere Fahrt, aber eine einzigartige Gelegenheit, diese majestätischen Vögel zu sehen.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Das verlassene Dorf Pernat",
+            "tip": "Erkunden Sie ein Stück unberührte Vergangenheit.",
+            "emoji": "🏚️"
+          },
+          {
+            "name": "Martinšćica",
+            "tip": "Ein ruhiges Fischerdorf an der Westküste, ideal für eine Kaffeepause.",
+            "emoji": "☕"
           }
         ],
         "hu": [
           {
-            "name": "Lubenice sziklái",
-            "tip": "Lélegzetelállító naplemente.",
-            "emoji": "🌄"
+            "name": "Fakókeselyű-védelmi központ Beliben",
+            "tip": "Hosszabb út, de egyedülálló lehetőség e fenséges madarak megtekintésére.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Pernat elhagyatott faluja",
+            "tip": "Fedezze fel az érintetlen múlt egy darabját.",
+            "emoji": "🏚️"
+          },
+          {
+            "name": "Martinšćica",
+            "tip": "Csendes halászfalu a nyugati parton, ideális egy kávészünetre.",
+            "emoji": "☕"
           }
         ],
         "ro": [
           {
-            "name": "Stâncile din Lubenice",
-            "tip": "Apus de soare uluitor.",
-            "emoji": "🌅"
+            "name": "Centrul de protecție a vulturilor grifoni din Beli",
+            "tip": "O călătorie mai lungă, dar o oportunitate unică de a vedea aceste păsări maiestuoase.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Satul abandonat Pernat",
+            "tip": "Explorați o bucată de trecut neatins.",
+            "emoji": "🏚️"
+          },
+          {
+            "name": "Martinšćica",
+            "tip": "Un sat pescăresc liniștit pe coasta de vest, ideal pentru o pauză de cafea.",
+            "emoji": "☕"
           }
         ],
         "en": [
           {
-            "name": "Cliffs of Lubenice",
-            "tip": "Breathtaking sunset spot.",
-            "emoji": "🏞️"
+            "name": "Griffon Vulture Protection Centre in Beli",
+            "tip": "A longer drive, but a unique opportunity to see these majestic birds.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "The abandoned village of Pernat",
+            "tip": "Explore a piece of untouched past.",
+            "emoji": "🏚️"
+          },
+          {
+            "name": "Martinšćica",
+            "tip": "A quiet fishing village on the west coast, ideal for a coffee break.",
+            "emoji": "☕"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Honig vom Salbei",
-            "tip": "Spezialität der Insel Cres."
+            "name": "Schafskäse-Verkauf in Lubenice",
+            "tip": "Kaufen Sie Käse direkt von den Hirten."
+          },
+          {
+            "name": "Galerie in Osor",
+            "tip": "Lokale Kunst und handgefertigte Souvenirs."
+          },
+          {
+            "name": "Honigstände am Straßenrand",
+            "tip": "Halten Sie Ausschau nach hausgemachtem Salbeihonig."
           }
         ],
         "hu": [
           {
-            "name": "Zsályaméz",
-            "tip": "Cres szigetének specialitása."
+            "name": "Juhsajtárusítás Lubenicében",
+            "tip": "Vásároljon sajtot közvetlenül a pásztoroktól."
+          },
+          {
+            "name": "Galéria Osorban",
+            "tip": "Helyi művészet és kézzel készített ajándéktárgyak."
+          },
+          {
+            "name": "Mézárusító standok az út mentén",
+            "tip": "Keresse a házi készítésű zsályamézet."
           }
         ],
         "ro": [
           {
-            "name": "Miere de salvie",
-            "tip": "Specialitatea insulei Cres."
+            "name": "Vânzare de brânză de oaie în Lubenice",
+            "tip": "Cumpărați brânză direct de la ciobani."
+          },
+          {
+            "name": "Galerie în Osor",
+            "tip": "Artă locală și suveniruri artizanale."
+          },
+          {
+            "name": "Standuri cu miere pe marginea drumului",
+            "tip": "Căutați miere de salvie de casă."
           }
         ],
         "en": [
           {
-            "name": "Sage Honey",
-            "tip": "Specialty of the island of Cres."
+            "name": "Sheep cheese for sale in Lubenice",
+            "tip": "Buy cheese directly from the shepherds."
+          },
+          {
+            "name": "Gallery in Osor",
+            "tip": "Local art and handmade souvenirs."
+          },
+          {
+            "name": "Honey stands on the roadside",
+            "tip": "Look for homemade sage honey."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Straße nach Lubenice ist schmal, fahren Sie vorsichtig.",
-          "In Cres Stadt gibt es genügend Parkplätze außerhalb der Mauern."
+          "Die Straßen können eng und kurvenreich sein, fahren Sie vorsichtig.",
+          "Achten Sie auf Schafe auf der Straße, besonders außerhalb der Ortschaften.",
+          "Tanken Sie in Cres-Stadt, da Tankstellen auf der Insel rar sind.",
+          "Einige Dörfer sind autofrei, planen Sie kurze Spaziergänge vom Parkplatz ein."
         ],
         "hu": [
-          "A Lubenice-be vezető út keskeny, vezessen óvatosan.",
-          "Cres városában a falakon kívül elegendő parkolóhely van."
+          "Az utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Vigyázzon a juhokra az úton, különösen a településeken kívül.",
+          "Tankoljon Cres városában, mert a szigeten kevés a benzinkút.",
+          "Néhány falu autómentes, tervezzen rövid sétákat a parkolóból."
         ],
         "ro": [
-          "Drumul spre Lubenice este îngust, conduceți cu atenție.",
-          "În orașul Cres există suficiente locuri de parcare în afara zidurilor."
+          "Drumurile pot fi înguste și șerpuite, conduceți cu prudență.",
+          "Atenție la oi pe drum, mai ales în afara localităților.",
+          "Alimentați în orașul Cres, deoarece benzinăriile sunt rare pe insulă.",
+          "Unele sate sunt fără mașini, planificați plimbări scurte de la parcare."
         ],
         "en": [
-          "The road to Lubenice is narrow, drive carefully.",
-          "In Cres town, there are plenty of parking spaces outside the walls."
+          "The roads can be narrow and winding, drive carefully.",
+          "Watch out for sheep on the road, especially outside the towns.",
+          "Fill up your tank in Cres town as gas stations are scarce on the island.",
+          "Some villages are car-free, so plan for short walks from the parking area."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Mit dem Auto entdecken Sie die Highlights rund um Cres. Nach einem kurzen Halt an der Riva fahren Sie ins spektakuläre Lubenice, das hoch über dem Meer thront. Weiter geht es ins idyllische Fischerdorf Valun, bekannt für seine Strände und Geschichte. Zurück in Cres besuchen Sie den Arsan-Palast und lassen den Tag am Uhrturm ausklingen.",
-            "hu": "Autóval felfedezheti a Cres környéki látnivalókat is. A Riván tett rövid megálló után irány a látványos Lubenice, amely magasan a tenger felett trónol. Folytassa az utat az idilli Valun halászfaluba, amely strandjairól és történelméről híres. Visszatérve Cres-be, látogassa meg az Arsan-palotát, a napot pedig az óratoronynál zárja.",
-            "ro": "Cu mașina veți descoperi punctele de atracție din jurul orașului Cres. După o scurtă oprire pe Riva, conduceți spre spectaculosul Lubenice, cocoțat deasupra mării. Continuați spre satul idilic de pescari Valun, cunoscut pentru plajele și istoria sa. Revenind în Cres, vizitați Palatul Arsan și încheiați ziua la Turnul cu Ceas.",
-            "en": "By car, you can discover highlights around Cres. After a brief stop at the Riva, drive to spectacular Lubenice, perched high above the sea. Continue to the idyllic fishing village of Valun, known for its beaches and history. Back in Cres, visit Arsan Palace and end the day at the Clock Tower."
-          },
-          "stops": [
-            {
-              "name": "Cres Riva",
-              "tip_5lang": null
-            },
-            {
-              "name": "Lubenice (Bergdorf)",
-              "tip_5lang": null
-            },
-            {
-              "name": "Valun (Fischerdorf)",
-              "tip_5lang": null
-            },
-            {
-              "name": "Palast Arsan",
-              "tip_5lang": null
-            },
-            {
-              "name": "Loggia und Uhrturm",
-              "tip_5lang": null
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Lamm unter der Peka",
-                "tip": "In Lubenice ein absolutes Muss."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Bárány peka alatt",
-                "tip": "Lubenice-ben kötelező megkóstolni."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Miel sub capac (peka)",
-                "tip": "O necesitate absolută în Lubenice."
-              }
-            ],
-            "en": [
-              {
-                "name": "Lamb under the Peka",
-                "tip": "An absolute must-try in Lubenice."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Klippen von Lubenice",
-                "tip": "Atemberaubender Sonnenuntergang.",
-                "emoji": "🌅"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Lubenice sziklái",
-                "tip": "Lélegzetelállító naplemente.",
-                "emoji": "🌄"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Stâncile din Lubenice",
-                "tip": "Apus de soare uluitor.",
-                "emoji": "🌅"
-              }
-            ],
-            "en": [
-              {
-                "name": "Cliffs of Lubenice",
-                "tip": "Breathtaking sunset spot.",
-                "emoji": "🏞️"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Honig vom Salbei",
-                "tip": "Spezialität der Insel Cres."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Zsályaméz",
-                "tip": "Cres szigetének specialitása."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Miere de salvie",
-                "tip": "Specialitatea insulei Cres."
-              }
-            ],
-            "en": [
-              {
-                "name": "Sage Honey",
-                "tip": "Specialty of the island of Cres."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Die Straße nach Lubenice ist schmal, fahren Sie vorsichtig.",
-              "In Cres Stadt gibt es genügend Parkplätze außerhalb der Mauern."
-            ],
-            "hu": [
-              "A Lubenice-be vezető út keskeny, vezessen óvatosan.",
-              "Cres városában a falakon kívül elegendő parkolóhely van."
-            ],
-            "ro": [
-              "Drumul spre Lubenice este îngust, conduceți cu atenție.",
-              "În orașul Cres există suficiente locuri de parcare în afara zidurilor."
-            ],
-            "en": [
-              "The road to Lubenice is narrow, drive carefully.",
-              "In Cres town, there are plenty of parking spaces outside the walls."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Wir starten entspannt an der Riva von Cres. Das Auto bietet den perfekten Schutz vor den grauen Wolken über der Insel.  Mittags geht es hoch nach Lubenice. Die Fahrt durch den Nebel und Regen verleiht dem Bergdorf eine fast mystische, verwunschene Aura.  Der Nachmittag in Valun ist ruhig; das Prasseln des Regens auf das Autodach begleitet uns beim Blick auf das Fischerdorf.  Zurück in Cres besuchen wir den Arsan-Palast. Ein idealer Ort, um den Tag im Trockenen mit viel Kultur abzuschließen.",
-            "hu": "Kényelmesen indulunk Cres Rivájától. Az autó tökéletes védelmet nyújt a sziget feletti szürke felhők ellen.  Délben felmegyünk Lubenicébe. Az út a ködön és esőn keresztül szinte misztikus, varázslatos aurát kölcsönöz a hegyi falunak.  A délután Valunban nyugodt; az eső kopogása az autótetőn kísér minket, miközben a halászfalut nézzük.  Visszatérve Cresbe, meglátogatjuk az Arsan-palotát. Ideális hely a nap lezárására, szárazon, sok kultúrával.",
-            "ro": "Pornim relaxați de pe Riva din Cres. Mașina oferă protecția perfectă împotriva norilor gri de deasupra insulei.  La prânz urcăm spre Lubenice. Drumul prin ceață și ploaie conferă satului de munte o aură aproape mistică, fermecată.  După-amiaza în Valun este liniștită; ropotul ploii pe plafonul mașinii ne însoțește în timp ce privim satul pescăresc.  Reveniți în Cres, vizităm Palatul Arsan. Un loc ideal pentru a încheia ziua la adăpost, cu multă cultură.",
-            "en": "We start relaxed at the Riva of Cres. The car offers perfect protection against the gray clouds over the island.  At noon, we drive up to Lubenice. The journey through mist and rain gives the mountain village an almost mystical, enchanted aura.  The afternoon in Valun is quiet; the pitter-patter of rain on the car roof accompanies us as we look at the fishing village.  Back in Cres, we visit the Arsan Palace. An ideal place to end the day dry with plenty of culture."
-          },
-          "stops": [
-            {
-              "name": "Cres Riva",
-              "tip_5lang": {
-                "de": "Parken Sie nah am Zentrum, um die Wege im Regen kurz zu halten.",
-                "hu": "Parkoljon a központhoz közel, hogy az esőben rövid legyen a séta.",
-                "ro": "Parcați aproape de centru pentru a scurta drumul prin ploaie.",
-                "en": "Park close to the center to keep walking distances in the rain short."
-              }
-            },
-            {
-              "name": "Lubenice (Bergdorf)",
-              "tip_5lang": {
-                "de": "Die schmale Straße erfordert bei Nässe und Nebel volle Konzentration.",
-                "hu": "A szűk út nedves időben és ködben teljes koncentrációt igényel.",
-                "ro": "Drumul îngust necesită concentrare maximă pe ploaie și ceață.",
-                "en": "The narrow road requires full concentration in wet and foggy conditions."
-              }
-            },
-            {
-              "name": "Valun (Fischerdorf)",
-              "tip_5lang": {
-                "de": "Parken Sie auf dem oberen Parkplatz; der Abstieg zu Fuß kann rutschig sein.",
-                "hu": "Parkoljon a felső parkolóban; a gyalogos leereszkedés csúszós lehet.",
-                "ro": "Parcați în parcarea de sus; coborârea pe jos poate fi alunecoasă.",
-                "en": "Park in the upper parking lot; the descent on foot can be slippery."
-              }
-            },
-            {
-              "name": "Palast Arsan",
-              "tip_5lang": {
-                "de": "Nutzen Sie den Museumsbesuch als ausgedehnte Regenpause.",
-                "hu": "Használja a múzeumlátogatást hosszabb esőszünetként.",
-                "ro": "Folosiți vizita la muzeu ca o pauză prelungită de ploaie.",
-                "en": "Use the museum visit as an extended rain break."
-              }
-            },
-            {
-              "name": "Loggia und Uhrturm",
-              "tip_5lang": {
-                "de": "Suchen Sie einen trockenen Sitzplatz unter den Arkaden.",
-                "hu": "Keressen egy száraz ülőhelyet az árkádok alatt.",
-                "ro": "Căutați un loc de șezut uscat sub arcade.",
-                "en": "Look for a dry seat under the arcades."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Die Straßen auf Cres können bei Regen durch Olivenöl-Reste schmierig sein.",
-              "Vermeiden Sie bei starkem Nebel die Fahrt nach Lubenice.",
-              "Prüfen Sie die Wischerblätter vor der Tour über die Insel.",
-              "In Lubenice gibt es im Regen kaum Unterstellmöglichkeiten außer im Auto.",
-              "Halten Sie Licht auch tagsüber eingeschaltet."
-            ],
-            "hu": [
-              "Cres útjai esőben az olívaolaj-maradványok miatt csúszósak lehetnek.",
-              "Erős ködben kerülje a Lubenicébe való felhajtást.",
-              "Ellenőrizze az ablaktörlőket a szigeti túra előtt.",
-              "Lubenicében esőben alig van fedett hely az autón kívül.",
-              "Napközben is tartsa bekapcsolva a fényszórókat."
-            ],
-            "ro": [
-              "Drumurile din Cres pot fi alunecoase pe ploaie din cauza resturilor de ulei de măsline.",
-              "Evitați drumul spre Lubenice în caz de ceață densă.",
-              "Verificați lamelele ștergătoarelor înainte de turul pe insulă.",
-              "În Lubenice sunt puține locuri de adăpost pe ploaie în afară de mașină.",
-              "Păstrați luminile aprinse și în timpul zilei."
-            ],
-            "en": [
-              "Roads on Cres can be greasy when it rains due to olive oil residue.",
-              "Avoid driving to Lubenice in heavy fog.",
-              "Check your wiper blades before touring the island.",
-              "In Lubenice, there are few places to take cover in the rain besides the car.",
-              "Keep your lights on even during the day."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein sonniger, aber kalter Morgen an der Riva. Die Heizung im Auto sorgt für Gemütlichkeit auf dem Weg ins Abenteuer.  Mittags stehen wir in Lubenice fast allein über dem Meer. Der Wind pfeift, aber die Aussicht ist im Winter von unvergleichlicher Klarheit.  Nachmittags besuchen wir das stille Valun. Ohne die Touristenmassen wirkt das Dorf wie aus der Zeit gefallen.  Zum Abend kehren wir nach Cres zurück. Das Licht der tiefstehenden Sonne lässt die bunten Fassaden am Hafen in warmen Tönen leuchten.",
-            "hu": "Napsütéses, de hideg reggel a Riván. Az autó fűtése gondoskodik a kényelemről a kaland felé vezető úton.  Délben Lubenicében szinte egyedül állunk a tenger felett. A szél fütyül, de a kilátás télen páratlanul tiszta.  Délután a csendes Valunt látogatjuk meg. A turistatömeg nélkül a falu olyannak tűnik, mintha megállt volna az idő.  Estére visszatérünk Cresbe. Az alacsonyan járó nap fénye meleg tónusokban ragyogtatja fel a kikötő színes homlokzatait.",
-            "ro": "O dimineață însorită, dar rece pe Riva. Căldura din mașină asigură confortul în drumul spre aventură.  La prânz, în Lubenice, suntem aproape singuri deasupra mării. Vântul șuieră, dar vederea este de o claritate incomparabilă iarna.  După-amiaza vizităm Valunul tăcut. Fără masele de turiști, satul pare desprins din alte timpuri.  Seara ne întoarcem în Cres. Lumina soarelui care apune face ca fațadele colorate din port să strălucească în tonuri calde.",
-            "en": "A sunny but cold morning at the Riva. The car's heater ensures comfort on the way to adventure.  At noon in Lubenice, we stand almost alone above the sea. The wind whistles, but the view is of incomparable clarity in winter.  In the afternoon, we visit the quiet Valun. Without the tourist crowds, the village feels frozen in time.  In the evening, we return to Cres. The low sun's light makes the colorful facades at the harbor glow in warm tones."
-          },
-          "stops": [
-            {
-              "name": "Cres Riva",
-              "tip_5lang": {
-                "de": "Vorsicht beim Aussteigen; die Bura kann die Autotür zuschlagen.",
-                "hu": "Vigyázzon a kiszállásnál; a bura bevághatja az autóajtót.",
-                "ro": "Atenție la coborâre; Bura poate trânti portiera mașinii.",
-                "en": "Be careful when getting out; the Bura can slam the car door."
-              }
-            },
-            {
-              "name": "Lubenice (Bergdorf)",
-              "tip_5lang": {
-                "de": "Extrem windig; ziehen Sie sich vor dem Aussteigen komplett warm an.",
-                "hu": "Rendkívül szeles; öltözzön fel teljesen melegen, mielőtt kiszállna.",
-                "ro": "Extrem de vântos; îmbrăcați-vă bine înainte de a coborî din mașină.",
-                "en": "Extremely windy; dress completely warm before getting out of the car."
-              }
-            },
-            {
-              "name": "Valun (Fischerdorf)",
-              "tip_5lang": {
-                "de": "Genießen Sie den Spaziergang in der Ruhe des Winters.",
-                "hu": "Élvezze a sétát a tél nyugalmában.",
-                "ro": "Bucurați-vă de o plimbare în liniștea iernii.",
-                "en": "Enjoy the walk in the tranquility of winter."
-              }
-            },
-            {
-              "name": "Palast Arsan",
-              "tip_5lang": {
-                "de": "Prüfen Sie die Winter-Öffnungszeiten, bevor Sie losfahren.",
-                "hu": "Ellenőrizze a téli nyitvatartást, mielőtt elindulna.",
-                "ro": "Verificați programul de iarnă înainte de a pleca la drum.",
-                "en": "Check the winter opening hours before you head out."
-              }
-            },
-            {
-              "name": "Loggia und Uhrturm",
-              "tip_5lang": {
-                "de": "Das warme Licht am späten Nachmittag ist perfekt für Architekturfotos.",
-                "hu": "A késő délutáni meleg fények tökéletesek az építészeti fotókhoz.",
-                "ro": "Lumina caldă de după-amiază este perfectă pentru fotografii de arhitectură.",
-                "en": "The warm light in the late afternoon is perfect for architectural photos."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Achten Sie auf Straßenglätte in schattigen Waldabschnitten.",
-              "Die Bura kann auf der Bergstraße nach Lubenice sehr heftig sein.",
-              "Tanken Sie rechtzeitig; im Winter sind nicht alle Tankstellen nachts besetzt.",
-              "Führen Sie immer eine Decke für Notfälle im Auto mit.",
-              "Parkplätze sind im Winter im Zentrum von Cres reichlich vorhanden."
-            ],
-            "hu": [
-              "Figyeljen az út jegesedésére az árnyékos erdei szakaszokon.",
-              "A bura nagyon heves lehet a Lubenicébe vezető hegyi úton.",
-              "Tankoljon időben; télen nem minden kút üzemel éjjel.",
-              "Mindig tartson takarót az autóban vészhelyzet esetére.",
-              "Télen bőségesen talál parkolóhelyet Cres központjában."
-            ],
-            "ro": [
-              "Atenție la gheața de pe drum în secțiunile de pădure umbrite.",
-              "Bura poate fi foarte violentă pe drumul montan spre Lubenice.",
-              "Alimentați la timp; iarna nu toate benzinăriile sunt deschise noaptea.",
-              "Țineți întotdeauna o pătură în mașină pentru urgențe.",
-              "Locurile de parcare sunt din abundență în centrul orașului Cres iarna."
-            ],
-            "en": [
-              "Watch out for road icing in shaded forest sections.",
-              "The Bura can be very violent on the mountain road to Lubenice.",
-              "Refuel in time; not all gas stations are manned at night in winter.",
-              "Always carry a blanket in the car for emergencies.",
-              "Parking spaces are plentiful in the center of Cres in winter."
-            ]
-          }
-        }
       }
     },
     "transit": {
       "mode": "transit",
-      "speed_kmh": 18,
+      "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "12:50",
-      "total_km": 2.2,
-      "stop_count": 5,
+      "end_estimate": "17:40",
+      "total_km": 40.5,
+      "stop_count": 6,
       "stops": [
         {
-          "name": "Busstation Cres",
-          "coords": [
-            14.405,
-            44.962
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:00",
-          "stay_min": 10,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_4lang": {
-            "de": "Zentraler Ankunftsort für alle Inselbusse.",
-            "hu": "Központi érkezési pont minden szigeti busz számára.",
-            "ro": "Locul central de sosire pentru toate autobuzele de pe insulă.",
-            "en": "Central arrival point for all island buses."
+          "name": {
+            "de": "Bus von Cres nach Osor",
+            "hu": "Busz Cresből Osorba",
+            "ro": "Autobuz de la Cres la Osor",
+            "en": "Bus from Cres to Osor"
           },
-          "tip_5lang": {
-            "de": "Tickets kauft man vor Ort am Schalter, nicht beim Fahrer.",
-            "hu": "A jegyeket a helyszínen, a pénztárnál vegye, ne a sofőrnél.",
-            "ro": "Biletele se cumpără la casă, nu de la șofer.",
-            "en": "Buy tickets at the station counter beforehand, not from the driver."
-          }
-        },
-        {
-          "name": "Loggia und Uhrturm",
           "coords": [
-            14.408,
-            44.959
+            14.394,
+            44.693
           ],
-          "category": "squares/old-town",
-          "arrive_at": "09:20",
+          "category": "transit-hub",
+          "arrive_at": "09:45",
           "stay_min": 20,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_4lang": {
-            "de": "Nur 5 Minuten Fußweg von der Bushaltestelle.",
-            "hu": "Mindössze 5 perc séta a buszmegállótól.",
-            "ro": "Doar 5 minute de mers pe jos de la stația de autobuz.",
-            "en": "Only a 5-minute walk from the bus stop."
-          },
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 24.0,
           "tip_5lang": {
-            "de": "Vom Bahnhof sind es zur Loggia nur 6 Minuten zu Fuß bergauf.",
-            "hu": "A buszállomástól a Loggia 6 perces enyhe emelkedő séta.",
-            "ro": "De la stație până la Logie sunt doar 6 minute de mers ușor în urcare.",
-            "en": "From the bus stop, the Loggia is just six minutes uphill on foot."
-          }
+            "de": "Überprüfen Sie den Busfahrplan im Voraus, da die Busse nicht oft fahren.",
+            "hu": "Előre ellenőrizze a buszmenetrendet, a járatok ritkán közlekednek.",
+            "ro": "Verificați orarul autobuzelor în avans, deoarece nu circulă frecvent.",
+            "en": "Check the bus schedule in advance as buses are not frequent."
+          },
+          "hop_mode": "transit"
         },
         {
-          "name": "Pfarrkirche St. Isidor",
-          "coords": [
-            14.409,
-            44.958
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:50",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_4lang": {
-            "de": "Im Herzen der Altstadt gelegen.",
-            "hu": "Az óváros szívében található.",
-            "ro": "Situată în inima orașului vechi.",
-            "en": "Located in the heart of the old town."
+          "name": {
+            "de": "Erkundung von Osor",
+            "hu": "Osor felfedezése",
+            "ro": "Explorarea orașului Osor",
+            "en": "Exploring Osor"
           },
+          "coords": [
+            14.3938,
+            44.6941
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Werktags ist die Kirche zwischen 12 und 17 Uhr geschlossen — planen Sie entsprechend.",
-            "hu": "Hétköznap a templom 12 és 17 óra között zárva tart, ehhez igazítsa a látogatást.",
-            "ro": "În zilele lucrătoare biserica este închisă între 12 și 17, planificați-vă în consecință.",
-            "en": "On weekdays the church closes between noon and five — plan your visit accordingly."
-          }
+            "de": "Schlendern Sie durch die historischen Straßen und über die Brücke nach Lošinj.",
+            "hu": "Sétáljon végig a történelmi utcákon és a Lošinjba vezető hídon.",
+            "ro": "Plimbați-vă pe străzile istorice și peste podul spre Lošinj.",
+            "en": "Stroll through the historic streets and across the bridge to Lošinj."
+          },
+          "hop_mode": "walk"
         },
         {
-          "name": "Stadtmauern von Cres",
+          "name": {
+            "de": "Kathedrale von Osor",
+            "hu": "Osori katedrális",
+            "ro": "Catedrala din Osor",
+            "en": "Osor Cathedral"
+          },
           "coords": [
-            14.411,
-            44.96
+            14.3945,
+            44.6935
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "10:35",
+          "category": "religious",
+          "arrive_at": "11:25",
           "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
-          "tip_4lang": {
-            "de": "Gut erreichbar bei einem Rundgang.",
-            "hu": "Könnyen elérhető egy városnéző séta során.",
-            "ro": "Ușor de accesat în timpul unui tur al orașului.",
-            "en": "Easily accessible during a city tour."
-          },
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Der Aufstieg zur Mauer hat einige Stufen, kein Aufzug verfügbar.",
-            "hu": "A falra vezető feljáró több lépcsőfok, nincs lift.",
-            "ro": "Urcușul către ziduri are mai multe trepte, nu există lift.",
-            "en": "The climb to the walls involves several steps; no lift is available here."
-          }
+            "de": "Ein beeindruckendes Beispiel für Renaissance-Architektur.",
+            "hu": "A reneszánsz építészet lenyűgöző példája.",
+            "ro": "Un exemplu impresionant de arhitectură renascentistă.",
+            "en": "An impressive example of Renaissance architecture."
+          },
+          "hop_mode": "walk"
         },
         {
-          "name": "Uferpromenade Riva",
-          "coords": [
-            14.407,
-            44.96
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "11:35",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
-          "tip_4lang": {
-            "de": "Perfekt für ein Mittagessen vor der Abfahrt.",
-            "hu": "Tökéletes hely egy ebédre az indulás előtt.",
-            "ro": "Perfect pentru un prânz înainte de plecare.",
-            "en": "Perfect for lunch before departure."
+          "name": {
+            "de": "Bus von Osor nach Valun",
+            "hu": "Busz Osorból Valunba",
+            "ro": "Autobuz de la Osor la Valun",
+            "en": "Bus from Osor to Valun"
           },
+          "coords": [
+            14.3795,
+            44.908
+          ],
+          "category": "transit-hub",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 16.0,
           "tip_5lang": {
-            "de": "Der letzte Bus stadtauswärts fährt um 19:30 — verpassen Sie ihn nicht.",
-            "hu": "Az utolsó kifelé tartó busz 19:30-kor indul, vigyázzon, hogy ne maradjon le.",
-            "ro": "Ultimul autobuz spre ieșirea din oraș pleacă la 19:30, nu îl pierdeți.",
-            "en": "The last outbound bus leaves around 7:30 PM — don't miss it."
-          }
+            "de": "In Valun haben Sie Zeit für ein Mittagessen und einen Spaziergang zum Strand.",
+            "hu": "Valunban lesz ideje ebédelni és lesétálni a strandra.",
+            "ro": "În Valun, veți avea timp pentru prânz și o plimbare până la plajă.",
+            "en": "In Valun, you'll have time for lunch and a walk to the beach."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Entspannung in Valun",
+            "hu": "Ebéd és pihenés Valunban",
+            "ro": "Prânz și relaxare în Valun",
+            "en": "Lunch and Relaxation in Valun"
+          },
+          "coords": [
+            14.3788,
+            44.9075
+          ],
+          "category": "village",
+          "arrive_at": "13:05",
+          "stay_min": 145,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses charmanten Fischerdorfes.",
+            "hu": "Élvezze ennek a bájos halászfalunak a nyugodt légkörét.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui fermecător sat pescăresc.",
+            "en": "Enjoy the peaceful atmosphere of this charming fishing village."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Rückfahrt mit dem Bus nach Cres-Stadt",
+            "hu": "Vissza busszal Cres városába",
+            "ro": "Întoarcere cu autobuzul în orașul Cres",
+            "en": "Bus ride back to Cres Town"
+          },
+          "coords": [
+            14.4075,
+            44.9568
+          ],
+          "category": "transit-hub",
+          "arrive_at": "16:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Zeit für einen letzten Spaziergang oder Souvenireinkäufe.",
+            "hu": "Használja ki az időt egy utolsó sétára vagy ajándékvásárlásra.",
+            "ro": "Folosiți timpul pentru o ultimă plimbare sau pentru cumpărături de suveniruri.",
+            "en": "Use the time for a final stroll or souvenir shopping."
+          },
+          "hop_mode": "transit"
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie den Nahverkehr, um Cres bequem zu erreichen. Von der Busstation sind es nur wenige Schritte ins historische Zentrum mit Loggia und Uhrturm. Besuchen Sie die Kirche St. Isidor und spazieren Sie entlang der Stadtmauern, bevor Sie an der Riva entspannen und die Atmosphäre der Hafenstadt genießen.",
-        "hu": "Használja a tömegközlekedést Cres kényelmes eléréséhez. A buszmegállótól csak pár lépés a történelmi központ a Loggiával és az óratoronnyal. Látogassa meg a Szent Izidor-templomot és sétáljon a városfalak mentén, mielőtt megpihenne a Riván, élvezve a kikötőváros hangulatát.",
-        "ro": "Utilizați transportul public pentru a ajunge confortabil în Cres. De la stația de autobuz sunt doar câțiva pași până în centrul istoric cu Loggia și Turnul cu Ceas. Vizitați biserica Sf. Isidor și plimbați-vă de-a lungul zidurilor orașului, înainte de a vă relaxa pe Riva și de a vă bucura de atmosfera orașului port.",
-        "en": "Use public transit to reach Cres comfortably. From the bus station, it's just a few steps to the historic center with the Loggia and Clock Tower. Visit St. Isidore's Church and walk along the city walls before relaxing at the Riva and enjoying the atmosphere of the port town."
+        "de": "Erkunden Sie die Insel bequem mit dem Bus. Der Tag beginnt mit einer Fahrt in die historische Stadt Osor, dem südlichen Cluster des Tages, wo Sie die alte Architektur und die Brücke zur Nachbarinsel Lošinj bewundern können. Nach der Erkundung dieses geschichtsträchtigen Ortes bringt Sie der Bus in das malerische Fischerdorf Valun. Hier können Sie in aller Ruhe zu Mittag essen und die autofreie Atmosphäre genießen. Am späten Nachmittag kehren Sie nach Cres-Stadt zurück, wo Sie genügend Zeit für einen abschließenden Spaziergang durch den Hafen haben, bevor der Tag zu Ende geht.",
+        "hu": "Fedezze fel a szigetet kényelmesen, busszal. A nap egy utazással kezdődik a történelmi Osor városába, a nap déli klaszterébe, ahol megcsodálhatja a régi építészetet és a szomszédos Lošinj szigetére vezető hidat. Miután felfedezte ezt a történelmi helyet, a busz a festői Valun halászfaluba viszi. Itt nyugodtan megebédelhet és élvezheti az autómentes hangulatot. Késő délután visszatér Cres városába, ahol elegendő ideje lesz egy utolsó sétára a kikötőben, mielőtt a nap véget ér.",
+        "ro": "Explorați insula confortabil cu autobuzul. Ziua începe cu o călătorie spre orașul istoric Osor, clusterul sudic al zilei, unde puteți admira arhitectura veche și podul către insula vecină Lošinj. După explorarea acestui loc încărcat de istorie, autobuzul vă duce în pitorescul sat pescăresc Valun. Aici puteți lua prânzul în liniște și vă puteți bucura de atmosfera fără mașini. Spre sfârșitul după-amiezii, vă întoarceți în orașul Cres, unde aveți suficient timp pentru o plimbare finală prin port înainte de încheierea zilei.",
+        "en": "Explore the island comfortably by bus. The day starts with a ride to the historic town of Osor, the day's southern cluster, where you can admire the old architecture and the bridge to the neighboring island of Lošinj. After exploring this historic site, the bus takes you to the picturesque fishing village of Valun. Here you can have a leisurely lunch and enjoy the car-free atmosphere. In the late afternoon, you'll return to Cres town, with plenty of time for a final stroll through the harbor before the day ends."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Fischsuppe",
-            "tip": "Leichtes Mittagessen in Hafennähe."
+            "name": "Konoba Mare",
+            "tip": "In Valun, probieren Sie Scampi Buzara."
+          },
+          {
+            "name": "Bistro-Pizzeria 'Adria'",
+            "tip": "In Osor, gut für einen schnellen Imbiss."
+          },
+          {
+            "name": "Buffet 'Lubenice'",
+            "tip": "Wenn Sie es nach Lubenice schaffen, ein einfacher Ort mit toller Aussicht."
           }
         ],
         "hu": [
           {
-            "name": "Halleves",
-            "tip": "Könnyű ebéd a kikötő közelében."
+            "name": "Konoba Mare",
+            "tip": "Valunban, kóstolja meg a scampi buzara-t."
+          },
+          {
+            "name": "Bistro-Pizzeria 'Adria'",
+            "tip": "Osorban, jó egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Buffet 'Lubenice'",
+            "tip": "Ha eljut Lubenicébe, egy egyszerű hely remek kilátással."
           }
         ],
         "ro": [
           {
-            "name": "Supă de pește",
-            "tip": "Prânz ușor în apropierea portului."
+            "name": "Konoba Mare",
+            "tip": "În Valun, încercați scampi buzara."
+          },
+          {
+            "name": "Bistro-Pizzeria 'Adria'",
+            "tip": "În Osor, bun pentru o gustare rapidă."
+          },
+          {
+            "name": "Buffet 'Lubenice'",
+            "tip": "Dacă ajungeți la Lubenice, un loc simplu cu o priveliște superbă."
           }
         ],
         "en": [
           {
-            "name": "Fish Soup",
-            "tip": "Light lunch near the harbor."
+            "name": "Konoba Mare",
+            "tip": "In Valun, try the scampi buzara."
+          },
+          {
+            "name": "Bistro-Pizzeria 'Adria'",
+            "tip": "In Osor, good for a quick bite."
+          },
+          {
+            "name": "Buffet 'Lubenice'",
+            "tip": "If you make it to Lubenice, a simple place with a great view."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Park nahe der Marina",
-            "tip": "Schattige Bänke zum Verweilen.",
-            "emoji": "🧘"
+            "name": "Friedhof von Osor",
+            "tip": "Ein überraschend friedlicher Ort mit alten Grabsteinen.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "Die kleineren Strände von Valun",
+            "tip": "Gehen Sie ein Stück weiter vom Hauptstrand weg.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Kirche St. Georg in Cres",
+            "tip": "Eine ruhige Kirche abseits der Hauptwege.",
+            "emoji": "⛪"
           }
         ],
         "hu": [
           {
-            "name": "Park a marina közelében",
-            "tip": "Árnyékos padok a pihenéshez.",
-            "emoji": "🍃"
+            "name": "Osori temető",
+            "tip": "Meglepően békés hely régi sírkövekkel.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "Valun kisebb strandjai",
+            "tip": "Menjen kicsit távolabb a fő strandtól.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Szent György-templom Cresben",
+            "tip": "Csendes templom a fő utaktól távolabb.",
+            "emoji": "⛪"
           }
         ],
         "ro": [
           {
-            "name": "Parcul de lângă marină",
-            "tip": "Bănci umbrite pentru relaxare.",
-            "emoji": "🧘"
+            "name": "Cimitirul din Osor",
+            "tip": "Un loc surprinzător de pașnic, cu pietre funerare vechi.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "Plajele mai mici din Valun",
+            "tip": "Mergeți puțin mai departe de plaja principală.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Biserica Sf. Gheorghe din Cres",
+            "tip": "O biserică liniștită, departe de cărările bătătorite.",
+            "emoji": "⛪"
           }
         ],
         "en": [
           {
-            "name": "Park near the Marina",
-            "tip": "Shady benches for lingering.",
-            "emoji": "🍃"
+            "name": "Osor Cemetery",
+            "tip": "A surprisingly peaceful place with old tombstones.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "The smaller beaches of Valun",
+            "tip": "Walk a little further from the main beach.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "St. George's Church in Cres",
+            "tip": "A quiet church off the main paths.",
+            "emoji": "⛪"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Postkarten",
-            "tip": "Klassische Souvenirs im Kiosk am Platz."
+            "name": "Souvenirladen in Osor",
+            "tip": "Andenken an die römische Vergangenheit der Stadt."
+          },
+          {
+            "name": "Atelier in Valun",
+            "tip": "Kleine Galerie mit lokalen Kunstwerken."
+          },
+          {
+            "name": "Produkte aus dem Kloster in Cres",
+            "tip": "Einige Klöster verkaufen hausgemachte Liköre und Öle."
           }
         ],
         "hu": [
           {
-            "name": "Képeslapok",
-            "tip": "Klasszikus szuvenírek a téri újságosnál."
+            "name": "Ajándékbolt Osorban",
+            "tip": "A város római múltjára emlékeztető szuvenírek."
+          },
+          {
+            "name": "Műterem Valunban",
+            "tip": "Kis galéria helyi műalkotásokkal."
+          },
+          {
+            "name": "Kolostori termékek Cresben",
+            "tip": "Néhány kolostor házi likőröket és olajokat árul."
           }
         ],
         "ro": [
           {
-            "name": "Vederi",
-            "tip": "Suveniruri clasice la chioșcul din piață."
+            "name": "Magazin de suveniruri în Osor",
+            "tip": "Amintiri ale trecutului roman al orașului."
+          },
+          {
+            "name": "Atelier în Valun",
+            "tip": "O mică galerie cu opere de artă locale."
+          },
+          {
+            "name": "Produse de la mănăstire în Cres",
+            "tip": "Unele mănăstiri vând lichioruri și uleiuri de casă."
           }
         ],
         "en": [
           {
-            "name": "Postcards",
-            "tip": "Classic souvenirs at the square kiosk."
+            "name": "Souvenir shop in Osor",
+            "tip": "Mementos of the town's Roman past."
+          },
+          {
+            "name": "Atelier in Valun",
+            "tip": "Small gallery with local artwork."
+          },
+          {
+            "name": "Monastery products in Cres",
+            "tip": "Some monasteries sell homemade liqueurs and oils."
           }
         ]
       },
       "tips": {
         "de": [
-          "Prüfen Sie die Fahrpläne der Busgesellschaft Arriva.",
-          "Fahrkarten können direkt beim Fahrer gekauft werden."
+          "Kaufen Sie Ihr Busticket im Voraus, besonders in der Hochsaison.",
+          "Haben Sie Kleingeld für das Ticket bereit.",
+          "Die Busse halten möglicherweise nicht an allen Haltestellen, wenn niemand wartet. Machen Sie sich bemerkbar.",
+          "Planen Sie Pufferzeiten ein, da Busse Verspätung haben können."
         ],
         "hu": [
-          "Ellenőrizze az Arriva busztársaság menetrendjét.",
-          "Jegyeket közvetlenül a sofőrnél lehet vásárolni."
+          "Vásárolja meg a buszjegyet előre, különösen a főszezonban.",
+          "Készítsen elő aprópénzt a jegyhez.",
+          "A buszok nem mindig állnak meg minden megállóban, ha senki sem vár. Jelezzen a sofőrnek.",
+          "Tervezzen pufferidőt, a buszok késhetnek."
         ],
         "ro": [
-          "Verificați orarele companiei de autobuze Arriva.",
-          "Biletele pot fi cumpărate direct de la șofer."
+          "Cumpărați biletul de autobuz în avans, mai ales în sezonul de vârf.",
+          "Pregătiți mărunțiș pentru bilet.",
+          "Autobuzele s-ar putea să nu oprească în toate stațiile dacă nu așteaptă nimeni; faceți-vă vizibil.",
+          "Lăsați timp suplimentar, deoarece autobuzele pot avea întârzieri."
         ],
         "en": [
-          "Check the bus schedules of the Arriva company.",
-          "Tickets can be bought directly from the driver."
+          "Buy your bus ticket in advance, especially during high season.",
+          "Have small change ready for the ticket.",
+          "Buses might not stop at all stops if no one is waiting; make yourself visible.",
+          "Plan for buffer time as buses can be delayed."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Nutzen Sie den Nahverkehr, um Cres bequem zu erreichen. Von der Busstation sind es nur wenige Schritte ins historische Zentrum mit Loggia und Uhrturm. Besuchen Sie die Kirche St. Isidor und spazieren Sie entlang der Stadtmauern, bevor Sie an der Riva entspannen und die Atmosphäre der Hafenstadt genießen.",
-            "hu": "Használja a tömegközlekedést Cres kényelmes eléréséhez. A buszmegállótól csak pár lépés a történelmi központ a Loggiával és az óratoronnyal. Látogassa meg a Szent Izidor-templomot és sétáljon a városfalak mentén, mielőtt megpihenne a Riván, élvezve a kikötőváros hangulatát.",
-            "ro": "Utilizați transportul public pentru a ajunge confortabil în Cres. De la stația de autobuz sunt doar câțiva pași până în centrul istoric cu Loggia și Turnul cu Ceas. Vizitați biserica Sf. Isidor și plimbați-vă de-a lungul zidurilor orașului, înainte de a vă relaxa pe Riva și de a vă bucura de atmosfera orașului port.",
-            "en": "Use public transit to reach Cres comfortably. From the bus station, it's just a few steps to the historic center with the Loggia and Clock Tower. Visit St. Isidore's Church and walk along the city walls before relaxing at the Riva and enjoying the atmosphere of the port town."
-          },
-          "stops": [
-            {
-              "name": "Busstation Cres",
-              "tip_5lang": null
-            },
-            {
-              "name": "Loggia und Uhrturm",
-              "tip_5lang": null
-            },
-            {
-              "name": "Pfarrkirche St. Isidor",
-              "tip_5lang": null
-            },
-            {
-              "name": "Stadtmauern von Cres",
-              "tip_5lang": null
-            },
-            {
-              "name": "Uferpromenade Riva",
-              "tip_5lang": null
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Fischsuppe",
-                "tip": "Leichtes Mittagessen in Hafennähe."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Halleves",
-                "tip": "Könnyű ebéd a kikötő közelében."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Supă de pește",
-                "tip": "Prânz ușor în apropierea portului."
-              }
-            ],
-            "en": [
-              {
-                "name": "Fish Soup",
-                "tip": "Light lunch near the harbor."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Park nahe der Marina",
-                "tip": "Schattige Bänke zum Verweilen.",
-                "emoji": "🧘"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Park a marina közelében",
-                "tip": "Árnyékos padok a pihenéshez.",
-                "emoji": "🍃"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Parcul de lângă marină",
-                "tip": "Bănci umbrite pentru relaxare.",
-                "emoji": "🧘"
-              }
-            ],
-            "en": [
-              {
-                "name": "Park near the Marina",
-                "tip": "Shady benches for lingering.",
-                "emoji": "🍃"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Postkarten",
-                "tip": "Klassische Souvenirs im Kiosk am Platz."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Képeslapok",
-                "tip": "Klasszikus szuvenírek a téri újságosnál."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Vederi",
-                "tip": "Suveniruri clasice la chioșcul din piață."
-              }
-            ],
-            "en": [
-              {
-                "name": "Postcards",
-                "tip": "Classic souvenirs at the square kiosk."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Prüfen Sie die Fahrpläne der Busgesellschaft Arriva.",
-              "Fahrkarten können direkt beim Fahrer gekauft werden."
-            ],
-            "hu": [
-              "Ellenőrizze az Arriva busztársaság menetrendjét.",
-              "Jegyeket közvetlenül a sofőrnél lehet vásárolni."
-            ],
-            "ro": [
-              "Verificați orarele companiei de autobuze Arriva.",
-              "Biletele pot fi cumpărate direct de la șofer."
-            ],
-            "en": [
-              "Check the bus schedules of the Arriva company.",
-              "Tickets can be bought directly from the driver."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Ankunft an der Busstation im Regen. Der kurze Weg ins Zentrum ist mit Schirm gut machbar.  Mittags bietet die Loggia einen trockenen Treffpunkt, um den Busplan zu studieren und den Regen abzuwarten.  Nachmittags besuchen wir die Pfarrkirche St. Isidor. Der Innenraum ist ein Ort der Stille und Trockenheit inmitten der Schauer.  Ein Spaziergang entlang der Stadtmauern im Regen zeigt die wehrhafte Seite von Cres. Danach geht es zurück zur Riva.",
-            "hu": "Érkezés a buszpályaudvarra esőben. A rövid út a központba esernyővel könnyen teljesíthető.  Délben a Loggia száraz találkozóhelyet kínál a buszmenetrend tanulmányozásához és az eső megvárásához.  Délután meglátogatjuk a Szent Izidor plébániatemplomot. A belső tér a csend és a szárazság helyszíne a záporok közepette.  A városfalak menti séta az esőben megmutatja Cres erődített oldalát. Ezután visszatérünk a Rivára.",
-            "ro": "Sosire la autogară pe ploaie. Drumul scurt spre centru este ușor de parcurs cu o umbrelă.  La prânz, Loggia oferă un punct de întâlnire uscat pentru a studia orarul autobuzelor și pentru a aștepta oprirea ploii.  După-amiaza vizităm biserica parohială Sfântul Isidor. Interiorul este un loc de liniște și adăpost în mijlocul averselor.  O plimbare de-a lungul zidurilor orașului pe ploaie arată latura fortificată a orașului Cres. Apoi ne întoarcem spre Riva.",
-            "en": "Arrival at the bus station in the rain. The short walk to the center is manageable with an umbrella.  At noon, the Loggia offers a dry meeting point to study the bus schedule and wait out the rain.  In the afternoon, we visit the Parish Church of St. Isidor. The interior is a place of silence and dryness amidst the showers.  A walk along the city walls in the rain shows the fortified side of Cres. Afterwards, we return to the Riva."
-          },
-          "stops": [
-            {
-              "name": "Busstation Cres",
-              "tip_5lang": {
-                "de": "Nutzen Sie den Wartebereich als ersten trockenen Anlaufpunkt.",
-                "hu": "Használja a várótermet első száraz érkezési pontként.",
-                "ro": "Folosiți sala de așteptare ca prim punct de adăpost la sosire.",
-                "en": "Use the waiting area as your first dry point of arrival."
-              }
-            },
-            {
-              "name": "Loggia und Uhrturm",
-              "tip_5lang": {
-                "de": "Ein zentraler Ort, um trocken auf den nächsten Bus zu warten.",
-                "hu": "Központi hely, ahol szárazon várhat a következő buszra.",
-                "ro": "Un loc central pentru a aștepta următorul autobuz la adăpost.",
-                "en": "A central spot to wait for the next bus while staying dry."
-              }
-            },
-            {
-              "name": "Pfarrkirche St. Isidor",
-              "tip_5lang": {
-                "de": "Achten Sie darauf, beim Eintreten den Schirm gut auszuschütteln.",
-                "hu": "Ügyeljen rá, hogy belépéskor alaposan rázza le az esernyőt.",
-                "ro": "Aveți grijă să scuturați bine umbrela la intrare.",
-                "en": "Be sure to shake out your umbrella thoroughly before entering."
-              }
-            },
-            {
-              "name": "Stadtmauern von Cres",
-              "tip_5lang": {
-                "de": "Vermeiden Sie das Erklimmen der Mauern bei starkem Regen.",
-                "hu": "Erős esőben kerülje a falakra való felmászást.",
-                "ro": "Evitați urcarea pe ziduri în timpul ploii torențiale.",
-                "en": "Avoid climbing the walls during heavy rain."
-              }
-            },
-            {
-              "name": "Uferpromenade Riva",
-              "tip_5lang": {
-                "de": "Die Cafés hier sind perfekt, um die Zeit bis zur Abfahrt im Trockenen zu verbringen.",
-                "hu": "Az itteni kávézók tökéletesek az indulásig tartó idő száraz eltöltésére.",
-                "ro": "Cafenelele de aici sunt perfecte pentru a aștepta plecarea la adăpost.",
-                "en": "The cafes here are perfect for spending time until departure while staying dry."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Prüfen Sie den Busfahrplan online, da Aushänge nass werden können.",
-              "Die Busstation hat einen kleinen überdachten Bereich.",
-              "Halten Sie Kleingeld für den Bus bereit, um Zeit im Regen zu sparen.",
-              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen.",
-              "Die Busse können bei starkem Regen leichte Verspätungen haben."
-            ],
-            "hu": [
-              "Ellenőrizze online a menetrendet, mert a kifüggesztett táblák megázhatnak.",
-              "A buszmegálló rendelkezik egy kis fedett résszel.",
-              "Készítsen ki aprópénzt a buszra, hogy ne az esőben kelljen keresgélni.",
-              "Viseljen vízálló ruházatot a megállók közötti gyalogláshoz.",
-              "A buszok erős esőben kisebb késéssel közlekedhetnek."
-            ],
-            "ro": [
-              "Verificați orarul online, deoarece afișele pot deveni ilizibile din cauza ploii.",
-              "Autogara are o mică zonă acoperită.",
-              "Pregătiți mărunțișul pentru bilet, pentru a nu căuta prin buzunare în ploaie.",
-              "Purtați haine impermeabile pentru drumurile dintre stații.",
-              "Autobuzele pot avea mici întârzieri în caz de ploaie torențială."
-            ],
-            "en": [
-              "Check the bus schedule online, as paper posters might get wet.",
-              "The bus station has a small covered area.",
-              "Have change ready for the bus to save time in the rain.",
-              "Wear waterproof clothing for the walks between stops.",
-              "Buses may have slight delays during heavy rain."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Morgendliche Ankunft an der ruhigen Busstation. Die Winterluft ist klar und die Stadt wirkt noch verschlafen.  Mittags nutzen wir die Loggia als windgeschützten Ort, um die Wintersonne zu genießen, während wir auf den Anschluss warten.  Der Nachmittag führt uns zur Pfarrkirche St. Isidor. Die winterliche Stille im Inneren lädt zur Kontemplation ein.  Ein Spaziergang an den Stadtmauern bietet im klaren Winterlicht fantastische Ausblicke, bevor wir den Bus zurück nehmen.",
-            "hu": "Reggeli érkezés a csendes buszpályaudvarra. A téli levegő tiszta, és a város még álmosnak tűnik.  Délben a Loggiát szélvédett helyként használjuk, hogy élvezzük a téli napsütést, miközben a csatlakozásra várunk.  A délután a Szent Izidor plébániatemplomhoz vezet minket. A belső tér téli csendje elmélyülésre hív.  A városfalak menti séta a tiszta téli fényben fantasztikus kilátást nyújt, mielőtt visszaszállnánk a buszra.",
-            "ro": "Sosire dimineața la autogara liniștită. Aerul de iarnă este curat, iar orașul pare încă adormit.  La prânz, folosim Loggia ca loc ferit de vânt pentru a ne bucura de soarele iernii în timp ce așteptăm legătura.  După-amiaza ne conduce spre biserica parohială Sfântul Isidor. Liniștea iernatică din interior invită la contemplație.  O plimbare pe lângă zidurile orașului oferă vederi fantastice în lumina clară a iernii, înainte de a lua autobuzul înapoi.",
-            "en": "Morning arrival at the quiet bus station. The winter air is clear and the town still seems sleepy.  At noon, we use the Loggia as a wind-sheltered spot to enjoy the winter sun while waiting for our connection.  The afternoon leads us to the Parish Church of St. Isidor. The winter silence inside invites contemplation.  A walk by the city walls offers fantastic views in the clear winter light before we take the bus back."
-          },
-          "stops": [
-            {
-              "name": "Busstation Cres",
-              "tip_5lang": {
-                "de": "Warten Sie im Gebäude, um sich vor der kalten Bura zu schützen.",
-                "hu": "Várjon az épületben, hogy megvédje magát a hideg burától.",
-                "ro": "Așteptați în interiorul clădirii pentru a vă proteja de Bura rece.",
-                "en": "Wait inside the building to protect yourself from the cold Bura."
-              }
-            },
-            {
-              "name": "Loggia und Uhrturm",
-              "tip_5lang": {
-                "de": "Ein sonniger Platz hier hilft, die Kälte des Winters zu vergessen.",
-                "hu": "Egy itteni napsütötte hely segít elfelejteni a tél hidegét.",
-                "ro": "Un loc însorit aici vă ajută să uitați de frigul iernii.",
-                "en": "A sunny spot here helps you forget the winter cold."
-              }
-            },
-            {
-              "name": "Pfarrkirche St. Isidor",
-              "tip_5lang": {
-                "de": "Behalten Sie Ihre warme Jacke im kühlen Kirchenschiff an.",
-                "hu": "Hagyja magán a meleg kabátot a hűvös templomhajóban.",
-                "ro": "Păstrați jacheta groasă pe dvs. în naosul răcoros.",
-                "en": "Keep your warm jacket on in the cool nave."
-              }
-            },
-            {
-              "name": "Stadtmauern von Cres",
-              "tip_5lang": {
-                "de": "Genießen Sie die weite Sicht, die nur der Winter bietet.",
-                "hu": "Élvezze a messzi kilátást, amit csak a tél kínálhat.",
-                "ro": "Bucurați-vă de vizibilitatea mare pe care o oferă doar iarna.",
-                "en": "Enjoy the far-reaching views that only winter can offer."
-              }
-            },
-            {
-              "name": "Uferpromenade Riva",
-              "tip_5lang": {
-                "de": "Beobachten Sie das Meer, aber achten Sie auf den eisigen Wind.",
-                "hu": "Figyelje a tengert, de ügyeljen a jeges szélre.",
-                "ro": "Observați marea, dar aveți grijă la vântul înghețat.",
-                "en": "Watch the sea, but beware of the icy wind."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Beachten Sie den ausgedünnten Winterfahrplan der Busse.",
-              "Die Wartezeiten im Freien sollten minimiert werden.",
-              "Warme Getränke in Thermosflaschen sind ideal für die Fahrt.",
-              "Tragen Sie winddichte Kleidung, wenn Sie an der Station warten.",
-              "Nutzen Sie Apps für Echtzeit-Informationen zu den Busverbindungen."
-            ],
-            "hu": [
-              "Vegye figyelembe a buszok ritkított téli menetrendjét.",
-              "Minimalizálja a szabadban való várakozási időt.",
-              "A termoszban lévő meleg italok ideálisak az útra.",
-              "Viseljen szélálló ruházatot, amikor a megállóban várakozik.",
-              "Használjon applikációkat a buszjáratok valós idejű információihoz."
-            ],
-            "ro": [
-              "Țineți cont de orarul de iarnă redus al autobuzelor.",
-              "Timpii de așteptare în aer liber ar trebui minimizați.",
-              "Băuturile calde în termos sunt ideale pentru călătorie.",
-              "Purtați haine rezistente la vânt când așteptați în stație.",
-              "Folosiți aplicații pentru informații în timp real despre conexiunile de autobuz."
-            ],
-            "en": [
-              "Note the reduced winter bus schedule.",
-              "Outdoor waiting times should be minimized.",
-              "Warm drinks in thermos flasks are ideal for the trip.",
-              "Wear windproof clothing while waiting at the station.",
-              "Use apps for real-time information on bus connections."
-            ]
-          }
-        }
       }
-    }
-  },
-  "external_resources": {
-    "name": "Cres",
-    "region": "HR-08",
-    "coords": [
-      14.4083,
-      44.9583
-    ],
-    "transit_official": "https://www.jadrolinija.hr/en/",
-    "transit_app": "https://autotrans.hr/",
-    "bike_share": null,
-    "city_card": null,
-    "events": "https://visitcres.hr/",
-    "tourism_office": "https://visitcres.hr/",
-    "webcam": null,
-    "restaurants_booking": null,
-    "museum_tickets": null,
-    "parking_real_time": null,
-    "language_tips": {
-      "de": "Amtssprache ist Kroatisch; Italienisch ist im Kvarner traditionell verbreitet, Deutsch und Englisch im Tourismus üblich.",
-      "hu": "Hivatalos nyelv a horvát; a Kvarner-öbölben az olasz hagyományosan elterjedt, a turizmusban a német és angol szokványos.",
-      "ro": "Limba oficială este croata; italiana este tradițional răspândită în Kvarner, germana și engleza obișnuite în turism.",
-      "en": "Croatian is official; Italian is traditionally widespread in Kvarner, German and English common in tourism."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis Oktober angenehm; Hochsaison Juli und August, ideal für Wandern und Griffon-Geier-Beobachtung im Frühling und Herbst.",
-      "hu": "Május és október között kellemes; főszezon július, augusztus, túrázáshoz és keselyű-megfigyeléshez tavasz és ősz ideális.",
-      "ro": "Plăcut din mai până în octombrie; vârful sezonului iulie, august, primăvara și toamna ideale pentru drumeții și observarea vulturilor.",
-      "en": "Pleasant May to October; July and August are peak, spring and autumn ideal for hiking and griffon vulture watching."
-    },
-    "neighborhood_warnings": {
-      "de": "Insgesamt sehr sicher; schmale, kurvige Inselstraßen erfordern vorsichtiges Fahren, vor allem nachts und bei Wildwechsel.",
-      "hu": "Általában nagyon biztonságos; a keskeny, kanyargós szigeti utakon óvatosan vezessünk, főleg éjszaka és vadveszély miatt.",
-      "ro": "În general foarte sigură; drumurile înguste și sinuoase de pe insulă cer condus prudent, mai ales noaptea.",
-      "en": "Overall very safe; narrow winding island roads require careful driving, especially at night and with wildlife crossing."
     }
   }
 }

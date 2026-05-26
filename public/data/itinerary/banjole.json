@@ -33,10 +33,10 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Beobachten Sie die Fischer beim Einholen der Netze.",
-            "hu": "Nézze meg a halászokat hálójavítás közben.",
-            "ro": "Urmăriți pescarii care își repară plasele.",
-            "en": "Watch the fishermen repairing their nets."
+            "de": "Fischerboote legen meist zwischen 6 und 8 Uhr an – früh kommen für den frischen Fang am Kai.",
+            "hu": "A halászbárkák általában 6–8 óra közt kötnek ki – érkezzen korán a friss fogáshoz a rakparton.",
+            "ro": "Bărcile de pescuit vin la mal între 6 și 8 dimineața – veniți devreme pentru captura proaspătă.",
+            "en": "Fishing boats dock between 6 and 8 AM – arrive early to see the catch unloaded on the quay."
           }
         },
         {
@@ -56,10 +56,10 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Ein Ort der Ruhe direkt über der Küste.",
-            "hu": "A nyugalom szigete közvetlenül a part felett.",
-            "ro": "Un loc de liniște chiar deasupra coastei.",
-            "en": "A place of peace right above the coast."
+            "de": "Romanische Kirche aus dem 15. Jh.; das Seitenportal zeigt venezianische Steinmetzarbeit.",
+            "hu": "Román stílusú, 15. századi templom; az oldalbejárat velencei kőfaragványokat mutat.",
+            "ro": "Biserică romanică din sec. XV; portalul lateral prezintă sculptură în piatră venețiană.",
+            "en": "Romanesque church from the 15th century; the side portal features Venetian stone carving."
           }
         },
         {
@@ -79,10 +79,10 @@
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Perfekt für ein spätes Frühstück am Wasser.",
-            "hu": "Tökéletes hely egy kései reggelihez a víznél.",
-            "ro": "Perfect pentru un mic dejun târziu lângă apă.",
-            "en": "Perfect for a late breakfast by the water."
+            "de": "Flaches, ruhiges Wasser – ideal zum Schnorcheln zwischen den Felsen, keine Eintrittsgebühr.",
+            "hu": "Sekély, csendes víz – tökéletes sziklaközti snorkelezésre, belépőjegy nélkül.",
+            "ro": "Apă puțin adâncă și liniștită – ideală pentru snorkeling printre stânci, fără taxă.",
+            "en": "Shallow, calm water – ideal for snorkelling among the rocks, no entry fee."
           }
         },
         {
@@ -102,10 +102,10 @@
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Schatten spendende Pinien säumen den Kiesstrand.",
-            "hu": "Árnyas fenyők szegélyezik a kavicsos partot.",
-            "ro": "Pinii umbroși mărginesc plaja cu pietriș.",
-            "en": "Shady pines line the pebble beach."
+            "de": "Kein Lieger-Service, kein Eintritt – Handtuch und Snacks selbst mitbringen; Kiosk nur im Sommer.",
+            "hu": "Nincs liegestuhl-szolgáltatás, nincs belépő – hozzon törölközőt; a büfé csak nyáron üzemel.",
+            "ro": "Fără șezlonguri, fără taxă – aduceți prosop propriu; chioșcul funcționează doar vara.",
+            "en": "No lounger service, no entry fee – bring your own towel; the kiosk is only open in summer."
           }
         },
         {
@@ -125,10 +125,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Genießen Sie den weiten Blick auf das offene Meer.",
-            "hu": "Élvezze a tágas kilátást a nyílt tengerre.",
-            "ro": "Bucurați-vă de priveliștea largă spre largul mării.",
-            "en": "Enjoy the wide view of the open sea."
+            "de": "Bei klarem Wetter sieht man von hier die Insel Cres – bestes Licht zum Sonnenuntergang gegen 19 Uhr.",
+            "hu": "Derült időben innen látható Cres szigete – legjobb fény naplementekor, kb. 19 órakor.",
+            "ro": "Pe vreme senină se vede insula Cres – cea mai bună lumină la apus, în jurul orei 19.",
+            "en": "On clear days you can see Cres island from here – best light at sunset around 7 PM."
           }
         }
       ],
@@ -141,26 +141,58 @@
       "gastro_picks": {
         "de": [
           {
-            "name": "Banjole Fisch",
-            "tip": "Probieren Sie fangfrische Dorade bei Batelina."
+            "name": "Konoba Batelina",
+            "tip": "Kein Schild am Eingang – das schmale Tor in der Dorfmitte suchen; Tagesmenü ab 12 €, Reservierung nötig."
+          },
+          {
+            "name": "Gegrillte Dorade",
+            "tip": "Im ganzen Ort erhältlich; nach der Tagesfangsorte fragen – meist Goldbrasse oder Wolfsbarsch."
+          },
+          {
+            "name": "Prstaci-Muscheln",
+            "tip": "Lokale Steinmuscheln in Knoblauch-Weißwein – Spezialität der Halbinsel, nur in kleinen Konoben."
           }
         ],
         "hu": [
           {
-            "name": "Banjolei halak",
-            "tip": "Kóstolja meg a frissen fogott tengeri süllőt a Batelinában."
+            "name": "Konoba Batelina",
+            "tip": "Nincs felirat a bejáraton – keresse a szűk kaput a faluközpontban; napi menü 12 €-tól, foglalás szükséges."
+          },
+          {
+            "name": "Grillezett aranyhal",
+            "tip": "Az egész faluban kapható; kérdezzen rá a napi fogásra – általában dorada vagy sügér."
+          },
+          {
+            "name": "Prstaci kagyló",
+            "tip": "Helyi kőkagyló fokhagymás fehérborban – a félsziget különlegessége, csak kis konobekban kapható."
           }
         ],
         "ro": [
           {
-            "name": "Pește de Banjole",
-            "tip": "Încercați dorada proaspăt prinsă la Batelina."
+            "name": "Konoba Batelina",
+            "tip": "Fără firmă la intrare – căutați poarta îngustă din centrul satului; meniu zilnic de la 12 €, rezervare necesară."
+          },
+          {
+            "name": "Doradă la grătar",
+            "tip": "Disponibilă peste tot în sat; întrebați de captura zilei – de obicei doradă sau biban de mare."
+          },
+          {
+            "name": "Scoici Prstaci",
+            "tip": "Scoici locale în usturoi și vin alb – specialitate a peninsulei, doar în konobe mici."
           }
         ],
         "en": [
           {
-            "name": "Banjole Fish",
-            "tip": "Try freshly caught sea bream at Batelina restaurant."
+            "name": "Konoba Batelina",
+            "tip": "No sign at the entrance – look for the narrow gate in the village center; daily menu from €12, reservation needed."
+          },
+          {
+            "name": "Grilled sea bream",
+            "tip": "Available throughout the village; ask for the catch of the day – usually dorada or sea bass."
+          },
+          {
+            "name": "Prstaci mussels",
+            "tip": "Local stone mussels in garlic and white wine – a peninsula specialty, only in small konobes."
           }
         ]
       },
@@ -168,29 +200,49 @@
         "de": [
           {
             "name": "Kap Bumbište",
-            "tip": "Felsige Küste mit herrlichem Sonnenuntergang.",
+            "tip": "Nur zu Fuß erreichbar, kein Parkplatz – nach 17 Uhr kaum Besucher, Blick auf Cres.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Soline-Küstenstreifen",
+            "tip": "Salzmarschgebiet hinter dem Strand, im Frühjahr Reiher und Limosen beobachtbar.",
+            "emoji": "🦆"
           }
         ],
         "hu": [
           {
             "name": "Bumbište-fok",
-            "tip": "Sziklás partvidék csodálatos naplementével.",
+            "tip": "Csak gyalog érhető el, nincs parkoló – 17 óra után szinte senki, kilátás Cresre.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Soline-partszakasz",
+            "tip": "Sós mocsár a strand mögött, tavasszal gémek és parti madarak figyelhetők meg.",
+            "emoji": "🦆"
           }
         ],
         "ro": [
           {
             "name": "Capul Bumbište",
-            "tip": "Coastă stâncoasă cu un apus de soare superb.",
+            "tip": "Accesibil doar pe jos, fără parcare – aproape pustiu după ora 17, vedere spre Cres.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Fâșia de coastă Soline",
+            "tip": "Zonă sărată mlaștinos în spatele plajei, primăvara se pot observa stârci și limicole.",
+            "emoji": "🦆"
           }
         ],
         "en": [
           {
             "name": "Cape Bumbište",
-            "tip": "Rocky coastline with a magnificent sunset view.",
+            "tip": "Only reachable on foot, no parking – almost no visitors after 5 PM, views towards Cres.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Soline coastal strip",
+            "tip": "Salt marsh behind the beach, herons and wading birds visible in spring.",
+            "emoji": "🦆"
           }
         ]
       },
@@ -222,20 +274,36 @@
       },
       "tips": {
         "de": [
-          "Banjole ist sehr hügelig, tragen Sie festes Schuhwerk.",
-          "Die Restaurants hier zählen zu den besten Fischlokalen Istriens."
+          "Banjole ist sehr hügelig – Wanderschuhe mit Profil sind Pflicht, Flip-Flops ungeeignet.",
+          "Konoba Batelina hat keine Karte; fragen Sie, was heute frisch ist, und reservieren Sie per Telefon.",
+          "Kein Geldautomat im Dorf – Bargeld vorher in Pula abheben, nächster Bankomat ca. 4 km entfernt.",
+          "Strand Centinera hat keinen Rettungsschwimmer – nur bei ruhigem Wetter schwimmen gehen.",
+          "Parken im Dorf ist kostenlos aber begrenzt – morgens früh kommen oder am Paltana-Quai abstellen.",
+          "Im Juli–August ist die Batelina oft ausgebucht – Abendessen mindestens 2 Tage im Voraus buchen."
         ],
         "hu": [
-          "Banjole dombos vidék, viseljen kényelmes túracipőt.",
-          "A falu éttermei Isztria legjobb halas helyei közé tartoznak."
+          "Banjole nagyon dombos – profilos túracipő kötelező, szandálban nem ajánlott.",
+          "A Batelinában nincs étlap; kérdezze, mi friss aznap, és foglaljon telefonon előre.",
+          "A faluban nincs ATM – vegyen fel készpénzt Pulában, a legközelebbi kb. 4 km-re van.",
+          "A Centinera strandon nincs mentős – csak csendes időjárásnál ússzon.",
+          "Ingyenes, de szűk a parkolás – korán érkezzen, vagy a Paltana-rakparton parkoljon.",
+          "Júl.–aug.-ban a Batelina tele van – vacsorát legalább 2 nappal előre foglalja le."
         ],
         "ro": [
-          "Banjole are zone deluroase, purtați încălțăminte comodă.",
-          "Restaurantele de aici sunt printre cele mai bune localuri de pește din Istria."
+          "Banjole este foarte deluros – încălțăminte de trekking cu profil este obligatorie, nu șlapi.",
+          "Konoba Batelina nu are meniu; întrebați ce e proaspăt azi și rezervați telefonic în avans.",
+          "Nu există bancomat în sat – retrageți numerar din Pula, cel mai apropiat e la cca. 4 km.",
+          "Plaja Centinera nu are salvamari – înotați doar pe vreme calmă.",
+          "Parcarea în sat e gratuită dar limitată – veniți dimineața devreme sau parcați pe cheiul Paltana.",
+          "În iulie–august Batelina e plină – rezervați cina cu cel puțin 2 zile înainte."
         ],
         "en": [
-          "Banjole is quite hilly, so wear sturdy walking shoes.",
-          "The local restaurants are among the best fish eateries in Istria."
+          "Banjole is very hilly – proper grip walking shoes are essential, flip-flops are unsuitable.",
+          "Konoba Batelina has no menu; ask what is fresh today and phone ahead for a reservation.",
+          "No ATM in the village – withdraw cash in Pula beforehand, nearest machine about 4 km away.",
+          "Centinera Beach has no lifeguard – only swim in calm conditions.",
+          "Village parking is free but limited – arrive early or park on the Paltana quay.",
+          "In July–August Batelina is fully booked – reserve dinner at least 2 days in advance."
         ]
       },
       "variants": {
@@ -608,10 +676,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Schöner Startpunkt für eine Radtour entlang der Küste.",
-            "hu": "Kiváló kiindulópont egy parti kerékpártúrához.",
-            "ro": "Punct de plecare excelent pentru o tură cu bicicleta pe coastă.",
-            "en": "Excellent starting point for a coastal bike ride."
+            "de": "Leihräder gibt es in Pula, nicht in Banjole – Bike im Voraus buchen oder selbst mitbringen.",
+            "hu": "Bérkeriékpár Pulában van, Banjole-ban nem – előre foglalja vagy hozza magával.",
+            "ro": "Biciclete de închiriat în Pula, nu în Banjole – rezervați în avans sau aduceți propria bicicletă.",
+            "en": "Bike rentals are in Pula, not in Banjole – book in advance or bring your own bike."
           }
         },
         {
@@ -631,10 +699,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 2.0,
           "tip_5lang": {
-            "de": "Kleine, versteckte Bucht mit flachem Wasser.",
-            "hu": "Kicsi, rejtett öböl sekély vízzel.",
-            "ro": "Mic golf ascuns cu apă puțin adâncă.",
-            "en": "Small, hidden bay with shallow water."
+            "de": "Versteckte Bucht – der unbefestigte Weg ist 300 m lang, gut fahrbar mit MTB oder Trekkingrad.",
+            "hu": "Rejtett öböl – a 300 m-es burkolatlan ösvény MTB-vel vagy trekkingkerékpárral jól járható.",
+            "ro": "Golf ascuns – drumul pietruit de 300 m e bine practicabil cu MTB sau bicicletă de trekking.",
+            "en": "Hidden bay – the 300 m unpaved track is easily rideable with an MTB or trekking bike."
           }
         },
         {
@@ -654,10 +722,10 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 3.0,
           "tip_5lang": {
-            "de": "Natur pur und ideal für eine kurze Rast.",
-            "hu": "Tiszta természet, ideális egy rövid pihenőhöz.",
-            "ro": "Natură pură și ideal pentru o scurtă pauză.",
-            "en": "Pure nature, ideal for a short break."
+            "de": "Ruhiges Flachwasser, perfekt für eine Erfrischungspause; kein Kiosk – Wasser selbst mitbringen.",
+            "hu": "Csendes sekély víz, tökéletes frissítő pihenőhöz; nincs büfé – hozzon vizet magával.",
+            "ro": "Apă liniștită puțin adâncă, perfectă pentru o pauză de răcorire; fără chioșc – aduceți apă.",
+            "en": "Calm shallow water, perfect for a refreshment break; no kiosk – bring your own water."
           }
         },
         {
@@ -677,10 +745,10 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 3.0,
           "tip_5lang": {
-            "de": "Sprung ins kühle Nass zur Mittagszeit.",
-            "hu": "Csobbanjon egyet a hűsítő vízben délidőben.",
-            "ro": "O săritură în apa răcoroasă la prânz.",
-            "en": "Take a dip in the cool water at noon."
+            "de": "Fahrräder am Kiesstrand parken unter den Pinien – Kettenschloss empfehlenswert.",
+            "hu": "Kerékpárokat a kavicsos strand fenyői alatt parkolhatja – láncos zár ajánlott.",
+            "ro": "Parcați bicicletele sub pinii de pe plaja pietroasă – lacăt cu lanț recomandat.",
+            "en": "Park bikes under the pines on the pebble beach – a chain lock is recommended here."
           }
         },
         {
@@ -700,10 +768,10 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 2.0,
           "tip_5lang": {
-            "de": "Die Pfade sind gut mit dem Trekkingrad befahrbar.",
-            "hu": "Az ösvények túrakerékpárral jól járhatóak.",
-            "ro": "Traseele sunt accesibile cu bicicleta de trekking.",
-            "en": "The paths are well accessible with a trekking bike."
+            "de": "Schmale Pfade auf der Halbinsel – Trekkingrad mindestens; MTB für die Schotterwege am Kap.",
+            "hu": "Szűk ösvények a félszigeten – legalább trekkingkerékpár; MTB a kavicsos kap-utakhoz.",
+            "ro": "Poteci înguste pe peninsulă – cel puțin bicicletă de trekking; MTB pentru drumurile de la cap.",
+            "en": "Narrow paths on the peninsula – at minimum a trekking bike; MTB for the gravel tracks at the cape."
           }
         }
       ],
@@ -717,25 +785,57 @@
         "de": [
           {
             "name": "Konoba Suzi",
-            "tip": "Rustikale istrische Küche für hungrige Radler."
+            "tip": "Rustikale Küche, günstig – istrisches Jota-Eintopf und gebratene Sardellen; kein Ruhetag."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Gourmet-Stop auf der Radroute; Mittagsmenü kürzer als Abendkarte, ab 12 €."
+          },
+          {
+            "name": "Lokale Olive & Brot",
+            "tip": "Kleine Läden in Banjole verkaufen Eigenprodukte – Olivenöl, Brot und Käse für die Radpause."
           }
         ],
         "hu": [
           {
             "name": "Konoba Suzi",
-            "tip": "Házias isztriai konyha éhes bringásoknak."
+            "tip": "Egyszerű, olcsó – isztriai jotas ragu és sült szardínia; nincs szabadnap."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Gasztronómiai megállás a kerékpárúton; ebéd rövidebb menü, 12 €-tól."
+          },
+          {
+            "name": "Helyi olíva és kenyér",
+            "tip": "Banjole kis boltjaiban házi termékek – olívaolaj, kenyér és sajt a kerékpáros pihenőhöz."
           }
         ],
         "ro": [
           {
             "name": "Konoba Suzi",
-            "tip": "Bucătărie istriană rustică pentru bicicliști flămânzi."
+            "tip": "Bucătărie rustică, ieftină – tocăniță jota istriană și sardine prăjite; fără zi de odihnă."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Stop gastronomic pe traseul de ciclism; prânzul are meniu mai scurt, de la 12 €."
+          },
+          {
+            "name": "Ulei de măsline și pâine locală",
+            "tip": "Micile magazine din Banjole vând produse proprii – ulei, pâine și brânză pentru pauza cu bicicleta."
           }
         ],
         "en": [
           {
             "name": "Konoba Suzi",
-            "tip": "Rustic Istrian cuisine for hungry cyclists."
+            "tip": "Rustic and affordable – Istrian jota stew and fried anchovies; no closing day."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Gourmet stop on the bike route; lunch menu is shorter than dinner, from €12."
+          },
+          {
+            "name": "Local olive oil and bread",
+            "tip": "Small shops in Banjole sell own-produce – olive oil, bread and cheese for a bike-side snack."
           }
         ]
       },
@@ -743,29 +843,49 @@
         "de": [
           {
             "name": "Bucht Soline",
-            "tip": "Vogelgezwitscher und sanfte Wellen.",
+            "tip": "Vogelgezwitscher, Schilf, sanfte Wellen – kein Badebetrieb, ideal für eine ruhige Pause.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Kap Bumbište Nordseite",
+            "tip": "Schattiger Pinienwald, fast keine Besucher nach 16 Uhr – perfekt für eine stille Verschnaufpause.",
+            "emoji": "🌲"
           }
         ],
         "hu": [
           {
             "name": "Soline-öböl",
-            "tip": "Madárcsicsergés és szelíd hullámok.",
+            "tip": "Madárcsicsergés, nád, szelíd hullámok – nincs strandélet, ideális csendes pihenőhöz.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Bumbište-fok északi oldala",
+            "tip": "Árnyas fenyőerdő, 16 óra után szinte senki – tökéletes csendes megállóhoz.",
+            "emoji": "🌲"
           }
         ],
         "ro": [
           {
             "name": "Golful Soline",
-            "tip": "Cântec de păsări și valuri blânde.",
+            "tip": "Cântec de păsări, trestii, valuri blânde – fără activitate de plajă, ideal pentru o pauză liniștită.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Latura nordică a Capului Bumbište",
+            "tip": "Pădure umbroasă de pini, aproape pustie după ora 16 – perfectă pentru o oprire liniștită.",
+            "emoji": "🌲"
           }
         ],
         "en": [
           {
             "name": "Soline Bay",
-            "tip": "Birdsong and gentle waves.",
+            "tip": "Birdsong, reeds, gentle waves – no beach activity, ideal for a quiet rest stop.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Cape Bumbište north side",
+            "tip": "Shaded pine forest, almost no visitors after 4 PM – perfect for a quiet breather.",
+            "emoji": "🌲"
           }
         ]
       },
@@ -797,20 +917,36 @@
       },
       "tips": {
         "de": [
-          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Quellen unterwegs.",
-          "Ein Mountainbike oder Trekkingrad wird für Bumbište empfohlen."
+          "Leihräder gibt es in Pula (ab 15 €/Tag) – in Banjole selbst keine Verleihstation.",
+          "Ausreichend Wasser mitnehmen: keine Quellen oder Kioske zwischen Soline und Bumbište.",
+          "MTB oder Trekkingrad empfohlen – die Kap-Schotterwege sind für Rennräder ungeeignet.",
+          "Die Küstenroute ist weitgehend flach; nur Bumbište hat kurze steile Abschnitte.",
+          "Sonnencreme und Kopfbedeckung sind auf den schattenlosen Küstensegmenten Pflicht.",
+          "Fahrräder am Strand unter Pinien abstellen – Schloss nicht vergessen."
         ],
         "hu": [
-          "Vigyen magával elég vizet, kevés a forrás útközben.",
-          "Bumbište felfedezéséhez hegyi- vagy túrakerékpár ajánlott."
+          "Bérkeriékpár Pulában (15 €/naptól) – Banjole-ban nincs kölcsönző.",
+          "Vigyen elég vizet: Soline és Bumbište között nincs forrás vagy büfé.",
+          "MTB vagy trekkingkerékpár ajánlott – a kap kavicsos útjai versenykerékpárral nem járhatók.",
+          "A tengerparti útvonal nagyrészt lapos; csak Bumbište-n vannak rövid meredek szakaszok.",
+          "Az árnyéktalan partszakaszokon nélkülözhetetlen a napkrém és fejfedő.",
+          "Parkolja a kerékpárját a strand alatti fenyők alatt – ne feledje a zárat."
         ],
         "ro": [
-          "Luați suficientă apă, sunt puține surse pe drum.",
-          "O bicicletă montană sau de trekking este recomandată pentru Bumbište."
+          "Biciclete de închiriat în Pula (de la 15 €/zi) – în Banjole nu există punct de închiriere.",
+          "Luați suficientă apă: nu există surse sau chioșcuri între Soline și Bumbište.",
+          "MTB sau bicicletă de trekking recomandate – drumurile de pietriș de la cap nu sunt pentru biciclete de curse.",
+          "Traseul de coastă este în mare parte plat; doar Bumbište are porțiuni scurte abrupte.",
+          "Cremă solară și pălărie sunt obligatorii pe segmentele de coastă fără umbră.",
+          "Parcați bicicletele sub pinii de pe plajă – nu uitați lacătul."
         ],
         "en": [
-          "Take enough water with you, there are few sources along the way.",
-          "A mountain bike or trekking bike is recommended for Bumbište."
+          "Bike rentals are in Pula (from €15/day) – no rental station in Banjole itself.",
+          "Bring plenty of water: no kiosks or fountains between Soline and Bumbište.",
+          "MTB or trekking bike recommended – the cape gravel tracks are unsuitable for road bikes.",
+          "The coastal route is mostly flat; only Bumbište has short steep sections.",
+          "Sunscreen and a hat are essential on the shadeless coastal stretches.",
+          "Lock your bike under the pines at the beach – do not leave it unsecured."
         ]
       },
       "variants": {
@@ -1183,10 +1319,10 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Leicht erreichbar mit Parkmöglichkeiten in der Nähe.",
-            "hu": "Könnyen megközelíthető, parkolás a közelben.",
-            "ro": "Ușor accesibil cu parcare în apropiere.",
-            "en": "Easily accessible with parking nearby."
+            "de": "Parkmöglichkeit direkt neben der Kirche; Besuch dauert ca. 20 Minuten für Innen- und Außenbereich.",
+            "hu": "Parkolás közvetlenül a templomtól; a belső és külső megtekintése kb. 20 percet vesz igénybe.",
+            "ro": "Parcare chiar lângă biserică; vizita interiorului și exteriorului durează aproximativ 20 de minute.",
+            "en": "Parking right next to the church; allow about 20 minutes to see both inside and outside."
           }
         },
         {
@@ -1206,10 +1342,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 2.0,
           "tip_5lang": {
-            "de": "Parken Sie direkt am Kai für einen schnellen Blick.",
-            "hu": "Parkoljon közvetlenül a mólónál egy gyors nézelődéshez.",
-            "ro": "Parcați direct pe chei pentru o scurtă vizită.",
-            "en": "Park directly on the quay for a quick look."
+            "de": "Kurz auf dem Quai parken und die Fischer beobachten – kein Parkticket nötig für unter 15 Minuten.",
+            "hu": "Rövid időre a rakparton parkolhat és megfigyelheti a halászokat – 15 percig ingyenes.",
+            "ro": "Parcați scurt pe chei și observați pescarii – nu e nevoie de tichet de parcare sub 15 minute.",
+            "en": "Park briefly on the quay and watch the fishermen – no parking ticket needed for under 15 minutes."
           }
         },
         {
@@ -1229,10 +1365,10 @@
           "hop_from_prev_min": 30,
           "hop_from_prev_km": 8.5,
           "tip_5lang": {
-            "de": "Nur 15 Autominuten entfernt – ein absolutes Muss.",
-            "hu": "Csak 15 perc autóval – kihagyhatatlan látnivaló.",
-            "ro": "La doar 15 minute de mers cu mașina – de neratat.",
-            "en": "Only 15 minutes by car – an absolute must."
+            "de": "Einfahrt 50 kn pro Auto (bar) – Parkplatz am Eingang, Naturpfade zu Fuß erkunden, keine Busse.",
+            "hu": "Belépő 50 kn autónként (készpénz) – parkoló a bejáratnál, természeti ösvények gyalogosan, buszok nem közlekednek.",
+            "ro": "Intrare 50 kn pe mașină (numerar) – parcare la intrare, poteci naturale pe jos, nu circulă autobuze.",
+            "en": "Entry fee 50 kn per car (cash) – car park at the gate, explore nature trails on foot, no buses reach here."
           }
         },
         {
@@ -1252,10 +1388,10 @@
           "hop_from_prev_min": 30,
           "hop_from_prev_km": 9.0,
           "tip_5lang": {
-            "de": "Großer Parkplatz direkt hinter dem Strand.",
-            "hu": "Nagy parkoló közvetlenül a strand mögött.",
-            "ro": "Parcare mare chiar în spatele plajei.",
-            "en": "Large parking lot directly behind the beach."
+            "de": "Großer kostenloser Parkplatz direkt hinter dem Strand, im August aber bereits um 10 Uhr voll.",
+            "hu": "Nagy ingyenes parkoló közvetlenül a strand mögött, de augusztusban már 10 órakor megtelik.",
+            "ro": "Parcare mare gratuită direct în spatele plajei, dar în august se umple deja la ora 10.",
+            "en": "Large free car park directly behind the beach, but in August it fills up already by 10 AM."
           }
         },
         {
@@ -1275,10 +1411,10 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 4.0,
           "tip_5lang": {
-            "de": "Abschluss mit Blick auf die Luxusyachten.",
-            "hu": "A nap zárása a luxusjachtok látványával.",
-            "ro": "Încheierea zilei cu priveliștea iahturilor de lux.",
-            "en": "Ending the day with a view of the luxury yachts."
+            "de": "Parkplatz an der Marina kostenlos nach 18 Uhr – schöner Abschluss mit Blick auf die Jachten.",
+            "hu": "A marina melletti parkoló 18 óra után ingyenes – szép záróakkord a jachtok látványával.",
+            "ro": "Parcarea lângă marină e gratuită după ora 18 – final frumos cu priveliște spre iahturi.",
+            "en": "Marina car park is free after 6 PM – a nice way to end the day with views of the yachts."
           }
         }
       ],
@@ -1291,56 +1427,108 @@
       "gastro_picks": {
         "de": [
           {
-            "name": "Restaurant Barka",
-            "tip": "Exzellente Meeresfrüchte-Platte für zwei."
+            "name": "Konoba Barka",
+            "tip": "Meeresfrüchte-Platte für 2 Personen ab 35 € – Terrasse mit direktem Blick auf den Hafen."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Bestes Fischrestaurant der Region; Reservierung per Telefon zwingend notwendig."
+          },
+          {
+            "name": "Picknick am Kap Kamenjak",
+            "tip": "Am Eingang des Parks gibt es einen kleinen Kiosk mit Getränken und Snacks (nur Sommer)."
           }
         ],
         "hu": [
           {
-            "name": "Barka étterem",
-            "tip": "Kiváló tenger gyümölcsei tál két főre."
+            "name": "Konoba Barka",
+            "tip": "Vegyes tengeri tál 2 főre 35 €-tól – terasz közvetlen kikötői kilátással."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "A régió legjobb halétterme; telefonos foglalás kötelező."
+          },
+          {
+            "name": "Piknik Kamenjak-foknál",
+            "tip": "A park bejáratánál kis büfé van italokkal és ropogtatnivalóval (csak nyáron)."
           }
         ],
         "ro": [
           {
-            "name": "Restaurant Barka",
-            "tip": "Platou excelent cu fructe de mare pentru doi."
+            "name": "Konoba Barka",
+            "tip": "Platou de fructe de mare pentru 2 persoane de la 35 € – terasă cu vedere directă la port."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Cel mai bun restaurant de pește din regiune; rezervare telefonică obligatorie."
+          },
+          {
+            "name": "Picnic la Capul Kamenjak",
+            "tip": "La intrarea în parc există un mic chioșc cu băuturi și gustări (doar vara)."
           }
         ],
         "en": [
           {
-            "name": "Barka Restaurant",
-            "tip": "Excellent seafood platter for two."
+            "name": "Konoba Barka",
+            "tip": "Seafood platter for two from €35 – terrace with a direct view of the harbor."
+          },
+          {
+            "name": "Konoba Batelina",
+            "tip": "Best fish restaurant in the area; phone reservation is absolutely required."
+          },
+          {
+            "name": "Picnic at Cape Kamenjak",
+            "tip": "A small kiosk at the park entrance sells drinks and snacks (summer only)."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Soline Wälder",
-            "tip": "Ruhige Waldwege abseits der Touristenströme.",
-            "emoji": "🍃"
+            "name": "Soline-Waldweg",
+            "tip": "Ruhige Forstpfade abseits der Touristenmassen, ideal für eine kurze Wanderung nach dem Strandbesuch.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kap Kamenjak Nordklippen",
+            "tip": "Versteckte Felsklippen – nur mit dem Auto (oder Rad) am Kap erreichbar, kaum besucht.",
+            "emoji": "🪨"
           }
         ],
         "hu": [
           {
-            "name": "Soline-erdők",
-            "tip": "Csendes erdei utak a turistaáradattól távol.",
-            "emoji": "🍃"
+            "name": "Soline-erdei ösvény",
+            "tip": "Csendes erdei utak a turistatömegtől félre, ideális egy rövid sétához a strandolás után.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kamenjak-fok északi sziklái",
+            "tip": "Rejtett sziklakilátók – csak autóval (vagy kerékpárral) érhetők el, alig látogatott.",
+            "emoji": "🪨"
           }
         ],
         "ro": [
           {
-            "name": "Pădurile Soline",
-            "tip": "Poteci forestiere liniștite departe de turiști.",
-            "emoji": "🍃"
+            "name": "Poteca forestieră Soline",
+            "tip": "Poteci forestiere liniștite departe de turiști, ideale pentru o scurtă plimbare după plajă.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Stâncile nordice ale Capului Kamenjak",
+            "tip": "Faleze ascunse – accesibile doar cu mașina (sau bicicleta) la cap, aproape nevizitate.",
+            "emoji": "🪨"
           }
         ],
         "en": [
           {
-            "name": "Soline Woods",
-            "tip": "Quiet forest paths away from the tourist crowds.",
-            "emoji": "🍃"
+            "name": "Soline forest path",
+            "tip": "Quiet forest tracks away from tourist crowds, ideal for a short walk after the beach.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Cape Kamenjak north cliffs",
+            "tip": "Hidden rocky viewpoints – only reachable by car (or bike) at the cape, almost no visitors.",
+            "emoji": "🪨"
           }
         ]
       },
@@ -1372,20 +1560,36 @@
       },
       "tips": {
         "de": [
-          "In der Hochsaison sind Parkplätze am Strand schnell belegt.",
-          "Für Kap Kamenjak wird eine Einfahrtsgebühr pro Fahrzeug fällig."
+          "Parken am Kap Kamenjak kostet 50 kn pro Auto (bar) – Kleingeld bereithalten.",
+          "Im August sind die Strandparkplätze bis 10 Uhr voll – früh starten oder Abendtour planen.",
+          "Die Straße zum Kap Kamenjak ist unbefestigt auf den letzten 2 km – kein Problem für normale PKW.",
+          "Banjole hat keine Tankstelle – vorher in Pula tanken (5 km entfernt).",
+          "Konoba Batelina: Telefonreservierung zwingend, besonders Juli–August.",
+          "Für Kamenjak empfiehlt sich ein früherer Start (9–10 Uhr) um die Mittagshitze zu meiden."
         ],
         "hu": [
-          "Főszezonban a strandközeli parkolók gyorsan megtelnek.",
-          "A Kamenjak-fokra behajtási díjat kell fizetni autónként."
+          "A Kamenjak-foki parkoló 50 kn/autó (készpénz) – tartson aprót.",
+          "Augusztusban a strand parkolói 10 óráig megtelnek – induljon korán, vagy tervezzen esti kirándulást.",
+          "A Kamenjak-foki út az utolsó 2 km-en burkolatlan – normál személyautóval nem probléma.",
+          "Banjole-ban nincs benzinkút – tankoljon előre Pulában (5 km-re).",
+          "Konoba Batelina: telefonos foglalás kötelező, különösen júl.–aug.-ban.",
+          "Kamenjak-hoz érdemes korán indulni (9–10 órakor) a déli hőség elkerülésére."
         ],
         "ro": [
-          "În plin sezon, parcările de lângă plajă se ocupă rapid.",
-          "Pentru Capul Kamenjak se plătește o taxă de intrare pe vehicul."
+          "Parcarea la Capul Kamenjak costă 50 kn/mașină (numerar) – aveți mărunțiș la îndemână.",
+          "În august, parcările de plajă se umplu până la ora 10 – plecați devreme sau planificați o excursie de seară.",
+          "Drumul spre Capul Kamenjak este neasfaltat pe ultimii 2 km – fără probleme pentru mașini normale.",
+          "Banjole nu are benzinărie – faceți plinul în Pula în avans (la 5 km distanță).",
+          "Konoba Batelina: rezervare telefonică obligatorie, mai ales iulie–august.",
+          "Pentru Kamenjak, se recomandă un start mai devreme (9–10) pentru a evita căldura de prânz."
         ],
         "en": [
-          "In high season, parking near the beach fills up quickly.",
-          "There is an entry fee for cars at Cape Kamenjak."
+          "Cape Kamenjak parking costs 50 kn per car (cash only) – have small change ready.",
+          "In August beach car parks fill up by 10 AM – start early or plan an evening trip.",
+          "The road to Cape Kamenjak is unpaved for the last 2 km – fine for normal cars.",
+          "Banjole has no petrol station – fill up in Pula beforehand (5 km away).",
+          "Konoba Batelina: phone reservation is mandatory, especially July–August.",
+          "For Kamenjak, an earlier start (9–10 AM) is recommended to avoid midday heat."
         ]
       },
       "variants": {
@@ -1758,10 +1962,10 @@
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Bushaltestelle direkt im Zentrum.",
-            "hu": "Buszmegálló közvetlenül a központban.",
-            "ro": "Stație de autobuz chiar în centru.",
-            "en": "Bus stop right in the center."
+            "de": "Bus 28 ab Pula Hauptbahnhof, Fahrtzeit ca. 20 Minuten; Tickets im Bus kaufen, ca. 2,50 €.",
+            "hu": "A 28-as busz Pula főállomásáról indul, menetidő kb. 20 perc; jegy a buszon, kb. 2,50 €.",
+            "ro": "Autobuzul 28 pleacă din gara principală Pula, durată cca. 20 minute; bilet în autobuz, cca. 2,50 €.",
+            "en": "Bus 28 from Pula main station, journey about 20 minutes; buy tickets on the bus, about €2.50."
           }
         },
         {
@@ -1781,10 +1985,10 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Ein schöner Spaziergang von der Haltestelle aus.",
-            "hu": "Kellemes séta a buszmegállótól.",
-            "ro": "O plimbare frumoasă de la stație.",
-            "en": "A pleasant walk from the bus stop."
+            "de": "Ein 10-minütiger Spaziergang von der Bushaltestelle – der Kirchenpfad ist nicht ausgeschildert.",
+            "hu": "A megállótól 10 perces séta – a templomhoz vezető ösvény nincs kijelölve.",
+            "ro": "La 10 minute de mers pe jos de la stație – poteca spre biserică nu este semnalizată.",
+            "en": "A 10-minute walk from the bus stop – the path to the church is not signposted."
           }
         },
         {
@@ -1804,10 +2008,10 @@
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Guter Ort für ein Mittagessen in Meeresnähe.",
-            "hu": "Kiváló hely egy ebédhez a tenger közelében.",
-            "ro": "Loc bun pentru prânz aproape de mare.",
-            "en": "Good spot for lunch near the sea."
+            "de": "Hervorragend geeignet für eine Mittagspause: flaches Wasser, Schatten unter Pinien, kein Eintritt.",
+            "hu": "Kiváló ebédszüneti megálló: sekély víz, fenyőárnyék, belépőjegy nélkül.",
+            "ro": "Ideal pentru o pauză de prânz: apă puțin adâncă, umbră sub pini, fără taxă de intrare.",
+            "en": "Excellent lunch stop: shallow water, pine shade, no entry fee required."
           }
         },
         {
@@ -1827,10 +2031,10 @@
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Vom Strand aus sind es 10 Min. zur nächsten Haltestelle.",
-            "hu": "A strandtól 10 perc a legközelebbi megálló.",
-            "ro": "De la plajă sunt 10 minute până la cea mai apropiată stație.",
-            "en": "It's a 10-minute walk from the beach to the bus stop."
+            "de": "Haltestelle „Centinera\" liegt 400 m vom Strand; letzter Bus zurück nach Pula um 19:45 Uhr.",
+            "hu": "A „Centinera\" megálló 400 m-re van a strandtól; az utolsó busz Pulába 19:45-kor indul.",
+            "ro": "Stația „Centinera\" e la 400 m de plajă; ultimul autobuz spre Pula pleacă la 19:45.",
+            "en": "The \"Centinera\" bus stop is 400 m from the beach; last bus back to Pula at 19:45."
           }
         },
         {
@@ -1850,10 +2054,10 @@
           "hop_from_prev_min": 20,
           "hop_from_prev_km": 2.0,
           "tip_5lang": {
-            "de": "Kurzer Stopp vor der Rückfahrt mit dem Bus.",
-            "hu": "Gyors megálló a busz visszaindulása előtt.",
-            "ro": "Scurtă oprire înainte de întoarcerea cu autobuzul.",
-            "en": "Short stop before catching the bus back."
+            "de": "Kurzer Abstecher zum Hafen bevor der Bus kommt – Fahrplan am Dorfeingang einsehbar.",
+            "hu": "Rövid kitérő a kikötőhöz, mielőtt a busz jön – menetrend a falubelépőnél.",
+            "ro": "Scurtă vizită la port înainte de autobuz – orarul afișat la intrarea în sat.",
+            "en": "Short detour to the harbor before the bus – timetable posted at the village entrance."
           }
         }
       ],
@@ -1867,55 +2071,107 @@
         "de": [
           {
             "name": "Bistro Nina",
-            "tip": "Schnelle und gute Fischgerichte im Zentrum."
+            "tip": "Schnelle, schmackhafte Fischgerichte im Zentrum – ideal bei knapper Busverbindung."
+          },
+          {
+            "name": "Konoba Suzi",
+            "tip": "Preiswertes Mittagsmenü für ca. 8 € – istrischer Eintopf und gebratene Sardellen."
+          },
+          {
+            "name": "Hafen-Kiosk Paltana",
+            "tip": "Frische Brötchen und Kaffee am Morgen direkt am Fischerhafen, ab 7 Uhr geöffnet."
           }
         ],
         "hu": [
           {
-            "name": "Nina bisztró",
-            "tip": "Gyors és finom halételek a központban."
+            "name": "Bistro Nina",
+            "tip": "Gyors, ízletes halételek a faluközpontban – ideális, ha szorosak a buszcsatlakozások."
+          },
+          {
+            "name": "Konoba Suzi",
+            "tip": "Olcsó ebéd kb. 8 €-ért – isztriai ragu és sült szardínia."
+          },
+          {
+            "name": "Paltana halászkikötői büfé",
+            "tip": "Friss zsemle és kávé reggel a halászkikötőnél, 7 órától nyitva."
           }
         ],
         "ro": [
           {
             "name": "Bistro Nina",
-            "tip": "Preparate din pește rapide și bune în centru."
+            "tip": "Preparate din pește rapide și gustoase în centrul satului – ideal dacă autobuzele sunt rare."
+          },
+          {
+            "name": "Konoba Suzi",
+            "tip": "Prânz ieftin pentru cca. 8 € – tocăniță istriană și sardine prăjite."
+          },
+          {
+            "name": "Chioșcul din portul Paltana",
+            "tip": "Chifle proaspete și cafea dimineața la portul de pescuit, deschis de la ora 7."
           }
         ],
         "en": [
           {
             "name": "Bistro Nina",
-            "tip": "Fast and tasty fish dishes in the center."
+            "tip": "Fast, tasty fish dishes in the village center – ideal when bus connections are tight."
+          },
+          {
+            "name": "Konoba Suzi",
+            "tip": "Affordable lunch for about €8 – Istrian stew and fried anchovies."
+          },
+          {
+            "name": "Paltana harbor kiosk",
+            "tip": "Fresh rolls and coffee in the morning at the fishing harbor, open from 7 AM."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Portić Mole",
-            "tip": "Am Ende der Mole dem Wasser lauschen.",
-            "emoji": "🧘"
+            "name": "Portić-Pier",
+            "tip": "Am Ende des kleinen Stegs – nur Meeresrauschen und Möwengeschrei, keine Autos.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Kirchhof Muttergottes vom Meer",
+            "tip": "Kleiner, schattiger Friedhof neben der Kirche – vollkommen ruhig, kaum bekannt.",
+            "emoji": "⛪"
           }
         ],
         "hu": [
           {
-            "name": "Portić-móló",
-            "tip": "A móló végén hallgatni a víz csobogását.",
-            "emoji": "🧘"
+            "name": "Portić-kikötőgát",
+            "tip": "A kis móló végén – csak a tenger zaja és a sirályok, autók nélkül.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Tengeri Boldogasszony templom temetője",
+            "tip": "Kis, árnyas temető a templom mellett – teljesen csendes, alig ismert.",
+            "emoji": "⛪"
           }
         ],
         "ro": [
           {
-            "name": "Digul Portić",
-            "tip": "Ascultând apa la capătul digului.",
-            "emoji": "🧘"
+            "name": "Digul din Portić",
+            "tip": "La capătul micului dig – doar zgomotul mării și strigătele pescărușilor, fără mașini.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Cimitirul Bisericii Maicii Domnului",
+            "tip": "Mic cimitir umbrit lângă biserică – complet liniștit, aproape necunoscut.",
+            "emoji": "⛪"
           }
         ],
         "en": [
           {
-            "name": "Portić Pier",
-            "tip": "Listen to the water at the end of the pier.",
-            "emoji": "🧘"
+            "name": "Portić pier",
+            "tip": "At the end of the small jetty – only sea sounds and gulls, no cars.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Church of Our Lady of the Sea churchyard",
+            "tip": "Small shaded cemetery next to the church – completely quiet, barely known.",
+            "emoji": "⛪"
           }
         ]
       },
@@ -1947,20 +2203,36 @@
       },
       "tips": {
         "de": [
-          "Die Buslinie 28 verbindet Banjole mit Pula.",
-          "Achten Sie auf den aktuellen Fahrplan, besonders am Wochenende."
+          "Bus 28 Pula–Banjole: Abfahrt ca. stündlich, letzter Rückbus um 19:45 Uhr – Fahrplan vor dem Besuch prüfen.",
+          "Tickets im Bus kaufen (ca. 2,50 €) – Kleingeld bereitlegen, kein Kartenleser an Bord.",
+          "Kein Gepäck: Die Dorfwege sind schmal und uneben – leichte Rucksackreise empfohlen.",
+          "Supermarkt oder ATM nicht im Dorf – alles Nötige in Pula kaufen oder abheben.",
+          "Eckpunkt Centinera liegt 400 m von der Haltestelle – bei Hitze früh aufbrechen.",
+          "Sonntags und im Winter fährt der Bus seltener – unbedingt den aktuellen Fahrplan prüfen."
         ],
         "hu": [
-          "A 28-as buszvonal köti össze Banjolét Pulával.",
-          "Figyeljen a menetrendre, különösen hétvégén."
+          "A 28-as busz Pula–Banjole: kb. óránként, utolsó visszaút 19:45-kor – utazás előtt ellenőrizze a menetrendet.",
+          "Jegyet a buszon vegyen (kb. 2,50 €) – tartson aprót, nincs kártyaolvasó.",
+          "Ne vigyen sok csomagot: a falusi utak keskenyek és egyenetlenek – könnyű hátizsák ajánlott.",
+          "Nincs szupermarket vagy ATM a faluban – mindent Pulában vegyen meg/vegyen fel.",
+          "A Centinera megálló 400 m-re van a strandtól – melegben korán induljon.",
+          "Vasárnap és télen ritkábban jár a busz – mindig ellenőrizze az aktuális menetrendet."
         ],
         "ro": [
-          "Linia de autobuz 28 leagă Banjole de Pula.",
-          "Verificați orarul actualizat, în special în weekend."
+          "Autobuzul 28 Pula–Banjole: aproximativ la oră, ultimul autobuz de întoarcere la 19:45 – verificați orarul înainte de vizită.",
+          "Cumpărați biletul în autobuz (cca. 2,50 €) – aveți mărunțiș, nu există cititor de carduri.",
+          "Nu luați bagaje grele: străzile din sat sunt înguste și neregulate – rucsac ușor recomandat.",
+          "Nu există supermarket sau bancomat în sat – cumpărați/retrageți tot din Pula.",
+          "Stația Centinera e la 400 m de plajă – pe căldură, plecați devreme.",
+          "Duminica și iarna autobuzul circulă mai rar – verificați întotdeauna orarul actual."
         ],
         "en": [
-          "Bus line 28 connects Banjole with Pula.",
-          "Check the current timetable, especially on weekends."
+          "Bus 28 Pula–Banjole: roughly hourly, last return bus at 19:45 – check the timetable before visiting.",
+          "Buy tickets on the bus (about €2.50) – have small change ready, no card reader on board.",
+          "Travel light: village paths are narrow and uneven – a light backpack is recommended.",
+          "No supermarket or ATM in the village – buy and withdraw everything in Pula first.",
+          "The Centinera stop is 400 m from the beach – in heat, set off early.",
+          "On Sundays and in winter buses run less often – always check the current timetable."
         ]
       },
       "variants": {

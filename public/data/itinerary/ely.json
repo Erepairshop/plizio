@@ -1,0 +1,1038 @@
+{
+  "city_id": "ely",
+  "anchor": {
+    "name": "Ely Cathedral",
+    "coords": [
+      0.2622,
+      52.3981
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ely-Kathedrale",
+            "hu": "Ely-i székesegyház",
+            "ro": "Catedrala din Ely",
+            "en": "Ely Cathedral"
+          },
+          "coords": [
+            0.2635,
+            52.3975
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Bestunnen Sie das Octagon, ein mittelalterliches Wunder.",
+            "hu": "Csodálja meg az Octagon-t, ezt a középkori mérnöki csodát.",
+            "ro": "Admirați Octogonul, o minune a ingineriei medievale.",
+            "en": "Admire the Octagon, a medieval engineering marvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Steeple Row",
+            "hu": "Steeple Row",
+            "ro": "Steeple Row",
+            "en": "Steeple Row"
+          },
+          "coords": [
+            0.2625,
+            52.3985
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Malerische Gasse direkt an der Westfront.",
+            "hu": "Festői sikátor közvetlenül a nyugati homlokzatnál.",
+            "ro": "Alee pitorească chiar lângă fațada de vest.",
+            "en": "Picturesque lane right by the west front."
+          }
+        },
+        {
+          "name": {
+            "de": "Oliver Cromwells Haus",
+            "hu": "Oliver Cromwell háza",
+            "ro": "Casa lui Oliver Cromwell",
+            "en": "Oliver Cromwell's House"
+          },
+          "coords": [
+            0.261,
+            52.3988
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Entdecken Sie, wie der Lordprotektor lebte.",
+            "hu": "Fedezze fel, hogyan élt a lordprotektor.",
+            "ro": "Descoperiți cum a trăit Lordul Protector.",
+            "en": "Discover how the Lord Protector lived here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ely Museum",
+            "hu": "Ely Múzeum",
+            "ro": "Muzeul din Ely",
+            "en": "Ely Museum"
+          },
+          "coords": [
+            0.2605,
+            52.3995
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "In einem alten Gefängnis untergebracht.",
+            "hu": "Egy egykori börtön épületében kapott helyet.",
+            "ro": "Găzduit într-o fostă închisoare.",
+            "en": "Housed in a former gaol building."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Riverside",
+            "hu": "Ebéd a folyóparton",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch at Riverside"
+          },
+          "coords": [
+            0.268,
+            52.395
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Genießen Sie den Blick auf den Fluss Great Ouse.",
+            "hu": "Élvezze a Great Ouse folyóra nyíló kilátást.",
+            "ro": "Bucurați-vă de vederea la râul Great Ouse.",
+            "en": "Enjoy the views over the River Great Ouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Jubilee Gardens",
+            "hu": "Jubilee kertek",
+            "ro": "Grădinile Jubilee",
+            "en": "Jubilee Gardens"
+          },
+          "coords": [
+            0.269,
+            52.396
+          ],
+          "category": "garden",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Schöner Ort zum Entspannen am Wasser.",
+            "hu": "Kellemes hely a vízparti kikapcsolódáshoz.",
+            "ro": "Un loc plăcut pentru relaxare lângă apă.",
+            "en": "A lovely spot for relaxing by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cherry Hill Park",
+            "hu": "Cherry Hill Park",
+            "ro": "Parcul Cherry Hill",
+            "en": "Cherry Hill Park"
+          },
+          "coords": [
+            0.265,
+            52.3965
+          ],
+          "category": "park",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Der beste Blick auf die gesamte Länge der Kathedrale.",
+            "hu": "Innen nyílik a legjobb kilátás a katedrális teljes hosszára.",
+            "ro": "Cea mai bună vedere asupra întregii catedrale.",
+            "en": "The best view of the cathedral's full length."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ely ist perfekt für einen entspannten Rundgang. Beginnen Sie mit der monumentalen Kathedrale, dem 'Schiff der Fens'. Erkunden Sie dann die historische Steeple Row und das Haus von Oliver Cromwell. Nach einem Museumsbesuch spazieren Sie hinunter zum Flussufer für ein Mittagessen am Wasser. Den Nachmittag verbringen Sie in den Jubilee Gardens und im Cherry Hill Park.",
+        "hu": "Ely tökéletes helyszín egy pihentető sétához. Kezdje a monumentális székesegyházzal, a 'mocsárvidék hajójával'. Fedezze fel a történelmi Steeple Row-t és Oliver Cromwell lakóházát. Egy múzeumlátogatás után sétáljon le a folyópartra egy vízparti ebédre. A délutánt töltse a Jubilee kertekben és a Cherry Hill Parkban.",
+        "ro": "Ely este perfect pentru un tur pietonal relaxat. Începeți cu catedrala monumentală, 'Nava mlaștinilor'. Explorați apoi istorica Steeple Row și casa lui Oliver Cromwell. După o vizită la muzeu, mergeți pe malul râului pentru prânz. După-amiaza o petreceți în grădinile Jubilee și parcul Cherry Hill.",
+        "en": "Ely is perfect for a relaxed walking tour. Start with the monumental cathedral, the 'Ship of the Fens'. Then explore the historic Steeple Row and Oliver Cromwell's House. After a museum visit, walk down to the riverside for a meal by the water. Spend your afternoon in Jubilee Gardens and Cherry Hill Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peacocks Tearoom",
+            "tip": "Berühmter traditioneller englischer Teegarten."
+          },
+          {
+            "name": "The Cutter Inn",
+            "tip": "Pub direkt am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peacocks Tearoom",
+            "tip": "Híres, hagyományos angol teaház."
+          },
+          {
+            "name": "The Cutter Inn",
+            "tip": "Hangulatos pub közvetlenül a folyóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peacocks Tearoom",
+            "tip": "Faimoasă ceainărie tradițională englezească."
+          },
+          {
+            "name": "The Cutter Inn",
+            "tip": "Pub situat chiar pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peacocks Tearoom",
+            "tip": "Famous traditional English tea rooms."
+          },
+          {
+            "name": "The Cutter Inn",
+            "tip": "Riverside pub with great views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Roswell Pits",
+            "tip": "Ruhiges Naturschutzgebiet für Vogelbeobachtung.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roswell Pits",
+            "tip": "Csendes természetvédelmi terület madármegfigyeléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Roswell Pits",
+            "tip": "Rezervație naturală liniștită pentru păsări.",
+            "emoji": "🦆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roswell Pits",
+            "tip": "Quiet nature reserve for birdwatching.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ely Market Square",
+            "tip": "Regelmäßige Wochen- und Bauernmärkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ely piactér",
+            "tip": "Rendszeres heti és termelői piacok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața centrală din Ely",
+            "tip": "Piețe săptămânale și de producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ely Market Square",
+            "tip": "Regular weekly and farmers' markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie eine Turmführung in der Kathedrale.",
+          "Ely ist sehr kompakt und gut zu Fuß erkundbar.",
+          "Besuchen Sie den Markt am Donnerstag oder Samstag.",
+          "Der Bahnhof ist nur 10 Minuten Fußweg vom Fluss entfernt."
+        ],
+        "hu": [
+          "Foglaljon helyet a katedrális toronytúrájára.",
+          "Ely nagyon kompakt, kiválóan bejárható gyalog.",
+          "Látogasson el csütörtökön vagy szombaton a piacra.",
+          "A vasútállomás mindössze 10 perc sétára van a folyótól."
+        ],
+        "ro": [
+          "Rezervați un tur al turnului catedralei.",
+          "Ely este foarte compact și ușor de explorat pe jos.",
+          "Vizitați piața joia sau sâmbăta.",
+          "Gara se află la doar 10 minute de mers pe jos de râu."
+        ],
+        "en": [
+          "Book a tower tour at the cathedral in advance.",
+          "Ely is very compact and easily explored on foot.",
+          "Visit on a Thursday or Saturday for the markets.",
+          "The station is only a 10-minute walk from the river."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ely-Kathedrale",
+            "hu": "Ely-i székesegyház",
+            "ro": "Catedrala din Ely",
+            "en": "Ely Cathedral"
+          },
+          "coords": [
+            0.2635,
+            52.3975
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Fahrradständer am Eingang vorhanden.",
+            "hu": "Kerékpártárolók a bejáratnál találhatók.",
+            "ro": "Suporturi de biciclete disponibile la intrare.",
+            "en": "Bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Oliver Cromwells Haus",
+            "hu": "Oliver Cromwell háza",
+            "ro": "Casa lui Oliver Cromwell",
+            "en": "Oliver Cromwell's House"
+          },
+          "coords": [
+            0.261,
+            52.3988
+          ],
+          "category": "museum",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Zentraler Stopp im historischen Viertel.",
+            "hu": "Központi megálló a történelmi negyedben.",
+            "ro": "Oprire centrală în cartierul istoric.",
+            "en": "Central stop in the historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Roswell Pits",
+            "hu": "Roswell Pits",
+            "ro": "Roswell Pits",
+            "en": "Roswell Pits"
+          },
+          "coords": [
+            0.285,
+            52.405
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Schöner Radweg entlang der alten Gruben.",
+            "hu": "Szép kerékpárút a régi bányatavak mentén.",
+            "ro": "Traseu frumos de biciclete pe lângă vechile cariere.",
+            "en": "Scenic cycle path along the old pits."
+          }
+        },
+        {
+          "name": {
+            "de": "Ely Riverside",
+            "hu": "Ely folyópart",
+            "ro": "Malul râului Ely",
+            "en": "Ely Riverside"
+          },
+          "coords": [
+            0.268,
+            52.395
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_4lang": {
+            "de": "Perfekt für eine Mittagspause am Wasser.",
+            "hu": "Tökéletes egy vízparti ebédszünethez.",
+            "ro": "Perfect pentru o pauză de prânz lângă apă.",
+            "en": "Perfect for a lunch break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Wicken Fen (Nearby)",
+            "hu": "Wicken Fen (Közelben)",
+            "ro": "Wicken Fen (În apropiere)",
+            "en": "Wicken Fen (Nearby)"
+          },
+          "coords": [
+            0.285,
+            52.312
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 9.2,
+          "tip_4lang": {
+            "de": "National Trust Reservat, flache Pisten.",
+            "hu": "National Trust rezervátum, sík utak.",
+            "ro": "Rezervație National Trust, trasee plane.",
+            "en": "National Trust reserve, flat tracks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die flache Landschaft der Fens rund um Ely mit dem Fahrrad. Nach den Highlights der Stadt radeln Sie zu den Roswell Pits und entlang des Flusses Ouse. Den Nachmittag verbringen Sie mit einer Tour durch das Wicken Fen Reservat, eines der ältesten Naturschutzgebiete Englands, das über flache und ruhige Wege erreichbar ist.",
+        "hu": "Fedezze fel a Fens-vidék sík tájait Ely körül kerékpárral. A városi látnivalók után tekerjen el a Roswell Pits tavakhoz és az Ouse-folyó mentén. A délutánt töltse a Wicken Fen rezervátumban, amely Anglia egyik legrégebbi természetvédelmi területe, és sík, nyugodt utakon érhető el.",
+        "ro": "Explorați peisajul plat al regiunii Fens din jurul orașului Ely cu bicicleta. După atracțiile orașului, pedalați spre Roswell Pits și de-a lungul râului Ouse. După-amiaza o petreceți explorând rezervația Wicken Fen, accesibilă prin trasee plate și liniștite.",
+        "en": "Explore the flat Fens landscape around Ely by bike. After visiting the city highlights, cycle to Roswell Pits and along the River Ouse. Spend the afternoon touring the Wicken Fen reserve, one of England's oldest nature reserves, accessible via flat and quiet paths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Maltings",
+            "tip": "Historisches Gebäude mit Gastronomie am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Maltings",
+            "tip": "Történelmi épület vendéglátóhelyekkel a folyóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Maltings",
+            "tip": "Clădire istorică cu restaurante pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Maltings",
+            "tip": "Historic riverside building with dining options."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wicken Fen Nature Reserve",
+            "tip": "Ursprüngliche Moorlandschaft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wicken Fen rezervátum",
+            "tip": "Ősi mocsárvidék látványa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Wicken Fen",
+            "tip": "Peisaj de mlaștină ancestrală.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wicken Fen Nature Reserve",
+            "tip": "Ancient fenland landscape.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Waterside Antiques",
+            "tip": "Großes Antiquitätengeschäft am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waterside Antiques",
+            "tip": "Hatalmas antikvárium a folyóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Waterside Antiques",
+            "tip": "Magazin mare de antichități pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterside Antiques",
+            "tip": "Large antiques centre by the river."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Gegend ist extrem flach, ideal für entspanntes Radeln.",
+          "Nutzen Sie die markierten 'National Cycle Routes'.",
+          "Ein Schloss für das Fahrrad ist in der Stadt notwendig.",
+          "Wicken Fen ist etwa 15 km vom Zentrum entfernt."
+        ],
+        "hu": [
+          "A vidék rendkívül sík, ideális a könnyed kerékpározáshoz.",
+          "Használja a kijelölt nemzeti kerékpáros útvonalakat.",
+          "A városban mindenképpen használjon kerékpárzárat.",
+          "Wicken Fen kb. 15 km-re van a központtól."
+        ],
+        "ro": [
+          "Zona este extrem de plată, ideală pentru ciclism relaxat.",
+          "Folosiți traseele marcate 'National Cycle Routes'.",
+          "Un sistem de blocare pentru bicicletă este necesar în oraș.",
+          "Wicken Fen se află la aproximativ 15 km de centru."
+        ],
+        "en": [
+          "The area is extremely flat, perfect for easy cycling.",
+          "Follow the signed National Cycle Routes.",
+          "A bike lock is essential when parking in town.",
+          "Wicken Fen is about 9 miles from the centre."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ely Cathedral (Cluster A)",
+            "hu": "Ely-i székesegyház (A klaszter)",
+            "ro": "Catedrala din Ely (Cluster A)",
+            "en": "Ely Cathedral (Cluster A)"
+          },
+          "coords": [
+            0.2635,
+            52.3975
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Parken Sie im Stadtzentrum (z.B. Barton Road).",
+            "hu": "Parkoljon a központban (pl. Barton Road).",
+            "ro": "Parcați în centrul orașului (ex. Barton Road).",
+            "en": "Park in the town centre (e.g., Barton Road)."
+          }
+        },
+        {
+          "name": {
+            "de": "Oliver Cromwells Haus (Cluster A)",
+            "hu": "Oliver Cromwell háza (A klaszter)",
+            "ro": "Casa lui Oliver Cromwell (Cluster A)",
+            "en": "Oliver Cromwell's House (Cluster A)"
+          },
+          "coords": [
+            0.261,
+            52.3988
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "hop_mode": "walk",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Nur wenige Gehminuten von der Kathedrale.",
+            "hu": "Csak pár perc séta a katedrálistól.",
+            "ro": "La doar câteva minute de mers pe jos de catedrală.",
+            "en": "Only a few minutes' walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Ely Riverside (Cluster B)",
+            "hu": "Ely folyópart (B klaszter)",
+            "ro": "Malul râului Ely (Cluster B)",
+            "en": "Ely Riverside (Cluster B)"
+          },
+          "coords": [
+            0.268,
+            52.395
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "hop_mode": "car",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Parken Sie direkt am Flussufer.",
+            "hu": "Parkoljon közvetlenül a folyópartnál.",
+            "ro": "Parcați direct pe malul râului.",
+            "en": "Park directly at the riverside."
+          }
+        },
+        {
+          "name": {
+            "de": "Jubilee Gardens (Cluster B)",
+            "hu": "Jubilee kertek (B klaszter)",
+            "ro": "Grădinile Jubilee (Cluster B)",
+            "en": "Jubilee Gardens (Cluster B)"
+          },
+          "coords": [
+            0.269,
+            52.396
+          ],
+          "category": "garden",
+          "arrive_at": "13:20",
+          "hop_mode": "walk",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein schöner Spaziergang am Wasser.",
+            "hu": "Kellemes séta a víz mentén.",
+            "ro": "O plimbare plăcută pe lângă apă.",
+            "en": "A pleasant walk along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Wicken Fen (Trip)",
+            "hu": "Wicken Fen (Kirándulás)",
+            "ro": "Wicken Fen (Excursie)",
+            "en": "Wicken Fen (Trip)"
+          },
+          "coords": [
+            0.285,
+            52.312
+          ],
+          "category": "natural",
+          "arrive_at": "14:25",
+          "hop_mode": "car",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.2,
+          "tip_4lang": {
+            "de": "Berühmtes Naturschutzgebiet mit Besucherzentrum.",
+            "hu": "Híres természetvédelmi terület látogatóközponttal.",
+            "ro": "Rezervație naturală faimoasă cu centru de vizitare.",
+            "en": "Famous nature reserve with a visitor centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Ely und die Umgebung komfortabel mit dem Auto. Parken Sie im Zentrum (Cluster A) für Kathedrale und Cromwell's Haus. Wechseln Sie dann zum Flussufer (Cluster B) für ein entspanntes Mittagessen. Den Nachmittag krönt eine kurze Fahrt nach Wicken Fen, um die einzigartige Moorlandschaft zu erleben.",
+        "hu": "Fedezze fel Ely-t és környékét kényelmesen, autóval. Parkoljon a központban (A klaszter) a székesegyház és Cromwell háza megtekintéséhez. Ezután váltson a folyópartra (B klaszter) egy nyugodt ebédre. A délutánt koronázza meg egy rövid autóúttal a Wicken Fen rezervátumhoz.",
+        "ro": "Explorați Ely și împrejurimile sale confortabil cu mașina. Parcați în centru (Cluster A) pentru catedrală și casa lui Cromwell. Apoi mergeți pe malul râului (Cluster B) pentru un prânz relaxat. După-amiaza se încheie cu o scurtă călătorie spre Wicken Fen.",
+        "en": "Explore Ely and its surroundings comfortably by car. Park in the centre (Cluster A) for the cathedral and Cromwell's House. Then move to the riverside (Cluster B) for a relaxed lunch. Top off the afternoon with a short drive to Wicken Fen to experience the unique marshland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Fire Engine House",
+            "tip": "Traditionelle Gerichte in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Fire Engine House",
+            "tip": "Hagyományos ételek történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Fire Engine House",
+            "tip": "Mâncăruri tradiționale într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Fire Engine House",
+            "tip": "Traditional dishes in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wicken Fen Boardwalk",
+            "tip": "Vogelstimmen genießen.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wicken Fen pallósor",
+            "tip": "Élvezze a madárcsicsergést.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podiumul Wicken Fen",
+            "tip": "Bucurați-vă de cântecul păsărilor.",
+            "emoji": "🐦"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wicken Fen Boardwalk",
+            "tip": "Enjoy the bird calls in the reeds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Topping & Company Booksellers",
+            "tip": "Wunderschöne Buchhandlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Topping & Company Booksellers",
+            "tip": "Gyönyörű könyvesbolt a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Topping & Company Booksellers",
+            "tip": "O librărie superbă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Topping & Company Booksellers",
+            "tip": "A beautiful and extensive bookshop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Parkplätze im Zentrum sind zeitlich begrenzt.",
+          "Die A142 ist die Hauptanbindung nach Ely.",
+          "Wicken Fen hat einen eigenen großen Parkplatz.",
+          "Am Flussufer ist das Parken oft kostenfrei."
+        ],
+        "hu": [
+          "Néhány központi parkoló időkorlátos.",
+          "Az A142-es út a fő összeköttetés Ely-be.",
+          "Wicken Fen saját nagy parkolóval rendelkezik.",
+          "A folyóparton a parkolás gyakran ingyenes."
+        ],
+        "ro": [
+          "Unele parcări din centru au timp limitat.",
+          "Drumul A142 este principala legătură spre Ely.",
+          "Wicken Fen are propria parcare mare.",
+          "Parcarea pe malul râului este adesea gratuită."
+        ],
+        "en": [
+          "Some town centre car parks have time limits.",
+          "The A142 is the main access road to Ely.",
+          "Wicken Fen has its own large dedicated car park.",
+          "Riverside parking is often free of charge."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ely Railway Station",
+            "hu": "Ely vasútállomás",
+            "ro": "Gara Ely",
+            "en": "Ely Railway Station"
+          },
+          "coords": [
+            0.267,
+            52.391
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Wichtiger Knotenpunkt aus London und Cambridge.",
+            "hu": "Fontos csomópont London és Cambridge felől.",
+            "ro": "Nod feroviar important dinspre Londra și Cambridge.",
+            "en": "Major hub with links from London and Cambridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Ely Riverside (Cluster A)",
+            "hu": "Ely folyópart (A klaszter)",
+            "ro": "Malul râului Ely (Cluster A)",
+            "en": "Ely Riverside (Cluster A)"
+          },
+          "coords": [
+            0.268,
+            52.395
+          ],
+          "category": "recreational",
+          "arrive_at": "09:35",
+          "hop_mode": "walk",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "A vasútállomástól könnyen elérhető gyalog.",
+            "ro": "Accesibil ușor pe jos de la gară.",
+            "en": "Easy walk from the railway station."
+          }
+        },
+        {
+          "name": {
+            "de": "Ely-Kathedrale (Cluster B)",
+            "hu": "Ely-i székesegyház (B klaszter)",
+            "ro": "Catedrala din Ely (Cluster B)",
+            "en": "Ely Cathedral (Cluster B)"
+          },
+          "coords": [
+            0.2635,
+            52.3975
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:40",
+          "hop_mode": "transit",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Nutzen Sie den lokalen Bus zum Marktplatz.",
+            "hu": "Használja a helyi buszt a piactérig.",
+            "ro": "Luați autobuzul local până la piața centrală.",
+            "en": "Take the local bus to the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Oliver Cromwells Haus (Cluster B)",
+            "hu": "Oliver Cromwell háza (B klaszter)",
+            "ro": "Casa lui Oliver Cromwell (Cluster B)",
+            "en": "Oliver Cromwell's House (Cluster B)"
+          },
+          "coords": [
+            0.261,
+            52.3988
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "hop_mode": "walk",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Direkt neben der St. Mary's Church.",
+            "hu": "Közvetlenül a Szent Mária-templom mellett.",
+            "ro": "Chiar lângă Biserica Sfânta Maria.",
+            "en": "Right next to St Mary's Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Ely Market Square (Cluster B)",
+            "hu": "Ely piactér (B klaszter)",
+            "ro": "Piața Ely (Cluster B)",
+            "en": "Ely Market Square (Cluster B)"
+          },
+          "coords": [
+            0.2625,
+            52.4
+          ],
+          "category": "market",
+          "arrive_at": "13:35",
+          "hop_mode": "walk",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Probieren Sie lokale Spezialitäten.",
+            "hu": "Kóstolja meg a helyi termékeket.",
+            "ro": "Gustați specialitățile locale.",
+            "en": "Sample local specialities here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Zug erreichbar, bietet Ely einen unkomplizierten Tag. Beginnen Sie am Flussufer direkt nach der Ankunft (Cluster A). Ein kurzer Bus-Hop bringt Sie ins Zentrum zur Kathedrale und zu Cromwell's Haus (Cluster B). Genießen Sie das Markttreiben und die historische Altstadt, bevor Sie entspannt zum Bahnhof zurückkehren.",
+        "hu": "Vonattal érkezve Ely egyszerű és tartalmas napot kínál. Kezdjen a folyóparton közvetlenül az érkezés után (A klaszter). Egy rövid buszos átszállással a központba érhet a katedrálishoz és Cromwell házához (B klaszter). Élvezze a piac forgatagát, mielőtt visszatérne a vasútállomáshoz.",
+        "ro": "Accesibil cu trenul, Ely oferă o zi lipsită de complicații. Începeți pe malul râului imediat după sosire (Cluster A). O scurtă călătorie cu autobuzul vă duce în centru la catedrală și casa lui Cromwell (Cluster B). Bucurați-vă de piață înainte de a reveni la gară.",
+        "en": "Easily reached by train, Ely offers a straightforward day trip. Start at the riverside right after arrival (Cluster A). A short bus hop takes you to the centre for the cathedral and Cromwell's House (Cluster B). Enjoy the market buzz and historic old town before heading back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The High Tea House",
+            "tip": "Hausgemachte Scones und Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The High Tea House",
+            "tip": "Házias pogácsák és sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The High Tea House",
+            "tip": "Scones și prăjituri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The High Tea House",
+            "tip": "Homemade scones and cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "River Ouse Banks",
+            "tip": "Beobachten Sie die Narrowboats.",
+            "emoji": "🚤"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ouse-folyó partja",
+            "tip": "Figyelje meg a lakóhajókat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Ouse",
+            "tip": "Urmăriți bărcile înguste.",
+            "emoji": "🚤"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Ouse Banks",
+            "tip": "Watch the narrowboats gliding by.",
+            "emoji": "🚤"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ely Antiques Centre",
+            "tip": "Stöbern in Kuriositäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ely Antiques Centre",
+            "tip": "Böngésszen a különlegességek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ely Antiques Centre",
+            "tip": "Răsfoiți printre curiozități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ely Antiques Centre",
+            "tip": "Browse through curios and collectibles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Züge aus Cambridge brauchen nur 15 Minuten.",
+          "Vom Bahnhof zum Fluss sind es nur 500 Meter.",
+          "Die Busse im Zentrum verkehren regelmäßig.",
+          "Kaufen Sie regionale Produkte auf dem Markt."
+        ],
+        "hu": [
+          "A vonatok Cambridge-ből mindössze 15 perc alatt ideérnek.",
+          "Az állomástól a folyópart csak 500 méter.",
+          "A központi buszok rendszeresen járnak.",
+          "Vásároljon helyi termékeket a piacon."
+        ],
+        "ro": [
+          "Trenurile din Cambridge fac doar 15 minute.",
+          "De la gară la râu sunt doar 500 de metri.",
+          "Autobuzele din centru circulă regulat.",
+          "Cumpărați produse regionale din piață."
+        ],
+        "en": [
+          "Trains from Cambridge take only 15 minutes.",
+          "The station is just 500 metres from the riverside.",
+          "Central buses run frequently.",
+          "Buy regional products at the market."
+        ]
+      }
+    }
+  }
+}

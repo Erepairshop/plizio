@@ -1,0 +1,1189 @@
+{
+  "city_id": "zagreb",
+  "anchor": {
+    "name": "Ban Jelačić Square",
+    "coords": [
+      15.9819,
+      45.815
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ban-Jelačić-Platz",
+            "hu": "Jelačić bán tér",
+            "ro": "Piața Ban Jelačić",
+            "en": "Ban Jelačić Square"
+          },
+          "coords": [
+            15.9819,
+            45.815
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treffpunkt unter der Uhr.",
+            "hu": "Találkozó az óra alatt.",
+            "ro": "Loc de întâlnire sub ceas.",
+            "en": "Meeting point under the clock."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Zagreb",
+            "hu": "Zágrábi katedrális",
+            "ro": "Catedrala din Zagreb",
+            "en": "Zagreb Cathedral"
+          },
+          "coords": [
+            15.9836,
+            45.8144
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotischen Türme.",
+            "hu": "Csodálja meg a neogótikus tornyokat.",
+            "ro": "Admirați turnurile neogotice.",
+            "en": "Admire the neo-Gothic spires."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolac-Markt",
+            "hu": "Dolac piac",
+            "ro": "Piața Dolac",
+            "en": "Dolac Market"
+          },
+          "coords": [
+            15.9772,
+            45.8139
+          ],
+          "category": "market",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kaufen Sie frisches Obst bei den 'Kumice'.",
+            "hu": "Vegyen friss gyümölcsöt a kofáktól.",
+            "ro": "Cumpărați fructe proaspete de la 'Kumice'.",
+            "en": "Buy fresh fruit from the 'Kumice'."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der zerbrochenen Beziehungen",
+            "hu": "Megtört Szívek Múzeuma",
+            "ro": "Muzeul Relațiilor Destrămate",
+            "en": "Museum of Broken Relationships"
+          },
+          "coords": [
+            15.9733,
+            45.8153
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einzigartige emotionale Exponate.",
+            "hu": "Egyedülálló érzelmi kiállítás.",
+            "ro": "Expoziții emoționale unice.",
+            "en": "Unique emotional exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kroatisches Nationaltheater",
+            "hu": "Horvát Nemzeti Színház",
+            "ro": "Teatrul Național Croat",
+            "en": "Croatian National Theater"
+          },
+          "coords": [
+            15.97,
+            45.8094
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prachtbau der k.u.k. Architektur.",
+            "hu": "A Monarchia építészetének remekműve.",
+            "ro": "Capodoperă a arhitecturii austro-ungare.",
+            "en": "Masterpiece of Austro-Hungarian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            15.9719,
+            45.8047
+          ],
+          "category": "garden",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Oase der Ruhe im Stadtzentrum.",
+            "hu": "A nyugalom oázisa a központban.",
+            "ro": "Oază de liniște în centrul orașului.",
+            "en": "Oasis of peace in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Tkalčićeva",
+            "hu": "Vacsora a Tkalčićeva utcában",
+            "ro": "Cină pe strada Tkalčićeva",
+            "en": "Dinner at Tkalčićeva Street"
+          },
+          "coords": [
+            15.976,
+            45.8155
+          ],
+          "category": "gastro",
+          "arrive_at": "17:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Štruklji.",
+            "hu": "Kóstolja meg a štrukljit.",
+            "ro": "Încercați Štruklji.",
+            "en": "Try some Štruklji."
+          }
+        },
+        {
+          "name": {
+            "de": "Grič-Tunnel",
+            "hu": "Grič-alagút",
+            "ro": "Tunelul Grič",
+            "en": "Grič Tunnel"
+          },
+          "coords": [
+            15.972,
+            45.813
+          ],
+          "category": "historical",
+          "arrive_at": "18:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Abkürzung unter der Oberstadt.",
+            "hu": "Levágó út a Felsőváros alatt.",
+            "ro": "Scurtătură pe sub orașul vechi.",
+            "en": "Shortcut under the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Zagreb am pulsierenden Ban-Jelačić-Platz. Nach einem Besuch der majestätischen Kathedrale tauchen Sie ein in die Farben und Düfte des Dolac-Marktes. Der Vormittag endet mit einer emotionalen Reise durch das Museum der zerbrochenen Beziehungen in der historischen Oberstadt.\nDer Nachmittag steht ganz im Zeichen der Pracht der Unterstadt. Bewundern Sie das leuchtend gelbe Nationaltheater und genießen Sie die botanische Vielfalt im grünen Herzen der Stadt. Ein Spaziergang durch die Tkalčićeva-Straße bietet die perfekte Gelegenheit für ein authentisches Abendessen, bevor Sie den Tag mit einem geheimnisvollen Gang durch den Grič-Tunnel abschließen.",
+        "hu": "Kezdje a napot Zágráb szívében, a nyüzsgő Jelačić bán téren. A fenséges katedrális megtekintése után merüljön el a Dolac piac színeiben és illataiban. A délelőtt a Felsővárosban ér véget, egy érzelmi utazással a Megtört Szívek Múzeumában.\nA délután az Alsóváros pompájáról szól. Csodálja meg a sárga Nemzeti Színházat, és élvezze a botanikai változatosságot a város zöld szívében. A Tkalčićeva utcai séta tökéletes alkalmat kínál egy autentikus vacsorára, mielőtt a napot a rejtélyes Grič-alagútban tett sétával zárná.",
+        "ro": "Începeți ziua în inima Zagrebului, în vibranta Piață Ban Jelačić. După vizitarea catedralei maiestuoase, cufundați-vă în culorile și aromele pieței Dolac. Dimineața se încheie cu o călătorie emoționantă prin Muzeul Relațiilor Destrămate din Orașul de Sus.\nDupă-amiaza este dedicată splendorii Orașului de Jos. Admirați clădirea galbenă a Teatrului Național și bucurați-vă de diversitatea botanică în inima verde a orașului. O plimbare pe strada Tkalčićeva oferă ocazia perfectă pentru o cină autentică, înainte de a încheia ziua cu o trecere misterioasă prin tunelul Grič.",
+        "en": "Start your day in the heart of Zagreb at the bustling Ban Jelačić Square. After visiting the majestic Cathedral, immerse yourself in the colors and scents of the Dolac Market. The morning ends with an emotional journey through the Museum of Broken Relationships in the historic Upper Town.\nThe afternoon is all about the grandeur of the Lower Town. Admire the vibrant yellow National Theater and enjoy the botanical variety in the city's green heart. A stroll along Tkalčićeva Street offers the perfect opportunity for an authentic dinner before concluding the day with a mysterious walk through the Grič Tunnel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Struk",
+            "tip": "Spezialisiert auf traditionelle Štruklji."
+          },
+          {
+            "name": "Vinodol",
+            "tip": "Klassische kroatische Küche im Innenhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Struk",
+            "tip": "Hagyományos štruklji specialisták."
+          },
+          {
+            "name": "Vinodol",
+            "tip": "Klasszikus horvát konyha belső udvarral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Struk",
+            "tip": "Specializați în tradiționalul štruklji."
+          },
+          {
+            "name": "Vinodol",
+            "tip": "Bucătărie clasică croată cu curte interioară."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Struk",
+            "tip": "Specializing in traditional Štruklji."
+          },
+          {
+            "name": "Vinodol",
+            "tip": "Classic Croatian cuisine with an inner courtyard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strossmayer Promenade",
+            "tip": "Schattiger Weg mit Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Maksimir Park",
+            "tip": "Weitläufige Seenlandschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strossmayer sétány",
+            "tip": "Árnyas út panorámával.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Maksimir park",
+            "tip": "Kiterjedt tórendszer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Strossmayer",
+            "tip": "Cale umbrită cu panoramă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Maksimir",
+            "tip": "Peisaj vast cu lacuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Strossmayer Promenade",
+            "tip": "Shaded path with panoramic views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Maksimir Park",
+            "tip": "Sprawling lake landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ilica Straße",
+            "tip": "Haupt-Einkaufsmeile der Stadt."
+          },
+          {
+            "name": "Dolac",
+            "tip": "Souvenirs und lokaler Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ilica utca",
+            "tip": "A város fő bevásárlóutcája."
+          },
+          {
+            "name": "Dolac",
+            "tip": "Szuvenírek és helyi méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Ilica",
+            "tip": "Principala arteră comercială.",
+            "en": "Main shopping street."
+          },
+          {
+            "name": "Dolac",
+            "tip": "Suveniruri și miere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ilica Street",
+            "tip": "The city's main shopping street."
+          },
+          {
+            "name": "Dolac",
+            "tip": "Souvenirs and local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Standseilbahn für den Aufstieg zur Oberstadt.",
+          "Zagreb hat eine starke Kaffeekultur, nehmen Sie sich Zeit dafür."
+        ],
+        "hu": [
+          "Használja a siklót a Felsővárosba való feljutáshoz.",
+          "Zágrábnak erős kávékultúrája van, szánjon rá időt."
+        ],
+        "ro": [
+          "Folosiți funicularul pentru a urca în Orașul de Sus.",
+          "Zagreb are o cultură a cafelei puternică, alocați-vă timp."
+        ],
+        "en": [
+          "Use the funicular to ascend to the Upper Town.",
+          "Zagreb has a strong coffee culture, take your time for it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "König-Tomislav-Platz",
+            "hu": "Tomislav király tér",
+            "ro": "Piața Regele Tomislav",
+            "en": "King Tomislav Square"
+          },
+          "coords": [
+            15.979,
+            45.805
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt am Hauptbahnhof.",
+            "hu": "Kiindulópont a főpályaudvarnál.",
+            "ro": "Punct de plecare la gară.",
+            "en": "Starting point by the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Maksimir Park",
+            "hu": "Maksimir park",
+            "ro": "Parcul Maksimir",
+            "en": "Maksimir Park"
+          },
+          "coords": [
+            16.018,
+            45.823
+          ],
+          "category": "park",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ideal für Radtouren durch den Wald.",
+            "hu": "Ideális erdei kerékpározáshoz.",
+            "ro": "Ideal pentru ciclism prin pădure.",
+            "en": "Ideal for cycling through the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Zagreber Zoo",
+            "hu": "Zágrábi Állatkert",
+            "ro": "Grădina Zoologică Zagreb",
+            "en": "Zagreb Zoo"
+          },
+          "coords": [
+            16.021,
+            45.822
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mitten im Maksimir Park gelegen.",
+            "hu": "A Maksimir park közepén található.",
+            "ro": "Situat în inima parcului Maksimir.",
+            "en": "Located in the heart of Maksimir Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Jarun See",
+            "hu": "Jarun-tó",
+            "ro": "Lacul Jarun",
+            "en": "Jarun Lake"
+          },
+          "coords": [
+            15.918,
+            45.778
+          ],
+          "category": "lake",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Rundweg um den See (6 km).",
+            "hu": "Tó körüli út (6 km).",
+            "ro": "Traseu în jurul lacului (6 km).",
+            "en": "Trail around the lake (6 km)."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für zeitgenössische Kunst",
+            "hu": "Kortárs Művészeti Múzeum",
+            "ro": "Muzeul de Artă Contemporană",
+            "en": "Museum of Contemporary Art"
+          },
+          "coords": [
+            15.981,
+            45.777
+          ],
+          "category": "museum",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Moderne Architektur in Neu-Zagreb.",
+            "hu": "Modern építészet Új-Zágrábban.",
+            "ro": "Arhitectură modernă în Noul Zagreb.",
+            "en": "Modern architecture in New Zagreb."
+          }
+        },
+        {
+          "name": {
+            "de": "Bundek Park",
+            "hu": "Bundek park",
+            "ro": "Parcul Bundek",
+            "en": "Bundek Park"
+          },
+          "coords": [
+            15.985,
+            45.783
+          ],
+          "category": "park",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schöner Ausklang an der Save.",
+            "hu": "Szép zárás a Száva partján.",
+            "ro": "Final frumos pe malul Savei.",
+            "en": "Nice finish by the Sava river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Zagreb aktiv mit dem Fahrrad. Starten Sie am prachtvollen Tomislav-Platz und radeln Sie zum historischen Maksimir-Park. Nach einem Besuch im Zoo führt Sie die Tour quer durch die Stadt zum Jarun-See, dem 'Meer von Zagreb'. Den Nachmittag verbringen Sie in Neu-Zagreb, wo das Museum für zeitgenössische Kunst einen spannenden Kontrast zur Altstadt bildet, bevor Sie im Bundek-Park entspannen.",
+        "hu": "Fedezze fel Zágrábot aktívan, kerékpárral. Induljon a pompás Tomislav térről, és tekerjen a történelmi Maksimir parkba. Az állatkerti látogatás után az út átszeli a várost a Jarun-tóhoz, 'Zágráb tengeréhez'. A délutánt Új-Zágrábban tölti, ahol a Kortárs Művészeti Múzeum izgalmas kontrasztot alkot az óvárossal, mielőtt a Bundek parkban pihenne.",
+        "ro": "Explorați Zagrebul activ, cu bicicleta. Porniți din Piața Tomislav și pedalați către parcul istoric Maksimir. După o vizită la zoo, turul vă poartă prin oraș către lacul Jarun, 'marea Zagrebului'. După-amiaza o veți petrece în Noul Zagreb, unde Muzeul de Artă Contemporană oferă un contrast fascinant cu orașul vechi, înainte de a vă relaxa în parcul Bundek.",
+        "en": "Explore Zagreb actively by bike. Start at the magnificent Tomislav Square and cycle to the historic Maksimir Park. After a visit to the zoo, the tour takes you across the city to Jarun Lake, the 'Sea of Zagreb.' Spend the afternoon in New Zagreb, where the Museum of Contemporary Art provides an exciting contrast to the old town, before relaxing in Bundek Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lido Jarun",
+            "tip": "Essen mit Seeblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lido Jarun",
+            "tip": "Étkezés tóparti kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lido Jarun",
+            "tip": "Masă cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lido Jarun",
+            "tip": "Dining with a lake view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bundek See",
+            "tip": "Ruhigerer See als Jarun.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bundek-tó",
+            "tip": "Csendesebb tó, mint a Jarun.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Bundek",
+            "tip": "Lac mai liniștit decât Jarun.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bundek Lake",
+            "tip": "Quieter lake than Jarun.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenue Mall",
+            "tip": "Modernes Einkaufszentrum im Süden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenue Mall",
+            "tip": "Modern bevásárlóközpont délen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenue Mall",
+            "tip": "Centru comercial modern în sud."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenue Mall",
+            "tip": "Modern shopping mall in the south."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Radwege sind auf dem Gehweg markiert.",
+          "Jarun ist am Wochenende sehr belebt."
+        ],
+        "hu": [
+          "Sok kerékpárút a járdán van kijelölve.",
+          "A Jarun hétvégén nagyon zsúfolt."
+        ],
+        "ro": [
+          "Multe piste de biciclete sunt marcate pe trotuar.",
+          "Jarun este foarte animat în weekend."
+        ],
+        "en": [
+          "Many bike paths are marked on the sidewalk.",
+          "Jarun is very busy on weekends."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 45.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirogoj Friedhof",
+            "hu": "Mirogoj temető",
+            "ro": "Cimitirul Mirogoj",
+            "en": "Mirogoj Cemetery"
+          },
+          "coords": [
+            15.984,
+            45.836
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wunderschöne Arkaden von Bollé.",
+            "hu": "Gyönyörű Bollé-féle árkádok.",
+            "ro": "Arcade superbe de Bollé.",
+            "en": "Beautiful arcades by Bollé."
+          }
+        },
+        {
+          "name": {
+            "de": "Medvednica Naturpark",
+            "hu": "Medvednica Natúrpark",
+            "ro": "Parcul Natural Medvednica",
+            "en": "Medvednica Nature Park"
+          },
+          "coords": [
+            15.94,
+            45.9
+          ],
+          "category": "forest",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Aussichtspunkt Sljeme.",
+            "hu": "Sljeme kilátópont.",
+            "ro": "Punct de belvedere Sljeme.",
+            "en": "Sljeme viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Medvedgrad",
+            "hu": "Medvevár",
+            "ro": "Cetatea Medvedgrad",
+            "en": "Medvedgrad Fortress"
+          },
+          "coords": [
+            15.938,
+            45.867
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den 'Altar des Vaterlandes'.",
+            "hu": "Látogassa meg a Haza Oltárát.",
+            "ro": "Vizitați 'Altarul Patriei'.",
+            "en": "Visit the 'Altar of the Homeland'."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Šestine",
+            "hu": "Ebéd Šestine-ben",
+            "ro": "Prânz în Šestine",
+            "en": "Lunch in Šestine"
+          },
+          "coords": [
+            15.952,
+            45.845
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Probieren Sie Ente mit Mlinci.",
+            "hu": "Kóstolja meg a kacsát mlinci-vel.",
+            "ro": "Încercați rața cu mlinci.",
+            "en": "Try duck with mlinci."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Samobor (Ausflug)",
+            "hu": "Szamobor vára (kirándulás)",
+            "ro": "Castelul Samobor (excursie)",
+            "en": "Samobor Castle (excursion)"
+          },
+          "coords": [
+            15.706,
+            45.801
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Romantische Burgruine.",
+            "hu": "Romantikus várrom.",
+            "ro": "Ruine romantice de castel.",
+            "en": "Romantic castle ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Samobor Altstadt",
+            "hu": "Szamobor óváros",
+            "ro": "Orașul vechi Samobor",
+            "en": "Samobor Old Town"
+          },
+          "coords": [
+            15.712,
+            45.802
+          ],
+          "category": "square",
+          "arrive_at": "16:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Essen Sie eine Cremeschnitte.",
+            "hu": "Egyen egy krémest (kremšnita).",
+            "ro": "Mâncați o Cremšnita.",
+            "en": "Eat a Kremšnita cream cake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Zagreb",
+            "hu": "Visszautazás Zágrábba",
+            "ro": "Întoarcere la Zagreb",
+            "en": "Return to Zagreb"
+          },
+          "coords": [
+            15.9819,
+            45.815
+          ],
+          "category": "historical",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Abschluss am Jelačić Platz.",
+            "hu": "Zárás a Jelačić téren.",
+            "ro": "Final în Piața Jelačić.",
+            "en": "Finish at Jelačić Square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Tag führt Sie aus dem Stadtzentrum hinaus zu den schönsten Zielen der Umgebung. Beginnen Sie mit der beeindruckenden Architektur des Mirogoj-Friedhofs, bevor Sie in den Naturpark Medvednica hinauffahren. Von der Burg Medvedgrad genießen Sie den besten Blick über Zagreb. Der Nachmittag gehört der charmanten Stadt Samobor, berühmt für ihre Burgruinen und die legendären Cremeschnitten, bevor Sie zum Abendessen zurückkehren.",
+        "hu": "Ez a nap kivezeti Önt a belvárosból a környék legszebb célpontjaihoz. Kezdje a Mirogoj temető lenyűgöző építészetével, mielőtt felhajtana a Medvednica Natúrparkba. A Medvevárból (Medvedgrad) nyílik a legjobb kilátás Zágrábra. A délután a bájos Szamobor városáé, amely várromjairól és a legendás krémesről híres, mielőtt visszatérne vacsorára.",
+        "ro": "Această zi vă scoate din centrul orașului către cele mai frumoase destinații din jur. Începeți cu arhitectura impresionantă a cimitirului Mirogoj, înainte de a urca în Parcul Natural Medvednica. De la cetatea Medvedgrad vă bucurați de cea mai bună vedere asupra Zagrebului. După-amiaza aparține fermecătorului oraș Samobor, faimos pentru ruinele castelului și legendarele prăjituri cu cremă, înainte de a reveni la cină.",
+        "en": "This day takes you out of the city center to the most beautiful nearby destinations. Start with the impressive architecture of Mirogoj Cemetery before driving up to the Medvednica Nature Park. From Medvedgrad Fortress, you enjoy the best view over Zagreb. The afternoon is spent in the charming town of Samobor, famous for its castle ruins and legendary cream cakes, before returning for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gablerev",
+            "tip": "Beste Cremeschnitten in Samobor."
+          },
+          {
+            "name": "Šestinski Lagvić",
+            "tip": "Traditionelle Gerichte am Berghang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gablerev",
+            "tip": "A legjobb krémes Szamoborban."
+          },
+          {
+            "name": "Šestinski Lagvić",
+            "tip": "Hagyományos ételek a hegyoldalban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gablerev",
+            "tip": "Cele mai bune Cremšnita în Samobor."
+          },
+          {
+            "name": "Šestinski Lagvić",
+            "tip": "Preparate tradiționale pe versantul muntelui."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gablerev",
+            "tip": "Best cream cakes in Samobor."
+          },
+          {
+            "name": "Šestinski Lagvić",
+            "tip": "Traditional dishes on the mountainside."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sljeme Gipfel",
+            "tip": "Frische Waldluft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sljeme csúcs",
+            "tip": "Friss erdei levegő.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Sljeme",
+            "tip": "Aer proaspăt de pădure.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sljeme Peak",
+            "tip": "Fresh forest air.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Samobor Markt",
+            "tip": "Lokaler Bermet (Wermutwein)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szamobori piac",
+            "tip": "Helyi Bermet (ürmösbor)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Samobor",
+            "tip": "Bermet local (vin pelin)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Samobor Market",
+            "tip": "Local Bermet (aromatized wine)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Sljeme ist kurvenreich.",
+          "In Samobor ist das Parken am Hauptplatz zeitlich begrenzt."
+        ],
+        "hu": [
+          "A Sljeme-re vezető út kanyargós.",
+          "Szamobor főterén a parkolás időben korlátozott."
+        ],
+        "ro": [
+          "Drumul spre Sljeme este sinuos.",
+          "În piața centrală din Samobor parcarea este limitată temporal."
+        ],
+        "en": [
+          "The road to Sljeme is winding.",
+          "Parking at the main square in Samobor is time-limited."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zrinjevac Park",
+            "hu": "Zrinjevac park",
+            "ro": "Parcul Zrinjevac",
+            "en": "Zrinjevac Park"
+          },
+          "coords": [
+            15.978,
+            45.811
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schönster Park des Lenuci-Hufeisens.",
+            "hu": "A Lenuci-patkó legszebb parkja.",
+            "ro": "Cel mai frumos parc din potcoava Lenuci.",
+            "en": "Most beautiful park of the Lenuci Horseshoe."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            15.9775,
+            45.8115
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Berühmte ägyptische Sammlung.",
+            "hu": "Híres egyiptomi gyűjtemény.",
+            "ro": "Celebră colecție egipteană.",
+            "en": "Famous Egyptian collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolac (Tram-Hop)",
+            "hu": "Dolac (villamos)",
+            "ro": "Dolac (tramvai)",
+            "en": "Dolac (Tram-Hop)"
+          },
+          "coords": [
+            15.9772,
+            45.8139
+          ],
+          "category": "market",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tram Linie 6 oder 11.",
+            "hu": "6-os vagy 11-es villamos.",
+            "ro": "Tramvaiul 6 sau 11.",
+            "en": "Tram line 6 or 11."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberstadt / Markuskirche",
+            "hu": "Felsőváros / Szent Márk-templom",
+            "ro": "Orașul de Sus / Biserica Sf. Marcu",
+            "en": "Upper Town / St. Mark's Church"
+          },
+          "coords": [
+            15.9733,
+            45.816
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ikonisches Wappendach.",
+            "hu": "Ikonikus címeres tető.",
+            "ro": "Acoperiș iconic cu blazoane.",
+            "en": "Iconic tiled coat of arms roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Skalinska",
+            "hu": "Ebéd a Skalinska utcában",
+            "ro": "Prânz pe strada Skalinska",
+            "en": "Lunch at Skalinska Street"
+          },
+          "coords": [
+            15.976,
+            45.8145
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Günstige lokale Küche.",
+            "hu": "Kedvező árú helyi konyha.",
+            "ro": "Bucătărie locală accesibilă.",
+            "en": "Affordable local cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Maksimir Park (Tram-Hop)",
+            "hu": "Maksimir park (villamos)",
+            "ro": "Parcul Maksimir (tramvai)",
+            "en": "Maksimir Park (Tram-Hop)"
+          },
+          "coords": [
+            16.018,
+            45.823
+          ],
+          "category": "park",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Tram 11 oder 12 Richtung Osten.",
+            "hu": "11-es vagy 12-es villamos kelet felé.",
+            "ro": "Tramvaiul 11 sau 12 spre est.",
+            "en": "Tram 11 or 12 heading east."
+          }
+        },
+        {
+          "name": {
+            "de": "Dubrava (Ausklang)",
+            "hu": "Dubrava (zárás)",
+            "ro": "Dubrava (final)",
+            "en": "Dubrava (Final)"
+          },
+          "coords": [
+            16.045,
+            45.827
+          ],
+          "category": "shopping",
+          "arrive_at": "17:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Authentisches Viertel-Feeling.",
+            "hu": "Autentikus negyed hangulat.",
+            "ro": "Atmosferă autentică de cartier.",
+            "en": "Authentic neighborhood vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Zagreb lässt sich hervorragend mit der Tram entdecken. Starten Sie im eleganten Zrinjevac-Park und besuchen Sie das Archäologische Museum. Die Tram bringt Sie schnell zum Dolac-Markt und weiter zur Oberstadt mit der berühmten Markuskirche. Nach einem gemütlichen Mittagessen in den Gassen der Altstadt fahren Sie mit der Linie 11 zum weitläufigen Maksimir-Park, bevor Sie den Tag in Dubrava ausklingen lassen.",
+        "hu": "Zágráb kiválóan felfedezhető villamossal. Kezdjen az elegáns Zrinjevac parkban, és látogassa meg a Régészeti Múzeumot. A villamos gyorsan elviszi a Dolac piacra, majd tovább a Felsővárosba, a híres Szent Márk-templomhoz. Egy hangulatos óvárosi ebéd után a 11-es villamossal utazzon a tágas Maksimir parkba, mielőtt a napot Dubravában zárná.",
+        "ro": "Zagrebul poate fi descoperit excelent cu tramvaiul. Începeți în elegantul parc Zrinjevac și vizitați Muzeul de Arheologie. Tramvaiul vă duce rapid la piața Dolac și mai departe în Orașul de Sus, la celebra Biserică Sf. Marcu. După un prânz plăcut pe străduțele vechi, luați linia 11 către vastul parc Maksimir, înainte de a încheia ziua în cartierul Dubrava.",
+        "en": "Zagreb is easy to discover by tram. Start in the elegant Zrinjevac Park and visit the Archaeological Museum. The tram quickly takes you to the Dolac Market and further to the Upper Town with the famous St. Mark's Church. After a cozy lunch in the old town's alleys, take line 11 to the sprawling Maksimir Park before ending the day in Dubrava."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nokturno",
+            "tip": "Beliebtes Restaurant in der Skalinska."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nokturno",
+            "tip": "Népszerű étterem a Skalinskán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nokturno",
+            "tip": "Restaurant popular pe Skalinska."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nokturno",
+            "tip": "Popular restaurant in Skalinska."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Sehr ruhig, in der Nähe der Tram.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Nagyon csendes, a villamos közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Foarte liniștită, lângă tramvai.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Very quiet, near the tram.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nama Ilica",
+            "tip": "Traditionelles Kaufhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nama Ilica",
+            "tip": "Hagyományos áruház."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nama Ilica",
+            "tip": "Magazin universal tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nama Ilica",
+            "tip": "Traditional department store."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket (Dnevna karta) für die Tram.",
+          "Die blauen Wagen fahren sehr häufig."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a villamosra.",
+          "A kék kocsik nagyon gyakran járnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru tramvai.",
+          "Vagoanele albastre circulă foarte des."
+        ],
+        "en": [
+          "Buy a day ticket for the tram.",
+          "The blue cars run very frequently."
+        ]
+      }
+    }
+  }
+}

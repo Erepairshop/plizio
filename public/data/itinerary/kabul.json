@@ -1,0 +1,394 @@
+{
+  "city_id": "kabul",
+  "anchor": {
+    "name": "Bagh-e Babur",
+    "coords": [
+      69.1583,
+      34.5028
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagh-e-Babur",
+            "hu": "Babur kertje",
+            "ro": "Grădina Babur",
+            "en": "Bagh-e-Babur"
+          },
+          "coords": [
+            69.1583,
+            34.5028
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab des ersten Mogulkaisers auf der obersten Terrasse.",
+            "hu": "Látogassa meg az első mogul uralkodó sírját a legfelső teraszon.",
+            "ro": "Vizitați mormântul primului împărat mogul de pe terasa superioară.",
+            "en": "Visit the tomb of the first Mughal Emperor on the uppermost terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Shah-Do Shamshira Moschee",
+            "hu": "Shah-Do Shamshira mecset",
+            "ro": "Moscheea Shah-Do Shamshira",
+            "en": "Shah-Do Shamshira Mosque"
+          },
+          "coords": [
+            69.172,
+            34.516
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ungewöhnliche barocke Fassade der 'Moschee der zwei Schwerter'.",
+            "hu": "Csodálja meg a 'Két Kard' mecset szokatlan barokk homlokzatát.",
+            "ro": "Admirați fațada barocă neobișnuită a 'Moscheii celor două săbii'.",
+            "en": "Admire the unusual baroque facade of the 'Mosque of the Two Swords'."
+          }
+        },
+        {
+          "name": {
+            "de": "Ka Faroshi Vogelmarkt",
+            "hu": "Ka Faroshi madárpiac",
+            "ro": "Piața de păsări Ka Faroshi",
+            "en": "Ka Faroshi Bird Market"
+          },
+          "coords": [
+            69.175,
+            34.518
+          ],
+          "category": "market",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Eintauchen in das alte Kabul mit hunderten singenden Vögeln.",
+            "hu": "Bepillantás a régi Kabulba több száz énekesmadár között.",
+            "ro": "O incursiune în vechiul Kabul printre sute de păsări cântătoare.",
+            "en": "An immersion into old Kabul with hundreds of singing birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelles Mittagessen",
+            "hu": "Hagyományos ebéd",
+            "ro": "Prânz tradițional",
+            "en": "Traditional Lunch"
+          },
+          "coords": [
+            69.178,
+            34.52
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Try Kabuli Pulao in a local restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Afghanisches Nationalmuseum",
+            "hu": "Afganisztáni Nemzeti Múzeum",
+            "ro": "Muzeul Național al Afganistanului",
+            "en": "National Museum of Afghanistan"
+          },
+          "coords": [
+            69.118,
+            34.468
+          ],
+          "category": "museum",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 95,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "en": "A bit far from the center, best reached by transport even in walk mode for long distances."
+          }
+        },
+        {
+          "name": {
+            "de": "Darul Aman Palast",
+            "hu": "Darul Aman palota",
+            "ro": "Palatul Darul Aman",
+            "en": "Darul Aman Palace"
+          },
+          "coords": [
+            69.119,
+            34.465
+          ],
+          "category": "historical",
+          "arrive_at": "17:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "View the iconic facade at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der Ruhe der Babur-Gärten, dem wohl schönsten Ort der Stadt. Spazieren Sie anschließend entlang des Kabul-Flusses zur prächtigen Shah-Do Shamshira Moschee und verlieren Sie sich im Ka Faroshi Vogelmarkt. Nachmittags führt der Weg zum Nationalmuseum, das die bewegte Geschichte des Landes bewahrt, und endet am beeindruckenden Darul Aman Palast.",
+        "hu": "Kezdje a napot a Babur-kertek nyugalmában, amely a város legszebb pontja. Sétáljon a Kabul-folyó mentén a pompás Shah-Do Shamshira mecsethez, majd vesszen el a Ka Faroshi madárpiac forgatagában. Délután látogasson el a Nemzeti Múzeumba, amely az ország viharos történelmét őrzi, a napot pedig a lenyűgöző Darul Aman palotánál zárja.",
+        "ro": "Începeți ziua în liniștea Grădinilor Babur, probabil cel mai frumos loc din oraș. Plimbați-vă de-a lungul râului Kabul către splendida Moschee Shah-Do Shamshira și pierdeți-vă în piața de păsări Ka Faroshi. După-amiaza, mergeți la Muzeul Național, care păstrează istoria zbuciumată a țării, și încheiați la impresionantul Palat Darul Aman.",
+        "en": "Begin your day in the tranquility of the Babur Gardens, arguably the city's most beautiful spot. Walk along the Kabul River to the magnificent Shah-Do Shamshira Mosque and lose yourself in the Ka Faroshi Bird Market. In the afternoon, head to the National Museum, which preserves the country's turbulent history, and conclude at the impressive Darul Aman Palace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kabuli Pulao",
+            "tip": "Nationalgericht mit Lamm, Karotten und Rosinen."
+          },
+          {
+            "name": "Mantoo",
+            "tip": "Gedämpfte Fleischteigtaschen mit Joghurtsoße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kabuli Pulao",
+            "tip": "Nemzeti étel báránnyal, sárgarépával és mazsolával."
+          },
+          {
+            "name": "Mantoo",
+            "tip": "Gőzölt hússal töltött tészta joghurtos szósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kabuli Pulao",
+            "tip": "Mâncare națională cu miel, morcovi și stafide."
+          },
+          {
+            "name": "Mantoo",
+            "tip": "Găluște cu carne gătite la abur cu sos de iaurt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kabuli Pulao",
+            "tip": "National dish with lamb, carrots, and raisins."
+          },
+          {
+            "name": "Mantoo",
+            "tip": "Steamed meat dumplings with yogurt sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Babur Gärten",
+            "tip": "Friedliche Terrassen mit Blick auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Babur-kertek",
+            "tip": "Békés teraszok kilátással a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Babur",
+            "tip": "Terase liniștite cu vedere spre oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Babur Gardens",
+            "tip": "Peaceful terraces overlooking the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chicken Street",
+            "tip": "Berühmt für Antiquitäten und Lapis Lazuli."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csirke utca (Chicken Street)",
+            "tip": "Híres régiségeiről és lazurit ékszereiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chicken Street",
+            "tip": "Faimoasă pentru antichități și lapis lazuli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chicken Street",
+            "tip": "Famous for antiques and lapis lazuli."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Respektieren Sie lokale Bräuche und kleiden Sie sich konservativ.",
+          "Fragen Sie immer um Erlaubnis, bevor Sie Menschen fotografieren.",
+          "Handeln auf den Märkten ist üblich."
+        ],
+        "hu": [
+          "Tisztelje a helyi szokásokat és öltözködjön konzervatívan.",
+          "Mindig kérjen engedélyt, mielőtt embereket fényképezne.",
+          "A piacokon az alkudozás megszokott dolog."
+        ],
+        "ro": [
+          "Respectați obiceiurile locale și îmbrăcați-vă conservator.",
+          "Cereți întotdeauna permisiunea înainte de a fotografia oameni.",
+          "Negocierea în piețe este un lucru obișnuit."
+        ],
+        "en": [
+          "Respect local customs and dress conservatively.",
+          "Always ask permission before photographing people.",
+          "Bargaining in markets is common practice."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 35.0,
+      "stop_count": 7,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    }
+  }
+}

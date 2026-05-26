@@ -1,0 +1,855 @@
+{
+  "city_id": "uk-emsworth-cities-v2",
+  "anchor": {
+    "name": "Emsworth",
+    "coords": [
+      50.849,
+      -0.938
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Emsworth Museum",
+          "coords": [
+            50.8492,
+            -0.9375
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Austernfischerei.",
+            "hu": "Ismerje meg az egykori osztrigahalászat titkait.",
+            "ro": "Descoperiți totul despre istoria pescuitului de stridii.",
+            "en": "Learn about the town's famous oyster industry."
+          }
+        },
+        {
+          "name": "St James' Church",
+          "coords": [
+            50.8495,
+            -0.9365
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viktorianische Kirche im Herzen des Ortes.",
+            "hu": "Viktoriánus templom a település szívében.",
+            "ro": "Biserică victoriană situată chiar în centrul vechi.",
+            "en": "Victorian church in the heart of the village."
+          }
+        },
+        {
+          "name": "The Mill Pond",
+          "coords": [
+            50.8485,
+            -0.9395
+          ],
+          "category": "natural",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang auf der Mauer rund um den Teich.",
+            "hu": "Séta a tavat körülölelő gáton.",
+            "ro": "O plimbare pe digul ce înconjoară bazinul.",
+            "en": "Walk along the wall surrounding the pond."
+          }
+        },
+        {
+          "name": "Emsworth Harbour",
+          "coords": [
+            50.8475,
+            -0.9415
+          ],
+          "category": "harbor",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Treiben der Segelboote.",
+            "hu": "Nézze meg a kikötői vitorlásforgalmat.",
+            "ro": "Admirați activitatea ambarcațiunilor din port.",
+            "en": "Watch the busy sailing activity in the harbour."
+          }
+        },
+        {
+          "name": "Slipper Mill Pond",
+          "coords": [
+            50.8465,
+            -0.9345
+          ],
+          "category": "natural",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ruhigerer zweiter Mühlenteich mit vielen Vögeln.",
+            "hu": "Csendesebb malomtó gazdag madárvilággal.",
+            "ro": "Al doilea bazin, mai liniștit, plin de păsări.",
+            "en": "Quiter second mill pond, great for birdwatching."
+          }
+        },
+        {
+          "name": "Emsworth Yacht Harbour",
+          "coords": [
+            50.8445,
+            -0.9325
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Moderner Yachthafen mit Café.",
+            "hu": "Modern jachtkikötő kávézóval.",
+            "ro": "Port de iahturi modern cu o cafenea primitoare.",
+            "en": "Modern marina area with a nice café."
+          }
+        },
+        {
+          "name": "The Crown Inn",
+          "coords": [
+            50.8488,
+            -0.937
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Traditioneller Abschluss im historischen Gasthaus.",
+            "hu": "Hagyományos zárás a történelmi fogadóban.",
+            "ro": "Încheiere tradițională într-un han istoric.",
+            "en": "A traditional finish at the historic local inn."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie den maritimen Charme von Emsworth zu Fuß. Nach dem Museumsbesuch spazieren Sie um den historischen Mill Pond und genießen den Blick auf den Hafen. Der Weg führt Sie weiter zum Slipper Mill Pond und zum Yachthafen, bevor Sie den Tag in einem der gemütlichen Pubs im Zentrum ausklingen lassen.",
+        "hu": "Fedezze fel Emsworth tengerparti báját gyalogosan. A múzeumlátogatás után sétáljon a történelmi Mill Pond körül, és élvezze a kikötő látványát. Az út továbbvezet a Slipper malomtóhoz és a jachtkikötőhöz, végül zárja a napot a központ egyik hangulatos pubjában.",
+        "ro": "Descoperiți farmecul maritim al orașului Emsworth la pas. După muzeu, plimbați-vă în jurul bazinului istoric Mill Pond și admirați portul. Traseul continuă spre Slipper Mill Pond și portul de iahturi, finalizându-se într-unul dintre pub-urile primitoare din centru.",
+        "en": "Experience Emsworth's nautical character on a relaxing stroll. Start at the local museum, then walk the perimeter of the historic Mill Pond with views over the harbour. Continue to the quieter Slipper Pond and the modern marina before finishing your day in a traditional village pub."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "36 on the Quay",
+            "tip": "Renommiertes Fischrestaurant direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "36 on the Quay",
+            "tip": "Elismert halétterem közvetlenül a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "36 on the Quay",
+            "tip": "Restaurant de pește renumit, pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "36 on the Quay",
+            "tip": "Highly acclaimed seafood restaurant by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Emsworth Mill Pond Wall",
+            "tip": "Frische Seeluft und Blick auf den Solent.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mill Pond gát",
+            "tip": "Friss tengeri levegő és kilátás az öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul Mill Pond",
+            "tip": "Aer curat de mare și vedere spre Solent.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mill Pond Wall",
+            "tip": "Enjoy the fresh sea air and Solent views.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Emsworth Village Shops",
+            "tip": "Unabhängige Boutiquen und Feinkostläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emsworthi boltok",
+            "tip": "Független butikok és finomságok boltjai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din centru",
+            "tip": "Boutique-uri independente și delicatese.",
+            "en": "Quaint independent boutiques and delis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Emsworth Village Shops",
+            "tip": "Quaint independent boutiques and delis."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Gezeiten – bei Ebbe zieht sich das Wasser weit zurück.",
+          "Die Wege sind flach und sehr einfach zu gehen."
+        ],
+        "hu": [
+          "Ellenőrizze az árapályt – apálykor a víz messze visszahúzódik.",
+          "Az utak síkok és nagyon könnyen járhatóak."
+        ],
+        "ro": [
+          "Verificați fluxul și refluxul – la reflux apa se retrage mult.",
+          "Traseele sunt plate și foarte ușor de parcurs."
+        ],
+        "en": [
+          "Check the tide times – the harbour looks very different at low tide.",
+          "The walking routes are flat and very accessible."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Emsworth Mill Pond",
+          "coords": [
+            50.8485,
+            -0.9395
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger Start am Wasser.",
+            "hu": "Nyugodt kezdés a vízparton.",
+            "ro": "Început liniștit pe malul apei.",
+            "en": "A peaceful start by the waterside."
+          }
+        },
+        {
+          "name": "Thorney Island Path",
+          "coords": [
+            50.8255,
+            -0.9155
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Küstentour mit Blick auf den Portsmouth-Hafen.",
+            "hu": "Part menti túra kilátással a Portsmouth-i öbölre.",
+            "ro": "Tur pe coastă cu vedere spre portul Portsmouth.",
+            "en": "Coastal ride with views across to Portsmouth."
+          }
+        },
+        {
+          "name": "Prinsted Marsh",
+          "coords": [
+            50.8415,
+            -0.9085
+          ],
+          "category": "natural",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Vogelschutzgebiet direkt am Radweg.",
+            "hu": "Madárvédelmi terület közvetlenül az út mellett.",
+            "ro": "Rezervație de păsări chiar lângă traseu.",
+            "en": "Bird sanctuary right along the cycle path."
+          }
+        },
+        {
+          "name": "Brook Meadow",
+          "coords": [
+            50.8525,
+            -0.9345
+          ],
+          "category": "natural",
+          "arrive_at": "13:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Grüner Rückweg entlang des Flusses Ems.",
+            "hu": "Zöld út visszafelé az Ems-folyó mentén.",
+            "ro": "Traseu verde înapoi pe malul râului Ems.",
+            "en": "Green return route along the River Ems."
+          }
+        },
+        {
+          "name": "Emsworth Yacht Harbour",
+          "coords": [
+            50.8445,
+            -0.9325
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Snack am Hafen.",
+            "hu": "Egyen egy falatot a kikötőben.",
+            "ro": "Savurați o gustare în portul de iahturi.",
+            "en": "Enjoy a snack and a drink by the boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den Chichester Harbour auf zwei Rädern. Fahren Sie von Emsworth hinaus auf die Thorney Island Halbinsel und genießen Sie die unberührte Küstennatur. Der Rückweg führt über Prinsted und das idyllische Brook Meadow zurück in das Zentrum von Emsworth.",
+        "hu": "Fedezze fel a Chichester-öblöt két keréken. Tekerjen ki Emsworth-ből a Thorney-szigeti félszigetre, és élvezze az érintetlen part menti természetet. Visszafelé érintse Prinstedet és a festői Brook Meadow-t, majd térjen vissza a városközpontba.",
+        "ro": "Descoperiți Chichester Harbour pe două roți. Pedalați din Emsworth spre peninsula Thorney Island și bucurați-vă de natura virgină de pe coastă. Revenirea se face prin Prinsted și idilicul Brook Meadow spre centrul orașului.",
+        "en": "Explore the scenic Chichester Harbour on two wheels. Cycle from Emsworth out to the Thorney Island peninsula for stunning coastal nature. Return via the marshes of Prinsted and the tranquil Brook Meadow for a complete loop of the local area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Deck Café",
+            "tip": "Modernes Café im Yachthafen mit toller Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Deck Café",
+            "tip": "Modern kávézó a jachtkikötőben, remek kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Deck Café",
+            "tip": "Cafenea modernă în portul de iahturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Deck Café",
+            "tip": "Modern marina café with excellent views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Thorney Island Perimeter",
+            "tip": "Sehr ruhiger Weg fernab jeglichen Verkehrs.",
+            "emoji": "🌾"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thorney-szigeti körút",
+            "tip": "Nagyon csendes út távol minden forgalomtól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perimetrul Thorney Island",
+            "tip": "Traseu liniștit departe de trafic.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thorney Island Path",
+            "tip": "Peaceful coastal track away from all traffic.",
+            "emoji": "🌾"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Emsworth Farmers Market",
+            "tip": "Bester Ort für lokale Spezialitäten (samstags)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emsworthi Termelői Piac",
+            "tip": "Helyi finomságok legjobb lelőhelye (szombaton)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața producătorilor",
+            "tip": "Produse locale proaspete (doar sâmbăta)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Emsworth Farmers Market",
+            "tip": "Top spot for local delicacies (Saturdays)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Teil der Strecke auf Thorney Island ist Militärgebiet, bleiben Sie auf dem Pfad.",
+          "Die Wege können bei Wind anstrengend sein."
+        ],
+        "hu": [
+          "Thorney Island egy része katonai terület, maradjon az ösvényen.",
+          "A szeles időben a tekerés fárasztóbb lehet."
+        ],
+        "ro": [
+          "O parte din Thorney Island este zonă militară, respectați poteca.",
+          "Vântul poate face tura destul de solicitantă."
+        ],
+        "en": [
+          "Parts of Thorney Island are MOD property, please stay on the path.",
+          "Be aware of coastal winds which can be strong here."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 34.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Emsworth Mill Pond",
+          "coords": [
+            50.8485,
+            -0.9395
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem South Street Parkplatz.",
+            "hu": "Parkoljon a South Street parkolóban.",
+            "ro": "Parcați în parcarea de pe South Street.",
+            "en": "Park at the South Street car park near the water."
+          }
+        },
+        {
+          "name": "Emsworth Museum",
+          "coords": [
+            50.8492,
+            -0.9375
+          ],
+          "category": "museum",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the central parking area."
+          }
+        },
+        {
+          "name": "Bosham Quay",
+          "coords": [
+            50.8285,
+            -0.8585
+          ],
+          "category": "harbor",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Achtung: Parkplatz wird bei Flut überschwemmt!",
+            "hu": "Vigyázat: a parkolót elönti a víz dagálykor!",
+            "ro": "Atenție: parcarea este inundată la flux!",
+            "en": "Warning: the quay car park floods at high tide!"
+          }
+        },
+        {
+          "name": "Chichester Cathedral",
+          "coords": [
+            50.8365,
+            -0.7815
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die modernen Glasfenster im Inneren.",
+            "hu": "Nézze meg a modern színes üvegablakokat.",
+            "ro": "Vizitați vitraliile moderne din interior.",
+            "en": "See the stunning modern stained glass windows."
+          }
+        },
+        {
+          "name": "Fishbourne Roman Palace",
+          "coords": [
+            50.8355,
+            -0.8095
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die größten römischen Mosaike in Großbritannien.",
+            "hu": "Nagy-Britannia legnagyobb római mozaikjai.",
+            "ro": "Cele mai mari mozaicuri romane din Marea Britanie.",
+            "en": "Home to the largest Roman mosaics in the UK."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet maritime Idylle mit römischer Geschichte. Starten Sie in Emsworth, besuchen Sie das malerische Dorf Bosham am Wasser und die prächtige Kathedrale von Chichester. Den Nachmittag verbringen Sie im beeindruckenden römischen Palast von Fishbourne, bevor Sie zurückkehren.",
+        "hu": "Ez az autós túra ötvözi a tengerparti idillt a római kori történelemmel. Induljon Emsworth-ből, látogassa meg a festői Bosham falut és a chichesteri katedrálist. Délután fedezze fel a fishbourne-i római palota mozaikjait, majd térjen vissza Emsworth-be.",
+        "ro": "Acest tur auto îmbină idila maritimă cu istoria romană. Începeți în Emsworth, vizitați satul pitoresc Bosham și catedrala din Chichester. După-amiaza este dedicată spectaculosului palat roman din Fishbourne.",
+        "en": "Combine coastal beauty with ancient history on this car tour. Explore Emsworth, visit the exceptionally pretty village of Bosham, and see Chichester's grand cathedral. Spend your afternoon at the Fishbourne Roman Palace, world-famous for its preserved mosaics."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Anchor Bosham",
+            "tip": "Gemütlicher Pub am Ufer von Bosham."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Anchor Bosham",
+            "tip": "Hangulatos pub Bosham partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Anchor Bosham",
+            "tip": "Pub primitor pe malul apei în Bosham."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Anchor Bosham",
+            "tip": "Cosy pub located right on the Bosham waterfront."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bosham Holy Trinity Church",
+            "tip": "Eine der ältesten Kirchen Englands am Wasser.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bosham Szent Háromság templom",
+            "tip": "Anglia egyik legrégebbi vízparti temploma.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sfânta Treime Bosham",
+            "tip": "Una dintre cele mai vechi biserici din Anglia.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bosham Church",
+            "tip": "A very peaceful, historic church by the quay.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chichester High Street",
+            "tip": "Hervorragende Einkaufsmöglichkeiten in historischer Kulisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chichester sétálóutca",
+            "tip": "Kiváló üzletek történelmi épületek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada principală Chichester",
+            "tip": "Cumpărături variate într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chichester High Street",
+            "tip": "Excellent shopping in a beautiful historic setting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Bosham unbedingt auf die Gezeiten achten – das Wasser steigt schnell.",
+          "Chichester ist nur 15 Minuten von Emsworth entfernt."
+        ],
+        "hu": [
+          "Boshamban figyeljen a dagályra – a víz nagyon gyorsan emelkedik.",
+          "Chichester csak 15 perc autóval Emsworth-től."
+        ],
+        "ro": [
+          "Atenție mare la maree în Bosham – apa urcă foarte rapid.",
+          "Chichester se află la doar 15 minute de Emsworth."
+        ],
+        "en": [
+          "Always check the tide at Bosham – the road can disappear quickly!",
+          "Chichester is a very easy 15-minute drive from Emsworth."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 28.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Emsworth Museum",
+          "coords": [
+            50.8492,
+            -0.9375
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Emsworth 10 Minuten zu Fuß.",
+            "hu": "Emsworth vasútállomástól 10 perc séta.",
+            "ro": "La 10 minute de mers pe jos de la gara Emsworth.",
+            "en": "A 10-minute walk from Emsworth rail station."
+          }
+        },
+        {
+          "name": "Portsmouth Historic Dockyard",
+          "coords": [
+            50.8015,
+            -1.1095
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.5,
+          "tip_5lang": {
+            "de": "Züge nach Portsmouth Harbour fahren alle 30 Minuten.",
+            "hu": "Vonatok Portsmouth kikötőbe 30 percenként járnak.",
+            "ro": "Trenurile spre Portsmouth circulă la fiecare 30 min.",
+            "en": "Frequent trains run to Portsmouth Harbour station."
+          }
+        },
+        {
+          "name": "Gunwharf Quays",
+          "coords": [
+            50.7955,
+            -1.1045
+          ],
+          "category": "shopping",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Outlet-Shopping direkt neben dem Hafen.",
+            "hu": "Outlet bevásárlóközpont közvetlenül a kikötő mellett.",
+            "ro": "Shopping tip outlet chiar lângă port.",
+            "en": "Designer outlet shopping right next to the docks."
+          }
+        },
+        {
+          "name": "Emsworth Harbour",
+          "coords": [
+            50.8475,
+            -0.9415
+          ],
+          "category": "harbor",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.5,
+          "tip_5lang": {
+            "de": "Abschluss am ruhigen Hafen nach dem Trubel.",
+            "hu": "Zárja a napot a csendes kikötőben a nyüzsgés után.",
+            "ro": "Încheiere în portul liniștit după agitația zilei.",
+            "en": "A peaceful harbour finish after the city bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Zug, um Emsworth mit der Marinestadt Portsmouth zu verbinden. Nach einem ruhigen Start in Emsworth bringt Sie die Bahn direkt zum Portsmouth Historic Dockyard (HMS Victory). Besuchen Sie die Gunwharf Quays zum Shopping, bevor Sie für einen entspannten Abend nach Emsworth zurückkehren.",
+        "hu": "Használja a vonatot, hogy összekösse Emsworth-öt Portsmouth tengerészeti városával. Kezdjen Emsworth-ben, majd vonatozzon át a Portsmouth Historic Dockyard-hoz (HMS Victory). Vásároljon a Gunwharf Quays-nél, majd térjen vissza Emsworth-be egy csendes estére.",
+        "ro": "Folosiți trenul pentru a conecta Emsworth cu orașul maritim Portsmouth. După un început liniștit, luați trenul direct spre Portsmouth Historic Dockyard (HMS Victory). Vizitați Gunwharf Quays pentru cumpărături înainte de a reveni în Emsworth.",
+        "en": "Emsworth has excellent rail links to Portsmouth. Start local, then hop on a train to Portsmouth Harbour to visit the world-famous Historic Dockyard. Enjoy some outlet shopping at Gunwharf Quays before returning to Emsworth for a peaceful sunset by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Loch Fyne Portsmouth",
+            "tip": "Frische Meeresfrüchte in den Gunwharf Quays."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loch Fyne Portsmouth",
+            "tip": "Friss tengeri ételek a Gunwharf Quays-nél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loch Fyne Portsmouth",
+            "tip": "Fructe de mare proaspete în Gunwharf Quays."
+          }
+        ],
+        "en": [
+          {
+            "name": "Loch Fyne Portsmouth",
+            "tip": "Fresh seafood in a modern waterside setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spinnaker Tower View",
+            "tip": "Blick über den Hafen von oben.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spinnaker Tower",
+            "tip": "Pazar kilátás az öbölre magasból.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Spinnaker",
+            "tip": "Vedere panoramică asupra golfului de la înălțime.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spinnaker Tower",
+            "tip": "Stunning harbour views from the observation deck.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gunwharf Quays",
+            "tip": "Über 90 Outlet-Stores berühmter Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gunwharf Quays",
+            "tip": "Több mint 90 világmárka outlet boltja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gunwharf Quays",
+            "tip": "Peste 90 de magazine tip outlet ale unor branduri celebre."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gunwharf Quays",
+            "tip": "Over 90 designer outlet stores in one place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Züge nach Portsmouth Harbour fahren sehr häufig.",
+          "Das Dockyard-Ticket gilt oft für mehrere Attraktionen."
+        ],
+        "hu": [
+          "A vonatok Portsmouth kikötőbe gyakran közlekednek.",
+          "A Dockyard jegy gyakran több látnivalóra is érvényes."
+        ],
+        "ro": [
+          "Trenurile spre Portsmouth Harbour circulă frecvent.",
+          "Biletul pentru Dockyard include adesea mai multe atracții."
+        ],
+        "en": [
+          "Trains to Portsmouth Harbour are very frequent and take 20 mins.",
+          "A Historic Dockyard ticket offers great value for a full day out."
+        ]
+      }
+    }
+  }
+}

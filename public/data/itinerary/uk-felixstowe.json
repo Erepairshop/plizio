@@ -1,0 +1,910 @@
+{
+  "city_id": "uk-felixstowe",
+  "anchor": {
+    "name": "Felixstowe",
+    "coords": [
+      51.9639,
+      1.3514
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Felixstowe Town Hall",
+          "coords": [
+            1.348,
+            51.961
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schönes viktorianisches Gebäude am Rande der Stadt.",
+            "hu": "Szép viktoriánus épület a város szélén.",
+            "ro": "Clădire victoriană frumoasă la marginea orașului.",
+            "en": "Beautiful Victorian building at the edge of town."
+          }
+        },
+        {
+          "name": "Seafront Gardens",
+          "coords": [
+            1.353,
+            51.958
+          ],
+          "category": "natural",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Blumenpracht und den Meerblick.",
+            "hu": "Élvezze a virágpompát és a tengeri kilátást.",
+            "ro": "Bucurați-vă de splendoarea florală și de vederea la mare.",
+            "en": "Enjoy the floral displays and sea views."
+          }
+        },
+        {
+          "name": "Felixstowe Pier",
+          "coords": [
+            1.348,
+            51.956
+          ],
+          "category": "recreational",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein klassischer britischer Pier mit modernen Arkaden.",
+            "hu": "Klasszikus brit móló modern játéktermekkel.",
+            "ro": "Un debarcader britanic clasic cu arcade moderne.",
+            "en": "A classic British pier with modern arcades."
+          }
+        },
+        {
+          "name": "Spa Pavilion",
+          "coords": [
+            1.351,
+            51.957
+          ],
+          "category": "cultural",
+          "arrive_at": "12:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Guter Ort für eine Kaffeepause mit Aussicht.",
+            "hu": "Kiváló hely egy kávészünethez szép kilátással.",
+            "ro": "Un loc bun pentru o pauză de cafea cu vedere.",
+            "en": "Good spot for a coffee break with a view."
+          }
+        },
+        {
+          "name": "Ocean Boulevard",
+          "coords": [
+            1.345,
+            51.955
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaß für die ganze Familie mit Karussells.",
+            "hu": "Szórakozás az egész családnak körhintákkal.",
+            "ro": "Distracție pentru întreaga familie cu caruseluri.",
+            "en": "Fun for the whole family with carousels."
+          }
+        },
+        {
+          "name": "Martello Tower P",
+          "coords": [
+            1.338,
+            51.948
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Historischer Verteidigungsturm direkt an der Küste.",
+            "hu": "Történelmi védmű közvetlenül a parton.",
+            "ro": "Turn de apărare istoric chiar pe coastă.",
+            "en": "Historic defense tower right on the coast."
+          }
+        },
+        {
+          "name": "Felixstowe Museum",
+          "coords": [
+            1.322,
+            51.938
+          ],
+          "category": "museum",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tiefgreifende lokale Geschichte in einem alten Gebäude.",
+            "hu": "Mély betekintés a helyi történelembe egy régi épületben.",
+            "ro": "Istorie locală profundă într-o clădire veche.",
+            "en": "In-depth local history in an old building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein herrlicher Spaziergang entlang der Küste von Felixstowe. Wir starten am Rathaus und schlendern durch die Seafront Gardens zum belebten Pier. Nach einer Pause am Spa Pavilion erkunden wir den Ocean Boulevard und wandern am Martello Tower vorbei bis zum Felixstowe Museum.",
+        "hu": "Csodás tengerparti séta Felixstowe-ban. A városházától indulunk, átvágunk a Seafront kerteken a nyüzsgő mólóig. A Spa Pavilionnál tartott pihenő után felfedezzük az Ocean Boulevard-t, majd a Martello torony mellett elhaladva eljutunk a Felixstowe Múzeumig.",
+        "ro": "O plimbare minunată de-a lungul coastei din Felixstowe. Începem de la primărie și ne plimbăm prin grădinile falezei până la debarcaderul plin de viață. După o pauză la Spa Pavilion, explorăm Ocean Boulevard și trecem pe lângă Martello Tower până la Muzeul Felixstowe.",
+        "en": "A wonderful walk along the Felixstowe coast. We start at the Town Hall and stroll through the Seafront Gardens to the bustling pier. After a break at the Spa Pavilion, we explore Ocean Boulevard and walk past Martello Tower to the Felixstowe Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Alex",
+            "tip": "Hervorragende Meeresfrüchte direkt an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Alex",
+            "tip": "Kiváló tengeri ételek közvetlenül a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Alex",
+            "tip": "Fructe de mare excelente chiar pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Alex",
+            "tip": "Excellent seafood right on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seafront Gardens",
+            "tip": "Suchen Sie sich eine Bank mit Blick auf die Nordsee.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seafront Gardens",
+            "tip": "Keressen egy padot kilátással az Északi-tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seafront Gardens",
+            "tip": "Căutați o bancă cu vedere la Marea Nordului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafront Gardens",
+            "tip": "Find a bench with a view of the North Sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hamilton Road",
+            "tip": "Die Hauptgeschäftsstraße mit vielen lokalen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hamilton Road",
+            "tip": "A fő bevásárlóutca számos helyi üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hamilton Road",
+            "tip": "Principala stradă comercială cu multe magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hamilton Road",
+            "tip": "The main shopping street with many local stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Wind an der Küste kann stark sein, eine Jacke ist immer ratsam."
+        ],
+        "hu": [
+          "A tengerparti szél erős lehet, egy kabát mindig tanácsos."
+        ],
+        "ro": [
+          "Vântul de pe coastă poate fi puternic, o jachetă este întotdeauna recomandată."
+        ],
+        "en": [
+          "The coastal wind can be strong, a jacket is always advisable."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 16.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Felixstowe Pier",
+          "coords": [
+            1.348,
+            51.956
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Frühmorgens ist es hier noch ruhig.",
+            "hu": "Kora reggel még nyugodt a környék.",
+            "ro": "Este încă liniște aici dimineața devreme.",
+            "en": "It's still quiet here early in the morning."
+          }
+        },
+        {
+          "name": "Martello Tower P",
+          "coords": [
+            1.338,
+            51.948
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Guter Fotostopp auf dem Weg nach Süden.",
+            "hu": "Jó fotóhelyszín dél felé menet.",
+            "ro": "Un bun popas pentru fotografii în drum spre sud.",
+            "en": "Good photo stop on the way south."
+          }
+        },
+        {
+          "name": "Landguard Fort",
+          "coords": [
+            1.32,
+            51.936
+          ],
+          "category": "fortress",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das Fahrrad kann sicher am Eingang abgestellt werden.",
+            "hu": "A kerékpár biztonságosan lezárható a bejáratnál.",
+            "ro": "Bicicleta poate fi parcată în siguranță la intrare.",
+            "en": "The bike can be safely parked at the entrance."
+          }
+        },
+        {
+          "name": "Landguard Nature Reserve",
+          "coords": [
+            1.315,
+            51.932
+          ],
+          "category": "natural",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die gigantischen Containerschiffe.",
+            "hu": "Figyelje meg a hatalmas konténerszállító hajókat.",
+            "ro": "Observați navele gigantice de containere.",
+            "en": "Watch the giant container ships."
+          }
+        },
+        {
+          "name": "Seafront Gardens",
+          "coords": [
+            1.353,
+            51.958
+          ],
+          "category": "natural",
+          "arrive_at": "13:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Radfahren ist auf der Promenade teilweise eingeschränkt.",
+            "hu": "A sétányon a kerékpározás helyenként korlátozott.",
+            "ro": "Ciclismul este parțial restricționat pe promenadă.",
+            "en": "Cycling is partially restricted on the promenade."
+          }
+        },
+        {
+          "name": "Felixstowe Ferry",
+          "coords": [
+            1.398,
+            51.992
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Fischliebhaber und eine idyllische Fahrt.",
+            "hu": "Halimádóknak kötelező, idilli bringázás.",
+            "ro": "O necesitate pentru iubitorii de pește și o plimbare idilică.",
+            "en": "A must for fish lovers and an idyllic ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour zeigt Felixstowe von seiner besten Seite. Vom Pier radeln wir zur südlichen Festung und durch das Naturschutzgebiet, um die Schiffe zu sehen. Dann geht es die gesamte Küste entlang bis zum charmanten Fischerdorf Felixstowe Ferry für ein spätes Mittagessen.",
+        "hu": "Ez a bringatúra Felixstowe legszebb arcait mutatja meg. A mólótól délre tekerünk az erődhöz és a természetvédelmi területhez a hajókat nézni. Ezután végigtekerünk a parton a hangulatos Felixstowe Ferry halászfaluig egy kései ebédre.",
+        "ro": "Acest tur cu bicicleta arată Felixstowe în cea mai bună formă. De la debarcader pedalam spre fortul sudic și prin rezervația naturală pentru a vedea navele. Apoi mergem de-a lungul întregii coaste până la satul pitoresc de pescari Felixstowe Ferry pentru un prânz târziu.",
+        "en": "This bike tour shows Felixstowe at its best. From the pier, we cycle to the southern fortress and through the nature reserve to see the ships. Then we cycle along the entire coast to the charming fishing village of Felixstowe Ferry for a late lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ferry Boat Inn",
+            "tip": "Uriger Pub mit frischem Fang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferry Boat Inn",
+            "tip": "Hangulatos pub friss fogásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ferry Boat Inn",
+            "tip": "Pub rustic cu captură proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferry Boat Inn",
+            "tip": "Quaint pub with fresh catch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landguard Point",
+            "tip": "Ruhiger Blick auf das Meer und den Hafen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Landguard Point",
+            "tip": "Csendes kilátás a tengerre és a kikötőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Landguard Point",
+            "tip": "Vedere liniștită spre mare și port.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Landguard Point",
+            "tip": "Quiet view of the sea and harbour.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Beach Huts",
+            "tip": "Bunte Strandhütten, perfekt für Fotos."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strandkabinok",
+            "tip": "Színes kabinok, tökéletesek fotózáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabane de plajă",
+            "tip": "Cabane colorate, perfecte pentru fotografii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Huts",
+            "tip": "Colourful beach huts, perfect for photos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Küstenweg nach Norden ist sehr flach und angenehm zu fahren."
+        ],
+        "hu": [
+          "Az észak felé vezető parti út nagyon sík és kellemes."
+        ],
+        "ro": [
+          "Traseul de coastă spre nord este foarte plat și plăcut de parcurs."
+        ],
+        "en": [
+          "The coastal path north is very flat and pleasant to ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Felixstowe Town Hall",
+          "coords": [
+            1.348,
+            51.961
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz vorhanden.",
+            "hu": "Központi parkoló áll rendelkezésre.",
+            "ro": "Parcare centrală disponibilă.",
+            "en": "Central parking available."
+          }
+        },
+        {
+          "name": "Felixstowe Pier",
+          "coords": [
+            1.348,
+            51.956
+          ],
+          "category": "recreational",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Rathaus erreichbar (Cluster A).",
+            "hu": "Gyalog is elérhető a városházától (A-blokk).",
+            "ro": "Accesibil pe jos de la primărie (Cluster A).",
+            "en": "Walkable from the town hall (Cluster A)."
+          }
+        },
+        {
+          "name": "Seafront Gardens",
+          "coords": [
+            1.353,
+            51.958
+          ],
+          "category": "natural",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehört zum Stadtzentrum-Cluster.",
+            "hu": "A városközponti séta-blokk része.",
+            "ro": "Face parte din clusterul centrului orașului.",
+            "en": "Part of the city centre cluster."
+          }
+        },
+        {
+          "name": "Landguard Fort",
+          "coords": [
+            1.32,
+            51.936
+          ],
+          "category": "fortress",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Landguard Parkplatz (Cluster B).",
+            "hu": "Parkoljon a Landguard parkolóban (B-blokk).",
+            "ro": "Parcați în parcarea Landguard (Cluster B).",
+            "en": "Park at the Landguard car park (Cluster B)."
+          }
+        },
+        {
+          "name": "Felixstowe Museum",
+          "coords": [
+            1.322,
+            51.938
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Fort entfernt.",
+            "hu": "Csak egy rövid séta az erődtől.",
+            "ro": "Doar o scurtă plimbare de la fort.",
+            "en": "Just a short walk from the fort."
+          }
+        },
+        {
+          "name": "Landguard Nature Reserve",
+          "coords": [
+            1.315,
+            51.932
+          ],
+          "category": "natural",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für Vogelschlag-Beobachtungen.",
+            "hu": "Tökéletes madármegfigyelő hely.",
+            "ro": "Perfect pentru observarea păsărilor.",
+            "en": "Perfect for bird watching."
+          }
+        },
+        {
+          "name": "Felixstowe Ferry",
+          "coords": [
+            1.398,
+            51.992
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.2,
+          "tip_5lang": {
+            "de": "Abschluss der Tour am nördlichsten Punkt (Cluster C).",
+            "hu": "A túra zárása a legészakibb ponton (C-blokk).",
+            "ro": "Încheierea turului în cel mai nordic punct (Cluster C).",
+            "en": "End the tour at the northernmost point (Cluster C)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Drei Cluster an einem Tag: Zuerst erkunden wir zu Fuß das Stadtzentrum (Pier, Gärten). Dann fahren wir nach Süden zum historischen Landguard Fort und Museum. Schließlich beenden wir den Tag mit einer Fahrt zur idyllischen Felixstowe Ferry an der Flussmündung.",
+        "hu": "Három blokk egy nap alatt: először gyalog fedezzük fel a központot (móló, kertek). Ezután délre hajtunk a történelmi Landguard erődhöz és múzeumhoz. Végül a napot az északi Felixstowe Ferry idilli halászfalujában zárjuk.",
+        "ro": "Trei clustere într-o zi: mai întâi explorăm centrul orașului pe jos (debarcader, grădini). Apoi conducem spre sud la fortul istoric Landguard și muzeu. În final, încheiem ziua cu o vizită la idilicul Felixstowe Ferry la gura râului.",
+        "en": "Three clusters in one day: first we explore the city centre on foot (pier, gardens). Then we drive south to the historic Landguard Fort and Museum. Finally, we end the day with a drive to the idyllic Felixstowe Ferry at the river mouth."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "View Point Cafe",
+            "tip": "Bester Blick auf den Hafen von Landguard aus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "View Point Cafe",
+            "tip": "A legjobb kilátás a kikötőre Landguard felől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "View Point Cafe",
+            "tip": "Cea mai bună vedere la port dinspre Landguard."
+          }
+        ],
+        "en": [
+          {
+            "name": "View Point Cafe",
+            "tip": "Best view of the port from Landguard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nature Reserve",
+            "tip": "Windiger, aber sehr ruhiger Ort zum Entspannen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Természetvédelmi terület",
+            "tip": "Szeles, de nagyon csendes hely a pihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală",
+            "tip": "Loc vântos, dar foarte liniștit pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nature Reserve",
+            "tip": "Windy but very quiet place to relax.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fresh Fish Stalls",
+            "tip": "Kaufen Sie frischen Fisch direkt in Felixstowe Ferry."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Vegyen friss halat közvetlenül Felixstowe Ferry-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe cu pește proaspăt",
+            "tip": "Cumpărați pește proaspăt direct în Felixstowe Ferry."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish Stalls",
+            "tip": "Buy fresh fish directly in Felixstowe Ferry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze in Felixstowe Ferry können an sonnigen Tagen begrenzt sein."
+        ],
+        "hu": [
+          "A parkolóhelyek Felixstowe Ferry-ben napos napokon korlátozottak lehetnek."
+        ],
+        "ro": [
+          "Locurile de parcare în Felixstowe Ferry pot fi limitate în zilele însorite."
+        ],
+        "en": [
+          "Parking at Felixstowe Ferry can be limited on sunny days."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Felixstowe Pier",
+          "coords": [
+            1.348,
+            51.956
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Guter Startpunkt in Meeresnähe.",
+            "hu": "Kiváló kiindulópont a tenger közelében.",
+            "ro": "Un bun punct de plecare aproape de mare.",
+            "en": "Good starting point near the sea."
+          }
+        },
+        {
+          "name": "Seafront Gardens",
+          "coords": [
+            1.353,
+            51.958
+          ],
+          "category": "natural",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Pier erreichbar.",
+            "hu": "Gyalog elérhető a mólótól.",
+            "ro": "Accesibil pe jos de la debarcader.",
+            "en": "Walkable from the pier."
+          }
+        },
+        {
+          "name": "Felixstowe Museum",
+          "coords": [
+            1.322,
+            51.938
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus der Linie 75 oder 77.",
+            "hu": "Használja a 75-ös vagy 77-es buszjáratot.",
+            "ro": "Folosiți autobuzul linia 75 sau 77.",
+            "en": "Use bus line 75 or 77."
+          }
+        },
+        {
+          "name": "Landguard Fort",
+          "coords": [
+            1.32,
+            51.936
+          ],
+          "category": "fortress",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Direkt neben dem Museum (Cluster-Walking).",
+            "hu": "Közvetlenül a múzeum mellett (blokk-séta).",
+            "ro": "Chiar lângă muzeu (mers pe jos în cluster).",
+            "en": "Right next to the museum (cluster walking)."
+          }
+        },
+        {
+          "name": "Spa Pavilion",
+          "coords": [
+            1.351,
+            51.957
+          ],
+          "category": "cultural",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Busfahrt zurück ins Zentrum.",
+            "hu": "Buszozás vissza a központba.",
+            "ro": "Călătorie cu autobuzul înapoi în centru.",
+            "en": "Bus ride back to the centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kombination aus Bus und Spaziergängen. Wir erkunden erst den Pier und die Gärten, fahren dann mit dem Bus zur Landguard-Halbinsel für das Fort und das Museum, und kehren am späten Nachmittag für den Spa Pavilion ins Zentrum zurück.",
+        "hu": "Busz és séta kombinációja. Előbb a mólót és a kerteket nézzük meg, majd busszal a Landguard-félszigetre utazunk az erődhöz és a múzeumhoz. Késő délután térünk vissza a központba a Spa Pavilionhoz.",
+        "ro": "Combinație de autobuz și plimbări. Explorăm mai întâi debarcaderul și grădinile, apoi luăm autobuzul spre peninsula Landguard pentru fort și muzeu, și ne întoarcem în centru după-amiaza târziu pentru Spa Pavilion.",
+        "en": "Combination of bus and walks. We first explore the pier and gardens, then take the bus to the Landguard peninsula for the fort and museum, and return to the centre in the late afternoon for the Spa Pavilion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cafe on the Lodge",
+            "tip": "Hausgemachter Kuchen in entspannter Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cafe on the Lodge",
+            "tip": "Házias sütemények nyugodt környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafe on the Lodge",
+            "tip": "Prăjituri de casă într-o atmosferă relaxată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cafe on the Lodge",
+            "tip": "Homemade cake in a relaxed atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Martello Park",
+            "tip": "Grüne Oase hinter der Strandlinie.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Martello Park",
+            "tip": "Zöld oázis a tengerpart mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Martello",
+            "tip": "Oază verde în spatele liniei de coastă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Martello Park",
+            "tip": "Green oasis behind the beach line.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Felixstowe Market",
+            "tip": "Wochenmarkt (sonntags) mit lokalem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felixstowe Piac",
+            "tip": "Vasárnapi piac helyi hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Felixstowe",
+            "tip": "Piață săptămânală (duminica) cu fler local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Felixstowe Market",
+            "tip": "Sunday market with local flair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse fahren regelmäßig, aber prüfen Sie die Zeiten für die Rückfahrt von Landguard."
+        ],
+        "hu": [
+          "A buszok rendszeresen járnak, de ellenőrizze a visszautat Landguard felől."
+        ],
+        "ro": [
+          "Autobuzele circulă regulat, dar verificați orele de întoarcere de la Landguard."
+        ],
+        "en": [
+          "Buses run regularly, but check the times for the return from Landguard."
+        ]
+      }
+    }
+  }
+}

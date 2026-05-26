@@ -1,0 +1,1048 @@
+{
+  "city_id": "szeged",
+  "anchor": {
+    "name": "Szeged",
+    "coords": [
+      46.253,
+      20.141
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Széchenyi tér",
+          "coords": [
+            46.252,
+            20.148
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Frühmorgens ist der Platz noch ruhig – perfekt für Fotos.",
+            "hu": "Reggelente még csendes a tér – tökéletes fotózáshoz.",
+            "ro": "Dimineața piața este liniștită – perfect pentru fotografii.",
+            "en": "Early morning the square is quiet – perfect for photos."
+          }
+        },
+        {
+          "name": "Dóm tér",
+          "coords": [
+            46.249,
+            20.146
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta unter dem Dom – beeindruckend.",
+            "hu": "Látogassa meg a dóm alatti kriptát – lenyűgöző.",
+            "ro": "Vizitați cripta de sub catedrală – impresionantă.",
+            "en": "Visit the crypt under the cathedral – impressive."
+          }
+        },
+        {
+          "name": "Fogadalmi templom",
+          "coords": [
+            46.249,
+            20.145
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für einen Panoramablick über die Stadt.",
+            "hu": "Menjen fel a toronyba a város panorámájáért.",
+            "ro": "Urcati în turn pentru o panoramă a orașului.",
+            "en": "Climb the tower for a panoramic view of the city."
+          }
+        },
+        {
+          "name": "Móra Ferenc Múzeum",
+          "coords": [
+            46.248,
+            20.15
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die archäologische Sammlung ist ein Highlight.",
+            "hu": "A régészeti gyűjtemény kihagyhatatlan.",
+            "ro": "Colecția arheologică este un punct culminant.",
+            "en": "The archaeological collection is a highlight."
+          }
+        },
+        {
+          "name": "Szegedi Füvészkert",
+          "coords": [
+            46.247,
+            20.155
+          ],
+          "category": "garden",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der botanische Garten ist ein ruhiger Rückzugsort.",
+            "hu": "A füvészkert csendes menedék a városban.",
+            "ro": "Grădina botanică este un refugiu liniștit.",
+            "en": "The botanical garden is a peaceful retreat."
+          }
+        },
+        {
+          "name": "Tisza-parti sétány",
+          "coords": [
+            46.254,
+            20.155
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Theiß – besonders schön bei Sonnenuntergang.",
+            "hu": "Élvezze a Tisza-parti kilátást – különösen szép naplementekor.",
+            "ro": "Bucurați-vă de priveliștea Tisei – deosebit de frumoasă la apus.",
+            "en": "Enjoy the view of the Tisza – especially beautiful at sunset."
+          }
+        },
+        {
+          "name": "Kárász utca",
+          "coords": [
+            46.252,
+            20.145
+          ],
+          "category": "shopping",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier finden Sie lokale Handwerkskunst und Souvenirs.",
+            "hu": "Itt talál helyi kézműves termékeket és ajándéktárgyakat.",
+            "ro": "Aici găsiți meșteșuguri locale și suveniruri.",
+            "en": "Here you'll find local crafts and souvenirs."
+          }
+        },
+        {
+          "name": "Szegedi Halászcsárda",
+          "coords": [
+            46.255,
+            20.148
+          ],
+          "category": "gastro",
+          "arrive_at": "17:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmte Szegediner Fischsuppe.",
+            "hu": "Kóstolja meg a híres szegedi halászlevet.",
+            "ro": "Încercați celebra supă de pește din Szeged.",
+            "en": "Try the famous Szeged fish soup."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem Széchenyi-Platz, dem Herzen der Stadt. Von dort schlendern Sie zum Dóm-Platz und bestaunen die monumentale Kathedrale. Nach dem Mittagessen im Móra-Museum erkunden Sie den botanischen Garten und die Uferpromenade der Theiß. Der Abend gehört der Kárász-Straße mit ihren Geschäften und einem traditionellen Fischgericht.",
+        "hu": "Kezdje a napot a Széchenyi téren, a város szívében. Onnan sétáljon a Dóm térre és csodálja meg a hatalmas székesegyházat. Ebéd után a Móra Múzeumban fedezze fel a botanikus kertet és a Tisza-parti sétányt. Az estét a Kárász utcában töltse vásárlással és egy hagyományos halászlével.",
+        "ro": "Începeți ziua în Piața Széchenyi, inima orașului. De acolo mergeți spre Piața Domului și admirați catedrala monumentală. După prânz la Muzeul Móra, explorați grădina botanică și promenada de pe malul Tisei. Seara petreceți-o pe strada Kárász cu cumpărături și o supă tradițională de pește.",
+        "en": "Start your day at Széchenyi Square, the heart of the city. From there stroll to Dóm Square and admire the monumental cathedral. After lunch at the Móra Museum, explore the botanical garden and the Tisza riverfront promenade. The evening is for Kárász Street shopping and a traditional fish soup dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászlé",
+            "tip": "Szegedi Halászcsárda – die beste Fischsuppe der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "Szegedi Halászcsárda – a város legjobb halászleve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "Szegedi Halászcsárda – cea mai bună supă de pește din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish soup",
+            "tip": "Szegedi Halászcsárda – the best fish soup in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tisza-part",
+            "tip": "Sonnenuntergang an der Theiß – romantisch und ruhig.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisza-part",
+            "tip": "Naplemente a Tiszánál – romantikus és csendes.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Tisei",
+            "tip": "Apus de soare pe Tisa – romantic și liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisza bank",
+            "tip": "Sunset on the Tisza – romantic and quiet.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_pics": {
+        "de": [
+          {
+            "name": "Kárász utca",
+            "tip": "Lokale Handwerkskunst und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kárász utca",
+            "tip": "Helyi kézműves termékek és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Kárász",
+            "tip": "Meșteșuguri locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kárász Street",
+            "tip": "Local crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe.",
+          "Planen Sie Pausen in den Parks ein.",
+          "Probieren Sie unbedingt die Fischsuppe.",
+          "Besuchen Sie den Markt am Morgen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt.",
+          "Tervezzen szüneteket a parkokban.",
+          "Feltétlenül kóstolja meg a halászlevet.",
+          "Reggel látogassa meg a piacot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă.",
+          "Planificați pauze în parcuri.",
+          "Încercați neapărat supa de pește.",
+          "Vizitați piața dimineața."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Plan breaks in the parks.",
+          "Be sure to try the fish soup.",
+          "Visit the market in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Széchenyi tér",
+          "coords": [
+            46.252,
+            20.148
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Rand ab – viel Platz.",
+            "hu": "A tér szélén parkoljon – sok hely van.",
+            "ro": "Parcați bicicleta la margine – mult spațiu.",
+            "en": "Park your bike at the edge – plenty of space."
+          }
+        },
+        {
+          "name": "Dóm tér",
+          "coords": [
+            46.249,
+            20.146
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrradständer am Domplatz vorhanden.",
+            "hu": "A Dóm téren kerékpártároló van.",
+            "ro": "Suport pentru biciclete în Piața Domului.",
+            "en": "Bike racks available at Dóm Square."
+          }
+        },
+        {
+          "name": "Fogadalmi templom",
+          "coords": [
+            46.249,
+            20.145
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Abstecher – Fahrrad kurz abschließen.",
+            "hu": "Rövid kitérő – zárja le a biciklit.",
+            "ro": "Scurtă oprire – încuiați bicicleta.",
+            "en": "Quick stop – lock your bike."
+          }
+        },
+        {
+          "name": "Móra Ferenc Múzeum",
+          "coords": [
+            46.248,
+            20.15
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrradparkplatz vor dem Museum.",
+            "hu": "Kerékpárparkoló a múzeum előtt.",
+            "ro": "Parcare pentru biciclete în fața muzeului.",
+            "en": "Bike parking in front of the museum."
+          }
+        },
+        {
+          "name": "Szegedi Füvészkert",
+          "coords": [
+            46.247,
+            20.155
+          ],
+          "category": "garden",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahrrad kann am Eingang abgestellt werden.",
+            "hu": "A biciklit a bejáratnál lehet hagyni.",
+            "ro": "Bicicleta poate fi lăsată la intrare.",
+            "en": "Bike can be left at the entrance."
+          }
+        },
+        {
+          "name": "Tisza-parti sétány",
+          "coords": [
+            46.254,
+            20.155
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Theiß – herrliche Aussicht.",
+            "hu": "Tekercsen a Tisza mentén – csodás kilátás.",
+            "ro": "Pedalați de-a lungul Tisei – priveliște minunată.",
+            "en": "Cycle along the Tisza – wonderful views."
+          }
+        },
+        {
+          "name": "Szegedi Halászcsárda",
+          "coords": [
+            46.255,
+            20.148
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt am Restaurant.",
+            "hu": "Kerékpártároló közvetlenül az étteremnél.",
+            "ro": "Suport pentru biciclete direct la restaurant.",
+            "en": "Bike rack right at the restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Szeged mühelos. Start am Széchenyi-Platz, dann zum Dóm und Museum. Die Radwege führen Sie zum botanischen Garten und entlang der Theiß. Beenden Sie den Tag mit einem Radausflug zur Halászcsárda für ein Abendessen.",
+        "hu": "Kerékpárral könnyedén felfedezheti Szegedet. Indulás a Széchenyi térről, majd a Dóm és a Múzeum. A kerékpárutak a füvészkertbe és a Tisza-partra vezetnek. Zárja a napot egy kerékpáros kirándulással a Halászcsárdába vacsorára.",
+        "ro": "Cu bicicleta explorați Szegedul fără efort. Start din Piața Széchenyi, apoi Domul și Muzeul. Piste de biciclete vă duc la grădina botanică și de-a lungul Tisei. Încheiați ziua cu o excursie cu bicicleta la Halászcsárda pentru cină.",
+        "en": "By bike you explore Szeged effortlessly. Start at Széchenyi Square, then the Dome and Museum. Bike paths lead to the botanical garden and along the Tisza. End the day with a bike ride to Halászcsárda for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászlé",
+            "tip": "Szegedi Halászcsárda – traditionell und köstlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "Szegedi Halászcsárda – hagyományos és finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "Szegedi Halászcsárda – tradițional și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish soup",
+            "tip": "Szegedi Halászcsárda – traditional and delicious."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tisza-part",
+            "tip": "Radeln Sie bei Sonnenuntergang – magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisza-part",
+            "tip": "Naplementekor tekerjen – varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Tisei",
+            "tip": "Pedalați la apus – magic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisza bank",
+            "tip": "Cycle at sunset – magical.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_pics": {
+        "de": [
+          {
+            "name": "Kárász utca",
+            "tip": "Fahrradfreundliche Einkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kárász utca",
+            "tip": "Kerékpárbarát bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Kárász",
+            "tip": "Stradă comercială prietenoasă cu bicicletele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kárász Street",
+            "tip": "Bike-friendly shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege.",
+          "Schließen Sie Ihr Fahrrad immer ab.",
+          "Planen Sie eine Pause im Füvészkert.",
+          "Fahren Sie langsam auf der Promenade."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat.",
+          "Mindig zárja le a biciklit.",
+          "Tervezzen szünetet a Füvészkertben.",
+          "Lassan haladjon a sétányon."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete.",
+          "Încuiați întotdeauna bicicleta.",
+          "Planificați o pauză în Grădina Botanică.",
+          "Mergeți încet pe promenadă."
+        ],
+        "en": [
+          "Use the bike paths.",
+          "Always lock your bike.",
+          "Plan a break in the Füvészkert.",
+          "Go slowly on the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 45.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Széchenyi tér",
+          "coords": [
+            46.252,
+            20.148
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am besten am Rand des Platzes.",
+            "hu": "A legjobb a tér szélén parkolni.",
+            "ro": "Cel mai bine parcați la marginea pieței.",
+            "en": "Best to park at the edge of the square."
+          }
+        },
+        {
+          "name": "Dóm tér",
+          "coords": [
+            46.249,
+            20.146
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz – 5 Minuten.",
+            "hu": "Gyalog a parkolótól – 5 perc.",
+            "ro": "Pe jos de la parcare – 5 minute.",
+            "en": "Walk from parking – 5 minutes."
+          }
+        },
+        {
+          "name": "Fogadalmi templom",
+          "coords": [
+            46.249,
+            20.145
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Domplatz.",
+            "hu": "Rövid séta a Dóm tértől.",
+            "ro": "Scurtă plimbare de la Piața Domului.",
+            "en": "Short walk from Dóm Square."
+          }
+        },
+        {
+          "name": "Móra Ferenc Múzeum",
+          "coords": [
+            46.248,
+            20.15
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parkplatz am Museum – gebührenpflichtig.",
+            "hu": "Parkoló a múzeumnál – fizetős.",
+            "ro": "Parcare la muzeu – cu plată.",
+            "en": "Parking at the museum – paid."
+          }
+        },
+        {
+          "name": "Szegedi Füvészkert",
+          "coords": [
+            46.247,
+            20.155
+          ],
+          "category": "garden",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang des Gartens.",
+            "hu": "Parkoljon a kert bejáratánál.",
+            "ro": "Parcați la intrarea în grădină.",
+            "en": "Park at the garden entrance."
+          }
+        },
+        {
+          "name": "Ópusztaszeri Nemzeti Történeti Emlékpark",
+          "coords": [
+            46.5,
+            20.08
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber – 30 km von Szeged.",
+            "hu": "Kötelező a történelemkedvelőknek – 30 km-re Szegedtől.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie – la 30 km de Szeged.",
+            "en": "A must for history lovers – 30 km from Szeged."
+          }
+        },
+        {
+          "name": "Tisza-parti sétány",
+          "coords": [
+            46.254,
+            20.155
+          ],
+          "category": "park",
+          "arrive_at": "17:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Parkplatz am Fluss.",
+            "hu": "Parkoljon a folyó melletti parkolóban.",
+            "ro": "Parcați în parcarea de lângă râu.",
+            "en": "Park at the riverside parking lot."
+          }
+        },
+        {
+          "name": "Szegedi Halászcsárda",
+          "coords": [
+            46.255,
+            20.148
+          ],
+          "category": "gastro",
+          "arrive_at": "18:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Restaurant.",
+            "hu": "Parkoló közvetlenül az étteremnél.",
+            "ro": "Parcare direct la restaurant.",
+            "en": "Parking right at the restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie in der Innenstadt, besichtigen Dom und Museum. Dann fahren Sie zum botanischen Garten. Ein Highlight ist der Ausflug zum Ópusztaszerer Geschichtspark. Zurück in Szeged genießen Sie den Sonnenuntergang an der Theiß und ein Abendessen in der Halászcsárda.",
+        "hu": "Autóval indul a belvárosban, megnézi a Dómot és a Múzeumot. Aztán autózik a Füvészkertbe. A csúcspont az ópusztaszeri kirándulás. Visszatérve Szegedre élvezze a naplementét a Tiszánál és vacsorázzon a Halászcsárdában.",
+        "ro": "Cu mașina începeți în centru, vizitați Domul și Muzeul. Apoi conduceți la Grădina Botanică. Un punct culminant este excursia la Parcul Istoric Ópusztaszer. Înapoi în Szeged, bucurați-vă de apus pe Tisa și de cină la Halászcsárda.",
+        "en": "By car you start downtown, visit the Dome and Museum. Then drive to the botanical garden. A highlight is the trip to Ópusztaszer Historical Park. Back in Szeged, enjoy the sunset on the Tisza and dinner at Halászcsárda."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászlé",
+            "tip": "Szegedi Halászcsárda – unvergesslich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "Szegedi Halászcsárda – felejthetetlen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "Szegedi Halászcsárda – de neuitat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish soup",
+            "tip": "Szegedi Halászcsárda – unforgettable."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tisza-part",
+            "tip": "Sonnenuntergang vom Auto aus – bequem.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisza-part",
+            "tip": "Naplemente az autóból – kényelmes.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Tisei",
+            "tip": "Apus de soare din mașină – confortabil.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisza bank",
+            "tip": "Sunset from the car – comfortable.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_pics": {
+        "de": [
+          {
+            "name": "Kárász utca",
+            "tip": "Parken Sie in der Nähe und schlendern Sie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kárász utca",
+            "tip": "Parkoljon a közelben és sétáljon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Kárász",
+            "tip": "Parcați aproape și plimbați-vă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kárász Street",
+            "tip": "Park nearby and stroll."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in der Innenstadt in Parkhäusern.",
+          "Der Ausflug nach Ópusztaszer lohnt sich.",
+          "Fahren Sie vorsichtig auf den Landstraßen.",
+          "Planen Sie genug Zeit für die Rückfahrt ein."
+        ],
+        "hu": [
+          "Parkoljon a belvárosi parkolóházakban.",
+          "Az ópusztaszeri kirándulás megéri.",
+          "Óvatosan vezessen az országúton.",
+          "Tervezzen elég időt a visszaútra."
+        ],
+        "ro": [
+          "Parcați în parcările din centru.",
+          "Excursia la Ópusztaszer merită.",
+          "Conduceți cu atenție pe drumurile județene.",
+          "Planificați suficient timp pentru întoarcere."
+        ],
+        "en": [
+          "Park in downtown parking garages.",
+          "The trip to Ópusztaszer is worth it.",
+          "Drive carefully on country roads.",
+          "Allow enough time for the return trip."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Széchenyi tér",
+          "coords": [
+            46.252,
+            20.148
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Straßenbahnhaltestelle direkt am Platz.",
+            "hu": "Villamosmegálló közvetlenül a téren.",
+            "ro": "Stație de tramvai direct în piață.",
+            "en": "Tram stop right on the square."
+          }
+        },
+        {
+          "name": "Dóm tér",
+          "coords": [
+            46.249,
+            20.146
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Széchenyi-Platz – 5 Minuten.",
+            "hu": "Gyalog a Széchenyi tértől – 5 perc.",
+            "ro": "Pe jos de la Piața Széchenyi – 5 minute.",
+            "en": "Walk from Széchenyi Square – 5 minutes."
+          }
+        },
+        {
+          "name": "Fogadalmi templom",
+          "coords": [
+            46.249,
+            20.145
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Domplatz.",
+            "hu": "Rövid séta a Dóm tértől.",
+            "ro": "Scurtă plimbare de la Piața Domului.",
+            "en": "Short walk from Dóm Square."
+          }
+        },
+        {
+          "name": "Móra Ferenc Múzeum",
+          "coords": [
+            46.248,
+            20.15
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Buslinie 1 hält am Museum.",
+            "hu": "Az 1-es busz megáll a múzeumnál.",
+            "ro": "Autobuzul 1 oprește la muzeu.",
+            "en": "Bus line 1 stops at the museum."
+          }
+        },
+        {
+          "name": "Szegedi Füvészkert",
+          "coords": [
+            46.247,
+            20.155
+          ],
+          "category": "garden",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Buslinie 2 fährt zum botanischen Garten.",
+            "hu": "A 2-es busz a füvészkerthez megy.",
+            "ro": "Autobuzul 2 merge la grădina botanică.",
+            "en": "Bus line 2 goes to the botanical garden."
+          }
+        },
+        {
+          "name": "Tisza-parti sétány",
+          "coords": [
+            46.254,
+            20.155
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Straßenbahnlinie 1 fährt zur Promenade.",
+            "hu": "Az 1-es villamos a sétányhoz megy.",
+            "ro": "Tramvaiul 1 merge la promenadă.",
+            "en": "Tram line 1 goes to the promenade."
+          }
+        },
+        {
+          "name": "Szegedi Halászcsárda",
+          "coords": [
+            46.255,
+            20.148
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Straßenbahnhaltestelle in der Nähe.",
+            "hu": "Villamosmegálló a közelben.",
+            "ro": "Stație de tramvai în apropiere.",
+            "en": "Tram stop nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Szeged bequem. Start am Széchenyi-Platz, dann zu Fuß zum Dom und Museum. Mit dem Bus geht es zum botanischen Garten. Die Straßenbahn bringt Sie zur Theiß-Promenade. Abendessen in der Halászcsárda – alles mit einem Ticket.",
+        "hu": "Tömegközlekedéssel kényelmesen felfedezheti Szegedet. Indulás a Széchenyi térről, majd gyalog a Dómhoz és a Múzeumhoz. Busszal a Füvészkertbe. A villamos a Tisza-parti sétányhoz visz. Vacsora a Halászcsárdában – minden egy jeggyel.",
+        "ro": "Cu transportul public explorați Szegedul confortabil. Start din Piața Széchenyi, apoi pe jos la Dom și Muzeu. Cu autobuzul la Grădina Botanică. Tramvaiul vă duce la Promenada Tisei. Cină la Halászcsárda – totul cu un bilet.",
+        "en": "By public transport you explore Szeged comfortably. Start at Széchenyi Square, then walk to the Dome and Museum. By bus to the botanical garden. The tram takes you to the Tisza promenade. Dinner at Halászcsárda – all with one ticket."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászlé",
+            "tip": "Szegedi Halászcsárda – leicht erreichbar mit der Straßenbahn."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "Szegedi Halászcsárda – könnyen megközelíthető villamossal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "Szegedi Halászcsárda – ușor accesibil cu tramvaiul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish soup",
+            "tip": "Szegedi Halászcsárda – easily accessible by tram."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tisza-part",
+            "tip": "Straßenbahn fährt bis zur Promenade – ruhig.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisza-part",
+            "tip": "Villamos megy a sétányig – csendes.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Tisei",
+            "tip": "Tramvaiul merge până la promenadă – liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisza bank",
+            "tip": "Tram goes to the promenade – quiet.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_pics": {
+        "de": [
+          {
+            "name": "Kárász utca",
+            "tip": "Straßenbahnhaltestelle in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kárász utca",
+            "tip": "Villamosmegálló a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Kárász",
+            "tip": "Stație de tramvai în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kárász Street",
+            "tip": "Tram stop in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket.",
+          "Die Straßenbahn ist zuverlässig.",
+          "Busse fahren seltener – planen Sie Zeit ein.",
+          "Halten Sie Ihr Ticket bereit."
+        ],
+        "hu": [
+          "Vegyen napijegyet.",
+          "A villamos megbízható.",
+          "A buszok ritkábban járnak – tervezzen időt.",
+          "Tartsa készen a jegyét."
+        ],
+        "ro": [
+          "Cumpărați un bilet de zi.",
+          "Tramvaiul este de încredere.",
+          "Autobuzele circulă mai rar – planificați timp.",
+          "Țineți biletul la îndemână."
+        ],
+        "en": [
+          "Buy a day ticket.",
+          "The tram is reliable.",
+          "Buses run less frequently – plan time.",
+          "Keep your ticket ready."
+        ]
+      }
+    }
+  }
+}

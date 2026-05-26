@@ -1,0 +1,942 @@
+{
+  "city_id": "novigrad",
+  "anchor": {
+    "name": "Church of St. Pelagius",
+    "coords": [
+      13.5645,
+      45.3262
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Medieval City Walls",
+          "coords": [
+            13.563,
+            45.3255
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spaziergang auf den historischen Wehranlagen am Meer.",
+            "hu": "Séta a történelmi tengerparti védműveken.",
+            "ro": "Plimbare pe fortificațiile istorice de la malul mării.",
+            "en": "Walk along the historical seaside fortifications."
+          }
+        },
+        {
+          "name": "Belveder Loggia",
+          "coords": [
+            13.5635,
+            45.325
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der einzige direkt am Meer gelegene Stadtbalkon Istriens.",
+            "hu": "Isztria egyetlen közvetlenül a tengerparton fekvő loggiája.",
+            "ro": "Singura loggie din Istria situată direct la malul mării.",
+            "en": "The only seaside loggia in Istria, offering great views."
+          }
+        },
+        {
+          "name": "Church of St. Pelagius",
+          "coords": [
+            13.5645,
+            45.3262
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die frühchristliche Krypta unter der Kirche.",
+            "hu": "Tekintse meg a templom alatti kora keresztény kriptát.",
+            "ro": "Vizitați cripta creștină timpurie de sub biserică.",
+            "en": "Visit the early Christian crypt located beneath the church."
+          }
+        },
+        {
+          "name": "Novigrad Bell Tower",
+          "coords": [
+            13.5648,
+            45.3265
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Inspirationsquelle war der Campanile von Venedig.",
+            "hu": "A velencei Campanile szolgált ihletforrásul.",
+            "ro": "Sursa de inspirație a fost Campanila din Veneția.",
+            "en": "The Venetian Campanile served as the inspiration here."
+          }
+        },
+        {
+          "name": "Lapidarium Museum",
+          "coords": [
+            13.5655,
+            45.3258
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bedeutende Sammlung mittelalterlicher Steinmonumente.",
+            "hu": "Jelentős középkori kőemlék-gyűjtemény.",
+            "ro": "Colecție importantă de monumente medievale din piatră.",
+            "en": "Significant collection of medieval stone monuments."
+          }
+        },
+        {
+          "name": "Umbrella Street",
+          "coords": [
+            13.5665,
+            45.327
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein farbenfrohes Fotomotiv in den Altstadtgassen.",
+            "hu": "Színes fotótéma az óvárosi utcákban.",
+            "ro": "Un loc colorat pentru fotografii în centrul vechi.",
+            "en": "A colorful photo spot in the old town streets."
+          }
+        },
+        {
+          "name": "Gallerion Maritime Museum",
+          "coords": [
+            13.5675,
+            45.328
+          ],
+          "category": "museum",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Alles über die k.u.k. Marinegeschichte.",
+            "hu": "Mindent az osztrák-magyar haditengerészet történetéről.",
+            "ro": "Totul despre istoria marinei austro-ungare.",
+            "en": "Everything about Austro-Hungarian naval history."
+          }
+        },
+        {
+          "name": "Novigrad Marina",
+          "coords": [
+            13.5685,
+            45.3295
+          ],
+          "category": "harbor",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Einlaufen der Jachten am Abend.",
+            "hu": "Nézze meg az este befutó jachtokat.",
+            "ro": "Urmăriți iahturile care intră în port seara.",
+            "en": "Watch the yachts entering the marina in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Novigrad bewahrt den Charme eines Fischerdorfes. Beginnen Sie Ihren Rundgang auf den mittelalterlichen Mauern direkt am Wasser. Der Vormittag ist der beeindruckenden Krypta und dem modernen Lapidarium gewidmet. Nach einem Mittagessen mit Meeresfrüchten spazieren Sie durch die farbenfrohe Regenschirm-Gasse und erfahren im Gallerion spannende Details über die Marinegeschichte der Adria.",
+        "hu": "Novigrad megőrizte egy halászfalu bájos hangulatát. Kezdje a sétát a közvetlenül a vízparton álló középkori falakon. A délelőtt a lenyűgöző kriptáé és a modern Lapidáriumé. Egy tengeri gyümölcsökből álló ebéd után sétáljon át a színes esernyős utcán, és tudjon meg izgalmas részleteket az Adria haditengerészeti múltjáról a Gallerionban.",
+        "ro": "Novigrad păstrează farmecul unui sat de pescari. Începeți plimbarea pe zidurile medievale direct de la malul apei. Dimineața este dedicată criptei impresionante și muzeului modern Lapidarium. După un prânz cu fructe de mare, plimbați-vă pe strada colorată cu umbrele și aflați detalii fascinante despre istoria navală a Adriaticii la Gallerion.",
+        "en": "Novigrad retains the charm of a fishing village. Start your walk on the medieval walls right by the water. The morning is dedicated to the impressive crypt and the modern Lapidarium museum. After a seafood lunch, stroll through the colorful Umbrella Street and learn exciting details about the Adriatic's naval history at the Gallerion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Damir & Ornella",
+            "tip": "Bekannt für das 'Sashimi des Mittelmeers' – roher Fisch auf höchstem Niveau."
+          },
+          {
+            "name": "Konoba Čok",
+            "tip": "Hervorragende Fischgerichte in familiärer Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Damir & Ornella",
+            "tip": "A 'Mediterrán sashimi' hazája – nyers halételek mesterfokon."
+          },
+          {
+            "name": "Konoba Čok",
+            "tip": "Kiváló halételek családias hangulatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Damir & Ornella",
+            "tip": "Cunoscut pentru 'Sashimi mediteranean' – pește crud la cel mai înalt nivel."
+          },
+          {
+            "name": "Konoba Čok",
+            "tip": "Preparate din pește excelente într-o atmosferă familială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Damir & Ornella",
+            "tip": "Famous for 'Mediterranean Sashimi' – raw fish at its best."
+          },
+          {
+            "name": "Konoba Čok",
+            "tip": "Excellent fish dishes in a cozy, family atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belveder",
+            "tip": "Ein ruhiger Platz, um dem Meeresrauschen zuzuhören.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belveder",
+            "tip": "Csendes hely a tenger morajlásának hallgatásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belveder",
+            "tip": "Un loc liniștit pentru a asculta susurul mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belveder",
+            "tip": "A quiet spot to listen to the sound of the waves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Erleben Sie die Ankunft des frischen Fangs am frühen Morgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Élje át a friss fogás érkezését kora reggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Experimentați sosirea capturii proaspete dis-de-dimineață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Experience the arrival of the fresh catch early in the morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Novigrad ist sehr flach und daher ideal für entspannte Spaziergänge.",
+          "Viele Cafés bieten einen tollen Blick direkt auf die Stadtmauer."
+        ],
+        "hu": [
+          "Novigrad nagyon sík, így ideális pihentető sétákhoz.",
+          "Számos kávézó kínál kiváló kilátást közvetlenül a városfalra."
+        ],
+        "ro": [
+          "Novigrad este foarte plat, fiind ideal pentru plimbări relaxate.",
+          "Multe cafenele oferă o vedere superbă direct spre zidurile orașului."
+        ],
+        "en": [
+          "Novigrad is very flat, making it ideal for relaxed strolls.",
+          "Many cafes offer a great view directly of the city walls."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Novigrad Marina",
+          "coords": [
+            13.5685,
+            45.3295
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Start am modernen Jachthafen.",
+            "hu": "Indulás a modern jachtkikötőnél.",
+            "ro": "Start în portul de agrement modern.",
+            "en": "Start at the modern yacht marina."
+          }
+        },
+        {
+          "name": "Dajla Monastery",
+          "coords": [
+            13.555,
+            45.355
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Malerische Küstenfahrt zu diesem geheimnisvollen Ort.",
+            "hu": "Festői tengerparti tekerés ehhez a titokzatos helyhez.",
+            "ro": "Plimbare pitorească pe coastă spre acest loc misterios.",
+            "en": "Picturesque coastal ride to this mysterious place."
+          }
+        },
+        {
+          "name": "Church of St. Agatha",
+          "coords": [
+            13.567,
+            45.3255
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Kleine romanische Kirche im Hinterland der Stadt.",
+            "hu": "Kis román stílusú templom a város határában.",
+            "ro": "Mică biserică romanică la marginea orașului.",
+            "en": "Small Romanesque church on the outskirts of town."
+          }
+        },
+        {
+          "name": "Old Town Loggia",
+          "coords": [
+            13.5635,
+            45.325
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die engen Gassen bis zum Meer.",
+            "hu": "Tekerjen át a szűk utcákon egészen a tengerig.",
+            "ro": "Pedalați pe străzile înguste până la mare.",
+            "en": "Cycle through the narrow streets down to the sea."
+          }
+        },
+        {
+          "name": "Seaside Promenade",
+          "coords": [
+            13.562,
+            45.326
+          ],
+          "category": "promenade",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt auf den Mauern.",
+            "hu": "Élvezze a gurulást a falak mentén.",
+            "ro": "Bucurați-vă de plimbarea pe zidurile cetății.",
+            "en": "Enjoy riding along the city walls."
+          }
+        },
+        {
+          "name": "Novigrad Beach",
+          "coords": [
+            13.57,
+            45.33
+          ],
+          "category": "beach",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verdiente Abkühlung nach der Rundfahrt.",
+            "hu": "Megérdemelt hűsölés a körút után.",
+            "ro": "O răcorire binemeritată după turul orașului.",
+            "en": "A well-deserved cool down after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Novigrad und seine Umgebung lassen sich hervorragend mit dem Rad erkunden. Fahren Sie entlang der Küste zum imposanten Kloster Dajla und kehren Sie über ländliche Wege zurück in die Altstadt. Der Weg führt Sie durch die Gassen bis zur Loggia am Meer. Beenden Sie Ihre Tour mit einer Fahrt entlang der Stadtmauer und einem Sprung in die Adria.",
+        "hu": "Novigrad és környéke kiválóan felfedezhető kerékpárral. Tekerjen a part mentén a monumentális Dajla-kolostorig, majd térjen vissza vidéki utakon az óvárosba. Az út a szűk utcákon át egészen a tengerparti loggiáig vezet. Zárja a túrát a városfal menti gurulással és egy frissítő csobbanással az Adriában.",
+        "ro": "Novigrad și împrejurimile sale pot fi explorate excelent cu bicicleta. Pedalați pe coastă până la mănăstirea Dajla și reveniți prin zone rurale în centrul vechi. Traseul vă poartă prin străduțe până la loggia de la mare. Încheiați turul cu o plimbare pe zidurile orașului și o baie în Adriatică.",
+        "en": "Novigrad and its surroundings are great for exploring by bike. Cycle along the coast to the imposing Dajla Monastery and return via rural paths to the old town. The route takes you through narrow streets to the seaside loggia. End your tour with a ride along the city walls and a dip in the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Gatto Blu",
+            "tip": "Hervorragende Pasta mit Meeresfrüchten direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Gatto Blu",
+            "tip": "Kiváló tengeri tésztaételek közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Gatto Blu",
+            "tip": "Paste cu fructe de mare excelente, chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Gatto Blu",
+            "tip": "Excellent seafood pasta dishes right at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dajla Bay",
+            "tip": "Ein fast vergessener, mystischer Ort an der Küste.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dajla-öböl",
+            "tip": "Egy majdnem elfeledett, misztikus hely a parton.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Dajla",
+            "tip": "Un loc mistic, aproape uitat, de pe coastă.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dajla Bay",
+            "tip": "An almost forgotten, mystical spot on the coast.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Istrisches Olivenöl",
+            "tip": "Die Region produziert einige der weltbesten Öle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai olívaolaj",
+            "tip": "A régió a világ legjobb olajait termeli."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline istrian",
+            "tip": "Regiunea produce unele dintre cele mai bune uleiuri din lume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Olive Oil",
+            "tip": "The region produces some of the world's best olive oils."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Küstenweg ist flach und sehr angenehm zu fahren.",
+          "In der Altstadt müssen Sie das Rad gelegentlich schieben."
+        ],
+        "hu": [
+          "A parti út sík és nagyon kellemes rajta tekerni.",
+          "Az óvárosban néha tolni kell majd a kerékpárt."
+        ],
+        "ro": [
+          "Drumul de coastă este plat și foarte plăcut pentru pedalat.",
+          "În orașul vechi va trebui să mergeți pe lângă bicicletă ocazional."
+        ],
+        "en": [
+          "The coastal path is flat and very pleasant for cycling.",
+          "In the old town, you may need to walk your bike occasionally."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 20.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Dajla Monastery",
+          "coords": [
+            13.555,
+            45.355
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt vor dem historischen Anwesen.",
+            "hu": "Parkoljon közvetlenül a történelmi birtok előtt.",
+            "ro": "Parcați chiar în fața domeniului istoric.",
+            "en": "Park directly in front of the historical estate."
+          }
+        },
+        {
+          "name": "Novigrad Marina",
+          "coords": [
+            13.5685,
+            45.3295
+          ],
+          "category": "harbor",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Eingang zum Jachthafen.",
+            "hu": "Tágas parkoló a jachtkikötő bejáratánál.",
+            "ro": "Parcare mare la intrarea în portul de agrement.",
+            "en": "Large parking lot at the entrance to the marina."
+          }
+        },
+        {
+          "name": "Old Town Novigrad",
+          "coords": [
+            13.5645,
+            45.3262
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb der Mauern am Kreisverkehr.",
+            "hu": "Parkoljon a falakon kívül, a körforgalomnál.",
+            "ro": "Parcați în afara zidurilor, la sensul giratoriu.",
+            "en": "Park outside the walls near the roundabout."
+          }
+        },
+        {
+          "name": "Belveder Loggia",
+          "coords": [
+            13.5635,
+            45.325
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Schatten am Mittag.",
+            "hu": "Élvezze az árnyékot délidőben.",
+            "ro": "Bucurați-vă de umbră la amiază.",
+            "en": "Enjoy the shade during the midday sun."
+          }
+        },
+        {
+          "name": "Gallerion Museum",
+          "coords": [
+            13.5675,
+            45.328
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spannende Modelle von Kriegsschiffen.",
+            "hu": "Izgalmas hadihajó-makettek.",
+            "ro": "Machete de nave de război fascinante.",
+            "en": "Fascinating models of historical warships."
+          }
+        },
+        {
+          "name": "Istralandia Water Park",
+          "coords": [
+            13.595,
+            45.385
+          ],
+          "category": "landmark",
+          "arrive_at": "15:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt ins Hinterland für Familienspaß.",
+            "hu": "Rövid út a hátországba családi szórakozáshoz.",
+            "ro": "Scurtă călătorie spre interior pentru distracție în familie.",
+            "en": "Short drive inland for family fun and slides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht Ihnen, Novigrad und die umliegenden Attraktionen flexibel zu kombinieren. Starten Sie beim beeindruckenden Kloster Dajla im Norden. Der Vormittag gehört dem Hafen und der Altstadt von Novigrad mit ihren Museen. Nach der Kultur bietet sich am Nachmittag eine kurze Fahrt in das nahegelegene Istralandia an, um den Tag mit Action oder Entspannung im Grünen zu beenden.",
+        "hu": "Az autó lehetővé teszi, hogy rugalmasan kombinálja Novigradot és a környék látnivalóit. Kezdjen az északon fekvő monumentális Dajla-kolostornál. A délelőtt Novigrad kikötőjéé és óvárosáé a múzeumokkal. A kulturális program után délután tegyen egy rövid utat a közeli Istralandiába, hogy a napot aktív szórakozással vagy zöldövezeti pihenéssel zárja.",
+        "ro": "Mașina vă permite să combinați flexibil Novigradul cu atracțiile din împrejurimi. Începeți la mănăstirea Dajla din nord. Dimineața aparține portului și centrul vechi din Novigrad, cu muzeele sale. După cultură, după-amiaza puteți face o scurtă călătorie la Istralandia pentru a încheia ziua cu distracție sau relaxare în natură.",
+        "en": "The car allows you to flexibly combine Novigrad with surrounding attractions. Start at the impressive Dajla Monastery in the north. The morning is dedicated to Novigrad's harbor and old town with its museums. After the culture, a short drive to the nearby Istralandia in the afternoon is a great way to end the day with action or relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marina Restaurant",
+            "tip": "Gehobene Küche mit exzellentem Service."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marina Restaurant",
+            "tip": "Elegáns konyha kiváló kiszolgálással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marina Restaurant",
+            "tip": "Bucătărie rafinată cu servicii excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marina Restaurant",
+            "tip": "Fine dining with excellent service and views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Antenal Bucht",
+            "tip": "Vogelbeobachtung im Flussdelta der Mirna.",
+            "emoji": "🦅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antenal-öböl",
+            "tip": "Madármegfigyelés a Mirna-folyó deltájában.",
+            "emoji": "🦅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Antenal",
+            "tip": "Observarea păsărilor în delta râului Mirna.",
+            "emoji": "🦅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Antenal Bay",
+            "tip": "Birdwatching in the Mirna river delta.",
+            "emoji": "🦅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trüffel Shop",
+            "tip": "Lokale Trüffelprodukte aus dem nahen Mirna-Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgomba bolt",
+            "tip": "Helyi szarvasgombás termékek a közeli Mirna-völgyből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de trufe",
+            "tip": "Produse cu trufe locale din valea Mirna din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Shop",
+            "tip": "Local truffle products from the nearby Mirna valley."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Wochenenden in Istralandia, wenn es sehr voll sein kann.",
+          "Nutzen Sie den Schatten der Pinienwälder am Meer für Pausen."
+        ],
+        "hu": [
+          "Kerülje a hétvégéket az Istralandiában a nagy tömeg miatt.",
+          "Használja a tengerparti fenyőerdők árnyékát pihenéshez."
+        ],
+        "ro": [
+          "Evitați weekendurile la Istralandia, deoarece poate fi foarte aglomerat.",
+          "Folosiți umbra pădurilor de pini de la malul mării pentru pauze."
+        ],
+        "en": [
+          "Avoid weekends at Istralandia as it can get very crowded.",
+          "Use the shade of the pine forests by the sea for breaks."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Novigrad Bus Station",
+          "coords": [
+            13.568,
+            45.331
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof liegt günstig am Rand der Altstadt.",
+            "hu": "A buszállomás kedvező helyen, az óváros szélén található.",
+            "ro": "Autogara este situată convenabil la marginea centrului vechi.",
+            "en": "The bus station is conveniently located on the edge of the old town."
+          }
+        },
+        {
+          "name": "Medieval City Walls",
+          "coords": [
+            13.563,
+            45.3255
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Einfacher Fußweg von der Haltestelle zum Meer.",
+            "hu": "Könnyű gyalogút a megállótól a tengerig.",
+            "ro": "Drum ușor pe jos de la stație spre mare.",
+            "en": "Easy walk from the bus stop to the seafront."
+          }
+        },
+        {
+          "name": "Umbrella Street",
+          "coords": [
+            13.5665,
+            45.327
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Mitten im Zentrum, ideal für einen kurzen Halt.",
+            "hu": "A központ közepén, ideális egy rövid megállóra.",
+            "ro": "Chiar în centru, ideal pentru o scurtă oprire.",
+            "en": "Right in the center, ideal for a quick stop."
+          }
+        },
+        {
+          "name": "Lapidarium Museum",
+          "coords": [
+            13.5655,
+            45.3258
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuch des Museums vor dem Mittagessen.",
+            "hu": "Múzeumlátogatás ebéd előtt.",
+            "ro": "Vizita la muzeu înainte de prânz.",
+            "en": "Visit the museum before heading for lunch."
+          }
+        },
+        {
+          "name": "Novigrad Riva Lunch",
+          "coords": [
+            13.564,
+            45.326
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den frischen Fang des Tages.",
+            "hu": "Élvezze a nap friss fogását.",
+            "ro": "Savurați captura proaspătă a zilei.",
+            "en": "Enjoy the fresh catch of the day for lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Novigrad lässt sich entspannt mit dem Bus erreichen. Vom Busbahnhof aus erreichen Sie in wenigen Minuten die historischen Mauern und die charmanten Gassen der Altstadt. Verbringen Sie den Vormittag mit Kultur im Lapidarium und farbenfrohen Fotomotiven. Den Nachmittag genießen Sie bei einem langen Mittagessen am Hafen und einem Spaziergang entlang der Riva.",
+        "hu": "Novigrad pihentetően elérhető busszal. A buszállomástól pár perc alatt elérheti a történelmi falakat és az óváros bájos utcáit. Töltse a délelőttöt kultúrával a Lapidáriumban és színes fotótémákkal. A délutánt élvezze egy hosszú ebéddel a kikötőben és egy sétával a Riva mentén.",
+        "ro": "Novigrad este ușor accesibil cu autobuzul. De la autogară ajungeți în câteva minute la zidurile istorice și pe străzile fermecătoare ale centrul vechi. Petreceți dimineața cu cultură la Lapidarium și locuri colorate pentru poze. După-amiaza, bucurați-vă de un prânz lung în port și de o plimbare pe faleză.",
+        "en": "Novigrad is easily accessible by bus. From the bus station, you can reach the historical walls and charming old town streets in just a few minutes. Spend the morning with culture at the Lapidarium and colorful photo spots. Enjoy the afternoon with a long lunch at the harbor and a stroll along the Riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Lungomare",
+            "tip": "Blick auf die Stadtmauer und das Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Lungomare",
+            "tip": "Kilátás a városfalra és a tengerre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Lungomare",
+            "tip": "Vedere spre zidul orașului și spre mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Lungomare",
+            "tip": "View of the city walls and the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Novigrad",
+            "tip": "Kleiner Park im Zentrum mit schattigen Bänken.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Novigradi park",
+            "tip": "Kis park a központban árnyas padokkal.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Novigrad",
+            "tip": "Mic parc în centru cu bănci umbrite.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Novigrad Park",
+            "tip": "Small park in the center with shaded benches.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Malvazija und Teran direkt in der Vinothek kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Malvazija és Teran vásárlása közvetlenül a borotékában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Cumpărați Malvazija și Teran direct de la vinotecă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Buy Malvazija and Teran wines directly at the wine shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kombinieren Sie den Besuch mit dem nahen Umag oder Poreč per Bus.",
+          "Die Tickets können online oder an der Station gekauft werden."
+        ],
+        "hu": [
+          "Kombinálja a látogatást a közeli Umaggal vagy Poreccsel busszal.",
+          "A jegyeket online vagy az állomáson is megveheti."
+        ],
+        "ro": [
+          "Combinați vizita cu orașele Umag sau Poreč din apropiere, cu autobuzul.",
+          "Biletele pot fi cumpărate online sau de la stație."
+        ],
+        "en": [
+          "Combine your visit with nearby Umag or Poreč by bus.",
+          "Tickets can be purchased online or at the bus station."
+        ]
+      }
+    }
+  }
+}

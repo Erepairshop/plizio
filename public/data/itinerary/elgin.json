@@ -1,0 +1,1077 @@
+{
+  "city_id": "elgin",
+  "anchor": {
+    "name": "Elgin Cathedral",
+    "coords": [
+      -3.31,
+      57.65
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Elgin Kathedrale",
+            "hu": "Elgin katedrális",
+            "ro": "Catedrala Elgin",
+            "en": "Elgin Cathedral"
+          },
+          "coords": [
+            -3.31,
+            57.65
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für eine tolle Aussicht.",
+            "hu": "Másszon fel a toronyba a nagyszerű kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște minunată.",
+            "en": "Climb the tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Biblischer Garten",
+            "hu": "Bibliai kert",
+            "ro": "Grădina Biblică",
+            "en": "Biblical Garden"
+          },
+          "coords": [
+            -3.312,
+            57.651
+          ],
+          "category": "garden",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe direkt neben der Kathedrale.",
+            "hu": "A nyugalom helye közvetlenül a katedrális mellett.",
+            "ro": "Un loc de liniște chiar lângă catedrală.",
+            "en": "A place of peace right next to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cooper Park",
+            "hu": "Cooper Park",
+            "ro": "Parcul Cooper",
+            "en": "Cooper Park"
+          },
+          "coords": [
+            -3.315,
+            57.653
+          ],
+          "category": "park",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang.",
+            "hu": "Ideális egy pihentető sétához.",
+            "ro": "Ideal pentru o plimbare relaxantă.",
+            "en": "Ideal for a relaxing walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Elgin Museum",
+            "hu": "Elgin Múzeum",
+            "ro": "Muzeul Elgin",
+            "en": "Elgin Museum"
+          },
+          "coords": [
+            -3.312,
+            57.649
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eines der ältesten unabhängigen Museen Schottlands.",
+            "hu": "Skócia egyik legrégebbi független múzeuma.",
+            "ro": "Unul dintre cele mai vechi muzee independente din Scoția.",
+            "en": "One of Scotland's oldest independent museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Mamma Mia Lunch",
+            "hu": "Mamma Mia ebéd",
+            "ro": "Prânz la Mamma Mia",
+            "en": "Mamma Mia Lunch"
+          },
+          "coords": [
+            -3.315,
+            57.648
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beliebtes lokales Bistro.",
+            "hu": "Népszerű helyi bisztró.",
+            "ro": "Bistro local popular.",
+            "en": "Popular local bistro."
+          }
+        },
+        {
+          "name": {
+            "de": "Johnstons of Elgin",
+            "hu": "Johnstons of Elgin",
+            "ro": "Johnstons of Elgin",
+            "en": "Johnstons of Elgin"
+          },
+          "coords": [
+            -3.305,
+            57.652
+          ],
+          "category": "shopping",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über Kaschmirherstellung.",
+            "hu": "Tudjon meg mindent a kasmírgyártásról.",
+            "ro": "Aflați totul despre producția de cașmir.",
+            "en": "Learn all about cashmere production."
+          }
+        },
+        {
+          "name": {
+            "de": "Lady Hill Viewpoint",
+            "hu": "Lady Hill kilátó",
+            "ro": "Punctul de belvedere Lady Hill",
+            "en": "Lady Hill Viewpoint"
+          },
+          "coords": [
+            -3.325,
+            57.648
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit Panoramablick.",
+            "hu": "Zárja a napot panorámás kilátással.",
+            "ro": "Încheiați ziua cu o vedere panoramică.",
+            "en": "End the day with a panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Elgin lässt sich hervorragend zu Fuß erkunden. Beginnen Sie bei den majestätischen Ruinen der Kathedrale und dem friedlichen Biblischen Garten. Durchqueren Sie den Cooper Park und tauchen Sie im Elgin Museum in die lokale Geschichte ein. Nach einem genussvollen Mittagessen besuchen Sie die berühmte Weberei Johnstons, bevor Sie von Lady Hill den Blick über die Stadt genießen.",
+        "hu": "Elgin kiválóan felfedezhető gyalogosan. Kezdje a katedrális fenséges romjainál és a békés Bibliai kertnél. Vágjon át a Cooper Parkon, és merüljön el a helyi történelemben az Elgin Múzeumban. Egy élvezetes ebéd után látogasson el a híres Johnstons szövőgyárba, majd élvezze a városra nyíló kilátást a Lady Hill-ről.",
+        "ro": "Elgin poate fi explorat excelent pe jos. Începeți la ruinele majestuoase ale catedralei și la liniștita Grădină Biblică. Traversați Parcul Cooper și scufundați-vă în istoria locală la Muzeul Elgin. După un prânz delicios, vizitați faimoasa fabrică de țesături Johnstons, înainte de a vă bucura de priveliștea asupra orașului de pe Lady Hill.",
+        "en": "Elgin is perfectly explored on foot. Start at the majestic ruins of the Cathedral and the peaceful Biblical Garden. Cross through Cooper Park and delve into local history at the Elgin Museum. After an enjoyable lunch, visit the famous Johnstons weaving mill before enjoying views over the town from Lady Hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mamma Mia",
+            "tip": "Hervorragende hausgemachte Pasta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mamma Mia",
+            "tip": "Kiváló házi tésztaételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mamma Mia",
+            "tip": "Paste de casă excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mamma Mia",
+            "tip": "Excellent homemade pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Biblical Garden",
+            "tip": "Einzigartige Pflanzensammlung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bibliai kert",
+            "tip": "Egyedülálló növénygyűjtemény.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Biblică",
+            "tip": "Colecție unică de plante.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Biblical Garden",
+            "tip": "Unique plant collection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Johnstons of Elgin",
+            "tip": "Luxuriöse Kaschmir-Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Johnstons of Elgin",
+            "tip": "Luxus kasmírtermékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Johnstons of Elgin",
+            "tip": "Produse de lux din cașmir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Johnstons of Elgin",
+            "tip": "Luxurious cashmere products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflaster.",
+          "Prüfen Sie die Öffnungszeiten des Museums."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskakövek miatt.",
+          "Ellenőrizze a múzeum nyitvatartását."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru pavaj.",
+          "Verificați programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones.",
+          "Check the museum opening hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Elgin Stadtzentrum",
+            "hu": "Elgin városközpont",
+            "ro": "Centrul orașului Elgin",
+            "en": "Elgin City Center"
+          },
+          "coords": [
+            -3.315,
+            57.648
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am zentralen Platz.",
+            "hu": "Kezdje a túrát a központi téren.",
+            "ro": "Începeți turul în piața centrală.",
+            "en": "Start your tour at the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Spylaw Park",
+            "hu": "Spylaw Park",
+            "ro": "Parcul Spylaw",
+            "en": "Spylaw Park"
+          },
+          "coords": [
+            -3.33,
+            57.655
+          ],
+          "category": "park",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schöne Wege am Fluss entlang.",
+            "hu": "Szép ösvények a folyó mentén.",
+            "ro": "Cărări frumoase pe malul râului.",
+            "en": "Beautiful paths along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Glen Moray Destillerie",
+            "hu": "Glen Moray lepárló",
+            "ro": "Distileria Glen Moray",
+            "en": "Glen Moray Distillery"
+          },
+          "coords": [
+            -3.335,
+            57.645
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die traditionelle Whisky-Herstellung.",
+            "hu": "Nézze meg a hagyományos whiskykészítést.",
+            "ro": "Vizitați producția tradițională de whisky.",
+            "en": "Visit traditional whisky production."
+          }
+        },
+        {
+          "name": {
+            "de": "The Dandy Lion Cafe",
+            "hu": "The Dandy Lion Cafe",
+            "ro": "The Dandy Lion Cafe",
+            "en": "The Dandy Lion Cafe"
+          },
+          "coords": [
+            -3.316,
+            57.648
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Stopp für Radfahrer.",
+            "hu": "Pihentető megálló kerékpárosoknak.",
+            "ro": "O oprire relaxantă pentru bicicliști.",
+            "en": "A relaxing stop for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Cooper Park Radrunde",
+            "hu": "Cooper Park kerékpáros kör",
+            "ro": "Circuit biciclete Parcul Cooper",
+            "en": "Cooper Park Bike Loop"
+          },
+          "coords": [
+            -3.315,
+            57.653
+          ],
+          "category": "park",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ebenerdige Wege durch den Park.",
+            "hu": "Sík ösvények a parkon keresztül.",
+            "ro": "Cărări plane prin parc.",
+            "en": "Flat paths through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Elgin Kathedrale",
+            "hu": "Elgin katedrális",
+            "ro": "Catedrala Elgin",
+            "en": "Elgin Cathedral"
+          },
+          "coords": [
+            -3.31,
+            57.65
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem monumentalen Bauwerk.",
+            "hu": "Zárja a napot ennél a monumentális építménynél.",
+            "ro": "Încheiați ziua la acest monument impresionant.",
+            "en": "End the day at this monumental structure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Elgin und seine grünen Vororte auf dem Fahrrad. Fahren Sie entlang des Flusses Lossie zum Spylaw Park und besuchen Sie die berühmte Glen Moray Destillerie. Nach einer Stärkung im Zentrum genießen Sie eine Runde durch den Cooper Park und beenden Ihre Tour an der geschichtsträchtigen Kathedrale.",
+        "hu": "Fedezze fel Elgint és zöld külvárosait kerékpárral. Tekerjen a Lossie folyó mentén a Spylaw Parkhoz, és látogasson el a híres Glen Moray lepárlóhoz. A központban elköltött ebéd után tegyen egy kört a Cooper Parkban, majd zárja a túrát a történelmi katedrálisnál.",
+        "ro": "Explorați Elgin și suburbiile sale verzi cu bicicleta. Pedalați de-a lungul râului Lossie până la Parcul Spylaw și vizitați faimoasa distilerie Glen Moray. După o pauză în centru, bucurați-vă de un circuit prin Parcul Cooper și încheiați turul la catedrala plină de istorie.",
+        "en": "Explore Elgin and its green suburbs by bike. Ride along the River Lossie to Spylaw Park and visit the famous Glen Moray Distillery. After refuelling in the center, enjoy a loop through Cooper Park and finish your tour at the historic Cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Dandy Lion",
+            "tip": "Hervorragender Kaffee und hausgemachtes Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Dandy Lion",
+            "tip": "Kiváló kávé és házi sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Dandy Lion",
+            "tip": "Cafea excelentă și produse de patiserie de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Dandy Lion",
+            "tip": "Excellent coffee and homemade pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "River Lossie Path",
+            "tip": "Sanftes Plätschern des Wassers.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lossie folyóparti ösvény",
+            "tip": "A víz lágy csobogása.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărarea râului Lossie",
+            "tip": "Susurul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Lossie Path",
+            "tip": "Gentle sound of flowing water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Trinken Sie keinen Whisky vor der Fahrt.",
+          "Nutzen Sie die markierten Radwege."
+        ],
+        "hu": [
+          "Ne igyon whiskyt kerékpározás előtt.",
+          "Használja a kijelölt kerékpárutakat."
+        ],
+        "ro": [
+          "Nu consumați whisky înainte de plimbare.",
+          "Folosiți pistele de biciclete marcate."
+        ],
+        "en": [
+          "Do not drink whisky before riding.",
+          "Use the designated cycle paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Elgin Kathedrale",
+            "hu": "Elgin katedrális",
+            "ro": "Catedrala Elgin",
+            "en": "Elgin Cathedral"
+          },
+          "coords": [
+            -3.31,
+            57.65
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe.",
+            "hu": "Nagy parkoló a közelben.",
+            "ro": "Parcare mare în apropiere.",
+            "en": "Large car park nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Johnstons of Elgin",
+            "hu": "Johnstons of Elgin",
+            "ro": "Johnstons of Elgin",
+            "en": "Johnstons of Elgin"
+          },
+          "coords": [
+            -3.305,
+            57.652
+          ],
+          "category": "shopping",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Cluster: Fabrikführung & Laden.",
+            "hu": "Klaszter: Gyárlátogatás és bolt.",
+            "ro": "Cluster: Tur de fabrică și magazin.",
+            "en": "Cluster: Factory tour & shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Glen Moray Destillerie",
+            "hu": "Glen Moray lepárló",
+            "ro": "Distileria Glen Moray",
+            "en": "Glen Moray Distillery"
+          },
+          "coords": [
+            -3.335,
+            57.645
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Informative Tour durch die Brennerei.",
+            "hu": "Informatív lepárlólátogatás.",
+            "ro": "Tur informativ al distileriei.",
+            "en": "Informative distillery tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Laichmoray Hotel Lunch",
+            "hu": "Laichmoray Hotel ebéd",
+            "ro": "Prânz la Hotelul Laichmoray",
+            "en": "Laichmoray Hotel Lunch"
+          },
+          "coords": [
+            -3.32,
+            57.643
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Klassische schottische Küche.",
+            "hu": "Klasszikus skót konyha.",
+            "ro": "Bucătărie scoțiană clasică.",
+            "en": "Classic Scottish cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Pluscarden Abbey",
+            "hu": "Pluscarden apátság",
+            "ro": "Abația Pluscarden",
+            "en": "Pluscarden Abbey"
+          },
+          "coords": [
+            -3.45,
+            57.61
+          ],
+          "category": "religious",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ein aktives Benediktinerkloster in Stille.",
+            "hu": "Működő bencés apátság, a csend szigete.",
+            "ro": "O mănăstire benedictină activă în liniște.",
+            "en": "An active Benedictine abbey in silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Lady Hill Monument",
+            "hu": "Lady Hill emlékmű",
+            "ro": "Monumentul Lady Hill",
+            "en": "Lady Hill Monument"
+          },
+          "coords": [
+            -3.325,
+            57.648
+          ],
+          "category": "historical",
+          "arrive_at": "17:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für das Panorama.",
+            "hu": "Rövid megálló a panoráma kedvéért.",
+            "ro": "Scurtă oprire pentru panoramă.",
+            "en": "Short stop for the panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Lossie River Bank",
+            "hu": "Lossie folyópart",
+            "ro": "Malul râului Lossie",
+            "en": "Lossie River Bank"
+          },
+          "coords": [
+            -3.315,
+            57.653
+          ],
+          "category": "park",
+          "arrive_at": "18:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein letzter Blick auf das Wasser.",
+            "hu": "Utolsó pillantás a vízre.",
+            "ro": "O ultimă vedere asupra apei.",
+            "en": "One last look at the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Elgin Sunset",
+            "hu": "Elgin naplemente",
+            "ro": "Apus Elgin",
+            "en": "Elgin Sunset"
+          },
+          "coords": [
+            -3.31,
+            57.65
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an der Kathedrale.",
+            "hu": "Zárja a napot a katedrálisnál.",
+            "ro": "Încheiați ziua la catedrală.",
+            "en": "Finish the day at the cathedral."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Elgin und die weiten Landschaften von Moray mit dem Auto. Beginnen Sie bei der Kathedrale und der berühmten Johnstons-Weberei. Nach einem Besuch in der Glen Moray Destillerie führt Sie die Fahrt zur abgelegenen und friedlichen Pluscarden Abbey, bevor Sie zum Sonnenuntergang nach Elgin zurückkehren.",
+        "hu": "Fedezze fel Elgint és Moray tágas tájait autóval. Kezdje a katedrálisnál és a híres Johnstons szövőgyárnál. A Glen Moray lepárló meglátogatása után az út a távoli és békés Pluscarden apátsághoz vezet, majd naplementére térjen vissza Elginbe.",
+        "ro": "Descoperiți Elgin și peisajele vaste din Moray cu mașina. Începeți la catedrală și la faimoasa fabrică Johnstons. După o vizită la distileria Glen Moray, drumul vă duce la Abația Pluscarden, izolată și liniștită, înainte de a reveni în Elgin pentru apusul soarelui.",
+        "en": "Discover Elgin and the vast landscapes of Moray by car. Start at the Cathedral and the famous Johnstons mill. After a visit to the Glen Moray Distillery, the drive takes you to the remote and peaceful Pluscarden Abbey before returning to Elgin for sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Laichmoray Hotel",
+            "tip": "Hervorragendes schottisches Rindfleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Laichmoray Hotel",
+            "tip": "Kiváló skót marhahúsételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laichmoray Hotel",
+            "tip": "Carne de vită scoțiană excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Laichmoray Hotel",
+            "tip": "Excellent Scottish beef dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pluscarden Abbey",
+            "tip": "Tiefe Stille im Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pluscarden apátság",
+            "tip": "Mély csend a völgyben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația Pluscarden",
+            "tip": "Liniște profundă în vale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pluscarden Abbey",
+            "tip": "Deep silence in the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Baxters of Fochabers",
+            "tip": "Berühmte schottische Lebensmittel (kurze Fahrt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baxters of Fochabers",
+            "tip": "Híres skót élelmiszerek (rövid autóút)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baxters of Fochabers",
+            "tip": "Faimoase produse alimentare scoțiene (scurtă călătorie)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baxters of Fochabers",
+            "tip": "Famous Scottish food products (short drive)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zur Pluscarden Abbey ist eng.",
+          "Achten Sie auf Wildtiere auf den Landstraßen."
+        ],
+        "hu": [
+          "A Pluscarden apátsághoz vezető út szűk.",
+          "Figyeljen a vadon élő állatokra az országutakon."
+        ],
+        "ro": [
+          "Drumul spre Abația Pluscarden este îngust.",
+          "Atenție la animalele sălbatice pe drumurile secundare."
+        ],
+        "en": [
+          "The road to Pluscarden Abbey is narrow.",
+          "Watch out for wildlife on the country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Elgin Busbahnhof",
+            "hu": "Elgin buszpályaudvar",
+            "ro": "Autogara Elgin",
+            "en": "Elgin Bus Station"
+          },
+          "coords": [
+            -3.316,
+            57.648
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Linien.",
+            "hu": "Központi csomópont minden járathoz.",
+            "ro": "Nod central pentru toate liniile.",
+            "en": "Central hub for all lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Lossiemouth Promenade",
+            "hu": "Lossiemouth sétány",
+            "ro": "Promenada Lossiemouth",
+            "en": "Lossiemouth Promenade"
+          },
+          "coords": [
+            -3.28,
+            57.72
+          ],
+          "category": "beach",
+          "arrive_at": "10:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Sandstrand und Hafen.",
+            "hu": "Gyönyörű homokos strand és kikötő.",
+            "ro": "Plajă superbă cu nisip și port.",
+            "en": "Beautiful sandy beach and harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Harbour Lights Lunch",
+            "hu": "Harbour Lights ebéd",
+            "ro": "Prânz la Harbour Lights",
+            "en": "Harbour Lights Lunch"
+          },
+          "coords": [
+            -3.275,
+            57.722
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frischer Fisch mit Blick auf den Hafen.",
+            "hu": "Friss halételek kikötőre néző kilátással.",
+            "ro": "Pește proaspăt cu vedere la port.",
+            "en": "Fresh fish with harbour views."
+          }
+        },
+        {
+          "name": {
+            "de": "Elgin Cathedral Stop",
+            "hu": "Elgin katedrális megálló",
+            "ro": "Stația Catedrala Elgin",
+            "en": "Elgin Cathedral Stop"
+          },
+          "coords": [
+            -3.31,
+            57.65
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zurück ins Zentrum.",
+            "hu": "Rövid utazás vissza a központba.",
+            "ro": "Scurtă călătorie înapoi în centru.",
+            "en": "Short ride back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cooper Park",
+            "hu": "Cooper Park",
+            "ro": "Parcul Cooper",
+            "en": "Cooper Park"
+          },
+          "coords": [
+            -3.315,
+            57.653
+          ],
+          "category": "park",
+          "arrive_at": "16:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang zum Busbahnhof.",
+            "hu": "Pihentető séta a buszpályaudvar felé.",
+            "ro": "O plimbare relaxantă spre autogară.",
+            "en": "A relaxing walk towards the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Elgin High Street",
+            "hu": "Elgin High Street",
+            "ro": "Elgin High Street",
+            "en": "Elgin High Street"
+          },
+          "coords": [
+            -3.318,
+            57.648
+          ],
+          "category": "shopping",
+          "arrive_at": "17:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzte Besorgungen vor der Abreise.",
+            "hu": "Utolsó vásárlások távozás előtt.",
+            "ro": "Ultimele cumpărături înainte de plecare.",
+            "en": "Last-minute shopping before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Bus, um die Küste von Moray zu erleben. Fahren Sie von Elgin nach Lossiemouth, genießen Sie die Meeresbrise und den Sandstrand. Nach einem Fisch-Mittagessen kehren Sie nach Elgin zurück, um die Kathedrale zu besichtigen und den Tag mit einem gemütlichen Stadtbummel abzuschließen.",
+        "hu": "Használja a buszt a Moray-part felfedezéséhez. Utazzon Elginből Lossiemouth-ba, élvezze a tengeri szellőt és a homokos strandot. Egy halas ebéd után térjen vissza Elginbe, tekintse meg a katedrálist, majd zárja a napot egy kellemes városi sétával.",
+        "ro": "Folosiți autobuzul pentru a experimenta coasta Moray. Mergeți de la Elgin la Lossiemouth, bucurați-vă de briza mării și de plaja cu nisip. După un prânz cu pește, reveniți în Elgin pentru a vizita catedrala și încheiați ziua cu o plimbare relaxantă prin oraș.",
+        "en": "Use the bus to experience the Moray coast. Travel from Elgin to Lossiemouth, enjoy the sea breeze and the sandy beach. After a fish lunch, return to Elgin to visit the Cathedral and finish the day with a leisurely stroll through the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Harbour Lights",
+            "tip": "Beste Fish & Chips in der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harbour Lights",
+            "tip": "A régió legjobb fish & chips-e."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Harbour Lights",
+            "tip": "Cel mai bun fish & chips din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbour Lights",
+            "tip": "Best fish & chips in the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lossiemouth West Beach",
+            "tip": "Endlose Weite am Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lossiemouth nyugati strand",
+            "tip": "Végtelen tágasság a tengerparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja de vest Lossiemouth",
+            "tip": "Vastitate infinită la malul mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lossiemouth West Beach",
+            "tip": "Endless space by the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Elgin St Giles Centre",
+            "tip": "Modernes Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elgin St Giles Centre",
+            "tip": "Modern bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul St Giles Elgin",
+            "tip": "Centru comercial modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Elgin St Giles Centre",
+            "tip": "Modern shopping center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Linie 33A/33C fährt regelmäßig nach Lossiemouth.",
+          "Achten Sie auf Ebbe und Flut am Strand."
+        ],
+        "hu": [
+          "A 33A/33C járat rendszeresen közlekedik Lossiemouth-ba.",
+          "Ügyeljen az árapályra a strandon."
+        ],
+        "ro": [
+          "Linia 33A/33C merge regulat spre Lossiemouth.",
+          "Atenție la flux și reflux pe plajă."
+        ],
+        "en": [
+          "Line 33A/33C runs regularly to Lossiemouth.",
+          "Be aware of tide times at the beach."
+        ]
+      }
+    }
+  }
+}

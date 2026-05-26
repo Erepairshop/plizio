@@ -1,0 +1,188 @@
+{
+  "city_id": "bac-ninh-cities-v2",
+  "anchor": {
+    "name": "Bắc Ninh Museum",
+    "coords": [
+      106.0689,
+      21.1872
+    ]
+  },
+  "modes": {
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Đô-Tempel (Đền Đô)",
+            "hu": "Do templom (Den Do)",
+            "ro": "Templul Đô (Đền Đô)",
+            "en": "Do Temple (Den Do)"
+          },
+          "coords": [
+            105.9961,
+            21.1278
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein prächtiger Tempelkomplex, der den Lý-Königen gewidmet ist.",
+            "hu": "Pompás templomkomplexum a Lý-királyok emlékére.",
+            "ro": "Un complex de temple dedicat regilor Lý.",
+            "en": "A magnificent temple complex dedicated to the Lý kings."
+          }
+        },
+        {
+          "name": {
+            "de": "Lim-Hügel",
+            "hu": "Lim-domb",
+            "ro": "Dealul Lim",
+            "en": "Lim Hill"
+          },
+          "coords": [
+            106.0153,
+            21.1356
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schauplatz des berühmten Lim-Fests für Quan-họ-Gesang.",
+            "hu": "A híres Lim-fesztivál helyszíne, a Quan họ éneklés központja.",
+            "ro": "Locul celebrului Festival Lim pentru cântece Quan họ.",
+            "en": "Site of the famous Lim Festival for Quan họ singing."
+          }
+        },
+        {
+          "name": {
+            "de": "Phat-Tich-Pagode",
+            "hu": "Phat Tich pagoda",
+            "ro": "Pagoda Phat Tich",
+            "en": "Phat Tich Pagoda"
+          },
+          "coords": [
+            106.0258,
+            21.0986
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Bekannt für die riesige Buddha-Statue auf dem Gipfel.",
+            "hu": "Híres a hegytetőn álló óriási Buddha-szoborról.",
+            "ro": "Cunoscută pentru statuia uriașă a lui Buddha.",
+            "en": "Known for the giant Buddha statue on the hilltop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bắc Ninh Museum",
+            "hu": "Bắc Ninh Múzeum",
+            "ro": "Muzeul Bắc Ninh",
+            "en": "Bắc Ninh Museum"
+          },
+          "coords": [
+            106.0689,
+            21.1872
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Lernen Sie die lokale Geschichte und das Handwerk kennen.",
+            "hu": "Ismerje meg a helyi történelmet és kézművességet.",
+            "ro": "Aflați despre istoria și meșteșugurile locale.",
+            "en": "Learn about the local history and crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bắc Ninh Markt",
+            "hu": "Bắc Ninh piac",
+            "ro": "Piața Bắc Ninh",
+            "en": "Bắc Ninh Market"
+          },
+          "coords": [
+            106.0725,
+            21.1825
+          ],
+          "category": "market",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Snacks und Früchte.",
+            "hu": "Kóstolja meg a helyi falatokat és gyümölcsöket.",
+            "ro": "Gustați gustări locale și fructe.",
+            "en": "Taste local snacks and fruits."
+          }
+        },
+        {
+          "name": {
+            "de": "Quan-Họ-Kulturzentrum",
+            "hu": "Quan Họ Kulturális Központ",
+            "ro": "Centrul Cultural Quan Họ",
+            "en": "Quan Họ Cultural Center"
+          },
+          "coords": [
+            106.0655,
+            21.1925
+          ],
+          "category": "historical",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Hören Sie traditionelle Gesänge am späten Nachmittag.",
+            "hu": "Hallgasson hagyományos énekeket késő délután.",
+            "ro": "Ascultați cântece tradiționale după-amiaza târziu.",
+            "en": "Listen to traditional singing in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Wiege der vietnamesischen Kultur auf zwei Rädern. Ihre Radtour führt Sie zum prächtigen Đô-Tempel und dem spirituellen Phat-Tich-Pagode, während Sie die flache Landschaft des Roten-Fluss-Deltas genießen. Am Nachmittag tauchen Sie im Stadtmuseum und im Quan-Họ-Zentrum tiefer in die lokalen Traditionen ein, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Fedezze fel a vietnámi kultúra bölcsőjét két keréken. Kerékpártúrája a pompás Do-templomhoz és a spirituális Phat Tich pagodához vezet, miközben élvezi a Vörös-folyó deltájának sík tájait. Délután a városi múzeumban és a Quan Họ központban mélyedjen el a helyi hagyományokban, mielőtt kényelmesen befejezné a napot.",
+        "ro": "Descoperiți leagănul culturii vietnameze pe două roți. Turul cu bicicleta vă duce la templul Đô și la pagoda Phat Tich, bucurându-vă de peisajul plat al Deltei Râului Roșu. După-amiaza, aprofundați tradițiile locale la muzeu și la centrul Quan Họ, înainte de a încheia ziua relaxat.",
+        "en": "Discover the cradle of Vietnamese culture on two wheels. Your bike tour takes you to the magnificent Đô Temple and the spiritual Phat Tich Pagoda while you enjoy the flat landscape of the Red River Delta. In the afternoon, dive deeper into local traditions at the city museum and the Quan Họ Center before concluding your day comfortably."
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie Sonnenschutz, da die Wege oft wenig Schatten bieten.",
+          "Mieten Sie ein Fahrrad mit Gangschaltung für längere Strecken.",
+          "Achten Sie auf den Verkehr, besonders beim Überqueren großer Straßen."
+        ],
+        "hu": [
+          "Használjon naptejet, mert az utak gyakran árnyékmentesek.",
+          "Béreljen váltós kerékpárt a hosszabb szakaszokra.",
+          "Figyeljen a forgalomra, különösen a nagyobb utak keresztezésekor."
+        ],
+        "ro": [
+          "Folosiți protecție solară, deoarece drumurile oferă puțină umbră.",
+          "Închiriați o bicicletă cu viteze pentru distanțe mai lungi.",
+          "Fiți atenți la trafic, mai ales la traversarea drumurilor mari."
+        ],
+        "en": [
+          "Wear sunscreen, as the paths often provide little shade.",
+          "Rent a bike with gears for longer distances.",
+          "Pay attention to traffic, especially when crossing main roads."
+        ]
+      }
+    }
+  }
+}

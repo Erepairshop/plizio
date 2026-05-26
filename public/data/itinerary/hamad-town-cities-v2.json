@@ -1,0 +1,266 @@
+{
+  "city_id": "hamad-town-cities-v2",
+  "anchor": {
+    "name": "Roundabout 1",
+    "coords": [
+      50.505,
+      26.135
+    ]
+  },
+  "modes": {
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 30.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Roundabout 1 Landmark",
+            "hu": "1. körforgalom",
+            "ro": "Giratoriul 1",
+            "en": "Roundabout 1"
+          },
+          "coords": [
+            50.505,
+            26.135
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Eingang zur Planstadt.",
+            "hu": "A tervezett város bejárata.",
+            "ro": "Intrarea în orașul planificat.",
+            "en": "The entrance to the planned city."
+          }
+        },
+        {
+          "name": {
+            "de": "Souq Waqif Hamad Town",
+            "hu": "Hamad Town-i Souq Waqif",
+            "ro": "Souq Waqif Hamad Town",
+            "en": "Souq Waqif Hamad Town"
+          },
+          "coords": [
+            50.515,
+            26.12
+          ],
+          "category": "shopping",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein lokaler Favorit für Streetfood.",
+            "hu": "Helyi kedvenc streetfood-hely.",
+            "ro": "Un favorit local pentru street food.",
+            "en": "A local favorite for street food."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamad Town Public Park",
+            "hu": "Hamad Town közpark",
+            "ro": "Parcul Public Hamad Town",
+            "en": "Hamad Town Public Park"
+          },
+          "coords": [
+            50.5,
+            26.1
+          ],
+          "category": "park",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Große Grünflächen für Familien.",
+            "hu": "Nagy zöldterületek családoknak.",
+            "ro": "Spații verzi mari pentru familii.",
+            "en": "Large green spaces for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Wadi Al Sail",
+            "hu": "Wadi Al Sail",
+            "ro": "Wadi Al Sail",
+            "en": "Wadi Al Sail"
+          },
+          "coords": [
+            50.485,
+            26.08
+          ],
+          "category": "nature",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Natürliche Formationen am Stadtrand.",
+            "hu": "Természetes formációk a város szélén.",
+            "ro": "Formațiuni naturale la marginea orașului.",
+            "en": "Natural formations at the edge of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahrain International Circuit",
+            "hu": "Bahrain International Circuit",
+            "ro": "Circuitul Internațional Bahrain",
+            "en": "Bahrain International Circuit"
+          },
+          "coords": [
+            50.51,
+            26.03
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Formel-1-Gelände.",
+            "hu": "Látogasd meg a Forma-1 helyszínét.",
+            "ro": "Vizitați terenul de Formula 1.",
+            "en": "Visit the Formula 1 grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Sakhir Palace",
+            "hu": "Sakhir-palota",
+            "ro": "Palatul Sakhir",
+            "en": "Sakhir Palace"
+          },
+          "coords": [
+            50.52,
+            26.02
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nur von außen zu bewundern.",
+            "hu": "Csak kívülről csodálható meg.",
+            "ro": "Poate fi admirat doar din exterior.",
+            "en": "Can only be admired from the outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route zeigt das moderne Bahrain jenseits der Küste. Erleben Sie den Rhythmus der Planstadt mit ihren endlosen Kreisverkehren und machen Sie einen Abstecher zur weltberühmten Formel-1-Rennstrecke in der Sakhir-Wüste.",
+        "hu": "Ez az útvonal a tengerparton túli modern Bahreint mutatja be. Érezd a tervezett város ritmusát a végtelen körforgalmaival, és tegyél egy kitérőt a világhírű Forma-1-es versenypályához a Sakhir-sivatagban.",
+        "ro": "Această rută prezintă Bahrainul modern de dincolo de coastă. Experimentați ritmul orașului planificat cu giratoriile sale nesfârșite și faceți o excursie la circuitul de Formula 1 de renume mondial din deșertul Sakhir.",
+        "en": "This route showcases modern Bahrain beyond the coast. Experience the rhythm of the planned city with its endless roundabouts and take a detour to the world-famous Formula 1 circuit in the Sakhir desert."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gaimat",
+            "tip": "Süße, frittierte Teigbällchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gaimat",
+            "tip": "Édes, sült tésztagolyók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gaimat",
+            "tip": "Gogoși dulci prăjite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gaimat",
+            "tip": "Sweet fried dough balls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sakhir Desert",
+            "tip": "Sternenhimmel beobachten.",
+            "emoji": "🌌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sakhir sivatag",
+            "tip": "Csillagnézés a sivatagban.",
+            "emoji": "🌌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Deșertul Sakhir",
+            "tip": "Privit stelele în deșert.",
+            "emoji": "🌌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sakhir Desert",
+            "tip": "Stargazing in the desert.",
+            "emoji": "🌌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Reef Mall",
+            "tip": "Praktische Mall für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reef Mall",
+            "tip": "Praktikus pláza a napi szükségletekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Reef Mall",
+            "tip": "Mall practic pentru nevoile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reef Mall",
+            "tip": "Convenient mall for daily needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Kreisverkehr-Nummern.",
+          "Die Rennstrecke hat einen tollen Fan-Shop."
+        ],
+        "hu": [
+          "Figyelj a körforgalmak számaira.",
+          "A versenypályának remek rajongói boltja van."
+        ],
+        "ro": [
+          "Atenție la numerele sensurilor giratorii.",
+          "Circuitul are un magazin de fani grozav."
+        ],
+        "en": [
+          "Pay attention to the roundabout numbers.",
+          "The circuit has a great fan shop."
+        ]
+      }
+    }
+  }
+}

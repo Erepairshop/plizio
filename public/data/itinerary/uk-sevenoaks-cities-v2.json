@@ -1,0 +1,906 @@
+{
+  "city_id": "uk-sevenoaks-cities-v2",
+  "anchor": {
+    "name": "Sevenoaks High Street",
+    "coords": [
+      0.191,
+      51.269
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Sevenoaks High Street",
+          "coords": [
+            0.191,
+            51.269
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die charmanten Boutiquen.",
+            "hu": "Fedezze fel az egyedi kis boltokat.",
+            "ro": "Vizitați buticurile fermecătoare.",
+            "en": "Explore the charming independent boutiques."
+          }
+        },
+        {
+          "name": "The Vine",
+          "coords": [
+            0.192,
+            51.274
+          ],
+          "category": "park",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein historischer Cricketplatz mit Atmosphäre.",
+            "hu": "Történelmi krikettpálya és pihenőhely.",
+            "ro": "Un teren de cricket istoric cu atmosferă.",
+            "en": "A historic cricket ground with a relaxing vibe."
+          }
+        },
+        {
+          "name": "Knole House",
+          "coords": [
+            0.203,
+            51.266
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buchen Sie die Schauräume im Voraus.",
+            "hu": "Érdemes előre jegyet foglalni a szobákba.",
+            "ro": "Rezervați biletele pentru sălile de expoziție în avans.",
+            "en": "Book tickets for the showrooms in advance."
+          }
+        },
+        {
+          "name": "Knole Park",
+          "coords": [
+            0.21,
+            51.26
+          ],
+          "category": "park",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie Abstand zu den frei laufenden Hirschen.",
+            "hu": "Tartsanak távolságot a szarvasoktól.",
+            "ro": "Păstrați distanța față de cerbii liberi.",
+            "en": "Keep a safe distance from the free-roaming deer."
+          }
+        },
+        {
+          "name": "Sevenoaks Museum",
+          "coords": [
+            0.188,
+            51.272
+          ],
+          "category": "museum",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte.",
+            "hu": "Ismerje meg a város helyi történelmét.",
+            "ro": "Aflați mai multe despre istoria locală.",
+            "en": "Learn about the town's local history and heritage."
+          }
+        },
+        {
+          "name": "The Chequers Pub",
+          "coords": [
+            0.191,
+            51.268
+          ],
+          "category": "gastro",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Real Ale.",
+            "hu": "Kóstoljon meg egy helyi ale sörkülönlegességet.",
+            "ro": "Încercați o bere locală artizanală.",
+            "en": "Try a local real ale in a historic setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im eleganten Zentrum von Sevenoaks. Nach einem Bummel durch die High Street führt Sie der Weg zum historischen Knole House, einem der größten Herrenhäuser Englands. Der Nachmittag gehört der Natur im weitläufigen Knole Park, bevor Sie in einem traditionellen Pub den Tag ausklingen lassen.",
+        "hu": "Kezdje a napot Sevenoaks elegáns központjában. A High Street butikjai után látogasson el a lenyűgöző Knole House-ba, Anglia egyik legnagyobb udvarházába. A délutánt töltse a hatalmas Knole Park vadregényes tájain a szarvasok között, majd térjen be egy hangulatos helyi pubba.",
+        "ro": "Începeți ziua în centrul elegant din Sevenoaks. După o plimbare pe High Street, vizitați impresionanta Knole House, una dintre cele mai mari case nobiliare din Anglia. După-amiaza este dedicată naturii în vastul Parc Knole, înainte de a încheia ziua într-un pub tradițional.",
+        "en": "Start your day in the elegant heart of Sevenoaks. After exploring the boutique shops, head to the magnificent Knole House, one of England's largest stately homes. Spend the afternoon amidst the deer in Knole Park before winding down in a cozy, historic local pub."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Chequers",
+            "tip": "Historischer Pub mit klassischer Küche."
+          },
+          {
+            "name": "Nonno Leo",
+            "tip": "Authentische italienische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Chequers",
+            "tip": "Történelmi pub klasszikus ételekkel."
+          },
+          {
+            "name": "Nonno Leo",
+            "tip": "Autentikus olasz fogások a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Chequers",
+            "tip": "Pub istoric cu mâncare clasică."
+          },
+          {
+            "name": "Nonno Leo",
+            "tip": "Preparate italiene autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Chequers",
+            "tip": "Historic pub serving classic British fare."
+          },
+          {
+            "name": "Nonno Leo",
+            "tip": "Authentic Italian dishes in the town centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Knole Park Weiten",
+            "tip": "Ruhige Ecken abseits der Hauptwege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knole Park távoli részei",
+            "tip": "Csendes pihenőhelyek a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zonel retrase din Knole Park",
+            "tip": "Locuri liniștite departe de aleile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Deep Knole Park",
+            "tip": "Quiet spots away from the main walking paths.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sevenoaks Bookshop",
+            "tip": "Eine preisgekrönte Buchhandlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sevenoaks Bookshop",
+            "tip": "Díjnyertes, hangulatos könyvesbolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sevenoaks Bookshop",
+            "tip": "O librărie premiată și primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sevenoaks Bookshop",
+            "tip": "An award-winning independent bookstore."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sevenoaks ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Besuchen Sie Knole Park am frühen Vormittag."
+        ],
+        "hu": [
+          "Sevenoaks elég dombos, kényelmes cipő ajánlott.",
+          "A Knole Parkot érdemes délelőtt meglátogatni."
+        ],
+        "ro": [
+          "Sevenoaks are multe dealuri, purtați pantofi comozi.",
+          "Vizitați Parcul Knole dimineața devreme."
+        ],
+        "en": [
+          "Sevenoaks is quite hilly, so wear comfortable walking shoes.",
+          "Visit Knole Park in the early morning for the best light."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Sevenoaks Wildlife Reserve",
+          "coords": [
+            0.183,
+            51.284
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ideal für Vogelbeobachtungen.",
+            "hu": "Kiváló hely madármegfigyelésre.",
+            "ro": "Ideal pentru observarea păsărilor.",
+            "en": "Excellent spot for peaceful birdwatching."
+          }
+        },
+        {
+          "name": "High Street Cafe",
+          "coords": [
+            0.191,
+            51.269
+          ],
+          "category": "cafe",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause.",
+            "hu": "Tökéletes hely egy kávéra.",
+            "ro": "Perfect pentru o pauză scurtă.",
+            "en": "Perfect for a quick cycling break."
+          }
+        },
+        {
+          "name": "Knole Park Cycle Path",
+          "coords": [
+            0.203,
+            51.266
+          ],
+          "category": "park",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Radfahren ist nur auf markierten Wegen erlaubt.",
+            "hu": "Kerékpározás csak a kijelölt utakon szabad.",
+            "ro": "Ciclismul este permis doar pe potecile marcate.",
+            "en": "Cycling is only permitted on designated paths."
+          }
+        },
+        {
+          "name": "Riverhead Village",
+          "coords": [
+            0.176,
+            51.282
+          ],
+          "category": "square",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Charmantes Dorf am Rande der Stadt.",
+            "hu": "Bájos falu a város szélén.",
+            "ro": "Sat fermecător la marginea orașului.",
+            "en": "Charming village on the outskirts of Sevenoaks."
+          }
+        },
+        {
+          "name": "The White Hart",
+          "coords": [
+            0.192,
+            51.264
+          ],
+          "category": "gastro",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Schöner Garten für Radfahrer.",
+            "hu": "Hangulatos kerthelyiség pihenéshez.",
+            "ro": "Grădină frumoasă ideală pentru bicicliști.",
+            "en": "Lovely beer garden, great for a post-ride meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Sevenoaks und seine Umgebung auf zwei Rädern. Von den ruhigen Seen des Wildlife Reserve fahren Sie durch die historische Innenstadt bis in die weiten Landschaften von Knole Park. Diese Route bietet eine perfekte Mischung aus Natur und Kultur.",
+        "hu": "Fedezze fel Sevenoaks környékét két keréken. A természetvédelmi terület tavaitól indulva tekerjen át a történelmi központon a Knole Park tágas legelőiig. Ez az útvonal a természet és a városi báj tökéletes keverékét nyújtja.",
+        "ro": "Explorați Sevenoaks și împrejurimile sale pe două roți. De la lacurile liniștite ale rezervației naturale, pedalați prin centrul istoric până în peisajele vaste din Parcul Knole. Traseul oferă un mix perfect de natură și cultură.",
+        "en": "Explore Sevenoaks and its stunning surroundings on two wheels. Ride from the peaceful lakes of the Wildlife Reserve through the historic town centre to the expansive paths of Knole Park. A perfect mix of nature and heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The White Hart",
+            "tip": "Großer Garten, ideal für Gruppen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The White Hart",
+            "tip": "Hatalmas kerthelyiség, ideális pihenőhely."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The White Hart",
+            "tip": "Grădină mare, ideală pentru grupuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "The White Hart",
+            "tip": "Spacious garden, ideal for cycling groups."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wildlife Hide",
+            "tip": "Beobachten Sie Vögel in aller Stille.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madármegfigyelő kunyhó",
+            "tip": "Csendes megfigyelés a tavaknál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observator ornitologic",
+            "tip": "Observați păsările în liniște deplină.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wildlife Hide",
+            "tip": "Observe birdlife in total silence.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Riverhead Shops",
+            "tip": "Kleine lokale Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riverhead kisboltjai",
+            "tip": "Helyi kisüzletek és pékségek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale în Riverhead",
+            "tip": "Mici prăvălii și brutării locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverhead Local Shops",
+            "tip": "Small local boutiques and bakeries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie im Knole Park auf Fußgänger.",
+          "Die Wege im Wildlife Reserve können schlammig sein."
+        ],
+        "hu": [
+          "A Knole Parkban figyeljen a gyalogosokra.",
+          "A természetvédelmi területen az utak sárosak lehetnek."
+        ],
+        "ro": [
+          "Atenție la pietoni în Parcul Knole.",
+          "Potecile din rezervație pot fi noroioase."
+        ],
+        "en": [
+          "Be mindful of pedestrians within Knole Park.",
+          "Paths in the Wildlife Reserve can be muddy after rain."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Sevenoaks Wildlife Reserve",
+          "coords": [
+            0.183,
+            51.284
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Eingang.",
+            "hu": "Parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare chiar la intrare.",
+            "en": "Ample parking available at the entrance."
+          }
+        },
+        {
+          "name": "High Street Cluster",
+          "coords": [
+            0.191,
+            51.269
+          ],
+          "category": "square",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz vorhanden.",
+            "hu": "Központi parkoló a bevásárláshoz.",
+            "ro": "Parcare centrală disponibilă.",
+            "en": "Use the central car park for the high street."
+          }
+        },
+        {
+          "name": "Sevenoaks Library & Museum",
+          "coords": [
+            0.188,
+            51.272
+          ],
+          "category": "museum",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Zentrum.",
+            "hu": "Rövid séta a központtól.",
+            "ro": "Scurtă plimbare din centru.",
+            "en": "A short walk from the central cluster."
+          }
+        },
+        {
+          "name": "Knole House Cluster",
+          "coords": [
+            0.203,
+            51.266
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "National Trust Parkplatz vor Ort.",
+            "hu": "Helyi National Trust parkoló.",
+            "ro": "Parcare National Trust la fața locului.",
+            "en": "On-site National Trust parking available."
+          }
+        },
+        {
+          "name": "Knole Park Walk",
+          "coords": [
+            0.21,
+            51.26
+          ],
+          "category": "park",
+          "arrive_at": "15:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang direkt vom Haus aus.",
+            "hu": "Séta közvetlenül a kastély mellől.",
+            "ro": "Plimbare direct de la conac.",
+            "en": "Scenic walk starting directly from the house."
+          }
+        },
+        {
+          "name": "Ightham Mote (Nearby)",
+          "coords": [
+            0.269,
+            51.258
+          ],
+          "category": "historical",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Ein verstecktes mittelalterliches Juwel.",
+            "hu": "Rejtett középkori udvarház a közelben.",
+            "ro": "O bijuterie medievală ascunsă.",
+            "en": "A stunning hidden medieval moated manor house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um sowohl das Stadtzentrum als auch die Highlights der Umgebung zu sehen. Nach Knole Park führt Sie ein kurzer Trip zum bezaubernden Wasserschloss Ightham Mote. Diese Kombination bietet das Beste aus Sevenoaks und West Kent.",
+        "hu": "Használja az autót a város és a környék nevezetességeinek eléréséhez. A Knole Park után egy rövid autózással eljuthat a lenyűgöző Ightham Mote vizesárkos udvarházhoz, amely Kent egyik legszebb középkori emléke.",
+        "ro": "Folosiți mașina pentru a vedea atât centrul orașului, cât și punctele de atracție din jur. După Knole Park, o scurtă călătorie vă duce la superba casă medievală cu șanț de apă, Ightham Mote.",
+        "en": "Use your car to easily access both the town highlights and nearby treasures. After exploring Knole, take a short drive to the enchanting medieval moated manor of Ightham Mote, a true Kentish gem."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Brewhouse",
+            "tip": "Gutes Essen direkt bei Knole."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Brewhouse",
+            "tip": "Kiváló ebédlehetőség a Knole-nál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Brewhouse",
+            "tip": "Mâncare bună chiar lângă Knole."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Brewhouse",
+            "tip": "Great lunch spot located within Knole."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ightham Gärten",
+            "tip": "Sehr friedliche Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ightham kertjei",
+            "tip": "Rendkívül békés és csendes hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Ightham",
+            "tip": "O atmosferă foarte pașnică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ightham Gardens",
+            "tip": "An incredibly peaceful atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bligh's Meadow",
+            "tip": "Modernes Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bligh's Meadow",
+            "tip": "Modern bevásárlóudvar a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bligh's Meadow",
+            "tip": "Centru comercial modern în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bligh's Meadow",
+            "tip": "Modern shopping courtyard in the town centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze im Zentrum sind oft zeitlich begrenzt.",
+          "Ightham Mote schließt früher als Knole."
+        ],
+        "hu": [
+          "A központi parkolók gyakran időkorlátosak.",
+          "Az Ightham Mote korábban zár, mint a Knole."
+        ],
+        "ro": [
+          "Parcările din centru au adesea limită de timp.",
+          "Ightham Mote se închide mai devreme decât Knole."
+        ],
+        "en": [
+          "Town centre parking can be time-limited.",
+          "Ightham Mote usually closes earlier than Knole House."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Sevenoaks Station",
+          "coords": [
+            0.181,
+            51.276
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Häufige Verbindungen von London.",
+            "hu": "Gyakori vonatok London felől.",
+            "ro": "Legături frecvente dinspre Londra.",
+            "en": "Frequent direct trains from London Charing Cross."
+          }
+        },
+        {
+          "name": "Sevenoaks High Street",
+          "coords": [
+            0.191,
+            51.269
+          ],
+          "category": "square",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder 15 Min. Fußweg.",
+            "hu": "Rövid buszút vagy 15 perc séta.",
+            "ro": "Scurtă călătorie cu autobuzul sau 15 min. pe jos.",
+            "en": "Short bus ride or a 15-minute uphill walk."
+          }
+        },
+        {
+          "name": "Knole House",
+          "coords": [
+            0.203,
+            51.266
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spaziergang durch den Park vom Zentrum.",
+            "hu": "Séta a parkon át a központból.",
+            "ro": "Plimbare prin parc dinspre centru.",
+            "en": "A pleasant walk through the park from the centre."
+          }
+        },
+        {
+          "name": "Knole Park",
+          "coords": [
+            0.21,
+            51.26
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im Park.",
+            "hu": "Élvezze a park nyugalmát.",
+            "ro": "Bucurați-vă de liniștea din parc.",
+            "en": "Enjoy the vast open spaces of the park."
+          }
+        },
+        {
+          "name": "The Stag Theatre & Plaza",
+          "coords": [
+            0.191,
+            51.271
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lokales Kulturzentrum.",
+            "hu": "Helyi kulturális és színházi központ.",
+            "ro": "Centru cultural local.",
+            "en": "Local cultural hub and historic cinema."
+          }
+        },
+        {
+          "name": "Traditional Tea Room",
+          "coords": [
+            0.19,
+            51.268
+          ],
+          "category": "gastro",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie einen Cream Tea.",
+            "hu": "Kóstolja meg a helyi krémteát.",
+            "ro": "Încercați un Cream Tea tradițional.",
+            "en": "Enjoy a traditional British Cream Tea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der hervorragenden Bahnanbindung ist Sevenoaks perfekt für einen Tagesausflug ohne Auto. Vom Bahnhof erreichen Sie schnell das historische Zentrum und können dann zu Fuß durch den Knole Park wandern. Ein entspannter Tag voller englischer Tradition.",
+        "hu": "A kiváló vasúti kapcsolatoknak köszönhetően Sevenoaks tökéletes úti cél autó nélkül is. A vasútállomástól gyorsan elérhető a történelmi központ, majd gyalogosan fedezheti fel a Knole Parkot és az udvarházat.",
+        "ro": "Datorită legăturilor feroviare excelente, Sevenoaks este ideal pentru o excursie fără mașină. De la gară ajungeți rapid în centrul istoric, apoi puteți explora pe jos Parcul Knole.",
+        "en": "With excellent rail links, Sevenoaks is perfect for a car-free day trip. From the station, it's a short journey to the historic heart of town, where you can then enjoy a scenic walk to Knole House and Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Life on High",
+            "tip": "Moderne Cafékultur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Life on High",
+            "tip": "Modern, hangulatos kávézó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Life on High",
+            "tip": "Cultură modernă a cafenelelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Life on High",
+            "tip": "Trendy cafe with great food and coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Nicholas Churchyard",
+            "tip": "Ein sehr ruhiger Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Miklós templomkert",
+            "tip": "Nagyon csendes és békés hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Sf. Nicolae",
+            "tip": "Un loc foarte liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Nicholas Churchyard",
+            "tip": "A remarkably quiet and historic spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Charity Shops",
+            "tip": "Entdecken Sie verborgene Schätze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jótékonysági boltok",
+            "tip": "Különleges kincsek és régiségek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Charity Shops",
+            "tip": "Descoperiți comori ascunse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sevenoaks Charity Shops",
+            "tip": "Great for finding unique second-hand treasures."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den lokalen Bus 8 vom Bahnhof ins Zentrum.",
+          "Die Züge nach London fahren sehr regelmäßig."
+        ],
+        "hu": [
+          "Használja a 8-as buszt az állomástól a központig.",
+          "A vonatok London felé nagyon gyakran indulnak."
+        ],
+        "ro": [
+          "Folosiți autobuzul local 8 de la gară spre centru.",
+          "Trenurile spre Londra circulă foarte regulat."
+        ],
+        "en": [
+          "Take the local 8 bus from the station to skip the uphill walk.",
+          "Trains to London are very frequent throughout the day."
+        ]
+      }
+    }
+  }
+}

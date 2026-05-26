@@ -3,8 +3,8 @@
   "anchor": {
     "name": "Vieux-Port",
     "coords": [
-      43.2965,
-      5.3698
+      5.37,
+      43.2964
     ]
   },
   "modes": {
@@ -13,30 +13,30 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:45",
-      "total_km": 3.4,
+      "total_km": 4.2,
       "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Alter Hafen (Vieux-Port)",
-            "hu": "Régi Kikötő (Vieux-Port)",
-            "ro": "Portul Vechi (Vieux-Port)",
-            "en": "Old Port (Vieux-Port)"
+            "de": "Vieux-Port",
+            "hu": "Régi Kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
           },
           "coords": [
-            5.3745,
-            43.2952
+            5.373,
+            43.295
           ],
-          "category": "square",
+          "category": "harbor",
           "arrive_at": "09:10",
           "stay_min": 40,
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Sehen Sie den Fischmarkt am frühen Morgen.",
-            "hu": "Nézze meg a reggeli halpiacot.",
-            "ro": "Vedeți piața de pește de dimineață.",
-            "en": "Watch the morning fish market."
+            "de": "Besuchen Sie den Fischmarkt am Morgen.",
+            "hu": "Nézze meg a reggeli halpiacot a rakparton.",
+            "ro": "Vizitați piața de pește de dimineață.",
+            "en": "Check out the morning fish market on the quay."
           }
         },
         {
@@ -47,8 +47,8 @@
             "en": "Le Panier District"
           },
           "coords": [
-            5.3682,
-            43.2985
+            5.3685,
+            43.298
           ],
           "category": "historical",
           "arrive_at": "10:05",
@@ -56,31 +56,31 @@
           "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.7,
           "tip_5lang": {
-            "de": "Die älteste Gegend mit bunter Straßenkunst.",
-            "hu": "A legrégebbi negyed színes graffiti művészettel.",
-            "ro": "Cea mai veche zonă cu artă stradală colorată.",
-            "en": "The oldest area with colorful street art."
+            "de": "Die älteste Gegend mit engen Gassen.",
+            "hu": "A város legrégebbi, hangulatos szűk utcái.",
+            "ro": "Cea mai veche zonă cu străzi înguste.",
+            "en": "The oldest area with narrow atmospheric streets."
           }
         },
         {
           "name": {
-            "de": "Kathedrale von Marseille",
-            "hu": "Marseille-i katedrális (La Major)",
-            "ro": "Catedrala La Major",
-            "en": "Marseille Cathedral (La Major)"
+            "de": "Kathedrale de la Major",
+            "hu": "Marseille-i székesegyház",
+            "ro": "Catedrala de la Major",
+            "en": "Marseille Cathedral"
           },
           "coords": [
-            5.3647,
-            43.2977
+            5.3648,
+            43.2998
           ],
           "category": "cathedral",
           "arrive_at": "11:35",
-          "stay_min": 75,
+          "stay_min": 45,
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
             "de": "Beeindruckende neobyzantinische Architektur.",
-            "hu": "Lenyűgöző neobizánci építészet.",
+            "hu": "Lenyűgöző neobizánci építészeti stílus.",
             "ro": "Arhitectură neobizantină impresionantă.",
             "en": "Impressive Neo-Byzantine architecture."
           }
@@ -93,42 +93,42 @@
             "en": "MuCEM Museum"
           },
           "coords": [
-            5.3612,
+            5.3615,
             43.2969
           ],
           "category": "museum",
-          "arrive_at": "13:00",
+          "arrive_at": "12:30",
           "stay_min": 100,
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Spazieren Sie über die Brücke zum Fort Saint-Jean.",
-            "hu": "Sétáljon át a hídon a Szent János-erődbe.",
-            "ro": "Traversați podul către Fort Saint-Jean.",
-            "en": "Walk across the bridge to Fort Saint-Jean."
+            "de": "Gehen Sie über die Stegbrücke zum Fort.",
+            "hu": "Sétáljon át a hídon az erőd felé.",
+            "ro": "Traversați podul suspendat către fort.",
+            "en": "Walk across the high footbridge to the fort."
           }
         },
         {
           "name": {
-            "de": "Mittagessen am Quai du Port",
-            "hu": "Ebéd a kikötőparton",
-            "ro": "Prânz pe Quai du Port",
-            "en": "Lunch at Quai du Port"
+            "de": "Fort Saint-Jean",
+            "hu": "Szent János-erőd",
+            "ro": "Fortul Saint-Jean",
+            "en": "Fort Saint-Jean"
           },
           "coords": [
-            5.3695,
-            43.2962
+            5.3625,
+            43.2955
           ],
-          "category": "gastro",
-          "arrive_at": "14:50",
-          "stay_min": 80,
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 60,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Probieren Sie echte Bouillabaisse.",
-            "hu": "Kóstolja meg az eredeti Bouillabaisse halászlét.",
-            "ro": "Încercați o porție de Bouillabaisse autentică.",
-            "en": "Try some authentic Bouillabaisse soup."
+            "de": "Genießen Sie den Blick auf das Mittelmeer.",
+            "hu": "Élvezze a kilátást a Földközi-tengerre.",
+            "ro": "Bucurați-vă de vederea spre Mediterană.",
+            "en": "Enjoy the panoramic Mediterranean views."
           }
         },
         {
@@ -136,70 +136,70 @@
             "de": "Palais du Pharo",
             "hu": "Pharo-palota",
             "ro": "Palatul Pharo",
-            "en": "Pharo Palace"
+            "en": "Palais du Pharo"
           },
           "coords": [
             5.3585,
             43.2945
           ],
-          "category": "park",
-          "arrive_at": "16:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 1.2,
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Bester Blick auf den Hafeneingang.",
-            "hu": "A legjobb kilátás a kikötő bejáratára.",
-            "ro": "Cea mai bună vedere spre intrarea în port.",
-            "en": "Best view of the port entrance."
+            "de": "Perfekter Ort für den Sonnenuntergang.",
+            "hu": "Tökéletes helyszín a naplemente nézéséhez.",
+            "ro": "Locul perfect pentru a vedea apusul.",
+            "en": "Perfect spot to watch the sunset over the port."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Marseille zu Fuß zu erkunden ist ein Erlebnis für alle Sinne. Der Morgen beginnt am belebten Alten Hafen, gefolgt von einem Spaziergang durch die verwinkelten Gassen von Le Panier. Nach der Besichtigung der majestätischen Kathedrale tauchen Sie im MuCEM in die mediterrane Kultur ein. Der Tag endet mit einem herrlichen Blick vom Palais du Pharo über das Meer.",
-        "hu": "Marseille gyalogos felfedezése minden érzékszervet megmozgat. A reggel a lüktető Régi Kikötőben indul, majd a Le Panier negyed festői utcáin folytatódik. A fenséges katedrális megtekintése után a MuCEM modern épületében merülhetünk el a mediterrán kultúrában. A napot a Pharo-palota kertjéből nyíló tengeri panorámával zárjuk.",
-        "ro": "Explorarea Marsiliei pe jos este o experiență senzorială completă. Dimineața începe în Portul Vechi plin de viață, urmată de o plimbare prin străduțele din Le Panier. După vizitarea catedralei maiestuoase, descoperiți cultura mediteraneană la MuCEM. Ziua se încheie cu o vedere superbă asupra mării de la Palatul Pharo.",
-        "en": "Exploring Marseille on foot is a journey for the senses. Start your morning at the bustling Old Port, then wander through the historic alleys of Le Panier. After visiting the grand Cathedral, dive into Mediterranean culture at MuCEM. Finish your day with a breathtaking sunset view over the sea from the Pharo Palace gardens."
+        "de": "Marseille zu Fuß zu erkunden, beginnt am pulsierenden Vieux-Port, wo das maritime Herz der Stadt schlägt. Der Vormittag gehört den verwinkelten Gassen von Le Panier, bevor die monumentale Kathedrale und das moderne MuCEM den kulturellen Kontrast bilden. Den Abschluss bildet der Garten des Palais du Pharo mit einer weiten Sicht auf die Bucht.",
+        "hu": "Marseille gyalogos felfedezése a lüktető Régi Kikötőben kezdődik, ahol a város tengeri szíve dobog. A délelőtt a Le Panier negyed kanyargós utcáié, majd a monumentális székesegyház és a modern MuCEM következik. A napot a Pharo-palota kertjében zárjuk, ahonnan páratlan kilátás nyílik az egész öbölre.",
+        "ro": "Explorarea Marsiliei pe jos începe în vibrantul Port Vechi, inima maritimă a orașului. Dimineața este dedicată străduțelor din Le Panier, urmată de catedrala monumentală și MuCEM-ul modern. Finalul zilei aparține grădinilor Palatului Pharo, oferind o perspectivă spectaculoasă asupra întregului golf.",
+        "en": "Exploring Marseille on foot starts at the vibrant Old Port, the maritime heart of the city. The morning is spent in the winding alleys of Le Panier, followed by the monumental Cathedral and the modern MuCEM. The day ends at the Palais du Pharo gardens, offering an unmatched view across the entire bay."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Chez Fonfon",
-            "tip": "Legendäre Bouillabaisse im Vallon des Auffes."
+            "name": "Bouillabaisse",
+            "tip": "Die berühmte Fischsuppe im Le Miramar."
           },
           {
-            "name": "Le Glacier du Roi",
-            "tip": "Bestes Eis in Le Panier."
+            "name": "Panisse",
+            "tip": "Frittierte Kichererbsen-Taler am Hafen."
           }
         ],
         "hu": [
           {
-            "name": "Chez Fonfon",
-            "tip": "Legendás halászlé a Vallon des Auffes-nél."
+            "name": "Bouillabaisse",
+            "tip": "A híres marseille-i halászlé a kikötőnél."
           },
           {
-            "name": "Le Glacier du Roi",
-            "tip": "A legjobb fagylalt a Le Panier negyedben."
+            "name": "Panisse",
+            "tip": "Sült csicseriborsó-lepény, tipikus helyi snack."
           }
         ],
         "ro": [
           {
-            "name": "Chez Fonfon",
-            "tip": "Bouillabaisse legendară în Vallon des Auffes."
+            "name": "Bouillabaisse",
+            "tip": "Slăvitul borș de pește local la Le Miramar."
           },
           {
-            "name": "Le Glacier du Roi",
-            "tip": "Cea mai bună înghețată din Le Panier."
+            "name": "Panisse",
+            "tip": "Gustare din năut prăjit, specifică zonei."
           }
         ],
         "en": [
           {
-            "name": "Chez Fonfon",
-            "tip": "Legendary bouillabaisse at Vallon des Auffes."
+            "name": "Bouillabaisse",
+            "tip": "The famous local fish stew at Le Miramar."
           },
           {
-            "name": "Le Glacier du Roi",
-            "tip": "Best ice cream in Le Panier."
+            "name": "Panisse",
+            "tip": "Fried chickpea flour snacks sold at the port."
           }
         ]
       },
@@ -207,483 +207,115 @@
         "de": [
           {
             "name": "Jardin du Pharo",
-            "tip": "Ruhiger Park mit Aussicht.",
-            "emoji": "🏞️"
+            "tip": "Ruhige Wiesen mit Blick auf die Festungen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panier Höfe",
+            "tip": "Kleine versteckte Innenhöfe.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
             "name": "Jardin du Pharo",
-            "tip": "Csendes park panorámával.",
-            "emoji": "🏞️"
+            "tip": "Csendes pázsit kilátással az erődökre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panier udvarok",
+            "tip": "Rejtett kis belső udvarok a negyedben.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Grădina Pharo",
-            "tip": "Parc liniștit cu panoramă.",
-            "emoji": "🏞️"
+            "name": "Jardin du Pharo",
+            "tip": "Pajiști liniștite cu vedere spre forturi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curțile din Panier",
+            "tip": "Mici curți interioare ascunse.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Pharo Garden",
-            "tip": "Quiet park with a view.",
-            "emoji": "🏞️"
+            "name": "Jardin du Pharo",
+            "tip": "Quiet lawns with views of the forts.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panier Courtyards",
+            "tip": "Hidden small inner courtyards.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Savonnerie la Licorne",
-            "tip": "Echte Marseille-Seife."
+            "name": "Savon de Marseille",
+            "tip": "Echte Olivenölseife in der Rue Caisserie."
+          },
+          {
+            "name": "Navettes",
+            "tip": "Traditionelles Gebäck bei Les Navettes des Accoules."
           }
         ],
         "hu": [
           {
-            "name": "Savonnerie la Licorne",
-            "tip": "Eredeti marseille-i szappan."
+            "name": "Marseille-i szappan",
+            "tip": "Eredeti olívaolaj szappan a Rue Caisserie-n."
+          },
+          {
+            "name": "Navettes",
+            "tip": "Hajó formájú sütemény az Accoules pékségben."
           }
         ],
         "ro": [
           {
-            "name": "Savonnerie la Licorne",
-            "tip": "Săpun de Marsilia autentic."
+            "name": "Săpun de Marsilia",
+            "tip": "Săpun autentic cu ulei de măsline."
+          },
+          {
+            "name": "Navettes",
+            "tip": "Biscuiți tradiționali în formă de barcă."
           }
         ],
         "en": [
           {
-            "name": "Savonnerie la Licorne",
-            "tip": "Authentic Marseille soap."
+            "name": "Savon de Marseille",
+            "tip": "Traditional olive oil soap in Rue Caisserie."
+          },
+          {
+            "name": "Navettes",
+            "tip": "Boat-shaped cookies at Les Navettes des Accoules."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
-          "Achten Sie in Menschenmengen auf Ihre Wertsachen.",
-          "Trinken Sie viel Wasser bei der Hitze.",
-          "Nutzen Sie die kleine Fähre (Ferry Boat) zur Überquerung des Hafens."
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in Le Panier.",
+          "Nutzen Sie die kostenlose Fähre (Ferry Boat) zur Überquerung des Hafens.",
+          "Buchen Sie MuCEM-Tickets vorab, um Warteschlangen zu vermeiden."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
-          "Vigyázzon az értékeire a tömegben.",
-          "Igyon sok vizet a hőségben.",
-          "Használja a kishajót (Ferry Boat) a kikötő átszeléséhez."
+          "Viseljen kényelmes cipőt a Le Panier macskaköves utcáihoz.",
+          "Használja az ingyenes kompot (Ferry Boat) a kikötő keresztezéséhez.",
+          "Foglalja le előre a MuCEM jegyeket a sorban állás elkerülésére."
         ],
         "ro": [
-          "Purtați încălțăminte comodă pentru străzile pietruite.",
-          "Aveți grijă de obiectele de valoare în zonele aglomerate.",
-          "Beți multă apă în zilele toride.",
-          "Folosiți feribotul mic pentru a traversa portul rapid."
+          "Purtați încălțăminte comodă pentru pavajul din Le Panier.",
+          "Folosiți feribotul gratuit pentru a traversa portul.",
+          "Rezervați biletele pentru MuCEM în avans pentru a evita cozile."
         ],
         "en": [
-          "Wear comfortable shoes for the cobblestones.",
-          "Be mindful of your valuables in crowded areas.",
-          "Stay hydrated during the summer heat.",
-          "Take the small Ferry Boat to cross the harbor easily."
+          "Wear comfortable shoes for the cobblestones in Le Panier.",
+          "Use the free Ferry Boat to cross the Old Port quickly.",
+          "Book MuCEM tickets online to skip the long entry lines."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Marseille zu Fuß zu erkunden ist ein Erlebnis für alle Sinne. Der Morgen beginnt am belebten Alten Hafen, gefolgt von einem Spaziergang durch die verwinkelten Gassen von Le Panier. Nach der Besichtigung der majestätischen Kathedrale tauchen Sie im MuCEM in die mediterrane Kultur ein. Der Tag endet mit einem herrlichen Blick vom Palais du Pharo über das Meer.",
-            "hu": "Marseille gyalogos felfedezése minden érzékszervet megmozgat. A reggel a lüktető Régi Kikötőben indul, majd a Le Panier negyed festői utcáin folytatódik. A fenséges katedrális megtekintése után a MuCEM modern épületében merülhetünk el a mediterrán kultúrában. A napot a Pharo-palota kertjéből nyíló tengeri panorámával zárjuk.",
-            "ro": "Explorarea Marsiliei pe jos este o experiență senzorială completă. Dimineața începe în Portul Vechi plin de viață, urmată de o plimbare prin străduțele din Le Panier. După vizitarea catedralei maiestuoase, descoperiți cultura mediteraneană la MuCEM. Ziua se încheie cu o vedere superbă asupra mării de la Palatul Pharo.",
-            "en": "Exploring Marseille on foot is a journey for the senses. Start your morning at the bustling Old Port, then wander through the historic alleys of Le Panier. After visiting the grand Cathedral, dive into Mediterranean culture at MuCEM. Finish your day with a breathtaking sunset view over the sea from the Pharo Palace gardens."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Alter Hafen (Vieux-Port)",
-                "hu": "Régi Kikötő (Vieux-Port)",
-                "ro": "Portul Vechi (Vieux-Port)",
-                "en": "Old Port (Vieux-Port)"
-              },
-              "tip_5lang": {
-                "de": "Sehen Sie den Fischmarkt am frühen Morgen.",
-                "hu": "Nézze meg a reggeli halpiacot.",
-                "ro": "Vedeți piața de pește de dimineață.",
-                "en": "Watch the morning fish market."
-              }
-            },
-            {
-              "name": {
-                "de": "Le Panier Viertel",
-                "hu": "Le Panier negyed",
-                "ro": "Cartierul Le Panier",
-                "en": "Le Panier District"
-              },
-              "tip_5lang": {
-                "de": "Die älteste Gegend mit bunter Straßenkunst.",
-                "hu": "A legrégebbi negyed színes graffiti művészettel.",
-                "ro": "Cea mai veche zonă cu artă stradală colorată.",
-                "en": "The oldest area with colorful street art."
-              }
-            },
-            {
-              "name": {
-                "de": "Kathedrale von Marseille",
-                "hu": "Marseille-i katedrális (La Major)",
-                "ro": "Catedrala La Major",
-                "en": "Marseille Cathedral (La Major)"
-              },
-              "tip_5lang": {
-                "de": "Beeindruckende neobyzantinische Architektur.",
-                "hu": "Lenyűgöző neobizánci építészet.",
-                "ro": "Arhitectură neobizantină impresionantă.",
-                "en": "Impressive Neo-Byzantine architecture."
-              }
-            },
-            {
-              "name": {
-                "de": "MuCEM Museum",
-                "hu": "MuCEM Múzeum",
-                "ro": "Muzeul MuCEM",
-                "en": "MuCEM Museum"
-              },
-              "tip_5lang": {
-                "de": "Spazieren Sie über die Brücke zum Fort Saint-Jean.",
-                "hu": "Sétáljon át a hídon a Szent János-erődbe.",
-                "ro": "Traversați podul către Fort Saint-Jean.",
-                "en": "Walk across the bridge to Fort Saint-Jean."
-              }
-            },
-            {
-              "name": {
-                "de": "Mittagessen am Quai du Port",
-                "hu": "Ebéd a kikötőparton",
-                "ro": "Prânz pe Quai du Port",
-                "en": "Lunch at Quai du Port"
-              },
-              "tip_5lang": {
-                "de": "Probieren Sie echte Bouillabaisse.",
-                "hu": "Kóstolja meg az eredeti Bouillabaisse halászlét.",
-                "ro": "Încercați o porție de Bouillabaisse autentică.",
-                "en": "Try some authentic Bouillabaisse soup."
-              }
-            },
-            {
-              "name": {
-                "de": "Palais du Pharo",
-                "hu": "Pharo-palota",
-                "ro": "Palatul Pharo",
-                "en": "Pharo Palace"
-              },
-              "tip_5lang": {
-                "de": "Bester Blick auf den Hafeneingang.",
-                "hu": "A legjobb kilátás a kikötő bejáratára.",
-                "ro": "Cea mai bună vedere spre intrarea în port.",
-                "en": "Best view of the port entrance."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Chez Fonfon",
-                "tip": "Legendäre Bouillabaisse im Vallon des Auffes."
-              },
-              {
-                "name": "Le Glacier du Roi",
-                "tip": "Bestes Eis in Le Panier."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Chez Fonfon",
-                "tip": "Legendás halászlé a Vallon des Auffes-nél."
-              },
-              {
-                "name": "Le Glacier du Roi",
-                "tip": "A legjobb fagylalt a Le Panier negyedben."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Chez Fonfon",
-                "tip": "Bouillabaisse legendară în Vallon des Auffes."
-              },
-              {
-                "name": "Le Glacier du Roi",
-                "tip": "Cea mai bună înghețată din Le Panier."
-              }
-            ],
-            "en": [
-              {
-                "name": "Chez Fonfon",
-                "tip": "Legendary bouillabaisse at Vallon des Auffes."
-              },
-              {
-                "name": "Le Glacier du Roi",
-                "tip": "Best ice cream in Le Panier."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Jardin du Pharo",
-                "tip": "Ruhiger Park mit Aussicht.",
-                "emoji": "🏞️"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Jardin du Pharo",
-                "tip": "Csendes park panorámával.",
-                "emoji": "🏞️"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Grădina Pharo",
-                "tip": "Parc liniștit cu panoramă.",
-                "emoji": "🏞️"
-              }
-            ],
-            "en": [
-              {
-                "name": "Pharo Garden",
-                "tip": "Quiet park with a view.",
-                "emoji": "🏞️"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Savonnerie la Licorne",
-                "tip": "Echte Marseille-Seife."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Savonnerie la Licorne",
-                "tip": "Eredeti marseille-i szappan."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Savonnerie la Licorne",
-                "tip": "Săpun de Marsilia autentic."
-              }
-            ],
-            "en": [
-              {
-                "name": "Savonnerie la Licorne",
-                "tip": "Authentic Marseille soap."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
-              "Achten Sie in Menschenmengen auf Ihre Wertsachen.",
-              "Trinken Sie viel Wasser bei der Hitze.",
-              "Nutzen Sie die kleine Fähre (Ferry Boat) zur Überquerung des Hafens."
-            ],
-            "hu": [
-              "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
-              "Vigyázzon az értékeire a tömegben.",
-              "Igyon sok vizet a hőségben.",
-              "Használja a kishajót (Ferry Boat) a kikötő átszeléséhez."
-            ],
-            "ro": [
-              "Purtați încălțăminte comodă pentru străzile pietruite.",
-              "Aveți grijă de obiectele de valoare în zonele aglomerate.",
-              "Beți multă apă în zilele toride.",
-              "Folosiți feribotul mic pentru a traversa portul rapid."
-            ],
-            "en": [
-              "Wear comfortable shoes for the cobblestones.",
-              "Be mindful of your valuables in crowded areas.",
-              "Stay hydrated during the summer heat.",
-              "Take the small Ferry Boat to cross the harbor easily."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Morgens bietet die verspiegelte Ombrière am Vieux-Port Schutz vor dem Regen. Mittags erkunden wir das Panier-Viertel, wo die engen Gassen den Wind brechen. Der Nachmittag gehört dem MuCEM, dessen Gitterfassade im Regen dramatisch wirkt. Abends genießen wir die beleuchtete Kathedrale und ein warmes Abendessen am Kai, während die Wassertropfen auf dem Hafenbecken tanzen.",
-            "hu": "Reggel a Vieux-Port tükröződő tetője alatt húzódunk meg az eső elől. Délben a Le Panier negyed szűk utcáin sétálunk, ahol a házak felfogják a szelet. Délután a MuCEM modern épületében fedezzük fel a mediterrán kultúrát, szárazon maradva. Este a Quai du Port éttermeiben zárjuk a napot, figyelve az eső áztatta kikötő fényeit.",
-            "ro": "Dimineața ne adăpostim sub copertina oglindită din Vieux-Port. La prânz explorăm cartierul Le Panier, unde străzile înguste oferă protecție împotriva ploii. După-amiaza este dedicată MuCEM, o capodoperă arhitecturală perfectă pentru o zi ploioasă. Seara se încheie cu o cină caldă lângă port, admirând reflexiile luminilor în apa mării.",
-            "en": "Morning starts under the mirrored Ombrière at the Old Port, keeping us dry. By noon, we wander Le Panier's narrow streets which offer some shelter. The afternoon is spent inside the MuCEM, appreciating its lattice design against the gray sky. Evening concludes with a cozy dinner by the harbor, watching the rain create patterns on the Mediterranean surface."
-          },
-          "stops": [
-            {
-              "name": "Old Port (Vieux-Port)",
-              "tip_4lang": {
-                "de": "Nutzen Sie das Spiegeldach von Norman Foster als Regenschutz.",
-                "hu": "Használja Norman Foster tükörtetőjét esernyő helyett.",
-                "ro": "Folosiți acoperișul oglindit al lui Norman Foster pentru adăpost.",
-                "en": "Use Norman Foster's mirrored canopy as a giant umbrella."
-              }
-            },
-            {
-              "name": "Le Panier District",
-              "tip_4lang": {
-                "de": "Vorsicht auf den glatten Pflastersteinen in den Gassen.",
-                "hu": "Vigyázat, a macskaköves sikátorok esőben csúszósak lehetnek.",
-                "ro": "Atenție la pavajul alunecos de pe străzile înguste.",
-                "en": "Be careful on the slippery cobblestones in the narrow alleys."
-              }
-            },
-            {
-              "name": "Marseille Cathedral (La Major)",
-              "tip_4lang": {
-                "de": "Ein idealer, trockener Ort, um die Mosaike zu bewundern.",
-                "hu": "Tökéletes száraz menedék a mozaikok megcsodálásához.",
-                "ro": "Un loc uscat ideal pentru a admira mozaicurile superbe.",
-                "en": "A perfect dry sanctuary to admire the stunning mosaics."
-              }
-            },
-            {
-              "name": "MuCEM Museum",
-              "tip_4lang": {
-                "de": "Nutzen Sie die überdachten Glasgänge zwischen den Ausstellungen.",
-                "hu": "Használja a fedett üvegfolyosókat a kiállítások között.",
-                "ro": "Folosiți pasajele de sticlă acoperite între expoziții.",
-                "en": "Use the covered glass walkways between the exhibitions."
-              }
-            },
-            {
-              "name": "Lunch at Quai du Port",
-              "tip_4lang": {
-                "de": "Wählen Sie ein Restaurant mit beheizter, überdachter Terrasse.",
-                "hu": "Válasszon fűtött, fedett teraszos éttermet a kikötőnél.",
-                "ro": "Alegeți un restaurant cu terasă acoperită și încălzită.",
-                "en": "Choose a restaurant with a heated, covered terrace."
-              }
-            },
-            {
-              "name": "Pharo Palace",
-              "tip_4lang": {
-                "de": "Der Blick auf den Hafen ist auch bei Regen spektakulär.",
-                "hu": "A kikötői panoráma esőben is lenyűgöző a kertből.",
-                "ro": "Panorama portului este spectaculoasă chiar și pe ploaie.",
-                "en": "The harbor panorama is spectacular even in the rain."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Tragen Sie wasserfeste Schuhe für die Treppen im Panier-Viertel.",
-              "Das MuCEM ist montags oft weniger überfüllt, ideal bei Regen.",
-              "Die Metro-Station Vieux-Port ist ein guter Startpunkt im Trockenen.",
-              "Kaufen Sie einen stabilen Regenschirm in den Boutiquen der Canebière."
-            ],
-            "hu": [
-              "Viseljen vízálló cipőt a Panier negyed lépcsőihez.",
-              "A MuCEM hétfőnként kevésbé zsúfolt, ideális esős napokon.",
-              "A Vieux-Port metróállomás jó kiindulópont, ha esik.",
-              "Vegyél egy erős esernyőt a Canebière környéki üzletekben."
-            ],
-            "ro": [
-              "Purtați încălțăminte impermeabilă pentru scările din Le Panier.",
-              "MuCEM este mai puțin aglomerat lunea, ideal pentru zile ploioase.",
-              "Stația de metrou Vieux-Port este un punct de plecare uscat.",
-              "Cumpărați o umbrelă rezistentă din buticurile de pe Canebière."
-            ],
-            "en": [
-              "Wear waterproof shoes for the stairs in the Panier district.",
-              "MuCEM is often less crowded on Mondays, ideal for rainy days.",
-              "The Vieux-Port metro station is a good dry starting point.",
-              "Buy a sturdy umbrella in the boutiques around Canebière."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein klarer Wintermorgen am Vieux-Port bringt frische Mittelmeerluft. Mittags wärmt uns die Sonne im Panier-Viertel, während wir lokales Handwerk entdecken. Am Nachmittag leuchtet die Kathedrale im goldenen Winterlicht, gefolgt von einem Besuch im MuCEM. Da die Sonne früh untergeht, genießen wir den Blick vom Pharo Palace bereits um 17 Uhr bei einem glühenden Horizont.",
-            "hu": "A tiszta téli reggel friss mediterrán levegőt hoz a kikötőbe. Délben a nap sugarai melengetnek minket a Panier negyedben, miközben helyi szappanokat nézünk. Délután a katedrális aranyló téli fényben tündököl, majd a MuCEM-et látogatjuk meg. Mivel korán sötétedik, a Pharo Palace kertjéből már délután ötkor csodálhatjuk a naplementét.",
-            "ro": "O dimineață senină de iarnă în Vieux-Port aduce aer proaspăt mediteranean. La prânz, soarele ne încălzește în Le Panier în timp ce descoperim artizanatul local. După-amiaza, catedrala strălucește în lumina aurie a iernii, urmată de MuCEM. Deoarece soarele apune devreme, admirăm orizontul de la Palatul Pharo deja la ora 17:00.",
-            "en": "A crisp winter morning at the Old Port brings refreshing sea air. By noon, the sun warms Le Panier's streets as we browse local crafts. The afternoon sees the Cathedral glowing in golden winter light, followed by a MuCEM visit. As sunset is early, we catch the spectacular view from Pharo Palace by 5 PM, watching the sky turn orange over the sea."
-          },
-          "stops": [
-            {
-              "name": "Old Port (Vieux-Port)",
-              "tip_4lang": {
-                "de": "Genießen Sie einen heißen Kaffee an den sonnigen Tischen.",
-                "hu": "Élvezzen egy forró kávét a napsütötte asztaloknál.",
-                "ro": "Savurați o cafea fierbinte la mesele însorite de afară.",
-                "en": "Enjoy a hot coffee at the sunny outdoor tables."
-              }
-            },
-            {
-              "name": "Le Panier District",
-              "tip_4lang": {
-                "de": "Suchen Sie die windgeschützten, sonnigen Plätze für eine Pause.",
-                "hu": "Keressen szélvédett, napos tereket egy rövid pihenőhöz.",
-                "ro": "Căutați piețele însorite și ferite de vânt pentru o pauză.",
-                "en": "Look for wind-sheltered, sunny squares for a short break."
-              }
-            },
-            {
-              "name": "Marseille Cathedral (La Major)",
-              "tip_4lang": {
-                "de": "Das Licht am späten Nachmittag ist perfekt für Fotos.",
-                "hu": "A késő délutáni fények tökéletesek a fotózáshoz.",
-                "ro": "Lumina de după-amiază târzie este perfectă pentru fotografii.",
-                "en": "The late afternoon light is perfect for photography."
-              }
-            },
-            {
-              "name": "MuCEM Museum",
-              "tip_4lang": {
-                "de": "Die Dachterrasse bietet einen klaren Blick auf das Meer.",
-                "hu": "A tetőterasz tiszta kilátást nyújt a téli tengerre.",
-                "ro": "Terasa de pe acoperiș oferă o vedere clară asupra mării.",
-                "en": "The rooftop terrace offers a clear view of the winter sea."
-              }
-            },
-            {
-              "name": "Lunch at Quai du Port",
-              "tip_4lang": {
-                "de": "Probieren Sie eine traditionelle, wärmende Bouillabaisse.",
-                "hu": "Kóstoljon meg egy hagyományos, melengető Bouillabaisse-t.",
-                "ro": "Încercați o Bouillabaisse tradițională care vă va încălzi.",
-                "en": "Try a traditional, warming Bouillabaisse fish soup."
-              }
-            },
-            {
-              "name": "Pharo Palace",
-              "tip_4lang": {
-                "de": "Seien Sie vor 17 Uhr hier, um den Sonnenuntergang zu sehen.",
-                "hu": "Érkezzen 17 óra előtt, hogy lássa a naplementét.",
-                "ro": "Ajungeți înainte de ora 17:00 pentru a prinde apusul.",
-                "en": "Be here before 5 PM to catch the winter sunset."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Achten Sie auf den Mistral-Wind; eine warme Mütze ist ratsam.",
-              "Die Sonne geht im Winter gegen 17:15 Uhr unter.",
-              "Viele Cafés bieten Decken für die Außenterrassen an.",
-              "Das Licht für Fotos ist zwischen 14 und 16 Uhr am besten."
-            ],
-            "hu": [
-              "Vigyázzon a Misztrál széllel; egy meleg sapka ajánlott.",
-              "Télen a nap 17:15 körül nyugszik Marseille-ben.",
-              "Sok kávézó kínál takarót a kinti teraszokon.",
-              "A fotózáshoz 14 és 16 óra között a legjobbak a fények."
-            ],
-            "ro": [
-              "Atenție la vântul Mistral; o căciulă călduroasă este recomandată.",
-              "Iarna, soarele apune în jurul orei 17:15 în Marsilia.",
-              "Multe cafenele oferă pături pentru terasele exterioare.",
-              "Lumina pentru fotografii este optimă între orele 14:00 și 16:00."
-            ],
-            "en": [
-              "Watch out for the Mistral wind; a warm hat is advised.",
-              "In winter, the sun sets around 5:15 PM in Marseille.",
-              "Many cafes offer blankets for their outdoor terraces.",
-              "The light for photography is best between 2 PM and 4 PM."
-            ]
-          }
-        }
       }
     },
     "bike": {
@@ -691,76 +323,76 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "16:30",
-      "total_km": 10.5,
+      "total_km": 15.5,
       "stop_count": 5,
       "stops": [
         {
           "name": {
-            "de": "Vieux-Port Radverleih",
-            "hu": "Régi Kikötő kerékpárkölcsönző",
-            "ro": "Închiriere biciclete Portul Vechi",
-            "en": "Old Port Bike Rental"
+            "de": "Vieux-Port Start",
+            "hu": "Régi Kikötő rajt",
+            "ro": "Start Port Vechi",
+            "en": "Old Port Start"
           },
           "coords": [
-            5.375,
-            43.295
+            5.3725,
+            43.2955
           ],
-          "category": "square",
+          "category": "harbor",
           "arrive_at": "09:10",
-          "stay_min": 30,
+          "stay_min": 25,
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Leih dir ein E-Bike für die Hügel.",
-            "hu": "Béreljen elektromos kerékpárt a dombokhoz.",
-            "ro": "Închiriați o bicicletă electrică pentru dealuri.",
-            "en": "Rent an e-bike for the hilly parts."
+            "de": "Mieten Sie ein Levélo an der Hafenstation.",
+            "hu": "Béreljen Levélo biciklit a kikötői állomáson.",
+            "ro": "Închiriați o bicicletă Levélo din stație.",
+            "en": "Rent a Levélo bike at the harbor station."
           }
         },
         {
           "name": {
             "de": "Vallon des Auffes",
-            "hu": "Vallon des Auffes halászkikötő",
+            "hu": "Vallon des Auffes",
             "ro": "Vallon des Auffes",
             "en": "Vallon des Auffes"
           },
           "coords": [
-            5.3512,
+            5.3515,
             43.2852
           ],
-          "category": "historical",
-          "arrive_at": "10:00",
-          "stay_min": 50,
+          "category": "harbor",
+          "arrive_at": "09:55",
+          "stay_min": 40,
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.0,
+          "hop_from_prev_km": 3.2,
           "tip_5lang": {
-            "de": "Ein verstecktes Juwel unter einer Brücke.",
-            "hu": "Egy rejtett ékszerdoboz a híd alatt.",
-            "ro": "O bijuterie ascunsă sub viaduct.",
-            "en": "A hidden gem tucked under a bridge."
+            "de": "Ein malerischer kleiner Fischerhafen.",
+            "hu": "Gleccservölgy-szerű festői kis halászkikötő.",
+            "ro": "Un mic port de pescari pitoresc.",
+            "en": "A picturesque small fishing harbor hidden away."
           }
         },
         {
           "name": {
             "de": "Corniche Kennedy",
-            "hu": "Corniche Kennedy tengerparti út",
+            "hu": "Corniche Kennedy",
             "ro": "Corniche Kennedy",
             "en": "Corniche Kennedy"
           },
           "coords": [
-            5.3525,
-            43.2785
+            5.353,
+            43.275
           ],
-          "category": "park",
-          "arrive_at": "11:10",
-          "stay_min": 40,
-          "hop_from_prev_min": 20,
+          "category": "viewpoint",
+          "arrive_at": "10:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
           "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Die längste Sitzbank der Welt ist hier.",
-            "hu": "Itt található a világ leghosszabb padja.",
-            "ro": "Aici se află cea mai lungă bancă din lume.",
-            "en": "Home to the world's longest bench."
+            "de": "Längste Sitzbank der Welt mit Meerblick.",
+            "hu": "A világ leghosszabb padja tengeri kilátással.",
+            "ro": "Cea mai lungă bancă din lume cu vedere la mare.",
+            "en": "The world's longest bench with sea views."
           }
         },
         {
@@ -771,642 +403,355 @@
             "en": "Prado Beaches"
           },
           "coords": [
-            5.3735,
-            43.2625
+            5.375,
+            43.259
           ],
           "category": "beach",
-          "arrive_at": "12:15",
-          "stay_min": 120,
+          "arrive_at": "11:45",
+          "stay_min": 150,
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 4.0,
           "tip_5lang": {
-            "de": "Perfekt für eine Pause am Meer.",
-            "hu": "Tökéletes hely egy tengerparti pihenőhöz.",
-            "ro": "Locul perfect pentru o pauză la mare.",
-            "en": "Perfect spot for a break by the sea."
+            "de": "Ideal für eine lange Pause am Wasser.",
+            "hu": "Ideális hely egy hosszú pihenőre a víznél.",
+            "ro": "Ideal pentru o pauză lungă lângă apă.",
+            "en": "Ideal spot for a long break by the water."
           }
         },
         {
           "name": {
             "de": "Parc Borély",
-            "hu": "Borély park",
+            "hu": "Borély-park",
             "ro": "Parcul Borély",
             "en": "Borély Park"
           },
           "coords": [
-            5.3812,
-            43.2582
+            5.382,
+            43.2575
           ],
-          "category": "park",
-          "arrive_at": "14:25",
-          "stay_min": 60,
+          "category": "garden",
+          "arrive_at": "14:45",
+          "stay_min": 75,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.0,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Wunderschöner botanischer Garten.",
-            "hu": "Gyönyörű botanikus kert.",
-            "ro": "O grădină botanică superbă.",
-            "en": "Beautiful botanical garden inside."
+            "de": "Besuchen Sie den botanischen Garten.",
+            "hu": "Látogasson el a botanikus kertbe.",
+            "ro": "Vizitați grădina botanică din interior.",
+            "en": "Visit the botanical garden inside the park."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Radtour führt Sie entlang der spektakulären Küste von Marseille. Von den Fischerbooten im Vallon des Auffes radeln Sie auf der Corniche Kennedy mit endlosem Meerblick bis zu den Prado-Stränden. Nach einer entspannten Pause im Parc Borély geht es mit frischer Meeresbrise zurück zum Zentrum.",
-        "hu": "Ez a kerékpáros túra Marseille látványos partvonala mentén vezet. A Vallon des Auffes halászhajóitól a Corniche Kennedy úton tekerünk, élvezve a végtelen tengeri kilátást egészen a Prado strandokig. A Borély parkban tett pihenő után a friss tengeri széllel kísérve térünk vissza.",
-        "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei spectaculoase a Marsiliei. De la bărcile de pescuit din Vallon des Auffes, pedalați pe Corniche Kennedy cu vederi nesfârșite la mare până la plajele Prado. După o pauză în Parcul Borély, reveniți spre centru cu briza mării.",
-        "en": "This cycling route takes you along Marseille's spectacular coastline. From the traditional fishing boats of Vallon des Auffes, ride along Corniche Kennedy with endless sea views to the Prado beaches. After a relaxing break in Borély Park, head back to the city center with the sea breeze in your hair."
+        "de": "Diese Radtour führt entlang der Küstenstraße Corniche Kennedy. Von der Dynamik des Hafens geht es zum idyllischen Vallon des Auffes und weiter zu den weiten Stränden von Prado. Der Tag endet entspannt im grünen Borély-Park, bevor es zurück ins Zentrum geht.",
+        "hu": "Ez a kerékpáros túra a tengerparti Corniche Kennedy úton halad végig. A kikötő nyüzsgésétől az idilli Vallon des Auffes-ig, majd tovább a Prado tágas strandjaiig tekerünk. A nap a zöld Borély-parkban zárul, mielőtt visszatérnénk a központba.",
+        "ro": "Acest traseu cu bicicleta urmează drumul de coastă Corniche Kennedy. De la dinamismul portului ajungem la idilicul Vallon des Auffes și mai departe la plajele largi Prado. Ziua se încheie relaxat în parcul Borély, înainte de întoarcerea în centru.",
+        "en": "This cycling tour follows the scenic Corniche Kennedy coastal road. From the harbor's energy to the idyllic Vallon des Auffes and on to the wide Prado beaches, you'll feel the sea breeze. The day ends peacefully in Borély Park before heading back."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "L'Épuisette",
-            "tip": "Gehobene Küche mit Meeresblick."
+            "name": "Chez Fonfon",
+            "tip": "Exzellenter Fisch direkt am Vallon des Auffes."
           }
         ],
         "hu": [
           {
-            "name": "L'Épuisette",
-            "tip": "Elegáns étterem tengeri panorámával."
+            "name": "Chez Fonfon",
+            "tip": "Kiváló halételek a Vallon des Auffes-nál."
           }
         ],
         "ro": [
           {
-            "name": "L'Épuisette",
-            "tip": "Bucătărie rafinată cu vedere la mare."
+            "name": "Chez Fonfon",
+            "tip": "Pește excelent direct în Vallon des Auffes."
           }
         ],
         "en": [
           {
-            "name": "L'Épuisette",
-            "tip": "Fine dining with a sea view."
+            "name": "Chez Fonfon",
+            "tip": "Excellent fish dishes right in Vallon des Auffes."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Anse de la Fausse Monnaie",
-            "tip": "Kleine Bucht zum Entspannen.",
-            "emoji": "🏞️"
+            "name": "Parc Borély See",
+            "tip": "Ruhe am Seeufer genießen.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Anse de la Fausse Monnaie",
-            "tip": "Kis öböl a pihenéshez.",
-            "emoji": "🏞️"
+            "name": "Borély-tó",
+            "tip": "Élvezze a csendet a tóparton.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Anse de la Fausse Monnaie",
-            "tip": "Mic golf pentru relaxare.",
-            "emoji": "🏞️"
+            "name": "Lacul Borély",
+            "tip": "Liniște pe malul lacului.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Anse de la Fausse Monnaie",
-            "tip": "Small cove for relaxing.",
-            "emoji": "🏞️"
+            "name": "Borély Lake",
+            "tip": "Enjoy the quiet by the lakeside.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Prado Markt",
-            "tip": "Lokaler Markt am Vormittag."
+            "name": "Escale Borély",
+            "tip": "Kleine Läden direkt am Strand."
           }
         ],
         "hu": [
           {
-            "name": "Prado piac",
-            "tip": "Helyi délelőtti piac."
+            "name": "Escale Borély",
+            "tip": "Kis üzletek közvetlenül a strandon."
           }
         ],
         "ro": [
           {
-            "name": "Piața Prado",
-            "tip": "Piață locală de dimineață."
+            "name": "Escale Borély",
+            "tip": "Mici magazine direct pe plajă."
           }
         ],
         "en": [
           {
-            "name": "Prado Market",
-            "tip": "Local morning market."
+            "name": "Escale Borély",
+            "tip": "Small shops located directly by the beach."
           }
         ]
       },
       "tips": {
         "de": [
-          "Nutzen Sie die Radwege an der Küste.",
-          "Vermeiden Sie die Hauptverkehrsstraßen.",
-          "Tragen Sie einen Helm.",
-          "Sichern Sie das Fahrrad immer gut ab."
+          "Die Corniche hat einen gut ausgebauten Radweg.",
+          "Achten Sie auf den Mistral-Wind, der das Treten erschweren kann.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt entlang der Küste mit."
         ],
         "hu": [
-          "Használja a tengerparti kerékpárutakat.",
-          "Kerülje a forgalmas főutakat.",
-          "Viseljen sisakot.",
-          "Mindig jól zárja le a biciklit."
+          "A Corniche úton jól kiépített kerékpárút található.",
+          "Figyeljen a Mistral szélre, ami megnehezítheti a tekerést.",
+          "Vigyél magaddal elég vizet a tengerparti szakaszhoz."
         ],
         "ro": [
-          "Folosiți pistele de biciclete de pe coastă.",
-          "Evitați bulevardele principale aglomerate.",
-          "Purtați cască de protecție.",
-          "Asigurați întotdeauna bine bicicleta."
+          "Corniche are o pistă de biciclete bine amenajată.",
+          "Atenție la vântul Mistral, care poate îngreuna pedalarea.",
+          "Luați suficientă apă pentru traseul de coastă."
         ],
         "en": [
-          "Use the dedicated coastal bike lanes.",
-          "Avoid the busy main traffic arteries.",
-          "Wear a helmet for safety.",
-          "Always lock your bike securely."
+          "The Corniche has a well-maintained bike lane.",
+          "Be aware of the Mistral wind, which can make pedaling hard.",
+          "Bring plenty of water for the ride along the coast."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Diese Radtour führt Sie entlang der spektakulären Küste von Marseille. Von den Fischerbooten im Vallon des Auffes radeln Sie auf der Corniche Kennedy mit endlosem Meerblick bis zu den Prado-Stränden. Nach einer entspannten Pause im Parc Borély geht es mit frischer Meeresbrise zurück zum Zentrum.",
-            "hu": "Ez a kerékpáros túra Marseille látványos partvonala mentén vezet. A Vallon des Auffes halászhajóitól a Corniche Kennedy úton tekerünk, élvezve a végtelen tengeri kilátást egészen a Prado strandokig. A Borély parkban tett pihenő után a friss tengeri széllel kísérve térünk vissza.",
-            "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei spectaculoase a Marsiliei. De la bărcile de pescuit din Vallon des Auffes, pedalați pe Corniche Kennedy cu vederi nesfârșite la mare până la plajele Prado. După o pauză în Parcul Borély, reveniți spre centru cu briza mării.",
-            "en": "This cycling route takes you along Marseille's spectacular coastline. From the traditional fishing boats of Vallon des Auffes, ride along Corniche Kennedy with endless sea views to the Prado beaches. After a relaxing break in Borély Park, head back to the city center with the sea breeze in your hair."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Vieux-Port Radverleih",
-                "hu": "Régi Kikötő kerékpárkölcsönző",
-                "ro": "Închiriere biciclete Portul Vechi",
-                "en": "Old Port Bike Rental"
-              },
-              "tip_5lang": {
-                "de": "Leih dir ein E-Bike für die Hügel.",
-                "hu": "Béreljen elektromos kerékpárt a dombokhoz.",
-                "ro": "Închiriați o bicicletă electrică pentru dealuri.",
-                "en": "Rent an e-bike for the hilly parts."
-              }
-            },
-            {
-              "name": {
-                "de": "Vallon des Auffes",
-                "hu": "Vallon des Auffes halászkikötő",
-                "ro": "Vallon des Auffes",
-                "en": "Vallon des Auffes"
-              },
-              "tip_5lang": {
-                "de": "Ein verstecktes Juwel unter einer Brücke.",
-                "hu": "Egy rejtett ékszerdoboz a híd alatt.",
-                "ro": "O bijuterie ascunsă sub viaduct.",
-                "en": "A hidden gem tucked under a bridge."
-              }
-            },
-            {
-              "name": {
-                "de": "Corniche Kennedy",
-                "hu": "Corniche Kennedy tengerparti út",
-                "ro": "Corniche Kennedy",
-                "en": "Corniche Kennedy"
-              },
-              "tip_5lang": {
-                "de": "Die längste Sitzbank der Welt ist hier.",
-                "hu": "Itt található a világ leghosszabb padja.",
-                "ro": "Aici se află cea mai lungă bancă din lume.",
-                "en": "Home to the world's longest bench."
-              }
-            },
-            {
-              "name": {
-                "de": "Prado Strände",
-                "hu": "Prado strandok",
-                "ro": "Plajele Prado",
-                "en": "Prado Beaches"
-              },
-              "tip_5lang": {
-                "de": "Perfekt für eine Pause am Meer.",
-                "hu": "Tökéletes hely egy tengerparti pihenőhöz.",
-                "ro": "Locul perfect pentru o pauză la mare.",
-                "en": "Perfect spot for a break by the sea."
-              }
-            },
-            {
-              "name": {
-                "de": "Parc Borély",
-                "hu": "Borély park",
-                "ro": "Parcul Borély",
-                "en": "Borély Park"
-              },
-              "tip_5lang": {
-                "de": "Wunderschöner botanischer Garten.",
-                "hu": "Gyönyörű botanikus kert.",
-                "ro": "O grădină botanică superbă.",
-                "en": "Beautiful botanical garden inside."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "L'Épuisette",
-                "tip": "Gehobene Küche mit Meeresblick."
-              }
-            ],
-            "hu": [
-              {
-                "name": "L'Épuisette",
-                "tip": "Elegáns étterem tengeri panorámával."
-              }
-            ],
-            "ro": [
-              {
-                "name": "L'Épuisette",
-                "tip": "Bucătărie rafinată cu vedere la mare."
-              }
-            ],
-            "en": [
-              {
-                "name": "L'Épuisette",
-                "tip": "Fine dining with a sea view."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Anse de la Fausse Monnaie",
-                "tip": "Kleine Bucht zum Entspannen.",
-                "emoji": "🏞️"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Anse de la Fausse Monnaie",
-                "tip": "Kis öböl a pihenéshez.",
-                "emoji": "🏞️"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Anse de la Fausse Monnaie",
-                "tip": "Mic golf pentru relaxare.",
-                "emoji": "🏞️"
-              }
-            ],
-            "en": [
-              {
-                "name": "Anse de la Fausse Monnaie",
-                "tip": "Small cove for relaxing.",
-                "emoji": "🏞️"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Prado Markt",
-                "tip": "Lokaler Markt am Vormittag."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Prado piac",
-                "tip": "Helyi délelőtti piac."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Piața Prado",
-                "tip": "Piață locală de dimineață."
-              }
-            ],
-            "en": [
-              {
-                "name": "Prado Market",
-                "tip": "Local morning market."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Nutzen Sie die Radwege an der Küste.",
-              "Vermeiden Sie die Hauptverkehrsstraßen.",
-              "Tragen Sie einen Helm.",
-              "Sichern Sie das Fahrrad immer gut ab."
-            ],
-            "hu": [
-              "Használja a tengerparti kerékpárutakat.",
-              "Kerülje a forgalmas főutakat.",
-              "Viseljen sisakot.",
-              "Mindig jól zárja le a biciklit."
-            ],
-            "ro": [
-              "Folosiți pistele de biciclete de pe coastă.",
-              "Evitați bulevardele principale aglomerate.",
-              "Purtați cască de protecție.",
-              "Asigurați întotdeauna bine bicicleta."
-            ],
-            "en": [
-              "Use the dedicated coastal bike lanes.",
-              "Avoid the busy main traffic arteries.",
-              "Wear a helmet for safety.",
-              "Always lock your bike securely."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Trotz Regen starten wir am Alten Hafen mit guter Ausrüstung. Die Fahrt zum Vallon des Auffes ist auf nassen Straßen eine Herausforderung, aber die Aussicht lohnt sich. Mittags radeln wir vorsichtig entlang der Corniche Kennedy, wo die Brandung hochschlägt. Den Nachmittag verbringen wir im Schutz des Borély Parks, bevor wir die Räder sicher zurückgeben.",
-            "hu": "Az eső ellenére megfelelő felszereléssel indulunk a kikötőből. A Vallon des Auffes felé vezető út kihívás a vizes aszfalton, de a látvány megéri. Délben óvatosan tekerünk a Corniche Kennedy mentén, ahol a hullámok felcsapnak. A délutánt a Borély park védettebb részein töltjük, mielőtt visszaadnánk a bicikliket.",
-            "ro": "În ciuda ploii, pornim din Portul Vechi cu echipament adecvat. Drumul spre Vallon des Auffes este o provocare pe asfaltul ud, dar priveliștea merită. La prânz pedalăm cu grijă pe Corniche Kennedy, unde valurile se sparg de țărm. După-amiaza o petrecem în parcul Borély înainte de a returna bicicletele.",
-            "en": "Despite the rain, we start at the Old Port with proper gear. The ride to Vallon des Auffes is challenging on wet roads, but the view is worth it. By noon, we cycle carefully along Corniche Kennedy, where the surf hits the rocks. The afternoon is spent in the sheltered areas of Borély Park before safely returning the bikes."
-          },
-          "stops": [
-            {
-              "name": "Old Port Bike Rental",
-              "tip_4lang": {
-                "de": "Fragen Sie nach einem Helm mit Visier und Regenponcho.",
-                "hu": "Kérjen sisakot plexivel és esőponcsót a kölcsönzőben.",
-                "ro": "Cereți o cască cu vizieră și un pelerină de ploaie.",
-                "en": "Ask for a helmet with a visor and a rain poncho."
-              }
-            },
-            {
-              "name": "Vallon des Auffes",
-              "tip_4lang": {
-                "de": "Die steilen Zugangswege können bei Nässe rutschig sein.",
-                "hu": "A meredek lejárók nagyon csúszósak lehetnek esőben.",
-                "ro": "Căile de acces abrupte pot fi alunecoase când sunt ude.",
-                "en": "The steep access paths can be very slippery when wet."
-              }
-            },
-            {
-              "name": "Corniche Kennedy",
-              "tip_4lang": {
-                "de": "Achten Sie auf Seitenwind und Gischt von der See.",
-                "hu": "Vigyázzon az oldalszélre és a felcsapó sós permetre.",
-                "ro": "Atenție la vântul lateral și la stropii de apă de mare.",
-                "en": "Watch out for crosswinds and sea spray from the waves."
-              }
-            },
-            {
-              "name": "Prado Beaches",
-              "tip_4lang": {
-                "de": "Die Radwege sind hier breit, aber oft mit Pfützen übersät.",
-                "hu": "A kerékpárutak itt szélesek, de gyakran tócsásak.",
-                "ro": "Pistele de biciclete sunt largi, dar adesea au bălți.",
-                "en": "Bike lanes are wide here but often covered in puddles."
-              }
-            },
-            {
-              "name": "Borély Park",
-              "tip_4lang": {
-                "de": "Suchen Sie Schutz unter den großen Bäumen oder im Café.",
-                "hu": "Keressen menedéket a nagy fák alatt vagy a kávézóban.",
-                "ro": "Căutați adăpost sub copacii mari sau la cafenea.",
-                "en": "Seek shelter under the large trees or at the cafe."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Vermeiden Sie plötzliches Bremsen auf nassem Asphalt.",
-              "Prüfen Sie, ob die Leihräder funktionierende Schutzbleche haben.",
-              "Tragen Sie auffällige, reflektierende Kleidung bei grauem Wetter.",
-              "Nutzen Sie die Tunnel unter dem Pharo für kurzen Schutz."
-            ],
-            "hu": [
-              "Kerülje a hirtelen fékezést a nedves aszfalton.",
-              "Ellenőrizze, hogy a bérautón van-e működő sárvédő.",
-              "Viseljen feltűnő, fényvisszaverő ruházatot szürke időben.",
-              "Használja a Pharo alatti alagutakat rövid menedékként."
-            ],
-            "ro": [
-              "Evitați frânarea bruscă pe asfaltul ud.",
-              "Verificați dacă bicicletele închiriate au aripi funcționale.",
-              "Purtați haine reflectorizante vizibile pe vreme gri.",
-              "Folosiți tunelurile de sub Pharo pentru adăpost scurt."
-            ],
-            "en": [
-              "Avoid sudden braking on wet asphalt surfaces.",
-              "Check if the rental bikes have functional mudguards.",
-              "Wear bright, reflective clothing in gray weather.",
-              "Use the tunnels under Pharo for brief shelter from downpours."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein erfrischender Wintermorgen startet im Hafen. Die Fahrt zum Vallon des Auffes bietet klare Sicht auf die Frioul-Inseln. Mittags radeln wir die Corniche Kennedy entlang, wobei der kalte Wind die Anstrengung erhöht. Die Prado-Strände sind im Winter leer und friedlich. Den Nachmittag verbringen wir im sonnigen Borély Park, bevor es bei Dämmerung kühl wird.",
-            "hu": "Frissítő téli reggel indul a kikötőben. A Vallon des Auffes felé tekerve tiszta kilátás nyílik a Frioul-szigetekre. Délben a Corniche Kennedy mentén haladunk, ahol a hideg szél fokozza a fizikai kihívást. A Prado strandok télen üresek és békések. A délutánt a napos Borély parkban töltjük, mielőtt az alkonyattal lehűlne a levegő.",
-            "ro": "O dimineață răcoritoare de iarnă începe în port. Drumul spre Vallon des Auffes oferă o vedere clară spre insulele Frioul. La prânz pedalăm pe Corniche Kennedy, unde vântul rece sporește efortul. Plajele Prado sunt pustii și liniștite iarna. După-amiaza o petrecem în parcul însorit Borély înainte de lăsarea serii.",
-            "en": "A refreshing winter morning kicks off at the harbor. The ride to Vallon des Auffes offers crystal clear views of the Frioul Islands. By noon, we pedal along Corniche Kennedy, where the cold wind adds to the workout. Prado beaches are empty and peaceful in winter. The afternoon is spent in the sunny Borély Park before the twilight chill sets in."
-          },
-          "stops": [
-            {
-              "name": "Old Port Bike Rental",
-              "tip_4lang": {
-                "de": "Handschuhe sind bei Fahrten am Meer im Winter unerlässlich.",
-                "hu": "A kesztyű elengedhetetlen a téli tengerparti tekeréshez.",
-                "ro": "Mănușile sunt esențiale pentru plimbările de iarnă pe malul mării.",
-                "en": "Gloves are essential for winter rides along the coast."
-              }
-            },
-            {
-              "name": "Vallon des Auffes",
-              "tip_4lang": {
-                "de": "Das Fischerdorf wirkt im Winterlicht besonders malerisch.",
-                "hu": "A halászfalu különösen festői a téli fényekben.",
-                "ro": "Satul pescăresc arată deosebit de pitoresc în lumina iernii.",
-                "en": "The fishing village looks especially picturesque in winter light."
-              }
-            },
-            {
-              "name": "Corniche Kennedy",
-              "tip_4lang": {
-                "de": "Der Mistral kann hier sehr stark wehen; halten Sie den Lenker fest.",
-                "hu": "A Misztrál nagyon erős lehet itt; fogja szorosan a kormányt.",
-                "ro": "Mistralul poate fi foarte puternic aici; țineți bine ghidonul.",
-                "en": "The Mistral can be very strong here; grip the handlebars firmly."
-              }
-            },
-            {
-              "name": "Prado Beaches",
-              "tip_4lang": {
-                "de": "Ideal für eine Pause in der Mittagssonne ohne Sommertrubel.",
-                "hu": "Ideális egy pihenőre a déli napsütésben a nyári tömeg nélkül.",
-                "ro": "Ideal pentru o pauză la soarele amiezii fără agitația verii.",
-                "en": "Ideal for a break in the midday sun without summer crowds."
-              }
-            },
-            {
-              "name": "Borély Park",
-              "tip_4lang": {
-                "de": "Die botanischen Gärten sind auch im Winter sehenswert.",
-                "hu": "A botanikus kert télen is érdekes látnivalókat kínál.",
-                "ro": "Grădinile botanice merită vizitate și în timpul iernii.",
-                "en": "The botanical gardens are worth visiting even in winter."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Kleiden Sie sich nach dem Zwiebelprinzip gegen den Wind.",
-              "Die Fahrradwege am Prado sind im Winter viel sicherer.",
-              "Prüfen Sie den Reifendruck; kalte Luft verringert ihn.",
-              "Planen Sie die Rückkehr vor 17 Uhr, wenn es schnell dunkel wird."
-            ],
-            "hu": [
-              "Öltözködjön rétegesen a hideg szél ellen.",
-              "A Prado kerékpárútjai télen sokkal biztonságosabbak.",
-              "Ellenőrizze a guminyomást; a hideg levegő csökkenti azt.",
-              "Tervezze a visszaindulást 17 óra elé, mert hamar sötétedik."
-            ],
-            "ro": [
-              "Îmbrăcați-vă în straturi împotriva vântului rece.",
-              "Pistele de biciclete de la Prado sunt mult mai sigure iarna.",
-              "Verificați presiunea în anvelope; aerul rece o scade.",
-              "Planificați returnarea înainte de ora 17:00, când se întunecă rapid."
-            ],
-            "en": [
-              "Dress in layers to protect against the biting sea wind.",
-              "The bike paths at Prado are much safer in winter.",
-              "Check tire pressure; cold air causes it to drop.",
-              "Plan to return by 5 PM as it gets dark and cold quickly."
-            ]
-          }
-        }
       }
     },
     "car": {
       "mode": "car",
-      "speed_kmh": 18,
+      "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "18:30",
-      "total_km": 27.5,
-      "stop_count": 4,
+      "end_estimate": "17:15",
+      "total_km": 28.5,
+      "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Notre-Dame de la Garde",
-            "hu": "Notre-Dame de la Garde bazilika",
-            "ro": "Basilica Notre-Dame de la Garde",
-            "en": "Basilica of Notre-Dame de la Garde"
+            "de": "Vieux-Port (Cluster A)",
+            "hu": "Régi Kikötő (A-klaszter)",
+            "ro": "Port Vechi (Cluster A)",
+            "en": "Old Port (Cluster A)"
           },
           "coords": [
-            5.3712,
-            43.2842
+            5.3735,
+            43.2952
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Q-Park Vieux-Port.",
+            "hu": "Parkoljon a Q-Park Vieux-Port garázsban.",
+            "ro": "Parcați în garajul Q-Park Vieux-Port.",
+            "en": "Park in the Q-Park Vieux-Port parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Panier (Cluster A)",
+            "hu": "Le Panier (A-klaszter)",
+            "ro": "Le Panier (Cluster A)",
+            "en": "Le Panier (Cluster A)"
+          },
+          "coords": [
+            5.368,
+            43.2985
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Garde",
+            "hu": "Notre-Dame de la Garde",
+            "ro": "Notre-Dame de la Garde",
+            "en": "Notre-Dame de la Garde"
+          },
+          "coords": [
+            5.3703,
+            43.2848
           ],
           "category": "religious",
-          "arrive_at": "09:20",
+          "arrive_at": "11:10",
           "stay_min": 75,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 2.5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
           "tip_5lang": {
-            "de": "Die 'Gute Mutter' wacht über die Stadt.",
+            "de": "Die 'Bonne Mère' wacht über die Stadt.",
             "hu": "A 'Jó Anya' vigyázza a várost.",
-            "ro": "„Buna Mamă” veghează asupra orașului.",
-            "en": "The 'Good Mother' watching over the city."
+            "ro": "Sfânta Fecioară 'Bonne Mère' veghează orașul.",
+            "en": "The 'Bonne Mère' watches over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Goudes Dorf (Cluster B)",
+            "hu": "Goudes falu (B-klaszter)",
+            "ro": "Satul Goudes (Cluster B)",
+            "en": "Goudes Village (Cluster B)"
+          },
+          "coords": [
+            5.348,
+            43.216
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Das Ende der Welt von Marseille.",
+            "hu": "Marseille 'világvége' hangulatú pontja.",
+            "ro": "Capătul lumii pentru marseillezi.",
+            "en": "Considered the 'end of the world' in Marseille."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Croisette (Cluster B)",
+            "hu": "Cap Croisette (B-klaszter)",
+            "ro": "Cap Croisette (Cluster B)",
+            "en": "Cap Croisette (Cluster B)"
+          },
+          "coords": [
+            5.338,
+            43.212
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wilder Blick auf die Insel Maïre.",
+            "hu": "Vad kilátás a Maïre-szigetre.",
+            "ro": "Vedere sălbatică spre insula Maïre.",
+            "en": "Wild views of Maïre Island."
           }
         },
         {
           "name": {
             "de": "Palais Longchamp",
-            "hu": "Palais Longchamp",
+            "hu": "Longchamp-palota",
             "ro": "Palatul Longchamp",
             "en": "Palais Longchamp"
           },
           "coords": [
-            5.3942,
+            5.394,
             43.3048
           ],
-          "category": "historical",
-          "arrive_at": "11:00",
-          "stay_min": 80,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 5.0,
-          "tip_5lang": {
-            "de": "Ein Monument für das Wasser von Marseille.",
-            "hu": "Emlékmű a marseille-i víz tiszteletére.",
-            "ro": "Un monument dedicat apei din Marsilia.",
-            "en": "A monument to the waters of Marseille."
-          }
-        },
-        {
-          "name": {
-            "de": "Les Goudes",
-            "hu": "Les Goudes halászfalu",
-            "ro": "Satul Les Goudes",
-            "en": "Les Goudes Village"
-          },
-          "coords": [
-            5.3445,
-            43.2155
-          ],
-          "category": "historical",
-          "arrive_at": "13:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 40,
-          "hop_from_prev_km": 12.0,
-          "tip_5lang": {
-            "de": "Das Ende der Welt - wie die Einheimischen sagen.",
-            "hu": "A világ vége - ahogy a helyiek hívják.",
-            "ro": "„Capătul lumii”, cum spun localnicii.",
-            "en": "The 'end of the world', as locals call it."
-          }
-        },
-        {
-          "name": {
-            "de": "Calanque de Sormiou",
-            "hu": "Sormiou-öböl",
-            "ro": "Calanque de Sormiou",
-            "en": "Calanque de Sormiou"
-          },
-          "coords": [
-            5.4205,
-            43.2105
-          ],
-          "category": "beach",
-          "arrive_at": "15:00",
-          "stay_min": 150,
+          "category": "landmark",
+          "arrive_at": "14:45",
+          "stay_min": 60,
           "hop_from_prev_min": 30,
-          "hop_from_prev_km": 8.0,
+          "hop_from_prev_km": 15.0,
           "tip_5lang": {
-            "de": "Prüfen Sie den Zugang (im Sommer oft gesperrt).",
-            "hu": "Ellenőrizze a behajtást (nyáron korlátozott).",
-            "ro": "Verificați accesul (adesea restricționat vara).",
-            "en": "Check access (often restricted in summer)."
+            "de": "Wunderschöner Brunnen und Park.",
+            "hu": "Gyönyörű szökőkút és park.",
+            "ro": "Fântână și parc superbe.",
+            "en": "Beautiful fountain and park complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Julien",
+            "hu": "Cours Julien",
+            "ro": "Cours Julien",
+            "en": "Cours Julien"
+          },
+          "coords": [
+            5.3835,
+            43.2932
+          ],
+          "category": "market",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Viertel der Straßenkunst und Cafés.",
+            "hu": "Utcai művészet és kávézók negyede.",
+            "ro": "Cartierul artei stradale și al cafenelelor.",
+            "en": "District of street art and bohemian cafes."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto erreichen Sie die spektakulärsten Aussichtspunkte. Beginnen Sie bei der Basilika hoch über der Stadt, bewundern Sie den Palais Longchamp und fahren Sie dann hinaus zum malerischen Fischerdorf Les Goudes. Ein Abstecher in die Calanques bietet Natur pur und kristallklares Wasser.",
-        "hu": "Autóval a leglátványosabb kilátópontok is elérhetőek. Kezdjen a város felett magasodó bazilikánál, csodálja meg a Palais Longchamp vízeséseit, majd hajtson ki a festői Les Goudes halászfaluba. A Calanques-öblök érintetlen természete és kristálytiszta vize felejthetetlen élmény.",
-        "ro": "Cu mașina puteți ajunge la cele mai spectaculoase puncte de belvedere. Începeți la basilică, deasupra orașului, admirați Palatul Longchamp, apoi conduceți spre satul pitoresc Les Goudes. O vizită în Calanques oferă natură pură și ape de cristal.",
-        "en": "A car lets you reach the most spectacular viewpoints. Start at the Basilica high above the city, admire Palais Longchamp, and then drive out to the picturesque fishing village of Les Goudes. A detour to the Calanques offers pure nature and crystal-clear turquoise waters."
+        "de": "Mit dem Auto erreichen Sie die markantesten Punkte Marseilles effizient. Nach dem Hafenviertel geht es hinauf zur Basilika Notre-Dame de la Garde für das beste Panorama. Ein Highlight ist die Fahrt ins Fischerdorf Les Goudes am Rande der Calanques, bevor der Tag am prachtvollen Palais Longchamp endet.",
+        "hu": "Autóval hatékonyan elérheti Marseille legjellegzetesebb pontjait. A kikötői negyed után a Notre-Dame de la Garde bazilikához megyünk a legjobb panorámáért. Kiemelt pont a kirándulás Les Goudes halászfalujába a Calanques szélén, mielőtt a nap a pompás Longchamp-palotánál zárulna.",
+        "ro": "Cu mașina puteți ajunge eficient în cele mai emblematice puncte ale Marsiliei. După zona portului, urcăm la bazilica Notre-Dame de la Garde pentru cea mai bună panoramă. Un punct culminant este vizita în satul pescăresc Les Goudes, la marginea Calanques, urmată de palatul Longchamp.",
+        "en": "By car, you can efficiently reach Marseille's most iconic landmarks. After the harbor, head up to the Notre-Dame de la Garde basilica for the best panorama. A highlight is the trip to the fishing village of Les Goudes at the edge of the Calanques before ending at Palais Longchamp."
       },
       "gastro_picks": {
         "de": [
           {
             "name": "L'Esplaï du Grand Bar des Goudes",
-            "tip": "Fisch direkt vom Kutter."
+            "tip": "Fischspezialitäten mit Blick auf den kleinen Hafen."
           }
         ],
         "hu": [
           {
-            "name": "L'Esplaï du Grand Bar des Goudes",
-            "tip": "Friss hal közvetlenül a halászoktól."
+            "name": "L'Esplaï",
+            "tip": "Halételek kilátással a kis kikötőre Les Goudes-ban."
           }
         ],
         "ro": [
           {
-            "name": "L'Esplaï du Grand Bar des Goudes",
-            "tip": "Pește proaspăt direct de la pescari."
+            "name": "L'Esplaï",
+            "tip": "Specialități de pește cu vedere la micul port din Goudes."
           }
         ],
         "en": [
           {
-            "name": "L'Esplaï du Grand Bar des Goudes",
-            "tip": "Fish straight from the boat."
+            "name": "L'Esplaï",
+            "tip": "Fish specialties with a view of the tiny Goudes harbor."
           }
         ]
       },
@@ -1414,939 +759,337 @@
         "de": [
           {
             "name": "Cap Croisette",
-            "tip": "Wilder Küstenabschnitt.",
-            "emoji": "🌅"
+            "tip": "Raue Natur am Meer.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
             "name": "Cap Croisette",
-            "tip": "Vadonatúj tengerparti rész.",
-            "emoji": "🌅"
+            "tip": "Nyers természet a tengerparton.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
             "name": "Cap Croisette",
-            "tip": "Zonă de coastă sălbatică.",
-            "emoji": "🌅"
+            "tip": "Natură brută la malul mării.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
             "name": "Cap Croisette",
-            "tip": "Wild coastal stretch.",
-            "emoji": "🌅"
+            "tip": "Raw nature by the sea.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Centre Valentine",
-            "tip": "Großes Einkaufszentrum am Stadtrand."
+            "name": "Les Terrasses du Port",
+            "tip": "Großes Einkaufszentrum mit Dachterrasse."
           }
         ],
         "hu": [
           {
-            "name": "Centre Valentine",
-            "tip": "Nagy bevásárlóközpont a külvárosban."
+            "name": "Les Terrasses du Port",
+            "tip": "Nagy bevásárlóközpont tetőterasszal."
           }
         ],
         "ro": [
           {
-            "name": "Centre Valentine",
-            "tip": "Centru comercial mare la periferie."
+            "name": "Les Terrasses du Port",
+            "tip": "Centru comercial mare cu terasă pe acoperiș."
           }
         ],
         "en": [
           {
-            "name": "Centre Valentine",
-            "tip": "Large shopping center on the outskirts."
+            "name": "Les Terrasses du Port",
+            "tip": "Large shopping center with a roof terrace."
           }
         ]
       },
       "tips": {
         "de": [
-          "Parken am Alten Hafen ist teuer, nutzen Sie Parkhäuser.",
-          "Der Verkehr kann sehr chaotisch sein.",
-          "Lassen Sie keine Wertsachen im Auto.",
-          "Vorsicht in den engen Gassen der Innenstadt."
+          "Parken in Marseille kann schwierig sein, nutzen Sie Parkhäuser.",
+          "Vermeiden Sie die Rushhour im Tunnel Vieux-Port.",
+          "Die Straße nach Les Goudes ist an Wochenenden oft gesperrt."
         ],
         "hu": [
-          "A parkolás a kikötőben drága, használjon parkolóházakat.",
-          "A forgalom kaotikus lehet.",
-          "Ne hagyjon értéket az autóban.",
-          "Vigyázzon a belváros szűk utcáin."
+          "A parkolás nehéz lehet, használjon parkolóházakat.",
+          "Kerülje el a csúcsforgalmat a Vieux-Port alagútban.",
+          "A Les Goudes-ba vezető út hétvégente gyakran lezárt."
         ],
         "ro": [
-          "Parcarea în Portul Vechi este scumpă, folosiți garajele.",
-          "Traficul poate fi haotic.",
-          "Nu lăsați obiecte de valoare în mașină.",
-          "Atenție pe străzile înguste din centru."
+          "Parcarea poate fi dificilă, folosiți garajele publice.",
+          "Evitați orele de vârf în tunelul Vieux-Port.",
+          "Drumul spre Les Goudes este adesea închis în weekend."
         ],
         "en": [
-          "Parking at the Old Port is expensive, use underground garages.",
-          "Traffic can be quite chaotic.",
-          "Never leave valuables in your car.",
-          "Be careful in the narrow city center streets."
+          "Parking can be tough; always opt for secure parking garages.",
+          "Avoid rush hour traffic in the Vieux-Port tunnel.",
+          "The road to Les Goudes is often restricted on weekends."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Mit dem Auto erreichen Sie die spektakulärsten Aussichtspunkte. Beginnen Sie bei der Basilika hoch über der Stadt, bewundern Sie den Palais Longchamp und fahren Sie dann hinaus zum malerischen Fischerdorf Les Goudes. Ein Abstecher in die Calanques bietet Natur pur und kristallklares Wasser.",
-            "hu": "Autóval a leglátványosabb kilátópontok is elérhetőek. Kezdjen a város felett magasodó bazilikánál, csodálja meg a Palais Longchamp vízeséseit, majd hajtson ki a festői Les Goudes halászfaluba. A Calanques-öblök érintetlen természete és kristálytiszta vize felejthetetlen élmény.",
-            "ro": "Cu mașina puteți ajunge la cele mai spectaculoase puncte de belvedere. Începeți la basilică, deasupra orașului, admirați Palatul Longchamp, apoi conduceți spre satul pitoresc Les Goudes. O vizită în Calanques oferă natură pură și ape de cristal.",
-            "en": "A car lets you reach the most spectacular viewpoints. Start at the Basilica high above the city, admire Palais Longchamp, and then drive out to the picturesque fishing village of Les Goudes. A detour to the Calanques offers pure nature and crystal-clear turquoise waters."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Notre-Dame de la Garde",
-                "hu": "Notre-Dame de la Garde bazilika",
-                "ro": "Basilica Notre-Dame de la Garde",
-                "en": "Basilica of Notre-Dame de la Garde"
-              },
-              "tip_5lang": {
-                "de": "Die 'Gute Mutter' wacht über die Stadt.",
-                "hu": "A 'Jó Anya' vigyázza a várost.",
-                "ro": "„Buna Mamă” veghează asupra orașului.",
-                "en": "The 'Good Mother' watching over the city."
-              }
-            },
-            {
-              "name": {
-                "de": "Palais Longchamp",
-                "hu": "Palais Longchamp",
-                "ro": "Palatul Longchamp",
-                "en": "Palais Longchamp"
-              },
-              "tip_5lang": {
-                "de": "Ein Monument für das Wasser von Marseille.",
-                "hu": "Emlékmű a marseille-i víz tiszteletére.",
-                "ro": "Un monument dedicat apei din Marsilia.",
-                "en": "A monument to the waters of Marseille."
-              }
-            },
-            {
-              "name": {
-                "de": "Les Goudes",
-                "hu": "Les Goudes halászfalu",
-                "ro": "Satul Les Goudes",
-                "en": "Les Goudes Village"
-              },
-              "tip_5lang": {
-                "de": "Das Ende der Welt - wie die Einheimischen sagen.",
-                "hu": "A világ vége - ahogy a helyiek hívják.",
-                "ro": "„Capătul lumii”, cum spun localnicii.",
-                "en": "The 'end of the world', as locals call it."
-              }
-            },
-            {
-              "name": {
-                "de": "Calanque de Sormiou",
-                "hu": "Sormiou-öböl",
-                "ro": "Calanque de Sormiou",
-                "en": "Calanque de Sormiou"
-              },
-              "tip_5lang": {
-                "de": "Prüfen Sie den Zugang (im Sommer oft gesperrt).",
-                "hu": "Ellenőrizze a behajtást (nyáron korlátozott).",
-                "ro": "Verificați accesul (adesea restricționat vara).",
-                "en": "Check access (often restricted in summer)."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "L'Esplaï du Grand Bar des Goudes",
-                "tip": "Fisch direkt vom Kutter."
-              }
-            ],
-            "hu": [
-              {
-                "name": "L'Esplaï du Grand Bar des Goudes",
-                "tip": "Friss hal közvetlenül a halászoktól."
-              }
-            ],
-            "ro": [
-              {
-                "name": "L'Esplaï du Grand Bar des Goudes",
-                "tip": "Pește proaspăt direct de la pescari."
-              }
-            ],
-            "en": [
-              {
-                "name": "L'Esplaï du Grand Bar des Goudes",
-                "tip": "Fish straight from the boat."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Cap Croisette",
-                "tip": "Wilder Küstenabschnitt.",
-                "emoji": "🌅"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Cap Croisette",
-                "tip": "Vadonatúj tengerparti rész.",
-                "emoji": "🌅"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Cap Croisette",
-                "tip": "Zonă de coastă sălbatică.",
-                "emoji": "🌅"
-              }
-            ],
-            "en": [
-              {
-                "name": "Cap Croisette",
-                "tip": "Wild coastal stretch.",
-                "emoji": "🌅"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Centre Valentine",
-                "tip": "Großes Einkaufszentrum am Stadtrand."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Centre Valentine",
-                "tip": "Nagy bevásárlóközpont a külvárosban."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Centre Valentine",
-                "tip": "Centru comercial mare la periferie."
-              }
-            ],
-            "en": [
-              {
-                "name": "Centre Valentine",
-                "tip": "Large shopping center on the outskirts."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Parken am Alten Hafen ist teuer, nutzen Sie Parkhäuser.",
-              "Der Verkehr kann sehr chaotisch sein.",
-              "Lassen Sie keine Wertsachen im Auto.",
-              "Vorsicht in den engen Gassen der Innenstadt."
-            ],
-            "hu": [
-              "A parkolás a kikötőben drága, használjon parkolóházakat.",
-              "A forgalom kaotikus lehet.",
-              "Ne hagyjon értéket az autóban.",
-              "Vigyázzon a belváros szűk utcáin."
-            ],
-            "ro": [
-              "Parcarea în Portul Vechi este scumpă, folosiți garajele.",
-              "Traficul poate fi haotic.",
-              "Nu lăsați obiecte de valoare în mașină.",
-              "Atenție pe străzile înguste din centru."
-            ],
-            "en": [
-              "Parking at the Old Port is expensive, use underground garages.",
-              "Traffic can be quite chaotic.",
-              "Never leave valuables in your car.",
-              "Be careful in the narrow city center streets."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Ein regnerischer Tag beginnt mit der Fahrt zur Notre-Dame de la Garde, wo wir trocken die Aussicht genießen. Mittags fahren wir zum Palais Longchamp, dessen Museen ideal für schlechtes Wetter sind. Am Nachmittag wagen wir die Fahrt nach Les Goudes, wo die stürmische See beeindruckt. Wir beenden den Tag bei den Calanques, sicher im Auto, während der Regen auf das Dach prasselt.",
-            "hu": "Esős napunkat a Notre-Dame de la Garde bazilikánál kezdjük, ahol fedett helyről nézünk körül. Délben a Palais Longchamp felé vesszük az irányt, melynek múzeumaiban elkerülhetjük a vizet. Délután Les Goudes faluba autózunk, hogy lássuk a viharos tengert. A napot a Calanques-nál zárjuk, biztonságban az autóban, hallgatva az eső kopogását.",
-            "ro": "O zi ploioasă începe cu un drum spre Notre-Dame de la Garde, admirând vederea la adăpost. La prânz conducem spre Palais Longchamp, ale cărui muzee sunt ideale pe vreme rea. După-amiaza mergem spre Les Goudes pentru a vedea marea agitată. Încheiem ziua la Calanques, în siguranță în mașină, ascultând ploaia pe plafon.",
-            "en": "A rainy day starts with a drive to Notre-Dame de la Garde, enjoying the view from inside. By noon, we head to Palais Longchamp, whose museums are perfect for escaping the wet. In the afternoon, we drive to Les Goudes to witness the stormy sea. The day ends at the Calanques, staying safe and dry in the car while listening to the rain on the roof."
-          },
-          "stops": [
-            {
-              "name": "Basilica of Notre-Dame de la Garde",
-              "tip_4lang": {
-                "de": "Parken Sie im Parkhaus direkt unter der Basilika.",
-                "hu": "Használja a bazilika alatti közvetlen parkolót.",
-                "ro": "Parcați în parcarea situată direct sub bazilică.",
-                "en": "Park in the parking garage directly under the basilica."
-              }
-            },
-            {
-              "name": "Palais Longchamp",
-              "tip_4lang": {
-                "de": "Besuchen Sie das Naturkundemuseum im linken Flügel.",
-                "hu": "Látogassa meg a Természettudományi Múzeumot a bal szárnyban.",
-                "ro": "Vizitați Muzeul de Istorie Naturală din aripa stângă.",
-                "en": "Visit the Natural History Museum in the left wing."
-              }
-            },
-            {
-              "name": "Les Goudes Village",
-              "tip_4lang": {
-                "de": "Die schmale Straße kann bei Starkregen teilweise überflutet sein.",
-                "hu": "A keskeny út heves esőben néhol víz alá kerülhet.",
-                "ro": "Drumul îngust poate fi parțial inundat la ploi torențiale.",
-                "en": "The narrow road can be partially flooded during heavy rain."
-              }
-            },
-            {
-              "name": "Calanque de Sormiou",
-              "tip_4lang": {
-                "de": "Bleiben Sie auf dem Parkplatz oben, wenn die Straße rutschig ist.",
-                "hu": "Maradjon a felső parkolóban, ha az út túl csúszósnak tűnik.",
-                "ro": "Rămâneți în parcarea de sus dacă drumul este alunecos.",
-                "en": "Stay in the upper parking area if the road is too slippery."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Marseilles Verkehr ist bei Regen extrem langsam; planen Sie Pufferzeit ein.",
-              "Nutzen Sie die Tiefgaragen im Stadtzentrum für trockene Übergänge.",
-              "Vermeiden Sie Küstenstraßen bei Sturmwarnung wegen Gischt.",
-              "Die Sicht von der 'Bonne Mère' ist bei Regen oft mystisch."
-            ],
-            "hu": [
-              "Marseille forgalma esőben rendkívül lassú; számoljon plusz idővel.",
-              "Használja a belvárosi mélygarázsokat a száraz közlekedéshez.",
-              "Viharjelzés esetén kerülje a tengerparti utakat a sós permet miatt.",
-              "A kilátás a 'Bonne Mère'-től esőben gyakran misztikus."
-            ],
-            "ro": [
-              "Traficul din Marsilia este extrem de lent pe ploaie; alocați timp suplimentar.",
-              "Folosiți parcările subterane din centru pentru a rămâne uscați.",
-              "Evitați drumurile de coastă în caz de furtună din cauza valurilor.",
-              "Vederea de la 'Bonne Mère' este adesea mistică pe ploaie."
-            ],
-            "en": [
-              "Marseille traffic is extremely slow in the rain; plan extra time.",
-              "Use underground parking in the city center to stay dry.",
-              "Avoid coastal roads during storm warnings due to sea spray.",
-              "The view from 'Bonne Mère' is often mystical during rainfall."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Der Wintermorgen an der Notre-Dame de la Garde ist windig, aber die Fernsicht ist unschlagbar. Mittags fahren wir zum Palais Longchamp, wo die Brunnen im klaren Licht glänzen. Nachmittags führt die Route nach Les Goudes, das im Winter seine raue Schönheit zeigt. Den Sonnenuntergang erleben wir an der Calanque de Sormiou, bevor wir in der Dunkelheit sicher zurückfahren.",
-            "hu": "A téli reggel a Notre-Dame de la Garde-nál szeles, de a látótávolság verhetetlen. Délben a Palais Longchamp-hoz hajtunk, ahol a szökőkutak a tiszta fényben ragyognak. Délután Les Goudes következik, amely télen mutatja meg igazi, nyers szépségét. A naplementét a Sormiou-öbölnél nézzük meg, majd sötétben autózunk vissza.",
-            "ro": "Dimineața de iarnă la Notre-Dame de la Garde este vântoasă, dar vizibilitatea este imbatabilă. La prânz conducem spre Palais Longchamp, unde fântânile strălucesc în lumina clară. După-amiaza mergem la Les Goudes, care își arată frumusețea brută iarna. Vedem apusul la Calanque de Sormiou înainte de a conduce înapoi pe întuneric.",
-            "en": "The winter morning at Notre-Dame de la Garde is windy, but the visibility is unbeatable. By noon, we drive to Palais Longchamp, where the fountains sparkle in the crisp light. The afternoon route leads to Les Goudes, showing its raw beauty in winter. We catch the sunset at Calanque de Sormiou before heading back safely in the dark."
-          },
-          "stops": [
-            {
-              "name": "Basilica of Notre-Dame de la Garde",
-              "tip_4lang": {
-                "de": "Vorsicht beim Aussteigen; der Wind auf dem Hügel ist im Winter beißend.",
-                "hu": "Vigyázzon a kiszállásnál; a szél a dombtetőn télen metsző lehet.",
-                "ro": "Atenție la coborâre; vântul de pe deal este tăios iarna.",
-                "en": "Be careful when exiting; the wind on the hill is biting in winter."
-              }
-            },
-            {
-              "name": "Palais Longchamp",
-              "tip_4lang": {
-                "de": "Der Park ist im Winter weniger besucht und sehr friedlich.",
-                "hu": "A park télen kevésbé látogatott és rendkívül békés.",
-                "ro": "Parcul este mai puțin vizitat iarna și foarte liniștit.",
-                "en": "The park is less crowded in winter and very peaceful."
-              }
-            },
-            {
-              "name": "Les Goudes Village",
-              "tip_4lang": {
-                "de": "Die Parkplätze sind im Winter viel leichter zu finden.",
-                "hu": "A parkolóhelyek télen sokkal könnyebben megtalálhatóak.",
-                "ro": "Locurile de parcare sunt mult mai ușor de găsit iarna.",
-                "en": "Parking spots are much easier to find during the winter months."
-              }
-            },
-            {
-              "name": "Calanque de Sormiou",
-              "tip_4lang": {
-                "de": "Die Straße ist im Winter meist für Autos geöffnet (anders als im Sommer).",
-                "hu": "Az út télen általában nyitva áll az autók előtt (nyárral ellentétben).",
-                "ro": "Drumul este de obicei deschis mașinilor iarna (spre deosebire de vară).",
-                "en": "The road is usually open to cars in winter (unlike in summer)."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Prüfen Sie vor der Fahrt zur Calanque, ob die Straße witterungsbedingt offen ist.",
-              "Die Heizung im Auto ist nach dem Wind auf der 'Bonne Mère' ein Segen.",
-              "Nutzen Sie das klare Winterlicht für Panoramaaufnahmen der Stadt.",
-              "Achtung: In Les Goudes schließen einige Restaurants im Winter früher."
-            ],
-            "hu": [
-              "Indulás előtt ellenőrizze, hogy a Calanque útja nyitva van-e az időjárás miatt.",
-              "Az autó fűtése áldás a 'Bonne Mère' szeles látogatása után.",
-              "Használja ki a tiszta téli fényt a városi panorámaképekhez.",
-              "Figyelem: Les Goudes-ban néhány étterem télen korábban bezár."
-            ],
-            "ro": [
-              "Verificați dacă drumul spre Calanque este deschis înainte de a pleca.",
-              "Încălzirea din mașină este o binecuvântare după vântul de la 'Bonne Mère'.",
-              "Profitați de lumina clară de iarnă pentru panorame ale orașului.",
-              "Atenție: În Les Goudes unele restaurante se închid mai devreme iarna."
-            ],
-            "en": [
-              "Check if the road to the Calanque is open before heading out.",
-              "The car's heater is a blessing after the wind at 'Bonne Mère'.",
-              "Take advantage of the clear winter light for city panoramas.",
-              "Note: Some restaurants in Les Goudes close earlier in winter."
-            ]
-          }
-        }
       }
     },
     "transit": {
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "18:00",
-      "total_km": 14.0,
-      "stop_count": 4,
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Vieux-Port (U-Bahn/Bus)",
-            "hu": "Régi Kikötő (metró/busz)",
-            "ro": "Portul Vechi (metrou/autobuz)",
-            "en": "Old Port (Metro/Bus)"
+            "de": "Vieux-Port (Hafen)",
+            "hu": "Vieux-Port (Kikötő)",
+            "ro": "Vieux-Port (Port)",
+            "en": "Vieux-Port (Harbor)"
           },
           "coords": [
-            5.375,
-            43.296
+            5.3745,
+            43.2958
           ],
-          "category": "square",
+          "category": "harbor",
           "arrive_at": "09:10",
-          "stay_min": 30,
+          "stay_min": 40,
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Holen Sie sich eine Tageskarte.",
-            "hu": "Váltson napijegyet.",
-            "ro": "Cumpărați un abonament de o zi.",
-            "en": "Get a day pass for all transport."
+            "de": "Kaufen Sie eine Tageskarte für Bus/Bahn.",
+            "hu": "Vásároljon napijegyet a buszra/metróra.",
+            "ro": "Cumpărați un card de o zi pentru transport.",
+            "en": "Buy a day pass for bus and metro travel."
           }
         },
         {
           "name": {
-            "de": "Frioul Inseln (Fähre)",
-            "hu": "Frioul-szigetek (hajó)",
-            "ro": "Insulele Frioul (feribot)",
-            "en": "Frioul Islands (Ferry)"
+            "de": "Mucem (Bus 60)",
+            "hu": "Mucem (60-as busz)",
+            "ro": "Mucem (Autobuz 60)",
+            "en": "Mucem (Bus 60)"
           },
           "coords": [
-            5.305,
-            43.279
+            5.361,
+            43.2972
           ],
-          "category": "island",
-          "arrive_at": "10:15",
-          "stay_min": 150,
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 5.0,
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Boot fährt am Quai de la Fraternité ab.",
-            "hu": "A hajó a Quai de la Fraternité-ről indul.",
-            "ro": "Barca pleacă de la Quai de la Fraternité.",
-            "en": "Boat departs from Quai de la Fraternité."
+            "de": "Direkte Verbindung mit Bus 60.",
+            "hu": "Közvetlen járat a 60-as busszal.",
+            "ro": "Conexiune directă cu autobuzul 60.",
+            "en": "Direct connection with bus line 60."
           }
         },
         {
           "name": {
             "de": "Notre-Dame de la Garde (Bus 60)",
             "hu": "Notre-Dame de la Garde (60-as busz)",
-            "ro": "Notre-Dame de la Garde (buz 60)",
-            "en": "Notre-Dame de la Garde (Bus 60)"
+            "ro": "Notre-Dame de la Garde",
+            "en": "Notre-Dame de la Garde"
           },
           "coords": [
-            5.3712,
-            43.2842
+            5.3705,
+            43.2845
           ],
           "category": "religious",
-          "arrive_at": "13:30",
-          "stay_min": 75,
-          "hop_from_prev_min": 45,
-          "hop_from_prev_km": 6.0,
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
           "tip_5lang": {
-            "de": "Der Bus 60 spart Ihnen den steilen Aufstieg.",
-            "hu": "A 60-as busz megkíméli a meredek hegymenettől.",
-            "ro": "Autobuzul 60 vă scutește de urcarea abruptă.",
-            "en": "Bus 60 saves you from the steep climb."
+            "de": "Sparen Sie sich den steilen Aufstieg.",
+            "hu": "Spórolja meg a meredek hegymenetet.",
+            "ro": "Evitați urcușul abrupt mergând cu autobuzul.",
+            "en": "Save yourself the steep walk uphill."
           }
         },
         {
           "name": {
-            "de": "La Canebière",
-            "hu": "La Canebière sugárút",
-            "ro": "Bulevardul La Canebière",
-            "en": "La Canebière Boulevard"
+            "de": "Palais Longchamp (Metro M1)",
+            "hu": "Longchamp-palota (M1 metró)",
+            "ro": "Palatul Longchamp",
+            "en": "Palais Longchamp"
           },
           "coords": [
-            5.3815,
-            43.2975
+            5.3942,
+            43.305
           ],
-          "category": "historical",
-          "arrive_at": "15:15",
+          "category": "landmark",
+          "arrive_at": "13:25",
           "stay_min": 60,
           "hop_from_prev_min": 30,
-          "hop_from_prev_km": 3.0,
+          "hop_from_prev_km": 5.0,
           "tip_5lang": {
-            "de": "Die berühmteste Straße von Marseille.",
-            "hu": "Marseille leghíresebb utcája.",
-            "ro": "Cea mai faimoasă stradă din Marsilia.",
-            "en": "The most famous street in Marseille."
+            "de": "Metrostation Cinq-Avenues Longchamp.",
+            "hu": "Cinq-Avenues Longchamp metrómegálló.",
+            "ro": "Stația de metrou Cinq-Avenues Longchamp.",
+            "en": "Exit at Cinq-Avenues Longchamp station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Julien (Metro M2)",
+            "hu": "Cours Julien (M2 metró)",
+            "ro": "Cours Julien",
+            "en": "Cours Julien"
+          },
+          "coords": [
+            5.384,
+            43.293
+          ],
+          "category": "market",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buntes Viertel nahe der Metro Notre-Dame-du-Mont.",
+            "hu": "Színes negyed a Notre-Dame-du-Mont közelében.",
+            "ro": "Cartier colorat lângă metroul Notre-Dame-du-Mont.",
+            "en": "Colorful district near Notre-Dame-du-Mont metro."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux-Port Abschluss",
+            "hu": "Vieux-Port befejezés",
+            "ro": "Vieux-Port final",
+            "en": "Vieux-Port Conclusion"
+          },
+          "coords": [
+            5.374,
+            43.296
+          ],
+          "category": "harbor",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Abendessen im Zentrum.",
+            "hu": "Vacsora a központban.",
+            "ro": "Cină în centrul orașului.",
+            "en": "Dinner in the city center."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Das öffentliche Verkehrsnetz in Marseille ist ideal, um Stadt und Meer zu verbinden. Nehmen Sie die Fähre zu den Frioul-Inseln für einen Insel-Ausflug, nutzen Sie den Bus 60 für den bequemen Weg zur Basilika und schlendern Sie über den Prachtboulevard Canebière. Ein Tag voller Abwechslung ohne Stress.",
-        "hu": "Marseille tömegközlekedése ideális a város és a tenger összekapcsolásához. Hajózzon ki a Frioul-szigetekre egy rövid kirándulásra, használja a 60-as buszt a bazilikához való kényelmes feljutáshoz, és sétáljon végig a híres Canebière sugárúton. Változatos nap stressz nélkül.",
-        "ro": "Transportul public din Marsilia este ideal pentru a conecta orașul cu marea. Luați feribotul către Insulele Frioul, folosiți autobuzul 60 pentru a ajunge ușor la basilică și plimbați-vă pe faimosul bulevard Canebière. O zi plină de diversitate, fără stres.",
-        "en": "Marseille's transit system is perfect for combining city sights and the sea. Take the ferry to the Frioul Islands for a quick getaway, use bus 60 for an easy ride up to the Basilica, and stroll along the historic Canebière boulevard. A diverse day out without the driving stress."
+        "de": "Marseille mit Bus und Metro zu entdecken ist stressfrei. Der legendäre Bus 60 verbindet den Hafen direkt mit der Basilika. Die Metro M1 bringt Sie schnell zum Palais Longchamp, während die M2 Sie in das alternative Viertel Cours Julien entlässt, berühmt für seine Street Art.",
+        "hu": "Marseille felfedezése busszal és metróval stresszmentes. A legendás 60-as busz közvetlenül köti össze a kikötőt a bazilikával. Az M1-es metró gyorsan elviszi a Longchamp-palotához, míg az M2-es az alternatív Cours Julien negyedbe, amely híres az utcai művészetéről.",
+        "ro": "Descoperirea Marsiliei cu autobuzul și metroul este lipsită de stres. Legendarul autobuz 60 leagă portul direct de bazilică. Metroul M1 vă duce rapid la Palatul Longchamp, iar M2 în cartierul alternativ Cours Julien, faimos pentru arta stradală.",
+        "en": "Discovering Marseille by bus and metro is stress-free. The legendary bus line 60 connects the harbor directly to the Basilica. Metro M1 takes you quickly to Palais Longchamp, while M2 drops you in the alternative Cours Julien district, famous for its street art."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Les Halles de la Major",
-            "tip": "Moderner Food-Court am Hafen."
+            "name": "La Cantinetta",
+            "tip": "Hervorragende Pasta am Cours Julien."
           }
         ],
         "hu": [
           {
-            "name": "Les Halles de la Major",
-            "tip": "Modern gasztrocsarnok a kikötőnél."
+            "name": "La Cantinetta",
+            "tip": "Kiváló tésztaételek a Cours Julien közelében."
           }
         ],
         "ro": [
           {
-            "name": "Les Halles de la Major",
-            "tip": "Piață gastronomică modernă în port."
+            "name": "La Cantinetta",
+            "tip": "Paste excelente în zona Cours Julien."
           }
         ],
         "en": [
           {
-            "name": "Les Halles de la Major",
-            "tip": "Modern food hall by the harbor."
+            "name": "La Cantinetta",
+            "tip": "Excellent pasta dishes near Cours Julien."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Insel Pomègues",
-            "tip": "Einsame Buchten auf Frioul.",
-            "emoji": "🧘"
+            "name": "Hinterhof-Cafés",
+            "tip": "Entspannte Plätze im Cours Julien.",
+            "emoji": "☕"
           }
         ],
         "hu": [
           {
-            "name": "Pomègues-sziget",
-            "tip": "Elhagyatott öblök Frioul szigetén.",
-            "emoji": "🧘"
+            "name": "Udvari kávézók",
+            "tip": "Pihentető helyek a Cours Julien-nél.",
+            "emoji": "☕"
           }
         ],
         "ro": [
           {
-            "name": "Insula Pomègues",
-            "tip": "Golfuri izolate pe Frioul.",
-            "emoji": "🧘"
+            "name": "Cafenele de curte",
+            "tip": "Locuri relaxante în Cours Julien.",
+            "emoji": "☕"
           }
         ],
         "en": [
           {
-            "name": "Pomègues Island",
-            "tip": "Secluded coves on Frioul.",
-            "emoji": "🧘"
+            "name": "Courtyard Cafes",
+            "tip": "Relaxing spots in Cours Julien.",
+            "emoji": "☕"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Les Terrasses du Port",
-            "tip": "Shopping mit Meerblick."
+            "name": "Rue Saint-Ferréol",
+            "tip": "Haupteinkaufsstraße nahe der Metro."
           }
         ],
         "hu": [
           {
-            "name": "Les Terrasses du Port",
-            "tip": "Bevásárlóközpont tengeri kilátással."
+            "name": "Rue Saint-Ferréol",
+            "tip": "Fő bevásárlóutca a metró közelében."
           }
         ],
         "ro": [
           {
-            "name": "Les Terrasses du Port",
-            "tip": "Shopping cu vedere la mare."
+            "name": "Rue Saint-Ferréol",
+            "tip": "Principala stradă comercială lângă metrou."
           }
         ],
         "en": [
           {
-            "name": "Les Terrasses du Port",
-            "tip": "Shopping mall with sea views."
+            "name": "Rue Saint-Ferréol",
+            "tip": "Main shopping street near the metro."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie die RTM-Karte an Automaten.",
-          "Die Metro fährt bis ca. 0:30 Uhr.",
-          "Bus 83 bietet eine tolle Küstenfahrt.",
-          "Achten Sie auf die Abfahrtszeiten der Fähren."
+          "Laden Sie die RTM-App für Echtzeit-Fahrpläne.",
+          "Die Buslinie 60 ist oft sehr voll, steigen Sie früh ein.",
+          "Nachtbusse (Fluo) sind nach Mitternacht verfügbar."
         ],
         "hu": [
-          "Vásároljon RTM kártyát az automatákból.",
-          "A metró kb. éjfélig közlekedik.",
-          "A 83-as busz csodás parti útvonalon jár.",
-          "Figyeljen a hajók indulási idejére."
+          "Töltse le az RTM appot a valós idejű menetrendhez.",
+          "A 60-as busz gyakran tömött, szálljon fel időben.",
+          "Az éjszakai buszok (Fluo) éjfél után közlekednek."
         ],
         "ro": [
-          "Cumpărați cardul RTM de la automate.",
-          "Metroul circulă până în jurul orei 00:30.",
-          "Autobuzul 83 oferă un traseu superb pe coastă.",
-          "Verificați orarul feriboturilor."
+          "Descărcați aplicația RTM pentru orare în timp real.",
+          "Linia 60 de autobuz este adesea aglomerată, urcați devreme.",
+          "Autobuzele de noapte (Fluo) circulă după miezul nopții."
         ],
         "en": [
-          "Buy an RTM card at the ticket machines.",
-          "The metro runs until around 12:30 AM.",
-          "Bus 83 offers a scenic coastal ride.",
-          "Always check the ferry return times."
+          "Download the RTM app for real-time transit schedules.",
+          "Bus 60 is often very crowded; try to board at the first stop.",
+          "Night buses (Fluo) are available after midnight."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Das öffentliche Verkehrsnetz in Marseille ist ideal, um Stadt und Meer zu verbinden. Nehmen Sie die Fähre zu den Frioul-Inseln für einen Insel-Ausflug, nutzen Sie den Bus 60 für den bequemen Weg zur Basilika und schlendern Sie über den Prachtboulevard Canebière. Ein Tag voller Abwechslung ohne Stress.",
-            "hu": "Marseille tömegközlekedése ideális a város és a tenger összekapcsolásához. Hajózzon ki a Frioul-szigetekre egy rövid kirándulásra, használja a 60-as buszt a bazilikához való kényelmes feljutáshoz, és sétáljon végig a híres Canebière sugárúton. Változatos nap stressz nélkül.",
-            "ro": "Transportul public din Marsilia este ideal pentru a conecta orașul cu marea. Luați feribotul către Insulele Frioul, folosiți autobuzul 60 pentru a ajunge ușor la basilică și plimbați-vă pe faimosul bulevard Canebière. O zi plină de diversitate, fără stres.",
-            "en": "Marseille's transit system is perfect for combining city sights and the sea. Take the ferry to the Frioul Islands for a quick getaway, use bus 60 for an easy ride up to the Basilica, and stroll along the historic Canebière boulevard. A diverse day out without the driving stress."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Vieux-Port (U-Bahn/Bus)",
-                "hu": "Régi Kikötő (metró/busz)",
-                "ro": "Portul Vechi (metrou/autobuz)",
-                "en": "Old Port (Metro/Bus)"
-              },
-              "tip_5lang": {
-                "de": "Holen Sie sich eine Tageskarte.",
-                "hu": "Váltson napijegyet.",
-                "ro": "Cumpărați un abonament de o zi.",
-                "en": "Get a day pass for all transport."
-              }
-            },
-            {
-              "name": {
-                "de": "Frioul Inseln (Fähre)",
-                "hu": "Frioul-szigetek (hajó)",
-                "ro": "Insulele Frioul (feribot)",
-                "en": "Frioul Islands (Ferry)"
-              },
-              "tip_5lang": {
-                "de": "Boot fährt am Quai de la Fraternité ab.",
-                "hu": "A hajó a Quai de la Fraternité-ről indul.",
-                "ro": "Barca pleacă de la Quai de la Fraternité.",
-                "en": "Boat departs from Quai de la Fraternité."
-              }
-            },
-            {
-              "name": {
-                "de": "Notre-Dame de la Garde (Bus 60)",
-                "hu": "Notre-Dame de la Garde (60-as busz)",
-                "ro": "Notre-Dame de la Garde (buz 60)",
-                "en": "Notre-Dame de la Garde (Bus 60)"
-              },
-              "tip_5lang": {
-                "de": "Der Bus 60 spart Ihnen den steilen Aufstieg.",
-                "hu": "A 60-as busz megkíméli a meredek hegymenettől.",
-                "ro": "Autobuzul 60 vă scutește de urcarea abruptă.",
-                "en": "Bus 60 saves you from the steep climb."
-              }
-            },
-            {
-              "name": {
-                "de": "La Canebière",
-                "hu": "La Canebière sugárút",
-                "ro": "Bulevardul La Canebière",
-                "en": "La Canebière Boulevard"
-              },
-              "tip_5lang": {
-                "de": "Die berühmteste Straße von Marseille.",
-                "hu": "Marseille leghíresebb utcája.",
-                "ro": "Cea mai faimoasă stradă din Marsilia.",
-                "en": "The most famous street in Marseille."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Les Halles de la Major",
-                "tip": "Moderner Food-Court am Hafen."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Les Halles de la Major",
-                "tip": "Modern gasztrocsarnok a kikötőnél."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Les Halles de la Major",
-                "tip": "Piață gastronomică modernă în port."
-              }
-            ],
-            "en": [
-              {
-                "name": "Les Halles de la Major",
-                "tip": "Modern food hall by the harbor."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Insel Pomègues",
-                "tip": "Einsame Buchten auf Frioul.",
-                "emoji": "🧘"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Pomègues-sziget",
-                "tip": "Elhagyatott öblök Frioul szigetén.",
-                "emoji": "🧘"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Insula Pomègues",
-                "tip": "Golfuri izolate pe Frioul.",
-                "emoji": "🧘"
-              }
-            ],
-            "en": [
-              {
-                "name": "Pomègues Island",
-                "tip": "Secluded coves on Frioul.",
-                "emoji": "🧘"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Les Terrasses du Port",
-                "tip": "Shopping mit Meerblick."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Les Terrasses du Port",
-                "tip": "Bevásárlóközpont tengeri kilátással."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Les Terrasses du Port",
-                "tip": "Shopping cu vedere la mare."
-              }
-            ],
-            "en": [
-              {
-                "name": "Les Terrasses du Port",
-                "tip": "Shopping mall with sea views."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Kaufen Sie die RTM-Karte an Automaten.",
-              "Die Metro fährt bis ca. 0:30 Uhr.",
-              "Bus 83 bietet eine tolle Küstenfahrt.",
-              "Achten Sie auf die Abfahrtszeiten der Fähren."
-            ],
-            "hu": [
-              "Vásároljon RTM kártyát az automatákból.",
-              "A metró kb. éjfélig közlekedik.",
-              "A 83-as busz csodás parti útvonalon jár.",
-              "Figyeljen a hajók indulási idejére."
-            ],
-            "ro": [
-              "Cumpărați cardul RTM de la automate.",
-              "Metroul circulă până în jurul orei 00:30.",
-              "Autobuzul 83 oferă un traseu superb pe coastă.",
-              "Verificați orarul feriboturilor."
-            ],
-            "en": [
-              "Buy an RTM card at the ticket machines.",
-              "The metro runs until around 12:30 AM.",
-              "Bus 83 offers a scenic coastal ride.",
-              "Always check the ferry return times."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Wir starten den Regentag an der Metro Vieux-Port. Mittags nehmen wir die Fähre zu den Frioul-Inseln, sofern der Seegang es zulässt; die Fahrt im Regen ist stimmungsvoll. Nachmittags bringt uns der Bus 60 direkt zur Notre-Dame de la Garde, wo wir trocken bleiben. Den Abend verbringen wir auf der Canebière, wo wir die überdachten Passagen der Geschäfte nutzen.",
-            "hu": "Az esős napot a Vieux-Port metróállomásnál kezdjük. Délben komppal megyünk a Frioul-szigetekre, ha a tenger engedi; az út az esőben hangulatos. Délután a 60-as busz visz fel minket a Notre-Dame de la Garde-hoz, így szárazon maradunk. Az estét a Canebière sugárúton töltjük, kihasználva az üzletek fedett részeit.",
-            "ro": "Începem ziua ploioasă la metroul Vieux-Port. La prânz luăm feribotul spre insulele Frioul, dacă marea permite; călătoria pe ploaie este atmosferică. După-amiaza, autobuzul 60 ne duce direct la Notre-Dame de la Garde, unde rămânem uscați. Seara o petrecem pe Canebière, folosind pasajele acoperite ale magazinelor.",
-            "en": "We start the rainy day at the Vieux-Port metro. By noon, we take the ferry to Frioul Islands if sea conditions allow; the rainy crossing is atmospheric. In the afternoon, bus 60 takes us straight to Notre-Dame de la Garde, keeping us dry. The evening is spent on Canebière, making use of the covered shop entrances."
-          },
-          "stops": [
-            {
-              "name": "Old Port (Metro/Bus)",
-              "tip_4lang": {
-                "de": "Warten Sie in der Metrostation, bis der Bus direkt vor der Tür hält.",
-                "hu": "Várjon a metróállomáson, amíg a busz közvetlenül megérkezik.",
-                "ro": "Așteptați în stația de metrou până când autobuzul oprește la ușă.",
-                "en": "Wait inside the metro station until the bus stops right outside."
-              }
-            },
-            {
-              "name": "Frioul Islands (Ferry)",
-              "tip_4lang": {
-                "de": "Bleiben Sie während der Überfahrt im geschlossenen Deck der Fähre.",
-                "hu": "A kompon maradjon a zárt fedélzeten az átkelés alatt.",
-                "ro": "Rămâneți pe puntea închisă a feribotului în timpul traversării.",
-                "en": "Stay in the enclosed lower deck of the ferry during the crossing."
-              }
-            },
-            {
-              "name": "Notre-Dame de la Garde (Bus 60)",
-              "tip_4lang": {
-                "de": "Der Bus hält direkt vor dem Kircheneingang; kein langer Fußweg.",
-                "hu": "A busz közvetlenül a bejáratnál áll meg; nem kell sokat gyalogolni.",
-                "ro": "Autobuzul oprește chiar la intrare; nu e nevoie de mers pe jos.",
-                "en": "The bus stops right at the entrance; no long walk in the rain."
-              }
-            },
-            {
-              "name": "La Canebière Boulevard",
-              "tip_4lang": {
-                "de": "Nutzen Sie die Straßenbahn (Tram), um im Trockenen die Straße entlangzufahren.",
-                "hu": "Használja a villamost, hogy szárazon utazzon végig a sugárúton.",
-                "ro": "Folosiți tramvaiul pentru a parcurge bulevardul la adăpost.",
-                "en": "Use the tram to travel down the boulevard while staying dry."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Die Marseille City Pass App zeigt Echtzeit-Infos bei Wetterausfällen.",
-              "Bei starkem Wind werden die Fähren oft eingestellt; prüfen Sie RTM.fr.",
-              "Die Metro M1 und M2 sind die trockensten Fortbewegungsmittel.",
-              "Halten Sie Kleingeld oder eine Karte für das Ticket beim Busfahrer bereit."
-            ],
-            "hu": [
-              "A Marseille City Pass app valós idejű infót ad a járatkimaradásokról.",
-              "Erős szélben a kompok gyakran nem járnak; ellenőrizze az RTM.fr-t.",
-              "Az M1-es és M2-es metró a legszárazabb közlekedési mód.",
-              "Készítsen elő aprót vagy kártyát a jegyvásárláshoz a buszvezetőnél."
-            ],
-            "ro": [
-              "Aplicația Marseille City Pass oferă info în timp real despre anulări.",
-              "La vânt puternic feriboturile sunt adesea anulate; verificați RTM.fr.",
-              "Metrourile M1 și M2 sunt cele mai uscate mijloace de transport.",
-              "Aveți pregătiți bani mărunți sau un card pentru bilet la șofer."
-            ],
-            "en": [
-              "The Marseille City Pass app gives real-time info on cancellations.",
-              "Ferries are often cancelled in strong winds; check RTM.fr regularly.",
-              "Metro lines M1 and M2 are the driest ways to get around the city.",
-              "Have change or a card ready for buying tickets from the bus driver."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein klarer Wintermorgen führt uns zur Metro Vieux-Port. Mittags nehmen wir die Fähre zu den Frioul-Inseln; die klare Luft bietet fantastische Ausblicke. Am Nachmittag bringt uns der Bus 60 zur Notre-Dame de la Garde, wo wir den kalten Mistral spüren. Den Abend lassen wir auf der festlich beleuchteten Canebière ausklingen, bevor wir bequem mit der Tram zurückfahren.",
-            "hu": "Tiszta téli reggelen indulunk a Vieux-Port metrótól. Délben komppal megyünk a Frioul-szigetekre; a tiszta levegő fantasztikus kilátást biztosít. Délután a 60-as busz visz fel a Notre-Dame de la Garde-hoz, ahol érezni a hideg Misztrált. Az estét a kivilágított Canebière sugárúton zárjuk, majd villamossal megyünk tovább.",
-            "ro": "O dimineață senină de iarnă ne duce la metroul Vieux-Port. La prânz luăm feribotul spre insulele Frioul; aerul curat oferă vederi fantastice. După-amiaza, autobuzul 60 ne duce la Notre-Dame de la Garde, unde simțim Mistralul rece. Încheiem seara pe Canebière iluminată festiv înainte de a lua tramvaiul.",
-            "en": "A clear winter morning leads us to the Vieux-Port metro. By noon, we take the ferry to Frioul Islands; the crisp air offers fantastic views. In the afternoon, bus 60 takes us to Notre-Dame de la Garde, where the cold Mistral is palpable. We end the evening on the festively lit Canebière before a comfortable tram ride back."
-          },
-          "stops": [
-            {
-              "name": "Old Port (Metro/Bus)",
-              "tip_4lang": {
-                "de": "Holen Sie sich einen warmen Tee am Kiosk vor der Abfahrt.",
-                "hu": "Vegyen egy forró teát a büfénél az indulás előtt.",
-                "ro": "Luați un ceai cald de la chioșc înainte de plecare.",
-                "en": "Grab a hot tea from the kiosk before your departure."
-              }
-            },
-            {
-              "name": "Frioul Islands (Ferry)",
-              "tip_4lang": {
-                "de": "Die Boote sind im Winter weniger voll; genießen Sie die Ruhe.",
-                "hu": "A hajók télen kevésbé zsúfoltak; élvezze a nyugalmat.",
-                "ro": "Bărciile sunt mai puțin aglomerate iarna; bucurați-vă de liniște.",
-                "en": "Ferries are less crowded in winter; enjoy the peaceful crossing."
-              }
-            },
-            {
-              "name": "Notre-Dame de la Garde (Bus 60)",
-              "tip_4lang": {
-                "de": "Der Bus ist beheizt, was nach der Kälte auf dem Gipfel ideal ist.",
-                "hu": "A busz fűtött, ami ideális a hegytetőn tapasztalt hideg után.",
-                "ro": "Autobuzul este încălzit, ideal după frigul de pe culme.",
-                "en": "The bus is heated, which is great after the cold at the summit."
-              }
-            },
-            {
-              "name": "La Canebière Boulevard",
-              "tip_4lang": {
-                "de": "Die Weihnachtsbeleuchtung ist hier im Dezember wunderschön.",
-                "hu": "A karácsonyi kivilágítás gyönyörű itt decemberben.",
-                "ro": "Iluminatul de Crăciun este superb aici în decembrie.",
-                "en": "The Christmas lights here are beautiful during December."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Fähren fahren im Winter seltener; prüfen Sie den Fahrplan genau.",
-              "Die Metro-Stationen sind im Winter angenehm warm.",
-              "Kaufen Sie ein Tagesticket für 5,20€ für unbegrenzte Fahrten.",
-              "Die Tram T2 bietet einen tollen Blick auf die Weihnachtsdekoration."
-            ],
-            "hu": [
-              "A kompok télen ritkábban járnak; nézze meg alaposan a menetrendet.",
-              "A metróállomások télen kellemesen melegek.",
-              "Vegyél napijegyet 5,20 euróért a korlátlan utazáshoz.",
-              "A T2-es villamosról remekül látható a karácsonyi dekoráció."
-            ],
-            "ro": [
-              "Feriboturile circulă mai rar iarna; verificați orarul cu atenție.",
-              "Stațiile de metrou sunt plăcut de calde în timpul iernii.",
-              "Cumpărați un bilet de o zi pentru 5,20€ pentru călătorii nelimitate.",
-              "Tramvaiul T2 oferă o priveliște frumoasă asupra decorațiunilor."
-            ],
-            "en": [
-              "Ferries run less frequently in winter; check the schedule closely.",
-              "Metro stations are comfortably warm during the winter months.",
-              "Buy a 24-hour pass for €5.20 for unlimited transit use.",
-              "The T2 tram offers a great view of the city's festive decorations."
-            ]
-          }
-        }
       }
     }
   }

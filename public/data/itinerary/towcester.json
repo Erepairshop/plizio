@@ -1,0 +1,924 @@
+{
+  "city_id": "towcester",
+  "anchor": {
+    "name": "Market Square",
+    "coords": [
+      -0.99,
+      52.131
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Market Square",
+          "coords": [
+            -0.99,
+            52.131
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt.",
+            "hu": "A város szíve.",
+            "ro": "Inima orașului.",
+            "en": "The heart of the town."
+          }
+        },
+        {
+          "name": "Towcester Town Museum",
+          "coords": [
+            -0.989,
+            52.131
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Römische Geschichte erleben.",
+            "hu": "Római történelem élménye.",
+            "ro": "Istoria romană vie.",
+            "en": "Experience Roman history."
+          }
+        },
+        {
+          "name": "St Lawrence's Church",
+          "coords": [
+            -0.988,
+            52.13
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prächtiger Kirchturm.",
+            "hu": "Pompás templomtorony.",
+            "ro": "Turn de biserică superb.",
+            "en": "Splendid church tower."
+          }
+        },
+        {
+          "name": "Bury Mount",
+          "coords": [
+            -0.986,
+            52.129
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überreste einer Motte.",
+            "hu": "Egykori földvár maradványai.",
+            "ro": "Rămășițele unei motte.",
+            "en": "Remains of a motte castle."
+          }
+        },
+        {
+          "name": "Watermeadows",
+          "coords": [
+            -0.985,
+            52.127
+          ],
+          "category": "park",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang am Fluss Tove.",
+            "hu": "Séta a Tove folyó mentén.",
+            "ro": "Plimbare pe râul Tove.",
+            "en": "Walk along the River Tove."
+          }
+        },
+        {
+          "name": "Easton Neston Gates",
+          "coords": [
+            -0.98,
+            52.13
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tor zum prachtvollen Anwesen.",
+            "hu": "A pompás birtok kapuja.",
+            "ro": "Poarta spre domeniul grandios.",
+            "en": "Gates to the grand estate."
+          }
+        },
+        {
+          "name": "Towcester Racecourse Entrance",
+          "coords": [
+            -0.978,
+            52.115
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ort sportlicher Tradition.",
+            "hu": "A sporttradíciók helyszíne.",
+            "ro": "Locul tradiției sportive.",
+            "en": "Site of sporting tradition."
+          }
+        },
+        {
+          "name": "The Saracen's Head",
+          "coords": [
+            -0.989,
+            52.131
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Berühmter Pub aus Dickens-Roman.",
+            "hu": "Híres pub Dickens regényéből.",
+            "ro": "Pub celebru din romanul lui Dickens.",
+            "en": "Famous pub from Dickens novel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Towcester begrüßt Sie mit seiner reichen römischen und georgianischen Geschichte. Beginnen Sie auf dem belebten Marktplatz und tauchen Sie im Museum in die antike Vergangenheit ein.\n\nMittags erkunden Sie die grüne Lunge der Stadt, die Watermeadows. Genießen Sie die Ruhe am Fluss Tove, bevor Sie den Blick auf das prachtvolle Easton Neston Anwesen werfen.\n\nDer Nachmittag steht im Zeichen des Sports und der Architektur. Wandern Sie zur historischen Pferderennbahn, einem der malerischsten Orte für den Reitsport in England.\n\nBeenden Sie den Tag im 'Saracen's Head', einem Gasthof, der schon von Charles Dickens in 'The Pickwick Papers' verewigt wurde, und genießen Sie lokale Spezialitäten.",
+        "hu": "Towcester gazdag római és georgiánus történelmével köszönti Önt. Kezdjen a forgalmas piactéren, és merüljön el az ókori múltban a városi múzeumban.\n\nDélben fedezze fel a város zöld tüdejét, a Watermeadows-t. Élvezze a nyugalmat a Tove folyó partján, mielőtt megcsodálná a pompás Easton Neston birtok kapuit.\n\nA délután a sport és az építészet jegyében telik. Sétáljon el a történelmi lóversenypályához, amely Anglia egyik legfestőibb lovassport-helyszíne.\n\nZárja a napot a „Saracen's Head”-ben, egy olyan fogadóban, amelyet Charles Dickens örökített meg a Pickwick Klubban, és kóstolja meg a helyi különlegességeket.",
+        "ro": "Towcester vă întâmpină cu bogata sa istorie romană și georgiană. Începeți în piața plină de viață și scufundați-vă în trecutul antic la muzeul orașului.\n\nLa prânz, explorați plămânul verde al orașului, Watermeadows. Bucurați-vă de liniște pe malul râului Tove înainte de a vedea porțile grandioasei proprietăți Easton Neston.\n\nDupă-amiaza este dedicată sportului și arhitecturii. Mergeți la istoricul hipodrom, unul dintre cele mai pitorești locuri pentru sportul ecvestru din Anglia.\n\nÎncheiați ziua la „Saracen's Head”, un han imortalizat de Charles Dickens în „Documentele clubului Pickwick”, și savurați specialități locale.",
+        "en": "Towcester welcomes you with its rich Roman and Georgian history. Start in the busy Market Square and immerse yourself in the ancient past at the town museum.\n\nBy midday, explore the town's green heart, the Watermeadows. Enjoy the peace by the River Tove before viewing the gates of the magnificent Easton Neston estate.\n\nIn the afternoon, focus on sport and architecture. Walk to the historic racecourse, one of the most scenic settings for equestrian sports in England.\n\nEnd the day at 'The Saracen's Head', an inn immortalised by Charles Dickens in 'The Pickwick Papers', and enjoy local specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Saracen's Head",
+            "tip": "Historisches Ambiente & Ales."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Saracen's Head",
+            "tip": "Történelmi környezet és sörök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Saracen's Head",
+            "tip": "Ambianță istorică și beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Saracen's Head",
+            "tip": "Historic setting and local ales."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Watermeadows",
+            "tip": "Stille am Fluss Tove.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watermeadows",
+            "tip": "Csend a Tove folyónál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Watermeadows",
+            "tip": "Liniște pe râul Tove.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Watermeadows",
+            "tip": "Quiet by the River Tove.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bell Plantation",
+            "tip": "Gartenmöbel und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bell Plantation",
+            "tip": "Kerti termékek és helyi áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bell Plantation",
+            "tip": "Mobilier de grădină și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bell Plantation",
+            "tip": "Garden items and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken auf dem Marktplatz ist zeitlich begrenzt.",
+          "Das Museum hat montags geschlossen.",
+          "Silverstone ist nur 5 Meilen entfernt."
+        ],
+        "hu": [
+          "A piactéren a parkolás időben korlátozott.",
+          "A múzeum hétfőn zárva tart.",
+          "Silverstone mindössze 5 mérföldre van."
+        ],
+        "ro": [
+          "Parcarea în piață este limitată temporal.",
+          "Muzeul este închis lunea.",
+          "Silverstone este la doar 5 mile distanță."
+        ],
+        "en": [
+          "Parking in Market Square is time-limited.",
+          "The museum is closed on Mondays.",
+          "Silverstone is only 5 miles away."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Towcester Market Square",
+          "coords": [
+            -0.99,
+            52.131
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Kiindulópont a központban.",
+            "ro": "Start în centru.",
+            "en": "Start in the center."
+          }
+        },
+        {
+          "name": "Watling Street Path",
+          "coords": [
+            -1.02,
+            52.115
+          ],
+          "category": "park",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Folgen Sie der Römerstraße.",
+            "hu": "Kövesse a római utat.",
+            "ro": "Urmați drumul roman.",
+            "en": "Follow the Roman road."
+          }
+        },
+        {
+          "name": "Silverstone Circuit Edge",
+          "coords": [
+            -1.025,
+            52.078
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Heimat des britischen Motorsports.",
+            "hu": "A brit autósport otthona.",
+            "ro": "Casa motorsportului britanic.",
+            "en": "Home of British motorsport."
+          }
+        },
+        {
+          "name": "Whittlebury",
+          "coords": [
+            -0.99,
+            52.088
+          ],
+          "category": "park",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Charmantes englisches Dorf.",
+            "hu": "Bájos angol falu.",
+            "ro": "Sat englezesc fermecător.",
+            "en": "Charming English village."
+          }
+        },
+        {
+          "name": "Towcester Racecourse",
+          "coords": [
+            -0.978,
+            52.115
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radweg zur Rennbahn.",
+            "hu": "Kerékpárút a versenypályához.",
+            "ro": "Traseu spre hipodrom.",
+            "en": "Cycle path to the racecourse."
+          }
+        },
+        {
+          "name": "Towcester Square",
+          "coords": [
+            -0.989,
+            52.131
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erholung nach der Tour.",
+            "hu": "Pihenés a túra után.",
+            "ro": "Relaxare după tur.",
+            "en": "Rest after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie auf den Spuren der Römer und Rennfahrer. Diese Route führt Sie von Towcester bis zum weltberühmten Silverstone Circuit.",
+        "hu": "Kerékpározzon a rómaiak és a versenyzők nyomában. Ez az útvonal Towcestertől a világhírű Silverstone versenypályáig vezet.",
+        "ro": "Pedalați pe urmele romanilor și ale piloților. Acest traseu vă duce din Towcester până la celebrul circuit Silverstone.",
+        "en": "Cycle in the footsteps of Romans and racers. This route takes you from Towcester to the world-famous Silverstone Circuit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Silverstone Interactive Museum Café",
+            "tip": "Snack für Motorsportfans."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silverstone Múzeum Kávézó",
+            "tip": "Szendvics a sportrajongóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua Muzeului Silverstone",
+            "tip": "Snack pentru fanii motorsportului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silverstone Museum Cafe",
+            "tip": "Snack for motorsport fans."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Whittlewood Forest",
+            "tip": "Stille Waldwege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Whittlewood erdő",
+            "tip": "Csendes erdei utak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Whittlewood",
+            "tip": "Poteci forestiere liniștite.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Whittlewood Forest",
+            "tip": "Quiet forest paths.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silverstone Shop",
+            "tip": "Merchandising & Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silverstone bolt",
+            "tip": "Relikviák és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Silverstone",
+            "tip": "Produse promoționale și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silverstone Shop",
+            "tip": "Merchandising and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Watling Street ist verkehrsreich.",
+          "Achten Sie auf Renntage (Lärm/Verkehr).",
+          "Tragen Sie helle Kleidung."
+        ],
+        "hu": [
+          "A Watling Street forgalmas lehet.",
+          "Figyeljünk a versenynapokra.",
+          "Viseljünk világos ruházatot."
+        ],
+        "ro": [
+          "Watling Street este aglomerată.",
+          "Atenție la zilele de cursă.",
+          "Purtați haine reflectorizante."
+        ],
+        "en": [
+          "Watling Street is busy with traffic.",
+          "Check for race days (noise/traffic).",
+          "Wear bright clothing."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 25.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Market Square Car Park",
+          "coords": [
+            -0.99,
+            52.131
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt.",
+            "hu": "Tökéletes kiindulópont.",
+            "ro": "Punct de start perfect.",
+            "en": "Perfect starting point."
+          }
+        },
+        {
+          "name": "Towcester Racecourse",
+          "coords": [
+            -0.978,
+            52.115
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking available."
+          }
+        },
+        {
+          "name": "Silverstone Museum",
+          "coords": [
+            -1.025,
+            52.078
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Motorsport-Erlebnis pur.",
+            "hu": "Tiszta autósport élmény.",
+            "ro": "Experiență pură de motorsport.",
+            "en": "Pure motorsport experience."
+          }
+        },
+        {
+          "name": "Whittlebury Hall View",
+          "coords": [
+            -0.99,
+            52.088
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Herrschaftliches Panorama.",
+            "hu": "Uradalmi panoráma.",
+            "ro": "Panoramă nobilă.",
+            "en": "Stately panorama."
+          }
+        },
+        {
+          "name": "Bell Plantation Garden Centre",
+          "coords": [
+            -0.995,
+            52.145
+          ],
+          "category": "shopping",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Tee und Einkaufen.",
+            "hu": "Tea és vásárlás.",
+            "ro": "Ceai și cumpărături.",
+            "en": "Tea and shopping."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Towcester und das Umland im Tempo der Motoren. Von der historischen Rennbahn bis zum modernen Silverstone Circuit bietet diese Tour alles für Technik- und Sportfans.",
+        "hu": "Tapasztalja meg Towcestert és környékét a motorok tempójában. A történelmi lóversenypályától a modern Silverstone-ig ez a túra mindent kínál a technika és a sport szerelmeseinek.",
+        "ro": "Experimentați Towcester și împrejurimile în ritmul motoarelor. De la hipodromul istoric la circuitul modern Silverstone, acest tur oferă totul pentru fanii tehnicii și sportului.",
+        "en": "Experience Towcester and its surroundings at the speed of engines. From the historic racecourse to modern Silverstone, this tour has it all for tech and sport fans."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Folly",
+            "tip": "Ausgezeichnetes Pub-Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Folly",
+            "tip": "Kiváló pub-koszt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Folly",
+            "tip": "Mâncare de pub excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Folly",
+            "tip": "Excellent pub dining."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Easton Neston Park",
+            "tip": "Weite Ausblicke.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Easton Neston Park",
+            "tip": "Tágas kilátások.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Easton Neston",
+            "tip": "Vederi largi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Easton Neston Park",
+            "tip": "Wide open views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Towcester Antique Centre",
+            "tip": "Schätze aus der Vergangenheit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Towcester Antikvitás Központ",
+            "tip": "Kincsek a múltból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de antichități Towcester",
+            "tip": "Comori din trecut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Towcester Antique Centre",
+            "tip": "Treasures from the past."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tickets für Silverstone vorab buchen.",
+          "Parken am Wochenende kann schwierig sein.",
+          "Watling Street meiden bei Stoßzeiten."
+        ],
+        "hu": [
+          "Foglaljunk jegyet Silverstone-ba előre.",
+          "A hétvégi parkolás nehézkes lehet.",
+          "Kerüljük a Watling Streetet csúcsidőben."
+        ],
+        "ro": [
+          "Rezervați bilete la Silverstone în avans.",
+          "Parcarea poate fi dificilă în weekend.",
+          "Evitați Watling Street la ore de vârf."
+        ],
+        "en": [
+          "Book Silverstone tickets in advance.",
+          "Parking can be tricky on weekends.",
+          "Avoid Watling Street during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Towcester Town Hall Stop",
+          "coords": [
+            -0.99,
+            52.131
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Zentraler Busknoten.",
+            "hu": "Központi buszmegálló.",
+            "ro": "Nod central de autobuz.",
+            "en": "Central bus hub."
+          }
+        },
+        {
+          "name": "Bury Mount Access",
+          "coords": [
+            -0.986,
+            52.129
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Gang vom Bus.",
+            "hu": "Rövid séta a busztól.",
+            "ro": "Scurtă plimbare de la autobuz.",
+            "en": "Short walk from the bus."
+          }
+        },
+        {
+          "name": "Brackley Road",
+          "coords": [
+            -1.0,
+            52.125
+          ],
+          "category": "shopping",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lokale Geschäfte.",
+            "hu": "Helyi üzletek.",
+            "ro": "Magazine locale.",
+            "en": "Local shops."
+          }
+        },
+        {
+          "name": "Silverstone Village",
+          "coords": [
+            -1.02,
+            52.095
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bus 88 ab Towcester.",
+            "hu": "A 88-as busz Towcesterből.",
+            "ro": "Autobuzul 88 din Towcester.",
+            "en": "Bus 88 from Towcester."
+          }
+        },
+        {
+          "name": "Towcester Market Sq",
+          "coords": [
+            -0.989,
+            52.131
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Rückfahrt ins Zentrum.",
+            "hu": "Visszautazás a központba.",
+            "ro": "Întoarcere în centru.",
+            "en": "Return to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Towcester mit dem Bus. Die Anbindung nach Silverstone und in die umliegenden Dörfer ist ideal für eine stressfreie Erkundung ohne Auto.",
+        "hu": "Fedezze fel Towcestert busszal. A Silverstone-ba és a környező falvakba tartó járatok ideálisak az autó nélküli felfedezéshez.",
+        "ro": "Descoperiți Towcester cu autobuzul. Legăturile spre Silverstone și satele din jur sunt ideale pentru o explorare fără stres.",
+        "en": "Discover Towcester by bus. The connections to Silverstone and surrounding villages are ideal for stress-free exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Brave Old Oak",
+            "tip": "Gemütlicher lokaler Pub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Brave Old Oak",
+            "tip": "Hangulatos helyi pub."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Brave Old Oak",
+            "tip": "Pub local primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Brave Old Oak",
+            "tip": "Cozy local pub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Silverstone Churchyard",
+            "tip": "Friedliche Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silverstone templomkert",
+            "tip": "Békés csend.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Silverstone",
+            "tip": "Liniște deplină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Silverstone Churchyard",
+            "tip": "Peaceful silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Towcester Local Shops",
+            "tip": "Authentisches Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Towcesteri helyi boltok",
+            "tip": "Autentikus kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele locale Towcester",
+            "tip": "Artizanat autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Towcester Local Shops",
+            "tip": "Authentic local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bus 88 Fahrplan prüfen.",
+          "Kontaktloses Zahlen wird bevorzugt.",
+          "Der Weg zum Mount ist etwas steil."
+        ],
+        "hu": [
+          "Ellenőrizze a 88-as busz menetrendjét.",
+          "A kártyás fizetés preferált.",
+          "A dombra vezető út kicsit meredek."
+        ],
+        "ro": [
+          "Verificați orarul autobuzului 88.",
+          "Plata contactless este preferată.",
+          "Drumul spre Mount este puțin abrupt."
+        ],
+        "en": [
+          "Check Bus 88 schedule.",
+          "Contactless payment is preferred.",
+          "The path to the Mount is a bit steep."
+        ]
+      }
+    }
+  }
+}

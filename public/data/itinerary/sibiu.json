@@ -1,0 +1,940 @@
+{
+  "city_id": "sibiu",
+  "anchor": {
+    "name": "Piața Mare",
+    "coords": [
+      24.151,
+      45.797
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grosser Ring",
+            "hu": "Nagypiac",
+            "ro": "Piața Mare",
+            "en": "Big Square"
+          },
+          "coords": [
+            24.151,
+            45.797
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die 'Augen von Sibiu' auf den Dächern der alten Häuser.",
+            "hu": "Nézz a tetőkre: a híres 'szebeni szemek' figyelik minden léptedet.",
+            "ro": "Priviți acoperișurile caselor pentru a vedea celebrele 'ochi ale Sibiului'.",
+            "en": "Look up at the roofs to see the famous 'eyes of Sibiu' watching you."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausturm",
+            "hu": "Tanácstorony",
+            "ro": "Turnul Sfatului",
+            "en": "Council Tower"
+          },
+          "coords": [
+            24.15,
+            45.798
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die Treppen hoch für den besten Blick auf die drei Plätze.",
+            "hu": "Mássz fel a lépcsőkön a legszebb panorámáért a történelmi központra.",
+            "ro": "Urcați scările pentru cea mai bună panoramă asupra centrului istoric.",
+            "en": "Climb the narrow stairs for the best view over the historic squares."
+          }
+        },
+        {
+          "name": {
+            "de": "Lügenbrücke",
+            "hu": "Hazugságok hídja",
+            "ro": "Podul Minciunilor",
+            "en": "Bridge of Lies"
+          },
+          "coords": [
+            24.15,
+            45.799
+          ],
+          "category": "landmark",
+          "arrive_at": "10:15",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die erste gusseiserne Brücke Rumäniens, erbaut im Jahr 1859.",
+            "hu": "Románia első öntöttvas hídja 1859-ből; ne mondj itt valótlanságot.",
+            "ro": "Primul pod de fontă din România (1859); legenda spune că scârțâie la minciuni.",
+            "en": "Romania's first cast-iron bridge from 1859; legends say it creaks at lies."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Stadtpfarrkirche",
+            "hu": "Evangélikus székesegyház",
+            "ro": "Catedrala Evanghelică",
+            "en": "Lutheran Cathedral"
+          },
+          "coords": [
+            24.149,
+            45.798
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab von Mihnea dem Bösen im Inneren der Kirche.",
+            "hu": "Keresd meg Rossz Mihnea sírkövét a templom belső falánál.",
+            "ro": "Vizitați mormântul lui Mihnea cel Rău în interiorul catedralei.",
+            "en": "Find the tombstone of Mihnea the Evil inside this 14th-century landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Brukenthal-Museum",
+            "hu": "Brukenthal Múzeum",
+            "ro": "Muzeul Brukenthal",
+            "en": "Brukenthal Museum"
+          },
+          "coords": [
+            24.151,
+            45.796
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eines der ältesten Museen der Welt mit bedeutenden flämischen Meistern.",
+            "hu": "A világ egyik legrégebbi múzeuma, flamand és német mesterek műveivel.",
+            "ro": "Unul dintre cele mai vechi muzee din lume, cu o colecție barocă unică.",
+            "en": "One of the world's oldest museums, housing rare Flemish and German masters."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            24.152,
+            45.795
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie sächsische Spezialitäten wie den Brotsalat.",
+            "hu": "Kóstold meg a helyi szász specialitásokat egy hangulatos pincében.",
+            "ro": "Încercați specialitățile săsești într-o cramă tradițională sibiană.",
+            "en": "Try traditional Saxon specialties in an authentic cellar restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Kathedrale",
+            "hu": "Ortodox székesegyház",
+            "ro": "Catedrala Mitropolitană",
+            "en": "Orthodox Cathedral"
+          },
+          "coords": [
+            24.147,
+            45.794
+          ],
+          "category": "religious",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen byzantinischen Fresken im Inneren.",
+            "hu": "Csodáld meg a monumentális bizánci stílusú belső festményeket.",
+            "ro": "Admirați frescele bizantine superbe din cea mai mare biserică a orașului.",
+            "en": "Admire the stunning Byzantine frescoes inside this massive cathedral."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag auf dem Grossen Ring, dem Herzstück der sächsischen Architektur. Steigen Sie auf den Rathausturm für einen Überblick, bevor Sie die Lügenbrücke überqueren. Nach dem Besuch der gotischen Stadtpfarrkirche tauchen Sie im Brukenthal-Museum in die Kunstgeschichte ein. Den Nachmittag verbringen Sie bei einem traditionellen Essen und dem Besuch der prächtigen orthodoxen Kathedrale, gefolgt von einem Spaziergang entlang der alten Stadtmauer.",
+        "hu": "A napot a Nagypiacon indítjuk, ahol a szász építészet remekei vesznek körül. A Tanácstoronyból belátni az egész várost, majd a Hazugságok hídján át jutunk az evangélikus templomhoz. A Brukenthal Múzeum képtára után egy kiadós helyi ebéd következik. Délután a monumentális ortodox székesegyházat keressük fel, majd a középkori várfalak mentén sétálva zárjuk a szebeni körutat.",
+        "ro": "Începeți ziua în Piața Mare, inima arhitecturală a orașului. Urcați în Turnul Sfatului pentru panoramă, apoi traversați Podul Minciunilor spre Catedrala Evanghelică. După o incursiune în artă la Muzeul Brukenthal, savurați un prânz tradițional. După-amiaza este dedicată spectaculoasei Catedrale Mitropolitane și unei plimbări relaxante pe strada Cetății, printre turnurile de apărare medievale.",
+        "en": "Start your day at the Big Square, surrounded by iconic Saxon architecture. Climb the Council Tower for a panoramic view before crossing the Bridge of Lies. After exploring the Gothic Lutheran Cathedral, visit the prestigious Brukenthal Museum. Enjoy a traditional lunch in an old cellar, then head to the massive Orthodox Cathedral. Finish with a walk along the medieval fortification walls and defense towers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crama Sibiul Vechi",
+            "tip": "Uriges Kellerrestaurant mit siebenbürgischen Spezialitäten."
+          },
+          {
+            "name": "Hermania",
+            "tip": "Sächsische Küche in einem historischen Gebäude der Honterus-Stiftung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crama Sibiul Vechi",
+            "tip": "Autentikus pinceétterem hagyományos erdélyi ételekkel."
+          },
+          {
+            "name": "Hermania",
+            "tip": "Helyi szász receptek alapján készült fogások történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Sibiul Vechi",
+            "tip": "Restaurant tradițional situat într-o pivniță veche, foarte apreciat."
+          },
+          {
+            "name": "Hermania",
+            "tip": "Bucătărie săsească autentică, aprovizionată din ferme locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crama Sibiul Vechi",
+            "tip": "Traditional cellar restaurant serving authentic Transylvanian dishes."
+          },
+          {
+            "name": "Hermania",
+            "tip": "Saxon-style cuisine sourced from local farms in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cetății Park",
+            "tip": "Ein ruhiger Spazierweg entlang der alten Wehrtürme.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kleiner Ring",
+            "tip": "Frühmorgens eine Oase der Ruhe unter den Arkaden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfal park",
+            "tip": "Csendes sétaút a középkori bástyák és tornyok tövében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kispiac",
+            "tip": "A kora reggeli órákban a legnyugodtabb hely az árkádok alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cetății",
+            "tip": "O zonă de promenadă liniștită de-a lungul zidurilor de apărare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piața Mică",
+            "tip": "Ideală pentru o cafea liniștită sub arcade în zorii zilei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cetății Park",
+            "tip": "A peaceful walkway along the medieval walls and towers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Little Square",
+            "tip": "Perfect for a quiet coffee under the arches in the early morning.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cibin-Markt",
+            "tip": "Authentischer Bauernmarkt mit Käse und lokalen Produkten."
+          },
+          {
+            "name": "Nicolae Bălcescu Strasse",
+            "tip": "Die Haupteinkaufsmeile mit vielen kleinen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cibin piac",
+            "tip": "Helyi termelői piac friss sajtokkal és zöldségekkel."
+          },
+          {
+            "name": "Nicolae Bălcescu utca",
+            "tip": "A város fő sétálóutcája üzletekkel és ajándékboltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Cibin",
+            "tip": "Piață agroalimentară unde găsiți brânzeturi și produse locale."
+          },
+          {
+            "name": "Strada Nicolae Bălcescu",
+            "tip": "Principala arteră comercială cu numeroase magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cibin Market",
+            "tip": "Authentic farmers market for local cheese and fresh produce."
+          },
+          {
+            "name": "Nicolae Bălcescu Street",
+            "tip": "The main pedestrian shopping street with various boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt tückisch sein kann.",
+          "Die meisten Sehenswürdigkeiten sind montags geschlossen.",
+          "Kaufen Sie ein Kombiticket für die Brukenthal-Museen, um Geld zu sparen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert az óváros macskakövei próbára teszik a lábat.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Érdemes kombinált jegyet venni a Brukenthal palotához és a galériákhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, pavajul cu piatră cubică este prezent peste tot.",
+          "Majoritatea muzeelor sunt închise în zilele de luni.",
+          "Căutați biletele combinate pentru rețeaua de muzee Brukenthal."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestone streets can be challenging.",
+          "Keep in mind that most museums are closed on Mondays.",
+          "Consider a combo ticket for the Brukenthal Museum locations to save money."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt-Tour",
+            "hu": "Óvárosi tekerés",
+            "ro": "Turul centrului vechi",
+            "en": "Old Town Loop"
+          },
+          "coords": [
+            24.151,
+            45.797
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf dem Kopfsteinpflaster.",
+            "hu": "Vigyázz a macskaköveken, csúszósak lehetnek.",
+            "ro": "Atenție la piatra cubică, poate fi alunecoasă.",
+            "en": "Be careful on the cobblestones, they can be slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Sub Arini Park",
+            "hu": "Sub Arini park",
+            "ro": "Parcul Sub Arini",
+            "en": "Sub Arini Park"
+          },
+          "coords": [
+            24.135,
+            45.783
+          ],
+          "category": "park",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Einer der ältesten Parks Rumäniens mit breiten Radwegen.",
+            "hu": "Széles utak és hatalmas fák várnak ebben a patinás parkban.",
+            "ro": "Unul dintre cele mai vechi parcuri din țară, cu alei largi pentru biciclete.",
+            "en": "One of Romania's oldest parks with wide, bike-friendly paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Sibiu",
+            "hu": "Nagyszebeni Állatkert",
+            "ro": "Grădina Zoologică",
+            "en": "Sibiu Zoo"
+          },
+          "coords": [
+            24.125,
+            45.758
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause am See direkt am Eingang.",
+            "hu": "Tarts egy kis pihenőt a bejárat melletti tónál.",
+            "ro": "Faceți o pauză pe malul lacului de la intrare.",
+            "en": "Take a quick break by the lake near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Astra Freilichtmuseum",
+            "hu": "Astra Skanzen",
+            "ro": "Muzeul ASTRA",
+            "en": "Astra Open Air Museum"
+          },
+          "coords": [
+            24.12,
+            45.753
+          ],
+          "category": "museum",
+          "arrive_at": "13:15",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrräder sind auf dem Museumsgelände erlaubt.",
+            "hu": "A skanzen területén szabad kerékpározni a kijelölt utakon.",
+            "ro": "Bicicletele sunt permise pe aleile principale ale muzeului.",
+            "en": "Cycling is permitted on the main paths inside the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour führt Sie aus der engen Altstadt in die grüne Lunge von Sibiu. Nach einer Runde über die historischen Plätze radeln Sie durch den weitläufigen Sub Arini Park bis zum Zoo und dem beeindruckenden Astra Freilichtmuseum. Dies ist der ideale Weg, um Natur und Kultur zu verbinden, ohne auf das Auto angewiesen zu sein.",
+        "hu": "Ez a kerékpáros útvonal kivezet az óváros szűk utcáiról Szeben zöldövezetébe. A történelmi terektől a Sub Arini parkon át egészen az Állatkertig és az Astra skanzenig tekerünk. Ez a legjobb módja a természet és a népi építészet felfedezésének egyetlen nap alatt.",
+        "ro": "Acest traseu vă poartă din centrul istoric spre plămânul verde al orașului. După o tură prin piețele vechi, pedalați prin Parcul Sub Arini până la Grădina Zoologică și impresionantul Muzeu ASTRA. Este modalitatea perfectă de a combina natura cu istoria, evitând aglomerația auto.",
+        "en": "This bike tour leads you from the narrow Old Town streets to Sibiu's green belt. After a loop around the historic squares, ride through Sub Arini Park to the Zoo and the impressive Astra Open Air Museum. It is the ideal way to enjoy nature and folk culture in a single day trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hanul din Tulgheș",
+            "tip": "Traditionelles Gasthaus direkt im Astra-Museum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hanul din Tulgheș",
+            "tip": "Hagyományos fogadó a skanzen területén, autentikus ízekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hanul din Tulgheș",
+            "tip": "Han tradițional situat chiar în incinta Muzeului ASTRA."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hanul din Tulgheș",
+            "tip": "Traditional inn located inside the Astra Museum grounds."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dumbrava-Wald",
+            "tip": "Ruhige Waldwege abseits der Touristenströme.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dumbrava-erdő",
+            "tip": "Csendes erdei utak a város szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Dumbrava",
+            "tip": "Alei liniștite în pădure, perfecte pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dumbrava Forest",
+            "tip": "Quiet forest paths perfect for escaping the city buzz.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Astra",
+            "tip": "Handgefertigte Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Astra ajándékbolt",
+            "tip": "Kézműves kerámiák és népművészeti tárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeriile de artă populară ASTRA",
+            "tip": "Obiecte de ceramică și țesături lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Astra Craft Shop",
+            "tip": "Handmade ceramics and traditional textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Bike-Sharing-System 'Sibiu Bike City'.",
+          "Nehmen Sie ausreichend Wasser mit für die Fahrt zum Astra-Museum."
+        ],
+        "hu": [
+          "Használd a 'Sibiu Bike City' közbringarendszert.",
+          "Vigyél magaddal vizet a skanzenbe tartó útra."
+        ],
+        "ro": [
+          "Folosiți sistemul de bike-sharing 'Sibiu Bike City'.",
+          "Luați apă suficientă pentru drumul spre Muzeul ASTRA."
+        ],
+        "en": [
+          "Use the 'Sibiu Bike City' sharing system for easy rentals.",
+          "Bring plenty of water for the ride to the Open Air Museum."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Cluster",
+            "hu": "Óvárosi negyed",
+            "ro": "Centrul Istoric",
+            "en": "Historic Center Cluster"
+          },
+          "coords": [
+            24.151,
+            45.797
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Thalia-Saal oder am Grossen Ring.",
+            "hu": "Parkolj a Thália-teremnél vagy a Nagypiac közelében.",
+            "ro": "Parcați lângă Sala Thalia sau în zona Pieței Mari.",
+            "en": "Park near Thalia Hall or the Big Square area."
+          }
+        },
+        {
+          "name": {
+            "de": "Astra Museum Cluster",
+            "hu": "Astra Skanzen környéke",
+            "ro": "Complexul ASTRA",
+            "en": "Astra Museum Cluster"
+          },
+          "coords": [
+            24.12,
+            45.753
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Grosser Parkplatz direkt vor dem Haupteingang.",
+            "hu": "Hatalmas parkoló vár közvetlenül a főbejáratnál.",
+            "ro": "Parcare spațioasă chiar în fața intrării principale.",
+            "en": "Spacious parking lot available right at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisnădioara (Michelsberg)",
+            "hu": "Kisdisznód",
+            "ro": "Cisnădioara",
+            "en": "Cisnădioara"
+          },
+          "coords": [
+            24.113,
+            45.704
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 11.2,
+          "tip_5lang": {
+            "de": "Kurze Wanderung zur romanischen Basilika auf dem Berg.",
+            "hu": "Rövid séta a hegytetőn álló román kori bazilikához.",
+            "ro": "Scurtă urcare pe jos până la bazilica romanică de pe deal.",
+            "en": "A short walk up the hill to the 12th-century Romanesque basilica."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Tag verbindet die urbane Eleganz von Sibiu mit der rustikalen Schönheit der Umgebung. Nach der Erkundung der Altstadt fahren wir zum Astra Museum, einem der grössten Freilichtmuseen Europas. Den Abschluss bildet ein Besuch im malerischen Dorf Cisnădioara, wo eine romanische Wehrkirche auf einem steilen Hügel thront.",
+        "hu": "Ez az útvonal Szeben eleganciáját ötvözi a környék vidéki bájával. Az óváros felfedezése után az Astra skanzenbe látogatunk, amely Európa egyik legnagyobb szabadtéri múzeuma. A napot Kisdisznódon zárjuk, ahol egy meredek domb tetején álló középkori templom vár ránk.",
+        "ro": "Această zi combină eleganța urbană a Sibiului cu frumusețea rustică a împrejurimilor. După explorarea centrului vechi, mergem la Muzeul ASTRA, unul dintre cele mai mari din Europa. Încheiem ziua în satul Cisnădioara, vizitând bazilica romanică ce domină așezarea de pe un deal abrupt.",
+        "en": "This car trip combines the urban elegance of Sibiu with the rustic beauty of the surrounding area. After exploring the Old Town, drive to the Astra Museum, one of Europe's largest open-air museums. End your day in the picturesque village of Cisnădioara, visiting the Romanesque fortified church on the hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Apfelhaus",
+            "tip": "Restaurant in Cisnădioara mit schönem Garten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apfelhaus",
+            "tip": "Hangulatos étterem Kisdisznódon, gyönyörű kerttel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apfelhaus",
+            "tip": "Restaurant în Cisnădioara cu o grădină superbă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apfelhaus",
+            "tip": "Charming restaurant in Cisnădioara with a beautiful garden."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Michelsberg Hügel",
+            "tip": "Panoramablick über das Harbachtal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kisdisznódi várhegy",
+            "tip": "Pazar kilátás a környező völgyekre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Cetății",
+            "tip": "Panoramă deosebită asupra văii din Cisnădioara.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Michelsberg Hill",
+            "tip": "Stunning panoramic views over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte in Cisnădioara",
+            "tip": "Hausgemachte Marmeladen und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kisdisznódi kistermelők",
+            "tip": "Helyi lekvárok, mézek és kézműves portékák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Producători locali Cisnădioara",
+            "tip": "Dulcețuri de casă și miere ecologică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local products in Cisnădioara",
+            "tip": "Homemade jams, honey, and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze in der Innenstadt sind kostenpflichtig.",
+          "Die Strasse nach Cisnădioara ist gut ausgebaut, aber eng im Dorf."
+        ],
+        "hu": [
+          "A belvárosi parkolás fizetős, használj parkolóautomatát.",
+          "A Kisdisznódra vezető út jó minőségű, de a faluban szűk utcákra számíts."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este cu plată (SMS sau tichete).",
+          "Drumul spre Cisnădioara este bun, dar străzile din sat sunt înguste."
+        ],
+        "en": [
+          "Downtown parking requires payment via app or machine.",
+          "The road to Cisnădioara is well-paved, but village streets are narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof / Zentrum",
+            "hu": "Vasútállomás / Központ",
+            "ro": "Gară / Centru",
+            "en": "Train Station / Center"
+          },
+          "coords": [
+            24.161,
+            45.799
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Busse ins Zentrum fahren alle 10-15 Minuten.",
+            "hu": "A központba tartó buszok 10-15 percenként járnak.",
+            "ro": "Autobuzele spre centru circulă la fiecare 10-15 minute.",
+            "en": "Buses to the center run every 10-15 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt District",
+            "hu": "Óvárosi negyed",
+            "ro": "Zona Centrală",
+            "en": "Old Town District"
+          },
+          "coords": [
+            24.151,
+            45.797
+          ],
+          "category": "square",
+          "arrive_at": "09:35",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Ghibu-Platz ist alles zu Fuss erreichbar.",
+            "hu": "A Ghibu térről minden fontos látnivaló elérhető gyalog.",
+            "ro": "Din Piața Ghibu, totul este accesibil la pas.",
+            "en": "From Ghibu Square, everything is reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus Linie 13 (Astra)",
+            "hu": "13-as busz (Astra)",
+            "ro": "Autobuzul 13 (ASTRA)",
+            "en": "Bus Line 13 (Astra)"
+          },
+          "coords": [
+            24.12,
+            45.753
+          ],
+          "category": "museum",
+          "arrive_at": "12:30",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Die Haltestelle ist direkt am Museumseingang.",
+            "hu": "A megálló közvetlenül a múzeum bejáratánál található.",
+            "ro": "Stația este chiar lângă intrarea în muzeu.",
+            "en": "The bus stop is located right at the museum entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Sibiu (Tursib). Wir starten am Bahnhof und fahren ins Herz der Altstadt. Nach einem ausgiebigen Rundgang bringt uns die Linie 13 direkt zum Astra Museum im Dumbrava-Wald. Dies ist eine kostengünstige und bequeme Art, die Stadt wie ein Einheimischer zu erleben.",
+        "hu": "Használd ki Szeben hatékony buszhálózatát (Tursib). A vasútállomástól indulva az óváros szívébe jutunk. A gyalogos városnézés után a 13-as busszal utazunk tovább az Astra skanzenbe. Kényelmes és pénztárcabarát megoldás, ha helyiként szeretnénk felfedezni a várost.",
+        "ro": "Profită de rețeaua eficientă de autobuze Tursib. Pornim de la Gară spre inima centrului istoric. După o plimbare pietonală, linia 13 ne duce direct la Muzeul ASTRA din Pădurea Dumbrava. Este o metodă accesibilă și comodă de a vizita orașul ca un localnic.",
+        "en": "Take advantage of Sibiu's efficient bus network (Tursib). Starting from the train station, head to the heart of the Old Town. After a walking tour, bus line 13 takes you directly to the Astra Museum. It's a convenient and budget-friendly way to explore the city like a local."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kulinarium",
+            "tip": "Modernes Restaurant am Kleinen Ring mit tollen Mittagsmenüs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kulinarium",
+            "tip": "Modern étterem a Kispiacon, kiváló ebédmenüvel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kulinarium",
+            "tip": "Restaurant modern în Piața Mică, cu meniuri de prânz excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kulinarium",
+            "tip": "Modern restaurant in the Little Square with great lunch menus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhof-Park",
+            "tip": "Kleiner Park zum Warten auf den nächsten Bus.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomás park",
+            "tip": "Kis zöldövezet az állomás mellett, ideális várakozáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gării",
+            "tip": "O mică zonă verde lângă gară, potrivită pentru așteptare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Park",
+            "tip": "A small green spot near the station, perfect for waiting.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Promenada Mall",
+            "tip": "Grosses Einkaufszentrum direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenada Mall",
+            "tip": "Hatalmas bevásárlóközpont közvetlenül az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Mall",
+            "tip": "Centru comercial modern situat lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenada Mall",
+            "tip": "Large modern shopping mall located next to the train station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können kontaktlos im Bus bezahlt werden.",
+          "Laden Sie die App 'Sibiu Bus' für Echtzeit-Abfahrten herunter."
+        ],
+        "hu": [
+          "A buszokon érintős bankkártyával is fizethetsz.",
+          "Töltsd le a 'Sibiu Bus' alkalmazást a valós idejű menetrendhez."
+        ],
+        "ro": [
+          "Biletele pot fi plătite contactless direct în autobuz.",
+          "Descărcați aplicația 'Sibiu Bus' pentru orarul în timp real."
+        ],
+        "en": [
+          "Tickets can be paid contactless directly inside the bus.",
+          "Download the 'Sibiu Bus' app for real-time departures."
+        ]
+      }
+    }
+  }
+}

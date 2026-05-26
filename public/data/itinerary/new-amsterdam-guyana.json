@@ -1,0 +1,998 @@
+{
+  "city_id": "new-amsterdam-guyana",
+  "anchor": {
+    "name": "New Amsterdam",
+    "coords": [
+      -57.5167,
+      6.25
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "New Amsterdam Public Buildings",
+            "hu": "Középületek",
+            "ro": "Clădirile publice New Amsterdam",
+            "en": "New Amsterdam Public Buildings"
+          },
+          "coords": [
+            -57.5185,
+            6.2522
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Elegante Holzarchitektur der Kolonialzeit.",
+            "hu": "Elegáns koloniális faépítészet a város szívében.",
+            "ro": "Arhitectură elegantă din lemn din epoca colonială.",
+            "en": "Admire the elegant colonial-style wooden architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mission Chapel",
+            "hu": "Missziós kápolna",
+            "ro": "Capela Misiunii",
+            "en": "Mission Chapel"
+          },
+          "coords": [
+            -57.5175,
+            6.2485
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eines der ältesten Gotteshäuser der Region.",
+            "hu": "A régió egyik legrégebbi temploma.",
+            "ro": "Una dintre cele mai vechi biserici din regiune.",
+            "en": "Visit one of the oldest and most historic churches in Berbice."
+          }
+        },
+        {
+          "name": {
+            "de": "New Amsterdam Market",
+            "hu": "New Amsterdam piac",
+            "ro": "Piața New Amsterdam",
+            "en": "New Amsterdam Market"
+          },
+          "coords": [
+            -57.5212,
+            6.2515
+          ],
+          "category": "market",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Probieren Sie frische lokale Berbice-Früchte.",
+            "hu": "Kóstold meg a friss helyi Berbice-gyümölcsöket.",
+            "ro": "Gustați fructele locale proaspete din Berbice.",
+            "en": "Explore the vibrant stalls of this regional trade center."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Main Street",
+            "hu": "Ebéd a Fő utcán",
+            "ro": "Prânz pe Main Street",
+            "en": "Lunch at Main Street"
+          },
+          "coords": [
+            -57.5192,
+            6.2492
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein typisches Curry.",
+            "hu": "Kóstolj meg egy tipikus helyi currys ételt.",
+            "ro": "Savurați un curry tradițional guyanez.",
+            "en": "Stop for a hearty Guyanese lunch on the main commercial strip."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade Park",
+            "hu": "Eszplanád park",
+            "ro": "Parcul Esplanade",
+            "en": "Esplanade Park"
+          },
+          "coords": [
+            -57.5235,
+            6.2545
+          ],
+          "category": "garden",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannung pur am Rande der Stadt.",
+            "hu": "Pihenj a város szélén található zöldövezetben.",
+            "ro": "Relaxare totală în zona verde de la marginea orașului.",
+            "en": "Relax in this peaceful green space by the river estuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Berbice River View Point",
+            "hu": "Berbice-folyó kilátópont",
+            "ro": "Belvedere la râul Berbice",
+            "en": "Berbice River View Point"
+          },
+          "coords": [
+            -57.5255,
+            6.2512
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Blick auf den mächtigen Berbice-Fluss.",
+            "hu": "Kilátás a hatalmas Berbice-folyóra.",
+            "ro": "O priveliște superbă asupra râului Berbice.",
+            "en": "Enjoy the breezy views of the large Berbice River."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Spazieren Sie durch die ruhigen, geschichtsträchtigen Straßen von New Amsterdam. Bewundern Sie die kolonialen Holzgebäude, besuchen Sie die ehrwürdige Mission Chapel und erleben Sie den lebhaften Markt. Der Tag endet entspannt im Esplanade Park mit Blick auf den Berbice-Fluss.",
+        "hu": "Sétálj végig New Amsterdam nyugodt, történelemmel átitatott utcáin. Csodáld meg a koloniális faépületeket, látogasd meg a nagy múltú Missziós kápolnát, és ismerd meg a helyi piacot. A nap az Eszplanád parkban zárul, kilátással a Berbice-folyóra.",
+        "ro": "Plimbați-vă pe străzile liniștite și pline de istorie din New Amsterdam. Admirați clădirile coloniale din lemn, vizitați vechea Capelă a Misiunii și experimentați piața locală. Ziua se încheie relaxant în Parcul Esplanade, cu vedere la râul Berbice.",
+        "en": "Walk through the quiet, historic streets of New Amsterdam. Admire the colonial wooden architecture, visit the venerable Mission Chapel, and experience the lively local market. The day concludes peacefully in Esplanade Park with views over the mighty Berbice River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Standard Hotel Restaurant",
+            "tip": "Bekannt für traditionelle guyanische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Standard Hotel Étterem",
+            "tip": "Híres a hagyományos guyanai ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Hotel Standard",
+            "tip": "Renumit pentru bucătăria tradițională guyaneză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Standard Hotel Restaurant",
+            "tip": "A local institution for traditional Guyanese meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Esplanade Walk",
+            "tip": "Ruhiger Spaziergang am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eszplanád sétány",
+            "tip": "Csendes séta a folyópart mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Esplanade",
+            "tip": "O plimbare liniștită pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Esplanade Walk",
+            "tip": "A serene walk along the riverside at the edge of town.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Main Street Vendors",
+            "tip": "Lokale Snacks und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fő utcai árusok",
+            "tip": "Helyi snackek és textiláruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzătorii de pe Main Street",
+            "tip": "Gustări locale și articole textile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Street Vendors",
+            "tip": "The best place for street snacks and local textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Hut gegen die Sonne.",
+          "Besuchen Sie den Markt am frühen Vormittag.",
+          "Nutzen Sie die Brise am Flussufer."
+        ],
+        "hu": [
+          "Viselj kalapot a nap ellen.",
+          "A piacot kora délelőtt érdemes felkeresni.",
+          "Élvezd a hűsítő szellőt a folyóparton."
+        ],
+        "ro": [
+          "Purtați o pălărie pentru protecție solară.",
+          "Vizitați piața la prima oră a dimineții.",
+          "Bucurați-vă de briza răcoroasă de pe malul râului."
+        ],
+        "en": [
+          "Wear a hat as the sun can be quite intense.",
+          "Visit the market in the early morning for the best experience.",
+          "Take advantage of the cooling river breeze by the Esplanade."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 14.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Berbice Bridge View Point",
+            "hu": "Berbice-híd kilátópont",
+            "ro": "Belvedere la podul Berbice",
+            "en": "Berbice Bridge View Point"
+          },
+          "coords": [
+            -57.5385,
+            6.2322
+          ],
+          "category": "landmark",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Blick auf die moderne Schwimmbrücke.",
+            "hu": "Kilátás a modern úszó hídra.",
+            "ro": "O priveliște spre podul plutitor modern.",
+            "en": "Great views of the floating bridge across the Berbice River."
+          }
+        },
+        {
+          "name": {
+            "de": "Canje Bridge",
+            "hu": "Canje-híd",
+            "ro": "Podul Canje",
+            "en": "Canje Bridge"
+          },
+          "coords": [
+            -57.5112,
+            6.2555
+          ],
+          "category": "landmark",
+          "arrive_at": "10:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Canje-Fluss.",
+            "hu": "Kelj át a Canje-folyó feletti hídon.",
+            "ro": "Traversați podul peste râul Canje.",
+            "en": "Cycle across this key bridge leading out of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Rose Hall (nearby)",
+            "hu": "Ebéd Rose Hallban (közelben)",
+            "ro": "Prânz în Rose Hall (apropiere)",
+            "en": "Lunch at Rose Hall (nearby)"
+          },
+          "coords": [
+            -57.4585,
+            6.2522
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Bekannt für gute Zuckerrohr-Region Küche.",
+            "hu": "Kiváló ételek a cukornád-vidék szívében.",
+            "ro": "Mâncăruri bune în inima regiunii zahărului.",
+            "en": "Enjoy a local meal in the nearby sugar-producing hub."
+          }
+        },
+        {
+          "name": {
+            "de": "St. John's Anglican Church",
+            "hu": "Szent János anglikán templom",
+            "ro": "Biserica Anglicană Sf. Ioan",
+            "en": "St. John's Anglican Church"
+          },
+          "coords": [
+            -57.5188,
+            6.2495
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Schöne Holzkirche im Stadtzentrum.",
+            "hu": "Szép fatemplom a városközpontban.",
+            "ro": "O frumoasă biserică de lemn în centru.",
+            "en": "A beautiful historic wooden church in the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "New Amsterdam Stelling",
+            "hu": "New Amsterdam kikötő",
+            "ro": "Debarcaderul New Amsterdam",
+            "en": "New Amsterdam Stelling"
+          },
+          "coords": [
+            -57.5242,
+            6.2525
+          ],
+          "category": "port",
+          "arrive_at": "15:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Alter Fähranleger mit Geschichte.",
+            "hu": "Régi kompátkelőhely, nagy múltú kikötő.",
+            "ro": "Vechiul debarcader de feribot, plin de istorie.",
+            "en": "The old ferry stelling, a quiet spot with maritime history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie New Amsterdam und seine Umgebung mit dem Fahrrad. Radeln Sie zur Berbice-Brücke für eine tolle Aussicht, überqueren Sie die Canje-Brücke und erkunden Sie das nahegelegene Rose Hall. Eine Tour durch das Herz der guyanischen Zuckerregion.",
+        "hu": "Fedezd fel New Amsterdamot és környékét kerékpárral. Tekerj el a Berbice-hídhoz a kilátásért, kelj át a Canje-hídon, és látogass el a közeli Rose Hallba. Túra a guyanai cukortermelő vidék szívében.",
+        "ro": "Explorați New Amsterdam și împrejurimile pe bicicletă. Pedalați spre podul Berbice pentru o priveliște frumoasă, traversați râul Canje și vizitați Rose Hall din apropiere. Un tur prin inima regiunii zahărului din Guyana.",
+        "en": "Explore New Amsterdam and its surroundings by bike. Cycle out to the Berbice Bridge for great views, cross the Canje River, and visit the nearby hub of Rose Hall. A refreshing ride through the heart of Guyana's sugar-producing region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Check-in Restaurant",
+            "tip": "Gutes lokales Essen in Rose Hall."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Check-in Étterem",
+            "tip": "Finom helyi ételek Rose Hallban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Check-in",
+            "tip": "Mâncare locală bună în Rose Hall."
+          }
+        ],
+        "en": [
+          {
+            "name": "Check-in Restaurant",
+            "tip": "A reliable spot for local dishes in the Rose Hall area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canje Riverside",
+            "tip": "Blick auf den kleineren Canje-Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canje folyópart",
+            "tip": "Kilátás a kisebb Canje-folyóra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Canje",
+            "tip": "Vedere liniștită spre râul Canje.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canje Riverside",
+            "tip": "Quiet views of the smaller Canje River branch.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rose Hall Market",
+            "tip": "Sehr authentischer Markt der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rose Hall-i piac",
+            "tip": "Nagyon autentikus regionális piac."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Rose Hall",
+            "tip": "O piață regională foarte autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Hall Market",
+            "tip": "A very authentic market experience in Berbice."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den Verkehr auf der Canje-Brücke.",
+          "Vermeiden Sie das Radeln in der Mittagshitze.",
+          "Tragen Sie helle Kleidung."
+        ],
+        "hu": [
+          "Vigyázz a forgalomra a Canje-hídon.",
+          "Kerüld a biciklizést a déli hőségben.",
+          "Viselj világos, szellős ruhát."
+        ],
+        "ro": [
+          "Fiți atenți la trafic pe podul Canje.",
+          "Evitați efortul fizic în orele amiezii.",
+          "Purtați haine de culori deschise."
+        ],
+        "en": [
+          "Be cautious of traffic while crossing the Canje Bridge.",
+          "Avoid cycling during the peak midday heat.",
+          "Wear high-visibility or bright clothing for safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 65.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Berbice River Bridge Crossing",
+            "hu": "Átkelés a Berbice-hídon",
+            "ro": "Traversarea podului Berbice",
+            "en": "Berbice River Bridge Crossing"
+          },
+          "coords": [
+            -57.5455,
+            6.2285
+          ],
+          "category": "landmark",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein modernes Wahrzeichen der Infrastruktur.",
+            "hu": "A modern infrastruktúra fontos jelképe.",
+            "ro": "Un simbol al infrastructurii moderne.",
+            "en": "Experience the long crossing of this vital floating bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Nassau Ruins (Kirschauffahrt)",
+            "hu": "Fort Nassau romjai",
+            "ro": "Ruinele Fort Nassau",
+            "en": "Fort Nassau Ruins"
+          },
+          "coords": [
+            -57.5555,
+            6.0555
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 35.0,
+          "tip_5lang": {
+            "de": "Die alte holländische Hauptstadt von Berbice.",
+            "hu": "Berbice egykori holland fővárosa.",
+            "ro": "Vechea capitală olandeză a coloniei Berbice.",
+            "en": "Visit the site of the former Dutch capital of Berbice."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at New Amsterdam",
+            "hu": "Ebéd New Amsterdamban",
+            "ro": "Prânz în New Amsterdam",
+            "en": "Lunch at New Amsterdam"
+          },
+          "coords": [
+            -57.5185,
+            6.2505
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 32.0,
+          "tip_5lang": {
+            "de": "Lokale kreolische Spezialitäten.",
+            "hu": "Helyi kreol specialitások.",
+            "ro": "Specialități creole locale.",
+            "en": "Stop for some flavorful local Creole cuisine in town."
+          }
+        },
+        {
+          "name": {
+            "de": "All Saints Anglican Church",
+            "hu": "Mindenszentek anglikán templom",
+            "ro": "Biserica Anglicană All Saints",
+            "en": "All Saints Anglican Church"
+          },
+          "coords": [
+            -57.5195,
+            6.2488
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine elegante historische Kirche.",
+            "hu": "Egy elegáns történelmi templom.",
+            "ro": "O biserică istorică elegantă.",
+            "en": "Admire the colonial architecture of this central church."
+          }
+        },
+        {
+          "name": {
+            "de": "Pitt Street Shopping",
+            "hu": "Vásárlás a Pitt utcában",
+            "ro": "Cumpărături pe strada Pitt",
+            "en": "Pitt Street Shopping"
+          },
+          "coords": [
+            -57.5215,
+            6.2512
+          ],
+          "category": "shopping",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Buntes Treiben in der Einkaufsstraße.",
+            "hu": "Nyüzsgő bevásárlóutca a városban.",
+            "ro": "O stradă comercială animată în oraș.",
+            "en": "Explore the main commercial street for local goods."
+          }
+        },
+        {
+          "name": {
+            "de": "New Amsterdam Seawall",
+            "hu": "New Amsterdam-i gát",
+            "ro": "Digul din New Amsterdam",
+            "en": "New Amsterdam Seawall"
+          },
+          "coords": [
+            -57.5285,
+            6.2585
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ruhiger Platz zum Ausklang.",
+            "hu": "Békés hely a nap végére.",
+            "ro": "Un loc liniștit pentru finalul zilei.",
+            "en": "A quiet spot to enjoy the breeze before evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Geschichte von Berbice mit dem Auto. Von der modernen Berbice-Brücke bis zu den historischen Ruinen von Fort Nassau, der alten holländischen Hauptstadt. Genießen Sie kreolische Küche in New Amsterdam und beenden Sie den Tag an der ruhigen Sea Wall.",
+        "hu": "Fedezd fel Berbice történelmét autóval. A modern Berbice-hídtól Fort Nassau történelmi romjaiig, az egykori holland fővárosig. Élvezd a kreol konyhát New Amsterdamban, és zárd a napot a békés gátnál.",
+        "ro": "Explorați istoria regiunii Berbice cu mașina. De la modernul pod peste râul Berbice până la ruinele istorice ale Fortului Nassau, vechea capitală olandeză. Savurați bucătăria creolă în New Amsterdam și încheiați ziua pe digul liniștit.",
+        "en": "Explore the deep history of Berbice by car. From the modern Berbice Bridge to the historic ruins of Fort Nassau, the former Dutch capital. Enjoy authentic Creole cuisine in New Amsterdam and finish your tour at the quiet sea wall area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "New Amsterdam Grill",
+            "tip": "Gutes Hähnchen und Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "New Amsterdam Grill",
+            "tip": "Finom sült csirke és halételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "New Amsterdam Grill",
+            "tip": "Preparate bune din pui și pește local."
+          }
+        ],
+        "en": [
+          {
+            "name": "New Amsterdam Grill",
+            "tip": "A great spot for grilled chicken and local fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fort Nassau Site",
+            "tip": "Sehr friedlich und geschichtsträchtig.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fort Nassau emlékhely",
+            "tip": "Nagyon békés és történelemmel teli hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Situl Fort Nassau",
+            "tip": "Un loc foarte liniștit și plin de istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort Nassau Site",
+            "tip": "A very peaceful location steeped in colonial history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Berbice Craft Shop",
+            "tip": "Lokale Handwerkskunst der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berbice kézműves bolt",
+            "tip": "Helyi kézműves termékek a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de artizanat Berbice",
+            "tip": "Obiecte de artizanat local specifice regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berbice Craft Shop",
+            "tip": "Best for regional handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie genug Zeit für Fort Nassau ein.",
+          "Die Straße nach Fort Nassau kann holprig sein.",
+          "Tanken Sie in New Amsterdam."
+        ],
+        "hu": [
+          "Szánj elég időt Fort Nassau megtekintésére.",
+          "A Fort Nassau felé vezető út zötyögős lehet.",
+          "Tankolj New Amsterdamban."
+        ],
+        "ro": [
+          "Alocați timp suficient pentru vizitarea Fortului Nassau.",
+          "Drumul spre Fort Nassau poate fi accidentat.",
+          "Alimentați cu combustibil în New Amsterdam."
+        ],
+        "en": [
+          "Allow plenty of time for the drive to Fort Nassau.",
+          "The road to the ruins can be rough in sections.",
+          "Ensure you have a full tank before heading out of town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "New Amsterdam Bus Terminal",
+            "hu": "Buszállomás",
+            "ro": "Terminalul de autobuze",
+            "en": "New Amsterdam Bus Terminal"
+          },
+          "coords": [
+            -57.5195,
+            6.2522
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Berbice.",
+            "hu": "Berbice központi közlekedési csomópontja.",
+            "ro": "Principalul nod de transport din Berbice.",
+            "en": "The central hub for all minibus routes in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Cinema Area",
+            "hu": "Strand mozi környéke",
+            "ro": "Zona cinematografului Strand",
+            "en": "Strand Cinema Area"
+          },
+          "coords": [
+            -57.5218,
+            6.2532
+          ],
+          "category": "landmark",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein altes Wahrzeichen der Stadt.",
+            "hu": "A város egyik régi, ikonikus épülete.",
+            "ro": "Un vechi simbol al orașului New Amsterdam.",
+            "en": "A historic cinema building and social landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Main Street Walk",
+            "hu": "Séta a Fő utcán",
+            "ro": "Plimbare pe Main Street",
+            "en": "Main Street Walk"
+          },
+          "coords": [
+            -57.5188,
+            6.2482
+          ],
+          "category": "shopping",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das kommerzielle Leben beobachten.",
+            "hu": "Figyeld meg a város kereskedelmi életét.",
+            "ro": "Observați viața comercială a orașului.",
+            "en": "Stroll along the town's main commercial artery."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Stanleytown",
+            "hu": "Ebéd Stanleytown negyedben",
+            "ro": "Prânz în Stanleytown",
+            "en": "Lunch at Stanleytown"
+          },
+          "coords": [
+            -57.5152,
+            6.2385
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Cook-up Rice.",
+            "hu": "Kóstold meg a helyi Cook-up Rice-t.",
+            "ro": "Încercați orezul Cook-up tradițional.",
+            "en": "A great residential spot to find local home-style cooking."
+          }
+        },
+        {
+          "name": {
+            "de": "Overwinning Area",
+            "hu": "Overwinning negyed",
+            "ro": "Zona Overwinning",
+            "en": "Overwinning Area"
+          },
+          "coords": [
+            -57.5122,
+            6.2285
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Vorort mit viel Grün.",
+            "hu": "Csendes, zöldellő kertvárosi rész.",
+            "ro": "O zonă suburbană liniștită și verde.",
+            "en": "A lush residential area perfect for seeing local life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie New Amsterdam mit dem lokalen Minibus. Starten Sie am geschäftigen Terminal, spazieren Sie entlang der Main Street und entdecken Sie die Wohngebiete Stanleytown und Overwinning. Ein entspannter Weg, um die Atmosphäre der 'Stadt der Kirchen' aufzusaugen.",
+        "hu": "Fedezd fel New Amsterdamot helyi minibuszokkal. Indulj a forgalmas buszállomásról, sétálj végig a Fő utcán, és fedezd fel Stanleytown és Overwinning lakónegyedeit. Remek módja a 'templomok városa' hangulatának megismerésére.",
+        "ro": "Explorați New Amsterdam folosind microbuzele locale. Plecați din autogara aglomerată, plimbați-vă pe Main Street și descoperiți cartierele Stanleytown și Overwinning. O metodă relaxată de a simți atmosfera 'orașului bisericilor'.",
+        "en": "Explore New Amsterdam using the local minibus network. Start at the busy terminal, stroll along the central Main Street, and discover the residential areas of Stanleytown and Overwinning. A great way to soak up the atmosphere of the 'Town of Churches'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Main Street Cafe",
+            "tip": "Schnelle Snacks und Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Main Street Cafe",
+            "tip": "Gyors snackek és kávé a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Main Street Cafe",
+            "tip": "Gustări rapide și cafea în zona centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Street Cafe",
+            "tip": "A convenient spot for snacks and coffee on Main Street."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Congregational Church Grounds",
+            "tip": "Friedlicher Platz zum Ausruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyülekezeti templom kertje",
+            "tip": "Békés hely a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Congregaționale",
+            "tip": "Un loc liniștit pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Congregational Church Grounds",
+            "tip": "Peaceful church grounds offering a quiet respite.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "New Amsterdam Market stalls",
+            "tip": "Frische Produkte und Gewürze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac bódék",
+            "tip": "Friss termékek és helyi fűszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabele din Piața New Amsterdam",
+            "tip": "Produse proaspete și condimente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "New Amsterdam Market stalls",
+            "tip": "Ideal for fresh produce and local Berbice spices."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Minibusse der Zone 56 bedienen die Stadt.",
+          "Bezahlen Sie beim Aussteigen.",
+          "Fragen Sie nach dem Weg zur Main Street."
+        ],
+        "hu": [
+          "Az 56-os zóna minibuszai közlekednek a városban.",
+          "Kiszálláskor fizess a sofőrnek.",
+          "Kérj útbaigazítást a Fő utca felé."
+        ],
+        "ro": [
+          "Microbuzele din Zona 56 deservesc orașul.",
+          "Plătiți tariful la coborâre.",
+          "Cereți indicații pentru strada principală."
+        ],
+        "en": [
+          "Zone 56 minibuses serve the New Amsterdam area.",
+          "Pay the driver as you exit the vehicle.",
+          "Ask locals for the best spots on Main Street."
+        ]
+      }
+    }
+  }
+}

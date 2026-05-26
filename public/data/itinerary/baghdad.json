@@ -1,0 +1,921 @@
+{
+  "city_id": "baghdad",
+  "anchor": {
+    "name": "Baghdad Tower",
+    "coords": [
+      44.3615,
+      33.3128
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Al-Mustansiriya-Schule",
+            "hu": "Al-Mustanszirija Medresze",
+            "ro": "Școala Al-Mustansiriya",
+            "en": "Al-Mustansiriya School"
+          },
+          "coords": [
+            44.3892,
+            33.3386
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ziegelornamente einer der ältesten Universitäten der Welt.",
+            "hu": "Csodálja meg a világ egyik legrégebbi egyetemének téglaépítészetét.",
+            "ro": "Admirați arhitectura din cărămidă a uneia dintre cele mai vechi universități.",
+            "en": "Admire the brickwork of one of the world's oldest universities."
+          }
+        },
+        {
+          "name": {
+            "de": "Mutanabbi-Straße",
+            "hu": "Mutanabbi utca",
+            "ro": "Strada Mutanabbi",
+            "en": "Mutanabbi Street"
+          },
+          "coords": [
+            44.3881,
+            33.3395
+          ],
+          "category": "market",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Café Shabandar für einen Tee zwischen Büchern.",
+            "hu": "Térjen be a történelmi Shabandar kávézóba egy teára a könyvek között.",
+            "ro": "Vizitați cafeneaua istorică Shabandar pentru un ceai printre cărți.",
+            "en": "Visit the historic Shabandar Café for tea surrounded by books."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Qushla-Uhrturm",
+            "hu": "Al-Qushla óratorony",
+            "ro": "Turnul cu ceas Al-Qushla",
+            "en": "Al-Qushla Clock Tower"
+          },
+          "coords": [
+            44.3875,
+            33.3402
+          ],
+          "category": "monument",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Ort im Garten des alten osmanischen Verwaltungszentrums.",
+            "hu": "Szép pihenőhely az egykori oszmán adminisztratív központ kertjében.",
+            "ro": "Un loc liniștit în grădina fostului centru administrativ otoman.",
+            "en": "A peaceful spot in the garden of the former Ottoman administrative center."
+          }
+        },
+        {
+          "name": {
+            "de": "Irakisches Nationalmuseum",
+            "hu": "Iraki Nemzeti Múzeum",
+            "ro": "Muzeul Național al Irakului",
+            "en": "National Museum of Iraq"
+          },
+          "coords": [
+            44.3855,
+            33.3281
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Sehen Sie Schätze aus Mesopotamien, Sumer und Babylon.",
+            "hu": "Tekintse meg Mezopotámia, Sumer és Babilon kincseit.",
+            "ro": "Vedeți comori din Mesopotamia, Sumer și Babilon.",
+            "en": "See treasures from Mesopotamia, Sumer, and Babylon."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Zawra'a Park & Zoo",
+            "hu": "Al-Zawra'a Park és Állatkert",
+            "ro": "Parcul și Grădina Zoologică Al-Zawra'a",
+            "en": "Al-Zawra'a Park & Zoo"
+          },
+          "coords": [
+            44.375,
+            33.325
+          ],
+          "category": "park",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ideal für einen Spaziergang im größten grünen Areal der Stadt.",
+            "hu": "Ideális sétára a város legnagyobb zöld területén.",
+            "ro": "Ideal pentru o plimbare în cea mai mare zonă verde a orașului.",
+            "en": "Ideal for a walk in the city's largest green area."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagdad-Turm",
+            "hu": "Bagdad-torony",
+            "ro": "Turnul Bagdad",
+            "en": "Baghdad Tower"
+          },
+          "coords": [
+            44.36,
+            33.31
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die gesamte Metropole.",
+            "hu": "Élvezze a teljes metropoliszra nyíló panorámát.",
+            "ro": "Bucurați-vă de panorama spectaculoasă asupra metropolei.",
+            "en": "Enjoy the spectacular panorama over the entire metropolis."
+          }
+        },
+        {
+          "name": {
+            "de": "Tigris-Promenade",
+            "hu": "Tigris-parti sétány",
+            "ro": "Promenada fluviului Tigru",
+            "en": "Tigris River Promenade"
+          },
+          "coords": [
+            44.37,
+            33.305
+          ],
+          "category": "harbor",
+          "arrive_at": "18:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss am Flussufer zum Sonnenuntergang.",
+            "hu": "Pihentető befejezés a folyóparton a naplementében.",
+            "ro": "Un final relaxant pe malul râului la apus.",
+            "en": "A relaxing end to the day on the riverbank at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum an der Al-Mustansiriya-Schule, einem Juwel islamischer Architektur. Tauchen Sie anschließend in das geschäftige Treiben der Mutanabbi-Straße ein, wo der Duft alter Bücher und frischer Tee in der Luft liegt. Nachmittags erkunden Sie die Jahrtausende alte Geschichte im Nationalmuseum, bevor Sie im weitläufigen Al-Zawra'a-Park neue Energie tanken. Den Abend krönen Sie mit einem Besuch des Bagdad-Turms, der Ihnen einen unvergesslichen Blick auf die Lichter der Stadt und den majestätischen Tigris bietet.",
+        "hu": "Kezdje a napot a történelmi központban, az Al-Mustanszirija Medreszénél, az iszlám építészet gyöngyszeménél. Ezután merüljön el a Mutanabbi utca forgatagában, ahol antik könyvek illata és friss tea gőze tölti be a levegőt. Délután fedezze fel a több ezer éves történelmet a Nemzeti Múzeumban, majd töltődjön fel a tágas Al-Zawra'a parkban. A napot a Bagdad-torony meglátogatásával koronázza meg, ahonnan felejthetetlen kilátás nyílik a város fényeire és a méltóságteljes Tigris-folyóra.",
+        "ro": "Începeți ziua în centrul istoric la Școala Al-Mustansiriya, o bijuterie a arhitecturii islamice. Apoi, cufundați-vă în agitația străzii Mutanabbi, unde mirosul cărților vechi și aburul ceaiului proaspăt umplu aerul. După-amiaza, descoperiți istoria milenară la Muzeul Național, apoi relaxați-vă în vastul parc Al-Zawra'a. Încheiați ziua cu o vizită la Turnul Bagdad, care oferă o vedere de neuitat asupra luminilor orașului și a maiestuosului fluviu Tigru.",
+        "en": "Begin your day in the historic center at the Al-Mustansiriya School, a jewel of Islamic architecture. Then, immerse yourself in the bustle of Mutanabbi Street, where the scent of old books and the steam of fresh tea fill the air. In the afternoon, discover millennia of history at the National Museum, then recharge in the expansive Al-Zawra'a Park. Crown the day with a visit to the Baghdad Tower, offering an unforgettable view of the city lights and the majestic Tigris River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Masgouf im Najaf Restaurant",
+            "tip": "Gegrillter Karpfen, das Nationalgericht des Iraks."
+          },
+          {
+            "name": "Shabandar Café",
+            "tip": "Traditioneller Tee in Bagdads berühmtestem Literatur-Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Masgouf a Najaf étteremben",
+            "tip": "Grillezett ponty, Irak nemzeti étele."
+          },
+          {
+            "name": "Shabandar Kávéház",
+            "tip": "Hagyományos tea Bagdad leghíresebb irodalmi kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Masgouf la Restaurantul Najaf",
+            "tip": "Crap la grătar, mâncarea națională a Irakului."
+          },
+          {
+            "name": "Cafeneaua Shabandar",
+            "tip": "Ceai tradițional în cea mai faimoasă cafenea literară din Bagdad."
+          }
+        ],
+        "en": [
+          {
+            "name": "Masgouf at Najaf Restaurant",
+            "tip": "Grilled carp, the national dish of Iraq."
+          },
+          {
+            "name": "Shabandar Café",
+            "tip": "Traditional tea in Baghdad's most famous literary cafe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Al-Zawra'a Park",
+            "tip": "Eine grüne Oase fernab des Stadtlärms.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tigris-Ufer",
+            "tip": "Ruhiger Sonnenuntergang am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Al-Zawra'a Park",
+            "tip": "Zöld oázis a város zajától távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tigris-part",
+            "tip": "Csendes naplemente a víz mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Al-Zawra'a",
+            "tip": "O oază verde departe de zgomotul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul Tigrului",
+            "tip": "Apus liniștit lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Al-Zawra'a Park",
+            "tip": "A green oasis away from the city noise.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tigris Bank",
+            "tip": "Quiet sunset by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mutanabbi Buchmarkt",
+            "tip": "Antiquitäten, Schreibwaren und seltene Bücher."
+          },
+          {
+            "name": "Shorja Basar",
+            "tip": "Der älteste und größte Markt für Gewürze und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mutanabbi könyvpiac",
+            "tip": "Régiségek, papíráruk és ritka könyvek."
+          },
+          {
+            "name": "Shorja bazár",
+            "tip": "A legrégebbi és legnagyobb piac fűszereknek és textileknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de cărți Mutanabbi",
+            "tip": "Antichități, papetărie și cărți rare."
+          },
+          {
+            "name": "Bazarul Shorja",
+            "tip": "Cea mai veche și mare piață pentru condimente și textile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mutanabbi Book Market",
+            "tip": "Antiques, stationery, and rare books."
+          },
+          {
+            "name": "Shorja Bazaar",
+            "tip": "The oldest and largest market for spices and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum am besten zu Fuß erkundet wird.",
+          "Freitags ist die Mutanabbi-Straße besonders lebendig.",
+          "Nehmen Sie ausreichend Wasser mit, die Hitze kann intensiv sein.",
+          "Planen Sie für das Nationalmuseum genügend Zeit ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a központot a legjobb gyalog felfedezni.",
+          "Péntekenként a Mutanabbi utca különösen életteli.",
+          "Vigyen magával elég vizet, a hőség intenzív lehet.",
+          "Szánjon elég időt a Nemzeti Múzeumra."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, centrul se explorează cel mai bine la pas.",
+          "Vinerea, strada Mutanabbi este deosebit de plină de viață.",
+          "Luați suficientă apă, căldura poate fi intensă.",
+          "Alocați timp suficient pentru Muzeul Național."
+        ],
+        "en": [
+          "Wear comfortable shoes, the center is best explored on foot.",
+          "On Fridays, Mutanabbi Street is particularly lively.",
+          "Take enough water, the heat can be intense.",
+          "Allow enough time for the National Museum."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Al-Mustansiriya",
+            "hu": "Al-Mustanszirija",
+            "ro": "Al-Mustansiriya",
+            "en": "Al-Mustansiriya"
+          },
+          "coords": [
+            44.3892,
+            33.3386
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour.",
+            "hu": "A túra kezdőpontja.",
+            "ro": "Punctul de plecare al turului.",
+            "en": "Starting point of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Abuzinad-Brücke",
+            "hu": "Abuzinad-híd",
+            "ro": "Podul Abuzinad",
+            "en": "Abuzinad Bridge"
+          },
+          "coords": [
+            44.38,
+            33.345
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radfahren über den Tigris bietet tolle Ausblicke.",
+            "hu": "A Tigrisen való átkelés kerékpárral nagyszerű kilátást nyújt.",
+            "ro": "Traversarea Tigrului cu bicicleta oferă vederi minunate.",
+            "en": "Cycling across the Tigris offers great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum",
+            "hu": "Nemzeti Múzeum",
+            "ro": "Muzeul Național",
+            "en": "National Museum"
+          },
+          "coords": [
+            44.3855,
+            33.3281
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Sicherer Abstellplatz vorhanden.",
+            "hu": "Biztonságos tárolóhely elérhető.",
+            "ro": "Loc de parcare sigur disponibil.",
+            "en": "Safe parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Zawra'a Park",
+            "hu": "Al-Zawra'a Park",
+            "ro": "Parcul Al-Zawra'a",
+            "en": "Al-Zawra'a Park"
+          },
+          "coords": [
+            44.375,
+            33.325
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekt für Radwege im Park.",
+            "hu": "Tökéletes kerékpárutak a parkban.",
+            "ro": "Perfect pentru pistele de biciclete din parc.",
+            "en": "Perfect for bike paths in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiheitsdenkmal",
+            "hu": "Szabadság-emlékmű",
+            "ro": "Monumentul Libertății",
+            "en": "Freedom Monument"
+          },
+          "coords": [
+            44.405,
+            33.328
+          ],
+          "category": "monument",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ikone der modernen irakischen Kunst.",
+            "hu": "A modern iraki művészet ikonja.",
+            "ro": "Simbol al artei moderne irakiene.",
+            "en": "Icon of modern Iraqi art."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagdad Tower",
+            "hu": "Bagdad-torony",
+            "ro": "Turnul Bagdad",
+            "en": "Baghdad Tower"
+          },
+          "coords": [
+            44.36,
+            33.31
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Finale Ankunft am Turm.",
+            "hu": "Végső állomás a toronynál.",
+            "ro": "Sosirea finală la turn.",
+            "en": "Final arrival at the tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Bagdad auf zwei Rädern. Beginnen Sie in der Altstadt und radeln Sie über die Brücken des Tigris zum Nationalmuseum. Genießen Sie die weiten Alleen des Al-Zawra'a Parks, bevor Sie zum monumentalen Freiheitsdenkmal am Tahrir-Platz fahren. Den Abschluss bildet der Bagdad-Turm.",
+        "hu": "Fedezze fel Bagdadot két keréken. Kezdje az óvárosban, és tekerjen át a Tigris hídjain a Nemzeti Múzeumhoz. Élvezze az Al-Zawra'a park széles sugárútjait, mielőtt a Tahrir téri monumentális Szabadság-emlékműhöz hajtana. A túrát a Bagdad-toronynál zárja.",
+        "ro": "Explorați Bagdadul pe două roți. Începeți în orașul vechi și pedalați peste podurile Tigrului către Muzeul Național. Bucurați-vă de bulevardele largi ale parcului Al-Zawra'a înainte de a merge la monumentalul Monument al Libertății din Piața Tahrir. Încheiați la Turnul Bagdad.",
+        "en": "Explore Baghdad on two wheels. Start in the old city and cycle across the bridges of the Tigris to the National Museum. Enjoy the wide avenues of Al-Zawra'a Park before heading to the monumental Freedom Monument at Tahrir Square. Conclude at the Baghdad Tower."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Vorsicht im dichten Stadtverkehr.",
+          "Genug Sonnenschutz verwenden."
+        ],
+        "hu": [
+          "Vigyázzon a sűrű városi forgalomban.",
+          "Használjon megfelelő napvédőt."
+        ],
+        "ro": [
+          "Atenție în traficul urban dens.",
+          "Folosiți protecție solară adecvată."
+        ],
+        "en": [
+          "Be careful in dense city traffic.",
+          "Use adequate sun protection."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:30",
+      "total_km": 38.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Al-Zawra'a Park",
+            "hu": "Al-Zawra'a Park",
+            "ro": "Parcul Al-Zawra'a",
+            "en": "Al-Zawra'a Park"
+          },
+          "coords": [
+            44.375,
+            33.325
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erster Stopp, ruhiger Morgen.",
+            "hu": "Első állomás, csendes reggel.",
+            "ro": "Prima oprire, dimineață liniștită.",
+            "en": "First stop, quiet morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagdad-Turm",
+            "hu": "Bagdad-torony",
+            "ro": "Turnul Bagdad",
+            "en": "Baghdad Tower"
+          },
+          "coords": [
+            44.36,
+            33.31
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bester Überblick über die City.",
+            "hu": "A legjobb áttekintés a városra.",
+            "ro": "Cea mai bună vedere asupra orașului.",
+            "en": "Best overview of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum (Cluster B)",
+            "hu": "Nemzeti Múzeum",
+            "ro": "Muzeul Național",
+            "en": "National Museum"
+          },
+          "coords": [
+            44.3855,
+            33.3281
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Museum.",
+            "hu": "Parkoló közvetlenül a múzeumnál.",
+            "ro": "Parcare direct la muzeu.",
+            "en": "Parking directly at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Cluster B)",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            44.387,
+            33.33
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mutanabbi-Straße (Cluster C)",
+            "hu": "Mutanabbi utca",
+            "ro": "Strada Mutanabbi",
+            "en": "Mutanabbi Street"
+          },
+          "coords": [
+            44.3881,
+            33.3395
+          ],
+          "category": "market",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Auto am Qushla-Platz parken.",
+            "hu": "Parkoljon a Qushla téren.",
+            "ro": "Parcați în Piața Qushla.",
+            "en": "Park the car at Qushla Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mustansiriya (Cluster C)",
+            "hu": "Al-Mustanszirija",
+            "ro": "Al-Mustansiriya",
+            "en": "Al-Mustansiriya"
+          },
+          "coords": [
+            44.3892,
+            33.3386
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke, zu Fuß.",
+            "hu": "Gyalog a sarkon túl.",
+            "ro": "La colț, pe jos.",
+            "en": "Just around the corner, on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Siegesbögen (Fahrt)",
+            "hu": "Győzelmi ívek",
+            "ro": "Arcurile Victoriei",
+            "en": "Victory Arch"
+          },
+          "coords": [
+            44.36,
+            33.3
+          ],
+          "category": "monument",
+          "arrive_at": "18:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Imposantes Monument aus dem Auto sichtbar.",
+            "hu": "Impozáns emlékmű, az autóból is jól látszik.",
+            "ro": "Monument impunător vizibil din mașină.",
+            "en": "Imposing monument visible from the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Kadhimiya-Moschee (Abend)",
+            "hu": "Kadhimiya-mecset",
+            "ro": "Moscheea Kadhimiya",
+            "en": "Kadhimiya Mosque"
+          },
+          "coords": [
+            44.34,
+            33.38
+          ],
+          "category": "religious",
+          "arrive_at": "19:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Wunderschön beleuchtet am Abend.",
+            "hu": "Gyönyörűen kivilágítva este.",
+            "ro": "Frumos iluminată seara.",
+            "en": "Beautifully illuminated at night."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist schwierig, nutzen Sie bewachte Parkplätze."
+        ],
+        "hu": [
+          "A központban nehéz parkolni, használjon őrzött parkolókat."
+        ],
+        "ro": [
+          "Parcarea în centru este dificilă, folosiți parcări păzite."
+        ],
+        "en": [
+          "Parking in the center is difficult, use guarded parking lots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Mustansiriya School"
+          },
+          "coords": [
+            44.3892,
+            33.3386
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Start at the old educational heart."
+          }
+        },
+        {
+          "name": {
+            "en": "Mutanabbi Street"
+          },
+          "coords": [
+            44.3881,
+            33.3395
+          ],
+          "category": "market",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Walk between the book stalls."
+          }
+        },
+        {
+          "name": {
+            "en": "National Museum (Bus hop)"
+          },
+          "coords": [
+            44.3855,
+            33.3281
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "en": "Take the red bus towards Karkh."
+          }
+        },
+        {
+          "name": {
+            "en": "Al-Zawra'a Park (Walk)"
+          },
+          "coords": [
+            44.375,
+            33.325
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "en": "Short walk from the museum district."
+          }
+        },
+        {
+          "name": {
+            "en": "Baghdad Tower (Taxi/Bus)"
+          },
+          "coords": [
+            44.36,
+            33.31
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "en": "Major landmark accessible by local bus."
+          }
+        },
+        {
+          "name": {
+            "en": "Kadhimiya Shrine (Final hop)"
+          },
+          "coords": [
+            44.34,
+            33.38
+          ],
+          "category": "religious",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "en": "Best reached by share-taxi (Kiya)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die orange-weißen Taxis für schnelle Verbindungen."
+        ],
+        "hu": [
+          "Használja a narancs-fehér taxikat a gyors közlekedéshez."
+        ],
+        "ro": [
+          "Folosiți taxiurile portocaliu-alb pentru conexiuni rapide."
+        ],
+        "en": [
+          "Use the orange-and-white taxis for quick connections."
+        ]
+      }
+    }
+  }
+}

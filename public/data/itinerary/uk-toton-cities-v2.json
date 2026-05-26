@@ -1,0 +1,254 @@
+{
+  "city_id": "uk-toton-cities-v2",
+  "anchor": {
+    "name": "Manor Farm Recreation Ground",
+    "coords": [
+      -1.2585,
+      52.9145
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Toton Sidings Viewpoint",
+          "coords": [
+            -1.265,
+            52.918
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Blick auf einen der größten Rangierbahnhöfe.",
+            "hu": "Kilátás az egyik legnagyobb rendezőpályaudvarra.",
+            "ro": "Vedere spre unul dintre cele mai mari triaje.",
+            "en": "View of one of the largest marshalling yards."
+          }
+        },
+        {
+          "name": "Manor Farm Rec Ground",
+          "coords": [
+            -1.2585,
+            52.9145
+          ],
+          "category": "park",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das grüne Herz von Toton.",
+            "hu": "Toton zöld szíve.",
+            "ro": "Inima verde a Toton.",
+            "en": "The green heart of Toton."
+          }
+        },
+        {
+          "name": "Attenborough Nature Centre",
+          "coords": [
+            -1.235,
+            52.905
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Weltberühmte Vogelbeobachtungsstätte.",
+            "hu": "Világhírű madármegfigyelő hely.",
+            "ro": "Loc de renume mondial pentru observarea păsărilor.",
+            "en": "World-famous birdwatching site."
+          }
+        },
+        {
+          "name": "Kingfisher Lake",
+          "coords": [
+            -1.24,
+            52.902
+          ],
+          "category": "nature",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Eisvogel.",
+            "hu": "Keresse a jégmadarat.",
+            "ro": "Căutați pescărușul albastru.",
+            "en": "Look for the kingfisher."
+          }
+        },
+        {
+          "name": "Chilwell Retail Park",
+          "coords": [
+            -1.248,
+            52.915
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Abschluss mit Essen und Shopping.",
+            "hu": "Befejezés étkezéssel és vásárlással.",
+            "ro": "Finalizați cu masă și cumpărături.",
+            "en": "Finish with dining and shopping."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem Blick auf die industriellen Toton Sidings, bevor Sie im Manor Farm Park entspannen. Der Höhepunkt ist eine Wanderung zum Attenborough Nature Centre, einem Paradies für Vogelbeobachter. Entlang der Seen geht es zurück Richtung Chilwell für eine Stärkung.",
+        "hu": "Kezdje a napot az ipari Toton Sidings látványával, majd lazítson a Manor Farm parkban. A fénypont az Attenborough Természetvédelmi Központ, amely a madármegfigyelők paradicsoma. A tavak mentén sétáljon vissza Chilwell felé egy kiadós ebédre.",
+        "ro": "Începeți cu o vedere asupra triajului industrial Toton Sidings, înainte de a vă relaxa în Parcul Manor Farm. Punctul culminant este o drumeție spre Centrul Natural Attenborough, un paradis pentru observatorii de păsări. Mergeți de-a lungul lacurilor înapoi spre Chilwell pentru o gustare.",
+        "en": "Start with a view of the industrial Toton Sidings before relaxing in Manor Farm Park. The highlight is a walk to Attenborough Nature Centre, a paradise for birdwatchers. Head back towards Chilwell along the lakes for a meal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Attenborough Nature Centre Café",
+            "tip": "Hausgemachter Kuchen mit Seeblick."
+          },
+          {
+            "name": "The Corn Mill",
+            "tip": "Traditionelles Familienrestaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Attenborough Nature Centre Café",
+            "tip": "Házias sütemények tóra néző kilátással."
+          },
+          {
+            "name": "The Corn Mill",
+            "tip": "Tradicionális családi étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Attenborough Nature Centre Café",
+            "tip": "Prăjituri de casă cu vedere la lac."
+          },
+          {
+            "name": "The Corn Mill",
+            "tip": "Restaurant tradițional de familie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Attenborough Nature Centre Café",
+            "tip": "Homemade cakes with lake views."
+          },
+          {
+            "name": "The Corn Mill",
+            "tip": "Traditional family restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Attenborough Nature Reserve",
+            "tip": "Wandern zwischen Seen",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Manor Farm Park",
+            "tip": "Ruhige Vorort-Grünfläche",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Attenborough Nature Reserve",
+            "tip": "Túrázás a tavak között",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Manor Farm Park",
+            "tip": "Csendes külvárosi zöldterület",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Attenborough Nature Reserve",
+            "tip": "Drumeții între lacuri",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Manor Farm Park",
+            "tip": "Spațiu verde liniștit de suburbie",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Attenborough Nature Reserve",
+            "tip": "Hiking between lakes",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Manor Farm Park",
+            "tip": "Quiet suburban green space",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chilwell Retail Park",
+            "tip": "Große Auswahl an Markenläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chilwell Retail Park",
+            "tip": "Márkás boltok széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chilwell Retail Park",
+            "tip": "Gamă largă de magazine de marcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chilwell Retail Park",
+            "tip": "Wide range of brand stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Festes Schuhwerk für Attenborough empfohlen.",
+          "Vogelbestimmungs-App mitnehmen."
+        ],
+        "hu": [
+          "Attenborough-hoz túracipő ajánlott.",
+          "Vigyen magával madárhatározó alkalmazást."
+        ],
+        "ro": [
+          "Se recomandă încălțăminte solidă pentru Attenborough.",
+          "Luați o aplicație de identificare a păsărilor."
+        ],
+        "en": [
+          "Sturdy footwear recommended for Attenborough.",
+          "Take a bird identification app with you."
+        ]
+      }
+    }
+  }
+}

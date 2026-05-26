@@ -1,0 +1,854 @@
+{
+  "city_id": "uk-east-kilbride-cities-v2",
+  "anchor": {
+    "name": "East Kilbride",
+    "coords": [
+      55.7667,
+      -4.1833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "East Kilbride Town Centre",
+          "coords": [
+            55.765,
+            -4.178
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eines der größten Zentren Schottlands.",
+            "hu": "Skócia egyik legnagyobb központja.",
+            "ro": "Unul dintre cele mai mari centre din Scoția.",
+            "en": "One of Scotland's largest centers."
+          }
+        },
+        {
+          "name": "Dollan Aqua Centre",
+          "coords": [
+            55.764,
+            -4.185
+          ],
+          "category": "civic",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie das futuristische Dach.",
+            "hu": "Csodálja meg a futurisztikus tetőt.",
+            "ro": "Admirați acoperișul futurist.",
+            "en": "Admire the futuristic roof."
+          }
+        },
+        {
+          "name": "St Bride's Church",
+          "coords": [
+            55.761,
+            -4.19
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des Brutalismus.",
+            "hu": "A brutalizmus mesterműve.",
+            "ro": "O capodoperă a brutalismului.",
+            "en": "A masterpiece of brutalism."
+          }
+        },
+        {
+          "name": "Hunter House",
+          "coords": [
+            55.768,
+            -4.195
+          ],
+          "category": "museum",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Hunter-Brüder.",
+            "hu": "Tudjon meg többet a Hunter testvérekről.",
+            "ro": "Aflați mai multe despre frații Hunter.",
+            "en": "Learn more about the Hunter brothers."
+          }
+        },
+        {
+          "name": "Lunch at The Village",
+          "coords": [
+            55.767,
+            -4.192
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die gemütliche Atmosphäre.",
+            "hu": "Élvezze a hangulatos légkört.",
+            "ro": "Bucurați-vă de atmosfera primitoare.",
+            "en": "Enjoy the cozy atmosphere."
+          }
+        },
+        {
+          "name": "James Hamilton Heritage Park",
+          "coords": [
+            55.775,
+            -4.185
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spaziergang am See zum Abschluss.",
+            "hu": "Séta a tónál befejezésként.",
+            "ro": "Plimbare pe malul lacului la final.",
+            "en": "Walk by the lake to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das moderne Herz und die historischen Wurzeln von East Kilbride. Vom modernen Zentrum über brutalistische Architektur bis zum ruhigen Heritage Park.",
+        "hu": "Fedezze fel East Kilbride modern szívét és történelmi gyökereit. A modern központtól a brutalista építészeten át a nyugodt Heritage Parkig.",
+        "ro": "Explorați inima modernă și rădăcinile istorice ale orașului East Kilbride. De la centrul modern la arhitectura brutalistă și liniștitul Heritage Park.",
+        "en": "Explore the modern heart and historic roots of East Kilbride. From the modern center to brutalist architecture and the tranquil Heritage Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Loupin Stane",
+            "tip": "Traditionelle schottische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Loupin Stane",
+            "tip": "Hagyományos skót ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Loupin Stane",
+            "tip": "Mâncăruri tradiționale scoțiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Loupin Stane",
+            "tip": "Traditional Scottish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heritage Park Loch",
+            "tip": "Beobachten Sie die Schwäne.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heritage Park tó",
+            "tip": "Figyelje a hattyúkat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din Heritage Park",
+            "tip": "Urmăriți lebădele.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Heritage Park Loch",
+            "tip": "Watch the swans.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "EK Shopping Centre",
+            "tip": "Alles was das Herz begehrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "EK bevásárlóközpont",
+            "tip": "Minden, amit a szív kíván."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial EK",
+            "tip": "Tot ce îți dorește inima."
+          }
+        ],
+        "en": [
+          {
+            "name": "EK Shopping Centre",
+            "tip": "Everything your heart desires."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das 'Village' ist der älteste Teil der Stadt.",
+          "Prüfen Sie die Öffnungszeiten des Dollan Centre."
+        ],
+        "hu": [
+          "A 'Village' a város legrégebbi része.",
+          "Ellenőrizze a Dollan Centre nyitvatartását."
+        ],
+        "ro": [
+          "'Village' este cea mai veche parte a orașului.",
+          "Verificați programul Dollan Centre."
+        ],
+        "en": [
+          "The 'Village' is the oldest part of town.",
+          "Check the opening hours for Dollan Centre."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Calderglen Country Park",
+          "coords": [
+            55.755,
+            -4.155
+          ],
+          "category": "natural",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Schlucht.",
+            "hu": "Túrázzon a szurdokon keresztül.",
+            "ro": "Faceți o drumeție prin defileu.",
+            "en": "Hike through the glen."
+          }
+        },
+        {
+          "name": "Mains Castle",
+          "coords": [
+            55.778,
+            -4.16
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein restauriertes Tower House.",
+            "hu": "Egy restaurált toronyház.",
+            "ro": "O casă turn restaurată.",
+            "en": "A restored tower house."
+          }
+        },
+        {
+          "name": "National Museum of Rural Life",
+          "coords": [
+            55.772,
+            -4.215
+          ],
+          "category": "museum",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den arbeitenden Bauernhof.",
+            "hu": "Látogassa meg a működő gazdaságot.",
+            "ro": "Vizitați ferma funcțională.",
+            "en": "Visit the working farm."
+          }
+        },
+        {
+          "name": "James Hamilton Heritage Park",
+          "coords": [
+            55.775,
+            -4.185
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause am Wasser.",
+            "hu": "Tökéletes egy pihenőhöz a víznél.",
+            "ro": "Perfect pentru o pauză lângă apă.",
+            "en": "Perfect for a break by the water."
+          }
+        },
+        {
+          "name": "Dollan Aqua Centre (Exterior)",
+          "coords": [
+            55.764,
+            -4.185
+          ],
+          "category": "civic",
+          "arrive_at": "15:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Architektur-Foto-Stopp.",
+            "hu": "Építészeti fotómegálló.",
+            "ro": "Oprire pentru fotografii de arhitectură.",
+            "en": "Architectural photo stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die vielen Radwege der New Town. Diese Tour verbindet die Natur von Calderglen mit der Technik des Rural Life Museums.",
+        "hu": "Használja ki az Újváros számos kerékpárútját. Ez a túra összeköti Calderglen természetét a Rural Life Museum technológiájával.",
+        "ro": "Profită de numeroasele piste de biciclete din New Town. Acest tur combină natura din Calderglen cu tehnologia de la Rural Life Museum.",
+        "en": "Take advantage of the New Town's many cycle paths. This tour connects the nature of Calderglen with the technology of the Rural Life Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Calderglen Courtyard Cafe",
+            "tip": "Frischer Kuchen und Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calderglen Courtyard Cafe",
+            "tip": "Friss sütemény és kávé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calderglen Courtyard Cafe",
+            "tip": "Prăjituri proaspete și cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calderglen Courtyard Cafe",
+            "tip": "Fresh cake and coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Calderglen Waterfalls",
+            "tip": "Beruhigendes Wasserrauschen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calderglen vízesések",
+            "tip": "Megnyugtató vízcsobogás.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascadele Calderglen",
+            "tip": "Sunet liniștitor de apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calderglen Waterfalls",
+            "tip": "Soothing sound of water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Regionális különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al muzeului",
+            "tip": "Specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege im Calderglen können nach Regen rutschig sein.",
+          "East Kilbride ist eine der radfreundlichsten Städte Schottlands."
+        ],
+        "hu": [
+          "Az utak Calderglenben eső után csúszósak lehetnek.",
+          "East Kilbride Skócia egyik leginkább kerékpárosbarát városa."
+        ],
+        "ro": [
+          "Potecile din Calderglen pot fi alunecoase după ploaie.",
+          "East Kilbride este unul dintre cele mai prietenoase orașe pentru bicicliști din Scoția."
+        ],
+        "en": [
+          "Paths in Calderglen can be slippery after rain.",
+          "East Kilbride is one of Scotland's most cycle-friendly towns."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 20.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Calderglen Country Park",
+          "coords": [
+            55.755,
+            -4.155
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Viel Platz zum Parken.",
+            "hu": "Sok parkolóhely.",
+            "ro": "Mult spațiu pentru parcare.",
+            "en": "Plenty of parking space."
+          }
+        },
+        {
+          "name": "Mains Castle",
+          "coords": [
+            55.778,
+            -4.16
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp.",
+            "hu": "Egy rövid fotómegálló.",
+            "ro": "O scurtă oprire pentru poze.",
+            "en": "A quick photo stop."
+          }
+        },
+        {
+          "name": "East Kilbride Shopping Centre",
+          "coords": [
+            55.765,
+            -4.178
+          ],
+          "category": "shopping",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus.",
+            "hu": "Használja a parkolóházat.",
+            "ro": "Folosiți parcarea supraetajată.",
+            "en": "Use the multi-story car park."
+          }
+        },
+        {
+          "name": "National Museum of Rural Life",
+          "coords": [
+            55.772,
+            -4.215
+          ],
+          "category": "museum",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Toll für Familien.",
+            "hu": "Nagyszerű családoknak.",
+            "ro": "Excelent pentru familii.",
+            "en": "Great for families."
+          }
+        },
+        {
+          "name": "James Hamilton Heritage Park",
+          "coords": [
+            55.775,
+            -4.185
+          ],
+          "category": "recreational",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Heimfahrt.",
+            "hu": "Utolsó megálló a hazautazás előtt.",
+            "ro": "Ultima oprire înainte de drumul spre casă.",
+            "en": "Last stop before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die über das Stadtgebiet verteilten Parks und Museen. Ein abwechslungsreicher Tag zwischen Natur und Kultur.",
+        "hu": "Autóval kényelmesen elérheti a város területén szétszórt parkokat és múzeumokat. Változatos nap a természet és a kultúra között.",
+        "ro": "Cu mașina puteți ajunge ușor la parcurile și muzeele distribuite în zona orașului. O zi diversificată între natură și cultură.",
+        "en": "By car, you can easily reach the parks and museums scattered across the town area. A varied day between nature and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Torrance Hotel",
+            "tip": "Gehobenes Essen in stilvollem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Torrance Hotel",
+            "tip": "Színvonalas étkezés stílusos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Torrance Hotel",
+            "tip": "Masă rafinată într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Torrance Hotel",
+            "tip": "Upscale dining in a stylish setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Calderglen Woods",
+            "tip": "Tiefe Ruhe fernab der Straßen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calderglen erdők",
+            "tip": "Mély nyugalom távol az utaktól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile Calderglen",
+            "tip": "Liniște profundă departe de drumuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calderglen Woods",
+            "tip": "Deep tranquility away from the roads.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre West",
+            "tip": "Teil des EK Centers mit Modemarken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre West",
+            "tip": "Az EK központ része divatmárkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre West",
+            "tip": "Parte a centrului EK cu mărci de modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centre West",
+            "tip": "Part of the EK center with fashion brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "East Kilbride hat viele Kreisverkehre, achten Sie auf die Schilder.",
+          "Das Rural Life Museum bietet einen Traktor-Shuttle zum Bauernhof."
+        ],
+        "hu": [
+          "East Kilbride-ben sok a körforgalom, figyelje a táblákat.",
+          "A Rural Life Museum traktoros transzfert kínál a gazdasághoz."
+        ],
+        "ro": [
+          "East Kilbride are multe sensuri giratorii, atenție la indicatoare.",
+          "Rural Life Museum oferă un shuttle cu tractorul către fermă."
+        ],
+        "en": [
+          "East Kilbride has many roundabouts, pay attention to signs.",
+          "The Rural Life Museum offers a tractor shuttle to the farm."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "East Kilbride Bus Station",
+          "coords": [
+            55.765,
+            -4.178
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Knotenpunkt für alle Linien.",
+            "hu": "Minden járat csomópontja.",
+            "ro": "Hub pentru toate liniile.",
+            "en": "Hub for all lines."
+          }
+        },
+        {
+          "name": "East Kilbride Town Centre",
+          "coords": [
+            55.766,
+            -4.18
+          ],
+          "category": "shopping",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Busstation.",
+            "hu": "Közvetlenül a buszállomás mellett.",
+            "ro": "Chiar lângă stația de autobuz.",
+            "en": "Right next to the bus station."
+          }
+        },
+        {
+          "name": "Dollan Aqua Centre",
+          "coords": [
+            55.764,
+            -4.185
+          ],
+          "category": "civic",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder Spaziergang.",
+            "hu": "Rövid buszút vagy séta.",
+            "ro": "Scurtă călătorie cu autobuzul sau plimbare.",
+            "en": "Short bus ride or walk."
+          }
+        },
+        {
+          "name": "National Museum of Rural Life (Bus)",
+          "coords": [
+            55.772,
+            -4.215
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Buslinie 31 oder 6 halten in der Nähe.",
+            "hu": "A 31-es vagy 6-os busz megáll a közelben.",
+            "ro": "Linia 31 sau 6 oprește în apropiere.",
+            "en": "Bus route 31 or 6 stops nearby."
+          }
+        },
+        {
+          "name": "James Hamilton Heritage Park",
+          "coords": [
+            55.775,
+            -4.185
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ruhiger Ausklang vor der Rückfahrt.",
+            "hu": "Csendes levezetés a visszautazás előtt.",
+            "ro": "Final liniștit înainte de întoarcere.",
+            "en": "Quiet end before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Busnetz verbindet das Zentrum mit den wichtigsten Sehenswürdigkeiten. Ein praktischer Weg, um die Weitläufigkeit der New Town zu bewältigen.",
+        "hu": "A buszhálózat összeköti a központot a legfontosabb látnivalókkal. Praktikus módja az Újváros tágasságának leküzdésére.",
+        "ro": "Rețeaua de autobuze conectează centrul cu principalele obiective. Un mod practic de a parcurge distanțele din New Town.",
+        "en": "The bus network connects the center with the key sights. A practical way to manage the spaciousness of the New Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buraq",
+            "tip": "Beliebtes indisches Restaurant im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buraq",
+            "tip": "Népszerű indiai étterem a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buraq",
+            "tip": "Restaurant indian popular în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buraq",
+            "tip": "Popular Indian restaurant in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Village Garden",
+            "tip": "Ein kleiner Park im alten Teil.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Village Garden",
+            "tip": "Egy kis park a régi részben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Village",
+            "tip": "Un mic parc în partea veche.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Garden",
+            "tip": "A small park in the old part.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Hub",
+            "tip": "Teil des EK Centers mit Restaurants und Kino."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Hub",
+            "tip": "Az EK központ része éttermekkel és mozival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Hub",
+            "tip": "Parte a centrului EK cu restaurante și cinema."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Hub",
+            "tip": "Part of the EK center with restaurants and cinema."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die First Bus App für Live-Abfahrten.",
+          "Die meisten Busse starten am EK Bus Station."
+        ],
+        "hu": [
+          "Használja a First Bus alkalmazást az élő indulásokhoz.",
+          "A legtöbb busz az EK Bus Station-ről indul."
+        ],
+        "ro": [
+          "Folosiți aplicația First Bus pentru plecări live.",
+          "Majoritatea autobuzelor pleacă de la EK Bus Station."
+        ],
+        "en": [
+          "Use the First Bus app for live departures.",
+          "Most buses start at the EK Bus Station."
+        ]
+      }
+    }
+  }
+}

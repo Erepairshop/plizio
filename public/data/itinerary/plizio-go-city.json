@@ -1,0 +1,1043 @@
+{
+  "city_id": "plizio-go-city",
+  "anchor": {
+    "name": "Piața Unirii",
+    "coords": [
+      23.6,
+      46.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            23.6,
+            46.55
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Früh morgens ist es hier am schönsten, bevor die Menschenmassen kommen.",
+            "hu": "Reggelente a legszebb, mielőtt a tömegek megérkeznek.",
+            "ro": "Dimineața devreme este cel mai frumos, înainte de a veni mulțimile.",
+            "en": "Early morning is the best time here, before the crowds arrive."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            23.59,
+            46.55
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Details am Hauptportal.",
+            "hu": "Figyelje meg a gótikus részleteket a főkapun.",
+            "ro": "Observați detaliile gotice de la portalul principal.",
+            "en": "Notice the Gothic details on the main portal."
+          }
+        },
+        {
+          "name": "Muzeul Național de Istorie a Transilvaniei",
+          "coords": [
+            23.59,
+            46.55
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Dauerausstellung zur römischen Geschichte ist ein Muss.",
+            "hu": "A római történelem állandó kiállítása kötelező.",
+            "ro": "Expoziția permanentă de istorie romană este obligatorie.",
+            "en": "The permanent exhibition on Roman history is a must-see."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            23.58,
+            46.55
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Decke mit und machen Sie ein Picknick auf der Wiese.",
+            "hu": "Hozzon magával egy takarót és piknikezzen a réten.",
+            "ro": "Aduceți o pătură și faceți un picnic pe iarbă.",
+            "en": "Bring a blanket and have a picnic on the grass."
+          }
+        },
+        {
+          "name": "Casa Matei Corvin",
+          "coords": [
+            23.59,
+            46.55
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Geburtshaus von Matthias Corvinus ist voller Geschichte.",
+            "hu": "Mátyás király szülőháza tele van történelemmel.",
+            "ro": "Casa natală a lui Matia Corvin este plină de istorie.",
+            "en": "The birthplace of Matthias Corvinus is steeped in history."
+          }
+        },
+        {
+          "name": "Băile Someșeni",
+          "coords": [
+            23.62,
+            46.56
+          ],
+          "category": "garden",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort zum Entspannen, abseits der Innenstadt.",
+            "hu": "Egy csendes hely a kikapcsolódásra, távol a belvárostól.",
+            "ro": "Un loc liniștit pentru relaxare, departe de centrul orașului.",
+            "en": "A quiet spot to relax, away from the city center."
+          }
+        },
+        {
+          "name": "Restaurantul Samsara Food House",
+          "coords": [
+            23.6,
+            46.55
+          ],
+          "category": "gastro",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die saisonale vegetarische Bowl.",
+            "hu": "Próbálja ki a szezonális vegetáriánus tálat.",
+            "ro": "Încercați bolul vegetarian sezonier.",
+            "en": "Try the seasonal vegetarian bowl."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf der Piața Unirii, dem pulsierenden Herzen der Stadt. Von dort aus schlendern Sie zur gotischen Bischofskirche und tauchen im Museum in die Geschichte Siebenbürgens ein. Der Mittag lockt in den Zentralpark, wo Sie eine Pause im Grünen einlegen. Am Nachmittag besuchen Sie das historische Geburtshaus von Matthias Corvinus und genießen die Ruhe der Gärten von Băile Someșeni. Den Abend lassen Sie bei einem kreativen vegetarischen Abendessen ausklingen.",
+        "hu": "A reggel a Piața Unirii-n, a város lüktető szívében kezdődik. Onnan elsétál a gótikus Szent Mihály-templomhoz, majd a múzeumban elmerül Erdély történelmében. Délben a Központi Parkban pihen meg a zöldben. Délután meglátogatja Mátyás király történelmi szülőházát, és élvezi a Băile Someșeni kertjeinek csendjét. Az estét egy kreatív vegetáriánus vacsorával zárja.",
+        "ro": "Dimineața începe în Piața Unirii, inima vibrantă a orașului. De acolo, vă plimbați până la Biserica Sfântul Mihail în stil gotic și vă cufundați în istoria Transilvaniei la muzeu. Prânzul vă atrage în Parcul Central, unde faceți o pauză în verdeață. După-amiaza, vizitați casa istorică a lui Matia Corvin și vă bucurați de liniștea grădinilor de la Băile Someșeni. Seara se încheie cu o cină vegetariană creativă.",
+        "en": "The morning starts at Piața Unirii, the vibrant heart of the city. From there, you stroll to the Gothic St. Michael's Church and immerse yourself in the history of Transylvania at the museum. Midday calls you to the Central Park for a break in the greenery. In the afternoon, you visit the historic birthplace of Matthias Corvinus and enjoy the tranquility of the Băile Someșeni gardens. The evening ends with a creative vegetarian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Varză à la Cluj",
+            "tip": "Probieren Sie dieses traditionelle Sauerkrautgericht im 'Casa Boema'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolozsvári káposzta",
+            "tip": "Kóstolja meg ezt a hagyományos savanyúkáposzta-ételt a 'Casa Boema'-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Varză à la Cluj",
+            "tip": "Încercați acest fel de mâncare tradițional cu varză murată la 'Casa Boema'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cluj-style Cabbage",
+            "tip": "Try this traditional sauerkraut dish at 'Casa Boema'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Băile Someșeni",
+            "tip": "Ein ruhiger Garten, perfekt für eine Auszeit.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Băile Someșeni",
+            "tip": "Egy csendes kert, tökéletes a kikapcsolódásra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băile Someșeni",
+            "tip": "O grădină liniștită, perfectă pentru o pauză.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Băile Someșeni",
+            "tip": "A quiet garden, perfect for a break.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Kleine Souvenirläden mit lokalen Kunsthandwerken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Kis ajándékboltok helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Magazine mici de suveniruri cu meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Small souvenir shops with local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Planen Sie genügend Zeit für das Museum ein.",
+          "Der Park ist ideal für eine Mittagspause.",
+          "Probieren Sie unbedingt die lokale Küche.",
+          "Genießen Sie die ruhigen Gärten am Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Tervezzen elegendő időt a múzeumra.",
+          "A park ideális egy ebédszünetre.",
+          "Feltétlenül kóstolja meg a helyi konyhát.",
+          "Élvezze a csendes kerteket délután."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult.",
+          "Planificați suficient timp pentru muzeu.",
+          "Parcul este ideal pentru o pauză de prânz.",
+          "Nu ratați să încercați bucătăria locală.",
+          "Bucurați-vă de grădinile liniștite după-amiaza."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Plan enough time for the museum.",
+          "The park is ideal for a lunch break.",
+          "Be sure to try the local cuisine.",
+          "Enjoy the quiet gardens in the afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            23.6,
+            46.55
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Rand des Platzes ab.",
+            "hu": "Hagyja a biciklijét a tér szélén.",
+            "ro": "Lăsați bicicleta la marginea pieței.",
+            "en": "Park your bike at the edge of the square."
+          }
+        },
+        {
+          "name": "Cetățuia",
+          "coords": [
+            23.58,
+            46.56
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Aussicht von hier oben ist atemberaubend.",
+            "hu": "A kilátás innen felülről lélegzetelállító.",
+            "ro": "Vederea de aici de sus este uluitoare.",
+            "en": "The view from up here is breathtaking."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            23.58,
+            46.55
+          ],
+          "category": "park",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch den Park und genießen Sie die Ruhe.",
+            "hu": "Kerekezzen át a parkon és élvezze a csendet.",
+            "ro": "Pedalați prin parc și bucurați-vă de liniște.",
+            "en": "Cycle through the park and enjoy the tranquility."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            23.59,
+            46.55
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die gotische Architektur ist beeindruckend.",
+            "hu": "A gótikus építészet lenyűgöző.",
+            "ro": "Arhitectura gotică este impresionantă.",
+            "en": "The Gothic architecture is impressive."
+          }
+        },
+        {
+          "name": "Muzeul Etnografic al Transilvaniei",
+          "coords": [
+            23.61,
+            46.55
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Freilichtmuseum ist einen Besuch wert.",
+            "hu": "A szabadtéri múzeumot érdemes meglátogatni.",
+            "ro": "Muzeul în aer liber merită vizitat.",
+            "en": "The open-air museum is worth a visit."
+          }
+        },
+        {
+          "name": "Restaurantul Samsara Food House",
+          "coords": [
+            23.6,
+            46.55
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich nach der Radtour ein gutes Essen.",
+            "hu": "Engedje meg magának egy jó étkezést a biciklitúra után.",
+            "ro": "Răsfățați-vă cu o masă bună după turul cu bicicleta.",
+            "en": "Treat yourself to a good meal after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Radtour von der Piața Unirii zur Cetățuia, wo Sie die Aussicht genießen. Dann radeln Sie durch den Zentralpark, bevor Sie die gotische Kirche besichtigen. Nach einem Besuch im Ethnografischen Museum fahren Sie zum Abendessen in ein kreatives Restaurant.",
+        "hu": "A nap egy biciklitúrával kezdődik a Piața Unirii-tól a Cetățuia-ig, ahol élvezi a kilátást. Aztán áthajt a Központi Parkon, mielőtt megnézné a gótikus templomot. Az Etnográfiai Múzeum meglátogatása után egy kreatív étterembe teker vacsorázni.",
+        "ro": "Ziua începe cu un tur cu bicicleta de la Piața Unirii până la Cetățuia, unde vă bucurați de vedere. Apoi pedalați prin Parcul Central înainte de a vizita biserica gotică. După o vizită la Muzeul Etnografic, mergeți cu bicicleta la o cină creativă.",
+        "en": "The day starts with a bike ride from Piața Unirii to Cetățuia, where you enjoy the view. Then you cycle through Central Park before visiting the Gothic church. After a visit to the Ethnographic Museum, you bike to a creative dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Probieren Sie diese gegrillten Hackfleischröllchen an einem Imbissstand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mici",
+            "tip": "Kóstolja meg ezeket a grillezett darált húsos tekercseket egy büfénél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Încercați acești rulouri de carne tocată la grătar la un stand."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici",
+            "tip": "Try these grilled minced meat rolls at a street stand."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cetățuia",
+            "tip": "Ein ruhiger Aussichtspunkt mit Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cetățuia",
+            "tip": "Egy csendes kilátóhely panorámás kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cetățuia",
+            "tip": "Un punct de belvedere liniștit cu vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cetățuia",
+            "tip": "A quiet viewpoint with panoramic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Suchen Sie nach handgemachten Keramiken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Keressen kézzel készített kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Căutați ceramică făcută manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Look for handmade ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Fahrrad ist die beste Art, die Stadt zu erkunden.",
+          "Achten Sie auf den Verkehr.",
+          "Planen Sie Ihre Route im Voraus.",
+          "Nehmen Sie Wasser mit.",
+          "Genießen Sie die Freiheit auf zwei Rädern."
+        ],
+        "hu": [
+          "A bicikli a legjobb módja a város felfedezésének.",
+          "Figyeljen a forgalomra.",
+          "Tervezze meg előre az útvonalát.",
+          "Vigyen magával vizet.",
+          "Élvezze a szabadságot két keréken."
+        ],
+        "ro": [
+          "Bicicleta este cel mai bun mod de a explora orașul.",
+          "Fiți atenți la trafic.",
+          "Planificați-vă traseul în avans.",
+          "Luați apă cu dumneavoastră.",
+          "Bucurați-vă de libertatea pe două roți."
+        ],
+        "en": [
+          "A bike is the best way to explore the city.",
+          "Watch out for traffic.",
+          "Plan your route in advance.",
+          "Bring water with you.",
+          "Enjoy the freedom on two wheels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            23.6,
+            46.55
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Platzes in einer der Garagen.",
+            "hu": "Parkoljon a tér közelében az egyik garázsban.",
+            "ro": "Parcați în apropierea pieței într-unul dintre garaje.",
+            "en": "Park near the square in one of the garages."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            23.59,
+            46.55
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Platz entfernt.",
+            "hu": "Egy rövid sétára a tértől.",
+            "ro": "La o scurtă plimbare de piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": "Muzeul Național de Istorie a Transilvaniei",
+          "coords": [
+            23.59,
+            46.55
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist nur einen Block entfernt.",
+            "hu": "A múzeum csak egy háztömbnyire van.",
+            "ro": "Muzeul este la doar un bloc distanță.",
+            "en": "The museum is just a block away."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            23.58,
+            46.55
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Park für eine Pause.",
+            "hu": "Egy szép park a pihenésre.",
+            "ro": "Un parc frumos pentru o pauză.",
+            "en": "A nice park for a break."
+          }
+        },
+        {
+          "name": "Grădina Botanică",
+          "coords": [
+            23.57,
+            46.54
+          ],
+          "category": "garden",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum botanischen Garten, ein ruhiger Ort.",
+            "hu": "Hajtson a botanikus kertbe, egy csendes helyre.",
+            "ro": "Conduceți la grădina botanică, un loc liniștit.",
+            "en": "Drive to the botanical garden, a quiet place."
+          }
+        },
+        {
+          "name": "Cetățuia",
+          "coords": [
+            23.58,
+            46.56
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie unten und gehen Sie den Hügel hinauf.",
+            "hu": "Parkoljon lent és sétáljon fel a dombra.",
+            "ro": "Parcați jos și urcați dealul.",
+            "en": "Park at the bottom and walk up the hill."
+          }
+        },
+        {
+          "name": "Casa Matei Corvin",
+          "coords": [
+            23.59,
+            46.55
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein wichtiges historisches Gebäude in der Innenstadt.",
+            "hu": "Egy fontos történelmi épület a belvárosban.",
+            "ro": "O clădire istorică importantă în centrul orașului.",
+            "en": "An important historical building in the city center."
+          }
+        },
+        {
+          "name": "Restaurantul Samsara Food House",
+          "coords": [
+            23.6,
+            46.55
+          ],
+          "category": "gastro",
+          "arrive_at": "17:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ausgezeichnetes Restaurant für den Abschluss des Tages.",
+            "hu": "Egy kiváló étterem a nap zárásaként.",
+            "ro": "Un restaurant excelent pentru încheierea zilei.",
+            "en": "An excellent restaurant to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf der Piața Unirii, gefolgt von einem Besuch der gotischen Kirche und des Museums, alles zu Fuß erreichbar. Nach einer Pause im Zentralpark fahren Sie zum botanischen Garten. Der Nachmittag führt Sie zur Cetățuia für die Aussicht und zum historischen Haus von Matthias Corvinus. Den Abend lassen Sie in einem kreativen Restaurant ausklingen.",
+        "hu": "A reggel a Piața Unirii-n kezdődik, majd a gótikus templom és a múzeum meglátogatása következik, mind gyalogosan elérhető. A Központi Parkban tett szünet után a botanikus kertbe hajt. A délután a Cetățuia-ra vezet a kilátásért és Mátyás király történelmi házához. Az estét egy kreatív étteremben zárja.",
+        "ro": "Dimineața începe în Piața Unirii, urmată de o vizită la biserica gotică și la muzeu, toate accesibile pe jos. După o pauză în Parcul Central, conduceți la grădina botanică. După-amiaza vă duce la Cetățuia pentru vedere și la casa istorică a lui Matia Corvin. Seara se încheie la un restaurant creativ.",
+        "en": "The morning starts at Piața Unirii, followed by a visit to the Gothic church and the museum, all within walking distance. After a break in Central Park, you drive to the botanical garden. The afternoon takes you to Cetățuia for the view and to the historic house of Matthias Corvinus. The evening ends at a creative restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paprika Hendl",
+            "tip": "Probieren Sie dieses ungarische Gericht im 'Casa Boema'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paprikás csirke",
+            "tip": "Kóstolja meg ezt a magyar ételt a 'Casa Boema'-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paprika Hendl",
+            "tip": "Încercați acest fel de mâncare maghiar la 'Casa Boema'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chicken Paprikash",
+            "tip": "Try this Hungarian dish at 'Casa Boema'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Ein ruhiger Garten mit vielen Pflanzen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Egy csendes kert sok növénnyel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O grădină liniștită cu multe plante.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "A quiet garden with many plants.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Kaufen Sie lokale Weine als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Vásároljon helyi borokat ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Cumpărați vinuri locale ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Buy local wines as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in den zentralen Garagen.",
+          "Nutzen Sie das Auto, um weiter entfernte Ziele zu erreichen.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern.",
+          "Genießen Sie die Flexibilität eines Autos.",
+          "Achten Sie auf die Parkzeiten."
+        ],
+        "hu": [
+          "Parkoljon a központi garázsokban.",
+          "Használja az autót a távolabbi célpontok eléréséhez.",
+          "Tervezze meg az utazásokat a klaszterek között.",
+          "Élvezze az autó rugalmasságát.",
+          "Figyeljen a parkolási időkre."
+        ],
+        "ro": [
+          "Parcați în garajele centrale.",
+          "Folosiți mașina pentru a ajunge la destinații mai îndepărtate.",
+          "Planificați-vă călătoriile între clustere.",
+          "Bucurați-vă de flexibilitatea unei mașini.",
+          "Fiți atenți la orele de parcare."
+        ],
+        "en": [
+          "Park in the central garages.",
+          "Use the car to reach farther destinations.",
+          "Plan your drives between clusters.",
+          "Enjoy the flexibility of a car.",
+          "Watch out for parking times."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Unirii",
+          "coords": [
+            23.6,
+            46.55
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinie 1 zum Platz.",
+            "hu": "Vegye az 1-es villamost a térig.",
+            "ro": "Luați tramvaiul 1 până în piață.",
+            "en": "Take tram line 1 to the square."
+          }
+        },
+        {
+          "name": "Biserica Sfântul Mihail",
+          "coords": [
+            23.59,
+            46.55
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Platz.",
+            "hu": "Egy rövid séta a tértől.",
+            "ro": "O scurtă plimbare de la piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": "Muzeul Național de Istorie a Transilvaniei",
+          "coords": [
+            23.59,
+            46.55
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist gleich um die Ecke.",
+            "hu": "A múzeum a sarkon van.",
+            "ro": "Muzeul este la colț.",
+            "en": "The museum is just around the corner."
+          }
+        },
+        {
+          "name": "Parcul Central",
+          "coords": [
+            23.58,
+            46.55
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Park zum Entspannen.",
+            "hu": "Egy szép park a kikapcsolódásra.",
+            "ro": "Un parc frumos pentru relaxare.",
+            "en": "A nice park to relax."
+          }
+        },
+        {
+          "name": "Grădina Botanică",
+          "coords": [
+            23.57,
+            46.54
+          ],
+          "category": "garden",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 24 zum botanischen Garten.",
+            "hu": "Vegye a 24-es buszt a botanikus kerthez.",
+            "ro": "Luați autobuzul 24 până la grădina botanică.",
+            "en": "Take bus 24 to the botanical garden."
+          }
+        },
+        {
+          "name": "Cetățuia",
+          "coords": [
+            23.58,
+            46.56
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 35 zur Cetățuia.",
+            "hu": "Vegye a 35-ös buszt a Cetățuia-hoz.",
+            "ro": "Luați autobuzul 35 până la Cetățuia.",
+            "en": "Take bus 35 to Cetățuia."
+          }
+        },
+        {
+          "name": "Restaurantul Samsara Food House",
+          "coords": [
+            23.6,
+            46.55
+          ],
+          "category": "gastro",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn zurück ins Zentrum.",
+            "hu": "Vegye vissza a villamost a központba.",
+            "ro": "Luați tramvaiul înapoi în centru.",
+            "en": "Take the tram back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Straßenbahn zur Piața Unirii. Von dort aus erkunden Sie zu Fuß die Kirche und das Museum. Nach einer Pause im Park fahren Sie mit dem Bus zum botanischen Garten. Der Nachmittag führt Sie mit dem Bus zur Cetățuia. Den Abend verbringen Sie in einem kreativen Restaurant, das Sie mit der Straßenbahn erreichen.",
+        "hu": "A reggel a villamossal kezdődik a Piața Unirii-hoz. Onnan gyalog fedezi fel a templomot és a múzeumot. A parkban tett szünet után busszal megy a botanikus kertbe. A délután busszal vezet a Cetățuia-hoz. Az estét egy kreatív étteremben tölti, amelyet villamossal ér el.",
+        "ro": "Dimineața începe cu tramvaiul până în Piața Unirii. De acolo, explorați pe jos biserica și muzeul. După o pauză în parc, luați autobuzul până la grădina botanică. După-amiaza vă duce cu autobuzul la Cetățuia. Seara o petreceți la un restaurant creativ, pe care îl atingeți cu tramvaiul.",
+        "en": "The morning starts with the tram to Piața Unirii. From there, you explore the church and museum on foot. After a break in the park, you take the bus to the botanical garden. The afternoon takes you by bus to Cetățuia. You spend the evening at a creative restaurant, which you reach by tram."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Probieren Sie diesen süßen Hefekuchen an einem Stand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Kóstolja meg ezt az édes kelt tésztát egy standnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Încercați acest cozonac dulce la un stand."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chimney Cake",
+            "tip": "Try this sweet yeast cake at a stand."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Ein ruhiger Ort für eine Auszeit.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Egy csendes hely a kikapcsolódásra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un loc liniștit pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "A quiet place for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Kaufen Sie handgemachte Spitzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Vásároljon kézzel készített csipkéket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Cumpărați dantelă făcută manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piata Unirii",
+            "tip": "Buy handmade lace."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die öffentlichen Verkehrsmittel.",
+          "Die Busse und Straßenbahnen sind zuverlässig.",
+          "Planen Sie Ihre Fahrten mit der App.",
+          "Achten Sie auf die Fahrpläne.",
+          "Genießen Sie die Bequemlichkeit des öffentlichen Nahverkehrs."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedésre.",
+          "A buszok és villamosok megbízhatóak.",
+          "Tervezze meg utazásait az alkalmazással.",
+          "Figyeljen a menetrendekre.",
+          "Élvezze a tömegközlekedés kényelmét."
+        ],
+        "ro": [
+          "Cumpărați un bilet zilnic pentru transportul public.",
+          "Autobuzele și tramvaiele sunt de încredere.",
+          "Planificați-vă călătoriile cu aplicația.",
+          "Fiți atenți la orare.",
+          "Bucurați-vă de confortul transportului public."
+        ],
+        "en": [
+          "Buy a day ticket for public transport.",
+          "The buses and trams are reliable.",
+          "Plan your trips with the app.",
+          "Watch out for the schedules.",
+          "Enjoy the convenience of public transport."
+        ]
+      }
+    }
+  }
+}

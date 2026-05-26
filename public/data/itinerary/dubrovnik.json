@@ -1,2404 +1,1037 @@
 {
   "city_id": "dubrovnik",
   "anchor": {
-    "name": "Dubrovnik",
+    "name": "Pile Gate",
     "coords": [
-      18.0944,
-      42.6507
+      18.1066,
+      42.6412
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "15:00",
-      "total_km": 1.6,
+      "end_estimate": "17:45",
+      "total_km": 4.2,
       "stop_count": 8,
       "stops": [
         {
-          "name": "Onofrio-Brunnen",
+          "name": {
+            "de": "Pile-Tor",
+            "hu": "Pile-kapu",
+            "ro": "Poarta Pile",
+            "en": "Pile Gate"
+          },
           "coords": [
-            18.1072,
-            42.6415
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "09:00",
-          "stay_min": 15,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Trinkbares Quellwasser direkt aus dem Brunnen genießen.",
-            "hu": "Igyon friss forrásvizet közvetlenül a kútból.",
-            "ro": "Savurați apa proaspătă de izvor direct de la fântână.",
-            "en": "Enjoy drinkable spring water directly from the fountain."
-          }
-        },
-        {
-          "name": "Franziskanerkloster",
-          "coords": [
-            18.1075,
-            42.6416
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:17",
-          "stay_min": 30,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Besuchen Sie eine der ältesten Apotheken Europas im Inneren.",
-            "hu": "Nézze meg Európa egyik legrégebbi, ma is működő gyógyszertárát.",
-            "ro": "Vizitați una dintre cele mai vechi farmacii din Europa în interior.",
-            "en": "Visit one of the oldest functioning pharmacies in Europe inside."
-          }
-        },
-        {
-          "name": "Stadtmauern von Dubrovnik",
-          "coords": [
-            18.108,
-            42.6418
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:50",
-          "stay_min": 90,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Kommen Sie früh morgens, um der Hitze und den Massen zu entgehen.",
-            "hu": "Érkezzen korán reggel a hőség és a tömeg elkerülése érdekében.",
-            "ro": "Veniți dimineața devreme pentru a evita căldura și aglomerația.",
-            "en": "Come early in the morning to avoid the heat and crowds."
-          }
-        },
-        {
-          "name": "Stradun",
-          "coords": [
-            18.1085,
-            42.6413
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "11:23",
-          "stay_min": 15,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Die glänzenden Kalksteinpflaster sind bei Regen sehr rutschig.",
-            "hu": "A fényes mészkőburkolat esőben rendkívül csúszós lehet.",
-            "ro": "Pavajul lucios de calcar este foarte alunecos când plouă.",
-            "en": "The shiny limestone pavements are very slippery when it rains."
-          }
-        },
-        {
-          "name": "Sponza-Palast",
-          "coords": [
-            18.1102,
+            18.1066,
             42.6412
           ],
-          "category": "famous residences",
-          "arrive_at": "11:41",
-          "stay_min": 45,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.2,
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Bewundern Sie die Mischung aus Gotik- und Renaissance-Architektur.",
-            "hu": "Csodálja meg a gótikus és reneszánsz építészet keveredését.",
-            "ro": "Admirați amestecul de arhitectură gotică și renascentistă.",
-            "en": "Admire the blend of Gothic and Renaissance architecture."
+            "de": "Beginnen Sie hier an der steinernen Brücke aus dem Jahr 1537.",
+            "hu": "Kezdje a sétát az 1537-ben épült kőhídnál.",
+            "ro": "Începeți plimbarea de la podul de piatră construit în 1537.",
+            "en": "Start your walk at the stone bridge built in 1537."
           }
         },
         {
-          "name": "Rektorenpalast",
+          "name": {
+            "de": "Stradun",
+            "hu": "Stradun",
+            "ro": "Stradun",
+            "en": "Stradun"
+          },
+          "coords": [
+            18.1085,
+            42.641
+          ],
+          "category": "square",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die Kalksteinpflasterung, die durch Millionen Schritte glänzt.",
+            "hu": "Figyelje meg a mészkőburkolatot, amelyet évmilliók koptattak fényesre.",
+            "ro": "Observați pavajul din calcar șlefuit de milioane de pași.",
+            "en": "Notice the limestone paving polished by millions of steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Dubrovnik",
+            "hu": "Dubrovniki katedrális",
+            "ro": "Catedrala din Dubrovnik",
+            "en": "Dubrovnik Cathedral"
+          },
           "coords": [
             18.1105,
+            42.64
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Schatzkammer mit dem vergoldeten Arm des Hl. Blasius.",
+            "hu": "Nézze meg a kincstárat Szent Balázs aranyozott ereklyéjével.",
+            "ro": "Vizitați tezaurul cu brațul aurit al Sfântului Blasiu.",
+            "en": "Visit the treasury containing the gilded arm of St. Blaise."
+          }
+        },
+        {
+          "name": {
+            "de": "Rektorenpalast",
+            "hu": "Rektori palota",
+            "ro": "Palatul Rectorului",
+            "en": "Rector's Palace"
+          },
+          "coords": [
+            18.1108,
             42.6405
           ],
-          "category": "museums",
-          "arrive_at": "12:29",
-          "stay_min": 60,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Das Kulturhistorische Museum bietet Einblicke in die Republik Ragusa.",
-            "hu": "A Kulturális Történeti Múzeum bemutatja a Raguzai Köztársaságot.",
-            "ro": "Muzeul de Istorie oferă detalii despre fosta Republică Ragusa.",
-            "en": "The Cultural History Museum offers insights into the Ragusa Republic."
-          }
-        },
-        {
-          "name": "Kathedrale von Dubrovnik",
-          "coords": [
-            18.1104,
-            42.6401
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "13:32",
-          "stay_min": 30,
-          "hop_from_prev_min": 3,
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Verpassen Sie nicht die Schatzkammer mit goldenen Reliquiaren.",
-            "hu": "Ne hagyja ki az arany ereklyetartókat őrző kincstárat.",
-            "ro": "Nu ratați tezaurul cu relicvarii din aur din interior.",
-            "en": "Do not miss the treasury with golden reliquaries inside."
+            "de": "Bewundern Sie die Kapitelle der Säulen im gotisch-renaissance Stil.",
+            "hu": "Csodálja meg a gótikus-reneszánsz stílusú oszlopfőket az udvaron.",
+            "ro": "Admirați capitelurile coloanelor în stil gotic-renașcentist.",
+            "en": "Admire the Gothic-Renaissance column capitals in the courtyard."
           }
         },
         {
-          "name": "Festung Lovrijenac",
+          "name": {
+            "de": "Alter Hafen",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Harbor"
+          },
           "coords": [
-            18.1054,
-            42.6411
+            18.112,
+            42.6408
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "14:12",
-          "stay_min": 45,
+          "category": "harbor",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für Fotos der Festung St. Johann.",
+            "hu": "Ideális helyszín a Szent János-erőd fotózásához.",
+            "ro": "Locul ideal pentru a fotografia fortăreața Sfântul Ioan.",
+            "en": "The ideal spot for photographing St. John's Fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokanda Peskarija",
+            "hu": "Lokanda Peskarija",
+            "ro": "Lokanda Peskarija",
+            "en": "Lokanda Peskarija"
+          },
+          "coords": [
+            18.1118,
+            42.6406
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 80,
           "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie den schwarzen Risotto mit Tintenfisch.",
+            "hu": "Kóstolja meg a fekete rizottót tintahallal.",
+            "ro": "Gustați risottoul negru cu cerneală de sepie.",
+            "en": "Try the black risotto with cuttlefish ink."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern",
+            "hu": "Városfalak",
+            "ro": "Zidurile cetății",
+            "en": "City Walls"
+          },
+          "coords": [
+            18.107,
+            42.6415
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der 1940 Meter lange Rundgang bietet den besten Blick auf die Adria.",
+            "hu": "Az 1940 méter hosszú körút kínálja a legjobb kilátást az Adriára.",
+            "ro": "Traseul de 1940 de metri oferă cea mai bună vedere asupra Adriaticii.",
+            "en": "The 1940-meter circuit offers the best views of the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Lovrijenac",
+            "hu": "Lovrijenac-erőd",
+            "ro": "Fortăreața Lovrijenac",
+            "en": "Lovrijenac Fortress"
+          },
+          "coords": [
+            18.1045,
+            42.641
+          ],
+          "category": "historical",
+          "arrive_at": "17:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
           "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Die Inschrift über dem Tor mahnt zur Bewahrung der Freiheit.",
-            "hu": "A kapu feletti felirat a szabadság megőrzésére int.",
-            "ro": "Inscripția de deasupra porții îndeamnă la păstrarea libertății.",
-            "en": "The inscription above the gate urges the preservation of freedom."
+            "de": "Lesen Sie die Inschrift über dem Tor: Freiheit wird nicht für Gold verkauft.",
+            "hu": "Olvassa el a kapu feletti feliratot: A szabadság nem eladó aranyért.",
+            "ro": "Citiți inscripția de deasupra porții: Libertatea nu se vinde pe aur.",
+            "en": "Read the inscription above the gate: Liberty is not sold for gold."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Morgens am Onofrio-Brunnen starten und die Stadtmauern erklimmen. Mittags über den Stradun zum eleganten Sponza-Palast spazieren. Nachmittags die Schätze im Rektorenpalast und der Kathedrale entdecken. Den Abend an der Festung Lovrijenac mit Blick auf das blaue Meer genießen.",
-        "hu": "Reggeli kezdés az Onofrio-kútnál, majd séta a monumentális városfalakon. Délben a Stradunon át az elegáns Sponza-palotáig jutunk. Délután a Rektori Palota és a Katedrális kincseit fedezzük fel. Az estét a Lovrijenac-erődben zárjuk, pazar kilátással a kék Adria hullámaira.",
-        "ro": "Dimineața începem la Fântâna lui Onofrio și pe zidurile masive ale cetății. La prânz ne plimbăm pe Stradun către elegantul Palat Sponza. După-amiaza explorăm Palatul Rectorului și catedrala impresionantă. Seara o petrecem la Cetatea Lovrijenac, admirând albastrul mării.",
-        "en": "Morning starts at Onofrio's Fountain followed by a scenic walk on the City Walls. Midday stroll along Stradun to the elegant Sponza Palace. Afternoon is dedicated to the Rector's Palace and the grand Cathedral. Conclude the evening at Fort Lovrijenac with stunning views over the Adriatic."
+        "de": "Morgens betreten Sie die Altstadt durch das Pile-Tor und tauchen direkt in das 16. Jahrhundert ein. Der Stradun glänzt in der Morgensonne, während Sie zur Kathedrale schlendern. \n\nMittags erkunden Sie den Rektorenpalast und genießen frische Meeresfrüchte im Hafen unter den Bögen der Peskarija. \n\nNachmittags erklimmen Sie die massiven Festungsmauern für den klassischen Panoramablick über die roten Ziegeldächer. \n\nDen Abend lassen Sie bei der Festung Lovrijenac ausklingen, wo der Sonnenuntergang die Mauern in warmes Licht taucht.",
+        "hu": "Reggel a Pile-kapun át lépünk be az óvárosba, ahol az 1500-as évek hangulata fogad. A Stradun mészkőburkolata csillog a napfényben, miközben a katedrális felé vesszük az irányt. \n\nDélben a Rektori palota gótikus udvarát fedezzük fel, majd a kikötőben friss tengeri ételeket kóstolunk a Peskarija boltívei alatt. \n\nDélután a 2 kilométer hosszú várfalon teszünk körtúrát a vörös tetők felett. \n\nAz estét a Lovrijenac-erődnél zárjuk, figyelve, ahogy a lemenő nap megvilágítja a sziklákat.",
+        "ro": "Dimineața intrăm în orașul vechi prin Poarta Pile, fiind transportați direct în secolul al XVI-lea. Stradun strălucește în soarele dimineții în timp ce ne îndreptăm spre catedrală. \n\nLa prânz explorăm Palatul Rectorului și savurăm fructe de mare proaspete în port, sub arcadele de la Peskarija. \n\nDupă-amiaza urcăm pe zidurile masive de apărare pentru panorama clasică peste acoperișurile roșii. \n\nÎncheiem seara la fortăreața Lovrijenac, unde apusul scaldă zidurile în culori calde.",
+        "en": "Morning starts by entering the Old Town through Pile Gate, stepping into the 16th century. The Stradun limestone shines in the morning sun as you stroll toward the cathedral. \n\nAt midday, explore the Rector's Palace and enjoy fresh seafood at the harbor under the Peskarija arches. \n\nIn the afternoon, climb the massive defensive walls for the classic panorama over the red-tiled roofs. \n\nEnd your evening at Lovrijenac Fortress, watching the sunset light up the cliffs and ancient walls."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Rožata",
-            "tip": "Probieren Sie diesen traditionellen Karamellpudding im Restaurant Proto."
-          },
-          {
-            "name": "Schwarzer Risotto",
-            "tip": "Köstlicher Tintenfisch-Risotto in der Konoba Kopun."
+            "name": "Kamenice",
+            "tip": "Austern aus Ston und Muscheln in der Altstadt."
           }
         ],
         "hu": [
           {
-            "name": "Rožata",
-            "tip": "Kóstolja meg a hagyományos karamellpudingot a Proto étteremben."
-          },
-          {
-            "name": "Fekete rizottó",
-            "tip": "Ízletes tintahalas különlegesség a Konoba Kopunban."
+            "name": "Kamenice",
+            "tip": "Stoni osztriga és fekete kagyló az óváros szívében."
           }
         ],
         "ro": [
           {
-            "name": "Rožata",
-            "tip": "Gustați budinca tradițională de caramel la restaurantul Proto."
-          },
-          {
-            "name": "Risotto negru",
-            "tip": "Specialitate delicioasă cu cerneală de sepie la Konoba Kopun."
+            "name": "Kamenice",
+            "tip": "Stridii de Ston și midii chiar în inima orașului vechi."
           }
         ],
         "en": [
           {
-            "name": "Rožata",
-            "tip": "Try this traditional caramel pudding at Restaurant Proto."
-          },
-          {
-            "name": "Black Risotto",
-            "tip": "Delicious cuttlefish risotto specialty at Konoba Kopun."
+            "name": "Kamenice",
+            "tip": "Ston oysters and black mussels in the heart of the Old Town."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Gradac Park",
-            "tip": "Ein schattiger Park mit Blick auf die Festung Lovrijenac.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Danče Bucht",
-            "tip": "Ein lokaler Badeplatz abseits der Touristenströme.",
-            "emoji": "🌊"
+            "name": "Buža Bar",
+            "tip": "Ein Getränk auf den Klippen außerhalb der Stadtmauer.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Gradac Park",
-            "tip": "Árnyas park remek kilátással a Lovrijenac-erődre.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Danče-öböl",
-            "tip": "Helyi fürdőhely a turistaáradattól távol.",
-            "emoji": "🌊"
+            "name": "Buža Bar",
+            "tip": "Ital a sziklákon, közvetlenül a várfalon kívül.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Gradac",
-            "tip": "Un parc umbros cu vedere spre Cetatea Lovrijenac.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Golful Danče",
-            "tip": "Loc de scăldat preferat de localnici, ferit de mulțimi.",
-            "emoji": "🌊"
+            "name": "Buža Bar",
+            "tip": "O băutură pe stânci, chiar în afara zidurilor cetății.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Gradac Park",
-            "tip": "A shaded park with great views of Fort Lovrijenac.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Danče Bay",
-            "tip": "A local swimming spot away from the tourist crowds.",
-            "emoji": "🌊"
+            "name": "Buža Bar",
+            "tip": "A drink on the cliffs, just outside the city walls.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Gundulić-Markt",
-            "tip": "Kaufen Sie getrocknete Feigen und Lavendelprodukte."
-          },
-          {
-            "name": "Clara Stones",
-            "tip": "Exklusiver Schmuck aus adriatischer roter Koralle."
+            "name": "Gundulićeva Markt",
+            "tip": "Lokaler Honig, Lavendel und kandierte Früchte."
           }
         ],
         "hu": [
           {
-            "name": "Gundulić-piac",
-            "tip": "Vásároljon szárított fügét és levendulatermékeket."
-          },
-          {
-            "name": "Clara Stones",
-            "tip": "Exkluzív ékszerek adriai vörös korallból."
+            "name": "Gundulićeva piac",
+            "tip": "Helyi méz, levendula és kandírozott gyümölcsök."
           }
         ],
         "ro": [
           {
-            "name": "Piața Gundulić",
-            "tip": "Cumpărați smochine uscate și produse din levănțică."
-          },
-          {
-            "name": "Clara Stones",
-            "tip": "Bijuterii exclusive din corali roșii adriatici."
+            "name": "Piața Gundulićeva",
+            "tip": "Miere locală, lavandă și fructe confiate."
           }
         ],
         "en": [
           {
-            "name": "Gundulić Market",
-            "tip": "Buy dried figs and aromatic lavender products."
-          },
-          {
-            "name": "Clara Stones",
-            "tip": "Exclusive jewelry made from Adriatic red coral."
+            "name": "Gundulićeva Market",
+            "tip": "Local honey, lavender, and candied fruits."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
-          "Kaufen Sie den Dubrovnik Pass für freien Eintritt zu den Mauern.",
-          "Füllen Sie Ihre Wasserflasche an den öffentlichen Brunnen auf.",
-          "Vermeiden Sie die Mittagszeit auf den Stadtmauern im Sommer."
+          "Tragen Sie rutschfeste Schuhe für den glatten Stradun.",
+          "Besuchen Sie die Mauern am späten Nachmittag für besseres Licht."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt a macskaköves sikátorokhoz.",
-          "Váltsa ki a Dubrovnik Passt a falakra való ingyenes belépéshez.",
-          "Töltse újra vizespalackját a nyilvános kutaknál.",
-          "Nyáron kerülje a délidőt a városfalakon a hőség miatt."
+          "Viseljen csúszásmentes cipőt a fényes Stradun miatt.",
+          "A várfalat késő délután látogassa a szebb fényekért."
         ],
         "ro": [
-          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
-          "Cumpărați Dubrovnik Pass pentru intrare gratuită pe ziduri.",
-          "Reumpleți sticla de apă la fântânile publice din oraș.",
-          "Evitați orele amiezii pe zidurile cetății în timpul verii."
+          "Purtați încălțăminte aderentă pentru pavajul lucios de pe Stradun.",
+          "Vizitați zidurile după-amiaza târziu pentru o lumină mai bună."
         ],
         "en": [
-          "Wear comfortable shoes for the cobblestone alleys.",
-          "Buy the Dubrovnik Pass for free entry to the City Walls.",
-          "Refill your water bottle at the public fountains in town.",
-          "Avoid midday hours on the walls during the hot summer."
+          "Wear non-slip shoes for the polished Stradun limestone.",
+          "Visit the walls in the late afternoon for better lighting."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Morgens am Onofrio-Brunnen starten und die Stadtmauern erklimmen. Mittags über den Stradun zum eleganten Sponza-Palast spazieren. Nachmittags die Schätze im Rektorenpalast und der Kathedrale entdecken. Den Abend an der Festung Lovrijenac mit Blick auf das blaue Meer genießen.",
-            "hu": "Reggeli kezdés az Onofrio-kútnál, majd séta a monumentális városfalakon. Délben a Stradunon át az elegáns Sponza-palotáig jutunk. Délután a Rektori Palota és a Katedrális kincseit fedezzük fel. Az estét a Lovrijenac-erődben zárjuk, pazar kilátással a kék Adria hullámaira.",
-            "ro": "Dimineața începem la Fântâna lui Onofrio și pe zidurile masive ale cetății. La prânz ne plimbăm pe Stradun către elegantul Palat Sponza. După-amiaza explorăm Palatul Rectorului și catedrala impresionantă. Seara o petrecem la Cetatea Lovrijenac, admirând albastrul mării.",
-            "en": "Morning starts at Onofrio's Fountain followed by a scenic walk on the City Walls. Midday stroll along Stradun to the elegant Sponza Palace. Afternoon is dedicated to the Rector's Palace and the grand Cathedral. Conclude the evening at Fort Lovrijenac with stunning views over the Adriatic."
-          },
-          "stops": [
-            {
-              "name": "Onofrio-Brunnen",
-              "tip_5lang": {
-                "de": "Trinkbares Quellwasser direkt aus dem Brunnen genießen.",
-                "hu": "Igyon friss forrásvizet közvetlenül a kútból.",
-                "ro": "Savurați apa proaspătă de izvor direct de la fântână.",
-                "en": "Enjoy drinkable spring water directly from the fountain."
-              }
-            },
-            {
-              "name": "Franziskanerkloster",
-              "tip_5lang": {
-                "de": "Besuchen Sie eine der ältesten Apotheken Europas im Inneren.",
-                "hu": "Nézze meg Európa egyik legrégebbi, ma is működő gyógyszertárát.",
-                "ro": "Vizitați una dintre cele mai vechi farmacii din Europa în interior.",
-                "en": "Visit one of the oldest functioning pharmacies in Europe inside."
-              }
-            },
-            {
-              "name": "Stadtmauern von Dubrovnik",
-              "tip_5lang": {
-                "de": "Kommen Sie früh morgens, um der Hitze und den Massen zu entgehen.",
-                "hu": "Érkezzen korán reggel a hőség és a tömeg elkerülése érdekében.",
-                "ro": "Veniți dimineața devreme pentru a evita căldura și aglomerația.",
-                "en": "Come early in the morning to avoid the heat and crowds."
-              }
-            },
-            {
-              "name": "Stradun",
-              "tip_5lang": {
-                "de": "Die glänzenden Kalksteinpflaster sind bei Regen sehr rutschig.",
-                "hu": "A fényes mészkőburkolat esőben rendkívül csúszós lehet.",
-                "ro": "Pavajul lucios de calcar este foarte alunecos când plouă.",
-                "en": "The shiny limestone pavements are very slippery when it rains."
-              }
-            },
-            {
-              "name": "Sponza-Palast",
-              "tip_5lang": {
-                "de": "Bewundern Sie die Mischung aus Gotik- und Renaissance-Architektur.",
-                "hu": "Csodálja meg a gótikus és reneszánsz építészet keveredését.",
-                "ro": "Admirați amestecul de arhitectură gotică și renascentistă.",
-                "en": "Admire the blend of Gothic and Renaissance architecture."
-              }
-            },
-            {
-              "name": "Rektorenpalast",
-              "tip_5lang": {
-                "de": "Das Kulturhistorische Museum bietet Einblicke in die Republik Ragusa.",
-                "hu": "A Kulturális Történeti Múzeum bemutatja a Raguzai Köztársaságot.",
-                "ro": "Muzeul de Istorie oferă detalii despre fosta Republică Ragusa.",
-                "en": "The Cultural History Museum offers insights into the Ragusa Republic."
-              }
-            },
-            {
-              "name": "Kathedrale von Dubrovnik",
-              "tip_5lang": {
-                "de": "Verpassen Sie nicht die Schatzkammer mit goldenen Reliquiaren.",
-                "hu": "Ne hagyja ki az arany ereklyetartókat őrző kincstárat.",
-                "ro": "Nu ratați tezaurul cu relicvarii din aur din interior.",
-                "en": "Do not miss the treasury with golden reliquaries inside."
-              }
-            },
-            {
-              "name": "Festung Lovrijenac",
-              "tip_5lang": {
-                "de": "Die Inschrift über dem Tor mahnt zur Bewahrung der Freiheit.",
-                "hu": "A kapu feletti felirat a szabadság megőrzésére int.",
-                "ro": "Inscripția de deasupra porții îndeamnă la păstrarea libertății.",
-                "en": "The inscription above the gate urges the preservation of freedom."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Rožata",
-                "tip": "Probieren Sie diesen traditionellen Karamellpudding im Restaurant Proto."
-              },
-              {
-                "name": "Schwarzer Risotto",
-                "tip": "Köstlicher Tintenfisch-Risotto in der Konoba Kopun."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Rožata",
-                "tip": "Kóstolja meg a hagyományos karamellpudingot a Proto étteremben."
-              },
-              {
-                "name": "Fekete rizottó",
-                "tip": "Ízletes tintahalas különlegesség a Konoba Kopunban."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Rožata",
-                "tip": "Gustați budinca tradițională de caramel la restaurantul Proto."
-              },
-              {
-                "name": "Risotto negru",
-                "tip": "Specialitate delicioasă cu cerneală de sepie la Konoba Kopun."
-              }
-            ],
-            "en": [
-              {
-                "name": "Rožata",
-                "tip": "Try this traditional caramel pudding at Restaurant Proto."
-              },
-              {
-                "name": "Black Risotto",
-                "tip": "Delicious cuttlefish risotto specialty at Konoba Kopun."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Gradac Park",
-                "tip": "Ein schattiger Park mit Blick auf die Festung Lovrijenac.",
-                "emoji": "🌳"
-              },
-              {
-                "name": "Danče Bucht",
-                "tip": "Ein lokaler Badeplatz abseits der Touristenströme.",
-                "emoji": "🌊"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Gradac Park",
-                "tip": "Árnyas park remek kilátással a Lovrijenac-erődre.",
-                "emoji": "🌳"
-              },
-              {
-                "name": "Danče-öböl",
-                "tip": "Helyi fürdőhely a turistaáradattól távol.",
-                "emoji": "🌊"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Parcul Gradac",
-                "tip": "Un parc umbros cu vedere spre Cetatea Lovrijenac.",
-                "emoji": "🌳"
-              },
-              {
-                "name": "Golful Danče",
-                "tip": "Loc de scăldat preferat de localnici, ferit de mulțimi.",
-                "emoji": "🌊"
-              }
-            ],
-            "en": [
-              {
-                "name": "Gradac Park",
-                "tip": "A shaded park with great views of Fort Lovrijenac.",
-                "emoji": "🌳"
-              },
-              {
-                "name": "Danče Bay",
-                "tip": "A local swimming spot away from the tourist crowds.",
-                "emoji": "🌊"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Gundulić-Markt",
-                "tip": "Kaufen Sie getrocknete Feigen und Lavendelprodukte."
-              },
-              {
-                "name": "Clara Stones",
-                "tip": "Exklusiver Schmuck aus adriatischer roter Koralle."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Gundulić-piac",
-                "tip": "Vásároljon szárított fügét és levendulatermékeket."
-              },
-              {
-                "name": "Clara Stones",
-                "tip": "Exkluzív ékszerek adriai vörös korallból."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Piața Gundulić",
-                "tip": "Cumpărați smochine uscate și produse din levănțică."
-              },
-              {
-                "name": "Clara Stones",
-                "tip": "Bijuterii exclusive din corali roșii adriatici."
-              }
-            ],
-            "en": [
-              {
-                "name": "Gundulić Market",
-                "tip": "Buy dried figs and aromatic lavender products."
-              },
-              {
-                "name": "Clara Stones",
-                "tip": "Exclusive jewelry made from Adriatic red coral."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
-              "Kaufen Sie den Dubrovnik Pass für freien Eintritt zu den Mauern.",
-              "Füllen Sie Ihre Wasserflasche an den öffentlichen Brunnen auf.",
-              "Vermeiden Sie die Mittagszeit auf den Stadtmauern im Sommer."
-            ],
-            "hu": [
-              "Viseljen kényelmes cipőt a macskaköves sikátorokhoz.",
-              "Váltsa ki a Dubrovnik Passt a falakra való ingyenes belépéshez.",
-              "Töltse újra vizespalackját a nyilvános kutaknál.",
-              "Nyáron kerülje a délidőt a városfalakon a hőség miatt."
-            ],
-            "ro": [
-              "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
-              "Cumpărați Dubrovnik Pass pentru intrare gratuită pe ziduri.",
-              "Reumpleți sticla de apă la fântânile publice din oraș.",
-              "Evitați orele amiezii pe zidurile cetății în timpul verii."
-            ],
-            "en": [
-              "Wear comfortable shoes for the cobblestone alleys.",
-              "Buy the Dubrovnik Pass for free entry to the City Walls.",
-              "Refill your water bottle at the public fountains in town.",
-              "Avoid midday hours on the walls during the hot summer."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Beginnen Sie Ihren Tag am Onofrio-Brunnen, während der Regen die alten Steine glänzen lässt. Besuchen Sie das Franziskanerkloster, um trocken zu bleiben, und wandern Sie dann über die Stadtmauern, wo die Aussicht auf die Adria bei Sturm dramatisch ist. Am Mittag bietet der Stradun in den Arkaden Schutz. Nachmittags erkunden Sie die prächtigen Paläste Sponza und Rektorenpalast, bevor Sie den Tag in der Kathedrale und auf der Festung Lovrijenac unter dem Regenschutz beenden.",
-            "hu": "Kezdje a napot az Onofrio-kútnál, miközben az eső csillogóvá teszi az ódon köveket. Menjen be a Ferences kolostorba a csapadék elől, majd járja be a városfalat, ahol a viharos Adria látványa lenyűgöző. Délben a Stradun árkádjai nyújtanak menedéket. Délután fedezze fel a Sponza-palota és a Rektori palota belső termeit, végül zárja a napot a székesegyházban és a Lovrijenac-erődben, ahol a falak védenek a széltől.",
-            "ro": "Începeți ziua la Fântâna lui Onofrio, în timp ce ploaia face pietrele vechi să strălucească. Vizitați Mănăstirea Franciscană pentru a rămâne la adăpost, apoi urcați pe zidurile orașului, unde marea Adriatică oferă un spectacol dramatic pe timp de furtună. La prânz, arcadele de pe Stradun oferă protecție. După-amiaza, explorați interioarele Palatului Sponza și ale Palatului Rectorului, finalizând ziua la Catedrală și la Cetatea Lovrijenac.",
-            "en": "Start your day at Onofrio's Fountain as the rain makes the ancient stones glisten. Visit the Franciscan Monastery to stay dry, then walk the City Walls where the stormy Adriatic views are dramatic. At noon, the Stradun arcades provide shelter. In the afternoon, explore the interiors of Sponza Palace and the Rector's Palace, ending the day at the Cathedral and Lovrijenac Fortress under cover."
-          },
-          "stops": [
-            {
-              "name": "Onofrio-Brunnen",
-              "tip_5lang": {
-                "de": "Die großen Steinmasken dienen bei Regen als Wasserspeier.",
-                "hu": "Az esőben a nagy kőmaszkok vízköpőként funkcionálnak.",
-                "ro": "Măștile de piatră funcționează ca gargui în timpul ploii.",
-                "en": "The large stone masks act as waterspouts during rain."
-              }
-            },
-            {
-              "name": "Franziskanerkloster",
-              "tip_5lang": {
-                "de": "Der Kreuzgang bietet einen perfekten, trockenen Rückzugsort.",
-                "hu": "A kerengő tökéletes, száraz menedéket nyújt az udvaron.",
-                "ro": "Claustrul oferă un refugiu perfect și uscat în curte.",
-                "en": "The cloister provides a perfect, dry retreat in the courtyard."
-              }
-            },
-            {
-              "name": "Stadtmauern von Dubrovnik",
-              "tip_5lang": {
-                "de": "Vorsicht, die Steinstufen können bei Nässe sehr rutschig sein.",
-                "hu": "Vigyázat, a kőlépcsők nedvesen nagyon csúszósak lehetnek.",
-                "ro": "Atenție, treptele de piatră pot fi foarte alunecoase când sunt ude.",
-                "en": "Be careful, the stone steps can be very slippery when wet."
-              }
-            },
-            {
-              "name": "Stradun",
-              "tip_5lang": {
-                "de": "Nutzen Sie die tiefen Hauseingänge der Geschäfte als Unterstand.",
-                "hu": "Használja az üzletek mély bejáratait ideiglenes esővédőként.",
-                "ro": "Folosiți intrările adânci ale magazinelor ca adăpost temporar.",
-                "en": "Use the deep shop entrances as temporary rain shelters."
-              }
-            },
-            {
-              "name": "Sponza-Palast",
-              "tip_5lang": {
-                "de": "Bewundern Sie die Architektur im geschützten Innenhof.",
-                "hu": "Csodálja meg az építészetet a védett belső udvarról.",
-                "ro": "Admirați arhitectura din curtea interioară protejată.",
-                "en": "Admire the architecture from the protected inner courtyard."
-              }
-            },
-            {
-              "name": "Rektorenpalast",
-              "tip_5lang": {
-                "de": "Ein ideales Museum, um eine Stunde im Trockenen zu verbringen.",
-                "hu": "Ideális múzeum egy óra szárazon töltött felfedezéshez.",
-                "ro": "Un muzeu ideal pentru a petrece o oră explorând la uscat.",
-                "en": "An ideal museum to spend an hour exploring in the dry."
-              }
-            },
-            {
-              "name": "Kathedrale von Dubrovnik",
-              "tip_5lang": {
-                "de": "Besuchen Sie die Schatzkammer während eines starken Schauers.",
-                "hu": "Látogassa meg a kincstárat egy erős zápor ideje alatt.",
-                "ro": "Vizitați tezaurul în timpul unei aversa puternice.",
-                "en": "Visit the treasury during a heavy downpour."
-              }
-            },
-            {
-              "name": "Festung Lovrijenac",
-              "tip_5lang": {
-                "de": "Die Kasematten bieten Schutz vor Wind und peitschendem Regen.",
-                "hu": "A kazamaták védelmet nyújtanak a szél és a csapkodó eső ellen.",
-                "ro": "Cazematele oferă adăpost împotriva vântului și ploii bătute.",
-                "en": "The casemates offer shelter from wind and driving rain."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Tragen Sie Schuhe mit gutem Profil wegen der glatten Kalksteine.",
-              "Ein stabiler Regenschirm ist bei Seewind besser als ein leichter Poncho.",
-              "Viele Cafés am Stradun haben Markisen, unter denen man trocken sitzen kann.",
-              "Die Stadtmauern haben wenig Unterstand, planen Sie dies bei Gewittern ein."
-            ],
-            "hu": [
-              "Viseljen jó tapadású cipőt a sima mészkő burkolat miatt.",
-              "A tengeri szélben egy stabil esernyő jobb, mint egy könnyű poncsó.",
-              "Sok kávézó a Stradun mentén rendelkezik ponyvával a száraz pihenéshez.",
-              "A városfalon kevés a fedett rész, tervezze ezt vihar esetén."
-            ],
-            "ro": [
-              "Purtați pantofi cu aderență bună din cauza pavajului neted de calcar.",
-              "O umbrelă stabilă este mai bună decât un pelerină ușoară în vântul mării.",
-              "Multe cafenele de pe Stradun au copertine sub care puteți sta uscat.",
-              "Zidurile orașului au puține adăposturi, planificați în caz de furtună."
-            ],
-            "en": [
-              "Wear shoes with good grip due to the smooth limestone paving.",
-              "A sturdy umbrella is better than a light poncho in the sea wind.",
-              "Many cafes along the Stradun have awnings to sit under and stay dry.",
-              "The city walls have few shelters, plan accordingly during storms."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Dubrovnik im Winter ist ruhig und magisch. Beginnen Sie am Onofrio-Brunnen und genießen Sie die Stille im Franziskanerkloster. Die Stadtmauern bieten bei milder Wintersonne klare Fernsichten ohne die Hitze des Sommers. Mittags lockt der Stradun mit festlicher Dekoration. Besuchen Sie die Paläste Sponza und Rektor, um die Geschichte ohne Menschenmassen zu erleben. Beenden Sie den Tag an der Kathedrale und Lovrijenac, bevor die frühe Dämmerung die Stadt in warmes Licht taucht.",
-            "hu": "A téli Dubrovnik csendes és varázslatos. Kezdjen az Onofrio-kútnál, majd élvezze a Ferences kolostor nyugalmát. A városfalakon a lágy téli napsütés tiszta kilátást kínál a nyári hőség nélkül. Délben a Stradun ünnepi díszben pompázik. Látogassa meg a Sponza és Rektori palotákat a tömeg nélkül. Zárja a napot a székesegyháznál és a Lovrijenac-erődnél, mielőtt a korai sötétedés meleg fénybe vonja a várost.",
-            "ro": "Dubrovnik iarna este liniștit și magic. Începeți la Fântâna lui Onofrio și bucurați-vă de liniștea Mănăstirii Franciscane. Zidurile orașului oferă vederi clare sub soarele blând de iarnă, fără căldura verii. La prânz, Stradun atrage cu decorațiuni festive. Vizitați palatele Sponza și Rectorului fără mulțimi. Încheiați ziua la Catedrală și Lovrijenac, înainte ca amurgul timpuriu să scalde orașul în lumină caldă.",
-            "en": "Dubrovnik in winter is quiet and magical. Start at Onofrio's Fountain and enjoy the stillness of the Franciscan Monastery. The City Walls offer clear views in the mild winter sun without summer's heat. At noon, the Stradun shines with festive decorations. Visit Sponza and Rector's Palaces without the crowds. End the day at the Cathedral and Lovrijenac before the early dusk bathes the city in warm light."
-          },
-          "stops": [
-            {
-              "name": "Onofrio-Brunnen",
-              "tip_5lang": {
-                "de": "Im Winter ist der Platz ideal für Fotos ohne Touristenmassen.",
-                "hu": "Télen a tér ideális a turistaáradat nélküli fotózáshoz.",
-                "ro": "Iarna, piața este ideală pentru fotografii fără mulțimi de turiști.",
-                "en": "In winter, the square is ideal for photos without tourist crowds."
-              }
-            },
-            {
-              "name": "Franziskanerkloster",
-              "tip_5lang": {
-                "de": "Die alte Apotheke wirkt im Winterlicht besonders authentisch.",
-                "hu": "A régi gyógyszertár a téli fényben különösen hitelesnek hat.",
-                "ro": "Vechea farmacie pare deosebit de autentică în lumina iernii.",
-                "en": "The old pharmacy feels particularly authentic in the winter light."
-              }
-            },
-            {
-              "name": "Stadtmauern von Dubrovnik",
-              "tip_5lang": {
-                "de": "Genießen Sie den Sonnenuntergang über der Adria gegen 16:30 Uhr.",
-                "hu": "Élvezze a naplementét az Adria felett 16:30 körül.",
-                "ro": "Bucurați-vă de apusul de soare peste Adriatică în jurul orei 16:30.",
-                "en": "Enjoy the sunset over the Adriatic around 4:30 PM."
-              }
-            },
-            {
-              "name": "Stradun",
-              "tip_5lang": {
-                "de": "Probieren Sie heiße 'Fritule' an den kleinen Wintermarkt-Buden.",
-                "hu": "Kóstolja meg a forró 'fritule'-t a kis téli piaci bódéknál.",
-                "ro": "Gustați 'fritule' fierbinți la tarabele micului târg de iarnă.",
-                "en": "Try hot 'fritule' at the small winter market stalls."
-              }
-            },
-            {
-              "name": "Sponza-Palast",
-              "tip_5lang": {
-                "de": "Die kühlen Steinmauern machen eine Jacke im Inneren nötig.",
-                "hu": "A hűvös kőfalak miatt bent is szükség lesz a kabátra.",
-                "ro": "Zidurile de piatră reci fac necesară o jachetă în interior.",
-                "en": "The cool stone walls make a jacket necessary inside."
-              }
-            },
-            {
-              "name": "Rektorenpalast",
-              "tip_5lang": {
-                "de": "Besuchen Sie die Ausstellungen in aller Ruhe ohne Wartezeit.",
-                "hu": "Látogassa meg a kiállításokat nyugodtan, várakozás nélkül.",
-                "ro": "Vizitați expozițiile în liniște, fără timp de așteptare.",
-                "en": "Visit the exhibitions in peace without waiting times."
-              }
-            },
-            {
-              "name": "Kathedrale von Dubrovnik",
-              "tip_5lang": {
-                "de": "Im Winter ist es im Inneren oft wärmer als draußen.",
-                "hu": "Télen a templom belseje gyakran melegebb, mint a külső levegő.",
-                "ro": "Iarna, interiorul este adesea mai cald decât afară.",
-                "en": "In winter, the interior is often warmer than outside."
-              }
-            },
-            {
-              "name": "Festung Lovrijenac",
-              "tip_5lang": {
-                "de": "Der Wind kann hier oben im Winter sehr beißen, warm anziehen.",
-                "hu": "A szél itt fent télen metsző lehet, öltözzön melegen.",
-                "ro": "Vântul poate fi tăios aici iarna, îmbrăcați-vă bine.",
-                "en": "The wind can be biting up here in winter, dress warmly."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Viele Restaurants haben im Winter geschlossen, suchen Sie lokale Tavernen.",
-              "Die Sonne geht früh unter, starten Sie Ihren Rundgang vor 10 Uhr.",
-              "Zwiebelprinzip bei der Kleidung hilft gegen den wechselnden Seewind.",
-              "Kaufen Sie den Dubrovnik Pass für kostenlosen Eintritt zu Museen."
-            ],
-            "hu": [
-              "Sok étterem zárva tart télen, keressen helyi tavernákat.",
-              "A nap korán nyugszik, kezdje a sétát délelőtt 10 óra előtt.",
-              "A réteges öltözködés segít a változékony tengeri szél ellen.",
-              "Vásároljon Dubrovnik Pass-t az ingyenes múzeumi belépéshez."
-            ],
-            "ro": [
-              "Multe restaurante sunt închise iarna, căutați taverne locale.",
-              "Soarele apune devreme, începeți turul înainte de ora 10 dimineața.",
-              "Îmbrăcămintea în straturi ajută împotriva vântului schimbător al mării.",
-              "Cumpărați Dubrovnik Pass pentru intrare gratuită la muzee."
-            ],
-            "en": [
-              "Many restaurants are closed in winter, look for local taverns.",
-              "The sun sets early, start your walk before 10 AM.",
-              "Layered clothing helps against the changing sea wind.",
-              "Buy a Dubrovnik Pass for free entry to museums."
-            ]
-          }
-        }
       }
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 12,
+      "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "13:30",
-      "total_km": 8.5,
+      "end_estimate": "16:30",
+      "total_km": 12.5,
       "stop_count": 6,
       "stops": [
         {
-          "name": "Stradun",
+          "name": {
+            "de": "Lapad Bucht",
+            "hu": "Lapad-öböl",
+            "ro": "Golful Lapad",
+            "en": "Lapad Bay"
+          },
           "coords": [
-            18.1085,
-            42.6413
+            18.069,
+            42.656
           ],
-          "category": "squares/old-town",
-          "arrive_at": "09:00",
-          "stay_min": 15,
-          "hop_from_prev_min": 0,
+          "category": "beach",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Radfahren ist im Stradun tagsüber eingeschränkt, bitte schieben.",
-            "hu": "Napközben tilos kerékpározni a Stradunon, kérjük tolja.",
-            "ro": "Ciclismul este restricționat pe Stradun ziua, vă rugăm să mergeți pe lângă.",
-            "en": "Cycling is restricted on Stradun during the day, please push."
+            "de": "Fahren Sie entlang der autofreien Promenade direkt am Wasser.",
+            "hu": "Tekerjen a vízparti sétányon, ahol nincsenek autók.",
+            "ro": "Mergeți cu bicicleta pe faleza fără mașini, chiar lângă apă.",
+            "en": "Ride along the car-free promenade right by the water."
           }
         },
         {
-          "name": "Onofrio-Brunnen",
+          "name": {
+            "de": "Babin Kuk Küstenweg",
+            "hu": "Babin Kuk part menti út",
+            "ro": "Traseul de coastă Babin Kuk",
+            "en": "Babin Kuk Coastal Path"
+          },
           "coords": [
-            18.1072,
-            42.6415
+            18.063,
+            42.665
           ],
-          "category": "monuments/statues",
-          "arrive_at": "09:17",
-          "stay_min": 15,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Ein idealer Treffpunkt vor der Tour entlang der Küste.",
-            "hu": "Ideális találkozási pont a tengerparti túra előtt.",
-            "ro": "Un punct de întâlnire ideal înainte de turul pe coastă.",
-            "en": "An ideal meeting point before the coastal tour starts."
+            "de": "Genießen Sie den Schatten der Pinien und den Blick auf die Elaphiten.",
+            "hu": "Élvezze a fenyők árnyékát és az elaphiti-szigetek látványát.",
+            "ro": "Bucurați-vă de umbra pinilor și de vederea spre insulele Elafite.",
+            "en": "Enjoy the pine shade and the view of the Elaphite Islands."
           }
         },
         {
-          "name": "Franziskanerkloster",
+          "name": {
+            "de": "Copacabana Beach",
+            "hu": "Copacabana strand",
+            "ro": "Plaja Copacabana",
+            "en": "Copacabana Beach"
+          },
           "coords": [
-            18.1075,
-            42.6416
+            18.071,
+            42.668
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:34",
-          "stay_min": 30,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
+          "category": "beach",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Stellen Sie Ihr Rad sicher am Pile-Tor ab.",
-            "hu": "Hagyja kerékpárját biztonságos helyen a Pile-kapunál.",
-            "ro": "Lăsați bicicleta într-un loc sigur lângă Poarta Pile.",
-            "en": "Park your bike securely near the Pile Gate area."
+            "de": "Eine Pause für ein erfrischendes Bad im kristallklaren Meer.",
+            "hu": "Ideális hely egy frissítő csobbanásra a kristálytiszta tengerben.",
+            "ro": "O pauză pentru o baie răcoritoare în marea de cristal.",
+            "en": "A break for a refreshing dip in the crystal-clear sea."
           }
         },
         {
-          "name": "Festung Lovrijenac",
+          "name": {
+            "de": "Gruž Markt",
+            "hu": "Gruž piac",
+            "ro": "Piața Gruž",
+            "en": "Gruž Market"
+          },
           "coords": [
-            18.1054,
-            42.6411
+            18.085,
+            42.658
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "10:10",
-          "stay_min": 45,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.5,
+          "category": "market",
+          "arrive_at": "14:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
           "tip_5lang": {
-            "de": "Der Weg zur Festung bietet tolle Fotomotive von Pile.",
-            "hu": "Az erődhöz vezető út kiváló fotótémát kínál Pile környékén.",
-            "ro": "Drumul spre cetate oferă oportunități foto excelente.",
-            "en": "The path to the fort offers great photo ops of Pile area."
+            "de": "Kaufen Sie frisches Obst direkt von den lokalen Bauern.",
+            "hu": "Vásároljon friss gyümölcsöt közvetlenül a helyi termelőktől.",
+            "ro": "Cumpărați fructe proaspete direct de la producătorii locali.",
+            "en": "Buy fresh fruit directly from local farmers."
           }
         },
         {
-          "name": "Berg Srđ",
+          "name": {
+            "de": "Pantrul",
+            "hu": "Pantrul",
+            "ro": "Pantrul",
+            "en": "Pantrul"
+          },
           "coords": [
-            18.1115,
-            42.6495
+            18.078,
+            42.655
           ],
-          "category": "natural features",
-          "arrive_at": "11:35",
-          "stay_min": 60,
-          "hop_from_prev_min": 40,
-          "hop_from_prev_km": 4.5,
+          "category": "gastro",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Nur für erfahrene Radfahrer; der Aufstieg ist steil und windig.",
-            "hu": "Csak tapasztalt bringásoknak; az emelkedő meredek és szeles.",
-            "ro": "Doar pentru bicicliști experimentați; urcarea este abruptă.",
-            "en": "Only for experienced cyclists; the climb is steep and windy."
-          }
-        },
-        {
-          "name": "Stadtmauern von Dubrovnik",
-          "coords": [
-            18.108,
-            42.6418
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "13:00",
-          "stay_min": 30,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 3.3,
-          "tip_5lang": {
-            "de": "Besuchen Sie den Eingang nach der Abfahrt vom Berg.",
-            "hu": "Látogasson el a bejárathoz a hegyi legurulás után.",
-            "ro": "Vizitați intrarea după coborârea de pe munte.",
-            "en": "Visit the entrance after descending from the mountain."
+            "de": "Moderne kroatische Küche abseits der Touristenpfade.",
+            "hu": "Modern horvát konyha a turistautaktól távol.",
+            "ro": "Bucătărie croată modernă departe de traseele turistice.",
+            "en": "Modern Croatian cuisine away from the tourist crowds."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Radtour rund um die historische Altstadt, startend am Stradun. Fahrt zur imposanten Festung Lovrijenac und entlang der Westküste. Anspruchsvoller Aufstieg mit dem Rad über Serpentinen zum Gipfel des Berges Srđ. Abendliches Panorama über die gesamte Küstenregion von oben genießen.",
-        "hu": "Kerékpáros túra az óváros körül, a Stradun és a Pile-kapu érintésével. Gurulás a Lovrijenac-erődhöz, majd tovább a nyugati part mentén. Kihívást jelentő feltekerés a Srđ-hegy csúcsára a szerpentineken. Esti panoráma a teljes tengerparti régióra a hegytetőről.",
-        "ro": "Tur cu bicicleta în jurul cetății, pornind de la faimosul Stradun. Pedalăm spre Cetatea Lovrijenac și de-a lungul coastei de vest. Urcare provocatoare cu bicicleta pe serpentinele Muntelui Srđ. Panoramă de seară asupra întregii regiuni de coastă de pe vârf.",
-        "en": "Cycling tour around the Old Town, starting at the historic Stradun. Ride to Fort Lovrijenac and along the scenic western coastline. Challenging bike climb up the winding roads to the summit of Mount Srd. Enjoy evening panoramic views over the coastal region from the peak."
+        "de": "Starten Sie Ihre Radtour in der entspannten Lapad-Bucht, wo Sie entlang der Küste ohne Autoverkehr radeln können. Der Weg führt Sie um die Halbinsel Babin Kuk, vorbei an versteckten Buchten und duftenden Pinienwäldern. \n\nMittags erreichen Sie den Copacabana-Strand für ein langes Sonnenbad im kristallklaren Wasser der Adria. \n\nAm Nachmittag fahren Sie zum Hafen von Gruž, um das geschäftige Treiben auf dem lokalen Markt zu erleben. \n\nDen Tag beenden Sie mit einem modernen Abendessen im Lapad-Viertel, wo kreative Köche traditionelle Zutaten neu interpretieren.",
+        "hu": "Kezdje a biciklis túrát a hangulatos Lapad-öbölben, ahol forgalommentes sétányon tekerhet közvetlenül a víz mellett. Az út a Babin Kuk félsziget körül vezet, eldugott öblök és illatos fenyőerdők mellett. \n\nDélben elérjük a Copacabana strandot egy hosszú fürdőzésre az Adria kristálytiszta vizében. \n\nDélután a Gruž-kikötő felé vesszük az irányt, hogy átéljük a helyi piac nyüzsgését és friss árukat keressünk. \n\nA napot egy modern horvát vacsorával zárjuk Lapad negyedben, távol az óváros tömegétől.",
+        "ro": "Începeți turul cu bicicleta în golful relaxat Lapad, unde puteți pedala pe faleză fără trafic auto, chiar lângă apă. Drumul vă poartă în jurul peninsulei Babin Kuk, pe lângă golfuri ascunse și păduri de pini parfumate. \n\nLa prânz ajungem la plaja Copacabana pentru o baie prelungită în apele cristaline ale Adriaticii. \n\nDupă-amiaza pedalăm spre portul Gruž pentru a simți agitația pieței locale și a descoperi arome autentice. \n\nÎncheiem ziua cu o cină modernă în cartierul Lapad, savurând preparate croate reinterpretate.",
+        "en": "Start your bike tour in the relaxed Lapad Bay, cycling along the waterfront without any traffic. The path takes you around the Babin Kuk peninsula, passing hidden coves and fragrant pine forests. \n\nAt midday, reach Copacabana Beach for a long swim and sunbathing session in the crystal-clear Adriatic. \n\nIn the afternoon, ride toward Gruž Harbor to experience the bustle of the local market and find fresh produce. \n\nEnd your day with a modern Croatian dinner in the Lapad district, enjoying creative dishes away from the tourist center."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Dirty Macaroni",
-            "tip": "Herzhaftes Nudelgericht im Bistro Tavulin."
-          },
-          {
-            "name": "Lokale Weine",
-            "tip": "Probieren Sie Plavac Mali in der D'Vino Wine Bar."
+            "name": "Glorijet",
+            "tip": "Frischer Fisch am Hafen von Gruž."
           }
         ],
         "hu": [
           {
-            "name": "Makaruli",
-            "tip": "Házias tésztaétel húsmártással a Tavulin bisztróban."
-          },
-          {
-            "name": "Helyi borok",
-            "tip": "Kóstolja meg a Plavac Mali-t a D'Vino borbárban."
+            "name": "Glorijet",
+            "tip": "Friss halételek a Gruž-kikötőnél."
           }
         ],
         "ro": [
           {
-            "name": "Dirty Macaroni",
-            "tip": "Paste tradiționale cu carne la Bistro Tavulin."
-          },
-          {
-            "name": "Vinuri locale",
-            "tip": "Încercați Plavac Mali la D'Vino Wine Bar."
+            "name": "Glorijet",
+            "tip": "Pește proaspăt lângă portul Gruž."
           }
         ],
         "en": [
           {
-            "name": "Dirty Macaroni",
-            "tip": "Hearty pasta dish with meat at Bistro Tavulin."
-          },
-          {
-            "name": "Local Wines",
-            "tip": "Try Plavac Mali at D'Vino Wine Bar."
+            "name": "Glorijet",
+            "tip": "Fresh fish by the Gruž Harbor."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Park Orsula",
-            "tip": "Ein Amphitheater mit grandiosem Blick auf die Stadt.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sveti Jakov",
-            "tip": "Ruhiger Strand etwas abseits des Zentrums.",
-            "emoji": "🏖️"
+            "name": "Lozica",
+            "tip": "Ruhiger Blick auf die Franjo-Tuđman-Brücke.",
+            "emoji": "🌉"
           }
         ],
         "hu": [
           {
-            "name": "Orsula Park",
-            "tip": "Amfiteátrum fantasztikus kilátással a városra.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sveti Jakov",
-            "tip": "Csendes strand kicsit távolabb a központtól.",
-            "emoji": "🏖️"
+            "name": "Lozica",
+            "tip": "Csendes kilátás a Franjo Tuđman hídra.",
+            "emoji": "🌉"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Orsula",
-            "tip": "Amfiteatru cu o vedere grandioasă asupra orașului.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sveti Jakov",
-            "tip": "Plajă liniștită, situată mai departe de centru.",
-            "emoji": "🏖️"
+            "name": "Lozica",
+            "tip": "Vedere liniștită spre podul Franjo Tuđman.",
+            "emoji": "🌉"
           }
         ],
         "en": [
           {
-            "name": "Orsula Park",
-            "tip": "An amphitheater with a grand view of the city.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sveti Jakov",
-            "tip": "Quiet beach located a bit away from the center.",
-            "emoji": "🏖️"
+            "name": "Lozica",
+            "tip": "Quiet view of the Franjo Tuđman Bridge.",
+            "emoji": "🌉"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Dubrovnik House",
-            "tip": "Handgefertigte Keramik und lokale Olivenöle."
-          },
-          {
-            "name": "Tilda",
-            "tip": "Einzigartige handgefertigte Souvenirs aus Stein."
+            "name": "Gruž Markt",
+            "tip": "Hausgemachtes Olivenöl und Feigen."
           }
         ],
         "hu": [
           {
-            "name": "Dubrovnik House",
-            "tip": "Kézműves kerámiák és helyi olívaolajok."
-          },
-          {
-            "name": "Tilda",
-            "tip": "Egyedi, kézzel faragott kő szuvenírek."
+            "name": "Gruž piac",
+            "tip": "Házi olívaolaj és füge."
           }
         ],
         "ro": [
           {
-            "name": "Dubrovnik House",
-            "tip": "Ceramică artizanală și uleiuri de măsline locale."
-          },
-          {
-            "name": "Tilda",
-            "tip": "Suveniruri unice realizate manual din piatră."
+            "name": "Piața Gruž",
+            "tip": "Ulei de măsline de casă și smochine."
           }
         ],
         "en": [
           {
-            "name": "Dubrovnik House",
-            "tip": "Handmade ceramics and local olive oils."
-          },
-          {
-            "name": "Tilda",
-            "tip": "Unique handcrafted stone souvenirs."
+            "name": "Gruž Market",
+            "tip": "Homemade olive oil and figs."
           }
         ]
       },
       "tips": {
         "de": [
-          "Mieten Sie ein E-Bike für den Aufstieg zum Berg Srđ.",
-          "Sichern Sie Ihr Fahrrad immer an festen Ständern.",
-          "Vorsicht vor dem starken Verkehr auf der Magistrale.",
-          "Nehmen Sie ausreichend Wasser für die Bergfahrt mit."
+          "Nutzen Sie die Radwege in Babin Kuk.",
+          "Mieten Sie ein E-Bike für die Steigungen."
         ],
         "hu": [
-          "Béreljen elektromos kerékpárt a Srđ-hegyi emelkedőhöz.",
-          "Mindig rögzítse kerékpárját stabil támasztékhoz.",
-          "Vigyázzon az erős forgalomra a főútvonalakon.",
-          "Vigyen bőséges vizet a hegyi szakaszokra."
+          "Használja a kiépített kerékpárutakat Babin Kuknál.",
+          "Béreljen elektromos bringát az emelkedők miatt."
         ],
         "ro": [
-          "Închiriați o bicicletă electrică pentru urcarea pe munte.",
-          "Asigurați întotdeauna bicicleta de un suport fix.",
-          "Atenție la traficul intens pe drumul principal.",
-          "Luați suficientă apă pentru porțiunile de urcare."
+          "Folosiți pistele de biciclete din Babin Kuk.",
+          "Închiriați o bicicletă electrică pentru dealuri."
         ],
         "en": [
-          "Rent an e-bike for the climb to Mount Srd.",
-          "Always secure your bike to a fixed stand.",
-          "Watch out for heavy traffic on the main coastal road.",
-          "Take plenty of water for the uphill sections."
+          "Use the dedicated bike paths in Babin Kuk.",
+          "Rent an e-bike for the hilly sections."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Radtour rund um die historische Altstadt, startend am Stradun. Fahrt zur imposanten Festung Lovrijenac und entlang der Westküste. Anspruchsvoller Aufstieg mit dem Rad über Serpentinen zum Gipfel des Berges Srđ. Abendliches Panorama über die gesamte Küstenregion von oben genießen.",
-            "hu": "Kerékpáros túra az óváros körül, a Stradun és a Pile-kapu érintésével. Gurulás a Lovrijenac-erődhöz, majd tovább a nyugati part mentén. Kihívást jelentő feltekerés a Srđ-hegy csúcsára a szerpentineken. Esti panoráma a teljes tengerparti régióra a hegytetőről.",
-            "ro": "Tur cu bicicleta în jurul cetății, pornind de la faimosul Stradun. Pedalăm spre Cetatea Lovrijenac și de-a lungul coastei de vest. Urcare provocatoare cu bicicleta pe serpentinele Muntelui Srđ. Panoramă de seară asupra întregii regiuni de coastă de pe vârf.",
-            "en": "Cycling tour around the Old Town, starting at the historic Stradun. Ride to Fort Lovrijenac and along the scenic western coastline. Challenging bike climb up the winding roads to the summit of Mount Srd. Enjoy evening panoramic views over the coastal region from the peak."
-          },
-          "stops": [
-            {
-              "name": "Stradun",
-              "tip_5lang": {
-                "de": "Radfahren ist im Stradun tagsüber eingeschränkt, bitte schieben.",
-                "hu": "Napközben tilos kerékpározni a Stradunon, kérjük tolja.",
-                "ro": "Ciclismul este restricționat pe Stradun ziua, vă rugăm să mergeți pe lângă.",
-                "en": "Cycling is restricted on Stradun during the day, please push."
-              }
-            },
-            {
-              "name": "Onofrio-Brunnen",
-              "tip_5lang": {
-                "de": "Ein idealer Treffpunkt vor der Tour entlang der Küste.",
-                "hu": "Ideális találkozási pont a tengerparti túra előtt.",
-                "ro": "Un punct de întâlnire ideal înainte de turul pe coastă.",
-                "en": "An ideal meeting point before the coastal tour starts."
-              }
-            },
-            {
-              "name": "Franziskanerkloster",
-              "tip_5lang": {
-                "de": "Stellen Sie Ihr Rad sicher am Pile-Tor ab.",
-                "hu": "Hagyja kerékpárját biztonságos helyen a Pile-kapunál.",
-                "ro": "Lăsați bicicleta într-un loc sigur lângă Poarta Pile.",
-                "en": "Park your bike securely near the Pile Gate area."
-              }
-            },
-            {
-              "name": "Festung Lovrijenac",
-              "tip_5lang": {
-                "de": "Der Weg zur Festung bietet tolle Fotomotive von Pile.",
-                "hu": "Az erődhöz vezető út kiváló fotótémát kínál Pile környékén.",
-                "ro": "Drumul spre cetate oferă oportunități foto excelente.",
-                "en": "The path to the fort offers great photo ops of Pile area."
-              }
-            },
-            {
-              "name": "Berg Srđ",
-              "tip_5lang": {
-                "de": "Nur für erfahrene Radfahrer; der Aufstieg ist steil und windig.",
-                "hu": "Csak tapasztalt bringásoknak; az emelkedő meredek és szeles.",
-                "ro": "Doar pentru bicicliști experimentați; urcarea este abruptă.",
-                "en": "Only for experienced cyclists; the climb is steep and windy."
-              }
-            },
-            {
-              "name": "Stadtmauern von Dubrovnik",
-              "tip_5lang": {
-                "de": "Besuchen Sie den Eingang nach der Abfahrt vom Berg.",
-                "hu": "Látogasson el a bejárathoz a hegyi legurulás után.",
-                "ro": "Vizitați intrarea după coborârea de pe munte.",
-                "en": "Visit the entrance after descending from the mountain."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Dirty Macaroni",
-                "tip": "Herzhaftes Nudelgericht im Bistro Tavulin."
-              },
-              {
-                "name": "Lokale Weine",
-                "tip": "Probieren Sie Plavac Mali in der D'Vino Wine Bar."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Makaruli",
-                "tip": "Házias tésztaétel húsmártással a Tavulin bisztróban."
-              },
-              {
-                "name": "Helyi borok",
-                "tip": "Kóstolja meg a Plavac Mali-t a D'Vino borbárban."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Dirty Macaroni",
-                "tip": "Paste tradiționale cu carne la Bistro Tavulin."
-              },
-              {
-                "name": "Vinuri locale",
-                "tip": "Încercați Plavac Mali la D'Vino Wine Bar."
-              }
-            ],
-            "en": [
-              {
-                "name": "Dirty Macaroni",
-                "tip": "Hearty pasta dish with meat at Bistro Tavulin."
-              },
-              {
-                "name": "Local Wines",
-                "tip": "Try Plavac Mali at D'Vino Wine Bar."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Park Orsula",
-                "tip": "Ein Amphitheater mit grandiosem Blick auf die Stadt.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Sveti Jakov",
-                "tip": "Ruhiger Strand etwas abseits des Zentrums.",
-                "emoji": "🏖️"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Orsula Park",
-                "tip": "Amfiteátrum fantasztikus kilátással a városra.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Sveti Jakov",
-                "tip": "Csendes strand kicsit távolabb a központtól.",
-                "emoji": "🏖️"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Parcul Orsula",
-                "tip": "Amfiteatru cu o vedere grandioasă asupra orașului.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Sveti Jakov",
-                "tip": "Plajă liniștită, situată mai departe de centru.",
-                "emoji": "🏖️"
-              }
-            ],
-            "en": [
-              {
-                "name": "Orsula Park",
-                "tip": "An amphitheater with a grand view of the city.",
-                "emoji": "🌅"
-              },
-              {
-                "name": "Sveti Jakov",
-                "tip": "Quiet beach located a bit away from the center.",
-                "emoji": "🏖️"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Dubrovnik House",
-                "tip": "Handgefertigte Keramik und lokale Olivenöle."
-              },
-              {
-                "name": "Tilda",
-                "tip": "Einzigartige handgefertigte Souvenirs aus Stein."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Dubrovnik House",
-                "tip": "Kézműves kerámiák és helyi olívaolajok."
-              },
-              {
-                "name": "Tilda",
-                "tip": "Egyedi, kézzel faragott kő szuvenírek."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Dubrovnik House",
-                "tip": "Ceramică artizanală și uleiuri de măsline locale."
-              },
-              {
-                "name": "Tilda",
-                "tip": "Suveniruri unice realizate manual din piatră."
-              }
-            ],
-            "en": [
-              {
-                "name": "Dubrovnik House",
-                "tip": "Handmade ceramics and local olive oils."
-              },
-              {
-                "name": "Tilda",
-                "tip": "Unique handcrafted stone souvenirs."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Mieten Sie ein E-Bike für den Aufstieg zum Berg Srđ.",
-              "Sichern Sie Ihr Fahrrad immer an festen Ständern.",
-              "Vorsicht vor dem starken Verkehr auf der Magistrale.",
-              "Nehmen Sie ausreichend Wasser für die Bergfahrt mit."
-            ],
-            "hu": [
-              "Béreljen elektromos kerékpárt a Srđ-hegyi emelkedőhöz.",
-              "Mindig rögzítse kerékpárját stabil támasztékhoz.",
-              "Vigyázzon az erős forgalomra a főútvonalakon.",
-              "Vigyen bőséges vizet a hegyi szakaszokra."
-            ],
-            "ro": [
-              "Închiriați o bicicletă electrică pentru urcarea pe munte.",
-              "Asigurați întotdeauna bicicleta de un suport fix.",
-              "Atenție la traficul intens pe drumul principal.",
-              "Luați suficientă apă pentru porțiunile de urcare."
-            ],
-            "en": [
-              "Rent an e-bike for the climb to Mount Srd.",
-              "Always secure your bike to a fixed stand.",
-              "Watch out for heavy traffic on the main coastal road.",
-              "Take plenty of water for the uphill sections."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Eine Radtour durch Dubrovnik im Regen erfordert Vorsicht auf dem Stradun. Starten Sie vorsichtig am Onofrio-Brunnen und besuchen Sie das Franziskanerkloster für eine Pause. Die Fahrt zur Festung Lovrijenac bietet trotz Nässe tolle Ausblicke. Der Aufstieg zum Berg Srđ ist bei Regen anstrengend, aber die Wolkenstimmung über der Stadt ist einzigartig. Beenden Sie die Tour an den Stadtmauern, wo Sie Ihr Rad sicher abstellen und den Blick genießen können.",
-            "hu": "Egy esős biciklis túra Dubrovnikban óvatosságot igényel a Stradunon. Kezdjen figyelmesen az Onofrio-kútnál, majd pihenjen meg a Ferences kolostorban. A Lovrijenac-erődhöz vezető út a nedvesség ellenére szép kilátást nyújt. A Srđ-hegyre való feljutás esőben fárasztó, de a felhők játéka a város felett egyedülálló. Zárja a túrát a városfalaknál, ahol biztonságban leparkolhatja a kerékpárt.",
-            "ro": "O tură cu bicicleta prin Dubrovnik pe ploaie necesită prudență pe Stradun. Începeți cu atenție la Fântâna lui Onofrio și vizitați Mănăstirea Franciscană pentru o pauză. Drumul către Cetatea Lovrijenac oferă priveliști frumoase în ciuda umezelii. Urcarea pe Muntele Srđ este obositoare pe ploaie, dar atmosfera norilor peste oraș este unică. Încheiați turul la zidurile orașului.",
-            "en": "A bike tour through Dubrovnik in the rain requires caution on the Stradun. Start carefully at Onofrio's Fountain and visit the Franciscan Monastery for a break. The ride to Lovrijenac Fortress offers great views despite the wet. Climbing Mount Srđ in the rain is tiring, but the cloud atmosphere over the city is unique. End the tour at the City Walls where you can park safely."
-          },
-          "stops": [
-            {
-              "name": "Stradun",
-              "tip_5lang": {
-                "de": "Extrem rutschig bei Regen, schieben Sie Ihr Rad lieber hier.",
-                "hu": "Esőben rendkívül csúszós, inkább tolja itt a kerékpárt.",
-                "ro": "Extrem de alunecos pe ploaie, mai bine mergeți pe lângă bicicletă.",
-                "en": "Extremely slippery in the rain, better to push your bike here."
-              }
-            },
-            {
-              "name": "Onofrio-Brunnen",
-              "tip_5lang": {
-                "de": "Ein guter Treffpunkt mit etwas Schutz unter den Vorsprüngen.",
-                "hu": "Jó találkozási pont, némi védelemmel a párkányok alatt.",
-                "ro": "Un punct de întâlnire bun, cu puțin adăpost sub cornișe.",
-                "en": "A good meeting point with some shelter under the ledges."
-              }
-            },
-            {
-              "name": "Franziskanerkloster",
-              "tip_5lang": {
-                "de": "Parken Sie das Rad draußen und nutzen Sie die Innenruhe.",
-                "hu": "Parkolja le kint a biciklit, és élvezze a benti nyugalmat.",
-                "ro": "Parcați bicicleta afară și bucurați-vă de liniștea din interior.",
-                "en": "Park your bike outside and enjoy the peace inside."
-              }
-            },
-            {
-              "name": "Festung Lovrijenac",
-              "tip_5lang": {
-                "de": "Der Anstieg ist steil, bei Nässe auf die Bremsen achten.",
-                "hu": "Az emelkedő meredek, nedves úton figyeljen a fékekre.",
-                "ro": "Urcarea este abruptă, atenție la frâne pe carosabil umed.",
-                "en": "The climb is steep, pay attention to brakes on wet roads."
-              }
-            },
-            {
-              "name": "Berg Srđ",
-              "tip_5lang": {
-                "de": "Die Seilbahn ist bei starkem Regen oft die bessere Wahl.",
-                "hu": "Heves esőben a felvonó gyakran jobb választás.",
-                "ro": "Telecabina este adesea o alegere mai bună în caz de ploaie torențială.",
-                "en": "The cable car is often a better choice during heavy rain."
-              }
-            },
-            {
-              "name": "Stadtmauern von Dubrovnik",
-              "tip_5lang": {
-                "de": "Räder sind auf den Mauern verboten, unten sicher anschließen.",
-                "hu": "A falakon tilos biciklizni, lent láncolja le biztonságosan.",
-                "ro": "Bicicletele sunt interzise pe ziduri, legați-le sigur jos.",
-                "en": "Bikes are forbidden on the walls, lock them securely below."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung.",
-              "Vermeiden Sie abrupte Bremsmanöver auf dem polierten Stein.",
-              "Prüfen Sie vor dem Berg Srđ die Windgeschwindigkeit oben.",
-              "Ein Schutzblech ist bei den Pfützen in der Altstadt essenziell."
-            ],
-            "hu": [
-              "Használjon vízálló táskákat a felszereléséhez.",
-              "Kerülje a hirtelen fékezést a polírozott köveken.",
-              "A Srđ-hegy előtt ellenőrizze a szélsebességet fent.",
-              "A sárvédő elengedhetetlen az óvárosi tócsák miatt."
-            ],
-            "ro": [
-              "Folosiți genți impermeabile pentru echipament.",
-              "Evitați frânările bruște pe pietrele lustruite.",
-              "Verificați viteza vântului sus înainte de Muntele Srđ.",
-              "O apărătoare este esențială pentru bălțile din orașul vechi."
-            ],
-            "en": [
-              "Use waterproof panniers for your gear.",
-              "Avoid abrupt braking maneuvers on the polished stone.",
-              "Check the wind speed at the top before Mount Srđ.",
-              "A mudguard is essential for the puddles in the Old Town."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Radfahren im winterlichen Dubrovnik ist erfrischend. Starten Sie auf dem fast leeren Stradun und bewundern Sie den Onofrio-Brunnen. Nach einem Besuch im Franziskanerkloster radeln Sie zur Festung Lovrijenac. Der Berg Srđ bietet im Winter die klarste Sicht des Jahres auf die Elaphiten-Inseln. Nutzen Sie die kühle Luft für den sportlichen Aufstieg, bevor Sie Ihre Tour an den imposanten Stadtmauern abschließen, die im tiefen Sonnenstand dramatische Schatten werfen.",
-            "hu": "A kerékpározás a téli Dubrovnikban frissítő élmény. Kezdjen a szinte üres Stradunon, és csodálja meg az Onofrio-kutat. A Ferences kolostor után tekerjen el a Lovrijenac-erődhöz. A Srđ-hegy télen kínálja az év legtisztább kilátását az Elaphiti-szigetekre. Használja ki a hűvös levegőt a sportos emelkedőhöz, mielőtt a túrát a várfalaknál zárná, melyek a lapos napszögben drámai árnyékokat vetnek.",
-            "ro": "Mersul pe bicicletă în Dubrovnik iarna este revigorant. Începeți pe Stradunul aproape gol și admirați Fântâna lui Onofrio. După o vizită la Mănăstirea Franciscană, pedalați spre Cetatea Lovrijenac. Muntele Srđ oferă cea mai clară vedere din an asupra insulelor Elafiti. Profitați de aerul rece pentru urcarea sportivă, înainte de a încheia la zidurile orașului.",
-            "en": "Cycling in wintry Dubrovnik is refreshing. Start on the nearly empty Stradun and admire Onofrio's Fountain. After a visit to the Franciscan Monastery, cycle to Lovrijenac Fortress. Mount Srđ offers the clearest view of the year over the Elaphiti Islands in winter. Use the cool air for the sporty climb before finishing at the imposing City Walls."
-          },
-          "stops": [
-            {
-              "name": "Stradun",
-              "tip_5lang": {
-                "de": "Genießen Sie die freie Fahrt ohne Fußgängermassen am Morgen.",
-                "hu": "Élvezze a szabad utat gyalogosforgalom nélkül reggel.",
-                "ro": "Bucurați-vă de drumul liber fără mulțimi de pietoni dimineața.",
-                "en": "Enjoy the free ride without pedestrian crowds in the morning."
-              }
-            },
-            {
-              "name": "Onofrio-Brunnen",
-              "tip_5lang": {
-                "de": "Das Wasser ist im Winter eiskalt, Vorsicht beim Händewaschen.",
-                "hu": "A víz télen jéghideg, vigyázzon a kézmosásnál.",
-                "ro": "Apa este înghețată iarna, atenție când vă spălați pe mâini.",
-                "en": "The water is ice cold in winter, be careful washing hands."
-              }
-            },
-            {
-              "name": "Franziskanerkloster",
-              "tip_5lang": {
-                "de": "Ein ruhiger Ort, um die Handschuhe kurz auszuziehen.",
-                "hu": "Csendes hely, ahol rövid időre leveheti a kesztyűt.",
-                "ro": "Un loc liniștit pentru a vă scoate mănușile pentru scurt timp.",
-                "en": "A quiet place to take off your gloves for a moment."
-              }
-            },
-            {
-              "name": "Festung Lovrijenac",
-              "tip_5lang": {
-                "de": "Parken Sie windgeschützt hinter den massiven Mauern.",
-                "hu": "Parkoljon szélvédett helyen a masszív falak mögött.",
-                "ro": "Parcați ferit de vânt în spatele zidurilor masive.",
-                "en": "Park sheltered from the wind behind the massive walls."
-              }
-            },
-            {
-              "name": "Berg Srđ",
-              "tip_5lang": {
-                "de": "Ziehen Sie für die Abfahrt eine winddichte Jacke an.",
-                "hu": "A lejtmenethez vegyen fel szélálló kabátot.",
-                "ro": "Puneți-vă o jachetă rezistentă la vânt pentru coborâre.",
-                "en": "Put on a windproof jacket for the descent."
-              }
-            },
-            {
-              "name": "Stadtmauern von Dubrovnik",
-              "tip_5lang": {
-                "de": "Die Mauern schließen im Winter früher, meist um 15:00 Uhr.",
-                "hu": "A falak télen korábban zárnak, általában 15:00-kor.",
-                "ro": "Zidurile se închid mai devreme iarna, de obicei la ora 15:00.",
-                "en": "The walls close earlier in winter, usually at 3:00 PM."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Tragen Sie warme Handschuhe, der Fahrtwind ist im Winter kalt.",
-              "Beleuchtung am Rad ist wichtig, da es ab 16:30 Uhr dunkel wird.",
-              "Die Bergstraße zum Srđ kann im Schatten Reifglätte aufweisen.",
-              "Suchen Sie Cafés mit Heizstrahlern für die Pause."
-            ],
-            "hu": [
-              "Viseljen meleg kesztyűt, a menetszél télen hideg.",
-              "A világítás fontos, mivel 16:30 után sötétedik.",
-              "A Srđ-re vezető hegyi úton az árnyékos részeken zúzmara lehet.",
-              "Keressen hősugárzóval felszerelt kávézókat a pihenéshez."
-            ],
-            "ro": [
-              "Purtați mănuși calde, curentul de aer este rece iarna.",
-              "Iluminarea bicicletei este importantă, se întunecă după ora 16:30.",
-              "Drumul montan spre Srđ poate avea polei în zonele umbrite.",
-              "Căutați cafenele cu radiatoare pentru pauză."
-            ],
-            "en": [
-              "Wear warm gloves, the wind chill is cold in winter.",
-              "Bike lighting is important as it gets dark after 4:30 PM.",
-              "The mountain road to Srđ can have frost in shaded areas.",
-              "Look for cafes with patio heaters for your break."
-            ]
-          }
-        }
       }
     },
     "car": {
       "mode": "car",
-      "speed_kmh": 22,
+      "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "14:30",
-      "total_km": 12.0,
-      "stop_count": 6,
+      "end_estimate": "17:30",
+      "total_km": 45.0,
+      "stop_count": 8,
       "stops": [
         {
-          "name": "Stadtmauern von Dubrovnik",
+          "name": {
+            "de": "Pile-Tor (Altstadt)",
+            "hu": "Pile-kapu (Óváros)",
+            "ro": "Poarta Pile (Orașul Vechi)",
+            "en": "Pile Gate (Old Town)"
+          },
           "coords": [
-            18.108,
-            42.6418
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Parken Sie im Parkhaus Ilijina Glavica für Fußweg zur Altstadt.",
-            "hu": "Parkoljon az Ilijina Glavica parkolóházban az óváros megközelítéséhez.",
-            "ro": "Parcați la suprafață sau în parcarea Ilijina Glavica.",
-            "en": "Park at Ilijina Glavica garage for easy walk to Old Town."
-          }
-        },
-        {
-          "name": "Rektorenpalast",
-          "coords": [
-            18.1105,
-            42.6405
-          ],
-          "category": "museums",
-          "arrive_at": "10:35",
-          "stay_min": 60,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Ein Muss für Geschichtsliebhaber im Herzen der Stadt.",
-            "hu": "Történelemkedvelőknek kötelező látnivaló a város szívében.",
-            "ro": "O vizită obligatorie pentru iubitorii de istorie.",
-            "en": "A must-visit for history lovers in the city heart."
-          }
-        },
-        {
-          "name": "St.-Blaise-Kirche",
-          "coords": [
-            18.1103,
-            42.6409
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:38",
-          "stay_min": 30,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Bewundern Sie die vergoldete Statue des Stadtpatrons.",
-            "hu": "Csodálja meg a város védőszentjének aranyozott szobrát.",
-            "ro": "Admirați statuia aurită a sfântului protector al orașului.",
-            "en": "Admire the gilded statue of the city's patron saint."
-          }
-        },
-        {
-          "name": "Kathedrale von Dubrovnik",
-          "coords": [
-            18.1104,
-            42.6401
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "12:11",
-          "stay_min": 30,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Berühmt für das Tizian-Triptychon hinter dem Altar.",
-            "hu": "Híres a főoltár mögötti Tiziano-triptichonról.",
-            "ro": "Celebră pentru tripticul lui Titian din spatele altarului.",
-            "en": "Famous for the Titian triptych behind the main altar."
-          }
-        },
-        {
-          "name": "Berg Srđ",
-          "coords": [
-            18.1115,
-            42.6495
-          ],
-          "category": "natural features",
-          "arrive_at": "13:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 19,
-          "hop_from_prev_km": 7.0,
-          "tip_5lang": {
-            "de": "Fahren Sie vorsichtig auf der schmalen Panoramastraße.",
-            "hu": "Vezessen óvatosan a keskeny panorámaúton.",
-            "ro": "Conduceți cu atenție pe drumul panoramic îngust.",
-            "en": "Drive carefully on the narrow panoramic road."
-          }
-        },
-        {
-          "name": "Sponza-Palast",
-          "coords": [
-            18.1102,
+            18.1066,
             42.6412
           ],
-          "category": "famous residences",
-          "arrive_at": "14:15",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 4.5,
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Besuch des historischen Archivs im Erdgeschoss.",
-            "hu": "Látogasson el a földszinten található történelmi levéltárba.",
-            "ro": "Vizitați arhivele istorice situate la parter.",
-            "en": "Visit the historic archives located on the ground floor."
+            "de": "Parken Sie im Dubrovnik Center Garage und gehen Sie 10 Min. zu Fuß.",
+            "hu": "Parkoljon a központi garázsban, majd sétáljon 10 percet a kapuig.",
+            "ro": "Parcați în garajul central și mergeți 10 minute pe jos până la poartă.",
+            "en": "Park in the central garage and walk 10 minutes to the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Stradun",
+            "hu": "Stradun",
+            "ro": "Stradun",
+            "en": "Stradun"
+          },
+          "coords": [
+            18.1085,
+            42.641
+          ],
+          "category": "square",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch das Herz der Altstadt.",
+            "hu": "Rövid séta az óváros szívében, a fényes köveken.",
+            "ro": "O scurtă plimbare prin inima orașului vechi.",
+            "en": "A short walk through the heart of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mount Srđ Aussichtspunkt",
+            "hu": "Srđ-hegy kilátó",
+            "ro": "Punct de belvedere Muntele Srđ",
+            "en": "Mount Srđ Viewpoint"
+          },
+          "coords": [
+            18.11,
+            42.648
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie die schmale Straße hinauf für das beste Panorama.",
+            "hu": "Hajtson fel a keskeny úton a legjobb panorámáért a városra.",
+            "ro": "Urcați pe drumul îngust pentru cea mai bună panoramă.",
+            "en": "Drive up the narrow road for the best panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama Restaurant",
+            "hu": "Panorama étterem",
+            "ro": "Restaurant Panorama",
+            "en": "Panorama Restaurant"
+          },
+          "coords": [
+            18.1102,
+            42.6482
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Mittagessen mit Blick auf die gesamte Küste.",
+            "hu": "Ebéd kilátással az egész tengerpartra és a szigetekre.",
+            "ro": "Prânz cu vedere peste întreaga coastă.",
+            "en": "Lunch with a view over the entire coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Cavtat Promenade",
+            "hu": "Cavtati sétány",
+            "ro": "Faleza Cavtat",
+            "en": "Cavtat Promenade"
+          },
+          "coords": [
+            18.219,
+            42.581
+          ],
+          "category": "harbor",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige Hafenstadt 20 km südlich.",
+            "hu": "Látogassa meg ezt a csendes kikötővárost 20 km-re délre.",
+            "ro": "Vizitați acest oraș port liniștit la 20 km sud.",
+            "en": "Visit this quiet harbor town 20 km to the south."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            18.2185,
+            42.5805
+          ],
+          "category": "religious",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Gemälde von Vlaho Bukovac.",
+            "hu": "Csodálja meg Vlaho Bukovac helyi születésű festő műveit.",
+            "ro": "Admirați picturile lui Vlaho Bukovac.",
+            "en": "Admire the paintings by Vlaho Bukovac."
+          }
+        },
+        {
+          "name": {
+            "de": "Suncana Bucht",
+            "hu": "Suncana-öböl",
+            "ro": "Golful Suncana",
+            "en": "Suncana Bay"
+          },
+          "coords": [
+            18.225,
+            42.578
+          ],
+          "category": "beach",
+          "arrive_at": "15:50",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ausklang am kristallklaren Wasser.",
+            "hu": "Csendes pihenő a kristálytiszta vízparton Cavtat szélén.",
+            "ro": "O relaxare liniștită pe malul apei cristaline.",
+            "en": "A quiet relaxation by the crystal-clear water."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Parken am Pile-Tor für die Besichtigung der Stadtmauern und historischen Paläste. Besuch der Kathedrale und des prunkvollen Rektorenpalastes zu Fuß. Fahrt über die Panoramastraße hinauf zum Gipfel des Berges Srđ. Abschluss mit Blick auf die Insel Lokrum und die weite Adria.",
-        "hu": "Parkolás a Pile-kapunál a városfalak és paloták megtekintéséhez. A Katedrális és a díszes Rektori Palota bejárása gyalogosan. Autózás a panorámaúton a Srđ-hegy legmagasabb pontjáig. Zárás kilátással a Lokrum-szigetre és a végtelen Adriára.",
-        "ro": "Parcare la Poarta Pile pentru vizitarea zidurilor și palatelor istorice. Tur pietonal la Catedrală și la somptuosul Palat al Rectorului. Urcare cu mașina pe drumul panoramic spre vârful Muntelui Srđ. Final cu vedere spre insula Lokrum și marea Adriatică.",
-        "en": "Parking near Pile Gate to visit the historic City Walls and palaces. Walking tour of the Cathedral and the ornate Rector's Palace. Driving along the scenic road up to the summit of Mount Srd. Ending with views of Lokrum Island and the vast Adriatic Sea."
+        "de": "Dieser Tag verbindet die majestätische Altstadt von Dubrovnik mit dem Umland. Morgens erkunden Sie das historische Zentrum zu Fuß, bevor Sie mit dem Auto zum Gipfel des Mount Srđ fahren. \n\nVon dort oben haben Sie den berühmten Blick auf die Insel Lokrum und die gesamte Küstenlinie. Nach einem Panorama-Mittagessen fahren Sie entlang der Küstenstraße nach Süden. \n\nZiel ist das charmante Cavtat, eine ruhigere Alternative zur Metropole. Dort genießen Sie die entspannte Atmosphäre am Hafen und besuchen die barocke Nikolaus-Kirche. \n\nDen Tag schließen Sie an einer ruhigen Bucht ab, fernab der Touristenströme, wo das Wasser besonders klar ist.",
+        "hu": "Ez a nap ötvözi Dubrovnik fenséges óvárosát a környék felfedezésével. Reggel gyalogosan járjuk be a történelmi központot, majd autóval felkapaszkodunk a Srđ-hegy csúcsára. \n\nInnen nyílik a leghíresebb kilátás a Lokrum-szigetre és a városfalakra. Egy panorámás ebéd után a part menti úton délnek indulunk a bájos Cavtat felé. \n\nOtt élvezzük a kikötő nyugodt hangulatát és meglátogatjuk a barokk Szent Miklós-templom műalkotásait. \n\nA napot egy csendes öbölben zárjuk, figyelve a lemenő napot a tiszta vízparton.",
+        "ro": "Această zi îmbină orașul vechi maiestuos cu explorarea împrejurimilor. Dimineața vizităm centrul istoric la pas, apoi urcăm cu mașina pe vârful Muntelui Srđ. \n\nDe acolo aveți celebra vedere spre insula Lokrum și zidurile cetății. După un prânz panoramic, pornim spre sud pe drumul de coastă către fermecătorul Cavtat. \n\nAcolo ne bucurăm de atmosfera relaxată din port și vizităm biserica barocă Sfântul Nicolae. \n\nÎncheiem ziua într-un golf liniștit, departe de agitația turistică, unde marea este de o claritate excepțională.",
+        "en": "This day combines the majestic Old Town of Dubrovnik with a coastal drive to the surroundings. Spend your morning exploring the historic center on foot, then drive up to the summit of Mount Srđ. \n\nFrom the top, you have the famous panorama over Lokrum Island and the city walls. After a scenic lunch, head south along the coastal road to charming Cavtat. \n\nEnjoy the relaxed harbor atmosphere and visit the Baroque St. Nicholas Church with its local artworks. \n\nEnd your day at a quiet local bay, enjoying the crystal-clear water and a peaceful sunset."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Ston-Austern",
-            "tip": "Frische Austern aus der nahen Bucht von Ston bei Kamenice."
-          },
-          {
-            "name": "Lamm am Spieß",
-            "tip": "Traditionelles Fleischgericht in der Konoba Dubrava."
+            "name": "Bugenvila",
+            "tip": "Gehobene Küche direkt an der Promenade von Cavtat."
           }
         ],
         "hu": [
           {
-            "name": "Stoni osztriga",
-            "tip": "Friss osztriga a közeli Ston-öbölből a Kamenice étteremben."
-          },
-          {
-            "name": "Báránysült",
-            "tip": "Hagyományos sült húsétel a Konoba Dubravában."
+            "name": "Bugenvila",
+            "tip": "Kifinomult konyha közvetlenül a cavtati sétányon."
           }
         ],
         "ro": [
           {
-            "name": "Stridii de Ston",
-            "tip": "Stridii proaspete din golful Ston la Kamenice."
-          },
-          {
-            "name": "Miel la proțap",
-            "tip": "Carne tradițională preparată la Konoba Dubrava."
+            "name": "Bugenvila",
+            "tip": "Bucătărie rafinată chiar pe faleza din Cavtat."
           }
         ],
         "en": [
           {
-            "name": "Ston Oysters",
-            "tip": "Fresh oysters from nearby Ston Bay at Kamenice."
-          },
-          {
-            "name": "Lamb on Spit",
-            "tip": "Traditional roasted meat dish at Konoba Dubrava."
+            "name": "Bugenvila",
+            "tip": "Refined cuisine right on the Cavtat promenade."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Trsteno Arboretum",
-            "tip": "Historischer Garten etwa 20 Minuten Fahrt nördlich.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Pasjača Strand",
-            "tip": "Versteckter Strand unter Klippen südlich der Stadt.",
-            "emoji": "🌅"
+            "name": "Račić Mausoleum",
+            "tip": "Ein architektonisches Juwel auf dem Friedhof von Cavtat.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Trsteno Arborétum",
-            "tip": "Történelmi kert 20 percre északra a várostól.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Pasjača-strand",
-            "tip": "Rejtett strand a sziklák alatt a várostól délre.",
-            "emoji": "🌅"
+            "name": "Račić-mauzóleum",
+            "tip": "Építészeti remekmű a cavtati temetőben.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Arboretele Trsteno",
-            "tip": "Grădină istorică la 20 de minute de mers spre nord.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Plaja Pasjača",
-            "tip": "Plajă ascunsă sub stânci, la sud de oraș.",
-            "emoji": "🌅"
+            "name": "Mausoleul Račić",
+            "tip": "O bijuterie arhitecturală în cimitirul din Cavtat.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Trsteno Arboretum",
-            "tip": "Historic garden about 20 minutes drive north.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Pasjača Beach",
-            "tip": "Hidden beach under cliffs south of the city.",
-            "emoji": "🌅"
+            "name": "Račić Mausoleum",
+            "tip": "An architectural gem in the Cavtat cemetery.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Konavle Stickerei",
-            "tip": "Traditionelle Handarbeit aus der Region südlich von Dubrovnik."
-          },
-          {
-            "name": "Olivenöl aus Korčula",
-            "tip": "In lokalen Feinkostläden erhältlich."
+            "name": "Souvenirs in Cavtat",
+            "tip": "Handgefertigte Keramik und Schmuck."
           }
         ],
         "hu": [
           {
-            "name": "Konavlei hímzés",
-            "tip": "Hagyományos kézimunka a Dubrovnik alatti régióból."
-          },
-          {
-            "name": "Olívaolaj Korčuláról",
-            "tip": "Helyi delikátboltokban beszerezhető."
+            "name": "Cavtati szuvenírek",
+            "tip": "Kézzel készített kerámia és ékszerek."
           }
         ],
         "ro": [
           {
-            "name": "Broderii din Konavle",
-            "tip": "Lucru manual tradițional din regiunea de sud.",
-            "emoji": "🧶"
-          },
-          {
-            "name": "Ulei de măsline",
-            "tip": "Produse premium din Korčula în magazine locale."
+            "name": "Suveniruri Cavtat",
+            "tip": "Ceramică și bijuterii lucrate manual."
           }
         ],
         "en": [
           {
-            "name": "Konavle Embroidery",
-            "tip": "Traditional handiwork from the region south of town."
-          },
-          {
-            "name": "Korčula Olive Oil",
-            "tip": "Premium oil available in local deli shops."
+            "name": "Cavtat Souvenirs",
+            "tip": "Handmade ceramics and jewelry."
           }
         ]
       },
       "tips": {
         "de": [
-          "Parkplätze im Zentrum sind extrem teuer und oft voll.",
-          "Nutzen Sie den Park-and-Ride Service außerhalb.",
-          "Die Fahrt zum Berg Srđ erfordert gute Fahrkenntnisse.",
-          "Mieten Sie einen Kleinwagen für die engen Küstenstraßen."
+          "Parken Sie in Cavtat am Eingang der Stadt.",
+          "Die Fahrt zum Mount Srđ erfordert Geduld bei Gegenverkehr."
         ],
         "hu": [
-          "A központi parkolók méregdrágák és hamar megtelnek.",
-          "Használja a városon kívüli park-and-ride szolgáltatást.",
-          "A Srđ-hegyi út jó vezetési képességeket igényel.",
-          "Béreljen kisautót a szűk tengerparti utakhoz."
+          "Cavtatban a város bejáratánál parkoljon.",
+          "A Srđ-hegyi út türelmet igényel a szembejövő forgalom miatt."
         ],
         "ro": [
-          "Parcările centrale sunt extrem de scumpe și aglomerate.",
-          "Folosiți serviciul park-and-ride din afara orașului.",
-          "Drumul spre munte necesită experiență la volan.",
-          "Închiriați o mașină mică pentru străzile înguste."
+          "Parcați în Cavtat la intrarea în oraș.",
+          "Drumul spre Muntele Srđ necesită răbdare din cauza traficului."
         ],
         "en": [
-          "Central parking is extremely expensive and often full.",
-          "Use the park-and-ride service located further out.",
-          "Driving to Mount Srd requires good mountain skills.",
-          "Rent a small car for the narrow coastal roads."
+          "Park at the entrance of Cavtat town.",
+          "The drive up Mount Srđ requires patience due to oncoming traffic."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Parken am Pile-Tor für die Besichtigung der Stadtmauern und historischen Paläste. Besuch der Kathedrale und des prunkvollen Rektorenpalastes zu Fuß. Fahrt über die Panoramastraße hinauf zum Gipfel des Berges Srđ. Abschluss mit Blick auf die Insel Lokrum und die weite Adria.",
-            "hu": "Parkolás a Pile-kapunál a városfalak és paloták megtekintéséhez. A Katedrális és a díszes Rektori Palota bejárása gyalogosan. Autózás a panorámaúton a Srđ-hegy legmagasabb pontjáig. Zárás kilátással a Lokrum-szigetre és a végtelen Adriára.",
-            "ro": "Parcare la Poarta Pile pentru vizitarea zidurilor și palatelor istorice. Tur pietonal la Catedrală și la somptuosul Palat al Rectorului. Urcare cu mașina pe drumul panoramic spre vârful Muntelui Srđ. Final cu vedere spre insula Lokrum și marea Adriatică.",
-            "en": "Parking near Pile Gate to visit the historic City Walls and palaces. Walking tour of the Cathedral and the ornate Rector's Palace. Driving along the scenic road up to the summit of Mount Srd. Ending with views of Lokrum Island and the vast Adriatic Sea."
-          },
-          "stops": [
-            {
-              "name": "Stadtmauern von Dubrovnik",
-              "tip_5lang": {
-                "de": "Parken Sie im Parkhaus Ilijina Glavica für Fußweg zur Altstadt.",
-                "hu": "Parkoljon az Ilijina Glavica parkolóházban az óváros megközelítéséhez.",
-                "ro": "Parcați la suprafață sau în parcarea Ilijina Glavica.",
-                "en": "Park at Ilijina Glavica garage for easy walk to Old Town."
-              }
-            },
-            {
-              "name": "Rektorenpalast",
-              "tip_5lang": {
-                "de": "Ein Muss für Geschichtsliebhaber im Herzen der Stadt.",
-                "hu": "Történelemkedvelőknek kötelező látnivaló a város szívében.",
-                "ro": "O vizită obligatorie pentru iubitorii de istorie.",
-                "en": "A must-visit for history lovers in the city heart."
-              }
-            },
-            {
-              "name": "St.-Blaise-Kirche",
-              "tip_5lang": {
-                "de": "Bewundern Sie die vergoldete Statue des Stadtpatrons.",
-                "hu": "Csodálja meg a város védőszentjének aranyozott szobrát.",
-                "ro": "Admirați statuia aurită a sfântului protector al orașului.",
-                "en": "Admire the gilded statue of the city's patron saint."
-              }
-            },
-            {
-              "name": "Kathedrale von Dubrovnik",
-              "tip_5lang": {
-                "de": "Berühmt für das Tizian-Triptychon hinter dem Altar.",
-                "hu": "Híres a főoltár mögötti Tiziano-triptichonról.",
-                "ro": "Celebră pentru tripticul lui Titian din spatele altarului.",
-                "en": "Famous for the Titian triptych behind the main altar."
-              }
-            },
-            {
-              "name": "Berg Srđ",
-              "tip_5lang": {
-                "de": "Fahren Sie vorsichtig auf der schmalen Panoramastraße.",
-                "hu": "Vezessen óvatosan a keskeny panorámaúton.",
-                "ro": "Conduceți cu atenție pe drumul panoramic îngust.",
-                "en": "Drive carefully on the narrow panoramic road."
-              }
-            },
-            {
-              "name": "Sponza-Palast",
-              "tip_5lang": {
-                "de": "Besuch des historischen Archivs im Erdgeschoss.",
-                "hu": "Látogasson el a földszinten található történelmi levéltárba.",
-                "ro": "Vizitați arhivele istorice situate la parter.",
-                "en": "Visit the historic archives located on the ground floor."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Ston-Austern",
-                "tip": "Frische Austern aus der nahen Bucht von Ston bei Kamenice."
-              },
-              {
-                "name": "Lamm am Spieß",
-                "tip": "Traditionelles Fleischgericht in der Konoba Dubrava."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Stoni osztriga",
-                "tip": "Friss osztriga a közeli Ston-öbölből a Kamenice étteremben."
-              },
-              {
-                "name": "Báránysült",
-                "tip": "Hagyományos sült húsétel a Konoba Dubravában."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Stridii de Ston",
-                "tip": "Stridii proaspete din golful Ston la Kamenice."
-              },
-              {
-                "name": "Miel la proțap",
-                "tip": "Carne tradițională preparată la Konoba Dubrava."
-              }
-            ],
-            "en": [
-              {
-                "name": "Ston Oysters",
-                "tip": "Fresh oysters from nearby Ston Bay at Kamenice."
-              },
-              {
-                "name": "Lamb on Spit",
-                "tip": "Traditional roasted meat dish at Konoba Dubrava."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Trsteno Arboretum",
-                "tip": "Historischer Garten etwa 20 Minuten Fahrt nördlich.",
-                "emoji": "🍃"
-              },
-              {
-                "name": "Pasjača Strand",
-                "tip": "Versteckter Strand unter Klippen südlich der Stadt.",
-                "emoji": "🌅"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Trsteno Arborétum",
-                "tip": "Történelmi kert 20 percre északra a várostól.",
-                "emoji": "🍃"
-              },
-              {
-                "name": "Pasjača-strand",
-                "tip": "Rejtett strand a sziklák alatt a várostól délre.",
-                "emoji": "🌅"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Arboretele Trsteno",
-                "tip": "Grădină istorică la 20 de minute de mers spre nord.",
-                "emoji": "🍃"
-              },
-              {
-                "name": "Plaja Pasjača",
-                "tip": "Plajă ascunsă sub stânci, la sud de oraș.",
-                "emoji": "🌅"
-              }
-            ],
-            "en": [
-              {
-                "name": "Trsteno Arboretum",
-                "tip": "Historic garden about 20 minutes drive north.",
-                "emoji": "🍃"
-              },
-              {
-                "name": "Pasjača Beach",
-                "tip": "Hidden beach under cliffs south of the city.",
-                "emoji": "🌅"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Konavle Stickerei",
-                "tip": "Traditionelle Handarbeit aus der Region südlich von Dubrovnik."
-              },
-              {
-                "name": "Olivenöl aus Korčula",
-                "tip": "In lokalen Feinkostläden erhältlich."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Konavlei hímzés",
-                "tip": "Hagyományos kézimunka a Dubrovnik alatti régióból."
-              },
-              {
-                "name": "Olívaolaj Korčuláról",
-                "tip": "Helyi delikátboltokban beszerezhető."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Broderii din Konavle",
-                "tip": "Lucru manual tradițional din regiunea de sud.",
-                "emoji": "🧶"
-              },
-              {
-                "name": "Ulei de măsline",
-                "tip": "Produse premium din Korčula în magazine locale."
-              }
-            ],
-            "en": [
-              {
-                "name": "Konavle Embroidery",
-                "tip": "Traditional handiwork from the region south of town."
-              },
-              {
-                "name": "Korčula Olive Oil",
-                "tip": "Premium oil available in local deli shops."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Parkplätze im Zentrum sind extrem teuer und oft voll.",
-              "Nutzen Sie den Park-and-Ride Service außerhalb.",
-              "Die Fahrt zum Berg Srđ erfordert gute Fahrkenntnisse.",
-              "Mieten Sie einen Kleinwagen für die engen Küstenstraßen."
-            ],
-            "hu": [
-              "A központi parkolók méregdrágák és hamar megtelnek.",
-              "Használja a városon kívüli park-and-ride szolgáltatást.",
-              "A Srđ-hegyi út jó vezetési képességeket igényel.",
-              "Béreljen kisautót a szűk tengerparti utakhoz."
-            ],
-            "ro": [
-              "Parcările centrale sunt extrem de scumpe și aglomerate.",
-              "Folosiți serviciul park-and-ride din afara orașului.",
-              "Drumul spre munte necesită experiență la volan.",
-              "Închiriați o mașină mică pentru străzile înguste."
-            ],
-            "en": [
-              "Central parking is extremely expensive and often full.",
-              "Use the park-and-ride service located further out.",
-              "Driving to Mount Srd requires good mountain skills.",
-              "Rent a small car for the narrow coastal roads."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Mit dem Auto erkunden Sie Dubrovnik bei Regen komfortabel. Starten Sie an den Stadtmauern und nutzen Sie die Parkhäuser nahe der Altstadt. Besuchen Sie den Rektorenpalast und die Blaise-Kirche, um dem Guss zu entkommen. Die Kathedrale bietet einen prachtvollen Rückzugsort. Eine Fahrt zum Berg Srđ ist auch bei Regen möglich, die Aussicht aus dem Auto oben ist spektakulär. Beenden Sie den Tag im Sponza-Palast, während der Regen auf das historische Dach prasselt.",
-            "hu": "Autóval kényelmesen fedezheti fel Dubrovnikot esőben is. Kezdjen a városfalaknál, és használja az óvároshoz közeli parkolóházakat. Látogassa meg a Rektori palotát és a Szent Balázs-templomot, hogy elkerülje az égi áldást. A székesegyház pompás menedéket nyújt. A Srđ-hegyre való felhajtás esőben is lehetséges, az autóból a kilátás fentről lenyűgöző. Zárja a napot a Sponza-palotában.",
-            "ro": "Cu mașina, explorați Dubrovnik confortabil pe ploaie. Începeți la zidurile orașului și folosiți parcările supraetajate de lângă orașul vechi. Vizitați Palatul Rectorului și Biserica Sf. Blasiu pentru a scăpa de ploaie. Catedrala oferă un refugiu magnific. O călătorie pe Muntele Srđ este posibilă și pe ploaie. Încheiați ziua la Palatul Sponza.",
-            "en": "Explore Dubrovnik comfortably by car in the rain. Start at the City Walls and use the parking garages near the Old Town. Visit the Rector's Palace and St. Blaise Church to escape the downpour. The Cathedral offers a magnificent retreat. A drive to Mount Srđ is possible even in the rain; the view from the car at the top is spectacular. End the day at Sponza Palace."
-          },
-          "stops": [
-            {
-              "name": "Stadtmauern von Dubrovnik",
-              "tip_5lang": {
-                "de": "Parken Sie im 'Pila'-Parkhaus für den kürzesten Weg im Regen.",
-                "hu": "Parkoljon a 'Pila' parkolóházban a legrövidebb esős sétához.",
-                "ro": "Parcați în parcarea 'Pila' pentru cel mai scurt drum prin ploaie.",
-                "en": "Park in the 'Pila' garage for the shortest walk in the rain."
-              }
-            },
-            {
-              "name": "Rektorenpalast",
-              "tip_5lang": {
-                "de": "Direkt am Eingang gibt es Schirmständer für Besucher.",
-                "hu": "Közvetlenül a bejáratnál esernyőtartók várják a látogatókat.",
-                "ro": "Există suporturi pentru umbrele chiar la intrare pentru vizitatori.",
-                "en": "There are umbrella stands right at the entrance for visitors."
-              }
-            },
-            {
-              "name": "St.-Blaise-Kirche",
-              "tip_5lang": {
-                "de": "Die Kirche ist ein ruhiger Ort, um den Regen abzuwarten.",
-                "hu": "A templom csendes hely az eső kivárásához.",
-                "ro": "Biserica este un loc liniștit pentru a aștepta trecerea ploii.",
-                "en": "The church is a quiet place to wait out the rain."
-              }
-            },
-            {
-              "name": "Kathedrale von Dubrovnik",
-              "tip_5lang": {
-                "de": "Die Architektur wirkt bei grauem Himmel besonders massiv.",
-                "hu": "Az építészet szürke égbolt alatt különösen monumentális.",
-                "ro": "Arhitectura pare deosebit de masivă sub cerul cenușiu.",
-                "en": "The architecture looks particularly massive under gray skies."
-              }
-            },
-            {
-              "name": "Berg Srđ",
-              "tip_5lang": {
-                "de": "Die Straße ist eng, fahren Sie bei Nässe besonders vorsichtig.",
-                "hu": "Az út szűk, nedves időben vezessen különösen óvatosan.",
-                "ro": "Drumul este îngust, conduceți cu mare atenție pe carosabil umed.",
-                "en": "The road is narrow, drive extra carefully in wet conditions."
-              }
-            },
-            {
-              "name": "Sponza-Palast",
-              "tip_5lang": {
-                "de": "Das Archiv im Inneren ist ein faszinierendes Trockenprojekt.",
-                "hu": "A benti archívum lenyűgöző program fedett helyen.",
-                "ro": "Arhiva din interior este un proiect fascinant la adăpost.",
-                "en": "The archive inside is a fascinating dry-weather activity."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Parken in Dubrovnik ist teuer, nutzen Sie den 'Dubrovnik Pass'.",
-              "Vermeiden Sie die Fahrt in die reine Fußgängerzone der Altstadt.",
-              "Bei starkem Regen kann es in den Küstenstraßen Aquaplaning geben.",
-              "Nutzen Sie Park-Apps, um nicht im Regen am Automaten zu stehen."
-            ],
-            "hu": [
-              "A parkolás Dubrovnikban drága, használja a 'Dubrovnik Pass'-t.",
-              "Kerülje az autóval való behajtást az óvárosi gyalogos zónába.",
-              "Heves esőben a parti utakon vízátfolyások alakulhatnak ki.",
-              "Használjon parkolási appot, hogy ne kelljen az esőben automatánál állni."
-            ],
-            "ro": [
-              "Parcarea în Dubrovnik este scumpă, folosiți 'Dubrovnik Pass'.",
-              "Evitați să conduceți în zona pietonală a orașului vechi.",
-              "În caz de ploaie torențială, poate apărea acvaplanarea pe drumurile de coastă.",
-              "Folosiți aplicații de parcare pentru a nu sta în ploaie la automat."
-            ],
-            "en": [
-              "Parking in Dubrovnik is expensive, use the 'Dubrovnik Pass'.",
-              "Avoid driving into the pedestrian-only Old Town zone.",
-              "In heavy rain, aquaplaning can occur on coastal roads.",
-              "Use parking apps to avoid standing in the rain at payment machines."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Dubrovnik mit dem Auto im Winter bedeutet entspanntes Parken und freie Straßen. Beginnen Sie an den Stadtmauern und erkunden Sie die Altstadt ohne Hitze. Der Rektorenpalast und die Blaise-Kirche sind im Winterorte der Stille. Nach dem Besuch der Kathedrale fahren Sie zum Berg Srđ, um den spektakulären Wintersonnenuntergang über der Adria zu erleben. Der Sponza-Palast bildet den perfekten Abschluss Ihrer Tour, bevor Sie bequem im beheizten Auto zurückfahren.",
-            "hu": "Dubrovnik autóval télen nyugodt parkolást és üres utakat jelent. Kezdjen a városfalaknál, és fedezze fel az óvárost hőség nélkül. A Rektori palota és a Szent Balázs-templom a csend szigetei télen. A székesegyház után hajtson fel a Srđ-hegyre a lenyűgöző téli naplemente kedvéért. A Sponza-palota tökéletes zárása a túrának, mielőtt kényelmesen, a fűtött autóban indulna vissza.",
-            "ro": "Dubrovnik cu mașina iarna înseamnă parcare relaxată și drumuri libere. Începeți la zidurile orașului și explorați orașul vechi fără căldură. Palatul Rectorului și Biserica Sf. Blasiu sunt locuri ale liniștii iarna. După catedrală, conduceți spre Muntele Srđ pentru apusul spectaculos. Palatul Sponza încheie perfect turul.",
-            "en": "Dubrovnik by car in winter means relaxed parking and clear roads. Start at the City Walls and explore the Old Town without the heat. The Rector's Palace and St. Blaise Church are places of silence in winter. After the Cathedral, drive to Mount Srđ for a spectacular winter sunset. Sponza Palace is the perfect end to your tour."
-          },
-          "stops": [
-            {
-              "name": "Stadtmauern von Dubrovnik",
-              "tip_5lang": {
-                "de": "Parkplätze sind im Winter deutlich leichter zu finden.",
-                "hu": "Télen lényegesen könnyebb parkolóhelyet találni.",
-                "ro": "Locurile de parcare sunt mult mai ușor de găsit iarna.",
-                "en": "Parking spaces are much easier to find in winter."
-              }
-            },
-            {
-              "name": "Rektorenpalast",
-              "tip_5lang": {
-                "de": "Besuchen Sie das Museum am Vormittag für die beste Beleuchtung.",
-                "hu": "Látogassa meg a múzeumot délelőtt a legjobb fényviszonyokért.",
-                "ro": "Vizitați muzeul dimineața pentru cea mai bună iluminare.",
-                "en": "Visit the museum in the morning for the best lighting."
-              }
-            },
-            {
-              "name": "St.-Blaise-Kirche",
-              "tip_5lang": {
-                "de": "Im Winter finden hier oft lokale Gottesdienste ohne Touristen statt.",
-                "hu": "Télen gyakran tartanak itt helyi miséket turisták nélkül.",
-                "ro": "Iarna, aici au loc adesea slujbe locale fără turiști.",
-                "en": "In winter, local services often take place here without tourists."
-              }
-            },
-            {
-              "name": "Kathedrale von Dubrovnik",
-              "tip_5lang": {
-                "de": "Die Schatzkammer hat im Winter eingeschränkte Öffnungszeiten.",
-                "hu": "A kincstár télen korlátozott nyitvatartással üzemel.",
-                "ro": "Tezaurul are program redus de funcționare iarna.",
-                "en": "The treasury has limited opening hours in winter."
-              }
-            },
-            {
-              "name": "Berg Srđ",
-              "tip_5lang": {
-                "de": "Oben ist es deutlich kühler als in der Stadt, Heizung prüfen.",
-                "hu": "Fent lényegesen hűvösebb van, mint a városban.",
-                "ro": "Sus este mult mai răcoare decât în oraș, verificați căldura.",
-                "en": "It's significantly cooler up there than in the city."
-              }
-            },
-            {
-              "name": "Sponza-Palast",
-              "tip_5lang": {
-                "de": "Die Gedenkhalle für die Verteidiger ist im Winter sehr bewegend.",
-                "hu": "A védők emlékszobája télen különösen megható.",
-                "ro": "Sala memorială pentru apărători este foarte emoționantă iarna.",
-                "en": "The memorial room for the defenders is very moving in winter."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Die Parkgebühren sind in der Nebensaison oft niedriger.",
-              "Frost ist selten, aber Vorsicht bei Brücken am frühen Morgen.",
-              "Die Küstenstraße bietet im Winter eine fantastische Fernsicht.",
-              "Achten Sie auf die Winter-Öffnungszeiten der Sehenswürdigkeiten."
-            ],
-            "hu": [
-              "A parkolási díjak előszezonban gyakran alacsonyabbak.",
-              "A fagy ritka, de kora reggel a hidakon legyen óvatos.",
-              "A parti út télen fantasztikus távlatokat kínál.",
-              "Ügyeljen a látnivalók téli nyitvatartási idejére."
-            ],
-            "ro": [
-              "Taxele de parcare sunt adesea mai mici în extrasezon.",
-              "Înghețul este rar, dar atenție la poduri dimineața devreme.",
-              "Drumul de coastă oferă o vizibilitate fantastică iarna.",
-              "Fiți atenți la programul de iarnă al obiectivelor turistice."
-            ],
-            "en": [
-              "Parking fees are often lower in the low season.",
-              "Frost is rare, but be careful on bridges early in the morning.",
-              "The coastal road offers fantastic long-distance views in winter.",
-              "Watch out for the winter opening hours of the sights."
-            ]
-          }
-        }
       }
     },
     "transit": {
       "mode": "transit",
-      "speed_kmh": 18,
+      "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "14:00",
-      "total_km": 6.2,
+      "end_estimate": "17:00",
+      "total_km": 8.0,
       "stop_count": 7,
       "stops": [
         {
-          "name": "Stradun",
+          "name": {
+            "de": "Pile Tor (Busbahnhof)",
+            "hu": "Pile-kapu (buszmegálló)",
+            "ro": "Poarta Pile (Stația de autobuz)",
+            "en": "Pile Gate (Bus Stop)"
+          },
           "coords": [
-            18.1085,
-            42.6413
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:00",
-          "stay_min": 15,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Busse 1A, 1B und 6 halten direkt vor dem Pile-Tor.",
-            "hu": "Az 1A, 1B és 6-os buszok közvetlenül a Pile-kapunál állnak meg.",
-            "ro": "Autobuzele 1A, 1B și 6 opresc chiar la Poarta Pile.",
-            "en": "Buses 1A, 1B, and 6 stop right in front of Pile Gate."
-          }
-        },
-        {
-          "name": "Onofrio-Brunnen",
-          "coords": [
-            18.1072,
+            18.106,
             42.6415
           ],
-          "category": "monuments/statues",
-          "arrive_at": "09:17",
-          "stay_min": 15,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Das Wahrzeichen direkt am Eingang der Altstadt.",
-            "hu": "Jellegzetes építmény közvetlenül az óváros bejáratánál.",
-            "ro": "Simbolul orașului chiar la intrarea în centrul vechi.",
-            "en": "The landmark building right at the Old Town entrance."
+            "de": "Kaufen Sie eine Dubrovnik Card für unbegrenzte Fahrten.",
+            "hu": "Vásároljon Dubrovnik Cardot a korlátlan buszozáshoz.",
+            "ro": "Cumpărați un Dubrovnik Card pentru călătorii nelimitate.",
+            "en": "Buy a Dubrovnik Card for unlimited bus rides."
           }
         },
         {
-          "name": "Franziskanerkloster",
+          "name": {
+            "de": "Gundulićeva Markt",
+            "hu": "Gundulićeva piac",
+            "ro": "Piața Gundulićeva",
+            "en": "Gundulićeva Market"
+          },
           "coords": [
-            18.1075,
-            42.6416
+            18.11,
+            42.64
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:34",
-          "stay_min": 30,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Ein ruhiger Kreuzgang inmitten der lebhaften Stadt.",
-            "hu": "Csendes kerengő a nyüzsgő város közepén.",
-            "ro": "Un loc liniștit în mijlocul orașului vibrant.",
-            "en": "A peaceful cloister in the middle of the vibrant city."
-          }
-        },
-        {
-          "name": "Sponza-Palast",
-          "coords": [
-            18.1102,
-            42.6412
-          ],
-          "category": "famous residences",
-          "arrive_at": "10:10",
-          "stay_min": 45,
-          "hop_from_prev_min": 6,
+          "category": "market",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Das Gebäude überstand das große Erdbeben von 1667.",
-            "hu": "Az épület túlélte az 1667-es nagy földrengést.",
-            "ro": "Clădirea a supraviețuit marelui cutremur din 1667.",
-            "en": "The building survived the great earthquake of 1667."
+            "de": "Erleben Sie den morgendlichen Bauernmarkt in der Altstadt.",
+            "hu": "Élje át a reggeli termelői piac hangulatát az óvárosban.",
+            "ro": "Trăiți atmosfera pieței de dimineață din orașul vechi.",
+            "en": "Experience the morning farmers' market in the Old Town."
           }
         },
         {
-          "name": "St.-Blaise-Kirche",
+          "name": {
+            "de": "Lapad (Buslinie 6)",
+            "hu": "Lapad (6-os busz)",
+            "ro": "Lapad (Linia 6)",
+            "en": "Lapad (Bus Line 6)"
+          },
           "coords": [
-            18.1103,
-            42.6409
+            18.069,
+            42.656
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:01",
-          "stay_min": 30,
-          "hop_from_prev_min": 6,
+          "category": "beach",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Linie 6 fährt alle 15 Minuten vom Pile-Tor ab.",
+            "hu": "A 6-os busz 15 percenként indul a Pile-kaputól.",
+            "ro": "Linia 6 pleacă la fiecare 15 minute de la Poarta Pile.",
+            "en": "Bus line 6 departs every 15 minutes from Pile Gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Uvala Lapad Restaurant",
+            "hu": "Uvala Lapad étterem",
+            "ro": "Restaurant Uvala Lapad",
+            "en": "Uvala Lapad Restaurant"
+          },
+          "coords": [
+            18.07,
+            42.6565
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Zentrum für das wichtigste Stadtfest im Februar.",
-            "hu": "A legfontosabb városi ünnep központja februárban.",
-            "ro": "Centrul celei mai importante sărbători a orașului.",
-            "en": "The center of the most important city festival in February."
+            "de": "Genießen Sie ein entspanntes Mittagessen in Strandnähe.",
+            "hu": "Élvezzen egy nyugodt ebédet a strand közelében.",
+            "ro": "Bucurați-vă de un prânz relaxat lângă plajă.",
+            "en": "Enjoy a relaxed lunch near the beach area."
           }
         },
         {
-          "name": "Rektorenpalast",
+          "name": {
+            "de": "Gruž Hafen (Buslinie 7)",
+            "hu": "Gruž kikötő (7-es busz)",
+            "ro": "Portul Gruž (Linia 7)",
+            "en": "Gruž Harbor (Bus Line 7)"
+          },
           "coords": [
-            18.1105,
-            42.6405
+            18.085,
+            42.658
           ],
-          "category": "museums",
-          "arrive_at": "11:37",
-          "stay_min": 60,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.1,
+          "category": "harbor",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Besichtigen Sie den Gerichtssaal und die Privaträume.",
-            "hu": "Tekintse meg a tárgyalótermet és a privát szobákat.",
-            "ro": "Vizitați sala de judecată și camerele private.",
-            "en": "View the courtroom and the private chambers."
+            "de": "Beobachten Sie die großen Kreuzfahrtschiffe beim Anlegen.",
+            "hu": "Figyelje meg a hatalmas hajókat a kikötőben.",
+            "ro": "Observați navele mari de croazieră la ancoră.",
+            "en": "Watch the large cruise ships docking at the harbor."
           }
         },
         {
-          "name": "Berg Srđ",
+          "name": {
+            "de": "Red History Museum",
+            "hu": "Red History Museum",
+            "ro": "Muzeul Istoriei Roșii",
+            "en": "Red History Museum"
+          },
           "coords": [
-            18.1115,
-            42.6495
+            18.086,
+            42.659
           ],
-          "category": "natural features",
-          "arrive_at": "12:55",
-          "stay_min": 60,
-          "hop_from_prev_min": 18,
-          "hop_from_prev_km": 5.4,
+          "category": "museum",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Die Seilbahnstation liegt nur 5 Gehminuten von der Altstadt.",
-            "hu": "A libegő állomása 5 perc sétára van az óvárostól.",
-            "ro": "Stația de telecabină e la 5 minute de mers pe jos.",
-            "en": "The cable car station is a 5-minute walk from Old Town."
+            "de": "Ein interaktives Museum über das Leben im ehemaligen Jugoslawien.",
+            "hu": "Interaktív múzeum az egykori jugoszláv mindennapokról.",
+            "ro": "Un muzeu interactiv despre viața în fosta Iugoslavie.",
+            "en": "An interactive museum about life in former Yugoslavia."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Bus zum Pile-Tor, dem Haupteingang zur historischen Altstadt. Besuch des Onofrio-Brunnens und des Franziskanerklosters. Rundgang über den Stradun zu den Kirchen und Palästen im Zentrum. Fahrt mit der Seilbahn zum Berg Srđ für den besten Blick der Stadt.",
-        "hu": "Busszal a Pile-kapuhoz, az óváros történelmi főbejáratához. Az Onofrio-kút és a ferences kolostor megtekintése. Séta a Stradunon a központi templomokhoz és palotákhoz. Utazás libegővel a Srđ-hegyre a város legszebb kilátásáért.",
-        "ro": "Cu autobuzul la Poarta Pile, intrarea principală în cetatea istorică. Vizitarea Fântânii lui Onofrio și a Mănăstirii Franciscane. Plimbare pe Stradun către bisericile și palatele din centru. Urcare cu telecabina pe Muntele Srđ pentru cea mai bună priveliște.",
-        "en": "Taking the bus to Pile Gate, the main entry to the historic Old Town. Visiting Onofrio's Fountain and the Franciscan Monastery. Walking through Stradun to the central churches and palaces. Riding the cable car to Mount Srd for the city's best vantage point."
+        "de": "Entdecken Sie Dubrovnik wie ein Einheimischer mit dem effizienten Bussystem. Den Morgen verbringen Sie in der Altstadt, besuchen den lebhaften Gundulićeva-Markt und schlendern durch die Gassen. \n\nGegen Mittag nehmen Sie die Linie 6 zur Halbinsel Lapad, um am Strand zu entspannen und in einem der vielen Restaurants direkt an der Bucht zu essen. \n\nAm Nachmittag fahren Sie weiter zum Hafen von Gruž, wo Sie das faszinierende Red History Museum besuchen, das einen Einblick in die jüngere Geschichte bietet. \n\nDen Tag beenden Sie mit einem Spaziergang am Hafen, bevor Sie mit dem Bus bequem zurück zum Zentrum oder zu Ihrer Unterkunft fahren.",
+        "hu": "Fedezze fel Dubrovnikot helyiként a hatékony buszhálózat segítségével. A reggelt az óvárosban töltjük, ellátogatunk a nyüzsgő Gundulićeva piacra, majd a 6-os busszal a Lapad-félsziget felé vesszük az irányt. \n\nDélben a tengerparton pihenünk és az öböl melletti éttermek egyikében ebédelünk, élvezve a tenger közelségét. \n\nDélután a Gruž-kikötőbe utazunk tovább, ahol megnézzük az izgalmas Vörös Történelem Múzeumot, amely bepillantást enged a múltba. \n\nA nap végén a kikötőben teszünk egy sétát, mielőtt visszatérnénk a központba.",
+        "ro": "Descoperiți Dubrovnikul ca un localnic folosind rețeaua eficientă de autobuze. Dimineața o petrecem în orașul vechi, vizităm piața Gundulićeva și apoi luăm linia 6 către peninsula Lapad. \n\nLa prânz ne relaxăm pe plajă și mâncăm la unul dintre restaurantele din golf, savurând briza mării. \n\nDupă-amiaza continuăm spre portul Gruž pentru o vizită la fascinantul Muzeu al Istoriei Roșii, care oferă o perspectivă asupra istoriei recente. \n\nÎncheiem ziua cu o plimbare prin port, înainte de a ne întoarce spre centrul orașului cu autobuzul.",
+        "en": "Discover Dubrovnik like a local using the efficient public bus network. Spend your morning in the Old Town, visiting the lively Gundulićeva market, then take line 6 to the Lapad peninsula. \n\nMidday is for relaxing at the beach and dining at one of the bay-side restaurants, enjoying the sea breeze. \n\nIn the afternoon, head to Gruž Harbor to visit the intriguing Red History Museum, which offers insight into recent history. \n\nEnd your day with a harbor stroll before catching a bus back to the city center or your accommodation."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Dubrovnik Eis",
-            "tip": "Beste Gelateria Dolce Vita in der Altstadt."
-          },
-          {
-            "name": "Meeresfrüchte-Snack",
-            "tip": "Frittierter Fisch bei Barba."
+            "name": "Pantarul",
+            "tip": "Moderne Küche mit lokalen Zutaten in Lapad."
           }
         ],
         "hu": [
           {
-            "name": "Dubrovniki fagyi",
-            "tip": "A legjobb a Dolce Vita fagyizóban az óvárosban."
-          },
-          {
-            "name": "Tengeri falatok",
-            "tip": "Sült halas szendvicsek a Barba büfében."
+            "name": "Pantarul",
+            "tip": "Modern konyha helyi alapanyagokból Lapad negyedben."
           }
         ],
         "ro": [
           {
-            "name": "Înghețată",
-            "tip": "Cea mai bună la Dolce Vita, în centrul vechi."
-          },
-          {
-            "name": "Gustări marine",
-            "tip": "Pește prăjit și burgeri de caracatiță la Barba."
+            "name": "Pantarul",
+            "tip": "Bucătărie modernă cu ingrediente locale în Lapad."
           }
         ],
         "en": [
           {
-            "name": "Dubrovnik Ice Cream",
-            "tip": "Best gelato at Dolce Vita in the Old Town."
-          },
-          {
-            "name": "Seafood Snacks",
-            "tip": "Fried fish and octopus burgers at Barba."
+            "name": "Pantarul",
+            "tip": "Modern cuisine with local ingredients in Lapad."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Insel Lokrum",
-            "tip": "Kurze Bootsfahrt vom alten Hafen zu dieser grünen Oase.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Park Gradac",
-            "tip": "Ruhiger Rückzugsort oberhalb des Meeres.",
+            "name": "Petka Hügel",
+            "tip": "Wandern Sie auf den Hügel für Stille und Aussicht.",
             "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Lokrum-sziget",
-            "tip": "Rövid hajóút a régi kikötőből ebbe a zöld oázisba.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Gradac park",
-            "tip": "Csendes menedékhely a tenger felett.",
+            "name": "Petka-hegy",
+            "tip": "Túrázzon fel a hegyre a csendért és a kilátásért.",
             "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Insula Lokrum",
-            "tip": "Scurtă călătorie cu barca spre această oază verde.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Parcul Gradac",
-            "tip": "Refugiu liniștit deasupra valurilor mării.",
+            "name": "Dealul Petka",
+            "tip": "Urcați pe deal pentru liniște și panoramă.",
             "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Lokrum Island",
-            "tip": "Short boat ride from the old port to this green oasis.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Gradac Park",
-            "tip": "Quiet retreat overlooking the sea.",
+            "name": "Petka Hill",
+            "tip": "Hike up the hill for silence and great views.",
             "emoji": "🍃"
           }
         ]
@@ -2406,534 +1039,47 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Medusa Shop",
-            "tip": "Hochwertige lokale Naturkosmetik und Öle."
-          },
-          {
-            "name": "Borza Group",
-            "tip": "Internationale Marken und lokaler Schmuck."
+            "name": "DOC Einkaufszentrum",
+            "tip": "Lokale Marken im Herzen von Lapad."
           }
         ],
         "hu": [
           {
-            "name": "Medusa bolt",
-            "tip": "Minőségi helyi natúrkozmetikumok és olajok."
-          },
-          {
-            "name": "Borza Group",
-            "tip": "Nemzetközi márkák és helyi ékszerek."
+            "name": "DOC bevásárlóközpont",
+            "tip": "Helyi márkák Lapad szívében."
           }
         ],
         "ro": [
           {
-            "name": "Medusa Shop",
-            "tip": "Cosmetice naturale locale și uleiuri de calitate."
-          },
-          {
-            "name": "Borza Group",
-            "tip": "Branduri internaționale și bijuterii locale."
+            "name": "Centrul DOC",
+            "tip": "Branduri locale chiar în inima cartierului Lapad."
           }
         ],
         "en": [
           {
-            "name": "Medusa Shop",
-            "tip": "High-quality local natural cosmetics and oils."
-          },
-          {
-            "name": "Borza Group",
-            "tip": "International brands and local jewelry."
+            "name": "DOC Shopping Center",
+            "tip": "Local brands in the heart of Lapad."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie Bustickets am Kiosk oder per App.",
-          "Einzelfahrscheine sind im Bus teurer als am Kiosk.",
-          "Die Seilbahn akzeptiert Kreditkarten und Kuna/Euro.",
-          "Nutzen Sie den Dubrovnik Pass für kostenlose Busfahrten."
+          "Laden Sie die Libertas-App für Live-Buszeiten.",
+          "Einzeltickets sind beim Fahrer teurer als am Kiosk."
         ],
         "hu": [
-          "Vásároljon buszjegyet újságárusnál vagy appon keresztül.",
-          "A buszon váltott jegy drágább, mint az előre váltott.",
-          "A libegőnél bankkártyával is fizethet.",
-          "Használja a Dubrovnik Passt az ingyenes buszozáshoz."
+          "Töltse le a Libertas appot az élő menetrendhez.",
+          "A buszjegy a sofőrnél drágább, vegye meg előre a bódéban."
         ],
         "ro": [
-          "Cumpărați bilete de la chioșcuri sau prin aplicație.",
-          "Biletele luate din autobuz sunt mai scumpe.",
-          "Telecabina acceptă plata cu cardul bancar.",
-          "Folosiți Dubrovnik Pass pentru transport gratuit cu autobuzul."
+          "Descărcați aplicația Libertas pentru orarul live.",
+          "Biletele cumpărate de la șofer sunt mai scumpe decât cele de la chioșc."
         ],
         "en": [
-          "Buy bus tickets at kiosks or via the Libertas app.",
-          "Single tickets are more expensive when bought on board.",
-          "The cable car accepts credit cards for tickets.",
-          "Use the Dubrovnik Pass for free public bus rides."
+          "Download the Libertas app for live bus tracking.",
+          "Single tickets are more expensive when bought from the driver."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Mit dem Bus zum Pile-Tor, dem Haupteingang zur historischen Altstadt. Besuch des Onofrio-Brunnens und des Franziskanerklosters. Rundgang über den Stradun zu den Kirchen und Palästen im Zentrum. Fahrt mit der Seilbahn zum Berg Srđ für den besten Blick der Stadt.",
-            "hu": "Busszal a Pile-kapuhoz, az óváros történelmi főbejáratához. Az Onofrio-kút és a ferences kolostor megtekintése. Séta a Stradunon a központi templomokhoz és palotákhoz. Utazás libegővel a Srđ-hegyre a város legszebb kilátásáért.",
-            "ro": "Cu autobuzul la Poarta Pile, intrarea principală în cetatea istorică. Vizitarea Fântânii lui Onofrio și a Mănăstirii Franciscane. Plimbare pe Stradun către bisericile și palatele din centru. Urcare cu telecabina pe Muntele Srđ pentru cea mai bună priveliște.",
-            "en": "Taking the bus to Pile Gate, the main entry to the historic Old Town. Visiting Onofrio's Fountain and the Franciscan Monastery. Walking through Stradun to the central churches and palaces. Riding the cable car to Mount Srd for the city's best vantage point."
-          },
-          "stops": [
-            {
-              "name": "Stradun",
-              "tip_5lang": {
-                "de": "Busse 1A, 1B und 6 halten direkt vor dem Pile-Tor.",
-                "hu": "Az 1A, 1B és 6-os buszok közvetlenül a Pile-kapunál állnak meg.",
-                "ro": "Autobuzele 1A, 1B și 6 opresc chiar la Poarta Pile.",
-                "en": "Buses 1A, 1B, and 6 stop right in front of Pile Gate."
-              }
-            },
-            {
-              "name": "Onofrio-Brunnen",
-              "tip_5lang": {
-                "de": "Das Wahrzeichen direkt am Eingang der Altstadt.",
-                "hu": "Jellegzetes építmény közvetlenül az óváros bejáratánál.",
-                "ro": "Simbolul orașului chiar la intrarea în centrul vechi.",
-                "en": "The landmark building right at the Old Town entrance."
-              }
-            },
-            {
-              "name": "Franziskanerkloster",
-              "tip_5lang": {
-                "de": "Ein ruhiger Kreuzgang inmitten der lebhaften Stadt.",
-                "hu": "Csendes kerengő a nyüzsgő város közepén.",
-                "ro": "Un loc liniștit în mijlocul orașului vibrant.",
-                "en": "A peaceful cloister in the middle of the vibrant city."
-              }
-            },
-            {
-              "name": "Sponza-Palast",
-              "tip_5lang": {
-                "de": "Das Gebäude überstand das große Erdbeben von 1667.",
-                "hu": "Az épület túlélte az 1667-es nagy földrengést.",
-                "ro": "Clădirea a supraviețuit marelui cutremur din 1667.",
-                "en": "The building survived the great earthquake of 1667."
-              }
-            },
-            {
-              "name": "St.-Blaise-Kirche",
-              "tip_5lang": {
-                "de": "Zentrum für das wichtigste Stadtfest im Februar.",
-                "hu": "A legfontosabb városi ünnep központja februárban.",
-                "ro": "Centrul celei mai importante sărbători a orașului.",
-                "en": "The center of the most important city festival in February."
-              }
-            },
-            {
-              "name": "Rektorenpalast",
-              "tip_5lang": {
-                "de": "Besichtigen Sie den Gerichtssaal und die Privaträume.",
-                "hu": "Tekintse meg a tárgyalótermet és a privát szobákat.",
-                "ro": "Vizitați sala de judecată și camerele private.",
-                "en": "View the courtroom and the private chambers."
-              }
-            },
-            {
-              "name": "Berg Srđ",
-              "tip_5lang": {
-                "de": "Die Seilbahnstation liegt nur 5 Gehminuten von der Altstadt.",
-                "hu": "A libegő állomása 5 perc sétára van az óvárostól.",
-                "ro": "Stația de telecabină e la 5 minute de mers pe jos.",
-                "en": "The cable car station is a 5-minute walk from Old Town."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Dubrovnik Eis",
-                "tip": "Beste Gelateria Dolce Vita in der Altstadt."
-              },
-              {
-                "name": "Meeresfrüchte-Snack",
-                "tip": "Frittierter Fisch bei Barba."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Dubrovniki fagyi",
-                "tip": "A legjobb a Dolce Vita fagyizóban az óvárosban."
-              },
-              {
-                "name": "Tengeri falatok",
-                "tip": "Sült halas szendvicsek a Barba büfében."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Înghețată",
-                "tip": "Cea mai bună la Dolce Vita, în centrul vechi."
-              },
-              {
-                "name": "Gustări marine",
-                "tip": "Pește prăjit și burgeri de caracatiță la Barba."
-              }
-            ],
-            "en": [
-              {
-                "name": "Dubrovnik Ice Cream",
-                "tip": "Best gelato at Dolce Vita in the Old Town."
-              },
-              {
-                "name": "Seafood Snacks",
-                "tip": "Fried fish and octopus burgers at Barba."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Insel Lokrum",
-                "tip": "Kurze Bootsfahrt vom alten Hafen zu dieser grünen Oase.",
-                "emoji": "🧘"
-              },
-              {
-                "name": "Park Gradac",
-                "tip": "Ruhiger Rückzugsort oberhalb des Meeres.",
-                "emoji": "🍃"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Lokrum-sziget",
-                "tip": "Rövid hajóút a régi kikötőből ebbe a zöld oázisba.",
-                "emoji": "🧘"
-              },
-              {
-                "name": "Gradac park",
-                "tip": "Csendes menedékhely a tenger felett.",
-                "emoji": "🍃"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Insula Lokrum",
-                "tip": "Scurtă călătorie cu barca spre această oază verde.",
-                "emoji": "🧘"
-              },
-              {
-                "name": "Parcul Gradac",
-                "tip": "Refugiu liniștit deasupra valurilor mării.",
-                "emoji": "🍃"
-              }
-            ],
-            "en": [
-              {
-                "name": "Lokrum Island",
-                "tip": "Short boat ride from the old port to this green oasis.",
-                "emoji": "🧘"
-              },
-              {
-                "name": "Gradac Park",
-                "tip": "Quiet retreat overlooking the sea.",
-                "emoji": "🍃"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Medusa Shop",
-                "tip": "Hochwertige lokale Naturkosmetik und Öle."
-              },
-              {
-                "name": "Borza Group",
-                "tip": "Internationale Marken und lokaler Schmuck."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Medusa bolt",
-                "tip": "Minőségi helyi natúrkozmetikumok és olajok."
-              },
-              {
-                "name": "Borza Group",
-                "tip": "Nemzetközi márkák és helyi ékszerek."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Medusa Shop",
-                "tip": "Cosmetice naturale locale și uleiuri de calitate."
-              },
-              {
-                "name": "Borza Group",
-                "tip": "Branduri internaționale și bijuterii locale."
-              }
-            ],
-            "en": [
-              {
-                "name": "Medusa Shop",
-                "tip": "High-quality local natural cosmetics and oils."
-              },
-              {
-                "name": "Borza Group",
-                "tip": "International brands and local jewelry."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Kaufen Sie Bustickets am Kiosk oder per App.",
-              "Einzelfahrscheine sind im Bus teurer als am Kiosk.",
-              "Die Seilbahn akzeptiert Kreditkarten und Kuna/Euro.",
-              "Nutzen Sie den Dubrovnik Pass für kostenlose Busfahrten."
-            ],
-            "hu": [
-              "Vásároljon buszjegyet újságárusnál vagy appon keresztül.",
-              "A buszon váltott jegy drágább, mint az előre váltott.",
-              "A libegőnél bankkártyával is fizethet.",
-              "Használja a Dubrovnik Passt az ingyenes buszozáshoz."
-            ],
-            "ro": [
-              "Cumpărați bilete de la chioșcuri sau prin aplicație.",
-              "Biletele luate din autobuz sunt mai scumpe.",
-              "Telecabina acceptă plata cu cardul bancar.",
-              "Folosiți Dubrovnik Pass pentru transport gratuit cu autobuzul."
-            ],
-            "en": [
-              "Buy bus tickets at kiosks or via the Libertas app.",
-              "Single tickets are more expensive when bought on board.",
-              "The cable car accepts credit cards for tickets.",
-              "Use the Dubrovnik Pass for free public bus rides."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Nutzen Sie die orangefarbenen Libertas-Busse, um Dubrovnik bei Regen trocken zu erkunden. Starten Sie am Stradun und besichtigen Sie den Onofrio-Brunnen. Das Franziskanerkloster und der Sponza-Palast bieten hervorragenden Schutz vor dem Wetter. Nach der Blaise-Kirche und dem Rektorenpalast bringt Sie der Bus bequem zur Seilbahn-Station für den Berg Srđ, wo Sie die Wolken über dem Meer beobachten können.",
-            "hu": "Használja a narancssárga Libertas buszokat Dubrovnik esős felfedezéséhez. Kezdjen a Stradunon, és nézze meg az Onofrio-kutat. A Ferences kolostor és a Sponza-palota kiváló védelmet nyújt az időjárás ellen. A Szent Balázs-templom és a Rektori palota után a busz kényelmesen elviszi a Srđ-hegy felvonójához, ahonnan figyelheti a tenger feletti felhőket.",
-            "ro": "Folosiți autobuzele portocalii Libertas pentru a explora Dubrovnik pe ploaie. Începeți pe Stradun și vedeți Fântâna lui Onofrio. Mănăstirea Franciscană și Palatul Sponza oferă protecție excelentă. După Biserica Sf. Blasiu și Palatul Rectorului, autobuzul vă duce confortabil la telecabina pentru Muntele Srđ.",
-            "en": "Use the orange Libertas buses to explore Dubrovnik dry in the rain. Start at Stradun and see Onofrio's Fountain. The Franciscan Monastery and Sponza Palace offer excellent shelter. After St. Blaise Church and the Rector's Palace, the bus takes you comfortably to the cable car station for Mount Srđ."
-          },
-          "stops": [
-            {
-              "name": "Stradun",
-              "tip_5lang": {
-                "de": "Die Bushaltestelle 'Pile' ist der zentrale Knotenpunkt.",
-                "hu": "A 'Pile' buszmegálló a központi csomópont.",
-                "ro": "Stația de autobuz 'Pile' este nodul central.",
-                "en": "The 'Pile' bus stop is the central hub."
-              }
-            },
-            {
-              "name": "Onofrio-Brunnen",
-              "tip_5lang": {
-                "de": "Kurzer Sprint vom Bus zum Brunnen, um trocken zu bleiben.",
-                "hu": "Rövid futás a busztól a kútig, hogy száraz maradjon.",
-                "ro": "Sprint scurt de la autobuz la fântână pentru a rămâne uscat.",
-                "en": "Short sprint from the bus to the fountain to stay dry."
-              }
-            },
-            {
-              "name": "Franziskanerkloster",
-              "tip_5lang": {
-                "de": "Direkt am Pile-Tor gelegen, ideal bei plötzlichem Schauer.",
-                "hu": "Közvetlenül a Pile-kapunál, ideális hirtelen zápor esetén.",
-                "ro": "Situat chiar lângă Poarta Pile, ideal în caz de aversa subită.",
-                "en": "Located right by Pile Gate, ideal during a sudden shower."
-              }
-            },
-            {
-              "name": "Sponza-Palast",
-              "tip_5lang": {
-                "de": "Die Bushaltestelle 'Ploče' ist ein alternativer Ausstieg.",
-                "hu": "A 'Ploče' buszmegálló alternatív leszállási pont.",
-                "ro": "Stația de autobuz 'Ploče' este o debarcare alternativă.",
-                "en": "The 'Ploče' bus stop is an alternative drop-off point."
-              }
-            },
-            {
-              "name": "St.-Blaise-Kirche",
-              "tip_5lang": {
-                "de": "Der Platz davor kann bei Regen sehr windig sein.",
-                "hu": "A templom előtti tér esőben nagyon szeles lehet.",
-                "ro": "Piața din față poate fi foarte vântoasă pe ploaie.",
-                "en": "The square in front can be very windy in the rain."
-              }
-            },
-            {
-              "name": "Rektorenpalast",
-              "tip_5lang": {
-                "de": "Nutzen Sie die Zeit im Museum, während es draußen regnet.",
-                "hu": "Használja ki a múzeumi időt, amíg kint esik.",
-                "ro": "Folosiți timpul în muzeu în timp ce afară plouă.",
-                "en": "Utilize museum time while it rains outside."
-              }
-            },
-            {
-              "name": "Berg Srđ",
-              "tip_5lang": {
-                "de": "Die Seilbahn fährt bei sehr starkem Wind nicht.",
-                "hu": "Erős szél esetén a felvonó nem közlekedik.",
-                "ro": "Telecabina nu funcționează în caz de vânt foarte puternic.",
-                "en": "The cable car does not operate during very strong winds."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Kaufen Sie Busfahrkarten im Voraus am Kiosk (Tisak).",
-              "Die Busse können bei Regen sehr voll sein, planen Sie Zeit ein.",
-              "Laden Sie die Libertas-App für Echtzeit-Abfahrten herunter.",
-              "Das 'Pile'-Tor hat einen überdachten Bereich zum Warten."
-            ],
-            "hu": [
-              "Vegye meg a buszjegyet előre az újságárusnál (Tisak).",
-              "A buszok esőben nagyon zsúfoltak lehetnek, számoljon rá időt.",
-              "Töltse le a Libertas appot a valós idejű indulásokhoz.",
-              "A Pile-kapunál van egy fedett rész a várakozáshoz."
-            ],
-            "ro": [
-              "Cumpărați biletele de autobuz în avans de la chioșcuri (Tisak).",
-              "Autobuzele pot fi foarte aglomerate pe ploaie, alocați timp.",
-              "Descărcați aplicația Libertas pentru plecări în timp real.",
-              "Poarta Pile are o zonă acoperită pentru așteptare."
-            ],
-            "en": [
-              "Buy bus tickets in advance at kiosks (Tisak).",
-              "Buses can be very crowded in the rain, allow extra time.",
-              "Download the Libertas app for real-time departures.",
-              "Pile Gate has a covered area for waiting."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Im Winter ist der öffentliche Nahverkehr in Dubrovnik entspannt. Beginnen Sie Ihre Tour am Stradun und dem Onofrio-Brunnen. Besuchen Sie das Franziskanerkloster und den Sponza-Palast, die im Winter eine ruhige Atmosphäre bieten. Die Busse bringen Sie schnell zwischen den Toren Pile und Ploče hin und her. Nach der Blaise-Kirche und dem Rektorenpalast fahren Sie zum Berg Srđ, um die klare Winterluft und den Ausblick zu genießen, bevor Sie den Tag in der beheizten Altstadt-Gastronomie beenden.",
-            "hu": "Télen a tömegközlekedés Dubrovnikban nyugodt és kényelmes. Kezdje a túrát a Stradunon és az Onofrio-kútnál. Látogassa meg a Ferences kolostort és a Sponza-palotát, melyek télen csendes hangulatot árasztanak. A buszok gyorsan közlekednek a Pile és Ploče kapuk között. A Szent Balázs-templom és a Rektori palota után irány a Srđ-hegy a tiszta téli levegőért, majd zárja a napot az óvárosban.",
-            "ro": "Iarna, transportul public în Dubrovnik este relaxat. Începeți turul pe Stradun și la Fântâna lui Onofrio. Vizitați Mănăstirea Franciscană și Palatul Sponza, care oferă o atmosferă liniștită iarna. Autobuzele circulă rapid între porțile Pile și Ploče. După Biserica Sf. Blasiu și Palatul Rectorului, mergeți spre Muntele Srđ pentru aerul curat de iarnă.",
-            "en": "In winter, public transport in Dubrovnik is relaxed. Start your tour at Stradun and Onofrio's Fountain. Visit the Franciscan Monastery and Sponza Palace, which offer a quiet atmosphere in winter. Buses run quickly between Pile and Ploče gates. After St. Blaise Church and the Rector's Palace, head to Mount Srđ for the clear winter air and views."
-          },
-          "stops": [
-            {
-              "name": "Stradun",
-              "tip_5lang": {
-                "de": "Der Winterfahrplan hat oft weniger Verbindungen als im Sommer.",
-                "hu": "A téli menetrend gyakran ritkább járatokat tartalmaz.",
-                "ro": "Orarele de iarnă au adesea mai puține conexiuni decât vara.",
-                "en": "The winter schedule often has fewer connections than in summer."
-              }
-            },
-            {
-              "name": "Onofrio-Brunnen",
-              "tip_5lang": {
-                "de": "Setzen Sie sich im Bus auf die linke Seite für Meerblick.",
-                "hu": "Üljön a busz bal oldalára a tengeri kilátáshoz.",
-                "ro": "Așezați-vă pe partea stângă a autobuzului pentru vederea la mare.",
-                "en": "Sit on the left side of the bus for sea views."
-              }
-            },
-            {
-              "name": "Franziskanerkloster",
-              "tip_5lang": {
-                "de": "Der Bus hält direkt am Eingang zur Altstadt.",
-                "hu": "A busz közvetlenül az óvárosi bejáratnál áll meg.",
-                "ro": "Autobuzul oprește chiar la intrarea în orașul vechi.",
-                "en": "The bus stops right at the entrance to the Old Town."
-              }
-            },
-            {
-              "name": "Sponza-Palast",
-              "tip_5lang": {
-                "de": "Weniger Wartezeit an den Haltestellen in der Nebensaison.",
-                "hu": "Kevesebb várakozási idő a megállókban az előszezonban.",
-                "ro": "Mai puțin timp de așteptare în stații în extrasezon.",
-                "en": "Less waiting time at stops during the low season."
-              }
-            },
-            {
-              "name": "St.-Blaise-Kirche",
-              "tip_5lang": {
-                "de": "Im Winter ist der Platz Schauplatz des Festes des Hl. Blasius.",
-                "hu": "Télen ez a tér a Szent Balázs-ünnepség helyszíne.",
-                "ro": "Iarna, piața găzduiește festivalul Sfântului Blasiu.",
-                "en": "In winter, the square hosts the festival of St. Blaise."
-              }
-            },
-            {
-              "name": "Rektorenpalast",
-              "tip_5lang": {
-                "de": "Die Busfahrt von hier zum Hafen Gruž dauert etwa 15 Minuten.",
-                "hu": "A buszút innen a Gruž kikötőig kb. 15 perc.",
-                "ro": "Călătoria cu autobuzul de aici până în portul Gruž durează 15 min.",
-                "en": "The bus ride from here to Gruž harbor takes about 15 minutes."
-              }
-            },
-            {
-              "name": "Berg Srđ",
-              "tip_5lang": {
-                "de": "Die Seilbahn ist im Winter oft wegen Revision geschlossen.",
-                "hu": "A felvonó télen gyakran zárva tart karbantartás miatt.",
-                "ro": "Telecabina este adesea închisă iarna pentru revizie.",
-                "en": "The cable car is often closed in winter for maintenance."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Ein 24-Stunden-Busticket lohnt sich bei mehreren Fahrten.",
-              "Die Busse sind gut beheizt, ideal zum Aufwärmen.",
-              "Abends fahren die Busse seltener, prüfen Sie den Nachtplan.",
-              "Die Seilbahn-Station ist etwa 10 Gehminuten vom Pile-Tor."
-            ],
-            "hu": [
-              "A 24 órás buszjegy megéri több utazás esetén.",
-              "A buszok jól fűtöttek, ideálisak a felmelegedéshez.",
-              "Este a buszok ritkábban járnak, ellenőrizze az éjszakai tervet.",
-              "A felvonó állomása kb. 10 perc séta a Pile-kaputól."
-            ],
-            "ro": [
-              "Un bilet de autobuz de 24 de ore merită pentru mai multe călătorii.",
-              "Autobuzele sunt bine încălzite, ideale pentru a vă încălzi.",
-              "Seara, autobuzele circulă mai rar, verificați programul de noapte.",
-              "Stația de telecabină este la aproximativ 10 minute de mers de Pile."
-            ],
-            "en": [
-              "A 24-hour bus ticket is worth it for multiple trips.",
-              "Buses are well-heated, ideal for warming up.",
-              "Buses run less frequently in the evening, check the night schedule.",
-              "The cable car station is about a 10-minute walk from Pile Gate."
-            ]
-          }
-        }
       }
-    }
-  },
-  "external_resources": {
-    "transit_official": "https://www.libertasdubrovnik.hr/en",
-    "transit_app": "https://moovitapp.com/index/en/public_transit-Dubrovnik-4304",
-    "bike_share": null,
-    "city_card": "https://www.dubrovnikpass.com/",
-    "events": "https://www.dubrovnik-festival.hr/en",
-    "tourism_office": "https://tzdubrovnik.hr/lang/en",
-    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/dubrovacko-neretvanska/dubrovnik/dubrovnik-ploce-gate.html",
-    "restaurants_booking": null,
-    "museum_tickets": "https://www.getyourguide.com/dubrovnik-l513/",
-    "parking_real_time": "https://www.sanitat.hr/en",
-    "language_tips": {
-      "de": "Drei nuetzliche kroatische Woerter: Bok (bok, hallo), Hvala (chwa-la, danke), Racun molim (ra-tschun mo-lim, die Rechnung bitte).",
-      "hu": "Harom hasznos horvat szo: Bok (bok, szia), Hvala (hvala, koszonom), Racun molim (racsun molim, a szamlat kerem).",
-      "ro": "Trei cuvinte utile in croata: Bok (bok, salut), Hvala (hvala, multumesc), Racun molim (raciun molim, nota va rog).",
-      "en": "Three useful Croatian words: Bok (bohk, hello), Hvala (hva-la, thank you), Racun molim (RA-choon MO-lim, the bill please)."
-    },
-    "best_time_to_visit": {
-      "de": "Mai bis Anfang Juni und September sind ideal (mildes Wetter, weniger Kreuzfahrttouristen). Juli und August vermeiden wegen Hitze und Menschenmassen.",
-      "hu": "Majus es junius eleje, valamint szeptember a legjobb (enyhe ido, kevesebb hajos turista). Julius es augusztus kerulendo a hoseg es a tomeg miatt.",
-      "ro": "Mai si inceputul lui iunie, plus septembrie sunt ideale (vreme blanda, mai putini turisti de croaziera). Evitati iulie si august din cauza caldurii si aglomeratiei.",
-      "en": "May to early June and September are ideal (mild weather, fewer cruise crowds). Avoid July and August due to heat and crowds."
-    },
-    "neighborhood_warnings": {
-      "de": "In der Altstadt (besonders Stradun) auf Taschendiebe achten, vor allem wenn Kreuzfahrtschiffe ankommen. Nachts sind die Gassen sicher, aber rutschige Stufen vorsichtig nehmen.",
-      "hu": "Az obvarosban (kulonosen a Stradunon) vigyazz a zsebtolvajokra, foleg amikor hajok erkeznek. Ejjel a siaktorok biztonsagosak, de a csuszos lepcsokre figyelj.",
-      "ro": "In Orasul Vechi (mai ales pe Stradun) atentie la hoti de buzunare, mai ales cand sosesc vase de croaziera. Noaptea straduzele sunt sigure dar atentie la treptele alunecoase.",
-      "en": "Watch for pickpockets in the Old Town (especially Stradun) when cruise ships dock. Alleys are safe at night but mind the slippery polished steps."
     }
   }
 }

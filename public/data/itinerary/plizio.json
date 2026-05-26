@@ -1,0 +1,1380 @@
+{
+  "city_id": "plizio",
+  "anchor": {
+    "name": "Piața Centrală / Központi tér / Central Square / Zentralplatz",
+    "coords": [
+      46.5,
+      23.5
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Centrală / Központi tér / Central Square / Zentralplatz",
+          "coords": [
+            46.5,
+            23.5
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh ankommen, dann ist es noch ruhig.",
+            "hu": "Érdemes korán jönni, még csendes.",
+            "ro": "Vino devreme, e liniștit.",
+            "en": "Arrive early, it's still quiet."
+          }
+        },
+        {
+          "name": "Biserica Sf. Mihail / Szent Mihály-templom / St. Michael's Church / St. Michael-Kirche",
+          "coords": [
+            46.501,
+            23.502
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Fresken im Inneren sind atemberaubend.",
+            "hu": "A belső freskók lenyűgözőek.",
+            "ro": "Frescele interioare sunt uimitoare.",
+            "en": "The interior frescoes are stunning."
+          }
+        },
+        {
+          "name": "Muzeul de Artă / Művészeti Múzeum / Art Museum / Kunstmuseum",
+          "coords": [
+            46.498,
+            23.498
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Dauerausstellung ist kostenlos am ersten Sonntag.",
+            "hu": "Az állandó kiállítás ingyenes minden hónap első vasárnapján.",
+            "ro": "Expoziția permanentă e gratuită în prima duminică din lună.",
+            "en": "Permanent exhibition is free on first Sunday."
+          }
+        },
+        {
+          "name": "Parcul Central / Központi Park / Central Park / Zentralpark",
+          "coords": [
+            46.496,
+            23.496
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Picknickdecke mitbringen – die Wiesen laden zum Verweilen ein.",
+            "hu": "Hozz pokrócot – a rétek hívogatóak.",
+            "ro": "Adu o pătură – peluzele invită la relaxare.",
+            "en": "Bring a blanket – the lawns invite lounging."
+          }
+        },
+        {
+          "name": "Restaurant La Castel / Kastély Étterem / Castle Restaurant / Schlossrestaurant",
+          "coords": [
+            46.497,
+            23.497
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie die hausgemachte Pálinka.",
+            "hu": "Kóstold meg a házi pálinkát.",
+            "ro": "Încearcă țuica de casă.",
+            "en": "Try the homemade pálinka."
+          }
+        },
+        {
+          "name": "Cetatea Plizio / Plizio vára / Plizio Fortress / Burg Plizio",
+          "coords": [
+            46.503,
+            23.503
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Turm hat man einen fantastischen Blick.",
+            "hu": "A toronyból fantasztikus a kilátás.",
+            "ro": "Din turn ai o priveliște fantastică.",
+            "en": "From the tower you have a fantastic view."
+          }
+        },
+        {
+          "name": "Piața Centrală (Abend) / Központi tér (este) / Central Square (evening) / Zentralplatz (Abend)",
+          "coords": [
+            46.5,
+            23.5
+          ],
+          "category": "sunset",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Setzen Sie sich auf eine Bank und genießen Sie den Sonnenuntergang.",
+            "hu": "Ülj le egy padra és élvezd a naplementét.",
+            "ro": "Așază-te pe o bancă și bucură-te de apus.",
+            "en": "Sit on a bench and enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem zentralen Platz, wo die Stadt erwacht. Nach einem kurzen Spaziergang besuchen Sie die Kirche, deren Fresken Sie in eine andere Zeit versetzen. Das Museum bietet einen tiefen Einblick in die lokale Kunstszene. Am Mittag entspannen Sie im Park, bevor Sie ein traditionelles Mittagessen genießen. Der Nachmittag gehört der Erkundung der Festung, von deren Türmen Sie die ganze Stadt überblicken. Den Abend lassen Sie auf dem Platz bei einem Glas Wein ausklingen.",
+        "hu": "A reggel a központi téren kezdődik, ahol a város ébredezik. Egy rövid séta után meglátogatja a templomot, melynek freskói egy másik korba repítik. A múzeum mély betekintést nyújt a helyi művészeti életbe. Délben a parkban pihen, mielőtt egy hagyományos ebédet fogyasztana el. A délután a vár felfedezéséé, melynek tornyaiból az egész városra rálát. Az estét a téren egy pohár bor mellett zárja.",
+        "ro": "Dimineața începe în piața centrală, unde orașul se trezește. După o scurtă plimbare, vizitați biserica, ale cărei fresce vă transportă în altă epocă. Muzeul oferă o perspectivă profundă asupra scenei artistice locale. La prânz vă relaxați în parc, înainte de a savura un prânz tradițional. După-amiaza este dedicată explorării cetății, de pe ale cărei turnuri vedeți tot orașul. Seara o încheiați în piață cu un pahar de vin.",
+        "en": "The morning starts on the central square as the city awakens. After a short walk, you visit the church, whose frescoes transport you to another era. The museum offers deep insight into the local art scene. At noon you relax in the park before enjoying a traditional lunch. The afternoon is for exploring the fortress, from whose towers you overlook the entire city. You end the evening on the square with a glass of wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Castel",
+            "tip": "Hausgemachte Pálinka und traditionelle Eintöpfe."
+          },
+          {
+            "name": "Biergarten Plizio",
+            "tip": "Lokale Biere und deftige Snacks."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Feine Patisserien und Kaffeespezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Castel",
+            "tip": "Házi pálinka és hagyományos pörköltek."
+          },
+          {
+            "name": "Plizio Sörkert",
+            "tip": "Helyi sörök és laktató falatok."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Finom sütemények és kávékülönlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Castel",
+            "tip": "Țuică de casă și tocănițe tradiționale."
+          },
+          {
+            "name": "Berăria Plizio",
+            "tip": "Beră locale și gustări consistente."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Patiserii fine și specialități de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Castel",
+            "tip": "Homemade pálinka and traditional stews."
+          },
+          {
+            "name": "Plizio Beer Garden",
+            "tip": "Local beers and hearty snacks."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Fine pastries and coffee specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsturm",
+            "tip": "Ruhiger Ort mit Panoramablick bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parkbank am See",
+            "tip": "Entspannung unter alten Bäumen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Versteckter Garten mit Kräutern und Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vár torony",
+            "tip": "Csendes hely panorámával naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tóparti pad",
+            "tip": "Pihenés öreg fák alatt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "Rejtett kert gyógynövényekkel és csenddel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul cetății",
+            "tip": "Loc liniștit cu panoramă la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banca de lângă lac",
+            "tip": "Relaxare sub copaci bătrâni.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Grădină ascunsă cu ierburi și liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Tower",
+            "tip": "Quiet spot with panoramic view at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lakeside Bench",
+            "tip": "Relaxation under old trees.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "Hidden garden with herbs and silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksmarkt",
+            "tip": "Keramik und Holzschnitzereien aus der Region."
+          },
+          {
+            "name": "Antiquitätenladen",
+            "tip": "Alte Uhren und Schmuckstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves piac",
+            "tip": "Kerámia és fafaragások a régióból."
+          },
+          {
+            "name": "Régiségbolt",
+            "tip": "Régi órák és ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târgul meșteșugarilor",
+            "tip": "Ceramică și sculpturi în lemn din regiune."
+          },
+          {
+            "name": "Magazin de antichități",
+            "tip": "Ceasuri vechi și bijuterii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft Market",
+            "tip": "Pottery and wood carvings from the region."
+          },
+          {
+            "name": "Antique Shop",
+            "tip": "Old clocks and jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe – die Altstadt ist kopfsteingepflastert.",
+          "Nehmen Sie eine Wasserflasche mit; es gibt viele Trinkbrunnen.",
+          "Planen Sie Pausen in den Parks ein – sie sind Oasen der Ruhe.",
+          "Der Markt am Morgen ist am authentischsten.",
+          "Abends wird es kühl – eine leichte Jacke ist empfehlenswert."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt – a belváros macskaköves.",
+          "Vigyél magaddal kulacsot; sok ivókút van.",
+          "Tervezz be pihenőket a parkokban – a csend oázisai.",
+          "A reggeli piac a leghitelesebb.",
+          "Este hűvös lesz – egy könnyű kabát ajánlott."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă – centrul vechi e pavat cu piatră cubică.",
+          "Luați o sticlă de apă; există multe fântâni cu apă potabilă.",
+          "Planificați pauze în parcuri – sunt oaze de liniște.",
+          "Piața de dimineață e cea mai autentică.",
+          "Seara se răcorește – o geacă ușoară e recomandată."
+        ],
+        "en": [
+          "Wear comfortable shoes – the old town is cobblestoned.",
+          "Bring a water bottle; there are many drinking fountains.",
+          "Plan breaks in the parks – they are oases of calm.",
+          "The morning market is the most authentic.",
+          "Evenings get cool – a light jacket is recommended."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piața Centrală / Központi tér / Central Square / Zentralplatz",
+          "coords": [
+            46.5,
+            23.5
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahrradständer gibt es am Rand des Platzes.",
+            "hu": "Kerékpártárolók a tér szélén vannak.",
+            "ro": "Suporturi de biciclete sunt la marginea pieței.",
+            "en": "Bike racks are at the edge of the square."
+          }
+        },
+        {
+          "name": "Biserica Sf. Mihail / Szent Mihály-templom / St. Michael's Church / St. Michael-Kirche",
+          "coords": [
+            46.501,
+            23.502
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Fahrrad kann man am Geländer abschließen.",
+            "hu": "A kerékpárt a korláthoz lehet lakatolni.",
+            "ro": "Poți încuia bicicleta de balustradă.",
+            "en": "You can lock the bike to the railing."
+          }
+        },
+        {
+          "name": "Muzeul de Artă / Művészeti Múzeum / Art Museum / Kunstmuseum",
+          "coords": [
+            46.498,
+            23.498
+          ],
+          "category": "museum",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrradparkplatz ist kostenlos hinter dem Museum.",
+            "hu": "Ingyenes kerékpárparkoló a múzeum mögött.",
+            "ro": "Parcare gratuită pentru biciclete în spatele muzeului.",
+            "en": "Free bike parking behind the museum."
+          }
+        },
+        {
+          "name": "Parcul Central / Központi Park / Central Park / Zentralpark",
+          "coords": [
+            46.496,
+            23.496
+          ],
+          "category": "park",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Durch den Park führt ein eigener Radweg.",
+            "hu": "A parkon keresztül külön kerékpárút vezet.",
+            "ro": "Prin parc trece o pistă separată de biciclete.",
+            "en": "A dedicated bike path runs through the park."
+          }
+        },
+        {
+          "name": "Restaurant La Castel / Kastély Étterem / Castle Restaurant / Schlossrestaurant",
+          "coords": [
+            46.497,
+            23.497
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Restaurant hat einen Fahrradständer vor der Tür.",
+            "hu": "Az étterem előtt kerékpártároló van.",
+            "ro": "Restaurantul are un suport de biciclete în față.",
+            "en": "The restaurant has a bike rack out front."
+          }
+        },
+        {
+          "name": "Cetatea Plizio / Plizio vára / Plizio Fortress / Burg Plizio",
+          "coords": [
+            46.503,
+            23.503
+          ],
+          "category": "historical",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der Aufstieg zur Festung ist steil – schieben Sie das Rad.",
+            "hu": "A várhoz vezető út meredek – tolja a biciklit.",
+            "ro": "Drumul spre cetate e abrupt – împingeți bicicleta.",
+            "en": "The climb to the fortress is steep – push the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad sind Sie flexibel und schnell unterwegs. Vom zentralen Platz aus radeln Sie zur Kirche, dann zum Museum. Der Park lädt zu einer Pause ein, bevor Sie im Restaurant einkehren. Die Festung erreichen Sie über einen malerischen Weg. Der Tag endet mit einer entspannten Rückfahrt durch die Gassen.",
+        "hu": "Kerékpárral rugalmas és gyors a közlekedés. A központi térről a templomhoz teker, majd a múzeumhoz. A parkban pihenőt tart, mielőtt az étterembe betér. A várhoz festői úton jut el. A nap egy laza visszatekercseléssel zárul a sikátorokon át.",
+        "ro": "Cu bicicleta sunteți flexibil și rapid. Din piața centrală pedalați spre biserică, apoi spre muzeu. Parcul vă invită la o pauză înainte de a intra în restaurant. La cetate ajungeți pe un drum pitoresc. Ziua se încheie cu o întoarcere relaxată pe alei.",
+        "en": "By bike you are flexible and fast. From the central square you cycle to the church, then to the museum. The park invites a break before you stop at the restaurant. You reach the fortress via a scenic path. The day ends with a relaxed ride back through the alleys."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Castel",
+            "tip": "Radlerfreundlich – Biergarten mit Fahrradständer."
+          },
+          {
+            "name": "Biker's Café",
+            "tip": "Spezialisiert auf Radler – Smoothies und Energieriegel."
+          },
+          {
+            "name": "Pizzeria Al Forno",
+            "tip": "Italienische Küche, direkt am Radweg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Castel",
+            "tip": "Kerékpárosbarát – sörkert kerékpártárolóval."
+          },
+          {
+            "name": "Biker's Café",
+            "tip": "Kerékpárosokra specializálódva – turmixok és energiaszeletek."
+          },
+          {
+            "name": "Pizzeria Al Forno",
+            "tip": "Olasz konyha, közvetlenül a kerékpárút mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Castel",
+            "tip": "Prietenos cu bicicliștii – berărie cu suport de biciclete."
+          },
+          {
+            "name": "Biker's Café",
+            "tip": "Specializat pe bicicliști – smoothie-uri și batoane energizante."
+          },
+          {
+            "name": "Pizzeria Al Forno",
+            "tip": "Bucătărie italiană, direct lângă pistă."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Castel",
+            "tip": "Cyclist-friendly – beer garden with bike rack."
+          },
+          {
+            "name": "Biker's Café",
+            "tip": "Specialized for cyclists – smoothies and energy bars."
+          },
+          {
+            "name": "Pizzeria Al Forno",
+            "tip": "Italian cuisine, right on the bike path."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Hügel",
+            "tip": "Rastplatz mit Bank und Blick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldweg hinter der Festung",
+            "tip": "Schattiger Pfad, ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seepromenade",
+            "tip": "Ruhige Strecke entlang des Wassers.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a dombon",
+            "tip": "Pihenőhely padokkal és városképpel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei ösvény a vár mögött",
+            "tip": "Árnyékos ösvény, ideális egy szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tavi sétány",
+            "tip": "Csendes szakasz a víz mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe deal",
+            "tip": "Loc de odihnă cu bancă și vedere la oraș.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteca forestieră din spatele cetății",
+            "tip": "Potecă umbrită, ideală pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenada lacului",
+            "tip": "Traseu liniștit de-a lungul apei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hilltop Viewpoint",
+            "tip": "Rest stop with bench and city view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest Path behind Fortress",
+            "tip": "Shady path, ideal for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lakeside Promenade",
+            "tip": "Quiet stretch along the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen am Markt",
+            "tip": "Zubehör und Karten für Radtouren."
+          },
+          {
+            "name": "Honigstand",
+            "tip": "Lokaler Honig und Propolis-Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt a piacon",
+            "tip": "Kiegészítők és térképek kerékpártúrákhoz."
+          },
+          {
+            "name": "Mézes stand",
+            "tip": "Helyi méz és propolisz termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete la piață",
+            "tip": "Accesorii și hărți pentru ture cu bicicleta."
+          },
+          {
+            "name": "Stand cu miere",
+            "tip": "Miere locală și produse din propolis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop at Market",
+            "tip": "Accessories and maps for bike tours."
+          },
+          {
+            "name": "Honey Stand",
+            "tip": "Local honey and propolis products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie vor der Tour den Reifendruck.",
+          "Tragen Sie einen Helm – Sicherheit geht vor.",
+          "Nutzen Sie die Radwege – sie sind gut ausgeschildert.",
+          "Planen Sie genug Zeit für Pausen ein.",
+          "Abends sind die Straßen ruhiger – perfekt für eine Ausfahrt."
+        ],
+        "hu": [
+          "Ellenőrizd a guminyomást a túra előtt.",
+          "Viselj sisakot – a biztonság az első.",
+          "Használd a kerékpárutakat – jól ki vannak táblázva.",
+          "Tervezz be elég időt a pihenőkre.",
+          "Este csendesebbek az utcák – tökéletes egy körre."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de tură.",
+          "Purtați cască – siguranța pe primul loc.",
+          "Folosiți pistele de biciclete – sunt bine semnalizate.",
+          "Planificați suficient timp pentru pauze.",
+          "Seara străzile sunt mai liniștite – perfect pentru o plimbare."
+        ],
+        "en": [
+          "Check tire pressure before the tour.",
+          "Wear a helmet – safety first.",
+          "Use the bike paths – they are well signposted.",
+          "Plan enough time for breaks.",
+          "Evenings are quieter on the streets – perfect for a ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 28.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piața Centrală / Központi tér / Central Square / Zentralplatz",
+          "coords": [
+            46.5,
+            23.5
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am besten am Rand des Platzes.",
+            "hu": "A legjobb a tér szélén parkolni.",
+            "ro": "Parchează la marginea pieței.",
+            "en": "Best to park at the edge of the square."
+          }
+        },
+        {
+          "name": "Biserica Sf. Mihail / Szent Mihály-templom / St. Michael's Church / St. Michael-Kirche",
+          "coords": [
+            46.501,
+            23.502
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar – das Auto bleibt am Platz.",
+            "hu": "Gyalog elérhető – az autó a téren marad.",
+            "ro": "Accesibil pe jos – mașina rămâne în piață.",
+            "en": "Walkable – the car stays at the square."
+          }
+        },
+        {
+          "name": "Muzeul de Artă / Művészeti Múzeum / Art Museum / Kunstmuseum",
+          "coords": [
+            46.498,
+            23.498
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Platz aus zu Fuß – kein Umparken nötig.",
+            "hu": "A térről gyalog – nem kell átparkolni.",
+            "ro": "Din piață pe jos – nu e nevoie să mutați mașina.",
+            "en": "From the square on foot – no need to move the car."
+          }
+        },
+        {
+          "name": "Parcul Central / Központi Park / Central Park / Zentralpark",
+          "coords": [
+            46.496,
+            23.496
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum – das Auto bleibt stehen.",
+            "hu": "Rövid séta a múzeumtól – az autó áll.",
+            "ro": "Scurtă plimbare de la muzeu – mașina rămâne.",
+            "en": "Short walk from the museum – the car stays."
+          }
+        },
+        {
+          "name": "Restaurant La Castel / Kastély Étterem / Castle Restaurant / Schlossrestaurant",
+          "coords": [
+            46.497,
+            23.497
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Mittagessen im Zentrum – das Auto parkt noch am Platz.",
+            "hu": "Ebéd a központban – az autó még a téren parkol.",
+            "ro": "Prânz în centru – mașina încă parcată în piață.",
+            "en": "Lunch in the center – the car is still parked at the square."
+          }
+        },
+        {
+          "name": "Cetatea Plizio / Plizio vára / Plizio Fortress / Burg Plizio",
+          "coords": [
+            46.503,
+            23.503
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Restaurant – das Auto bleibt im Zentrum.",
+            "hu": "Gyalog az étteremtől – az autó a központban marad.",
+            "ro": "Pe jos de la restaurant – mașina rămâne în centru.",
+            "en": "On foot from the restaurant – the car stays in the center."
+          }
+        },
+        {
+          "name": "Lacul Plizio / Plizio-tó / Plizio Lake / Plizio-See",
+          "coords": [
+            46.48,
+            23.52
+          ],
+          "category": "beach",
+          "arrive_at": "16:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am See – Badesachen nicht vergessen!",
+            "hu": "Parkoló közvetlenül a tónál – ne felejtsd el a fürdőruhát!",
+            "ro": "Parcare direct la lac – nu uita costumul de baie!",
+            "en": "Parking right at the lake – don't forget your swimsuit!"
+          }
+        },
+        {
+          "name": "Piața Centrală (Abend) / Központi tér (este) / Central Square (evening) / Zentralplatz (Abend)",
+          "coords": [
+            46.5,
+            23.5
+          ],
+          "category": "sunset",
+          "arrive_at": "19:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Zum Sonnenuntergang zurück am Platz – das Auto steht noch da.",
+            "hu": "Naplementére vissza a térre – az autó még ott van.",
+            "ro": "Înapoi în piață la apus – mașina e încă acolo.",
+            "en": "Back at the square for sunset – the car is still there."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie bequem am zentralen Platz. Nach einem Rundgang zu Fuß besuchen Sie Kirche, Museum und Park. Das Mittagessen genießen Sie in einem traditionellen Restaurant. Am Nachmittag fahren Sie zum nahegelegenen See, wo Sie baden und entspannen. Den Abend lassen Sie auf dem Platz bei Sonnenuntergang ausklingen.",
+        "hu": "Autóval kényelmesen indul a központi térről. Egy gyalogos kör után meglátogatja a templomot, a múzeumot és a parkot. Az ebédet egy hagyományos étteremben élvezi. Délután a közeli tóhoz megy, ahol fürdik és pihen. Az estét a téren, naplementében zárja.",
+        "ro": "Cu mașina porniți confortabil din piața centrală. După o plimbare pe jos, vizitați biserica, muzeul și parcul. Prânzul îl savurați la un restaurant tradițional. După-amiaza mergeți la lacul din apropiere, unde faceți baie și vă relaxați. Seara o încheiați în piață la apus.",
+        "en": "By car you start comfortably from the central square. After a walking tour you visit the church, museum and park. You enjoy lunch at a traditional restaurant. In the afternoon you drive to the nearby lake for swimming and relaxation. You end the evening on the square at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Castel",
+            "tip": "Traditionelle Küche mit saisonalen Gerichten."
+          },
+          {
+            "name": "See-Restaurant",
+            "tip": "Frischer Fisch und Terrasse mit Seeblick."
+          },
+          {
+            "name": "Weinstube am Platz",
+            "tip": "Lokale Weine und Käseplatten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Castel",
+            "tip": "Hagyományos konyha szezonális ételekkel."
+          },
+          {
+            "name": "Tó étterem",
+            "tip": "Friss hal és terasz tókilátással."
+          },
+          {
+            "name": "Borozó a téren",
+            "tip": "Helyi borok és sajttálak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Castel",
+            "tip": "Bucătărie tradițională cu preparate de sezon."
+          },
+          {
+            "name": "Restaurantul la Lac",
+            "tip": "Pește proaspăt și terasă cu vedere la lac."
+          },
+          {
+            "name": "Crama din Piață",
+            "tip": "Vinuri locale și platouri de brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Castel",
+            "tip": "Traditional cuisine with seasonal dishes."
+          },
+          {
+            "name": "Lake Restaurant",
+            "tip": "Fresh fish and terrace with lake view."
+          },
+          {
+            "name": "Wine Bar on the Square",
+            "tip": "Local wines and cheese platters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seeufer",
+            "tip": "Ruhige Bucht zum Schwimmen und Sonnenbaden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aussichtspunkt am See",
+            "tip": "Panoramablick über das Wasser bei Sonnenuntergang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Waldweg am See",
+            "tip": "Schattiger Spaziergang entlang des Ufers.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti öböl",
+            "tip": "Csendes öböl fürdéshez és napozáshoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kilátó a tónál",
+            "tip": "Panorámás kilátás a vízre naplementekor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Erdei ösvény a tó mellett",
+            "tip": "Árnyékos séta a part mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golf la lac",
+            "tip": "Golf liniștit pentru înot și plajă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Punct de belvedere la lac",
+            "tip": "Vedere panoramică asupra apei la apus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Potecă forestieră lângă lac",
+            "tip": "Plimbare umbrită de-a lungul malului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Cove",
+            "tip": "Quiet cove for swimming and sunbathing.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lake Viewpoint",
+            "tip": "Panoramic view over the water at sunset.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Forest Path by the Lake",
+            "tip": "Shady walk along the shore.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt am See",
+            "tip": "Handgefertigte Andenken und lokale Produkte."
+          },
+          {
+            "name": "Weinhandlung",
+            "tip": "Weine aus der Region zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti piac",
+            "tip": "Kézműves ajándéktárgyak és helyi termékek."
+          },
+          {
+            "name": "Borkereskedés",
+            "tip": "A régió borai elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Târg la lac",
+            "tip": "Suveniruri artizanale și produse locale."
+          },
+          {
+            "name": "Magazin de vinuri",
+            "tip": "Vinuri din regiune de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Market",
+            "tip": "Handcrafted souvenirs and local products."
+          },
+          {
+            "name": "Wine Shop",
+            "tip": "Wines from the region to take away."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Zentrum am besten in der Tiefgarage am Platz.",
+          "Der See ist nur 15 Minuten mit dem Auto entfernt.",
+          "Nehmen Sie Badesachen und ein Handtuch mit.",
+          "Planen Sie genug Zeit für den See ein – er ist groß.",
+          "Abends ist der Platz beleuchtet – sehr romantisch."
+        ],
+        "hu": [
+          "A központban a legjobb a tér alatti mélygarázsban parkolni.",
+          "A tó csak 15 percre van autóval.",
+          "Vigyél magaddal fürdőruhát és törölközőt.",
+          "Tervezz elég időt a tóra – nagy.",
+          "Este a tér ki van világítva – nagyon romantikus."
+        ],
+        "ro": [
+          "În centru, parcați cel mai bine în parcarea subterană de sub piață.",
+          "Lacul este la doar 15 minute cu mașina.",
+          "Luați costum de baie și prosop.",
+          "Planificați suficient timp pentru lac – este mare.",
+          "Seara piața este iluminată – foarte romantic."
+        ],
+        "en": [
+          "In the center, best to park in the underground garage under the square.",
+          "The lake is only 15 minutes by car.",
+          "Bring swimsuit and towel.",
+          "Plan enough time for the lake – it's big.",
+          "In the evening the square is lit – very romantic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piața Centrală / Központi tér / Central Square / Zentralplatz",
+          "coords": [
+            46.5,
+            23.5
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist direkt am Platz.",
+            "hu": "A buszmegálló közvetlenül a téren van.",
+            "ro": "Stația de autobuz este chiar în piață.",
+            "en": "The bus stop is right on the square."
+          }
+        },
+        {
+          "name": "Biserica Sf. Mihail / Szent Mihály-templom / St. Michael's Church / St. Michael-Kirche",
+          "coords": [
+            46.501,
+            23.502
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Platz aus zu Fuß erreichbar.",
+            "hu": "A térről gyalog elérhető.",
+            "ro": "Accesibil pe jos din piață.",
+            "en": "Walkable from the square."
+          }
+        },
+        {
+          "name": "Muzeul de Artă / Művészeti Múzeum / Art Museum / Kunstmuseum",
+          "coords": [
+            46.498,
+            23.498
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß – das Ticket gilt für die Zone.",
+            "hu": "Gyalog – a jegy érvényes a zónában.",
+            "ro": "Pe jos – biletul e valabil în zonă.",
+            "en": "On foot – the ticket is valid in the zone."
+          }
+        },
+        {
+          "name": "Parcul Central / Központi Park / Central Park / Zentralpark",
+          "coords": [
+            46.496,
+            23.496
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": "Restaurant La Castel / Kastély Étterem / Castle Restaurant / Schlossrestaurant",
+          "coords": [
+            46.497,
+            23.497
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Mittagessen im Zentrum – die nächste Bushaltestelle ist um die Ecke.",
+            "hu": "Ebéd a központban – a legközelebbi buszmegálló a sarkon van.",
+            "ro": "Prânz în centru – cea mai apropiată stație de autobuz e la colț.",
+            "en": "Lunch in the center – the nearest bus stop is around the corner."
+          }
+        },
+        {
+          "name": "Cetatea Plizio / Plizio vára / Plizio Fortress / Burg Plizio",
+          "coords": [
+            46.503,
+            23.503
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Restaurant – oder Buslinie 5 zur Festung.",
+            "hu": "Gyalog az étteremtől – vagy az 5-ös busz a várhoz.",
+            "ro": "Pe jos de la restaurant – sau autobuzul 5 până la cetate.",
+            "en": "On foot from the restaurant – or bus line 5 to the fortress."
+          }
+        },
+        {
+          "name": "Piața Centrală (Abend) / Központi tér (este) / Central Square (evening) / Zentralplatz (Abend)",
+          "coords": [
+            46.5,
+            23.5
+          ],
+          "category": "sunset",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück zum Platz – die Linie 5 fährt alle 10 Minuten.",
+            "hu": "Busszal vissza a térre – az 5-ös busz 10 percenként jár.",
+            "ro": "Cu autobuzul înapoi în piață – linia 5 circulă la fiecare 10 minute.",
+            "en": "By bus back to the square – line 5 runs every 10 minutes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln sind Sie umweltfreundlich unterwegs. Vom zentralen Platz aus erkunden Sie zu Fuß die Kirche und das Museum. Nach einer Pause im Park und einem Mittagessen fahren Sie mit dem Bus zur Festung. Den Abend verbringen Sie wieder auf dem Platz, den Sie bequem mit dem Bus erreichen.",
+        "hu": "Tömegközlekedéssel környezetbarát módon közlekedik. A központi térről gyalog fedezi fel a templomot és a múzeumot. Egy parki pihenő és ebéd után busszal megy a várhoz. Az estét ismét a téren tölti, ahová kényelmesen visszajut busszal.",
+        "ro": "Cu transportul public sunteți ecologic. Din piața centrală explorați pe jos biserica și muzeul. După o pauză în parc și un prânz, mergeți cu autobuzul la cetate. Seara o petreceți din nou în piață, unde ajungeți comod cu autobuzul.",
+        "en": "By public transport you travel eco-friendly. From the central square you explore the church and museum on foot. After a break in the park and lunch, you take the bus to the fortress. You spend the evening back on the square, easily reached by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Castel",
+            "tip": "Gut mit dem Bus erreichbar – Haltestelle Zentrum."
+          },
+          {
+            "name": "Bistro am Platz",
+            "tip": "Schnelle Küche für zwischendurch."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Kaffee und Kuchen – ideal vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Castel",
+            "tip": "Busszal jól megközelíthető – Központ megálló."
+          },
+          {
+            "name": "Bistro a téren",
+            "tip": "Gyors konyha egy kis étvágyra."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Kávé és sütemény – ideális indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Castel",
+            "tip": "Accesibil cu autobuzul – stația Centru."
+          },
+          {
+            "name": "Bistro în Piață",
+            "tip": "Bucătărie rapidă pentru o gustare."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Cafea și prăjituri – ideal înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Castel",
+            "tip": "Easily reachable by bus – stop Center."
+          },
+          {
+            "name": "Bistro on the Square",
+            "tip": "Quick cuisine for a snack."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Coffee and cake – ideal before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkbank",
+            "tip": "Ruhige Ecke im Park, abseits der Wege.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Klosterhof",
+            "tip": "Stiller Innenhof mit Brunnen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt an der Festung",
+            "tip": "Wenig besuchter Ort mit Blick auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parki pad",
+            "tip": "Csendes sarok a parkban, távol az ösvényektől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kolostorudvar",
+            "tip": "Csendes belső udvar kúttal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a várnál",
+            "tip": "Kevéssé látogatott hely városképpel.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă în parc",
+            "tip": "Colț liniștit în parc, departe de alei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea mănăstirii",
+            "tip": "Curte interioară liniștită cu fântână.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la cetate",
+            "tip": "Loc puțin vizitat cu vedere la oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Bench",
+            "tip": "Quiet corner in the park, away from paths.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Monastery Courtyard",
+            "tip": "Quiet inner courtyard with a fountain.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fortress Viewpoint",
+            "tip": "Little-visited spot with city view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktstand am Platz",
+            "tip": "Lokale Produkte und Souvenirs."
+          },
+          {
+            "name": "Buchhandlung",
+            "tip": "Reiseführer und Karten über die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piaci stand a téren",
+            "tip": "Helyi termékek és ajándéktárgyak."
+          },
+          {
+            "name": "Könyvesbolt",
+            "tip": "Útikönyvek és térképek a régióról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand în piață",
+            "tip": "Produse locale și suveniruri."
+          },
+          {
+            "name": "Librărie",
+            "tip": "Ghiduri turistice și hărți ale regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Stall on the Square",
+            "tip": "Local products and souvenirs."
+          },
+          {
+            "name": "Bookstore",
+            "tip": "Travel guides and maps of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket – es lohnt sich für mehrere Fahrten.",
+          "Die Busse fahren zuverlässig im 10-Minuten-Takt.",
+          "Halten Sie Ihr Ticket bereit – es gibt Kontrollen.",
+          "Planen Sie die Abfahrtszeiten – die letzte Fahrt ist um 22 Uhr.",
+          "Die Haltestellen sind gut ausgeschildert."
+        ],
+        "hu": [
+          "Vegyél napijegyet – több utazásra is megéri.",
+          "A buszok megbízhatóan, 10 percenként járnak.",
+          "Tartsd készen a jegyed – ellenőrzések lehetnek.",
+          "Tervezd meg az indulási időket – az utolsó járat 22 órakor van.",
+          "A megállók jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Cumpărați un bilet de zi – merită pentru mai multe călătorii.",
+          "Autobuzele circulă regulat la fiecare 10 minute.",
+          "Țineți biletul la îndemână – există controale.",
+          "Planificați orele de plecare – ultima cursă este la ora 22.",
+          "Stațiile sunt bine semnalizate."
+        ],
+        "en": [
+          "Buy a day ticket – it's worth it for multiple trips.",
+          "Buses run reliably every 10 minutes.",
+          "Keep your ticket ready – there are checks.",
+          "Plan departure times – the last service is at 10 PM.",
+          "The stops are well signposted."
+        ]
+      }
+    }
+  }
+}

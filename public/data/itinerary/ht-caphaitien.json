@@ -1,0 +1,497 @@
+{
+  "city_id": "ht-caphaitien",
+  "anchor": {
+    "name": "Cap-Haïtien",
+    "coords": [
+      -72.2042,
+      19.7594
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame székesegyház",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            -72.201,
+            19.761
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die spirituelle Mitte der Stadt am Hauptplatz.",
+            "hu": "A város vallási központja a főtéren.",
+            "ro": "Centrul spiritual al orașului în piața principală.",
+            "en": "The spiritual heart of the city on the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolonialviertel (Spaziergang)",
+            "hu": "Gyarmati negyed (séta)",
+            "ro": "Cartierul Colonial",
+            "en": "Colonial District Walk"
+          },
+          "coords": [
+            -72.203,
+            19.763
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Paris der Antillen - bunte Kolonialhäuser.",
+            "hu": "Az Antillák Párizsa - színes házak.",
+            "ro": "Parisul Antilelor - case coloniale colorate.",
+            "en": "Paris of the Antilles - colorful colonial houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Boulevard",
+            "hu": "Ebéd a sugárúton",
+            "ro": "Prânz pe bulevard",
+            "en": "Lunch on the Boulevard"
+          },
+          "coords": [
+            -72.198,
+            19.765
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Meeresfrüchte mit Meerblick.",
+            "hu": "Tengeri ételek kilátással az óceánra.",
+            "ro": "Fructe de mare cu vedere la ocean.",
+            "en": "Fresh seafood with a view of the Atlantic."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché Cluny",
+            "hu": "Cluny piac",
+            "ro": "Piața Cluny",
+            "en": "Cluny Market"
+          },
+          "coords": [
+            -72.205,
+            19.758
+          ],
+          "category": "market",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Authentisches Markterlebnis im Norden.",
+            "hu": "Autentikus piaci élmény északon.",
+            "ro": "Experiență autentică de piață în nord.",
+            "en": "Authentic northern market experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Picoulet",
+            "hu": "Fort Picoulet erőd",
+            "ro": "Fortul Picoulet",
+            "en": "Fort Picoulet"
+          },
+          "coords": [
+            -72.2,
+            19.78
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ruinen am Meer mit toller Brandung.",
+            "hu": "Romok az óceánparton, látványos hullámokkal.",
+            "ro": "Ruine la malul mării cu valuri spectaculoase.",
+            "en": "Cliffs and ruins with spectacular crashing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnuntergang am Hafen",
+            "hu": "Naplemente a kikötőben",
+            "ro": "Apus de soare în port",
+            "en": "Harbor Sunset"
+          },
+          "coords": [
+            -72.199,
+            19.76
+          ],
+          "category": "sunset",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Abschluss des Tages am Wasser.",
+            "hu": "A nap lezárása a vízparton.",
+            "ro": "Încheierea zilei pe malul apei.",
+            "en": "End your walk by the historic waterfront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das 'Paris der Antillen' zu Fuß. Von der majestätischen Kathedrale schlendern Sie durch Gassen mit französischer Kolonialarchitektur zum Boulevard für ein maritimes Mittagessen. Nach einem Besuch auf dem Cluny-Markt wandern Sie entlang der Küste zum dramatisch gelegenen Fort Picoulet, bevor Sie den Tag am Hafen ausklingen lassen.",
+        "hu": "Fedezze fel az 'Antillák Párizsát' gyalogosan. A fenséges katedrálistól indulva sétáljon végig a francia gyarmati utcákon a sugárútig egy tengeri ebédre. A Cluny piac meglátogatása után túrázzon a part mentén a drámai fekvésű Fort Picoulet erődhöz, majd zárja a napot a kikötőben.",
+        "ro": "Descoperiți „Parisul Antilelor” la pas. De la catedrala maiestuoasă, plimbați-vă pe străzile cu arhitectură colonială franceză până la bulevard pentru un prânz pescăresc. După piața Cluny, mergeți de-a lungul coastei spre Fort Picoulet, situat dramatic pe stânci.",
+        "en": "Discover the 'Paris of the Antilles' on foot. From the majestic cathedral, stroll through alleys of French colonial architecture to the waterfront boulevard for a seafood lunch. After the Cluny Market, hike along the coast to the dramatically situated Fort Picoulet before ending the day at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Homard Grillé",
+            "tip": "Frisch gefangener gegrillter Hummer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett homár",
+            "tip": "Frissen fogott, faszénen sült homár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Homar la grătar",
+            "tip": "Homar proaspăt pescuit, gătit la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Lobster",
+            "tip": "Freshly caught lobster grilled by the ocean."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fort Picoulet Klippen",
+            "tip": "Blick auf den Atlantik.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fort Picoulet sziklák",
+            "tip": "Kilátás az Atlanti-óceánra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Fort Picoulet",
+            "tip": "Vedere peste Atlantic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort Picoulet Cliffs",
+            "tip": "Vantage point for Atlantic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulevard Souvenirs",
+            "tip": "Lokale haitianische Gemälde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulevard ajándékbolt",
+            "tip": "Helyi haiti festmények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de pe Bulevard",
+            "tip": "Picturi locale haitiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulevard Souvenirs",
+            "tip": "Local Haitian paintings and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beste Reisezeit ist der frühe Morgen oder späte Nachmittag.",
+          "Trinken Sie Kokoswasser direkt von der Frucht."
+        ],
+        "hu": [
+          "A legjobb időpont a kora reggel vagy a késő délután.",
+          "Igyál kókuszvizet közvetlenül a gyümölcsből."
+        ],
+        "ro": [
+          "Cel mai bun moment este dimineața devreme sau după-amiaza târziu.",
+          "Beți apă de cocos direct din fruct."
+        ],
+        "en": [
+          "Best time for walking is early morning or late afternoon.",
+          "Enjoy fresh coconut water from street vendors."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 55.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sans-Souci Palast (Milot)",
+            "hu": "Sans-Souci palota (Milot)",
+            "ro": "Palatul Sans-Souci",
+            "en": "Sans-Souci Palace (Milot)"
+          },
+          "coords": [
+            -72.2431,
+            19.6044
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Das haitianische Versailles.",
+            "hu": "A haiti Versailles romjai.",
+            "ro": "Versailles-ul haitian în ruine.",
+            "en": "The ruins of the Haitian Versailles."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadelle Laferrière",
+            "hu": "Citadelle Laferrière",
+            "ro": "Citadelle Laferrière",
+            "en": "Citadelle Laferrière"
+          },
+          "coords": [
+            -72.2439,
+            19.5739
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Größte Festung der westlichen Hemisphäre.",
+            "hu": "A nyugati félteke legnagyobb erődje.",
+            "ro": "Cea mai mare fortăreață din emisfera vestică.",
+            "en": "Largest fortress in the Western Hemisphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Milot",
+            "hu": "Ebéd Milot-ban",
+            "ro": "Prânz în Milot",
+            "en": "Lunch in Milot"
+          },
+          "coords": [
+            -72.24,
+            19.6
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Traditionelle kreolische Küche am Fuße des Berges.",
+            "hu": "Hagyományos kreol konyha a hegy lábánál.",
+            "ro": "Bucătărie tradițională creolă la poalele muntelui.",
+            "en": "Traditional Creole cuisine at the mountain base."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaine-du-Nord",
+            "hu": "Plaine-du-Nord",
+            "ro": "Plaine-du-Nord",
+            "en": "Plaine-du-Nord"
+          },
+          "coords": [
+            -72.27,
+            19.68
+          ],
+          "category": "landmark",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Zentrum für Spiritualität und Voodoo.",
+            "hu": "A spiritualitás és a vudu központja.",
+            "ro": "Centru de spiritualitate și voodoo.",
+            "en": "Center of spirituality and Vodou culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Cap-Haïtien",
+            "hu": "Visszatérés Cap-Haïtien-be",
+            "ro": "Întoarcere în Cap-Haïtien",
+            "en": "Return to Cap-Haïtien"
+          },
+          "coords": [
+            -72.2042,
+            19.7594
+          ],
+          "category": "harbor",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Abendessen am Hafenboulevard.",
+            "hu": "Vacsora a kikötői sugárúton.",
+            "ro": "Cină pe bulevardul portului.",
+            "en": "Dinner on the harbor boulevard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Tag führt Sie zu Haitis bedeutendstem Weltkulturerbe. Fahren Sie nach Milot zum Sans-Souci Palast und steigen Sie dann zur gewaltigen Zitadelle auf. Nach einem lokalen Mittagessen besuchen Sie das spirituelle Plaine-du-Nord, bevor Sie pünktlich zum Abendessen in die Stadt zurückkehren.",
+        "hu": "Ez a nap Haiti legfontosabb világörökségi helyszíneihez vezeti. Utazzon Milot-ba a Sans-Souci palotához, majd másszon fel a monumentális Citadellához. Egy helyi ebéd után látogassa meg a spirituális Plaine-du-Nord-ot, mielőtt vacsorára visszatérne a városba.",
+        "ro": "Această zi vă duce la cel mai important patrimoniu mondial din Haiti. Mergeți la Milot pentru Palatul Sans-Souci și urcați la masiva Citadelă. După un prânz local, vizitați spiritualul Plaine-du-Nord, înainte de a reveni în oraș pentru cină.",
+        "en": "This day takes you to Haiti's most significant World Heritage sites. Drive to Milot for the Sans-Souci Palace, then ascend to the massive Citadelle. After a local lunch, visit spiritual Plaine-du-Nord before returning to the city in time for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Diri ak Djon Djon",
+            "tip": "Reis mit schwarzen Pilzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Diri ak Djon Djon",
+            "tip": "Rizs fekete gombával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Diri ak Djon Djon",
+            "tip": "Orez cu ciuperci negre."
+          }
+        ],
+        "en": [
+          {
+            "name": "Diri ak Djon Djon",
+            "tip": "Black mushroom rice, a northern specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zitadelle Ausblick",
+            "tip": "Endlose Berglandschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella kilátás",
+            "tip": "Végtelen hegyi táj.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Citadelă",
+            "tip": "Peisaj montan nesfârșit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadelle Overlook",
+            "tip": "Endless mountain vistas.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Milot Kunsthandwerk",
+            "tip": "Holzschnitzereien der Zitadelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Milot kézművesség",
+            "tip": "A Citadellát ábrázoló fafaragások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat în Milot",
+            "tip": "Sculpturi în lemn reprezentând Citadela."
+          }
+        ],
+        "en": [
+          {
+            "name": "Milot Crafts",
+            "tip": "Wood carvings of the Citadelle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie Pferde für den Aufstieg zur Zitadelle.",
+          "Trinken Sie viel Wasser bei der Wanderung."
+        ],
+        "hu": [
+          "Bérelj lovat a Citadellához való feljutáshoz.",
+          "Igyál sok vizet a túra során."
+        ],
+        "ro": [
+          "Închiriați cai pentru urcarea la Citadelă.",
+          "Beți multă apă în timpul drumeției."
+        ],
+        "en": [
+          "Hire a horse for the steep climb to the Citadelle.",
+          "Carry plenty of water for the mountain hike."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,959 @@
+{
+  "city_id": "uk-chelmer-village-cities-v2",
+  "anchor": {
+    "name": "Chelmer Village",
+    "coords": [
+      51.735,
+      0.505
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chelmer Village Square",
+            "hu": "Falu főtere",
+            "ro": "Piața Chelmer Village",
+            "en": "Chelmer Village Square"
+          },
+          "coords": [
+            51.736,
+            0.506
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Kaffee.",
+            "hu": "Kezdje itt egy kávéval.",
+            "ro": "Începeți aici cu o cafea.",
+            "en": "Start your morning with a coffee here."
+          }
+        },
+        {
+          "name": {
+            "de": "Chancellor Park",
+            "hu": "Chancellor Park",
+            "ro": "Parcul Chancellor",
+            "en": "Chancellor Park"
+          },
+          "coords": [
+            51.732,
+            0.512
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Große Grünflächen für Sport.",
+            "hu": "Nagy zöldfelületek sportoláshoz.",
+            "ro": "Zonă verde mare pentru sport.",
+            "en": "Large green spaces for sports and recreation."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunny Walk Riverside Path",
+            "hu": "Bunny Walk folyóparti sétány",
+            "ro": "Faleza Bunny Walk",
+            "en": "Bunny Walk Riverside Path"
+          },
+          "coords": [
+            51.738,
+            0.515
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Weg entlang des Flusses.",
+            "hu": "Szép ösvény a folyó mentén.",
+            "ro": "Traseu frumos de-a lungul râului.",
+            "en": "Beautiful path along the riverbanks."
+          }
+        },
+        {
+          "name": {
+            "de": "Chelmer and Blackwater Navigation",
+            "hu": "Csatorna menti sétány",
+            "ro": "Canalul Chelmer și Blackwater",
+            "en": "Chelmer and Blackwater Navigation"
+          },
+          "coords": [
+            51.734,
+            0.52
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Historischer Wasserweg von 1797.",
+            "hu": "Történelmi vízi út 1797-ből.",
+            "ro": "Cale navigabilă istorică din 1797.",
+            "en": "Historic waterway dating back to 1797."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandford Mill Museum",
+            "hu": "Sandford Mill Múzeum",
+            "ro": "Muzeul Sandford Mill",
+            "en": "Sandford Mill Museum"
+          },
+          "coords": [
+            51.725,
+            0.535
+          ],
+          "category": "museum",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Industrielles Erbe von Chelmsford.",
+            "hu": "Chelmsford ipari öröksége.",
+            "ro": "Patrimoniul industrial din Chelmsford.",
+            "en": "The industrial heritage hub of Chelmsford."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den modernen Charme von Chelmer Village kombiniert mit historischer Wassertechnik. Vom belebten Square führt Sie der Weg durch grüne Parks zum idyllischen Bunny Walk am Flussufer. Der Höhepunkt ist die Sandford Mill, wo die Industriegeschichte von Essex lebendig wird.",
+        "hu": "Fedezze fel Chelmer Village modern báját a történelmi vízitechnikával ötvözve. A nyüzsgő térről zöld parkokon át vezet az út az idilli Bunny Walk folyóparti sétányhoz. A nap csúcspontja a Sandford Mill, ahol Essex ipari múltja elevenedik meg.",
+        "ro": "Descoperiți farmecul modern din Chelmer Village combinat cu tehnologia hidraulică istorică. De la piața animată, drumul vă poartă prin parcuri verzi spre faleza idilică Bunny Walk. Punctul culminant este Sandford Mill, unde istoria industrială din Essex prinde viață.",
+        "en": "Discover the modern charm of Chelmer Village combined with historic water engineering. From the bustling Square, the path leads through green parks to the idyllic Bunny Walk riverside stroll. The highlight is Sandford Mill, where Essex's industrial history comes to life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Fox & Raven",
+            "tip": "Rustikale Atmosphäre am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Fox & Raven",
+            "tip": "Rusztikus hangulat a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Fox & Raven",
+            "tip": "Atmosferă rustică la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Fox & Raven",
+            "tip": "Rustic atmosphere on the edge of town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chelmer Valley Reserve",
+            "tip": "Vogelgezwitscher und Natur pur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chelmer-völgyi rezervátum",
+            "tip": "Madárcsicsergés és tiszta természet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Valea Chelmer",
+            "tip": "Cântecul păsărilor și natură pură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chelmer Valley Reserve",
+            "tip": "Birdsong and pure nature escape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chelmer Village Retail Park",
+            "tip": "Große Auswahl an Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kereskedelmi park",
+            "tip": "Változatos üzletkínálat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul comercial Chelmer",
+            "tip": "O selecție mare de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chelmer Village Retail Park",
+            "tip": "A wide variety of stores and brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege am Fluss können im Winter feucht sein.",
+          "Sandford Mill ist oft nur an speziellen Tagen offen."
+        ],
+        "hu": [
+          "A folyó menti utak télen nedvesek lehetnek.",
+          "A Sandford Mill gyakran csak különleges napokon nyit ki."
+        ],
+        "ro": [
+          "Potecile de lângă râu pot fi umede iarna.",
+          "Sandford Mill este deschis adesea doar în zile speciale."
+        ],
+        "en": [
+          "Riverside paths can be damp in winter months.",
+          "Sandford Mill is often open only on specific event days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chancellor Park",
+            "hu": "Chancellor Park",
+            "ro": "Parcul Chancellor",
+            "en": "Chancellor Park"
+          },
+          "coords": [
+            51.732,
+            0.512
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Gute Radwege vorhanden.",
+            "hu": "Jó kerékpárutak vannak.",
+            "ro": "Piste de biciclete disponibile.",
+            "en": "Good cycling paths throughout the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandford Mill",
+            "hu": "Sandford Mill",
+            "ro": "Sandford Mill",
+            "en": "Sandford Mill"
+          },
+          "coords": [
+            51.725,
+            0.535
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Wendepunkt am Flussufer.",
+            "hu": "Fordulópont a folyóparton.",
+            "ro": "Un punct de reper pe malul râului.",
+            "en": "A historic turning point on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Barnes Mill Site",
+            "hu": "Barnes Mill helyszíne",
+            "ro": "Situl Morii Barnes",
+            "en": "Barnes Mill Site"
+          },
+          "coords": [
+            51.728,
+            0.545
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Einstige Wassermühle.",
+            "hu": "Egykori vízimalom helye.",
+            "ro": "Locul unei foste mori de apă.",
+            "en": "Site of a former historic watermill."
+          }
+        },
+        {
+          "name": {
+            "de": "Chelmer Canal Path",
+            "hu": "Csatorna menti út",
+            "ro": "Poteca canalului Chelmer",
+            "en": "Chelmer Canal Path"
+          },
+          "coords": [
+            51.735,
+            0.55
+          ],
+          "category": "natural",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Wunderschöne Uferstrecke.",
+            "hu": "Csodálatos partmenti szakasz.",
+            "ro": "Segment superb de mal de râu.",
+            "en": "Wonderful scenic stretch along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "The Fox & Raven Pub",
+            "hu": "Fox & Raven pub",
+            "ro": "Pub-ul Fox & Raven",
+            "en": "The Fox & Raven Pub"
+          },
+          "coords": [
+            51.739,
+            0.518
+          ],
+          "category": "culinary",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze am Haus.",
+            "hu": "Kerékpárparkoló az épületnél.",
+            "ro": "Parcare pentru biciclete la intrare.",
+            "en": "Cycle parking available at the pub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang des Flusses Chelmer. Diese Route führt Sie aus der modernen Siedlung in die historische Kanallandschaft von Essex. Genießen Sie die Ruhe am Wasser und entdecken Sie die alten Mühlen, bevor Sie sich in einem der gemütlichen Pubs von Chelmer Village stärken.",
+        "hu": "Tekerjen a Chelmer-folyó mentén. Az útvonal a modern lakóparkból Essex történelmi csatornavidékére vezet. Élvezze a vízparti nyugalmat és fedezze fel a régi malmokat, majd pihenjen meg Chelmer Village egyik barátságos pubjában.",
+        "ro": "Mergeți cu bicicleta pe malul râului Chelmer. Acest traseu vă poartă din așezarea modernă în peisajul istoric al canalelor din Essex. Bucurați-vă de liniștea apei și descoperiți vechile mori, înainte de a vă relaxa într-un pub primitor.",
+        "en": "Cycle along the scenic River Chelmer. This route takes you from the modern development into the historic canal landscape of Essex. Enjoy the tranquility of the water and discover old mills before recharging at one of Chelmer Village's cozy pubs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Miller & Carter",
+            "tip": "Gute Steaks am Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miller & Carter",
+            "tip": "Kiváló steak vacsorára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miller & Carter",
+            "tip": "Fripturi excelente pentru cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Miller & Carter",
+            "tip": "High-quality steaks for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sandford Mill Lock",
+            "tip": "Schleusenromantik pur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandford Mill zsilip",
+            "tip": "Zsilipmenti romantika.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ecluza Sandford Mill",
+            "tip": "Romantism pur la ecluză.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandford Mill Lock",
+            "tip": "Pure canal lock romanticism.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chancellor Park Shops",
+            "tip": "Kleine lokale Anbieter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi boltok",
+            "tip": "Kisebb helyi üzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele Chancellor Park",
+            "tip": "Mici afaceri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chancellor Park Shops",
+            "tip": "Small local boutique stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vorsicht bei Fußgängern auf dem Kanalweg.",
+          "Licht am Fahrrad für die Rückfahrt einplanen."
+        ],
+        "hu": [
+          "Vigyázzon a gyalogosokra a csatornaparton.",
+          "Tervezzen világítást a hazatéréshez."
+        ],
+        "ro": [
+          "Atenție la pietoni pe poteca canalului.",
+          "Planificați lumini pentru drumul de întoarcere."
+        ],
+        "en": [
+          "Be mindful of pedestrians on canal paths.",
+          "Plan for bike lights for the return journey."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 20.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chelmer Village Square (Cluster A)",
+            "hu": "Falu főtere (A klaszter)",
+            "ro": "Piața Chelmer Village (Cluster A)",
+            "en": "Chelmer Village Square (Cluster A)"
+          },
+          "coords": [
+            51.736,
+            0.506
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Gute Parkmöglichkeiten im Zentrum.",
+            "hu": "Jó parkolási lehetőség a központban.",
+            "ro": "Opțiuni bune de parcare în centru.",
+            "en": "Good parking available in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Chancellor Park (Cluster A)",
+            "hu": "Chancellor Park (A klaszter)",
+            "ro": "Parcul Chancellor (Cluster A)",
+            "en": "Chancellor Park (Cluster A)"
+          },
+          "coords": [
+            51.732,
+            0.512
+          ],
+          "category": "park",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Square erreichbar.",
+            "hu": "Gyalog elérhető a térről.",
+            "ro": "Accesibil pe jos de la piață.",
+            "en": "Within walking distance from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandford Mill (Cluster B)",
+            "hu": "Sandford Mill (B klaszter)",
+            "ro": "Sandford Mill (Cluster B)",
+            "en": "Sandford Mill (Cluster B)"
+          },
+          "coords": [
+            51.725,
+            0.535
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Eigener Parkplatz am Museum.",
+            "hu": "Saját parkoló a múzeumnál.",
+            "ro": "Parcare proprie la muzeu.",
+            "en": "Dedicated parking at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackwater Navigation (Cluster B)",
+            "hu": "Blackwater vízi út (B klaszter)",
+            "ro": "Canalul Blackwater (Cluster B)",
+            "en": "Blackwater Navigation (Cluster B)"
+          },
+          "coords": [
+            51.728,
+            0.545
+          ],
+          "category": "natural",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spaziergang an den Schleusen.",
+            "hu": "Séta a zsilipek mentén.",
+            "ro": "Plimbare pe lângă ecluze.",
+            "en": "Stroll along the historic locks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Chelmer Village (Cluster C)",
+            "hu": "Ebéd Chelmer Village-ben (C klaszter)",
+            "ro": "Prânz în Chelmer Village (Cluster C)",
+            "en": "Lunch at Chelmer Village (Cluster C)"
+          },
+          "coords": [
+            51.738,
+            0.518
+          ],
+          "category": "culinary",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Große Auswahl an Restaurants.",
+            "hu": "Éttermek széles választéka.",
+            "ro": "O selecție mare de restaurante.",
+            "en": "Wide range of restaurant choices."
+          }
+        },
+        {
+          "name": {
+            "de": "Hylands Park (Nearby)",
+            "hu": "Hylands Park (közeli)",
+            "ro": "Parcul Hylands (Aproape)",
+            "en": "Hylands Park (Nearby)"
+          },
+          "coords": [
+            51.71,
+            0.435
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.4,
+          "tip_5lang": {
+            "de": "Prachtvolles Herrenhaus und Park.",
+            "hu": "Pompás kastély és park.",
+            "ro": "Conac superb și parc vast.",
+            "en": "Magnificent manor house and park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights von Chelmsford und Chelmer Village. Nach dem Besuch der historischen Mühlen und Kanäle bietet ein kurzer Trip zum prächtigen Hylands Park den perfekten Abschluss. Die Cluster-Strategie spart Zeit und lässt Raum für ausgiebige Erkundungen.",
+        "hu": "Autóval felfedezheti Chelmsford és Chelmer Village legjavát. A történelmi malmok és csatornák meglátogatása után egy rövid út a pompás Hylands Parkba teszi tökéletessé a napot. A klaszter-stratégia időt spórol és teret enged a mélyebb felfedezésnek.",
+        "ro": "Cu mașina, descoperiți punctele forte din Chelmsford și Chelmer Village. După vizitarea morilor și canalelor istorice, o scurtă călătorie la parcul superb Hylands oferă încheierea perfectă. Strategia clusterelor economisește timp pentru explorare.",
+        "en": "Discover the highlights of Chelmsford and Chelmer Village by car. After visiting the historic mills and canals, a quick trip to the magnificent Hylands Park provides the perfect finale. The cluster strategy saves time and leaves room for extensive exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Secret Garden",
+            "tip": "Kaffee und hausgemachter Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Secret Garden",
+            "tip": "Kávé és házi sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Secret Garden",
+            "tip": "Cafea și prăjituri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Secret Garden",
+            "tip": "Coffee and delicious homemade cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hylands House Gardens",
+            "tip": "Viktorianische Eleganz und Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hylands House kertje",
+            "tip": "Viktoriánus elegancia és nyugalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Hylands House",
+            "tip": "Eleganță victoriană și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hylands House Gardens",
+            "tip": "Victorian elegance and tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chelmsford City Centre",
+            "tip": "Haupt-Einkaufsmeile nur 10 Min weg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chelmsford városközpont",
+            "tip": "Fő bevásárlónegyed 10 percre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul orașului Chelmsford",
+            "tip": "Zonă comercială la doar 10 min."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chelmsford City Centre",
+            "tip": "Major shopping hub just 10 mins away."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Chelmsford Zentrum kann teuer sein.",
+          "Hylands Park ist am Wochenende oft Schauplatz von Events."
+        ],
+        "hu": [
+          "A parkolás Chelmsford központjában drága lehet.",
+          "Hylands Parkban hétvégén gyakran vannak rendezvények."
+        ],
+        "ro": [
+          "Parcarea în centrul Chelmsford poate fi scumpă.",
+          "Parcul Hylands găzduiește adesea evenimente în weekend."
+        ],
+        "en": [
+          "Parking in Chelmsford city center can be costly.",
+          "Hylands Park often hosts large events on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chelmer Village Retail Park (District A)",
+            "hu": "Kereskedelmi park (A negyed)",
+            "ro": "Parcul comercial (District A)",
+            "en": "Chelmer Village Retail Park (District A)"
+          },
+          "coords": [
+            51.735,
+            0.51
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Busverbindungen nach Chelmsford.",
+            "hu": "Buszjáratok Chelmsford felé.",
+            "ro": "Conexiuni de autobuz spre Chelmsford.",
+            "en": "Regular bus links to Chelmsford."
+          }
+        },
+        {
+          "name": {
+            "de": "Chelmer Village Square (District A)",
+            "hu": "Falu főtere (A negyed)",
+            "ro": "Piața Chelmer Village (District A)",
+            "en": "Chelmer Village Square (District A)"
+          },
+          "coords": [
+            51.736,
+            0.506
+          ],
+          "category": "civic",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Soziales Herz des Viertels.",
+            "hu": "A negyed közösségi szíve.",
+            "ro": "Inima socială a cartierului.",
+            "en": "The social hub of the neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Meadgate (District B)",
+            "hu": "Meadgate (B negyed)",
+            "ro": "Meadgate (District B)",
+            "en": "Meadgate (District B)"
+          },
+          "coords": [
+            51.722,
+            0.49
+          ],
+          "category": "civic",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wohngebiet mit Kanalkultur.",
+            "hu": "Lakóövezet csatorna-kultúrával.",
+            "ro": "Zonă rezidențială cu cultură fluvială.",
+            "en": "Residential area with a canal-side vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Chelmsford Cathedral",
+            "hu": "Székesegyház",
+            "ro": "Catedrala Chelmsford",
+            "en": "Chelmsford Cathedral"
+          },
+          "coords": [
+            51.734,
+            0.473
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Kultur und Stille im Zentrum.",
+            "hu": "Kultúra és csend a központban.",
+            "ro": "Cultură și liniște în centru.",
+            "en": "Culture and quiet in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "High Chelmer Centre",
+            "hu": "High Chelmer bevásárlóközpont",
+            "ro": "Centrul High Chelmer",
+            "en": "High Chelmer Centre"
+          },
+          "coords": [
+            51.733,
+            0.47
+          ],
+          "category": "shopping",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideales Ziel für Shopping.",
+            "hu": "Ideális célpont vásárláshoz.",
+            "ro": "Destinație ideală pentru shopping.",
+            "en": "Ideal destination for afternoon shopping."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die hervorragenden Busverbindungen zwischen Chelmer Village und dem Stadtzentrum von Chelmsford. Diese Route zeigt Ihnen das Beste aus beiden Welten: die modernen Wohnviertel am Fluss und das historische, lebendige Herz der Stadt mit seiner Kathedrale und den Einkaufspassagen.",
+        "hu": "Használja ki a kiváló buszközlekedést Chelmer Village és Chelmsford központja között. Az útvonal mindkét világból a legjobbat mutatja: a modern folyóparti negyedeket és a város történelmi, lüktető szívét a székesegyházzal és a bevásárlóutcákkal.",
+        "ro": "Profitați de conexiunile excelente de autobuz între Chelmer Village și centrul orașului Chelmsford. Acest traseu vă arată ce e mai bun din ambele lumi: cartierele moderne de lângă râu și inima istorică a orașului, cu catedrala și galeriile sale.",
+        "en": "Take advantage of the excellent bus links between Chelmer Village and Chelmsford city center. This route shows you the best of both worlds: modern riverside residential areas and the historic, vibrant heart of the city with its cathedral and shopping malls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Acanteen",
+            "tip": "Trendiges Bistro in Chelmsford."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Acanteen",
+            "tip": "Trendi bisztró Chelmsfordban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Acanteen",
+            "tip": "Bistro modern în Chelmsford."
+          }
+        ],
+        "en": [
+          {
+            "name": "Acanteen",
+            "tip": "Trendy bistro in the heart of Chelmsford."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bell Meadow",
+            "tip": "Stadtnahe Wiese am Fluss.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bell Meadow",
+            "tip": "Városközeli folyóparti rét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bell Meadow",
+            "tip": "Pajiște lângă râu, aproape de centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bell Meadow",
+            "tip": "Riverside meadow near the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bond Street Chelmsford",
+            "tip": "Luxusmarken und Kino."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bond Street Chelmsford",
+            "tip": "Luxusmárkák és mozi."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bond Street Chelmsford",
+            "tip": "Branduri de lux și cinema."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bond Street Chelmsford",
+            "tip": "Luxury brands and cinema experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busschleife 'First Essex' deckt alles ab.",
+          "Wochentags fahren Busse alle 10-15 Minuten."
+        ],
+        "hu": [
+          "A 'First Essex' buszhálózat mindent lefed.",
+          "Hétköznap 10-15 percenként járnak a buszok."
+        ],
+        "ro": [
+          "Rețeaua de autobuz 'First Essex' acoperă totul.",
+          "În timpul săptămânii, autobuzele circulă la 10-15 minute."
+        ],
+        "en": [
+          "The 'First Essex' bus loop covers the entire area.",
+          "Buses run every 10-15 minutes on weekdays."
+        ]
+      }
+    }
+  }
+}

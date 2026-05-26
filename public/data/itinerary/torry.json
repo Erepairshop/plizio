@@ -1,0 +1,978 @@
+{
+  "city_id": "torry",
+  "anchor": {
+    "name": "Victoria Bridge",
+    "coords": [
+      -2.089,
+      57.14
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Victoria Bridge",
+          "coords": [
+            -2.089,
+            57.14
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick auf die Dee-Mündung.",
+            "hu": "Kilátás a Dee torkolatára.",
+            "ro": "Vedere spre estuarul Dee.",
+            "en": "View of the Dee estuary."
+          }
+        },
+        {
+          "name": "River Dee Walkway",
+          "coords": [
+            -2.08,
+            57.138
+          ],
+          "category": "park",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ruhiger Weg am Flussufer.",
+            "hu": "Csendes folyóparti sétány.",
+            "ro": "Alee liniștită pe malul râului.",
+            "en": "Quiet riverside path."
+          }
+        },
+        {
+          "name": "Torry Battery",
+          "coords": [
+            -2.057,
+            57.141
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Alte Küstenbefestigung.",
+            "hu": "Régi partmenti erődítmény.",
+            "ro": "Veche fortificație de coastă.",
+            "en": "Old coastal fortification."
+          }
+        },
+        {
+          "name": "Greyhope Bay Centre",
+          "coords": [
+            -2.053,
+            57.139
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bester Ort für Delfinbeobachtung.",
+            "hu": "A legjobb hely delfinnézésre.",
+            "ro": "Cel mai bun loc pentru delfini.",
+            "en": "Best spot for dolphin watching."
+          }
+        },
+        {
+          "name": "Girdle Ness Lighthouse",
+          "coords": [
+            -2.052,
+            57.139
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beeindruckender Stevenson-Bau.",
+            "hu": "Lenyűgöző Stevenson-építmény.",
+            "ro": "Far impresionant Stevenson.",
+            "en": "Impressive Stevenson lighthouse."
+          }
+        },
+        {
+          "name": "St Fittick's Church ruins",
+          "coords": [
+            -2.064,
+            57.128
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mystische Kirchenruine.",
+            "hu": "Misztikus templomrom.",
+            "ro": "Ruine mistice de biserică.",
+            "en": "Mystical church ruins."
+          }
+        },
+        {
+          "name": "Old Torry Village",
+          "coords": [
+            -2.082,
+            57.136
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Traditionelles Fischerflair.",
+            "hu": "Hagyományos halászfalu hangulat.",
+            "ro": "Atmosferă tradițională de pescari.",
+            "en": "Traditional fishing village vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Victoria Bridge mit Blick auf den geschäftigen Hafen von Aberdeen. Spazieren Sie gemütlich am Fluss Dee entlang in Richtung der historischen Torry Battery.\n\nMittags erreichen Sie Greyhope Bay, wo Sie bei einem Kaffee in einem umweltfreundlichen Zentrum Delfine in den Wellen spielen sehen können. Der nahe Girdle Ness Leuchtturm ragt majestätisch über die Klippen.\n\nAm Nachmittag erkunden Sie die friedliche St. Fittick's Church, eine versteckte Ruine inmitten von Grünflächen. Der Weg zurück führt durch das Herz des alten Torry.\n\nBeenden Sie den Tag in einem lokalen Pub in Old Torry, um die authentische maritime Atmosphäre dieses stolzen Viertels zu genießen.",
+        "hu": "Kezdje a napot a Victoria-hídnál, ahonnan remek kilátás nyílik Aberdeen forgalmas kikötőjére. Sétáljon kényelmesen a Dee folyó partján a történelmi Torry Battery felé.\n\nDélben érkezzen meg a Greyhope-öbölbe, ahol egy kávé mellett figyelheti a hullámok közt játszó delfineket. A közeli Girdle Ness világítótorony méltóságteljesen magasodik a sziklák fölé.\n\nDélután fedezze fel a Szent Fittick-templom békés romjait, amely egy rejtett gyöngyszem a zöldterületek közepén. A visszaút az óvárosi Torry szívén vezet keresztül.\n\nA napot egy helyi pubban zárja Old Torry-ban, élvezve ennek a büszke negyednek az autentikus tengeri hangulatát.",
+        "ro": "Începeți ziua la Podul Victoria, cu vedere la portul aglomerat din Aberdeen. Plimbați-vă agale pe malul râului Dee spre istorica Baterie Torry.\n\nLa prânz, ajungeți la Golful Greyhope, unde puteți urmări delfinii jucându-se în valuri de la centrul eco local. Farul Girdle Ness se înalță maiestuos deasupra stâncilor.\n\nDupă-amiaza, explorați ruinele liniștite ale Bisericii Sf. Fittick, o bijuterie ascunsă printre spații verzi. Drumul de întoarcere trece prin inima vechiului Torry.\n\nÎncheiați ziua într-un pub local din Old Torry, bucurându-vă de atmosfera maritimă autentică a acestui cartier mândru.",
+        "en": "Start your day at Victoria Bridge with a view of Aberdeen's busy harbour. Take a leisurely walk along the River Dee towards the historic Torry Battery.\n\nBy midday, reach Greyhope Bay, where you can watch dolphins playing in the waves while enjoying a coffee at the eco-centre. The nearby Girdle Ness Lighthouse stands majestically over the cliffs.\n\nIn the afternoon, explore the peaceful St Fittick's Church ruins, a hidden gem amidst green spaces. The path back takes you through the heart of old Torry.\n\nEnd the day at a local pub in Old Torry to enjoy the authentic maritime atmosphere of this proud district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Grammar School",
+            "tip": "Gemütlicher Pub mit lokaler Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Grammar School",
+            "tip": "Hangulatos pub helyi vendégkörrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Grammar School",
+            "tip": "Pub primitor cu atmosferă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Grammar School",
+            "tip": "Cozy pub with a local community feel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St Fittick's Community Park",
+            "tip": "Ruhige Grünanlage mit Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "St Fittick's Community Park",
+            "tip": "Csendes zöldövezet történelemmel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "St Fittick's Community Park",
+            "tip": "Zonă verde liniștită cu istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Fittick's Community Park",
+            "tip": "Quiet green space with history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Victoria Road Shops",
+            "tip": "Lokale Läden für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Victoria Road üzletek",
+            "tip": "Helyi boltok a mindennapi igényekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele Victoria Road",
+            "tip": "Magazine locale pentru nevoi zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Victoria Road Shops",
+            "tip": "Local shops for daily essentials."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fernglas für die Delfine mitbringen.",
+          "Windfeste Kleidung ist an der Küste Pflicht.",
+          "Die Battery bietet den besten Blick auf Aberdeen."
+        ],
+        "hu": [
+          "Hozzunk távcsövet a delfinekhez.",
+          "Szélálló ruházat kötelező a parton.",
+          "A Battery nyújtja a legjobb kilátást Aberdeenre."
+        ],
+        "ro": [
+          "Aduceți binoclu pentru delfini.",
+          "Hainele rezistente la vânt sunt obligatorii pe coastă.",
+          "Bateria oferă cea mai bună vedere spre Aberdeen."
+        ],
+        "en": [
+          "Bring binoculars for the dolphins.",
+          "Windproof clothing is essential on the coast.",
+          "The Battery offers the best views of Aberdeen."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Victoria Bridge",
+          "coords": [
+            -2.089,
+            57.14
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Startpunkt am Dee.",
+            "hu": "Kiindulópont a Dee partján.",
+            "ro": "Punct de plecare pe Dee.",
+            "en": "Start point on the Dee."
+          }
+        },
+        {
+          "name": "Coastal Path",
+          "coords": [
+            -2.07,
+            57.138
+          ],
+          "category": "park",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schöner Radweg am Meer.",
+            "hu": "Szép kerékpárút a tengerparton.",
+            "ro": "Traseu frumos pe malul mării.",
+            "en": "Nice coastal cycle path."
+          }
+        },
+        {
+          "name": "Girdle Ness",
+          "coords": [
+            -2.052,
+            57.139
+          ],
+          "category": "landmark",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Leuchtturm-Stopp.",
+            "hu": "Világítótorony megálló.",
+            "ro": "Oprire la far.",
+            "en": "Lighthouse stop."
+          }
+        },
+        {
+          "name": "Nigg Bay",
+          "coords": [
+            -2.055,
+            57.125
+          ],
+          "category": "beach",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Rauhe Meeresbrise genießen.",
+            "hu": "Élvezze a tengeri szellőt.",
+            "ro": "Bucurați-vă de briza mării.",
+            "en": "Enjoy the sea breeze."
+          }
+        },
+        {
+          "name": "Balnagask Viewpoint",
+          "coords": [
+            -2.075,
+            57.132
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Panorama über Aberdeen.",
+            "hu": "Panoráma Aberdeenre.",
+            "ro": "Panoramă spre Aberdeen.",
+            "en": "Panorama of Aberdeen."
+          }
+        },
+        {
+          "name": "Torry Square",
+          "coords": [
+            -2.085,
+            57.138
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Lokaler Treffpunkt.",
+            "hu": "Helyi találkozóhely.",
+            "ro": "Punct de întâlnire local.",
+            "en": "Local meeting spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küste von Torry mit dem Fahrrad auf dem malerischen Küstenpfad. Die frische Meeresbrise begleitet Sie auf dem Weg zum markanten Girdle Ness Leuchtturm.",
+        "hu": "Fedezze fel Torry partjait kerékpárral a festői partmenti úton. A friss tengeri szellő kíséri majd útján a jellegzetes Girdle Ness világítótorony felé.",
+        "ro": "Explorați coasta din Torry cu bicicleta pe traseul pitoresc de coastă. Briza proaspătă a mării vă va însoți în drum spre farul Girdle Ness.",
+        "en": "Explore the Torry coast by bike along the scenic coastal path. The fresh sea breeze will accompany you on your way to the distinctive Girdle Ness Lighthouse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Local Bakery",
+            "tip": "Frisches Gebäck für den Weg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Friss sütemények az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria locală",
+            "tip": "Produse proaspete pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Fresh pastries for the way."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nigg Bay",
+            "tip": "Rauhe Naturschönheit.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nigg-öböl",
+            "tip": "Nyers természeti szépség.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Nigg",
+            "tip": "Frumusețe naturală brută.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nigg Bay",
+            "tip": "Raw natural beauty.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Torry Markets",
+            "tip": "Gelegentliche Straßenmärkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torry piacok",
+            "tip": "Időnkénti utcai piacok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețele Torry",
+            "tip": "Piețe stradale ocazionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torry Markets",
+            "tip": "Occasional street markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Helmpflicht bei starkem Wind.",
+          "Achten Sie auf Wanderer auf dem Pfad.",
+          "Der Hügel zum Balnagask ist steil."
+        ],
+        "hu": [
+          "Erős szélben sisak kötelező.",
+          "Figyeljünk a gyalogosokra az úton.",
+          "A Balnagask felé vezető domb meredek."
+        ],
+        "ro": [
+          "Cască obligatorie la vânt puternic.",
+          "Atenție la pietonii de pe traseu.",
+          "Dealul spre Balnagask este abrupt."
+        ],
+        "en": [
+          "Helmet essential in high winds.",
+          "Watch out for walkers on the path.",
+          "The hill to Balnagask is steep."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Victoria Bridge",
+          "coords": [
+            -2.089,
+            57.14
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkplatz am Flussufer.",
+            "hu": "Parkoló a folyóparton.",
+            "ro": "Parcare pe malul râului.",
+            "en": "Parking by the river."
+          }
+        },
+        {
+          "name": "Walker Park",
+          "coords": [
+            -2.08,
+            57.135
+          ],
+          "category": "park",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Grüne Oase im Viertel.",
+            "hu": "Zöld oázis a negyedben.",
+            "ro": "Oază verde în cartier.",
+            "en": "Green oasis in the district."
+          }
+        },
+        {
+          "name": "Torry Battery",
+          "coords": [
+            -2.057,
+            57.141
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Küstenpanorama pur.",
+            "hu": "Tiszta tengerparti panoráma.",
+            "ro": "Panoramă costieră pură.",
+            "en": "Pure coastal panorama."
+          }
+        },
+        {
+          "name": "Greyhope Bay Centre",
+          "coords": [
+            -2.053,
+            57.139
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Delfine hautnah erleben.",
+            "hu": "Delfinek testközelből.",
+            "ro": "Delfini de aproape.",
+            "en": "Dolphins from up close."
+          }
+        },
+        {
+          "name": "Girdle Ness Lighthouse",
+          "coords": [
+            -2.052,
+            57.139
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fotostopp am Turm.",
+            "hu": "Fotómegálló a toronynál.",
+            "ro": "Oprire foto la far.",
+            "en": "Photo stop at the tower."
+          }
+        },
+        {
+          "name": "St Fittick's Church",
+          "coords": [
+            -2.064,
+            57.128
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spaziergang zu den Ruinen.",
+            "hu": "Séta a romokhoz.",
+            "ro": "Plimbare spre ruine.",
+            "en": "Walk to the ruins."
+          }
+        },
+        {
+          "name": "Balnagask Golf Course",
+          "coords": [
+            -2.075,
+            57.132
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Bucht.",
+            "hu": "Legjobb kilátás az öbölre.",
+            "ro": "Cea mai bună vedere spre golf.",
+            "en": "Best view of the bay."
+          }
+        },
+        {
+          "name": "Torry Harbour",
+          "coords": [
+            -2.085,
+            57.14
+          ],
+          "category": "port",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Maritimes Treiben.",
+            "hu": "Tengeri nyüzsgés.",
+            "ro": "Activitate maritimă.",
+            "en": "Maritime hustle and bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die historischen Highlights von Torry mit spektakulären Ausblicken. Nutzen Sie die Parkmöglichkeiten an der Battery für eine Wanderung zu den Delfinen.",
+        "hu": "Ez az autós túra ötvözi Torry történelmi látnivalóit a látványos kilátással. Használja a Battery-nél lévő parkolót a delfinleshez vezető sétához.",
+        "ro": "Acest tur cu mașina combină punctele istorice din Torry cu vederi spectaculoase. Folosiți parcarea de la Baterie pentru o plimbare spre delfini.",
+        "en": "This car tour combines Torry's historic highlights with spectacular views. Use the parking at the Battery for a walk to the dolphin viewing spots."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Ferry",
+            "tip": "Fischgerichte am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Ferry",
+            "tip": "Halételek a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Ferry",
+            "tip": "Preparate din pește la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Ferry",
+            "tip": "Fish dishes by the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Girdle Ness Cliffs",
+            "tip": "Einsames Kliff-Panorama.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Girdle Ness sziklák",
+            "tip": "Magányos szirt-panoráma.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Girdle Ness",
+            "tip": "Panoramă solitară de pe stânci.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Girdle Ness Cliffs",
+            "tip": "Lonely cliff panorama.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Abbotswell Road Retail",
+            "tip": "Größere Geschäfte in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abbotswell Road kiskereskedelem",
+            "tip": "Nagyobb üzletek a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Retail Abbotswell Road",
+            "tip": "Magazine mai mari în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbotswell Road Retail",
+            "tip": "Larger shops nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze an der Battery sind oft voll.",
+          "Fahren Sie vorsichtig auf den engen Straßen.",
+          "Achten Sie auf Golfer bei Balnagask."
+        ],
+        "hu": [
+          "A Battery-nél a parkoló gyakran tele van.",
+          "Vezessünk óvatosan a szűk utcákban.",
+          "Figyeljünk a golfosokra Balnagasknál."
+        ],
+        "ro": [
+          "Parcările la Baterie sunt adesea pline.",
+          "Conduceți cu atenție pe străzile înguste.",
+          "Atenție la jucătorii de golf la Balnagask."
+        ],
+        "en": [
+          "Parking at the Battery fills up fast.",
+          "Drive carefully on narrow streets.",
+          "Watch out for golfers near Balnagask."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Victoria Road",
+          "coords": [
+            -2.088,
+            57.138
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Busstopp im Zentrum.",
+            "hu": "Buszmegálló a központban.",
+            "ro": "Stație de autobuz în centru.",
+            "en": "Bus stop in the centre."
+          }
+        },
+        {
+          "name": "Walker Road School",
+          "coords": [
+            -2.08,
+            57.135
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Architektur von 1897.",
+            "hu": "1897-es építészet.",
+            "ro": "Arhitectură din 1897.",
+            "en": "Architecture from 1897."
+          }
+        },
+        {
+          "name": "Greyhope Road",
+          "coords": [
+            -2.065,
+            57.14
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Startpunkt für Klippenweg.",
+            "hu": "Kiindulópont a sziklaúthoz.",
+            "ro": "Punct de start pentru poteca de coastă.",
+            "en": "Start point for cliff path."
+          }
+        },
+        {
+          "name": "Balnagask Road",
+          "coords": [
+            -2.075,
+            57.13
+          ],
+          "category": "park",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nähe zum Golfplatz.",
+            "hu": "Közel a golfpályához.",
+            "ro": "Aproape de terenul de golf.",
+            "en": "Near the golf course."
+          }
+        },
+        {
+          "name": "St Fittick's Park",
+          "coords": [
+            -2.064,
+            57.128
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bus 12 hält in der Nähe.",
+            "hu": "A 12-es busz megáll a közelben.",
+            "ro": "Autobuzul 12 oprește aproape.",
+            "en": "Bus 12 stops nearby."
+          }
+        },
+        {
+          "name": "Old Torry",
+          "coords": [
+            -2.082,
+            57.136
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Rückfahrt ab Victoria Rd.",
+            "hu": "Visszautazás a Victoria Rd-tól.",
+            "ro": "Întoarcere de la Victoria Rd.",
+            "en": "Return from Victoria Rd."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz von Aberdeen, um Torry zu erkunden. Der Bus 12 bringt Sie direkt ins Herz des Viertels, von wo aus Sie die Küstenpfade erreichen.",
+        "hu": "Használja ki Aberdeen sűrű buszhálózatát Torry felfedezéséhez. A 12-es busz közvetlenül a negyed szívébe viszi, ahonnan elérheti a partmenti ösvényeket.",
+        "ro": "Utilizați rețeaua densă de autobuze din Aberdeen pentru a explora Torry. Autobuzul 12 vă duce direct în inima cartierului, de unde puteți ajunge la potecile de coastă.",
+        "en": "Use Aberdeen's frequent bus network to explore Torry. Bus 12 takes you straight to the heart of the district, giving you access to the coastal paths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torry Fish Bar",
+            "tip": "Klassische Fish & Chips."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torry Fish Bar",
+            "tip": "Klasszikus Fish & Chips."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torry Fish Bar",
+            "tip": "Clasic Fish & Chips."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torry Fish Bar",
+            "tip": "Classic Fish & Chips."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "River Dee Banks",
+            "tip": "Ruhiger Flussblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dee folyó partja",
+            "tip": "Csendes folyóparti kilátás.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Dee",
+            "tip": "Vedere liniștită spre râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Dee Banks",
+            "tip": "Quiet river view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Torry Superstores",
+            "tip": "Vielfältige Einkaufsmöglichkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torry Superstores",
+            "tip": "Változatos bevásárlási lehetőségek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketurile Torry",
+            "tip": "Opțiuni variate de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torry Superstores",
+            "tip": "Diverse shopping options."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "FirstBus App für Fahrpläne nutzen.",
+          "Bargeldloses Zahlen im Bus möglich.",
+          "Häufige Verbindungen ab Aberdeen Union St."
+        ],
+        "hu": [
+          "Használjuk a FirstBus appot.",
+          "Készpénzmentes fizetés a buszon.",
+          "Gyakori járatok az Aberdeen Union St-től."
+        ],
+        "ro": [
+          "Utilizați aplicația FirstBus.",
+          "Plată fără numerar în autobuz.",
+          "Conexiuni frecvente de la Aberdeen Union St."
+        ],
+        "en": [
+          "Use FirstBus app for schedules.",
+          "Contactless payment available on buses.",
+          "Frequent links from Aberdeen Union St."
+        ]
+      }
+    }
+  }
+}

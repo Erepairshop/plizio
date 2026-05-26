@@ -1,0 +1,236 @@
+{
+  "city_id": "uk-potters-bar-cities-v2",
+  "anchor": {
+    "name": "Potters Bar",
+    "coords": [
+      -0.183,
+      51.698
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Potters Bar Museum",
+          "coords": [
+            -0.184,
+            51.6995
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kleine, aber feine lokale Exponate.",
+            "hu": "Kicsi, de érdekes helyi kiállítások.",
+            "ro": "Expoziții locale mici dar interesante.",
+            "en": "Small but fascinating local exhibits."
+          }
+        },
+        {
+          "name": "Wyllyotts Theatre",
+          "coords": [
+            -0.1835,
+            51.699
+          ],
+          "category": "cultural",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kulturzentrum mit modernem Charme.",
+            "hu": "Kulturális központ modern bájjal.",
+            "ro": "Centru cultural cu farmec modern.",
+            "en": "Cultural center with modern charm."
+          }
+        },
+        {
+          "name": "St Mary the Virgin Church",
+          "coords": [
+            -0.178,
+            51.701
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger Ort für Besinnung.",
+            "hu": "Csendes hely az elmélkedésre.",
+            "ro": "Loc liniștit pentru reflecție.",
+            "en": "Quiet place for reflection."
+          }
+        },
+        {
+          "name": "Oakmere Park",
+          "coords": [
+            -0.181,
+            51.693
+          ],
+          "category": "natural",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spaziergang um den See ist ein Muss.",
+            "hu": "A tó körüli séta kötelező.",
+            "ro": "Plimbarea în jurul lacului este obligatorie.",
+            "en": "A walk around the lake is a must."
+          }
+        },
+        {
+          "name": "Furzefield Centre",
+          "coords": [
+            -0.198,
+            51.695
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Gutes Sport- und Freizeitangebot.",
+            "hu": "Jó sport- és szabadidős lehetőségek.",
+            "ro": "Oferte bune de sport și agrement.",
+            "en": "Good sports and leisure facilities."
+          }
+        },
+        {
+          "name": "Parkfield",
+          "coords": [
+            -0.19,
+            51.703
+          ],
+          "category": "natural",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schöner Abschluss im Grünen.",
+            "hu": "Szép befejezés a zöldben.",
+            "ro": "Un final frumos în mijlocul naturii.",
+            "en": "A lovely finish in the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag kulturell im Museum und am Theater. Nach einem Besuch der zentralen Kirche wandern Sie zum Oakmere Park, um die Natur am See zu genießen. Am Nachmittag besuchen Sie das Furzefield Centre und beenden Ihren Spaziergang in der Parkfield-Grünanlage.",
+        "hu": "Kezdje a napot kulturálisan a múzeumban és a színháznál. A központi templom után sétáljon el az Oakmere Parkba, és élvezze a tóparti természetet. Délután látogassa meg a Furzefield központot, majd fejezze be sétáját a Parkfield zöldterületén.",
+        "ro": "Începeți ziua cultural la muzeu și teatru. După o vizită la biserica centrală, mergeți în Oakmere Park pentru a vă bucura de natură lângă lac. După-amiaza vizitați centrul Furzefield și încheiați plimbarea în zona verde Parkfield.",
+        "en": "Start the day culturally at the museum and theater. After a visit to the central church, walk to Oakmere Park to enjoy nature by the lake. In the afternoon, visit the Furzefield Centre and finish your walk in the Parkfield green space."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Manor",
+            "tip": "Historischer Pub mit gutem Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Manor",
+            "tip": "Történelmi pub jó konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Manor",
+            "tip": "Pub istoric cu mâncare bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Manor",
+            "tip": "Historic pub with great food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oakmere Park",
+            "tip": "Ruhige Bänke am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oakmere Park",
+            "tip": "Csendes padok a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oakmere Park",
+            "tip": "Bănci liniștite lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oakmere Park",
+            "tip": "Quiet benches by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Potters Bar High Street",
+            "tip": "Lokale Geschäfte und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Potters Bar főutca",
+            "tip": "Helyi üzletek és kávézók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potters Bar High Street",
+            "tip": "Magazine locale și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Potters Bar High Street",
+            "tip": "Local shops and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten des Museums.",
+          "Der Park ist ideal für Picknicks."
+        ],
+        "hu": [
+          "Ellenőrizd a múzeum nyitvatartását.",
+          "A park ideális piknikezéshez."
+        ],
+        "ro": [
+          "Verificați programul muzeului.",
+          "Parcul este ideal pentru picnicuri."
+        ],
+        "en": [
+          "Check the museum opening hours.",
+          "The park is ideal for picnics."
+        ]
+      }
+    }
+  }
+}

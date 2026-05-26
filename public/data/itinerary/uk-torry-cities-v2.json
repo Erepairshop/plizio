@@ -1,0 +1,496 @@
+{
+  "city_id": "uk-torry-cities-v2",
+  "anchor": {
+    "name": "Torry Battery",
+    "coords": [
+      -2.0725,
+      57.1328
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Torry Battery",
+          "coords": [
+            -2.0725,
+            57.1328
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bester Ort für Delfinbeobachtung.",
+            "hu": "A legjobb hely a delfinek megfigyelésére.",
+            "ro": "Cel mai bun loc pentru observarea delfinilor.",
+            "en": "Best spot for dolphin watching."
+          }
+        },
+        {
+          "name": "Girdle Ness Lighthouse",
+          "coords": [
+            -2.0678,
+            57.1395
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie Stevensons Architektur.",
+            "hu": "Csodálja meg Stevenson építészetét.",
+            "ro": "Admirați arhitectura lui Stevenson.",
+            "en": "Admire Stevenson's architecture."
+          }
+        },
+        {
+          "name": "Greyhope Bay Centre",
+          "coords": [
+            -2.0735,
+            57.1415
+          ],
+          "category": "nature",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie Kaffee mit Blick auf die Bucht.",
+            "hu": "Élvezze a kávét az öbölre néző kilátással.",
+            "ro": "Savurați o cafea cu vedere la golf.",
+            "en": "Enjoy coffee with bay views."
+          }
+        },
+        {
+          "name": "Walker Park",
+          "coords": [
+            -2.085,
+            57.135
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ideal für einen ruhigen Spaziergang.",
+            "hu": "Ideális egy csendes sétához.",
+            "ro": "Ideal pentru o plimbare liniștită.",
+            "en": "Ideal for a quiet stroll."
+          }
+        },
+        {
+          "name": "Old Torry Village",
+          "coords": [
+            -2.088,
+            57.1385
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Fischer-Vergangenheit.",
+            "hu": "Fedezze fel a halászati múltat.",
+            "ro": "Descoperiți trecutul pescăresc.",
+            "en": "Discover the fishing past."
+          }
+        },
+        {
+          "name": "Torry Harbour",
+          "coords": [
+            -2.091,
+            57.141
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch im Hafen.",
+            "hu": "Kóstoljon friss halat a kikötőben.",
+            "ro": "Gustați pește proaspăt în port.",
+            "en": "Taste fresh fish by the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die historischen Verteidigungsanlagen der Torry Battery und suchen nach Delfinen in der Bucht. Mittags spazieren Sie am Girdle Ness Leuchtturm vorbei zum Greyhope Bay Centre für eine Pause. Nachmittags durchqueren Sie den Walker Park und tauchen in die Gassen des alten Fischerdorfes ein. Der Tag endet kulinarisch am geschäftigen Hafen.",
+        "hu": "Reggel fedezze fel a Torry Battery történelmi erődítményeit, és keresse a delfineket az öbölben. Délben sétáljon el a Girdle Ness világítótorony mellett a Greyhope Bay központba egy pihenőre. Délután vágjon át a Walker Parkon, és merüljön el a régi halászfalu utcáiban. A nap a nyüzsgő kikötőnél ér véget egy finom vacsorával.",
+        "ro": "Dimineața, explorați fortificațiile istorice Torry Battery și căutați delfinii în golf. La prânz, treceți pe lângă farul Girdle Ness spre centrul Greyhope Bay pentru o pauză. După-amiaza, traversați Walker Park și pătrundeți în străzile vechiului sat pescăresc. Ziua se încheie culinar în portul plin de viață.",
+        "en": "In the morning, explore the historic fortifications of Torry Battery and look for dolphins in the bay. At noon, walk past Girdle Ness Lighthouse to Greyhope Bay Centre for a break. In the afternoon, cross Walker Park and immerse yourself in the streets of the old fishing village. The day ends with a delicious meal by the bustling harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Greyhope Bay Café",
+            "tip": "Hausgemachtes Gebäck mit Meerblick."
+          },
+          {
+            "name": "The Brig o' Dee",
+            "tip": "Klassische schottische Pub-Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greyhope Bay Café",
+            "tip": "Házias sütemények tengeri kilátással."
+          },
+          {
+            "name": "The Brig o' Dee",
+            "tip": "Klasszikus skót pub ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Greyhope Bay Café",
+            "tip": "Patiserie de casă cu vedere la mare."
+          },
+          {
+            "name": "The Brig o' Dee",
+            "tip": "Mâncare clasică de pub scoțian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Greyhope Bay Café",
+            "tip": "Homemade pastries with sea views."
+          },
+          {
+            "name": "The Brig o' Dee",
+            "tip": "Classic Scottish pub fare."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Greyhope Bay",
+            "tip": "Ruhiger Ort zur Naturbeobachtung",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walker Park",
+            "tip": "Grüne Oase im Viertel",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greyhope Bay",
+            "tip": "Csendes hely a természet megfigyelésére",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walker Park",
+            "tip": "Zöld oázis a negyedben",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Greyhope Bay",
+            "tip": "Loc liniștit pentru observarea naturii",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walker Park",
+            "tip": "Oază verde în cartier",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Greyhope Bay",
+            "tip": "Quiet spot for nature watching",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walker Park",
+            "tip": "Green oasis in the district",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Victoria Road Shops",
+            "tip": "Lokale Geschäfte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Victoria Road Shops",
+            "tip": "Helyi boltok és kézműves áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Victoria Road Shops",
+            "tip": "Magazine locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Victoria Road Shops",
+            "tip": "Local stores and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fernglas für die Delfinbeobachtung mitbringen.",
+          "Windfeste Kleidung ist an der Küste unerlässlich."
+        ],
+        "hu": [
+          "Hozzon távcsövet a delfinleshez.",
+          "A szélálló ruházat elengedhetetlen a parton."
+        ],
+        "ro": [
+          "Aduceți binoclu pentru observarea delfinilor.",
+          "Îmbrăcămintea rezistentă la vânt este esențială pe coastă."
+        ],
+        "en": [
+          "Bring binoculars for dolphin watching.",
+          "Windproof clothing is essential on the coast."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Torry Battery",
+          "coords": [
+            -2.0725,
+            57.1328
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt an der Battery.",
+            "hu": "Parkoljon közvetlenül az erődítménynél.",
+            "ro": "Parcați direct la fortificație.",
+            "en": "Park directly at the battery."
+          }
+        },
+        {
+          "name": "Girdle Ness Lighthouse",
+          "coords": [
+            -2.0678,
+            57.1395
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurze Fahrt entlang der Küstenstraße.",
+            "hu": "Rövid autóút a tengerparti úton.",
+            "ro": "Scurtă călătorie pe drumul de coastă.",
+            "en": "Short drive along the coastal road."
+          }
+        },
+        {
+          "name": "Balnagask Golf Course",
+          "coords": [
+            -2.085,
+            57.132
+          ],
+          "category": "park",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Aussicht vom Parkplatz.",
+            "hu": "Látványos kilátás a parkolóból.",
+            "ro": "Vedere spectaculoasă din parcare.",
+            "en": "Spectacular views from the parking."
+          }
+        },
+        {
+          "name": "Nigg Bay Beach",
+          "coords": [
+            -2.055,
+            57.125
+          ],
+          "category": "beach",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die wilde Nigg Bay.",
+            "hu": "Látogasson el a vad Nigg-öbölbe.",
+            "ro": "Vizitați golful sălbatic Nigg.",
+            "en": "Visit the wild Nigg Bay."
+          }
+        },
+        {
+          "name": "Walker Park",
+          "coords": [
+            -2.085,
+            57.135
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ruhiger Park im Herzen von Torry.",
+            "hu": "Csendes park Torry szívében.",
+            "ro": "Parc liniștit în inima Torry.",
+            "en": "Quiet park in the heart of Torry."
+          }
+        },
+        {
+          "name": "Victoria Road Gastro",
+          "coords": [
+            -2.091,
+            57.139
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentrale Lage mit Parkmöglichkeiten.",
+            "hu": "Központi elhelyezkedés parkolási lehetőséggel.",
+            "ro": "Locație centrală cu parcare.",
+            "en": "Central location with parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die exponierten Aussichtspunkte an der Torry Battery und dem Leuchtturm. Ein Abstecher zur wilden Nigg Bay bietet Naturerlebnisse abseits der Stadt. Mittags genießen Sie den Panoramablick vom Golfplatz, bevor Sie im Zentrum von Torry einkehren.",
+        "hu": "Autóval kényelmesen elérheti a Torry Battery és a világítótorony kilátópontjait. Egy kitérő a vad Nigg-öbölbe a városon kívüli természeti élményeket kínál. Délben élvezze a panorámát a golfpályáról, mielőtt betérne Torry központjába.",
+        "ro": "Cu mașina, puteți ajunge ușor la punctele de belvedere de la Torry Battery și far. O excursie la golful sălbatic Nigg oferă experiențe în natură departe de oraș. La prânz, bucurați-vă de panorama de la terenul de golf înainte de a poposi în centrul Torry.",
+        "en": "By car, you can easily reach the exposed viewpoints at Torry Battery and the lighthouse. A detour to the wild Nigg Bay offers nature experiences away from the city. At noon, enjoy the panorama from the golf course before heading into the center of Torry."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Torry Tavern",
+            "tip": "Herzhafte Gerichte und lokales Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Torry Tavern",
+            "tip": "Kiadós ételek és helyi sörök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Torry Tavern",
+            "tip": "Mâncăruri consistente și bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Torry Tavern",
+            "tip": "Hearty dishes and local beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nigg Bay",
+            "tip": "Wilder Küstenabschnitt",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nigg Bay",
+            "tip": "Vad tengerparti szakasz",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nigg Bay",
+            "tip": "Secțiune de coastă sălbatică",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nigg Bay",
+            "tip": "Wild coastal stretch",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Torry Supermarket",
+            "tip": "Lokale schottische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torry Supermarket",
+            "tip": "Helyi skót termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torry Supermarket",
+            "tip": "Produse scoțiene locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torry Supermarket",
+            "tip": "Local Scottish products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraßen können eng sein, Vorsicht beim Parken.",
+          "Parken an der Greyhope Road ist oft kostenlos."
+        ],
+        "hu": [
+          "A tengerparti utak szűkek lehetnek, óvatosan parkoljon.",
+          "A Greyhope Roadon a parkolás gyakran ingyenes."
+        ],
+        "ro": [
+          "Drumurile de coastă pot fi înguste, atenție la parcare.",
+          "Parcarea pe Greyhope Road este adesea gratuită."
+        ],
+        "en": [
+          "Coastal roads can be narrow, be careful when parking.",
+          "Parking on Greyhope Road is often free."
+        ]
+      }
+    }
+  }
+}

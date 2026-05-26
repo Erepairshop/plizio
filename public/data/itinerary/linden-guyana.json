@@ -1,0 +1,1021 @@
+{
+  "city_id": "linden-guyana",
+  "anchor": {
+    "name": "Linden",
+    "coords": [
+      -58.3031,
+      6.0028
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Watooka Guest House",
+            "hu": "Watooka vendégház",
+            "ro": "Casa de oaspeți Watooka",
+            "en": "Watooka Guest House"
+          },
+          "coords": [
+            -58.3045,
+            6.0085
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein historisches koloniales Gebäude am Fluss.",
+            "hu": "Történelmi koloniális épület a folyóparton.",
+            "ro": "O clădire colonială istorică pe malul râului.",
+            "en": "Historic colonial-style guest house overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Linden Museum of Industrial History",
+            "hu": "Linden Ipari Történeti Múzeum",
+            "ro": "Muzeul de Istorie Industrială Linden",
+            "en": "Linden Museum of Industrial History"
+          },
+          "coords": [
+            -58.3035,
+            6.0055
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über den Bauxitabbau.",
+            "hu": "Ismerd meg a bauxitbányászat történetét.",
+            "ro": "Aflați totul despre istoria exploatării bauxitei.",
+            "en": "Learn about the bauxite mining history that built this town."
+          }
+        },
+        {
+          "name": {
+            "de": "Wismar-Mackenzie Bridge",
+            "hu": "Wismar-Mackenzie híd",
+            "ro": "Podul Wismar-Mackenzie",
+            "en": "Wismar-Mackenzie Bridge"
+          },
+          "coords": [
+            -58.3085,
+            6.0035
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verbindet die beiden Teile der Stadt.",
+            "hu": "Összeköti a város két partját a Demerara-folyó felett.",
+            "ro": "Conectează cele două părți ale orașului peste râul Demerara.",
+            "en": "Walk across the bridge connecting the two main city districts."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Mackenzie Market",
+            "hu": "Ebéd a Mackenzie piacon",
+            "ro": "Prânz în Piața Mackenzie",
+            "en": "Lunch at Mackenzie Market"
+          },
+          "coords": [
+            -58.3022,
+            6.0015
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Frittierter Fisch und lokales Gebäck.",
+            "hu": "Sült hal és helyi sütemények a piacon.",
+            "ro": "Pește prăjit și produse de patiserie locală.",
+            "en": "Try some fried fish and local pastries from market stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Christianburg Waterwheel",
+            "hu": "Christianburg vízikerék",
+            "ro": "Roata de apă Christianburg",
+            "en": "Christianburg Waterwheel"
+          },
+          "coords": [
+            -58.3122,
+            6.0125
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Relikt aus der Sägewerkszeit des 19. Jhd.",
+            "hu": "Egy 19. századi fűrészmalom maradványa.",
+            "ro": "O relicvă a unei mori de cherestea din secolul XIX.",
+            "en": "A historic relic from a 19th-century sawmill operation."
+          }
+        },
+        {
+          "name": {
+            "de": "River View Point",
+            "hu": "Folyóparti kilátópont",
+            "ro": "Punct de belvedere la râu",
+            "en": "River View Point"
+          },
+          "coords": [
+            -58.3065,
+            6.0072
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick auf den geschäftigen Demerara-Fluss.",
+            "hu": "Kilátás a nyüzsgő Demerara-folyóra.",
+            "ro": "O priveliște frumoasă asupra râului Demerara.",
+            "en": "Relax with a view of the river traffic at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Industriegeschichte von Linden zu Fuß. Vom eleganten Watooka Guest House über das Bergbaumuseum bis hin zum historischen Christianburg-Wasserrad. Erleben Sie das lokale Leben am Markt und genießen Sie die Aussicht auf den Fluss Demerara, der die Stadt prägt.",
+        "hu": "Fedezd fel Linden ipari múltját gyalogosan. A patinás Watooka vendégháztól a bányászati múzeumon át egészen a történelmi Christianburg vízikerékig. Ismerd meg a helyi életet a piacon, és élvezd a kilátást a várost kettészelő Demerara-folyóra.",
+        "ro": "Descoperiți istoria industrială a orașului Linden la pas. De la eleganta casă Watooka, prin muzeul mineritului, până la roata de apă istorică din Christianburg. Experimentați viața locală în piață și bucurați-vă de priveliștile asupra râului Demerara.",
+        "en": "Discover Linden's industrial history on foot. From the elegant Watooka Guest House and the mining museum to the historic Christianburg Waterwheel. Experience local life at the market and enjoy views of the Demerara River that defines the town's identity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Watooka Restaurant",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watooka Étterem",
+            "tip": "Színvonalas konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Watooka",
+            "tip": "Bucătărie rafinată într-un decor istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watooka Restaurant",
+            "tip": "Fine dining with a historical colonial atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "River Front Walk",
+            "tip": "Ruhiger Weg entlang des Wassers.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Békés sétaút a víz mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada râului",
+            "tip": "O plimbare liniștită pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Front Walk",
+            "tip": "A peaceful walking path along the Demerara River.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mackenzie Market Square",
+            "tip": "Zentrum für lokalen Handel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mackenzie piaci tér",
+            "tip": "A helyi kereskedelem központja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Mackenzie",
+            "tip": "Centrul comerțului local din Linden."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mackenzie Market Square",
+            "tip": "The central hub for local shopping and trade."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie Sonnenschutz für die Brückenüberquerung mit.",
+          "Trinken Sie lokales Kokoswasser.",
+          "Fragen Sie im Museum nach einer Führung."
+        ],
+        "hu": [
+          "Vigyél naptejet a hídon való átkeléshez.",
+          "Kóstold meg a helyi kókuszvizet.",
+          "Kérj vezetett túrát a múzeumban."
+        ],
+        "ro": [
+          "Folosiți protecție solară pentru traversarea podului.",
+          "Gustați apa de nucă de cocos locală.",
+          "Cereți un tur ghidat la muzeu pentru detalii."
+        ],
+        "en": [
+          "Bring sun protection for the open walk across the bridge.",
+          "Try fresh coconut water from street vendors.",
+          "Ask for a guided tour at the museum for better context."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mackenzie Bauxite Mines",
+            "hu": "Mackenzie bauxitbányák",
+            "ro": "Minele de bauxită Mackenzie",
+            "en": "Mackenzie Bauxite Mines"
+          },
+          "coords": [
+            -58.2885,
+            6.0055
+          ],
+          "category": "industry",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beeindruckende Tagebaue in der Nähe.",
+            "hu": "Látványos külszíni fejtések a közelben.",
+            "ro": "Mine de suprafață impresionante în apropiere.",
+            "en": "See the massive open-cast mining operations nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Lakes View Point",
+            "hu": "Kék-tavak kilátó",
+            "ro": "Punct de belvedere Lacurile Albastre",
+            "en": "Blue Lakes View Point"
+          },
+          "coords": [
+            -58.2755,
+            6.0155
+          ],
+          "category": "lake",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Wunderschönes blaues Wasser (nicht baden!).",
+            "hu": "Gyönyörű kék víz (fürdeni tilos!).",
+            "ro": "Apă de un albastru superb (nu înotați!).",
+            "en": "Stunning blue waters in former mine pits (no swimming!)."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Wismar",
+            "hu": "Ebéd Wismarban",
+            "ro": "Prânz în Wismar",
+            "en": "Lunch at Wismar"
+          },
+          "coords": [
+            -58.3085,
+            6.0022
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Probieren Sie lokales Curry.",
+            "hu": "Kóstold meg a helyi currys ételeket.",
+            "ro": "Încercați specialitățile locale cu curry.",
+            "en": "Try some hearty local curry dishes in the Wismar district."
+          }
+        },
+        {
+          "name": {
+            "de": "Linden Multi-Purpose Centre",
+            "hu": "Linden többcélú központ",
+            "ro": "Centrul multifuncțional Linden",
+            "en": "Linden Multi-Purpose Centre"
+          },
+          "coords": [
+            -58.3042,
+            6.0005
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Zentrum für Sport und Kultur.",
+            "hu": "A helyi sport és kultúra központja.",
+            "ro": "Un centru pentru sport și evenimente culturale.",
+            "en": "A hub for local sports and community gatherings."
+          }
+        },
+        {
+          "name": {
+            "de": "Dyke Enclosure View",
+            "hu": "Gát kilátás",
+            "ro": "Vedere de pe dig",
+            "en": "Dyke Enclosure View"
+          },
+          "coords": [
+            -58.3055,
+            6.0092
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Panoramablick auf Stadt und Fluss.",
+            "hu": "Panoráma a városra és a folyóra a gátról.",
+            "ro": "Vedere panoramică asupra orașului și râului.",
+            "en": "Panoramic views of the town and river from the dyke."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Industrielandschaft von Linden. Besuchen Sie die beeindruckenden Bauxitminen und die berühmten 'Blue Lakes' in den alten Gruben. Nach einem Mittagessen in Wismar erkunden Sie das Gemeindezentrum und genießen zum Abschluss den Blick vom Schutzdeich über die Stadt.",
+        "hu": "Tekernj át Linden ipari tájain. Látogass el a lenyűgöző bauxitbányákhoz és a híres 'Kék-tavakhoz' a régi bányagödrökben. Egy wismari ebéd után fedezd fel a közösségi központot, végül élvezd a gátról nyíló kilátást a városra.",
+        "ro": "Pedalați prin peisajul industrial din Linden. Vizitați minele de bauxită și faimoasele Lacuri Albastre formate în fostele cariere. După un prânz în Wismar, explorați centrul comunitar și încheiați ziua cu o vedere de pe digul de protecție.",
+        "en": "Cycle through Linden's industrial landscape. Visit the impressive bauxite mines and the famous 'Blue Lakes' formed in old pits. After lunch in Wismar, explore the community center and finish with a view from the protective dyke overlooking the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L & L Diner",
+            "tip": "Bekannt für schnelle lokale Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L & L Diner",
+            "tip": "Népszerű helyi gyorsételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L & L Diner",
+            "tip": "Cunoscut pentru preparate locale rapide și bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "L & L Diner",
+            "tip": "Popular spot for quick and tasty Guyanese meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blue Lakes Area",
+            "tip": "Ruhige Natur trotz industrieller Herkunft.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kék-tavak környéke",
+            "tip": "Nyugodt természet az ipari környezetben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona Lacurilor Albastre",
+            "tip": "Natură liniștită într-un context industrial.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Blue Lakes Area",
+            "tip": "A serene natural setting despite its industrial origin.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wismar Market",
+            "tip": "Authentischer lokaler Straßenmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wismari piac",
+            "tip": "Autentikus helyi utcai piac."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Wismar",
+            "tip": "O piață stradală locală autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wismar Market",
+            "tip": "Great for an authentic local street market experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Biken Sie nur auf befestigten Wegen bei den Minen.",
+          "Vermeiden Sie das Wasser der Blue Lakes.",
+          "Vorsicht vor LKWs im Bergbaugebiet."
+        ],
+        "hu": [
+          "Csak a kijelölt utakon tekerj a bányák közelében.",
+          "Ne menj bele a Kék-tavak vízébe.",
+          "Vigyázz a teherautókra a bányászati övezetben."
+        ],
+        "ro": [
+          "Pedalați doar pe drumurile amenajate lângă mine.",
+          "Evitați contactul cu apa din Lacurile Albastre.",
+          "Atenție la camioanele mari din zona minieră."
+        ],
+        "en": [
+          "Stick to established paths near the mining areas.",
+          "Do not enter or drink the water in the Blue Lakes.",
+          "Be alert for heavy mining trucks in the area."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 35.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mackenzie Town Center",
+            "hu": "Mackenzie városközpont",
+            "ro": "Centrul orașului Mackenzie",
+            "en": "Mackenzie Town Center"
+          },
+          "coords": [
+            -58.3025,
+            6.0025
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Das geschäftige Herz von Linden.",
+            "hu": "Linden nyüzsgő kereskedelmi központja.",
+            "ro": "Inima comercială agitată a orașului Linden.",
+            "en": "The bustling commercial heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kara Kara Blue Lake",
+            "hu": "Kara Kara Kék-tó",
+            "ro": "Lacul Albastru Kara Kara",
+            "en": "Kara Kara Blue Lake"
+          },
+          "coords": [
+            -58.2722,
+            6.0185
+          ],
+          "category": "lake",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Fotokulisse.",
+            "hu": "Lenyűgöző helyszín fotózáshoz.",
+            "ro": "Un loc spectaculos pentru fotografii.",
+            "en": "A spectacular location for unique landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Mining Overlook",
+            "hu": "Bányászati kilátó",
+            "ro": "Belvedere minieră",
+            "en": "Mining Overlook"
+          },
+          "coords": [
+            -58.2855,
+            6.0222
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Blick auf die riesigen Bauxit-Tagebaue.",
+            "hu": "Kilátás a hatalmas bauxit külszíni fejtésekre.",
+            "ro": "Priviți carierele uriașe de bauxită de sus.",
+            "en": "View the vast open-cast bauxite mines from above."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Coomacka",
+            "hu": "Ebéd Coomackában",
+            "ro": "Prânz în Coomacka",
+            "en": "Lunch at Coomacka"
+          },
+          "coords": [
+            -58.2555,
+            5.9555
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Typische Gerichte in einer Bergbaugemeinde.",
+            "hu": "Hagyományos ételek egy bányásztelepülésen.",
+            "ro": "Mâncăruri tradiționale într-o comunitate minieră.",
+            "en": "Try traditional dishes in this small mining village."
+          }
+        },
+        {
+          "name": {
+            "de": "Coomacka Springs",
+            "hu": "Coomacka források",
+            "ro": "Izvoarele Coomacka",
+            "en": "Coomacka Springs"
+          },
+          "coords": [
+            -58.2522,
+            5.9522
+          ],
+          "category": "lake",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Natürliche Quellen zum Erfrischen.",
+            "hu": "Frissítő természetes források.",
+            "ro": "Izvoare naturale răcoritoare în apropiere.",
+            "en": "Refreshing natural springs for a quick break."
+          }
+        },
+        {
+          "name": {
+            "de": "Linden Bus Park",
+            "hu": "Linden buszállomás",
+            "ro": "Stația de autobuz Linden",
+            "en": "Linden Bus Park"
+          },
+          "coords": [
+            -58.3038,
+            6.0028
+          ],
+          "category": "port",
+          "arrive_at": "15:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das bunte Treiben.",
+            "hu": "Figyeld meg a helyi közlekedés forgatagát.",
+            "ro": "Observați agitația transportului local.",
+            "en": "Watch the lively hub of regional transportation."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset at Mackenzie Riverside",
+            "hu": "Naplemente a Mackenzie folyóparton",
+            "ro": "Apus la malul râului Mackenzie",
+            "en": "Sunset at Mackenzie Riverside"
+          },
+          "coords": [
+            -58.3055,
+            6.0078
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Abschluss des Tages am Wasser.",
+            "hu": "A nap tökéletes zárása a vízparton.",
+            "ro": "Încheierea zilei pe malul râului la apus.",
+            "en": "End your day by the river as the sun goes down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour führt Sie tief in das Bergbauerbe von Linden. Besuchen Sie die beeindruckenden Kék-tavak und Bauxitminen, fahren Sie zur kleinen Bergbaugemeinde Coomacka und erfrischen Sie sich an den Quellen. Ein Tag voller Kontraste zwischen Industrie und Natur.",
+        "hu": "Ez az autós túra Linden bányászati örökségének mélyére kalauzol. Látogass el a lenyűgöző Kék-tavakhoz és bauxitbányákhoz, utazz el Coomacka bányászfalujába, és frissülj fel a forrásoknál. Ipari látnivalók és természet egy nap alatt.",
+        "ro": "Acest tur auto vă poartă în inima moștenirii miniere a orașului Linden. Vizitați spectaculoasele Lacuri Albastre și minele de bauxită, mergeți în satul minier Coomacka și răcoriți-vă la izvoare. O zi plină de contraste între industrie și natură.",
+        "en": "This driving tour takes you deep into Linden's mining heritage. Visit the stunning Blue Lakes and bauxite mines, drive to the small mining community of Coomacka, and refresh yourself at the springs. A day of contrasts between massive industry and local nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Watooka Club",
+            "tip": "Historischer Ort für ein kühles Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Watooka Club",
+            "tip": "Történelmi hely egy hűsítő italhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Watooka Club",
+            "tip": "Un loc istoric pentru o băutură răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Watooka Club",
+            "tip": "A historic and relaxed spot for a cool drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Coomacka Springs",
+            "tip": "Verstecktes Naturjuwel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coomacka források",
+            "tip": "Rejtett természeti kincs.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvoarele Coomacka",
+            "tip": "O bijuterie naturală ascunsă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coomacka Springs",
+            "tip": "A hidden natural gem perfect for quiet time.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Linden Plaza",
+            "tip": "Kleines lokales Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linden Plaza",
+            "tip": "Kisebb helyi bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Linden Plaza",
+            "tip": "Un centru comercial local de mici dimensiuni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Linden Plaza",
+            "tip": "A convenient small shopping plaza for essentials."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein 4x4 Fahrzeug ist für Coomacka ratsam.",
+          "Nehmen Sie Insektenschutz mit.",
+          "Achten Sie auf den Bergbauverkehr."
+        ],
+        "hu": [
+          "Coomacka felé tanácsos terepjárót használni.",
+          "Vigyél magaddal rovarriasztót.",
+          "Figyelj a bányászati járművekre az utakon."
+        ],
+        "ro": [
+          "Un vehicul 4x4 este recomandat pentru drumul spre Coomacka.",
+          "Folosiți spray împotriva insectelor.",
+          "Atenție sporită la utilajele miniere pe drum."
+        ],
+        "en": [
+          "A high-clearance vehicle is recommended for the road to Coomacka.",
+          "Bring insect repellent for the spring areas.",
+          "Watch out for heavy dust and mining machinery on backroads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mackenzie Bus Park",
+            "hu": "Mackenzie buszállomás",
+            "ro": "Stația de autobuz Mackenzie",
+            "en": "Mackenzie Bus Park"
+          },
+          "coords": [
+            -58.3035,
+            6.0025
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt für Touren in die Umgebung.",
+            "hu": "Kiindulópont a környékbeli kirándulásokhoz.",
+            "ro": "Punctul de plecare pentru explorarea împrejurimilor.",
+            "en": "The main hub for local minibus connections."
+          }
+        },
+        {
+          "name": {
+            "de": "Wismar Market Area",
+            "hu": "Wismari piac környéke",
+            "ro": "Zona pieței Wismar",
+            "en": "Wismar Market Area"
+          },
+          "coords": [
+            -58.3088,
+            6.0018
+          ],
+          "category": "market",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Sehr belebt am Vormittag.",
+            "hu": "Nagyon nyüzsgő hely délelőttönként.",
+            "ro": "O zonă foarte animată în timpul dimineții.",
+            "en": "Experience the authentic morning buzz of the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch at Republic Avenue",
+            "hu": "Ebéd a Köztársaság sugárúton",
+            "ro": "Prânz pe Bulevardul Republicii",
+            "en": "Lunch at Republic Avenue"
+          },
+          "coords": [
+            -58.3032,
+            6.0035
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Zentrum für Fast-Food und Snacks.",
+            "hu": "Gyorsételek és harapnivalók központja.",
+            "ro": "Zona centrală pentru fast-food și gustări.",
+            "en": "Central area for quick local bites and snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Linden Town Council Building",
+            "hu": "Városi Tanács épülete",
+            "ro": "Clădirea Consiliului Local",
+            "en": "Linden Town Council Building"
+          },
+          "coords": [
+            -58.3022,
+            6.0045
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein wichtiges Verwaltungsgebäude.",
+            "hu": "Fontos helyi közigazgatási épület.",
+            "ro": "O clădire administrativă locală importantă.",
+            "en": "A key administrative building for the mining town."
+          }
+        },
+        {
+          "name": {
+            "de": "Silvertown Riverside",
+            "hu": "Silvertown folyópart",
+            "ro": "Malul râului Silvertown",
+            "en": "Silvertown Riverside"
+          },
+          "coords": [
+            -58.3122,
+            5.9985
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ein entspanntes Viertel am Demerara.",
+            "hu": "Hangulatos környék a Demerara-folyó partján.",
+            "ro": "Un cartier relaxat pe malul râului Demerara.",
+            "en": "A laid-back residential area with nice river views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Minibusse, um zwischen Mackenzie und Wismar zu pendeln. Besuchen Sie den geschäftigen Wismar-Markt, genießen Sie ein schnelles Mittagessen auf der Republic Avenue und entdecken Sie das ruhigere Silvertown-Viertel am Fluss. Ein authentischer Einblick in das Leben in Linden.",
+        "hu": "Használd a helyi minibuszokat a Mackenzie és Wismar közötti közlekedéshez. Látogass el a nyüzsgő wismari piacra, fogyassz el egy gyors ebédet a Köztársaság sugárúton, és fedezd fel a békés Silvertown negyedet a folyóparton. Autentikus betekintés Linden életébe.",
+        "ro": "Folosiți microbuzele locale pentru a face naveta între Mackenzie și Wismar. Vizitați piața animată din Wismar, savurați un prânz rapid pe Bulevardul Republicii și descoperiți cartierul liniștit Silvertown de pe malul râului. O perspectivă autentică asupra vieții din Linden.",
+        "en": "Use local minibuses to hop between the Mackenzie and Wismar districts. Visit the busy Wismar Market, enjoy a quick local lunch on Republic Avenue, and discover the laid-back Silvertown area by the river. An authentic glimpse into daily life in Guyana's second-largest town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tropical Reflection",
+            "tip": "Beliebter Treffpunkt für Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tropical Reflection",
+            "tip": "Népszerű helyi találkozóhely snackekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tropical Reflection",
+            "tip": "Loc popular de întâlnire pentru gustări rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tropical Reflection",
+            "tip": "A well-known local meeting spot for quick bites."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riverside Benches",
+            "tip": "Platz zum Beobachten der Boote.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti padok",
+            "tip": "Pihenj a padokon és figyeld a hajókat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile de pe faleză",
+            "tip": "Loc perfect pentru a privi bărcile de pe râu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Benches",
+            "tip": "Quiet benches to sit and watch the river traffic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mackenzie Market stalls",
+            "tip": "Günstige Kleidung und Haushaltswaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mackenzie piaci bódék",
+            "tip": "Olcsó ruházat és háztartási cikkek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabele din Piața Mackenzie",
+            "tip": "Haine și articole de uz casnic la prețuri bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mackenzie Market stalls",
+            "tip": "Great for budget clothes and household items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kennen Sie die Minibus-Routen (Zone 43).",
+          "Häufige Fahrten zwischen Mackenzie und Wismar.",
+          "Achten Sie auf Ihr Gepäck."
+        ],
+        "hu": [
+          "Ismerd meg a minibusz útvonalakat (43-as zóna).",
+          "Gyakori járatok indulnak Mackenzie és Wismar között.",
+          "Ügyelj a csomagjaidra."
+        ],
+        "ro": [
+          "Cunoașteți rutele de microbuz (Zona 43).",
+          "Sunt plecări frecvente între Mackenzie și Wismar.",
+          "Aveți grijă de bagajele personale."
+        ],
+        "en": [
+          "Get to know the local minibus routes (Zone 43).",
+          "Shuttles between Mackenzie and Wismar are very frequent.",
+          "Keep a firm hold on your bags in crowded bus parks."
+        ]
+      }
+    }
+  }
+}

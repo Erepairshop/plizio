@@ -1,0 +1,855 @@
+{
+  "city_id": "uk-east-grinstead-cities-v2",
+  "anchor": {
+    "name": "East Grinstead",
+    "coords": [
+      51.1286,
+      -0.0144
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Sackville College",
+          "coords": [
+            51.1281,
+            -0.0125
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die jakobinische Architektur.",
+            "hu": "Csodálja meg a jakobinus építészetet.",
+            "ro": "Admirați arhitectura iacobeană.",
+            "en": "Admire the jacobean architecture."
+          }
+        },
+        {
+          "name": "St Swithun's Church",
+          "coords": [
+            51.1278,
+            -0.0112
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gräber lokaler Märtyrer.",
+            "hu": "Látogassa meg a helyi mártírok sírjait.",
+            "ro": "Vizitați mormintele martirilor locali.",
+            "en": "Visit the graves of local martyrs."
+          }
+        },
+        {
+          "name": "High Street",
+          "coords": [
+            51.1275,
+            -0.012
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die mittelalterlichen Fachwerkhäuser.",
+            "hu": "Fényképezze le a középkori favázas házakat.",
+            "ro": "Fotografiați casele medievale cu structură de lemn.",
+            "en": "Photograph the medieval timber-framed houses."
+          }
+        },
+        {
+          "name": "East Grinstead Museum",
+          "coords": [
+            51.1265,
+            -0.014
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lernen Sie die Geschichte der plastischen Chirurgie.",
+            "hu": "Ismerje meg a plasztikai sebészet történetét.",
+            "ro": "Învățați istoria chirurgiei plastice.",
+            "en": "Learn the history of plastic surgery."
+          }
+        },
+        {
+          "name": "Lunch at a Local Pub",
+          "coords": [
+            51.127,
+            -0.013
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Sussex Ale.",
+            "hu": "Kóstoljon meg egy helyi Sussex sört.",
+            "ro": "Încercați o bere locală Sussex.",
+            "en": "Try a local Sussex ale."
+          }
+        },
+        {
+          "name": "Chequer Mead Theatre",
+          "coords": [
+            51.125,
+            -0.015
+          ],
+          "category": "cultural",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schauen Sie sich das Programm für eine Abendvorstellung an.",
+            "hu": "Nézze meg az esti előadás programját.",
+            "ro": "Consultați programul pentru o reprezentație de seară.",
+            "en": "Check the schedule for an evening performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die prächtige High Street mit ihren Fachwerkhäusern. Mittags vertiefen Sie sich im Museum in die lokale Geschichte und genießen einen Pub-Lunch. Nachmittags besuchen Sie das kulturelle Zentrum Chequer Mead.",
+        "hu": "Reggel fedezze fel a pompás High Street favázas házait. Délben mélyedjen el a helyi történelemben a múzeumban, és élvezze a pub ebédet. Délután látogassa meg a Chequer Mead kulturális központot.",
+        "ro": "Dimineața explorați superba High Street cu casele sale din lemn. La prânz aprofundați istoria locală la muzeu și bucurați-vă de un prânz la pub. După-amiaza vizitați centrul cultural Chequer Mead.",
+        "en": "In the morning, explore the magnificent High Street with its timber-framed houses. At noon, delve into local history at the museum and enjoy a pub lunch. In the afternoon, visit the Chequer Mead cultural center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Dorset Arms",
+            "tip": "Traditionelles Pub-Essen in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Dorset Arms",
+            "tip": "Hagyományos pub ételek történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Dorset Arms",
+            "tip": "Mâncare tradițională de pub într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Dorset Arms",
+            "tip": "Traditional pub food in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St Swithun’s Churchyard",
+            "tip": "Ein ruhiger Ort für Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "St Swithun templomkert",
+            "tip": "Csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii St Swithun",
+            "tip": "Un loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Swithun’s Churchyard",
+            "tip": "A quiet spot for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "High Street Boutiques",
+            "tip": "Einzigartige Geschenke und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "High Street butikok",
+            "tip": "Egyedi ajándékok és helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-urile de pe High Street",
+            "tip": "Cadouri unice și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "High Street Boutiques",
+            "tip": "Unique gifts and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Buchen Sie Touren für das Sackville College im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Foglaljon előre túrát a Sackville College-ba."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite.",
+          "Rezervați tururi pentru Sackville College în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Book tours for Sackville College in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "High Street",
+          "coords": [
+            51.1275,
+            -0.012
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schneller Stopp für Fotos.",
+            "hu": "Egy gyors megálló fotózáshoz.",
+            "ro": "O oprire rapidă pentru fotografii.",
+            "en": "A quick stop for photos."
+          }
+        },
+        {
+          "name": "Standen House",
+          "coords": [
+            51.109,
+            -0.018
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Arts & Crafts Interieur.",
+            "hu": "Fedezze fel az Arts & Crafts enteriőrt.",
+            "ro": "Explorați interiorul Arts & Crafts.",
+            "en": "Explore the Arts & Crafts interior."
+          }
+        },
+        {
+          "name": "Weir Wood Reservoir",
+          "coords": [
+            51.095,
+            -0.015
+          ],
+          "category": "natural",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick aufs Wasser.",
+            "hu": "Élvezze a kilátást a vízre.",
+            "ro": "Bucurați-vă de priveliștea spre apă.",
+            "en": "Enjoy the water views."
+          }
+        },
+        {
+          "name": "Hammerwood Park",
+          "coords": [
+            51.13,
+            0.04
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel der Architektur.",
+            "hu": "Az építészet rejtett drágaköve.",
+            "ro": "O bijuterie ascunsă a arhitecturii.",
+            "en": "A hidden gem of architecture."
+          }
+        },
+        {
+          "name": "Ashdown Forest (Edge)",
+          "coords": [
+            51.08,
+            0.05
+          ],
+          "category": "natural",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Waldluft.",
+            "hu": "Szívja be a friss erdei levegőt.",
+            "ro": "Respirați aerul proaspăt de pădure.",
+            "en": "Breathe in the fresh forest air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie aus der Stadt hinaus zum prächtigen Standen House und zum Weir Wood Reservoir. Entdecken Sie die grüne Umgebung von Sussex.",
+        "hu": "Ez a kerékpártúra kivezeti Önt a városból a pompás Standen House-hoz és a Weir Wood víztározóhoz. Fedezze fel Sussex zöld környezetét.",
+        "ro": "Acest tur cu bicicleta vă scoate din oraș spre superba Standen House și lacul de acumulare Weir Wood. Explorați împrejurimile verzi din Sussex.",
+        "en": "This bike tour takes you out of town to the magnificent Standen House and Weir Wood Reservoir. Explore the green surroundings of Sussex."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Cat Inn",
+            "tip": "Rustikales Pub für hungrige Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Cat Inn",
+            "tip": "Rusztikus pub éhes bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Cat Inn",
+            "tip": "Pub rustic pentru bicicliști flămânzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Cat Inn",
+            "tip": "Rustic pub for hungry cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weir Wood Banks",
+            "tip": "Vogelbeobachtung in aller Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weir Wood partja",
+            "tip": "Madármegfigyelés csendben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Weir Wood",
+            "tip": "Observarea păsărilor în liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Weir Wood Banks",
+            "tip": "Birdwatching in silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Standen Gift Shop",
+            "tip": "Handgefertigte Kunstgegenstände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Standen ajándékbolt",
+            "tip": "Kézműves műtárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Standen",
+            "tip": "Obiecte de artă lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Standen Gift Shop",
+            "tip": "Handcrafted art items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Abschnitte sind hügelig, prüfen Sie Ihre Gänge.",
+          "Bringen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Néhány szakasz dombos, ellenőrizze a sebességváltót.",
+          "Hozzon magával elegendő vizet."
+        ],
+        "ro": [
+          "Unele secțiuni sunt deluroase, verificați vitezele.",
+          "Aduceți suficientă apă."
+        ],
+        "en": [
+          "Some sections are hilly, check your gears.",
+          "Bring plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 35.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Sackville College",
+          "coords": [
+            51.1281,
+            -0.0125
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum.",
+            "hu": "Parkoljon a városközpontban.",
+            "ro": "Parcați în centrul orașului.",
+            "en": "Park in the town center."
+          }
+        },
+        {
+          "name": "High Street",
+          "coords": [
+            51.1275,
+            -0.012
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang durch die Altstadt.",
+            "hu": "Séta az óvárosban.",
+            "ro": "Plimbare prin orașul vechi.",
+            "en": "Walk through the old town."
+          }
+        },
+        {
+          "name": "Bluebell Railway",
+          "coords": [
+            51.129,
+            -0.017
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine nostalgische Zugfahrt ist Pflicht.",
+            "hu": "Egy nosztalgikus vonatút kötelező.",
+            "ro": "O călătorie nostalgică cu trenul este obligatorie.",
+            "en": "A nostalgic train ride is a must."
+          }
+        },
+        {
+          "name": "Standen House",
+          "coords": [
+            51.109,
+            -0.018
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die prächtigen Gärten.",
+            "hu": "Látogassa meg a pompás kerteket.",
+            "ro": "Vizitați grădinile superbe.",
+            "en": "Visit the magnificent gardens."
+          }
+        },
+        {
+          "name": "Ashdown Forest",
+          "coords": [
+            51.05,
+            0.05
+          ],
+          "category": "natural",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Suchen Sie den Poohsticks-Brücke.",
+            "hu": "Keresse meg a Micimackó-hidat.",
+            "ro": "Căutați podul lui Winnie the Pooh.",
+            "en": "Find the Poohsticks Bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kombinieren Sie Stadtgeschichte mit Sussex-Natur. Nach den Sehenswürdigkeiten im Zentrum fahren Sie zur Bluebell Railway und zum Ashdown Forest.",
+        "hu": "Ötvözze a várostörténetet Sussex természetével. A központi látnivalók után autózzon el a Bluebell Railwayhez és az Ashdown Forestbe.",
+        "ro": "Combinați istoria orașului cu natura din Sussex. După obiectivele din centru, mergeți cu mașina la Bluebell Railway și Ashdown Forest.",
+        "en": "Combine town history with Sussex nature. After the central sights, drive to the Bluebell Railway and Ashdown Forest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Hatch Inn",
+            "tip": "Gemütliches Gasthaus am Rande des Waldes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Hatch Inn",
+            "tip": "Hangulatos fogadó az erdő szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Hatch Inn",
+            "tip": "Han primitor la marginea pădurii."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Hatch Inn",
+            "tip": "Cozy inn on the edge of the forest."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gills Lap",
+            "tip": "Panoramablick über den Forest.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gills Lap",
+            "tip": "Panorámás kilátás az erdőre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gills Lap",
+            "tip": "Vedere panoramică peste pădure.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gills Lap",
+            "tip": "Panoramic view over the forest.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pooh Corner",
+            "tip": "Alles rund um Pu der Bär."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Micimackó sarok",
+            "tip": "Minden, ami Micimackó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pooh Corner",
+            "tip": "Totul despre Winnie the Pooh.",
+            "en": "Everything about Winnie the Pooh."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pooh Corner",
+            "tip": "Everything about Winnie the Pooh."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze im Zentrum sind begrenzt, nutzen Sie Parkhäuser.",
+          "Navigieren Sie vorsichtig im Ashdown Forest (Tiere!)."
+        ],
+        "hu": [
+          "A központi parkolás korlátozott, használjon parkolóházakat.",
+          "Vezessen óvatosan az Ashdown Forestben (állatok!)."
+        ],
+        "ro": [
+          "Parcarea în centru este limitată, folosiți parcările supraetajate.",
+          "Navigați cu atenție în Ashdown Forest (animale!)."
+        ],
+        "en": [
+          "Central parking is limited, use multi-story car parks.",
+          "Navigate carefully in Ashdown Forest (animals!)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "East Grinstead Station",
+          "coords": [
+            51.129,
+            -0.017
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für Züge und Busse.",
+            "hu": "Vonatok és buszok kiindulópontja.",
+            "ro": "Punct de plecare pentru trenuri și autobuze.",
+            "en": "Starting point for trains and buses."
+          }
+        },
+        {
+          "name": "High Street Cluster",
+          "coords": [
+            51.1275,
+            -0.012
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie College und Kirche zu Fuß.",
+            "hu": "Látogassa meg a kollégiumot és a templomot gyalog.",
+            "ro": "Vizitați colegiul și biserica pe jos.",
+            "en": "Visit the college and church on foot."
+          }
+        },
+        {
+          "name": "East Grinstead Museum",
+          "coords": [
+            51.1265,
+            -0.014
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Zentrum.",
+            "hu": "Rövid séta a központtól.",
+            "ro": "Scurtă plimbare din centru.",
+            "en": "Short walk from the center."
+          }
+        },
+        {
+          "name": "Standen House (Bus)",
+          "coords": [
+            51.109,
+            -0.018
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Busfahrplan (Linie 84).",
+            "hu": "Ellenőrizze a buszmenetrendet (84-es járat).",
+            "ro": "Verificați mersul autobuzelor (linia 84).",
+            "en": "Check the bus schedule (Route 84)."
+          }
+        },
+        {
+          "name": "Bluebell Railway Station",
+          "coords": [
+            51.129,
+            -0.0175
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Direkt neben der Hauptstation.",
+            "hu": "Közvetlenül a főállomás mellett.",
+            "ro": "Chiar lângă stația principală.",
+            "en": "Right next to the main station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie lokale Busse und die Bahn, um die Highlights zu verbinden. Der Tag beginnt am Bahnhof, führt durch das Zentrum und endet bei der historischen Dampfbahn.",
+        "hu": "Használja a helyi buszokat és a vonatot a fénypontok összekapcsolásához. A nap az állomáson kezdődik, a központon át vezet, és a történelmi gőzvasútnál ér véget.",
+        "ro": "Folosiți autobuzele locale și trenul pentru a conecta atracțiile. Ziua începe la gară, trece prin centru și se termină la trenul istoric cu aburi.",
+        "en": "Use local buses and the train to connect the highlights. The day begins at the station, leads through the center, and ends at the historic steam railway."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Station Tavern",
+            "tip": "Bequem vor der Abfahrt essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Station Tavern",
+            "tip": "Kényelmes étkezés indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Station Tavern",
+            "tip": "Mâncare convenabilă înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Tavern",
+            "tip": "Convenient dining before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Standen Gardens",
+            "tip": "Friedliche Naturruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Standen kertek",
+            "tip": "Békés természeti nyugalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Standen",
+            "tip": "Liniște naturală pașnică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Standen Gardens",
+            "tip": "Peaceful natural tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Martells Department Store",
+            "tip": "Ein lokales Traditionsgeschäft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Martells áruház",
+            "tip": "Egy helyi hagyományos üzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Martells",
+            "tip": "Un magazin tradițional local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Martells Department Store",
+            "tip": "A local traditional shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich eine Sussex-Buskarte für günstigere Fahrten.",
+          "Die Bluebell Railway hat eigene Fahrzeiten."
+        ],
+        "hu": [
+          "Szerezzen be egy Sussex buszkártyát az olcsóbb utazáshoz.",
+          "A Bluebell Railway-nek saját menetrendje van."
+        ],
+        "ro": [
+          "Luați un card de autobuz Sussex pentru călătorii mai ieftine.",
+          "Bluebell Railway are propriul orar."
+        ],
+        "en": [
+          "Get a Sussex bus card for cheaper travel.",
+          "Bluebell Railway has its own timetable."
+        ]
+      }
+    }
+  }
+}

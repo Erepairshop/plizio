@@ -3,8 +3,8 @@
   "anchor": {
     "name": "Biarritz",
     "coords": [
-      43.4833,
-      -1.5586
+      -1.5586,
+      43.4832
     ]
   },
   "modes": {
@@ -12,2451 +12,1283 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:40",
-      "total_km": 3.2,
-      "stop_count": 6,
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Les Halles Markt",
-            "hu": "Les Halles piac",
-            "ro": "Piața Les Halles",
-            "en": "Les Halles Market"
+            "de": "Phare de Biarritz",
+            "hu": "Biarritzi világítótorony",
+            "ro": "Farul din Biarritz",
+            "en": "Biarritz Lighthouse"
           },
           "coords": [
-            -1.5592,
-            43.4815
+            -1.5518,
+            43.4935
           ],
-          "category": "shopping",
+          "category": "viewpoint",
           "arrive_at": "09:10",
-          "stay_min": 50,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Probieren Sie den Gâteau Basque früh am Morgen.",
-            "hu": "Kóstolja meg a baszk süteményt korán reggel.",
-            "ro": "Gustați prăjitura bască dis-de-dimineață.",
-            "en": "Try the Gâteau Basque early in the morning."
+            "de": "Bester Panoramablick auf die Stadt.",
+            "hu": "A legjobb panoráma a városra.",
+            "ro": "Cea mai bună panoramă asupra orașului.",
+            "en": "Best panoramic view of the city."
           }
         },
         {
           "name": {
             "de": "Grande Plage",
-            "hu": "Grande Plage strand",
-            "ro": "Plaja Grande Plage",
+            "hu": "Nagy strand",
+            "ro": "Grande Plage",
             "en": "Grande Plage"
           },
           "coords": [
-            -1.5585,
-            43.4852
+            -1.5581,
+            43.4855
           ],
           "category": "beach",
           "arrive_at": "10:15",
           "stay_min": 120,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Mieten Sie ein gestreiftes Zelt für den echten Retro-Look.",
-            "hu": "Béreljen csíkos sátrat az igazi retro hangulathoz.",
-            "ro": "Închiriați un cort dungat pentru un aspect retro autentic.",
-            "en": "Rent a striped tent for the true retro look."
+            "de": "Ideal für einen Morgenspaziergang am Wasser.",
+            "hu": "Ideális egy reggeli sétához a vízparton.",
+            "ro": "Ideal pentru o plimbare de dimineață pe malul mării.",
+            "en": "Ideal for a morning walk by the water."
           }
         },
         {
           "name": {
             "de": "Port des Pêcheurs",
             "hu": "Halászkikötő",
-            "ro": "Portul Pescari",
+            "ro": "Port des Pêcheurs",
             "en": "Fishermen's Port"
           },
           "coords": [
-            -1.5648,
+            -1.5642,
             43.4842
           ],
-          "category": "gastro",
-          "arrive_at": "12:35",
+          "category": "harbor",
+          "arrive_at": "12:30",
           "stay_min": 80,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.8,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Frische Meeresfrüchte direkt in den 'Crampottes' Hütten.",
-            "hu": "Friss tengeri herkenyűk közvetlenül a crampotte kunyhókban.",
-            "ro": "Fructe de mare proaspete direct în colibele crampotte.",
-            "en": "Fresh seafood directly in the crampotte huts."
+            "de": "Perfekter Ort für frische Meeresfrüchte.",
+            "hu": "Tökéletes hely friss tengeri ételekhez.",
+            "ro": "Locul perfect pentru fructe de mare proaspete.",
+            "en": "Perfect spot for fresh seafood lunch."
           }
         },
         {
           "name": {
             "de": "Rocher de la Vierge",
-            "hu": "Szűzanya-szikla",
-            "ro": "Stânca Fecioarei",
-            "en": "Virgin of the Rock"
+            "hu": "Szűz Mária-szikla",
+            "ro": "Rocher de la Vierge",
+            "en": "Rock of the Virgin"
           },
           "coords": [
-            -1.5682,
-            43.4845
+            -1.5711,
+            43.4838
           ],
           "category": "landmark",
           "arrive_at": "14:10",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.4,
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Die Brücke wurde von Gustave Eiffel entworfen.",
-            "hu": "A hidat maga Gustave Eiffel tervezte.",
-            "ro": "Podul a fost proiectat de Gustave Eiffel.",
-            "en": "The bridge was designed by Gustave Eiffel."
+            "de": "Eiffels Brücke führt zum Felsen.",
+            "hu": "Eiffel hídja vezet a sziklához.",
+            "ro": "Podul lui Eiffel duce la stâncă.",
+            "en": "Eiffel's bridge leads to the rock."
           }
         },
         {
           "name": {
-            "de": "Biarritz Aquarium",
-            "hu": "Biarritz Akvárium",
-            "ro": "Acvariul din Biarritz",
-            "en": "Biarritz Aquarium"
+            "de": "Musée de la Mer (Aquarium)",
+            "hu": "Tengeri Múzeum (Aquarium)",
+            "ro": "Muzeul Mării (Aquarium)",
+            "en": "Sea Museum (Aquarium)"
           },
           "coords": [
-            -1.5675,
+            -1.5685,
             43.4831
           ],
           "category": "museum",
-          "arrive_at": "15:00",
+          "arrive_at": "14:50",
           "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Verpassen Sie nicht die Robbenfütterung am Nachmittag.",
-            "hu": "Ne hagyja ki a délutáni fókaetetést.",
-            "ro": "Nu ratați hrănirea focilor după-amiaza.",
-            "en": "Do not miss the seal feeding in the afternoon."
+            "de": "Toll für Familien, Art-Déco-Stil.",
+            "hu": "Remek családoknak, Art Deco stílus.",
+            "ro": "Excelent pentru familii, stil Art Deco.",
+            "en": "Great for families, Art Deco style."
           }
         },
         {
           "name": {
-            "de": "Villa Belza Panorama",
-            "hu": "Villa Belza panoráma",
-            "ro": "Panorama Villa Belza",
-            "en": "Villa Belza Panorama"
+            "de": "Les Halles de Biarritz",
+            "hu": "Biarritzi vásárcsarnok",
+            "ro": "Piața din Biarritz",
+            "en": "Biarritz Market"
           },
           "coords": [
-            -1.5668,
-            43.4818
+            -1.5622,
+            43.4815
+          ],
+          "category": "market",
+          "arrive_at": "16:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie den baskischen Käse.",
+            "hu": "Kóstolja meg a baszk sajtokat.",
+            "ro": "Gustați brânzeturile basce.",
+            "en": "Try the local Basque cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Côte des Basques",
+            "hu": "Baszk-part",
+            "ro": "Côte des Basques",
+            "en": "Côte des Basques"
+          },
+          "coords": [
+            -1.5665,
+            43.4765
           ],
           "category": "sunset",
-          "arrive_at": "17:00",
+          "arrive_at": "17:45",
           "stay_min": 40,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.9,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Der beste Ort für Fotos der baskischen Küste.",
-            "hu": "A legjobb hely fotózáshoz a baszk parton.",
-            "ro": "Cel mai bun loc pentru fotografii pe coasta bască.",
-            "en": "The best spot for photos of the Basque coast."
+            "de": "Der Geburtsort des europäischen Surfens.",
+            "hu": "Az európai szörfözés szülőhelye.",
+            "ro": "Locul de naștere al surfului european.",
+            "en": "The birthplace of European surfing."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Markt Les Halles, wo die Düfte von frischem Schinken und Gebäck die Luft erfüllen. Ein kurzer Spaziergang führt Sie zur Grande Plage, dem Herzstück der Belle Époque Architektur von Biarritz. Mittags genießen Sie gegrillte Sardinen im urigen Halászkikötő.\n\nAm Nachmittag überqueren Sie die Eiffel-Brücke zum Rocher de la Vierge und erkunden die Unterwasserwelt im Art-Déco-Aquarium. Den Abschluss bildet der dramatische Blick auf die Villa Belza, während die Sonne langsam im Atlantik versinkt.",
-        "hu": "Kezdje a napot a vibráló Les Halles piacon, ahol a friss sonka és sütemények illata lengi be a teret. Egy rövid séta elvezeti a Grande Plage-hoz, Biarritz Belle Époque építészetének szívéhez. Ebédre élvezze a grillezett szardíniát a hangulatos Halászkikötőben.\n\nDélután keljen át az Eiffel-hídon a Szűzanya-sziklához, majd fedezze fel a víz alatti világot az Art Deco stílusú akváriumban. A napot a Villa Belza drámai látványa zárja, miközben a nap lassan belemerül az Atlanti-óceánba.",
-        "ro": "Începeți ziua la vibranta piață Les Halles, unde aromele de șuncă proaspătă și produse de patiserie umplu aerul. O scurtă plimbare vă duce la Grande Plage, inima arhitecturii Belle Époque din Biarritz. La prânz, savurați sardine la grătar în pitorescul Port al Pescarilor.\n\nDupă-amiaza, traversați podul Eiffel către Stânca Fecioarei și explorați lumea subacvatică la acvariul Art Deco. Ziua se încheie cu vederea dramatică a Vilei Belza, în timp ce soarele apune încet în Atlantic.",
-        "en": "Start your day at the vibrant Les Halles market, where the scents of fresh ham and pastries fill the air. A short walk leads you to the Grande Plage, the heart of Biarritz's Belle Époque architecture. For lunch, enjoy grilled sardines in the quaint Fishermen's Port.\n\nIn the afternoon, cross the Eiffel bridge to the Virgin of the Rock and explore the underwater world at the Art Deco aquarium. The day concludes with the dramatic view of Villa Belza as the sun slowly sinks into the Atlantic."
+        "de": "Beginnen Sie Ihren Tag im Norden am majestätischen Leuchtturm, von dem aus Sie die gesamte baskische Küste überblicken können. Ein entspannter Spaziergang führt Sie hinunter zum Grande Plage, dem Herzen des kaiserlichen Biarritz. Mittags lockt der Port des Pêcheurs mit seinem rustikalen Charme und frischem Fisch direkt vom Kutter. Am Nachmittag erkunden Sie die dramatischen Felsformationen rund um den Rocher de la Vierge, bevor Sie in die Unterwasserwelt des Aquariums eintauchen. Zum Abschluss des Tages genießen Sie die entspannte Atmosphäre an der Côte des Basques, wo die Surfer auf die perfekten Wellen warten, während die Sonne langsam im Atlantik versinkt.",
+        "hu": "Kezdje a napot északon a fenséges világítótoronynál, ahonnan beláthatja az egész baszk partvidéket. Egy pihentető séta vezet le a Grande Plage-hoz, a császári Biarritz szívéhez. Ebédidőben a Halászkikötő hívogat rusztikus bájával és friss halételeivel. Délután fedezze fel a Rocher de la Vierge körüli drámai sziklaalakzatokat, majd merüljön el az Akvárium víz alatti világában. A nap zárásaként élvezze a Côte des Basques laza hangulatát, ahol a szörfösök várják a tökéletes hullámokat, miközben a nap lassan elmerül az Atlanti-óceánban.",
+        "ro": "Începeți ziua în nord la farul maiestuos, de unde puteți admira întreaga coastă bască. O plimbare relaxantă vă duce la Grande Plage, inima orașului imperial Biarritz. La prânz, Port des Pêcheurs vă atrage cu farmecul său rustic și pește proaspăt. După-amiaza, explorați formațiunile stâncoase dramatice din jurul Rocher de la Vierge, apoi scufundați-vă în lumea subacvatică a Acvariului. Pentru a încheia ziua, bucurați-vă de atmosfera relaxată de la Côte des Basques, unde surferii așteaptă valurile perfecte în timp ce soarele apune în Atlantic.",
+        "en": "Start your day in the north at the majestic lighthouse, overlooking the entire Basque coast. A relaxing stroll leads you down to the Grande Plage, the heart of imperial Biarritz. At lunchtime, the Port des Pêcheurs beckons with its rustic charm and fresh fish straight from the boat. In the afternoon, explore the dramatic rock formations around the Rocher de la Vierge, then dive into the underwater world of the Aquarium. To wrap up the day, enjoy the laid-back atmosphere at the Côte des Basques, where surfers wait for the perfect waves as the sun slowly sinks into the Atlantic."
       },
       "gastro_picks": {
         "de": [
           {
             "name": "Gâteau Basque",
-            "tip": "Traditioneller Kuchen mit Kirschfüllung bei Maison Adam."
+            "tip": "Probieren Sie diesen traditionellen Kirschkuchen bei Maison Adam."
           },
           {
-            "name": "Chipirons",
-            "tip": "Gegrillte kleine Tintenfische à la plancha im Chez Albert."
+            "name": "Le Port Vieux",
+            "tip": "Hervorragende Meeresfrüchte-Platten mit Blick auf die Bucht."
           }
         ],
         "hu": [
           {
             "name": "Gâteau Basque",
-            "tip": "Hagyományos meggyes sütemény a Maison Adam-ban."
+            "tip": "Kóstolja meg ezt a hagyományos meggyes süteményt a Maison Adam-nál."
           },
           {
-            "name": "Chipirons",
-            "tip": "Grillezett apró tintahal a Chez Albert étteremben."
+            "name": "Le Port Vieux",
+            "tip": "Kiváló tenger gyümölcsei tálak kilátással az öbölre."
           }
         ],
         "ro": [
           {
             "name": "Gâteau Basque",
-            "tip": "Prăjitură tradițională cu cireșe la Maison Adam."
+            "tip": "Încercați această prăjitură tradițională cu cireșe la Maison Adam."
           },
           {
-            "name": "Chipirons",
-            "tip": "Mici calmari la grătar la Chez Albert."
+            "name": "Le Port Vieux",
+            "tip": "Platouri excelente cu fructe de mare cu vedere la golf."
           }
         ],
         "en": [
           {
             "name": "Gâteau Basque",
-            "tip": "Traditional cake with cherry filling at Maison Adam."
+            "tip": "Try this traditional cherry cake at Maison Adam."
           },
           {
-            "name": "Chipirons",
-            "tip": "Grilled small squids à la plancha at Chez Albert."
+            "name": "Le Port Vieux",
+            "tip": "Excellent seafood platters with a view of the bay."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Phare de Biarritz Rasen",
-            "tip": "Ruhiger Rasen am Leuchtturm für ein Picknick.",
+            "name": "Jardins du Phare",
+            "tip": "Ruhige Gärten rund um den Leuchtturm.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Plage du Port Vieux",
+            "tip": "Kleine, windgeschützte Bucht zum Entspannen.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Biarritz világítótorony kert",
-            "tip": "Csendes gyep a világítótoronynál egy piknikhez.",
+            "name": "Jardins du Phare",
+            "tip": "Csendes kertek a világítótorony körül.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Plage du Port Vieux",
+            "tip": "Kicsi, szélvédett öböl a pihenéshez.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Grădina Farului",
-            "tip": "Gazon liniștit lângă far pentru un picnic.",
+            "name": "Jardins du Phare",
+            "tip": "Grădini liniștite în jurul farului.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Plage du Port Vieux",
+            "tip": "Golful mic, ferit de vânt, pentru relaxare.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Biarritz Lighthouse Lawn",
-            "tip": "Quiet lawn by the lighthouse for a picnic.",
+            "name": "Jardins du Phare",
+            "tip": "Quiet gardens surrounding the lighthouse.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Plage du Port Vieux",
+            "tip": "Small, wind-sheltered cove for relaxing.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
+            "name": "Rue Gambetta",
+            "tip": "Boutiquen und lokale Kunsthandwerksläden."
+          },
+          {
             "name": "Les Halles",
-            "tip": "Basckischer Schinken und Käse zum Mitnehmen."
+            "tip": "Bester Ort für lokale Spezialitäten wie Espelette-Pfeffer."
           }
         ],
         "hu": [
           {
+            "name": "Rue Gambetta",
+            "tip": "Butikok és helyi kézműves boltok."
+          },
+          {
             "name": "Les Halles",
-            "tip": "Baszk sonka és sajt elvitelre."
+            "tip": "A legjobb hely helyi különlegességekhez, mint az Espelette paprika."
           }
         ],
         "ro": [
           {
+            "name": "Rue Gambetta",
+            "tip": "Boutique-uri și magazine de meșteșuguri locale."
+          },
+          {
             "name": "Les Halles",
-            "tip": "Șuncă bască și brânză pentru acasă."
+            "tip": "Cel mai bun loc pentru specialități locale, cum ar fi piperul Espelette."
           }
         ],
         "en": [
           {
+            "name": "Rue Gambetta",
+            "tip": "Boutiques and local handicraft shops."
+          },
+          {
             "name": "Les Halles",
-            "tip": "Basque ham and cheese to take away."
+            "tip": "Best place for local specialties like Espelette pepper."
           }
         ]
       },
       "tips": {
         "de": [
+          "Biarritz lässt sich hervorragend zu Fuß erkunden.",
           "Tragen Sie bequeme Schuhe für die Küstenwege.",
-          "Die Ebbe ist die beste Zeit für Strandspaziergänge.",
-          "Nutzen Sie die kostenlosen Shuttles 'Navettes Gratuites'.",
-          "Reservieren Sie Restaurants im Hafen im Voraus."
+          "Achten Sie auf die Gezeiten bei den Stränden.",
+          "Die meisten Museen schließen montags."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt a parti sétákhoz.",
-          "Az apály a legjobb időszak a strandmenti sétákhoz.",
-          "Használja az ingyenes 'Navettes Gratuites' buszokat.",
-          "A kikötői éttermekbe foglaljon asztalt előre."
+          "Biarritz kiválóan felfedezhető gyalog.",
+          "Viseljen kényelmes cipőt a parti ösvényekhez.",
+          "Figyeljen az apály-dagály ciklusra a strandokon.",
+          "A legtöbb múzeum hétfőn zárva tart."
         ],
         "ro": [
-          "Purtați încălțăminte comodă pentru potecile de coastă.",
-          "Refluxul este cel mai bun moment pentru plimbări pe plajă.",
-          "Folosiți microbuzele gratuite 'Navettes Gratuites'.",
-          "Rezervați din timp la restaurantele din port."
+          "Biarritz poate fi explorat excelent pe jos.",
+          "Purtați pantofi confortabili pentru potecile de coastă.",
+          "Fiți atenți la maree când mergeți la plajă.",
+          "Majoritatea muzeelor sunt închise lunea."
         ],
         "en": [
+          "Biarritz is perfectly explorable on foot.",
           "Wear comfortable shoes for the coastal paths.",
-          "Low tide is the best time for beach walks.",
-          "Use the free 'Navettes Gratuites' shuttles.",
-          "Book port restaurants in advance."
+          "Check the tide times before heading to the beach.",
+          "Most museums are closed on Mondays."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Markt Les Halles, wo die Düfte von frischem Schinken und Gebäck die Luft erfüllen. Ein kurzer Spaziergang führt Sie zur Grande Plage, dem Herzstück der Belle Époque Architektur von Biarritz. Mittags genießen Sie gegrillte Sardinen im urigen Halászkikötő.\n\nAm Nachmittag überqueren Sie die Eiffel-Brücke zum Rocher de la Vierge und erkunden die Unterwasserwelt im Art-Déco-Aquarium. Den Abschluss bildet der dramatische Blick auf die Villa Belza, während die Sonne langsam im Atlantik versinkt.",
-            "hu": "Kezdje a napot a vibráló Les Halles piacon, ahol a friss sonka és sütemények illata lengi be a teret. Egy rövid séta elvezeti a Grande Plage-hoz, Biarritz Belle Époque építészetének szívéhez. Ebédre élvezze a grillezett szardíniát a hangulatos Halászkikötőben.\n\nDélután keljen át az Eiffel-hídon a Szűzanya-sziklához, majd fedezze fel a víz alatti világot az Art Deco stílusú akváriumban. A napot a Villa Belza drámai látványa zárja, miközben a nap lassan belemerül az Atlanti-óceánba.",
-            "ro": "Începeți ziua la vibranta piață Les Halles, unde aromele de șuncă proaspătă și produse de patiserie umplu aerul. O scurtă plimbare vă duce la Grande Plage, inima arhitecturii Belle Époque din Biarritz. La prânz, savurați sardine la grătar în pitorescul Port al Pescarilor.\n\nDupă-amiaza, traversați podul Eiffel către Stânca Fecioarei și explorați lumea subacvatică la acvariul Art Deco. Ziua se încheie cu vederea dramatică a Vilei Belza, în timp ce soarele apune încet în Atlantic.",
-            "en": "Start your day at the vibrant Les Halles market, where the scents of fresh ham and pastries fill the air. A short walk leads you to the Grande Plage, the heart of Biarritz's Belle Époque architecture. For lunch, enjoy grilled sardines in the quaint Fishermen's Port.\n\nIn the afternoon, cross the Eiffel bridge to the Virgin of the Rock and explore the underwater world at the Art Deco aquarium. The day concludes with the dramatic view of Villa Belza as the sun slowly sinks into the Atlantic."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Les Halles Markt",
-                "hu": "Les Halles piac",
-                "ro": "Piața Les Halles",
-                "en": "Les Halles Market"
-              },
-              "tip_5lang": {
-                "de": "Probieren Sie den Gâteau Basque früh am Morgen.",
-                "hu": "Kóstolja meg a baszk süteményt korán reggel.",
-                "ro": "Gustați prăjitura bască dis-de-dimineață.",
-                "en": "Try the Gâteau Basque early in the morning."
-              }
-            },
-            {
-              "name": {
-                "de": "Grande Plage",
-                "hu": "Grande Plage strand",
-                "ro": "Plaja Grande Plage",
-                "en": "Grande Plage"
-              },
-              "tip_5lang": {
-                "de": "Mieten Sie ein gestreiftes Zelt für den echten Retro-Look.",
-                "hu": "Béreljen csíkos sátrat az igazi retro hangulathoz.",
-                "ro": "Închiriați un cort dungat pentru un aspect retro autentic.",
-                "en": "Rent a striped tent for the true retro look."
-              }
-            },
-            {
-              "name": {
-                "de": "Port des Pêcheurs",
-                "hu": "Halászkikötő",
-                "ro": "Portul Pescari",
-                "en": "Fishermen's Port"
-              },
-              "tip_5lang": {
-                "de": "Frische Meeresfrüchte direkt in den 'Crampottes' Hütten.",
-                "hu": "Friss tengeri herkenyűk közvetlenül a crampotte kunyhókban.",
-                "ro": "Fructe de mare proaspete direct în colibele crampotte.",
-                "en": "Fresh seafood directly in the crampotte huts."
-              }
-            },
-            {
-              "name": {
-                "de": "Rocher de la Vierge",
-                "hu": "Szűzanya-szikla",
-                "ro": "Stânca Fecioarei",
-                "en": "Virgin of the Rock"
-              },
-              "tip_5lang": {
-                "de": "Die Brücke wurde von Gustave Eiffel entworfen.",
-                "hu": "A hidat maga Gustave Eiffel tervezte.",
-                "ro": "Podul a fost proiectat de Gustave Eiffel.",
-                "en": "The bridge was designed by Gustave Eiffel."
-              }
-            },
-            {
-              "name": {
-                "de": "Biarritz Aquarium",
-                "hu": "Biarritz Akvárium",
-                "ro": "Acvariul din Biarritz",
-                "en": "Biarritz Aquarium"
-              },
-              "tip_5lang": {
-                "de": "Verpassen Sie nicht die Robbenfütterung am Nachmittag.",
-                "hu": "Ne hagyja ki a délutáni fókaetetést.",
-                "ro": "Nu ratați hrănirea focilor după-amiaza.",
-                "en": "Do not miss the seal feeding in the afternoon."
-              }
-            },
-            {
-              "name": {
-                "de": "Villa Belza Panorama",
-                "hu": "Villa Belza panoráma",
-                "ro": "Panorama Villa Belza",
-                "en": "Villa Belza Panorama"
-              },
-              "tip_5lang": {
-                "de": "Der beste Ort für Fotos der baskischen Küste.",
-                "hu": "A legjobb hely fotózáshoz a baszk parton.",
-                "ro": "Cel mai bun loc pentru fotografii pe coasta bască.",
-                "en": "The best spot for photos of the Basque coast."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Gâteau Basque",
-                "tip": "Traditioneller Kuchen mit Kirschfüllung bei Maison Adam."
-              },
-              {
-                "name": "Chipirons",
-                "tip": "Gegrillte kleine Tintenfische à la plancha im Chez Albert."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Gâteau Basque",
-                "tip": "Hagyományos meggyes sütemény a Maison Adam-ban."
-              },
-              {
-                "name": "Chipirons",
-                "tip": "Grillezett apró tintahal a Chez Albert étteremben."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Gâteau Basque",
-                "tip": "Prăjitură tradițională cu cireșe la Maison Adam."
-              },
-              {
-                "name": "Chipirons",
-                "tip": "Mici calmari la grătar la Chez Albert."
-              }
-            ],
-            "en": [
-              {
-                "name": "Gâteau Basque",
-                "tip": "Traditional cake with cherry filling at Maison Adam."
-              },
-              {
-                "name": "Chipirons",
-                "tip": "Grilled small squids à la plancha at Chez Albert."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Phare de Biarritz Rasen",
-                "tip": "Ruhiger Rasen am Leuchtturm für ein Picknick.",
-                "emoji": "🏞️"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Biarritz világítótorony kert",
-                "tip": "Csendes gyep a világítótoronynál egy piknikhez.",
-                "emoji": "🏞️"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Grădina Farului",
-                "tip": "Gazon liniștit lângă far pentru un picnic.",
-                "emoji": "🏞️"
-              }
-            ],
-            "en": [
-              {
-                "name": "Biarritz Lighthouse Lawn",
-                "tip": "Quiet lawn by the lighthouse for a picnic.",
-                "emoji": "🏞️"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Les Halles",
-                "tip": "Basckischer Schinken und Käse zum Mitnehmen."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Les Halles",
-                "tip": "Baszk sonka és sajt elvitelre."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Les Halles",
-                "tip": "Șuncă bască și brânză pentru acasă."
-              }
-            ],
-            "en": [
-              {
-                "name": "Les Halles",
-                "tip": "Basque ham and cheese to take away."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Tragen Sie bequeme Schuhe für die Küstenwege.",
-              "Die Ebbe ist die beste Zeit für Strandspaziergänge.",
-              "Nutzen Sie die kostenlosen Shuttles 'Navettes Gratuites'.",
-              "Reservieren Sie Restaurants im Hafen im Voraus."
-            ],
-            "hu": [
-              "Viseljen kényelmes cipőt a parti sétákhoz.",
-              "Az apály a legjobb időszak a strandmenti sétákhoz.",
-              "Használja az ingyenes 'Navettes Gratuites' buszokat.",
-              "A kikötői éttermekbe foglaljon asztalt előre."
-            ],
-            "ro": [
-              "Purtați încălțăminte comodă pentru potecile de coastă.",
-              "Refluxul este cel mai bun moment pentru plimbări pe plajă.",
-              "Folosiți microbuzele gratuite 'Navettes Gratuites'.",
-              "Rezervați din timp la restaurantele din port."
-            ],
-            "en": [
-              "Wear comfortable shoes for the coastal paths.",
-              "Low tide is the best time for beach walks.",
-              "Use the free 'Navettes Gratuites' shuttles.",
-              "Book port restaurants in advance."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Der Morgen beginnt sicher im Trockenen unter dem Dach des Les Halles Marktes. Mittags trotzen wir dem Regen am Fischerhafen, bevor wir den Nachmittag im warmen Biarritz Aquarium verbringen. Den Abend lassen wir bei der Villa Belza ausklingen, wo die stürmische See besonders eindrucksvoll gegen die Felsen peitscht.",
-            "hu": "A reggel a Les Halles piaccsarnok fedett falai között indul, helyi finomságokkal. Ebédidőben a halászkikötő védettebb zugaiban pihenünk meg, majd a délutánt a Biarritz Aquariumban töltjük szárazon. Az este a Villa Belza közelében ér minket, ahol az esőben még vadabbnak tűnik az Atlanti-óceán.",
-            "ro": "Dimineața începe la adăpost sub acoperișul pieței Les Halles. La prânz explorăm portul pescarilor sub umbrelă, iar după-amiaza ne bucurăm de fascinantul Acvariu din Biarritz, departe de ploaie. Seara se încheie lângă Villa Belza, admirând spectacolul valurilor furioase care se sparg de țărm.",
-            "en": "The morning starts safely dry under the roof of Les Halles market. At midday, we brave the rain at the Fishermen's Port before spending a dry afternoon inside the Biarritz Aquarium. The evening ends near Villa Belza, where the stormy sea puts on an impressive show against the rugged cliffs."
-          },
-          "stops": [
-            {
-              "name": "Les Halles Market",
-              "tip_5lang": {
-                "de": "Perfekter Zufluchtsort bei Regen, um regionale Spezialitäten trocken zu genießen.",
-                "hu": "Tökéletes menedék esőben, ahol szárazon kóstolhatjuk meg a helyi különlegességeket.",
-                "ro": "Refugiul perfect pe timp de ploaie pentru a degusta specialități locale la adăpost.",
-                "en": "Perfect refuge during rain to taste regional specialties while staying dry."
-              }
-            },
-            {
-              "name": "Grande Plage",
-              "tip_5lang": {
-                "de": "Nutzen Sie die Arkaden des Casinos, um den Strand ohne nass zu werden zu sehen.",
-                "hu": "Használja a kaszinó árkádjait, hogy szárazon láthassa a strandot.",
-                "ro": "Folosiți arcadele cazinoului pentru a vedea plaja fără a vă uda.",
-                "en": "Use the casino arcades to view the beach without getting soaked."
-              }
-            },
-            {
-              "name": "Fishermen's Port",
-              "tip_5lang": {
-                "de": "Die kleinen Fischerhütten (Crampotttes) bieten oft einen schnellen Unterstand.",
-                "hu": "A kis halászkunyhók (crampottes) gyors menedéket nyújtanak zápor esetén.",
-                "ro": "Micile colibe pescărești (crampottes) oferă adesea un adăpost rapid.",
-                "en": "The small fishing huts (crampottes) often offer quick shelter from showers."
-              }
-            },
-            {
-              "name": "Virgin of the Rock",
-              "tip_5lang": {
-                "de": "Vorsicht, die Brücke ist bei Wind und Regen sehr exponiert und rutschig.",
-                "hu": "Vigyázat, a híd szélben és esőben nagyon kitett és csúszós lehet.",
-                "ro": "Atenție, podul este foarte expus și alunecos pe vânt și ploaie.",
-                "en": "Caution, the bridge is very exposed and can be slippery in wind and rain."
-              }
-            },
-            {
-              "name": "Biarritz Aquarium",
-              "tip_5lang": {
-                "de": "Das ideale Schlechtwetterprogramm für mindestens 90 Minuten Aufenthalt.",
-                "hu": "Ideális rosszidős program, legalább 90 perces látogatással érdemes számolni.",
-                "ro": "Programul ideal pentru vreme rea, planificați o vizită de cel puțin 90 minute.",
-                "en": "The ideal bad weather activity; plan for at least a 90-minute visit."
-              }
-            },
-            {
-              "name": "Villa Belza Panorama",
-              "tip_5lang": {
-                "de": "Genießen Sie den Blick auf die tosenden Wellen aus einem nahen Café.",
-                "hu": "Élvezze a zúgó hullámok látványát egy közeli kávézó ablakából.",
-                "ro": "Bucurați-vă de vederea valurilor învolburate de la fereastra unei cafenele.",
-                "en": "Enjoy the view of the crashing waves from a nearby cafe window."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Tragen Sie eine windfeste Regenjacke, Schirme klappen an der Küste oft um.",
-              "Die Markthalle Les Halles ist bis 14 Uhr der beste Ort für Pausen.",
-              "Das Aquarium ist der ideale Ort, um den stärksten Regen abzuwarten.",
-              "Nutzen Sie die überdachten Gänge entlang der Uferpromenade."
-            ],
-            "hu": [
-              "Szélálló esőkabátot viseljen, az esernyők gyakran kifordulnak a parton.",
-              "A Les Halles piac 14 óráig a legjobb hely a pihenésre.",
-              "Az Aquarium tökéletes hely a legnagyobb felhőszakadások átvészelésére.",
-              "Használja ki a parti sétány mentén található fedett átjárókat."
-            ],
-            "ro": [
-              "Purtați o pelerină de ploaie rezistentă la vânt; umbrelele se strică des pe coastă.",
-              "Piața Les Halles este cel mai bun loc pentru pauze până la ora 14:00.",
-              "Acvariul este locul perfect pentru a aștepta trecerea ploilor torențiale.",
-              "Profitați de pasajele acoperite de-a lungul promenadei de pe țărm."
-            ],
-            "en": [
-              "Wear a windproof raincoat; umbrellas often flip inside out on the coast.",
-              "Les Halles market is the best spot for breaks until 2:00 PM.",
-              "The Aquarium is the perfect place to wait out the heaviest downpours.",
-              "Take advantage of the covered walkways along the waterfront promenade."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein frischer Wintermorgen beginnt am belebten Markt. Mittags spazieren wir am fast leeren Grande Plage, wo nur die Surfer den kalten Wellen trotzen. Der Nachmittag führt uns zum Aquarium, und zum frühen Sonnenuntergang gegen 17:30 Uhr erreichen wir die Villa Belza für ein magisches Lichtspiel.",
-            "hu": "Friss téli reggel a nyüzsgő piacon. Ebédidőben a szinte üres Grande Plage-on sétálunk, ahol csak a szörfösök dacolnak a hideg hullámokkal. A délután az Aquariumba vezet, a korai, 17:30 körüli naplementét pedig a Villa Belzánál csodáljuk meg.",
-            "ro": "O dimineață răcoroasă de iarnă începe la piața plină de viață. La prânz ne plimbăm pe Grande Plage, unde doar surferii sfidează valurile reci. După-amiaza mergem la Acvariu, iar apusul timpuriu, în jur de 17:30, ne găsește la Villa Belza.",
-            "en": "A crisp winter morning starts at the bustling market. At midday, we stroll along the nearly empty Grande Plage, where only surfers brave the cold waves. The afternoon leads to the Aquarium, and for the early sunset around 5:30 PM, we reach Villa Belza for a magical light show."
-          },
-          "stops": [
-            {
-              "name": "Les Halles Market",
-              "tip_5lang": {
-                "de": "Wärmen Sie sich mit einem heißen Kaffee und frischem Gebäck auf.",
-                "hu": "Melegedjen fel egy forró kávéval és friss péksüteménnyel a csarnokban.",
-                "ro": "Încălziți-vă cu o cafea fierbinte și produse de patiserie proaspete în piață.",
-                "en": "Warm up with a hot coffee and fresh pastries inside the market hall."
-              }
-            },
-            {
-              "name": "Grande Plage",
-              "tip_5lang": {
-                "de": "Beobachten Sie die Wintersurfer – sie tragen dicke Neoprenanzüge.",
-                "hu": "Figyelje a téli szörfösöket – vastag neoprén ruhában dacolnak a vízzel.",
-                "ro": "Urmăriți surferii de iarnă – aceștia poartă costume groase de neopren.",
-                "en": "Watch the winter surfers – they wear thick wetsuits to brave the water."
-              }
-            },
-            {
-              "name": "Fishermen's Port",
-              "tip_5lang": {
-                "de": "Einige Restaurants haben Winterpausen, prüfen Sie die Öffnungszeiten.",
-                "hu": "Néhány étterem téli szünetet tart, ellenőrizze a nyitvatartást.",
-                "ro": "Unele restaurante au vacanță de iarnă, verificați programul de funcționare.",
-                "en": "Some restaurants take winter breaks; check opening hours beforehand."
-              }
-            },
-            {
-              "name": "Virgin of the Rock",
-              "tip_5lang": {
-                "de": "Die klare Winterluft bietet oft eine weite Sicht bis nach Spanien.",
-                "hu": "A tiszta téli levegőben gyakran elátni egészen Spanyolországig.",
-                "ro": "Aerul curat de iarnă oferă adesea o vizibilitate până în Spania.",
-                "en": "The clear winter air often offers views all the way to Spain."
-              }
-            },
-            {
-              "name": "Biarritz Aquarium",
-              "tip_5lang": {
-                "de": "Ein angenehm warmer Ort, um den späten Nachmittag zu verbringen.",
-                "hu": "Kellemesen meleg hely a késő délutáni órák eltöltéséhez.",
-                "ro": "Un loc plăcut și călduros pentru a petrece orele târzii ale după-amiezii.",
-                "en": "A pleasantly warm place to spend the late afternoon hours."
-              }
-            },
-            {
-              "name": "Villa Belza Panorama",
-              "tip_5lang": {
-                "de": "Der Sonnenuntergang ist im Winter bereits gegen 17:30 Uhr.",
-                "hu": "Télen a naplemente már 17:30 körül bekövetkezik.",
-                "ro": "Iarna, apusul soarelui are loc deja în jurul orei 17:30.",
-                "en": "In winter, the sunset occurs early, around 5:30 PM."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Kleiden Sie sich im Zwiebelprinzip, der Wind vom Meer kann kühl sein.",
-              "Die Sonne geht früh unter, planen Sie Outdoor-Stopps vor 17:00 Uhr.",
-              "Genießen Sie die Ruhe – Biarritz ist im Winter viel entspannter.",
-              "Warme Schuhe sind für die Strandspaziergänge unerlässlich."
-            ],
-            "hu": [
-              "Öltözzön rétegesen, a tenger felől fújó szél hűvös lehet.",
-              "A nap korán nyugszik, a szabadtéri megállókat 17:00 előttre tervezze.",
-              "Élvezze a nyugalmat – Biarritz télen sokkal pihentetőbb.",
-              "A tengerparti sétákhoz elengedhetetlen a meleg lábbeli."
-            ],
-            "ro": [
-              "Îmbrăcați-vă în straturi; vântul dinspre mare poate fi destul de rece.",
-              "Soarele apune devreme; planificați opririle în aer liber înainte de 17:00.",
-              "Bucurați-vă de liniște – Biarritz este mult mai relaxant iarna.",
-              "Încălțămintea călduroasă este esențială pentru plimbările pe plajă."
-            ],
-            "en": [
-              "Dress in layers; the wind blowing off the sea can be quite chilly.",
-              "The sun sets early; plan your outdoor stops before 5:00 PM.",
-              "Enjoy the peace – Biarritz is much more relaxed in winter.",
-              "Warm footwear is essential for walks along the beach."
-            ]
-          }
-        }
       }
     },
     "bike": {
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "15:20",
-      "total_km": 8.5,
-      "stop_count": 5,
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 8,
       "stops": [
         {
           "name": {
-            "de": "Leuchtturm von Biarritz",
-            "hu": "Biarritzi világítótorony",
-            "ro": "Farul din Biarritz",
-            "en": "Biarritz Lighthouse"
+            "de": "Phare de Biarritz",
+            "hu": "Világítótorony",
+            "ro": "Farul",
+            "en": "Lighthouse"
           },
           "coords": [
-            -1.5532,
-            43.4932
+            -1.5518,
+            43.4935
           ],
-          "category": "landmark",
+          "category": "viewpoint",
           "arrive_at": "09:15",
-          "stay_min": 50,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.0,
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Erklimmen Sie die 248 Stufen für die beste Aussicht.",
-            "hu": "Mássza meg a 248 lépcsőfokot a legjobb kilátásért.",
-            "ro": "Urcați cele 248 de trepte pentru cea mai bună priveliște.",
-            "en": "Climb the 248 steps for the best view."
+            "de": "Startpunkt mit toller Aussicht.",
+            "hu": "Kiindulópont pazar kilátással.",
+            "ro": "Punct de plecare cu priveliște superbă.",
+            "en": "Starting point with great views."
           }
         },
         {
           "name": {
-            "de": "Miramar Strand",
+            "de": "Plage Miramar",
             "hu": "Miramar strand",
             "ro": "Plaja Miramar",
             "en": "Miramar Beach"
           },
           "coords": [
-            -1.5548,
-            43.4885
+            -1.5555,
+            43.4895
           ],
           "category": "beach",
-          "arrive_at": "10:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.8,
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Ruhiger als der Hauptstrand, ideal für eine Pause.",
-            "hu": "Csendesebb, mint a főstrand, ideális pihenőre.",
-            "ro": "Mai liniștită decât plaja principală, ideală pentru o pauză.",
-            "en": "Quieter than the main beach, ideal for a break."
+            "de": "Ruhiger als der Hauptstrand.",
+            "hu": "Csendesebb, mint a főstrand.",
+            "ro": "Mai liniștită decât plaja principală.",
+            "en": "Quieter than the main beach."
           }
         },
         {
           "name": {
-            "de": "Eglise Sainte-Eugénie",
-            "hu": "Szent Eugénia templom",
-            "ro": "Biserica Sainte-Eugénie",
-            "en": "Sainte-Eugénie Church"
+            "de": "Grande Plage",
+            "hu": "Nagy strand",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
           },
           "coords": [
-            -1.5635,
+            -1.5581,
+            43.4855
+          ],
+          "category": "beach",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt.",
+            "hu": "A város szíve.",
+            "ro": "Inima orașului.",
+            "en": "The heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Port des Pêcheurs",
+            "hu": "Halászkikötő",
+            "ro": "Port des Pêcheurs",
+            "en": "Fishermen's Port"
+          },
+          "coords": [
+            -1.5642,
+            43.4842
+          ],
+          "category": "harbor",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mittagessen am Wasser.",
+            "hu": "Ebéd a vízparton.",
+            "ro": "Prânz pe malul apei.",
+            "en": "Lunch by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de la Vierge",
+            "hu": "Szűz Mária-szikla",
+            "ro": "Rocher de la Vierge",
+            "en": "Rock of the Virgin"
+          },
+          "coords": [
+            -1.5711,
             43.4838
           ],
-          "category": "religious",
-          "arrive_at": "11:25",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.2,
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Wunderschöne Krypta im neugotischen Stil.",
-            "hu": "Gyönyörű neogótikus stílusú kripta.",
-            "ro": "Criptă minunată în stil neogotic.",
-            "en": "Beautiful neo-gothic style crypt."
+            "de": "Fahrrad abstellen und Brücke überqueren.",
+            "hu": "Tegye le a biciklit és menjen át a hídon.",
+            "ro": "Lăsați bicicleta și traversați podul.",
+            "en": "Park the bike and cross the bridge."
           }
         },
         {
           "name": {
             "de": "Côte des Basques",
-            "hu": "Côte des Basques part",
-            "ro": "Coasta Bascilor",
+            "hu": "Baszk-part",
+            "ro": "Côte des Basques",
             "en": "Côte des Basques"
           },
           "coords": [
-            -1.5655,
-            43.4755
+            -1.5665,
+            43.4765
           ],
           "category": "beach",
-          "arrive_at": "12:15",
+          "arrive_at": "14:30",
           "stay_min": 120,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Der Geburtsort des Surfens in Europa.",
-            "hu": "A szörfözés európai szülőhelye.",
-            "ro": "Locul de naștere al surfului în Europa.",
-            "en": "The birthplace of surfing in Europe."
-          }
-        },
-        {
-          "name": {
-            "de": "Etang de Brindos",
-            "hu": "Brindos-tó",
-            "ro": "Lacul Brindos",
-            "en": "Etang de Brindos"
-          },
-          "coords": [
-            -1.5455,
-            43.4655
-          ],
-          "category": "park",
-          "arrive_at": "14:35",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.0,
-          "tip_5lang": {
-            "de": "Ein verstecktes Juwel abseits der Küste.",
-            "hu": "Rejtett drágakő távol a tengerparttól.",
-            "ro": "O bijuterie ascunsă departe de coastă.",
-            "en": "A hidden gem away from the coast."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Erkunden Sie die Küste auf zwei Rädern. Vom majestätischen Leuchtturm im Norden radeln Sie entlang der Klippen zum ruhigen Miramar Strand. Nach einem kulturellen Stopp an der Sainte-Eugénie Kirche geht es weiter zum berühmten Surferstrand Côte des Basques.\n\nDer Radweg bietet spektakuläre Ausblicke auf die Brandung. Zum Abschluss verlassen wir die Küste für einen entspannten Abstecher zum idyllischen Brindos-See im Hinterland.",
-        "hu": "Fedezze fel a partvidéket két keréken. Az északi fenséges világítótoronytól kerekezzen a sziklák mentén a csendes Miramar strandig. Egy kulturális megálló után a Szent Eugénia templomnál folytassa útját a híres szörfös paradicsom, a Côte des Basques felé.\n\nA kerékpárút látványos kilátást nyújt a hullámokra. Végezetül elhagyjuk a partot egy pihentető kitérőre az idilli Brindos-tóhoz a hátországban.",
-        "ro": "Explorați coasta pe două roți. De la farul maiestuos din nord, pedalați de-a lungul stâncilor până la liniștita plajă Miramar. După o oprire culturală la Biserica Sainte-Eugénie, continuați spre faimoasa plajă de surferi Côte des Basques.\n\nPista de biciclete oferă vederi spectaculoase asupra valurilor. La final, părăsim coasta pentru o escapadă relaxantă la idilicul lac Brindos din interior.",
-        "en": "Explore the coastline on two wheels. From the majestic lighthouse in the north, cycle along the cliffs to the quiet Miramar beach. After a cultural stop at Sainte-Eugénie Church, continue to the famous surfer's paradise, Côte des Basques.\n\nThe bike path offers spectacular views of the surf. Finally, we leave the coast for a relaxing detour to the idyllic Lake Brindos in the hinterland."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Etxola Bibi",
-            "tip": "Kaffee mit Blick auf die Surfer an der Côte des Basques."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Etxola Bibi",
-            "tip": "Kávé kilátással a szörfösökre a Côte des Basques-nál."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Etxola Bibi",
-            "tip": "Cafea cu vedere la surferi pe Côte des Basques."
-          }
-        ],
-        "en": [
-          {
-            "name": "Etxola Bibi",
-            "tip": "Coffee with a view of the surfers at Côte des Basques."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Côte des Basques Treppen",
-            "tip": "Beobachten Sie das Meer bei Flut von den Stufen.",
-            "emoji": "🌊"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Côte des Basques lépcsők",
-            "tip": "Figyelje a tengert dagálykor a lépcsőkről.",
-            "emoji": "🌊"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Treptele Côte des Basques",
-            "tip": "Priviți marea la flux de pe trepte.",
-            "emoji": "🌊"
-          }
-        ],
-        "en": [
-          {
-            "name": "Côte des Basques Steps",
-            "tip": "Watch the sea at high tide from the steps.",
-            "emoji": "🌊"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "BTZ Biarritz",
-            "tip": "Lokale Streetwear und Surf-Zubehör."
-          }
-        ],
-        "hu": [
-          {
-            "name": "BTZ Biarritz",
-            "tip": "Helyi utcai viselet és szörf kellékek."
-          }
-        ],
-        "ro": [
-          {
-            "name": "BTZ Biarritz",
-            "tip": "Haine locale și accesorii de surf."
-          }
-        ],
-        "en": [
-          {
-            "name": "BTZ Biarritz",
-            "tip": "Local streetwear and surf accessories."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Achten Sie auf Fußgänger auf der Uferpromenade.",
-          "Die Côte des Basques verschwindet bei Flut komplett.",
-          "Nutzen Sie die Vélibleu Leihräder.",
-          "Ein Schloss ist für Stopps an den Stränden unerlässlich."
-        ],
-        "hu": [
-          "Ügyeljen a gyalogosokra a tengerparti sétányon.",
-          "A Côte des Basques dagálykor teljesen eltűnik.",
-          "Használja a Vélibleu bérbicikli hálózatot.",
-          "A lakat elengedhetetlen a strandokon való megálláshoz."
-        ],
-        "ro": [
-          "Atenție la pietoni pe faleza de pe malul mării.",
-          "Plaja Côte des Basques dispare complet la flux.",
-          "Folosiți sistemul de închirieri Vélibleu.",
-          "Un lacăt este esențial pentru opririle la plajă."
-        ],
-        "en": [
-          "Watch out for pedestrians on the seafront promenade.",
-          "Côte des Basques disappears completely at high tide.",
-          "Use the Vélibleu bike rental system.",
-          "A lock is essential for stops at the beaches."
-        ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Erkunden Sie die Küste auf zwei Rädern. Vom majestätischen Leuchtturm im Norden radeln Sie entlang der Klippen zum ruhigen Miramar Strand. Nach einem kulturellen Stopp an der Sainte-Eugénie Kirche geht es weiter zum berühmten Surferstrand Côte des Basques.\n\nDer Radweg bietet spektakuläre Ausblicke auf die Brandung. Zum Abschluss verlassen wir die Küste für einen entspannten Abstecher zum idyllischen Brindos-See im Hinterland.",
-            "hu": "Fedezze fel a partvidéket két keréken. Az északi fenséges világítótoronytól kerekezzen a sziklák mentén a csendes Miramar strandig. Egy kulturális megálló után a Szent Eugénia templomnál folytassa útját a híres szörfös paradicsom, a Côte des Basques felé.\n\nA kerékpárút látványos kilátást nyújt a hullámokra. Végezetül elhagyjuk a partot egy pihentető kitérőre az idilli Brindos-tóhoz a hátországban.",
-            "ro": "Explorați coasta pe două roți. De la farul maiestuos din nord, pedalați de-a lungul stâncilor până la liniștita plajă Miramar. După o oprire culturală la Biserica Sainte-Eugénie, continuați spre faimoasa plajă de surferi Côte des Basques.\n\nPista de biciclete oferă vederi spectaculoase asupra valurilor. La final, părăsim coasta pentru o escapadă relaxantă la idilicul lac Brindos din interior.",
-            "en": "Explore the coastline on two wheels. From the majestic lighthouse in the north, cycle along the cliffs to the quiet Miramar beach. After a cultural stop at Sainte-Eugénie Church, continue to the famous surfer's paradise, Côte des Basques.\n\nThe bike path offers spectacular views of the surf. Finally, we leave the coast for a relaxing detour to the idyllic Lake Brindos in the hinterland."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Leuchtturm von Biarritz",
-                "hu": "Biarritzi világítótorony",
-                "ro": "Farul din Biarritz",
-                "en": "Biarritz Lighthouse"
-              },
-              "tip_5lang": {
-                "de": "Erklimmen Sie die 248 Stufen für die beste Aussicht.",
-                "hu": "Mássza meg a 248 lépcsőfokot a legjobb kilátásért.",
-                "ro": "Urcați cele 248 de trepte pentru cea mai bună priveliște.",
-                "en": "Climb the 248 steps for the best view."
-              }
-            },
-            {
-              "name": {
-                "de": "Miramar Strand",
-                "hu": "Miramar strand",
-                "ro": "Plaja Miramar",
-                "en": "Miramar Beach"
-              },
-              "tip_5lang": {
-                "de": "Ruhiger als der Hauptstrand, ideal für eine Pause.",
-                "hu": "Csendesebb, mint a főstrand, ideális pihenőre.",
-                "ro": "Mai liniștită decât plaja principală, ideală pentru o pauză.",
-                "en": "Quieter than the main beach, ideal for a break."
-              }
-            },
-            {
-              "name": {
-                "de": "Eglise Sainte-Eugénie",
-                "hu": "Szent Eugénia templom",
-                "ro": "Biserica Sainte-Eugénie",
-                "en": "Sainte-Eugénie Church"
-              },
-              "tip_5lang": {
-                "de": "Wunderschöne Krypta im neugotischen Stil.",
-                "hu": "Gyönyörű neogótikus stílusú kripta.",
-                "ro": "Criptă minunată în stil neogotic.",
-                "en": "Beautiful neo-gothic style crypt."
-              }
-            },
-            {
-              "name": {
-                "de": "Côte des Basques",
-                "hu": "Côte des Basques part",
-                "ro": "Coasta Bascilor",
-                "en": "Côte des Basques"
-              },
-              "tip_5lang": {
-                "de": "Der Geburtsort des Surfens in Europa.",
-                "hu": "A szörfözés európai szülőhelye.",
-                "ro": "Locul de naștere al surfului în Europa.",
-                "en": "The birthplace of surfing in Europe."
-              }
-            },
-            {
-              "name": {
-                "de": "Etang de Brindos",
-                "hu": "Brindos-tó",
-                "ro": "Lacul Brindos",
-                "en": "Etang de Brindos"
-              },
-              "tip_5lang": {
-                "de": "Ein verstecktes Juwel abseits der Küste.",
-                "hu": "Rejtett drágakő távol a tengerparttól.",
-                "ro": "O bijuterie ascunsă departe de coastă.",
-                "en": "A hidden gem away from the coast."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Etxola Bibi",
-                "tip": "Kaffee mit Blick auf die Surfer an der Côte des Basques."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Etxola Bibi",
-                "tip": "Kávé kilátással a szörfösökre a Côte des Basques-nál."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Etxola Bibi",
-                "tip": "Cafea cu vedere la surferi pe Côte des Basques."
-              }
-            ],
-            "en": [
-              {
-                "name": "Etxola Bibi",
-                "tip": "Coffee with a view of the surfers at Côte des Basques."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Côte des Basques Treppen",
-                "tip": "Beobachten Sie das Meer bei Flut von den Stufen.",
-                "emoji": "🌊"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Côte des Basques lépcsők",
-                "tip": "Figyelje a tengert dagálykor a lépcsőkről.",
-                "emoji": "🌊"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Treptele Côte des Basques",
-                "tip": "Priviți marea la flux de pe trepte.",
-                "emoji": "🌊"
-              }
-            ],
-            "en": [
-              {
-                "name": "Côte des Basques Steps",
-                "tip": "Watch the sea at high tide from the steps.",
-                "emoji": "🌊"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "BTZ Biarritz",
-                "tip": "Lokale Streetwear und Surf-Zubehör."
-              }
-            ],
-            "hu": [
-              {
-                "name": "BTZ Biarritz",
-                "tip": "Helyi utcai viselet és szörf kellékek."
-              }
-            ],
-            "ro": [
-              {
-                "name": "BTZ Biarritz",
-                "tip": "Haine locale și accesorii de surf."
-              }
-            ],
-            "en": [
-              {
-                "name": "BTZ Biarritz",
-                "tip": "Local streetwear and surf accessories."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Achten Sie auf Fußgänger auf der Uferpromenade.",
-              "Die Côte des Basques verschwindet bei Flut komplett.",
-              "Nutzen Sie die Vélibleu Leihräder.",
-              "Ein Schloss ist für Stopps an den Stränden unerlässlich."
-            ],
-            "hu": [
-              "Ügyeljen a gyalogosokra a tengerparti sétányon.",
-              "A Côte des Basques dagálykor teljesen eltűnik.",
-              "Használja a Vélibleu bérbicikli hálózatot.",
-              "A lakat elengedhetetlen a strandokon való megálláshoz."
-            ],
-            "ro": [
-              "Atenție la pietoni pe faleza de pe malul mării.",
-              "Plaja Côte des Basques dispare complet la flux.",
-              "Folosiți sistemul de închirieri Vélibleu.",
-              "Un lacăt este esențial pentru opririle la plajă."
-            ],
-            "en": [
-              "Watch out for pedestrians on the seafront promenade.",
-              "Côte des Basques disappears completely at high tide.",
-              "Use the Vélibleu bike rental system.",
-              "A lock is essential for stops at the beaches."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Trotz Regen radeln wir zum Leuchtturm, wo der Wind die Wolken peitscht. Mittags suchen wir Schutz in Sainte-Eugénie, bevor wir den Nachmittag am Etang de Brindos in der feuchten, grünen Natur genießen. Mit guter Regenkleidung wird die Tour entlang der Küste zu einem erfrischenden Abenteuer.",
-            "hu": "Az eső ellenére a világítótoronyhoz tekerünk, ahol a szél kergeti a felhőket. Ebédidőben a Sainte-Eugénie templomnál keresünk oltalmat, majd a délutánt az Etang de Brindos nedves, zöld természetében töltjük. Jó esőruházattal a parti túra frissítő kalanddá válik.",
-            "ro": "În ciuda ploii, pedalăm spre far, unde vântul alungă norii. La prânz căutăm adăpost la biserica Sainte-Eugénie, iar după-amiaza o petrecem în natura verde și umedă de la Etang de Brindos. Cu echipament adecvat, turul pe coastă devine o aventură revigorantă.",
-            "en": "Despite the rain, we cycle to the lighthouse where the wind chases the clouds. At midday, we seek shelter at Sainte-Eugénie Church, then spend the afternoon in the lush, damp nature of Etang de Brindos. With good rain gear, the coastal tour becomes a refreshing adventure."
-          },
-          "stops": [
-            {
-              "name": "Biarritz Lighthouse",
-              "tip_5lang": {
-                "de": "Vorsicht bei der Abfahrt, die Wege können rutschig sein.",
-                "hu": "Vigyázat a lejtőn, az utak csúszósak lehetnek az esőtől.",
-                "ro": "Atenție la coborâre, drumurile pot fi alunecoase din cauza ploii.",
-                "en": "Be careful on the descent; paths can be slippery from the rain."
-              }
-            },
-            {
-              "name": "Miramar Beach",
-              "tip_5lang": {
-                "de": "Ein schneller Fotostopp, bevor es weiter ins Trockene geht.",
-                "hu": "Csak egy gyors fotómegálló, mielőtt fedett helyre mennénk.",
-                "ro": "Doar o scurtă oprire pentru poze înainte de a merge la adăpost.",
-                "en": "Just a quick photo stop before heading back to shelter."
-              }
-            },
-            {
-              "name": "Sainte-Eugénie Church",
-              "tip_5lang": {
-                "de": "Nutzen Sie den Vorplatz oder die Kirche für eine trockene Pause.",
-                "hu": "Használja ki a templom előterét egy száraz pihenőre.",
-                "ro": "Folosiți pridvorul sau interiorul bisericii pentru o pauză uscată.",
-                "en": "Use the church porch or interior for a dry break."
-              }
-            },
-            {
-              "name": "Côte des Basques",
-              "tip_5lang": {
-                "de": "Bei Regen und Flut spritzt die Gisch oft über die Mauer.",
-                "hu": "Esőben és dagálykor a tajték gyakran átcsap a falon.",
-                "ro": "Pe ploaie și flux, spuma mării sare adesea peste zid.",
-                "en": "During rain and high tide, sea spray often splashes over the wall."
-              }
-            },
-            {
-              "name": "Etang de Brindos",
-              "tip_5lang": {
-                "de": "Die Bäume bieten hier einen gewissen natürlichen Regenschutz.",
-                "hu": "A fák itt bizonyos fokú természetes védelmet nyújtanak az eső ellen.",
-                "ro": "Copacii oferă aici un anumit grad de protecție naturală contra ploii.",
-                "en": "The trees here provide a certain amount of natural rain protection."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Prüfen Sie Ihre Bremsen, da sie auf nassen Felgen verzögert reagieren.",
-              "Vermeiden Sie Markierungen auf der Straße, diese sind bei Nässe extrem glatt.",
-              "Vollständige Regenmontur inklusive Überschuhen ist ratsam.",
-              "Kürzen Sie die Stopps im Freien ab und suchen Sie Cafés auf."
-            ],
-            "hu": [
-              "Ellenőrizze a fékeket, mert nedves felnin lassabban fognak.",
-              "Kerülje az útburkolati jeleket, mert nedvesen rendkívül csúszósak.",
-              "Teljes esőfelszerelés, beleértve a kamáslit is, ajánlott.",
-              "Rövidítse le a kinti megállókat, és keressen kávézókat."
-            ],
-            "ro": [
-              "Verificați frânele, deoarece reacționează mai lent pe jante umede.",
-              "Evitați marcajele rutiere, acestea sunt extrem de alunecoase pe ud.",
-              "Se recomandă echipament complet de ploaie, inclusiv protecții pentru pantofi.",
-              "Scurtați opririle în aer liber și căutați cafenele."
-            ],
-            "en": [
-              "Check your brakes, as they react slower on wet rims.",
-              "Avoid road markings, as they are extremely slippery when wet.",
-              "Full rain gear, including shoe covers, is highly recommended.",
-              "Shorten outdoor stops and look for cafes to rest."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Die klare Winterluft am Leuchtturm weckt die Geister für unsere Radtour. Mittags gleiten wir entlang der Côte des Basques, wo der Ozean in tiefem Blau leuchtet. Den Nachmittag verbringen wir entspannt am Etang de Brindos, bevor uns die Dämmerung zur Rückkehr zwingt.",
-            "hu": "A világítótoronynál érezhető tiszta téli levegő felfrissít a biciklitúrához. Ebédidőben a Côte des Basques mentén tekerünk, ahol az óceán mélykékben ragyog. A délutánt az Etang de Brindosnál töltjük, mielőtt a szürkület hazatérésre kényszerít.",
-            "ro": "Aerul curat de iarnă de la far ne înviorează pentru turul cu bicicleta. La prânz pedalăm pe lângă Côte des Basques, unde oceanul strălucește în albastru profund. După-amiaza o petrecem relaxați la Etang de Brindos, înainte ca amurgul să ne oblige să ne întoarcem.",
-            "en": "The crisp winter air at the lighthouse awakens the spirit for our bike tour. At midday, we glide along Côte des Basques, where the ocean shines in deep blue. We spend a relaxed afternoon at Etang de Brindos before the twilight forces our return."
-          },
-          "stops": [
-            {
-              "name": "Biarritz Lighthouse",
-              "tip_5lang": {
-                "de": "Tragen Sie Handschuhe, der Fahrtwind ist hier oben sehr kalt.",
-                "hu": "Viseljen kesztyűt, a menetszél itt fent nagyon hideg lehet.",
-                "ro": "Purtați mănuși, vântul este foarte rece aici sus în timp ce pedalați.",
-                "en": "Wear gloves; the wind while cycling up here can be very cold."
-              }
-            },
-            {
-              "name": "Miramar Beach",
-              "tip_5lang": {
-                "de": "Ein schöner Ort für Fotos mit klarem Winterhimmel.",
-                "hu": "Gyönyörű hely fotózáshoz a tiszta téli égbolt alatt.",
-                "ro": "Un loc frumos pentru fotografii sub cerul senin de iarnă.",
-                "en": "A beautiful spot for photos under the clear winter sky."
-              }
-            },
-            {
-              "name": "Sainte-Eugénie Church",
-              "tip_5lang": {
-                "de": "Kurze Aufwärmpause im Inneren der neugotischen Kirche.",
-                "hu": "Rövid bemelegítő pihenő a neogótikus templom belsejében.",
-                "ro": "Scurtă pauză de încălzire în interiorul bisericii neogotice.",
-                "en": "Short warm-up break inside the neo-Gothic church."
-              }
-            },
-            {
-              "name": "Côte des Basques",
-              "tip_5lang": {
-                "de": "Genießen Sie die weite Sicht ohne die sommerlichen Menschenmassen.",
-                "hu": "Élvezze a tágas kilátást a nyári tömeg nélkül.",
-                "ro": "Bucurați-vă de vederea largă fără mulțimile de vară.",
-                "en": "Enjoy the expansive view without the summer crowds."
-              }
-            },
-            {
-              "name": "Etang de Brindos",
-              "tip_5lang": {
-                "de": "Achten Sie auf die Zeit, im Winter wird es ab 17 Uhr dunkel.",
-                "hu": "Ügyeljen az időre, télen 17 órától már sötétedik.",
-                "ro": "Atenție la timp, iarna se întunecă începând cu ora 17:00.",
-                "en": "Watch the time; in winter, it starts getting dark from 5:00 PM."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
-              "Tragen Sie Thermo-Kleidung, da man beim Radeln schnell auskühlt.",
-              "Die Vélodyssée-Route ist auch im Winter gut befahrbar.",
-              "Planen Sie Ihre Rückkehr vor 17:30 Uhr ein."
-            ],
-            "hu": [
-              "Győződjön meg róla, hogy a kerékpár világítása hibátlanul működik.",
-              "Viseljen termo ruházatot, mert biciklizés közben gyorsan lehűl az ember.",
-              "A Vélodyssée útvonal télen is jól járható.",
-              "Tervezze meg a visszatérést 17:30 előttre."
-            ],
-            "ro": [
-              "Asigurați-vă că luminile bicicletei funcționează perfect.",
-              "Purtați haine termice, deoarece te răcești repede în timp ce pedalezi.",
-              "Ruta Vélodyssée este practicabilă și pe timpul iernii.",
-              "Planificați întoarcerea înainte de ora 17:30."
-            ],
-            "en": [
-              "Ensure your bike lights are working perfectly.",
-              "Wear thermal clothing, as you cool down quickly while cycling.",
-              "The Vélodyssée route is well-maintained even in winter.",
-              "Plan to be back before 5:30 PM."
-            ]
-          }
-        }
-      }
-    },
-    "car": {
-      "mode": "car",
-      "speed_kmh": 18,
-      "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 28.0,
-      "stop_count": 5,
-      "stops": [
-        {
-          "name": {
-            "de": "Leuchtturm Plateau",
-            "hu": "Világítótorony-fennsík",
-            "ro": "Platoul Farului",
-            "en": "Lighthouse Plateau"
-          },
-          "coords": [
-            -1.5535,
-            43.4935
-          ],
-          "category": "landmark",
-          "arrive_at": "09:15",
-          "stay_min": 40,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Bester Parkplatz für einen schnellen Blick über die Stadt.",
-            "hu": "Legjobb parkoló egy gyors városi kilátáshoz.",
-            "ro": "Cea mai bună parcare pentru o privire rapidă asupra orașului.",
-            "en": "Best parking for a quick view over the city."
+            "de": "Perfekt für eine lange Pause.",
+            "hu": "Tökéletes egy hosszú pihenőhöz.",
+            "ro": "Perfect pentru o pauză lungă.",
+            "en": "Perfect for a long break."
           }
         },
         {
           "name": {
             "de": "Cité de l'Océan",
             "hu": "Az Óceán Városa",
-            "ro": "Orașul Oceanului",
+            "ro": "Cité de l'Océan",
             "en": "Cité de l'Océan"
           },
           "coords": [
-            -1.5732,
-            43.4645
+            -1.5755,
+            43.4655
           ],
           "category": "museum",
-          "arrive_at": "10:15",
-          "stay_min": 100,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Interaktive Ausstellungen über das Ökosystem Meer.",
-            "hu": "Interaktív kiállítások a tengeri ökoszisztémáról.",
-            "ro": "Expoziții interactive despre ecosistemul marin.",
-            "en": "Interactive exhibitions about the marine ecosystem."
-          }
-        },
-        {
-          "name": {
-            "de": "Bidart Zentrum",
-            "hu": "Bidart központja",
-            "ro": "Centrul Bidart",
-            "en": "Bidart Village"
-          },
-          "coords": [
-            -1.5912,
-            43.4385
-          ],
-          "category": "historical",
-          "arrive_at": "12:15",
+          "arrive_at": "16:45",
           "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5.5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Ein typisch baskisches Dorf direkt an den Klippen.",
-            "hu": "Tipikus baszk falu közvetlenül a sziklákon.",
-            "ro": "Un sat basc tipic chiar pe stânci.",
-            "en": "A typical Basque village right on the cliffs."
+            "de": "Interaktives Museum über das Meer.",
+            "hu": "Interaktív óceán-múzeum.",
+            "ro": "Muzeu interactiv despre ocean.",
+            "en": "Interactive museum about the sea."
           }
         },
         {
           "name": {
-            "de": "Guéthary Hafen",
-            "hu": "Guéthary kikötő",
-            "ro": "Portul Guéthary",
-            "en": "Guéthary Port"
+            "de": "Plage de la Milady",
+            "hu": "Milady strand",
+            "ro": "Plaja Milady",
+            "en": "Milady Beach"
           },
           "coords": [
-            -1.6115,
-            43.4245
+            -1.5785,
+            43.4615
           ],
-          "category": "gastro",
-          "arrive_at": "14:05",
-          "stay_min": 70,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.5,
+          "category": "sunset",
+          "arrive_at": "18:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Winziger Hafen mit großartigem Flair.",
-            "hu": "Apró kikötő nagyszerű hangulattal.",
-            "ro": "Port mic cu o atmosferă deosebită.",
-            "en": "Tiny port with great flair."
-          }
-        },
-        {
-          "name": {
-            "de": "Saint-Jean-de-Luz Bucht",
-            "hu": "Saint-Jean-de-Luz öböl",
-            "ro": "Golful Saint-Jean-de-Luz",
-            "en": "Saint-Jean-de-Luz Bay"
-          },
-          "coords": [
-            -1.6645,
-            43.3895
-          ],
-          "category": "beach",
-          "arrive_at": "15:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 12.0,
-          "tip_5lang": {
-            "de": "Besuchen Sie die Kirche, in der Ludwig XIV. heiratete.",
-            "hu": "Látogassa meg a templomot, ahol XIV. Lajos házasodott.",
-            "ro": "Vizitați biserica unde s-a căsătorit Ludovic al XIV-lea.",
-            "en": "Visit the church where Louis XIV got married."
+            "de": "Ruhiger Ausklang im Süden.",
+            "hu": "Csendes befejezés délen.",
+            "ro": "Final liniștit în sud.",
+            "en": "Quiet finish in the south."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto entdecken Sie die gesamte baskische Küste südlich von Biarritz. Nach dem morgendlichen Panorama am Leuchtturm tauchen Sie in der futuristischen Cité de l'Océan in die Meereskunde ein. Mittags genießen Sie die baskische Architektur im charmanten Dorf Bidart.\n\nDie Fahrt führt weiter zum kleinsten Hafen der Küste in Guéthary für einen Nachmittagskaffee. Den Tag lassen wir in der historischen Bucht von Saint-Jean-de-Luz ausklingen, bekannt für ihre königliche Geschichte und geschützte Badestelle.",
-        "hu": "Autóval felfedezheti a teljes baszk partvidéket Biarritztól délre. A reggeli világítótorony-panoráma után merüljön el az oceanográfiában a futurisztikus Cité de l'Océan-ban. Ebédre élvezze a baszk építészetet a bájos Bidart faluban.\n\nAz út tovább vezet a part legkisebb kikötőjébe, Guéthary-ba egy délutáni kávéra. A napot Saint-Jean-de-Luz történelmi öblében zárjuk, amely királyi múltjáról és védett fürdőhelyéről ismert.",
-        "ro": "Cu mașina, descoperiți întreaga coastă bască la sud de Biarritz. După panorama de dimineață de la far, scufundați-vă în oceanografie la futurista Cité de l'Océan. La prânz, bucurați-vă de arhitectura bască în fermecătorul sat Bidart.\n\nDrumul continuă spre cel mai mic port de pe coastă, Guéthary, pentru o cafea de după-amiază. Încheiem ziua în golful istoric Saint-Jean-de-Luz, cunoscut pentru istoria sa regală și zona de scăldat protejată.",
-        "en": "By car, you will discover the entire Basque coast south of Biarritz. After the morning panorama at the lighthouse, dive into oceanography at the futuristic Cité de l'Océan. For lunch, enjoy the Basque architecture in the charming village of Bidart.\n\nThe drive continues to the smallest port on the coast in Guéthary for an afternoon coffee. We end the day in the historical bay of Saint-Jean-de-Luz, known for its royal history and protected swimming spot."
+        "de": "Mit dem Fahrrad erkunden Sie Biarritz über seine Grenzen hinaus. Starten Sie im Norden am Leuchtturm und fahren Sie die Küstenpromenade entlang. Nach einem Stopp am Miramar-Strand erreichen Sie das belebte Zentrum. Mittags stärken Sie sich im Fischerhafen, bevor es weiter Richtung Süden geht. Über den Rocher de la Vierge radeln Sie zur Côte des Basques, dem Mekka der Surfer. Den Nachmittag verbringen Sie in der modernen Cité de l'Océan, einem architektonischen Highlight. Den Tag lassen Sie am entspannten Milady-Strand ausklingen, weit weg vom Trubel des Zentrums.",
+        "hu": "Kerékpárral Biarritz határain túl is eljuthat. Kezdjen északon a világítótoronynál, és tekerjen végig a parti sétányon. A Miramar strand után érje el a nyüzsgő központot. Ebédeljen a halászkikötőben, mielőtt dél felé indulna. A Szűz Mária-szikla érintésével tekerjen el a Côte des Basques-hoz, a szörfösök Mekkájába. A délutánt a modern Cité de l'Océan-ban töltse, amely építészeti remekmű. A napot a pihentető Milady strandon zárja, távol a központ zajától.",
+        "ro": "Cu bicicleta veți explora Biarritz dincolo de limitele sale. Începeți în nord la far și pedalați de-a lungul promenadei de coastă. După o oprire la plaja Miramar, ajungeți în centrul animat. Prânziți în portul pescăresc înainte de a porni spre sud. Trecând pe lângă Rocher de la Vierge, pedalați spre Côte des Basques, Mecca surferilor. Petreceți după-amiaza în moderna Cité de l'Océan, un punct de reper arhitectural. Încheiați ziua la plaja relaxată Milady, departe de agitația centrului.",
+        "en": "By bike, you can explore Biarritz beyond its limits. Start in the north at the lighthouse and pedal along the coastal promenade. After a stop at Miramar beach, reach the bustling center. Have lunch in the fishing port before heading south. Passing the Rock of the Virgin, cycle to Côte des Basques, the mecca for surfers. Spend the afternoon at the modern Cité de l'Océan, an architectural highlight. End the day at the relaxed Milady beach, away from the hustle and bustle of the center."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Maison Adam Macarons",
-            "tip": "In Saint-Jean-de-Luz probieren, das Originalrezept von 1660."
+            "name": "Pintxos at Les Halles",
+            "tip": "Holen Sie sich Snacks für ein Picknick am Strand."
+          },
+          {
+            "name": "Etxola Bibi",
+            "tip": "Bester Kaffee mit Blick auf die Côte des Basques."
           }
         ],
         "hu": [
           {
-            "name": "Maison Adam Macarons",
-            "tip": "Kóstolja meg Saint-Jean-de-Luz-ban az 1660-as eredeti receptet."
+            "name": "Pintxos a csarnokban",
+            "tip": "Vásároljon falatkákat egy tengerparti piknikhez."
+          },
+          {
+            "name": "Etxola Bibi",
+            "tip": "A legjobb kávé kilátással a Côte des Basques-ra."
           }
         ],
         "ro": [
           {
-            "name": "Maison Adam Macarons",
-            "tip": "Încercați rețeta originală din 1660 în Saint-Jean-de-Luz."
+            "name": "Pintxos la piață",
+            "tip": "Luați gustări pentru un picnic pe plajă."
+          },
+          {
+            "name": "Etxola Bibi",
+            "tip": "Cea mai bună cafea cu vedere la Côte des Basques."
           }
         ],
         "en": [
           {
-            "name": "Maison Adam Macarons",
-            "tip": "Try the 1660 original recipe in Saint-Jean-de-Luz."
+            "name": "Pintxos at Les Halles",
+            "tip": "Grab some snacks for a picnic on the beach."
+          },
+          {
+            "name": "Etxola Bibi",
+            "tip": "Best coffee with a view over Côte des Basques."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Chapelle Sainte-Madeleine",
-            "tip": "Einsame Kapelle auf den Klippen von Bidart.",
-            "emoji": "🧘"
+            "name": "Plage de la Milady",
+            "tip": "Weniger Touristen, mehr Einheimische.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Szent Magdolna kápolna",
-            "tip": "Magányos kápolna a bidarti sziklák tetején.",
-            "emoji": "🧘"
+            "name": "Milady strand",
+            "tip": "Kevesebb turista, több helyi lakos.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Capela Sainte-Madeleine",
-            "tip": "Capelă izolată pe stâncile din Bidart.",
-            "emoji": "🧘"
+            "name": "Plaja Milady",
+            "tip": "Mai puțini turiști, mai mulți localnici.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Chapelle Sainte-Madeleine",
-            "tip": "Lonely chapel on the cliffs of Bidart.",
-            "emoji": "🧘"
+            "name": "Milady Beach",
+            "tip": "Fewer tourists, more locals.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Basque Espadrilles",
-            "tip": "Handgefertigte Schuhe in Saint-Jean-de-Luz."
+            "name": "Billabong & Quiksilver shops",
+            "tip": "Authentische Surfmode der Region."
           }
         ],
         "hu": [
           {
-            "name": "Baszk espadrilles",
-            "tip": "Kézzel készített vászoncipők Saint-Jean-de-Luz-ban."
+            "name": "Szörfboltok",
+            "tip": "A régió autentikus szörfdivatja."
           }
         ],
         "ro": [
           {
-            "name": "Espadrile basce",
-            "tip": "Încălțăminte lucrată manual în Saint-Jean-de-Luz."
+            "name": "Magazine de surf",
+            "tip": "Modă autentică de surf din regiune."
           }
         ],
         "en": [
           {
-            "name": "Basque Espadrilles",
-            "tip": "Handmade shoes in Saint-Jean-de-Luz."
+            "name": "Surf Shops",
+            "tip": "Authentic surf fashion of the region."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Corniche Straße bietet die besten Aussichten.",
-          "Parken in Biarritz Zentrum kann im Sommer schwierig sein.",
-          "Nutzen Sie die Tiefgaragen (Indigo).",
-          "Vermeiden Sie die Hauptstraße zur Rushhour."
+          "Mieten Sie ein E-Bike für die Hügel im Süden.",
+          "Nutzen Sie die ausgewiesenen Radwege an der Küste.",
+          "Sichern Sie Ihr Fahrrad immer gut ab.",
+          "Vermeiden Sie das Fahren auf den Gehwegen im Zentrum."
         ],
         "hu": [
-          "A Corniche út kínálja a legjobb kilátást.",
-          "Biarritz központjában nyáron nehéz parkolni.",
-          "Használja a mélygarázsokat (Indigo).",
-          "Kerülje a főutat a csúcsforgalom idején."
+          "Béreljen elektromos kerékpárt a déli dombokhoz.",
+          "Használja a kijelölt kerékpárutakat a parton.",
+          "Mindig jól zárja le a kerékpárját.",
+          "Kerülje a járdán való tekerést a központban."
         ],
         "ro": [
-          "Drumul Corniche oferă cele mai bune vederi.",
-          "Parcarea în centrul Biarritz poate fi dificilă vara.",
-          "Folosiți parcările subterane (Indigo).",
-          "Evitați drumul principal la orele de vârf."
+          "Închiriați o bicicletă electrică pentru dealurile din sud.",
+          "Folosiți pistele de biciclete desemnate de pe coastă.",
+          "Asigurați-vă întotdeauna bine bicicleta.",
+          "Evitați să pedalați pe trotuarele din centru."
         ],
         "en": [
-          "The Corniche road offers the best views.",
-          "Parking in Biarritz center can be difficult in summer.",
-          "Use the underground car parks (Indigo).",
-          "Avoid the main road during rush hour."
+          "Rent an e-bike for the hills in the south.",
+          "Use the designated bike paths along the coast.",
+          "Always lock your bike securely.",
+          "Avoid riding on sidewalks in the city center."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Mit dem Auto entdecken Sie die gesamte baskische Küste südlich von Biarritz. Nach dem morgendlichen Panorama am Leuchtturm tauchen Sie in der futuristischen Cité de l'Océan in die Meereskunde ein. Mittags genießen Sie die baskische Architektur im charmanten Dorf Bidart.\n\nDie Fahrt führt weiter zum kleinsten Hafen der Küste in Guéthary für einen Nachmittagskaffee. Den Tag lassen wir in der historischen Bucht von Saint-Jean-de-Luz ausklingen, bekannt für ihre königliche Geschichte und geschützte Badestelle.",
-            "hu": "Autóval felfedezheti a teljes baszk partvidéket Biarritztól délre. A reggeli világítótorony-panoráma után merüljön el az oceanográfiában a futurisztikus Cité de l'Océan-ban. Ebédre élvezze a baszk építészetet a bájos Bidart faluban.\n\nAz út tovább vezet a part legkisebb kikötőjébe, Guéthary-ba egy délutáni kávéra. A napot Saint-Jean-de-Luz történelmi öblében zárjuk, amely királyi múltjáról és védett fürdőhelyéről ismert.",
-            "ro": "Cu mașina, descoperiți întreaga coastă bască la sud de Biarritz. După panorama de dimineață de la far, scufundați-vă în oceanografie la futurista Cité de l'Océan. La prânz, bucurați-vă de arhitectura bască în fermecătorul sat Bidart.\n\nDrumul continuă spre cel mai mic port de pe coastă, Guéthary, pentru o cafea de după-amiază. Încheiem ziua în golful istoric Saint-Jean-de-Luz, cunoscut pentru istoria sa regală și zona de scăldat protejată.",
-            "en": "By car, you will discover the entire Basque coast south of Biarritz. After the morning panorama at the lighthouse, dive into oceanography at the futuristic Cité de l'Océan. For lunch, enjoy the Basque architecture in the charming village of Bidart.\n\nThe drive continues to the smallest port on the coast in Guéthary for an afternoon coffee. We end the day in the historical bay of Saint-Jean-de-Luz, known for its royal history and protected swimming spot."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Phare de Biarritz (Cluster A)",
+            "hu": "Világítótorony",
+            "ro": "Farul",
+            "en": "Lighthouse"
           },
-          "stops": [
-            {
-              "name": {
-                "de": "Leuchtturm Plateau",
-                "hu": "Világítótorony-fennsík",
-                "ro": "Platoul Farului",
-                "en": "Lighthouse Plateau"
-              },
-              "tip_5lang": {
-                "de": "Bester Parkplatz für einen schnellen Blick über die Stadt.",
-                "hu": "Legjobb parkoló egy gyors városi kilátáshoz.",
-                "ro": "Cea mai bună parcare pentru o privire rapidă asupra orașului.",
-                "en": "Best parking for a quick view over the city."
-              }
-            },
-            {
-              "name": {
-                "de": "Cité de l'Océan",
-                "hu": "Az Óceán Városa",
-                "ro": "Orașul Oceanului",
-                "en": "Cité de l'Océan"
-              },
-              "tip_5lang": {
-                "de": "Interaktive Ausstellungen über das Ökosystem Meer.",
-                "hu": "Interaktív kiállítások a tengeri ökoszisztémáról.",
-                "ro": "Expoziții interactive despre ecosistemul marin.",
-                "en": "Interactive exhibitions about the marine ecosystem."
-              }
-            },
-            {
-              "name": {
-                "de": "Bidart Zentrum",
-                "hu": "Bidart központja",
-                "ro": "Centrul Bidart",
-                "en": "Bidart Village"
-              },
-              "tip_5lang": {
-                "de": "Ein typisch baskisches Dorf direkt an den Klippen.",
-                "hu": "Tipikus baszk falu közvetlenül a sziklákon.",
-                "ro": "Un sat basc tipic chiar pe stânci.",
-                "en": "A typical Basque village right on the cliffs."
-              }
-            },
-            {
-              "name": {
-                "de": "Guéthary Hafen",
-                "hu": "Guéthary kikötő",
-                "ro": "Portul Guéthary",
-                "en": "Guéthary Port"
-              },
-              "tip_5lang": {
-                "de": "Winziger Hafen mit großartigem Flair.",
-                "hu": "Apró kikötő nagyszerű hangulattal.",
-                "ro": "Port mic cu o atmosferă deosebită.",
-                "en": "Tiny port with great flair."
-              }
-            },
-            {
-              "name": {
-                "de": "Saint-Jean-de-Luz Bucht",
-                "hu": "Saint-Jean-de-Luz öböl",
-                "ro": "Golful Saint-Jean-de-Luz",
-                "en": "Saint-Jean-de-Luz Bay"
-              },
-              "tip_5lang": {
-                "de": "Besuchen Sie die Kirche, in der Ludwig XIV. heiratete.",
-                "hu": "Látogassa meg a templomot, ahol XIV. Lajos házasodott.",
-                "ro": "Vizitați biserica unde s-a căsătorit Ludovic al XIV-lea.",
-                "en": "Visit the church where Louis XIV got married."
-              }
-            }
+          "coords": [
+            -1.5518,
+            43.4935
           ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Maison Adam Macarons",
-                "tip": "In Saint-Jean-de-Luz probieren, das Originalrezept von 1660."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Maison Adam Macarons",
-                "tip": "Kóstolja meg Saint-Jean-de-Luz-ban az 1660-as eredeti receptet."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Maison Adam Macarons",
-                "tip": "Încercați rețeta originală din 1660 în Saint-Jean-de-Luz."
-              }
-            ],
-            "en": [
-              {
-                "name": "Maison Adam Macarons",
-                "tip": "Try the 1660 original recipe in Saint-Jean-de-Luz."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Chapelle Sainte-Madeleine",
-                "tip": "Einsame Kapelle auf den Klippen von Bidart.",
-                "emoji": "🧘"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Szent Magdolna kápolna",
-                "tip": "Magányos kápolna a bidarti sziklák tetején.",
-                "emoji": "🧘"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Capela Sainte-Madeleine",
-                "tip": "Capelă izolată pe stâncile din Bidart.",
-                "emoji": "🧘"
-              }
-            ],
-            "en": [
-              {
-                "name": "Chapelle Sainte-Madeleine",
-                "tip": "Lonely chapel on the cliffs of Bidart.",
-                "emoji": "🧘"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Basque Espadrilles",
-                "tip": "Handgefertigte Schuhe in Saint-Jean-de-Luz."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Baszk espadrilles",
-                "tip": "Kézzel készített vászoncipők Saint-Jean-de-Luz-ban."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Espadrile basce",
-                "tip": "Încălțăminte lucrată manual în Saint-Jean-de-Luz."
-              }
-            ],
-            "en": [
-              {
-                "name": "Basque Espadrilles",
-                "tip": "Handmade shoes in Saint-Jean-de-Luz."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Die Corniche Straße bietet die besten Aussichten.",
-              "Parken in Biarritz Zentrum kann im Sommer schwierig sein.",
-              "Nutzen Sie die Tiefgaragen (Indigo).",
-              "Vermeiden Sie die Hauptstraße zur Rushhour."
-            ],
-            "hu": [
-              "A Corniche út kínálja a legjobb kilátást.",
-              "Biarritz központjában nyáron nehéz parkolni.",
-              "Használja a mélygarázsokat (Indigo).",
-              "Kerülje a főutat a csúcsforgalom idején."
-            ],
-            "ro": [
-              "Drumul Corniche oferă cele mai bune vederi.",
-              "Parcarea în centrul Biarritz poate fi dificilă vara.",
-              "Folosiți parcările subterane (Indigo).",
-              "Evitați drumul principal la orele de vârf."
-            ],
-            "en": [
-              "The Corniche road offers the best views.",
-              "Parking in Biarritz center can be difficult in summer.",
-              "Use the underground car parks (Indigo).",
-              "Avoid the main road during rush hour."
-            ]
+          "category": "viewpoint",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Leuchtturms.",
+            "hu": "Parkoljon a világítótorony lábánál.",
+            "ro": "Parcați la baza farului.",
+            "en": "Park at the base of the lighthouse."
           }
         },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Im trockenen Auto geht es zum Leuchtturm-Plateau für einen Blick auf die Brandung. Mittags tauchen wir in die Cité de l'Océan ein, bevor wir Bidart und Guéthary besuchen. Die Fahrt entlang der Küstenstraße bietet spektakuläre Ausblicke auf das graue, wilde Meer, während wir gemütlich im Warmen sitzen.",
-            "hu": "A száraz autóban ülve hajtunk a világítótoronyhoz, hogy megnézzük a hullámverést. Ebédidőben a Cité de l'Océan interaktív világában merülünk el, majd Bidart és Guéthary következik. A parti út látványos kilátást nyújt a szürke, vad tengerre, miközben mi a melegben pihenünk.",
-            "ro": "Mergem cu mașina la platoul farului pentru a vedea valurile. La prânz explorăm Cité de l'Océan, iar apoi vizităm Bidart și Guéthary. Drumul de coastă oferă priveliști spectaculoase asupra mării gri și sălbatice, în timp ce noi stăm confortabil la căldură.",
-            "en": "In the dry car, we head to the Lighthouse Plateau to watch the surf. At midday, we dive into Cité de l'Océan before visiting Bidart and Guéthary. The drive along the coastal road offers spectacular views of the gray, wild sea while we sit comfortably in the warmth."
+        {
+          "name": {
+            "de": "Plage Miramar (Cluster A)",
+            "hu": "Miramar strand",
+            "ro": "Plaja Miramar",
+            "en": "Miramar Beach"
           },
-          "stops": [
-            {
-              "name": "Lighthouse Plateau",
-              "tip_5lang": {
-                "de": "Bleiben Sie im Auto, um die Aussicht sturmsicher zu genießen.",
-                "hu": "Maradjon az autóban, hogy szélbiztosan élvezze a kilátást.",
-                "ro": "Rămâneți în mașină pentru a vă bucura de vedere la adăpost de furtună.",
-                "en": "Stay in the car to enjoy the view protected from the storm."
-              }
-            },
-            {
-              "name": "Cité de l'Océan",
-              "tip_5lang": {
-                "de": "Perfektes Ziel bei Regen, mit großem überdachtem Parkplatz.",
-                "hu": "Tökéletes célpont esőben, nagy, fedett parkolóval.",
-                "ro": "Destinație perfectă pe ploaie, cu parcare mare acoperită.",
-                "en": "Perfect destination during rain, with a large covered parking area."
-              }
-            },
-            {
-              "name": "Bidart Village",
-              "tip_5lang": {
-                "de": "Parken Sie direkt am zentralen Platz für kurze Wege.",
-                "hu": "Parkoljon közvetlenül a központi téren a rövid gyalogút érdekében.",
-                "ro": "Parcați direct în piața centrală pentru a merge cât mai puțin pe jos.",
-                "en": "Park directly at the central square to minimize walking distance."
-              }
-            },
-            {
-              "name": "Guéthary Port",
-              "tip_5lang": {
-                "de": "Die Restaurants am Hafen bieten eine tolle Sicht auf den Regen.",
-                "hu": "A kikötő éttermei remek kilátást nyújtanak az esős tengerre.",
-                "ro": "Restaurantele din port oferă o priveliște minunată asupra ploii.",
-                "en": "The port restaurants offer a great view of the rainy sea."
-              }
-            },
-            {
-              "name": "Saint-Jean-de-Luz Bay",
-              "tip_5lang": {
-                "de": "Besuchen Sie die Maison Adam für Macarons, wenn es zu stark regnet.",
-                "hu": "Látogasson el a Maison Adam-ba macaronért, ha túl erősen esik.",
-                "ro": "Vizitați Maison Adam pentru macarons dacă plouă prea tare.",
-                "en": "Visit Maison Adam for macarons if the rain gets too heavy."
-              }
-            }
+          "coords": [
+            -1.5555,
+            43.4895
           ],
-          "tips": {
-            "de": [
-              "Achten Sie auf Aquaplaning auf der kurvigen Küstenstraße.",
-              "Nutzen Sie Parkhäuser in Saint-Jean-de-Luz, um trocken in die Stadt zu kommen.",
-              "Die Cité de l'Océan ist das beste Ziel für einen Regentag.",
-              "Halten Sie an Aussichtspunkten, die man direkt vom Auto aus sieht."
-            ],
-            "hu": [
-              "Ügyeljen a vízfelúszásra (aquaplaning) a kanyargós parti úton.",
-              "Használja Saint-Jean-de-Luz parkolóházait, hogy szárazon jusson a városba.",
-              "A Cité de l'Océan a legjobb választás egy esős napra.",
-              "Álljon meg olyan kilátópontoknál, amelyek az autóból is látszanak."
-            ],
-            "ro": [
-              "Atenție la acvaplanare pe drumul de coastă sinuos.",
-              "Folosiți parcările etajate din Saint-Jean-de-Luz pentru a ajunge uscați în oraș.",
-              "Cité de l'Océan este cea mai bună destinație pentru o zi ploioasă.",
-              "Opriți în punctele de observație care pot fi văzute direct din mașină."
-            ],
-            "en": [
-              "Watch out for aquaplaning on the winding coastal road.",
-              "Use parking garages in Saint-Jean-de-Luz to enter the town dry.",
-              "Cité de l'Océan is the best destination for a rainy day.",
-              "Stop at viewpoints that can be enjoyed directly from the car."
-            ]
+          "category": "beach",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
           }
         },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein sonniger Wintertag lädt zur Fahrt entlang der baskischen Küste ein. Mittags erkunden wir die Cité de l'Océan ohne Warteschlangen, bevor wir durch das malerische Bidart schlendern. Der Tag endet in Saint-Jean-de-Luz, wo die Bucht in der frühen Winterdämmerung besonders friedlich wirkt.",
-            "hu": "Egy napos téli nap hívogat a baszk tengerparti autózásra. Ebédidőben sorban állás nélkül fedezzük fel a Cité de l'Océan-t, majd Bidart festői utcáin sétálunk. A nap Saint-Jean-de-Luz-ban ér véget, ahol az öböl különösen békés a korai téli szürkületben.",
-            "ro": "O zi însorită de iarnă ne invită la o plimbare cu mașina pe coasta bască. La prânz explorăm Cité de l'Océan fără cozi, apoi ne plimbăm prin pitorescul Bidart. Ziua se încheie în Saint-Jean-de-Luz, unde golful pare foarte liniștit în amurg.",
-            "en": "A sunny winter day invites a drive along the Basque coast. At midday, we explore Cité de l'Océan without the queues before strolling through picturesque Bidart. The day ends in Saint-Jean-de-Luz, where the bay looks especially peaceful in the early winter twilight."
+        {
+          "name": {
+            "de": "Casino Barrière (Cluster B)",
+            "hu": "Casino",
+            "ro": "Casino",
+            "en": "Casino"
           },
-          "stops": [
-            {
-              "name": "Lighthouse Plateau",
-              "tip_5lang": {
-                "de": "Parkplätze sind im Winter direkt vor Ort leicht zu finden.",
-                "hu": "Télen könnyen találhatunk parkolóhelyet közvetlenül a helyszínen.",
-                "ro": "Locurile de parcare sunt ușor de găsit direct la fața locului iarna.",
-                "en": "Parking spaces are easy to find directly on-site during winter."
-              }
-            },
-            {
-              "name": "Cité de l'Océan",
-              "tip_5lang": {
-                "de": "Profitieren Sie von den geringeren Besucherzahlen im Winter.",
-                "hu": "Használja ki, hogy télen sokkal kevesebb a látogató.",
-                "ro": "Profitați de numărul redus de vizitatori pe timpul iernii.",
-                "en": "Take advantage of the significantly lower visitor numbers in winter."
-              }
-            },
-            {
-              "name": "Bidart Village",
-              "tip_5lang": {
-                "de": "Genießen Sie den Blick auf die Pyrenäen, die oft schneebedeckt sind.",
-                "hu": "Élvezze a kilátást a Pireneusokra, amelyek gyakran hóval fedettek.",
-                "ro": "Bucurați-vă de vederea spre Pirinei, care sunt adesea înzăpeziți.",
-                "en": "Enjoy the view of the Pyrenees, which are often snow-capped."
-              }
-            },
-            {
-              "name": "Guéthary Port",
-              "tip_5lang": {
-                "de": "Ein ruhiger Ort für einen kurzen Spaziergang am leeren Hafen.",
-                "hu": "Nyugodt hely egy rövid sétához az üres kikötőben.",
-                "ro": "Un loc liniștit pentru o scurtă plimbare în portul gol.",
-                "en": "A quiet spot for a short walk around the empty harbor."
-              }
-            },
-            {
-              "name": "Saint-Jean-de-Luz Bay",
-              "tip_5lang": {
-                "de": "Die Weihnachtsbeleuchtung in der Stadt ist ab Dezember sehenswert.",
-                "hu": "A város karácsonyi díszkivilágítása decembertől kötelező látnivaló.",
-                "ro": "Luminile de Crăciun din oraș merită văzute începând cu decembrie.",
-                "en": "The Christmas lights in town are worth seeing from December onwards."
-              }
-            }
+          "coords": [
+            -1.5585,
+            43.4845
           ],
-          "tips": {
-            "de": [
-              "Parkgebühren sind in vielen Zonen im Winter reduziert oder gratis.",
-              "Die Küstenstraße Corniche ist im Winter weniger befahren.",
-              "Achten Sie auf eventuelle Sperrungen bei starkem Wellengang.",
-              "Besuchen Sie die lokalen Märkte für winterliche Delikatessen."
-            ],
-            "hu": [
-              "A parkolási díjak sok zónában csökkentettek vagy ingyenesek télen.",
-              "A Corniche parti út télen sokkal kevésbé forgalmas.",
-              "Ügyeljen az esetleges útlezárásokra erős hullámzás esetén.",
-              "Látogassa meg a helyi piacokat a téli finomságokért."
-            ],
-            "ro": [
-              "Taxele de parcare sunt reduse sau gratuite în multe zone iarna.",
-              "Drumul de coastă Corniche este mult mai puțin aglomerat iarna.",
-              "Fiți atenți la eventualele drumuri închise în caz de valuri mari.",
-              "Vizitați piețele locale pentru delicatese de iarnă."
-            ],
-            "en": [
-              "Parking fees are reduced or free in many zones during winter.",
-              "The Corniche coastal road is much less crowded in winter.",
-              "Watch out for potential road closures during high swell events.",
-              "Visit local markets for winter delicacies."
-            ]
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentrales Parkhaus 'Grande Plage' nutzen.",
+            "hu": "Használja a 'Grande Plage' központi parkolót.",
+            "ro": "Folosiți parcarea centrală 'Grande Plage'.",
+            "en": "Use the 'Grande Plage' central parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Port des Pêcheurs (Cluster B)",
+            "hu": "Halászkikötő",
+            "ro": "Port des Pêcheurs",
+            "en": "Fishermen's Port"
+          },
+          "coords": [
+            -1.5642,
+            43.4842
+          ],
+          "category": "harbor",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bester Platz für ein Mittagessen.",
+            "hu": "A legjobb hely egy ebédhez.",
+            "ro": "Cel mai bun loc pentru prânz.",
+            "en": "Best place for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de la Vierge (Cluster C)",
+            "hu": "Szűz Mária-szikla",
+            "ro": "Rocher de la Vierge",
+            "en": "Rock of the Virgin"
+          },
+          "coords": [
+            -1.5711,
+            43.4838
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parkplatz Sainte-Eugénie nutzen.",
+            "hu": "Használja a Sainte-Eugénie parkolót.",
+            "ro": "Folosiți parcarea Sainte-Eugénie.",
+            "en": "Use the Sainte-Eugénie parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium de Biarritz (Cluster C)",
+            "hu": "Akvárium",
+            "ro": "Acvariul",
+            "en": "Aquarium"
+          },
+          "coords": [
+            -1.5685,
+            43.4831
+          ],
+          "category": "museum",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Rocher.",
+            "hu": "Közvetlenül a szikla mellett.",
+            "ro": "Chiar lângă stâncă.",
+            "en": "Right next to the Rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Côte des Basques (Cluster D)",
+            "hu": "Baszk-part",
+            "ro": "Côte des Basques",
+            "en": "Côte des Basques"
+          },
+          "coords": [
+            -1.5665,
+            43.4765
+          ],
+          "category": "beach",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken oben an der Klippe.",
+            "hu": "Parkoljon fent a sziklánál.",
+            "ro": "Parcați sus pe faleză.",
+            "en": "Park at the top of the cliff."
+          }
+        },
+        {
+          "name": {
+            "de": "Etxola Bibi (Cluster D)",
+            "hu": "Kilátópont",
+            "ro": "Belvedere",
+            "en": "Viewpoint"
+          },
+          "coords": [
+            -1.5675,
+            43.4755
+          ],
+          "category": "sunset",
+          "arrive_at": "17:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Aperitif zum Sonnenuntergang.",
+            "hu": "Naplemente előtti aperitif.",
+            "ro": "Aperitiv la apus.",
+            "en": "Sunset aperitif."
           }
         }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Biarritz stressfrei in vier Etappen. Zuerst geht es in den Norden zum Leuchtturm und dem Miramar-Strand. Danach parken Sie zentral für das kaiserliche Viertel und den malerischen Fischerhafen. Am Nachmittag widmen Sie sich der zerklüfteten Küste am Rocher de la Vierge und dem benachbarten Aquarium. Den krönenden Abschluss bildet die Côte des Basques im Süden, wo Sie oben auf den Klippen parken und den Blick über die Wellen und die Pyrenäen in der Ferne genießen können, während der Tag in entspannter Surfer-Atmosphäre zu Ende geht.",
+        "hu": "Autóval Biarritz négy szakaszban, stresszmentesen fedezhető fel. Először irány észak a világítótoronyhoz és a Miramar strandhoz. Ezután parkoljon központilag a császári negyed és a festői halászkikötő megtekintéséhez. Délután a Rocher de la Vierge körüli szaggatott partvonalé és a szomszédos Akváriumé a főszerep. A nap koronája a déli Côte des Basques, ahol a sziklák tetején parkolva élvezheti a kilátást a hullámokra és a távoli Pireneusokra, miközben a nap laza szörfös hangulatban ér véget.",
+        "ro": "Cu mașina veți explora Biarritz fără stres în patru etape. Mai întâi, mergeți în nord la far și la plaja Miramar. Apoi, parcați central pentru cartierul imperial și portul pitoresc al pescarilor. După-amiaza este dedicată coastei zimțate de la Rocher de la Vierge și Acvariului vecin. Punctul culminant este Côte des Basques în sud, unde puteți parca sus pe faleză și vă puteți bucura de vederea asupra valurilor și Pirineilor în depărtare, în timp ce ziua se încheie într-o atmosferă relaxată de surf.",
+        "en": "By car, you explore Biarritz stress-free in four stages. First, head north to the lighthouse and Miramar beach. Then park centrally for the imperial quarter and the picturesque fishing port. The afternoon is dedicated to the rugged coastline at the Rock of the Virgin and the neighboring Aquarium. The crowning finale is the Côte des Basques in the south, where you can park at the top of the cliffs and enjoy the view over the waves and the Pyrenees in the distance, as the day ends in a relaxed surfer atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chez Albert",
+            "tip": "Gehobene Fischküche im Fischerhafen."
+          },
+          {
+            "name": "L'Art de la Fromagerie",
+            "tip": "Beste Käseauswahl zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chez Albert",
+            "tip": "Színvonalas halételek a halászkikötőben."
+          },
+          {
+            "name": "L'Art de la Fromagerie",
+            "tip": "A legjobb sajtválaszték elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chez Albert",
+            "tip": "Bucătărie rafinată cu pește în portul pescarilor."
+          },
+          {
+            "name": "L'Art de la Fromagerie",
+            "tip": "Cea mai bună selecție de brânzeturi la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chez Albert",
+            "tip": "High-end seafood in the fishing port."
+          },
+          {
+            "name": "L'Art de la Fromagerie",
+            "tip": "Best cheese selection to take away."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plateau de l'Atalaye",
+            "tip": "Spektakulärer Blick über die Klippen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atalaye-fennsík",
+            "tip": "Látványos kilátás a sziklák felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plateau de l'Atalaye",
+            "tip": "Vedere spectaculoasă peste faleză.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plateau de l'Atalaye",
+            "tip": "Spectacular view over the cliffs.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison Adam",
+            "tip": "Berühmte Macarons seit 1660."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison Adam",
+            "tip": "Híres macaronok 1660 óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison Adam",
+            "tip": "Celebrele macarons din 1660."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison Adam",
+            "tip": "Famous macarons since 1660."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Sommer kann schwierig sein, nutzen Sie Parkhäuser.",
+          "Die 'Parking Relais' am Stadtrand sind eine gute Alternative.",
+          "Vermeiden Sie die Rushhour im Stadtzentrum.",
+          "Einige Küstenstraßen sind einbahnig."
+        ],
+        "hu": [
+          "A parkolás nyáron nehéz lehet, használjon parkolóházakat.",
+          "A város szélén lévő P+R parkolók jó alternatívák.",
+          "Kerülje a csúcsforgalmat a belvárosban.",
+          "Néhány parti út egyirányú."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă vara, folosiți parcările supraetajate.",
+          "Parcările de tip 'P+R' de la marginea orașului sunt o alternativă bună.",
+          "Evitați orele de vârf în centrul orașului.",
+          "Unele drumuri de coastă sunt cu sens unic."
+        ],
+        "en": [
+          "Parking can be difficult in summer, use multi-story car parks.",
+          "The P+R car parks on the outskirts are a good alternative.",
+          "Avoid rush hour in the city center.",
+          "Some coastal roads are one-way."
+        ]
       }
     },
     "transit": {
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 12.0,
-      "stop_count": 5,
+      "end_estimate": "17:45",
+      "total_km": 8.5,
+      "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Casino Barrière",
-            "hu": "Casino Barrière",
-            "ro": "Casino Barrière",
-            "en": "Casino Barrière"
+            "de": "Phare (Bezirk Nord)",
+            "hu": "Világítótorony",
+            "ro": "Farul",
+            "en": "Lighthouse"
           },
           "coords": [
-            -1.5588,
-            43.4842
+            -1.5518,
+            43.4935
           ],
-          "category": "historical",
+          "category": "viewpoint",
           "arrive_at": "09:15",
-          "stay_min": 60,
+          "stay_min": 30,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Ein prächtiges Beispiel für Art-Déco-Architektur.",
-            "hu": "Az Art Deco építészet pompás példája.",
-            "ro": "Un exemplu magnific de arhitectură Art Deco.",
-            "en": "A magnificent example of Art Deco architecture."
+            "de": "Buslinie 38 hält fast direkt davor.",
+            "hu": "A 38-as busz majdnem előtte áll meg.",
+            "ro": "Linia de autobuz 38 oprește aproape în față.",
+            "en": "Bus line 38 stops almost directly in front."
           }
         },
         {
           "name": {
-            "de": "Asiatisches Museum",
-            "hu": "Ázsia Múzeum",
-            "ro": "Muzeul de Artă Asiatică",
-            "en": "Asiatica Museum"
+            "de": "Plage Miramar (Bezirk Nord)",
+            "hu": "Miramar strand",
+            "ro": "Plaja Miramar",
+            "en": "Miramar Beach"
           },
           "coords": [
-            -1.5525,
-            43.4815
-          ],
-          "category": "museum",
-          "arrive_at": "10:35",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Eine der bedeutendsten Sammlungen asiatischer Kunst in Frankreich.",
-            "hu": "Franciaország egyik legjelentősebb ázsiai művészeti gyűjteménye.",
-            "ro": "Una dintre cele mai importante colecții de artă asiatică din Franța.",
-            "en": "One of the most significant collections of Asian art in France."
-          }
-        },
-        {
-          "name": {
-            "de": "Biarritz Iraty",
-            "hu": "Biarritz Iraty negyed",
-            "ro": "Cartierul Iraty",
-            "en": "Biarritz Iraty"
-          },
-          "coords": [
-            -1.5385,
-            43.4685
-          ],
-          "category": "shopping",
-          "arrive_at": "12:25",
-          "stay_min": 80,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.0,
-          "tip_5lang": {
-            "de": "Modernes Viertel mit Handwerksbetrieben und Outlets.",
-            "hu": "Modern negyed kézműves műhelyekkel és outlet boltokkal.",
-            "ro": "Cartier modern cu ateliere de meșteșugari și outlet-uri.",
-            "en": "Modern district with craft workshops and outlets."
-          }
-        },
-        {
-          "name": {
-            "de": "Milady Strand",
-            "hu": "Milady strand",
-            "ro": "Plaja Milady",
-            "en": "Milady Beach"
-          },
-          "coords": [
-            -1.5715,
-            43.4685
+            -1.5555,
+            43.4895
           ],
           "category": "beach",
-          "arrive_at": "14:05",
-          "stay_min": 120,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 4.0,
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Sehr familienfreundlicher Strand mit Spielplatz.",
-            "hu": "Nagyon családbarát strand játszótérrel.",
-            "ro": "Plajă foarte potrivită pentru familii, cu loc de joacă.",
-            "en": "Very family-friendly beach with a playground."
+            "de": "Leichter Spaziergang bergab.",
+            "hu": "Könnyű séta lefelé.",
+            "ro": "O plimbare ușoară la vale.",
+            "en": "Easy walk downhill."
           }
         },
         {
           "name": {
-            "de": "Bellevue Platz",
+            "de": "Place Bellevue (Zentrum)",
             "hu": "Bellevue tér",
-            "ro": "Piața Bellevue",
+            "ro": "Place Bellevue",
             "en": "Bellevue Square"
           },
           "coords": [
-            -1.5625,
-            43.4835
+            -1.5615,
+            43.4848
           ],
-          "category": "square",
-          "arrive_at": "16:25",
-          "stay_min": 20,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.0,
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Der Name sagt alles: Schöne Aussicht über die Bucht.",
-            "hu": "A név mindent elmond: szép kilátás az öbölre.",
-            "ro": "Numele spune totul: vedere frumoasă asupra golfului.",
-            "en": "The name says it all: beautiful view over the bay."
+            "de": "Bester Blick auf die Grande Plage.",
+            "hu": "A legjobb kilátás a Grande Plage-ra.",
+            "ro": "Cea mai bună vedere la Grande Plage.",
+            "en": "Best view over Grande Plage."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Halles (Zentrum)",
+            "hu": "Vásárcsarnok",
+            "ro": "Piața",
+            "en": "Market"
+          },
+          "coords": [
+            -1.5622,
+            43.4815
+          ],
+          "category": "market",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Mittagessen an den Marktständen.",
+            "hu": "Ebéd a piaci árusoknál.",
+            "ro": "Prânz la tarabele din piață.",
+            "en": "Lunch at the market stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Mer (Aquarium)",
+            "hu": "Akvárium",
+            "ro": "Acvariul",
+            "en": "Aquarium"
+          },
+          "coords": [
+            -1.5685,
+            43.4831
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Haltestelle 'Aquarium' nutzen.",
+            "hu": "Használja az 'Aquarium' megállót.",
+            "ro": "Folosiți stația 'Aquarium'.",
+            "en": "Use the 'Aquarium' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de la Vierge",
+            "hu": "Szűz Mária-szikla",
+            "ro": "Rocher de la Vierge",
+            "en": "Rock of the Virgin"
+          },
+          "coords": [
+            -1.5711,
+            43.4838
+          ],
+          "category": "landmark",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "Symbol of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Côte des Basques",
+            "hu": "Baszk-part",
+            "ro": "Côte des Basques",
+            "en": "Côte des Basques"
+          },
+          "coords": [
+            -1.5665,
+            43.4765
+          ],
+          "category": "sunset",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Buslinie 38 oder die kostenlose Shuttle.",
+            "hu": "38-as busz vagy az ingyenes transzfer.",
+            "ro": "Linia 38 sau naveta gratuită.",
+            "en": "Bus line 38 or the free shuttle."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie das effiziente Chronoplus-Bussystem von Biarritz. Starten Sie elegant am Casino Barrière und besuchen Sie das faszinierende Asiatica Museum. Ein Abstecher ins Iraty-Viertel zeigt Ihnen die moderne Seite der Stadt mit lokalem Kunsthandwerk.\n\nNachmittags bringt Sie der Bus zum weitläufigen Milady Strand, ideal für eine ausgiebige Badepause. Zum Abschluss kehren wir zum Bellevue Platz zurück, um den Panoramablick über den Atlantik bequem zu genießen.",
-        "hu": "Használja Biarritz hatékony Chronoplus buszhálózatát. Kezdjen elegánsan a Casino Barrière-nél, majd látogasson el a lenyűgöző Ázsia Múzeumba. Egy kitérő az Iraty negyedbe megmutatja a város modern oldalát helyi kézművesekkel.\n\nDélután a busz elviszi a tágas Milady strandhoz, amely ideális egy hosszú fürdőzéshez. Befejezésül térjünk vissza a Bellevue térre, hogy kényelmesen élvezzük az Atlanti-óceánra nyíló panorámát.",
-        "ro": "Folosiți sistemul eficient de autobuze Chronoplus din Biarritz. Începeți elegant la Casino Barrière și vizitați fascinantul Muzeu Asiatica. O incursiune în cartierul Iraty vă arată latura modernă a orașului, cu artizanat local.\n\nDupă-amiaza, autobuzul vă duce la spațioasa plajă Milady, ideală pentru o pauză lungă de înot. La final, revenim în Piața Bellevue pentru a ne bucura de vederea panoramică asupra Atlanticului.",
-        "en": "Use Biarritz's efficient Chronoplus bus network. Start elegantly at the Casino Barrière and visit the fascinating Asiatica Museum. A detour to the Iraty district shows you the modern side of the city with local crafts.\n\nIn the afternoon, the bus takes you to the spacious Milady beach, ideal for a long swimming break. Finally, we return to Bellevue Square to comfortably enjoy the panoramic view over the Atlantic."
+        "de": "Dank des gut ausgebauten Busnetzes und der kostenlosen Shuttle-Busse ('Navettes') lässt sich Biarritz bequem erkunden. Beginnen Sie im Norden am Leuchtturm und spazieren Sie zum ruhigen Miramar-Strand. Ein kurzer Bus-Hop bringt Sie ins Herz des kaiserlichen Zentrums zur Place Bellevue. Mittags genießen Sie die Atmosphäre und lokale Spezialitäten in den Markthallen von Les Halles. Am Nachmittag bringt Sie der Bus zum Aquarium und dem berühmten Rocher de la Vierge. Den Tag beschließen Sie an der Côte des Basques, dem beliebtesten Ort der Stadt für den Sonnenuntergang, wohin Sie ebenfalls ganz einfach mit dem Bus gelangen.",
+        "hu": "A jól kiépített buszhálózatnak és az ingyenes transzferbuszoknak ('Navettes') köszönhetően Biarritz kényelmesen felfedezhető. Kezdjen északon a világítótoronynál, majd sétáljon át a csendes Miramar strandra. Egy rövid buszozással jusson el a császári központ szívébe, a Place Bellevue-re. Ebédre élvezze a hangulatot és a helyi különlegességeket a Les Halles vásárcsarnokban. Délután a busz elviszi az Akváriumhoz és a híres Szűz Mária-sziklához. A napot a Côte des Basques-nál zárja, amely a város legnépszerűbb naplemente-néző helye, és busszal is könnyen megközelíthető.",
+        "ro": "Datorită rețelei bine dezvoltate de autobuze și a navetelor gratuite ('Navettes'), Biarritz poate fi explorat confortabil. Începeți în nord la far, apoi mergeți la plaja liniștită Miramar. O scurtă călătorie cu autobuzul vă duce în inima centrului imperial, la Place Bellevue. La prânz, bucurați-vă de atmosferă și de specialitățile locale în piața Les Halles. După-amiaza, autobuzul vă va duce la Acvariu și la faimosul Rocher de la Vierge. Încheiați ziua la Côte des Basques, cel mai popular loc din oraș pentru apus, unde puteți ajunge, de asemenea, foarte ușor cu autobuzul.",
+        "en": "Thanks to the well-developed bus network and the free shuttles ('Navettes'), Biarritz can be explored comfortably. Start in the north at the lighthouse, then walk to the quiet Miramar beach. A short bus hop takes you to the heart of the imperial center at Place Bellevue. For lunch, enjoy the atmosphere and local specialties in the Les Halles market. In the afternoon, the bus takes you to the Aquarium and the famous Rock of the Virgin. Wrap up the day at Côte des Basques, the city's most popular spot for sunset, which is also easily accessible by bus."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Le CAB Biarritz",
-            "tip": "Gourmet-Burger mit lokalen Zutaten nähe Bellevue."
+            "name": "Le Comptoir du Foie Gras",
+            "tip": "Hervorragende Pintxos in der Nähe der Markthalle."
           }
         ],
         "hu": [
           {
-            "name": "Le CAB Biarritz",
-            "tip": "Gourmet burgerek helyi alapanyagokból a Bellevue közelében."
+            "name": "Le Comptoir du Foie Gras",
+            "tip": "Kiváló pintxos a vásárcsarnok közelében."
           }
         ],
         "ro": [
           {
-            "name": "Le CAB Biarritz",
-            "tip": "Burgeri gourmet cu ingrediente locale lângă Bellevue."
+            "name": "Le Comptoir du Foie Gras",
+            "tip": "Pintxos excelente lângă piață."
           }
         ],
         "en": [
           {
-            "name": "Le CAB Biarritz",
-            "tip": "Gourmet burgers with local ingredients near Bellevue."
+            "name": "Le Comptoir du Foie Gras",
+            "tip": "Excellent pintxos near the market hall."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Jardin Public",
-            "tip": "Ruhiger Stadtpark gegenüber dem Gare du Midi.",
-            "emoji": "🍃"
+            "name": "Eglise Sainte-Eugénie",
+            "tip": "Ruhepol im gotischen Stil im Zentrum.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Közpark",
-            "tip": "Csendes városi park a Gare du Midi-vel szemben.",
-            "emoji": "🍃"
+            "name": "Szent Eugénia-templom",
+            "tip": "Gótikus stílusú nyugalom szigete a központban.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Grădina Publică",
-            "tip": "Parc orășenesc liniștit vizavi de Gare du Midi.",
-            "emoji": "🍃"
+            "name": "Eglise Sainte-Eugénie",
+            "tip": "Liniște în stil gotic chiar în centru.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Jardin Public",
-            "tip": "Quiet city park opposite the Gare du Midi.",
-            "emoji": "🍃"
+            "name": "Eglise Sainte-Eugénie",
+            "tip": "A peaceful spot in Gothic style in the center.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Iraty Outlets",
-            "tip": "Surf-Marken zu reduzierten Preisen."
+            "name": "L'Atelier du Chocolat",
+            "tip": "Baskische Schokoladen-Tradition."
           }
         ],
         "hu": [
           {
-            "name": "Iraty Outlet",
-            "tip": "Szörf márkák kedvezményes áron."
+            "name": "L'Atelier du Chocolat",
+            "tip": "Baszk csokoládéhagyomány."
           }
         ],
         "ro": [
           {
-            "name": "Outlet-uri Iraty",
-            "tip": "Branduri de surf la prețuri reduse."
+            "name": "L'Atelier du Chocolat",
+            "tip": "Tradiția bască a ciocolatei."
           }
         ],
         "en": [
           {
-            "name": "Iraty Outlets",
-            "tip": "Surf brands at discounted prices."
+            "name": "L'Atelier du Chocolat",
+            "tip": "Basque chocolate tradition."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie ein Tagesticket direkt beim Fahrer.",
-          "Die App 'Chronoplus' zeigt Abfahrten in Echtzeit.",
-          "Linie 38 verbindet die wichtigsten Strände.",
-          "Navette Gratuite verkehrt im historischen Zentrum."
+          "Nutzen Sie die kostenlose 'Navette' im Stadtzentrum.",
+          "Kaufen Sie ein Tagesticket für das Chronoplus-Netz.",
+          "Die Busse fahren im Sommer bis spät in die Nacht.",
+          "Laden Sie die Chronoplus-App für Echtzeit-Infos herunter."
         ],
         "hu": [
-          "Vásároljon napijegyet közvetlenül a sofőrnél.",
-          "A 'Chronoplus' alkalmazás valós időben mutatja az indulásokat.",
-          "A 38-as vonal köti össze a legfontosabb strandokat.",
-          "A Navette Gratuite busz a történelmi központban közlekedik."
+          "Használja az ingyenes 'Navette' buszokat a belvárosban.",
+          "Vásároljon napijegyet a Chronoplus hálózatra.",
+          "A buszok nyáron késő éjszakáig közlekednek.",
+          "Töltse le a Chronoplus appot a valós idejű infókért."
         ],
         "ro": [
-          "Cumpărați un bilet de o zi direct de la șofer.",
-          "Aplicația 'Chronoplus' arată plecările în timp real.",
-          "Linia 38 conectează cele mai importante plaje.",
-          "Navette Gratuite circulă în centrul istoric."
+          "Folosiți naveta gratuită 'Navette' din centrul orașului.",
+          "Cumpărați un bilet de o zi pentru rețeaua Chronoplus.",
+          "Autobuzele circulă până târziu în noapte vara.",
+          "Descărcați aplicația Chronoplus pentru informații în timp real."
         ],
         "en": [
-          "Buy a day ticket directly from the driver.",
-          "The 'Chronoplus' app shows departures in real-time.",
-          "Line 38 connects the main beaches.",
-          "Navette Gratuite circulates in the historical center."
+          "Use the free 'Navette' shuttle in the city center.",
+          "Buy a day ticket for the Chronoplus network.",
+          "Buses run until late at night during summer.",
+          "Download the Chronoplus app for real-time info."
         ]
-      },
-      "variants": {
-        "sunny": {
-          "narrative_4lang": {
-            "de": "Nutzen Sie das effiziente Chronoplus-Bussystem von Biarritz. Starten Sie elegant am Casino Barrière und besuchen Sie das faszinierende Asiatica Museum. Ein Abstecher ins Iraty-Viertel zeigt Ihnen die moderne Seite der Stadt mit lokalem Kunsthandwerk.\n\nNachmittags bringt Sie der Bus zum weitläufigen Milady Strand, ideal für eine ausgiebige Badepause. Zum Abschluss kehren wir zum Bellevue Platz zurück, um den Panoramablick über den Atlantik bequem zu genießen.",
-            "hu": "Használja Biarritz hatékony Chronoplus buszhálózatát. Kezdjen elegánsan a Casino Barrière-nél, majd látogasson el a lenyűgöző Ázsia Múzeumba. Egy kitérő az Iraty negyedbe megmutatja a város modern oldalát helyi kézművesekkel.\n\nDélután a busz elviszi a tágas Milady strandhoz, amely ideális egy hosszú fürdőzéshez. Befejezésül térjünk vissza a Bellevue térre, hogy kényelmesen élvezzük az Atlanti-óceánra nyíló panorámát.",
-            "ro": "Folosiți sistemul eficient de autobuze Chronoplus din Biarritz. Începeți elegant la Casino Barrière și vizitați fascinantul Muzeu Asiatica. O incursiune în cartierul Iraty vă arată latura modernă a orașului, cu artizanat local.\n\nDupă-amiaza, autobuzul vă duce la spațioasa plajă Milady, ideală pentru o pauză lungă de înot. La final, revenim în Piața Bellevue pentru a ne bucura de vederea panoramică asupra Atlanticului.",
-            "en": "Use Biarritz's efficient Chronoplus bus network. Start elegantly at the Casino Barrière and visit the fascinating Asiatica Museum. A detour to the Iraty district shows you the modern side of the city with local crafts.\n\nIn the afternoon, the bus takes you to the spacious Milady beach, ideal for a long swimming break. Finally, we return to Bellevue Square to comfortably enjoy the panoramic view over the Atlantic."
-          },
-          "stops": [
-            {
-              "name": {
-                "de": "Casino Barrière",
-                "hu": "Casino Barrière",
-                "ro": "Casino Barrière",
-                "en": "Casino Barrière"
-              },
-              "tip_5lang": {
-                "de": "Ein prächtiges Beispiel für Art-Déco-Architektur.",
-                "hu": "Az Art Deco építészet pompás példája.",
-                "ro": "Un exemplu magnific de arhitectură Art Deco.",
-                "en": "A magnificent example of Art Deco architecture."
-              }
-            },
-            {
-              "name": {
-                "de": "Asiatisches Museum",
-                "hu": "Ázsia Múzeum",
-                "ro": "Muzeul de Artă Asiatică",
-                "en": "Asiatica Museum"
-              },
-              "tip_5lang": {
-                "de": "Eine der bedeutendsten Sammlungen asiatischer Kunst in Frankreich.",
-                "hu": "Franciaország egyik legjelentősebb ázsiai művészeti gyűjteménye.",
-                "ro": "Una dintre cele mai importante colecții de artă asiatică din Franța.",
-                "en": "One of the most significant collections of Asian art in France."
-              }
-            },
-            {
-              "name": {
-                "de": "Biarritz Iraty",
-                "hu": "Biarritz Iraty negyed",
-                "ro": "Cartierul Iraty",
-                "en": "Biarritz Iraty"
-              },
-              "tip_5lang": {
-                "de": "Modernes Viertel mit Handwerksbetrieben und Outlets.",
-                "hu": "Modern negyed kézműves műhelyekkel és outlet boltokkal.",
-                "ro": "Cartier modern cu ateliere de meșteșugari și outlet-uri.",
-                "en": "Modern district with craft workshops and outlets."
-              }
-            },
-            {
-              "name": {
-                "de": "Milady Strand",
-                "hu": "Milady strand",
-                "ro": "Plaja Milady",
-                "en": "Milady Beach"
-              },
-              "tip_5lang": {
-                "de": "Sehr familienfreundlicher Strand mit Spielplatz.",
-                "hu": "Nagyon családbarát strand játszótérrel.",
-                "ro": "Plajă foarte potrivită pentru familii, cu loc de joacă.",
-                "en": "Very family-friendly beach with a playground."
-              }
-            },
-            {
-              "name": {
-                "de": "Bellevue Platz",
-                "hu": "Bellevue tér",
-                "ro": "Piața Bellevue",
-                "en": "Bellevue Square"
-              },
-              "tip_5lang": {
-                "de": "Der Name sagt alles: Schöne Aussicht über die Bucht.",
-                "hu": "A név mindent elmond: szép kilátás az öbölre.",
-                "ro": "Numele spune totul: vedere frumoasă asupra golfului.",
-                "en": "The name says it all: beautiful view over the bay."
-              }
-            }
-          ],
-          "gastro_picks": {
-            "de": [
-              {
-                "name": "Le CAB Biarritz",
-                "tip": "Gourmet-Burger mit lokalen Zutaten nähe Bellevue."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Le CAB Biarritz",
-                "tip": "Gourmet burgerek helyi alapanyagokból a Bellevue közelében."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Le CAB Biarritz",
-                "tip": "Burgeri gourmet cu ingrediente locale lângă Bellevue."
-              }
-            ],
-            "en": [
-              {
-                "name": "Le CAB Biarritz",
-                "tip": "Gourmet burgers with local ingredients near Bellevue."
-              }
-            ]
-          },
-          "quiet_picks": {
-            "de": [
-              {
-                "name": "Jardin Public",
-                "tip": "Ruhiger Stadtpark gegenüber dem Gare du Midi.",
-                "emoji": "🍃"
-              }
-            ],
-            "hu": [
-              {
-                "name": "Közpark",
-                "tip": "Csendes városi park a Gare du Midi-vel szemben.",
-                "emoji": "🍃"
-              }
-            ],
-            "ro": [
-              {
-                "name": "Grădina Publică",
-                "tip": "Parc orășenesc liniștit vizavi de Gare du Midi.",
-                "emoji": "🍃"
-              }
-            ],
-            "en": [
-              {
-                "name": "Jardin Public",
-                "tip": "Quiet city park opposite the Gare du Midi.",
-                "emoji": "🍃"
-              }
-            ]
-          },
-          "shopping_picks": {
-            "de": [
-              {
-                "name": "Iraty Outlets",
-                "tip": "Surf-Marken zu reduzierten Preisen."
-              }
-            ],
-            "hu": [
-              {
-                "name": "Iraty Outlet",
-                "tip": "Szörf márkák kedvezményes áron."
-              }
-            ],
-            "ro": [
-              {
-                "name": "Outlet-uri Iraty",
-                "tip": "Branduri de surf la prețuri reduse."
-              }
-            ],
-            "en": [
-              {
-                "name": "Iraty Outlets",
-                "tip": "Surf brands at discounted prices."
-              }
-            ]
-          },
-          "tips": {
-            "de": [
-              "Kaufen Sie ein Tagesticket direkt beim Fahrer.",
-              "Die App 'Chronoplus' zeigt Abfahrten in Echtzeit.",
-              "Linie 38 verbindet die wichtigsten Strände.",
-              "Navette Gratuite verkehrt im historischen Zentrum."
-            ],
-            "hu": [
-              "Vásároljon napijegyet közvetlenül a sofőrnél.",
-              "A 'Chronoplus' alkalmazás valós időben mutatja az indulásokat.",
-              "A 38-as vonal köti össze a legfontosabb strandokat.",
-              "A Navette Gratuite busz a történelmi központban közlekedik."
-            ],
-            "ro": [
-              "Cumpărați un bilet de o zi direct de la șofer.",
-              "Aplicația 'Chronoplus' arată plecările în timp real.",
-              "Linia 38 conectează cele mai importante plaje.",
-              "Navette Gratuite circulă în centrul istoric."
-            ],
-            "en": [
-              "Buy a day ticket directly from the driver.",
-              "The 'Chronoplus' app shows departures in real-time.",
-              "Line 38 connects the main beaches.",
-              "Navette Gratuite circulates in the historical center."
-            ]
-          }
-        },
-        "rainy": {
-          "narrative_4lang": {
-            "de": "Mit dem Bus erreichen wir bequem das Casino Barrière, wo wir dem Regen entkommen. Mittags führt uns der Transit zum Asiatica Museum, einem kulturellen Hort im Trockenen. Den Nachmittag verbringen wir in den Geschäften von Iraty, bevor uns der Bus zurück ins Stadtzentrum zum Bellevue Square bringt.",
-            "hu": "Busszal kényelmesen elérjük a Casino Barrière-t, ahol elmenekülhetünk az eső elől. Ebédidőben a tömegközlekedés az Asiatica Múzeumba visz, amely kiváló fedett kulturális helyszín. A délutánt Iraty üzleteiben töltjük, majd busszal térünk vissza a központba, a Bellevue térre.",
-            "ro": "Cu autobuzul ajungem confortabil la Casino Barrière, scăpând de ploaie. La prânz, transportul ne duce la Muzeul Asiatica, un refugiu cultural uscat. După-amiaza o petrecem în magazinele din Iraty, înainte de a reveni cu autobuzul în centru, la Piața Bellevue.",
-            "en": "By bus, we easily reach Casino Barrière, escaping the rain. At midday, transit takes us to the Asiatica Museum, a cultural haven in the dry. We spend the afternoon in the shops of Iraty before the bus brings us back to the city center and Bellevue Square."
-          },
-          "stops": [
-            {
-              "name": "Casino Barrière",
-              "tip_5lang": {
-                "de": "Bushaltestelle direkt vor dem Gebäude, minimaler Weg im Regen.",
-                "hu": "Buszmegálló közvetlenül az épület előtt, minimális séta az esőben.",
-                "ro": "Stație de autobuz chiar în fața clădirii, drum minim prin ploaie.",
-                "en": "Bus stop directly in front of the building, minimal walking in the rain."
-              }
-            },
-            {
-              "name": "Asiatica Museum",
-              "tip_5lang": {
-                "de": "Ein großartiger Ort, um eine Stunde im Trockenen zu verbringen.",
-                "hu": "Nagyszerű hely egy óra szárazon történő eltöltéséhez.",
-                "ro": "Un loc minunat pentru a petrece o oră la adăpost de ploaie.",
-                "en": "A great place to spend an hour while staying completely dry."
-              }
-            },
-            {
-              "name": "Biarritz Iraty",
-              "tip_5lang": {
-                "de": "Großes Einkaufszentrum, ideal zum Bummeln bei schlechtem Wetter.",
-                "hu": "Nagy bevásárlónegyed, ideális nézelődésre rossz időben.",
-                "ro": "Zonă comercială mare, ideală pentru plimbări pe vreme rea.",
-                "en": "Large shopping district, ideal for browsing during bad weather."
-              }
-            },
-            {
-              "name": "Milady Beach",
-              "tip_5lang": {
-                "de": "Schauen Sie sich die stürmische See von der Bushaltestelle aus an.",
-                "hu": "Nézze meg a viharos tengert a buszmegálló fedezékéből.",
-                "ro": "Admirați marea învolburată din adăpostul stației de autobuz.",
-                "en": "View the stormy sea from the shelter of the bus stop."
-              }
-            },
-            {
-              "name": "Bellevue Square",
-              "tip_5lang": {
-                "de": "Viele Cafés in der Nähe bieten Schutz vor plötzlichen Schauern.",
-                "hu": "A közelben lévő számos kávézó védelmet nyújt a hirtelen záporoktól.",
-                "ro": "Multe cafenele din apropiere oferă protecție contra ploilor bruște.",
-                "en": "Many nearby cafes offer protection from sudden showers."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Nutzen Sie die 'Chronoplus' App für Echtzeit-Buszeiten.",
-              "Kaufen Sie ein Tagesticket direkt beim Fahrer oder am Automaten.",
-              "Die Busse sind gut beheizt und eine trockene Alternative zum Gehen.",
-              "Haltestellen im Zentrum sind meist überdacht."
-            ],
-            "hu": [
-              "Használja a 'Chronoplus' alkalmazást a valós idejű buszjáratokhoz.",
-              "Vásároljon napijegyet közvetlenül a sofőrnél vagy az automatáknál.",
-              "A buszok jól fűtöttek és száraz alternatívát kínálnak a gyaloglás helyett.",
-              "A központi megállók többnyire fedettek."
-            ],
-            "ro": [
-              "Utilizați aplicația 'Chronoplus' pentru orarul autobuzelor în timp real.",
-              "Cumpărați un bilet de o zi direct de la șofer sau de la automate.",
-              "Autobuzele sunt bine încălzite și reprezintă o alternativă uscată la mers.",
-              "Stațiile din centru sunt în mare parte acoperite."
-            ],
-            "en": [
-              "Use the 'Chronoplus' app for real-time bus schedules.",
-              "Buy a day pass directly from the driver or at the ticket machines.",
-              "Buses are well-heated and offer a dry alternative to walking.",
-              "Most bus stops in the city center are covered."
-            ]
-          }
-        },
-        "winter": {
-          "narrative_4lang": {
-            "de": "Ein klarer Wintertag beginnt mit der Busfahrt zum Casino. Mittags besuchen wir das Asiatica Museum ohne den Sommertrubel, bevor wir nach Iraty weiterfahren. Der Tag endet am Bellevue Square, wo wir den kühlen Winterwind genießen, bevor wir den geheizten Bus zurück nehmen.",
-            "hu": "Egy tiszta téli nap a Casino felé tartó buszozással indul. Ebédidőben a nyári tolongás nélkül látogatjuk meg az Asiatica Múzeumot, majd Iraty következik. A nap a Bellevue téren ér véget, ahol élvezzük a hűvös téli szelet, mielőtt visszaszállnánk a fűtött buszra.",
-            "ro": "O zi senină de iarnă începe cu o plimbare cu autobuzul spre Cazinou. La prânz vizităm Muzeul Asiatica fără aglomerația de vară, apoi mergem spre Iraty. Ziua se încheie în Piața Bellevue, unde ne bucurăm de vântul rece înainte de a lua autobuzul încălzit înapoi.",
-            "en": "A clear winter day begins with a bus ride to the Casino. At midday, we visit the Asiatica Museum without the summer crowds before continuing to Iraty. The day ends at Bellevue Square, where we enjoy the cool winter wind before taking the heated bus back."
-          },
-          "stops": [
-            {
-              "name": "Casino Barrière",
-              "tip_5lang": {
-                "de": "Im Winter ist es hier ruhiger, perfekt für einen entspannten Start.",
-                "hu": "Télen itt sokkal nagyobb a nyugalom, tökéletes a lassú kezdéshez.",
-                "ro": "Iarna este mai liniște aici, perfect pentru un început relaxat.",
-                "en": "It's quieter here in winter, perfect for a relaxed start to your day."
-              }
-            },
-            {
-              "name": "Asiatica Museum",
-              "tip_5lang": {
-                "de": "Die Ausstellungen sind im Winter eine warme Kultur-Alternative.",
-                "hu": "A kiállítások télen meleg kulturális alternatívát jelentenek.",
-                "ro": "Expozițiile sunt o alternativă culturală călduroasă pe timpul iernii.",
-                "en": "The exhibitions are a warm cultural alternative during the winter months."
-              }
-            },
-            {
-              "name": "Biarritz Iraty",
-              "tip_5lang": {
-                "de": "Idealer Ort für Winter-Shopping in lokaler Atmosphäre.",
-                "hu": "Ideális hely a téli vásárláshoz, helyi hangulatban.",
-                "ro": "Locul ideal pentru cumpărături de iarnă într-o atmosferă locală.",
-                "en": "Ideal place for winter shopping in a local atmosphere."
-              }
-            },
-            {
-              "name": "Milady Beach",
-              "tip_5lang": {
-                "de": "Im Winter fast menschenleer, genießen Sie die pure Ozeanluft.",
-                "hu": "Télen szinte teljesen üres, élvezze a tiszta óceáni levegőt.",
-                "ro": "Aproape pustie iarna, bucurați-vă de aerul curat al oceanului.",
-                "en": "Almost deserted in winter; enjoy the pure ocean air."
-              }
-            },
-            {
-              "name": "Bellevue Square",
-              "tip_5lang": {
-                "de": "Holen Sie sich einen heißen Crêpe an einem der nahen Stände.",
-                "hu": "Vásároljon egy forró palacsintát az egyik közeli árusnál.",
-                "ro": "Cumpărați o clătită fierbinte de la una dintre tarabele din apropiere.",
-                "en": "Get a hot crepe from one of the nearby stalls to warm up."
-              }
-            }
-          ],
-          "tips": {
-            "de": [
-              "Busse fahren im Winter etwas seltener, prüfen Sie den Fahrplan.",
-              "Die Verbindung zwischen Zentrum und Iraty ist sehr effizient.",
-              "Nutzen Sie die Wärme im Bus für kleine Aufwärmpausen.",
-              "Abends sind die Busse gut beleuchtet und sicher."
-            ],
-            "hu": [
-              "A buszok télen ritkábban járnak, ellenőrizze a menetrendet.",
-              "A központ és Iraty közötti összeköttetés nagyon hatékony.",
-              "Használja ki a busz melegét egy kis felmelegedésre.",
-              "Este a buszok jól kivilágítottak és biztonságosak."
-            ],
-            "ro": [
-              "Autobuzele circulă ceva mai rar iarna, verificați orarul.",
-              "Legătura între centru și Iraty este foarte eficientă.",
-              "Folosiți căldura din autobuz pentru mici pauze de încălzire.",
-              "Seara, autobuzele sunt bine luminate și sigure."
-            ],
-            "en": [
-              "Buses run slightly less frequently in winter; check the timetable.",
-              "The connection between the city center and Iraty is very efficient.",
-              "Use the warmth of the bus for short warm-up breaks.",
-              "In the evening, buses are well-lit and safe."
-            ]
-          }
-        }
       }
     }
   }

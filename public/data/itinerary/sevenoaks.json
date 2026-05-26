@@ -1,0 +1,1216 @@
+{
+  "city_id": "sevenoaks",
+  "anchor": {
+    "name": "Sevenoaks High Street",
+    "coords": [
+      0.187,
+      51.268
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "High Street & St. Nicholas Kirche",
+            "hu": "High Street és Szent Miklós-templom",
+            "ro": "High Street și Biserica Sf. Nicolae",
+            "en": "High Street & St Nicholas Church"
+          },
+          "coords": [
+            0.187,
+            51.268
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur und die bunten Schaufenster.",
+            "hu": "Csodáld meg a középkori építészetet és a színes kirakatokat.",
+            "ro": "Admirați arhitectura medievală și vitrinele colorate.",
+            "en": "Admire the medieval architecture and colorful shop windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Knole Park (vorderer Bereich)",
+            "hu": "Knole Park (elülső rész)",
+            "ro": "Knole Park (zona frontală)",
+            "en": "Knole Park (Front Area)"
+          },
+          "coords": [
+            0.195,
+            51.267
+          ],
+          "category": "park",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach den Damhirschen, die hier seit Jahrhunderten leben.",
+            "hu": "Figyeld a dámvadakat, amelyek évszázadok óta itt élnek.",
+            "ro": "Căutați căprioarele lopătar care trăiesc aici de secole.",
+            "en": "Look out for the fallow deer that have lived here for centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Knole House",
+            "hu": "Knole House",
+            "ro": "Knole House",
+            "en": "Knole House"
+          },
+          "coords": [
+            0.207,
+            51.266
+          ],
+          "category": "museum",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie den Showroom mit Porträts von Van Dyck.",
+            "hu": "Nézd meg a Van Dyck portrékkal teli bemutatótermet.",
+            "ro": "Vizitați showroom-ul plin de portrete de Van Dyck.",
+            "en": "Visit the showroom filled with Van Dyck portraits."
+          }
+        },
+        {
+          "name": {
+            "de": "Knole Brewhouse Café (Mittagessen)",
+            "hu": "Knole Brewhouse Café (Ebéd)",
+            "ro": "Knole Brewhouse Café (Prânz)",
+            "en": "Knole Brewhouse Café (Lunch)"
+          },
+          "coords": [
+            0.206,
+            51.267
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen Scones im historischen Ambiente.",
+            "hu": "Kóstold meg a helyi pogácsákat a történelmi környezetben.",
+            "ro": "Încercați scone-urile locale în ambianța istorică.",
+            "en": "Try the local scones in the historic setting."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Julians & Vine Cricket Ground",
+            "hu": "St. Julians & Vine krikettpálya",
+            "ro": "St. Julians & Vine Cricket Ground",
+            "en": "St Julians & Vine Cricket Ground"
+          },
+          "coords": [
+            0.192,
+            51.273
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einer der ältesten Cricketplätze Englands mit toller Atmosphäre.",
+            "hu": "Anglia egyik legrégebbi krikettpályája remek hangulattal.",
+            "ro": "Unul dintre cele mai vechi terenuri de cricket din Anglia.",
+            "en": "One of the oldest cricket grounds in England."
+          }
+        },
+        {
+          "name": {
+            "de": "Sevenoaks Wildlife Reserve",
+            "hu": "Sevenoaks Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Sevenoaks",
+            "en": "Sevenoaks Wildlife Reserve"
+          },
+          "coords": [
+            0.176,
+            51.288
+          ],
+          "category": "natural",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Idealer Ort zur Vogelbeobachtung an den Seen.",
+            "hu": "Ideális hely a madármegfigyeléshez a tavaknál.",
+            "ro": "Locul ideal pentru observarea păsărilor la lacuri.",
+            "en": "Ideal place for bird watching by the lakes."
+          }
+        },
+        {
+          "name": {
+            "de": "The Chequers Pub (Abschluss)",
+            "hu": "The Chequers Pub (Búcsú)",
+            "ro": "The Chequers Pub (Final)",
+            "en": "The Chequers Pub (Farewell)"
+          },
+          "coords": [
+            0.188,
+            51.269
+          ],
+          "category": "gastro",
+          "arrive_at": "17:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein traditioneller Pub für ein lokales Ale zum Abschluss.",
+            "hu": "Hagyományos pub egy helyi sörhöz a nap végén.",
+            "ro": "Un pub tradițional pentru o bere locală la final.",
+            "en": "A traditional pub for a local ale to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt in der charmanten High Street von Sevenoaks, wo historische Gebäude und die St. Nicholas Kirche den Ton angeben. Ein kurzer Spaziergang führt Sie direkt in den Knole Park, einen riesigen mittelalterlichen Wildpark, in dem Hirsche frei grasen. Die Weite der Landschaft bietet sofortige Ruhe.\n\nZur Mittagszeit erkunden Sie das prächtige Knole House, ein Herrenhaus von nationaler Bedeutung mit beeindruckenden Kunstsammlungen. Nach der Besichtigung der opulenten Räume stärken Sie sich im Brewhouse Café direkt auf dem Gelände mit traditionellen britischen Spezialitäten.\n\nAm Nachmittag spazieren Sie zurück durch die Stadt, vorbei am historischen Vine Cricket Ground, in Richtung des Sevenoaks Wildlife Reserve. Hier verwandeln sich ehemalige Kiesgruben in ein Paradies aus Seen und Schilf, perfekt für eine entspannte Wanderung inmitten der Natur.\n\nDer Abend klingt gemütlich in der Stadt aus. Ein Besuch in einem der traditionellen Pubs wie dem Chequers bietet die perfekte Gelegenheit, die Erlebnisse des Tages bei regionaler Küche und einem Glas Ale Revue passieren zu lassen.",
+        "hu": "Reggel a Sevenoaks bájos főutcáján kezdesz, ahol történelmi épületek és a Szent Miklós-templom adják meg az alaphangot. Rövid séta után a Knole Parkba érsz, ahol szabadon élő szarvasok legelnek a hatalmas középkori vadasparkban. A táj tágassága azonnali nyugalmat áraszt.\n\nEbédidőben a pompás Knole House-t fedezed fel, amely nemzeti jelentőségű udvarház lenyűgöző művészeti gyűjteménnyel. Az előkelő szobák megtekintése után a helyszínen található Brewhouse Caféban kóstolhatsz meg hagyományos brit specialitásokat.\n\nDélután visszasétálsz a városon keresztül, érintve a történelmi Vine krikettpályát, a Sevenoaks Természetvédelmi Terület felé. Itt az egykori kavicsbányák tavakká és nádasokká alakult paradicsomában pihenhetsz meg a természet lágy ölén.\n\nAz estét a városközpontban zárod. Egy látogatás a hagyományos pubok egyikében, mint például a Chequers, tökéletes alkalom arra, hogy a nap élményeit helyi ételek és egy pohár sör mellett idézd fel.",
+        "ro": "Dimineața începe pe fermecătoarea High Street din Sevenoaks, unde clădirile istorice și Biserica Sf. Nicolae dau tonul. O scurtă plimbare vă duce direct în Knole Park, un vast parc medieval unde căprioarele pasc libere. Vastitatea peisajului oferă o liniște imediată.\n\nLa prânz, explorați magnifica Knole House, o casă impunătoare de importanță națională cu colecții de artă impresionante. După vizitarea camerelor opulente, vă puteți reîncărca la Brewhouse Café chiar în incintă, cu specialități britanice tradiționale.\n\nDupă-amiaza, vă întoarceți prin oraș, trecând pe lângă terenul istoric de cricket Vine, spre Rezervația Naturală Sevenoaks. Aici, fostele cariere de pietriș s-au transformat într-un paradis de lacuri și stuf, perfect pentru o drumeție relaxată în mijlocul naturii.\n\nSeara se încheie confortabil în oraș. O vizită la unul dintre pub-urile tradiționale, cum ar fi Chequers, oferă ocazia perfectă de a trece în revistă experiențele zilei cu bucătărie regională și un pahar de ale.",
+        "en": "Your morning begins on Sevenoaks' charming High Street, where historic buildings and St Nicholas Church set the tone. A short walk leads directly into Knole Park, a vast medieval deer park where deer graze freely. The expanse of the landscape offers immediate tranquility.\n\nAt midday, explore the magnificent Knole House, a stately home of national importance with impressive art collections. After touring the opulent rooms, refuel at the Brewhouse Café right on site with traditional British specialities.\n\nIn the afternoon, stroll back through town, passing the historic Vine Cricket Ground, towards the Sevenoaks Wildlife Reserve. Here, former gravel pits have been transformed into a paradise of lakes and reeds, perfect for a relaxed hike amidst nature.\n\nThe evening winds down comfortably in town. A visit to one of the traditional pubs like the Chequers offers the perfect opportunity to review the day's experiences over regional cuisine and a glass of ale."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Knole Brewhouse Café",
+            "tip": "Traditioneller Afternoon Tea in einem historischen Brauhaus."
+          },
+          {
+            "name": "The Chequers",
+            "tip": "Ein klassischer Pub aus dem 16. Jahrhundert mit lokaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knole Brewhouse Café",
+            "tip": "Hagyományos délutáni tea egy történelmi sörfőzdében."
+          },
+          {
+            "name": "The Chequers",
+            "tip": "Klasszikus 16. századi pub helyi ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knole Brewhouse Café",
+            "tip": "Afternoon Tea tradițional într-o berărie istorică."
+          },
+          {
+            "name": "The Chequers",
+            "tip": "Un pub clasic din secolul al XVI-lea cu bucătărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Knole Brewhouse Café",
+            "tip": "Traditional afternoon tea in a historic brewhouse."
+          },
+          {
+            "name": "The Chequers",
+            "tip": "A classic 16th-century pub with local cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sevenoaks Wildlife Reserve",
+            "tip": "Ruhe am Seeufer bei der Vogelbeobachtung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Knole Park Hirschweiden",
+            "tip": "Entspannung in der Weite des mittelalterlichen Parks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sevenoaks Természetvédelmi Terület",
+            "tip": "Csend a tóparton a madármegfigyelés közben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Knole Park szarvaslegelői",
+            "tip": "Kikapcsolódás a hatalmas középkori parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Sevenoaks",
+            "tip": "Liniște pe malul lacului la observarea păsărilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pășunile cu cerbi din Knole Park",
+            "tip": "Relaxare în vastitatea parcului medieval.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sevenoaks Wildlife Reserve",
+            "tip": "Quiet by the lakeside while bird watching.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Knole Park Deer Pastures",
+            "tip": "Relaxation in the expanse of the medieval park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sevenoaks High Street",
+            "tip": "Unabhängige Boutiquen und charmante Buchläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sevenoaks High Street",
+            "tip": "Független butikok és bájos könyvesboltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sevenoaks High Street",
+            "tip": "Boutique-uri independente și librării fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sevenoaks High Street",
+            "tip": "Independent boutiques and charming bookstores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Knole Park.",
+          "Buchen Sie Knole House Tickets im Voraus.",
+          "Das Wildlife Reserve ist am besten bei Sonnenuntergang.",
+          "Nutzen Sie die Parkbänke im Knole Park für Pausen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a Knole Parkhoz.",
+          "Foglalj Knole House jegyeket előre.",
+          "A természetvédelmi terület naplementekor a legszebb.",
+          "Használd a padokat a Knole Parkban pihenésre."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru Knole Park.",
+          "Rezervați biletele pentru Knole House în avans.",
+          "Rezervația naturală este cea mai frumoasă la apus.",
+          "Folosiți băncile din Knole Park pentru pauze."
+        ],
+        "en": [
+          "Wear comfortable shoes for Knole Park.",
+          "Book Knole House tickets in advance.",
+          "The Wildlife Reserve is best at sunset.",
+          "Use the park benches in Knole Park for breaks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "High Street & Vine Ground",
+            "hu": "High Street és Vine Ground",
+            "ro": "High Street & Vine Ground",
+            "en": "High Street & Vine Ground"
+          },
+          "coords": [
+            0.192,
+            51.273
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie am historischen Cricketplatz.",
+            "hu": "Indulj a történelmi krikettpályától.",
+            "ro": "Începeți la terenul istoric de cricket.",
+            "en": "Start at the historic cricket ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Sevenoaks Wildlife Reserve Loop",
+            "hu": "Sevenoaks Természetvédelmi körút",
+            "ro": "Bucla Rezervației Sevenoaks",
+            "en": "Sevenoaks Wildlife Reserve Loop"
+          },
+          "coords": [
+            0.176,
+            51.288
+          ],
+          "category": "natural",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Uferwege der Seen.",
+            "hu": "Kerekezz a tavak menti ösvényeken.",
+            "ro": "Pedalați de-a lungul potecilor de la malul lacului.",
+            "en": "Cycle along the lakeside paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ightham Mote (Kirándulás)",
+            "hu": "Ightham Mote (Kirándulás)",
+            "ro": "Ightham Mote (Excursie)",
+            "en": "Ightham Mote (Excursion)"
+          },
+          "coords": [
+            0.269,
+            51.258
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein 700 Jahre altes Herrenhaus mit Wassergraben.",
+            "hu": "700 éves udvarház vizesárokkal.",
+            "ro": "O casă impunătoare de 700 de ani cu șanț cu apă.",
+            "en": "A 700-year-old moated manor house."
+          }
+        },
+        {
+          "name": {
+            "de": "Godden Green (Mittagessen)",
+            "hu": "Godden Green (Ebéd)",
+            "ro": "Godden Green (Prânz)",
+            "en": "Godden Green (Lunch)"
+          },
+          "coords": [
+            0.224,
+            51.272
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem idyllischen Dorfpub.",
+            "hu": "Egyél egy idilli falusi pubban.",
+            "ro": "Reîncărcați-vă într-un pub idilic de sat.",
+            "en": "Refuel in an idyllic village pub."
+          }
+        },
+        {
+          "name": {
+            "de": "Knole Park Bike Trail",
+            "hu": "Knole Park kerékpárút",
+            "ro": "Traseul de biciclete Knole Park",
+            "en": "Knole Park Bike Trail"
+          },
+          "coords": [
+            0.207,
+            51.266
+          ],
+          "category": "park",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch den Wildpark.",
+            "hu": "Élvezd az utazást a vadasparkon keresztül.",
+            "ro": "Bucurați-vă de plimbarea prin parcul de cerbi.",
+            "en": "Enjoy the ride through the deer park."
+          }
+        },
+        {
+          "name": {
+            "de": "Sevenoaks Museum",
+            "hu": "Sevenoaks Múzeum",
+            "ro": "Muzeul Sevenoaks",
+            "en": "Sevenoaks Museum"
+          },
+          "coords": [
+            0.188,
+            51.269
+          ],
+          "category": "museum",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurze Dosis lokale Geschichte.",
+            "hu": "Rövid betekintés a helyi történelembe.",
+            "ro": "O doză scurtă de istorie locală.",
+            "en": "Short dose of local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Town Center Café (Abschluss)",
+            "hu": "Városközpont Café (Búcsú)",
+            "ro": "Town Center Café (Final)",
+            "en": "Town Center Café (Farewell)"
+          },
+          "coords": [
+            0.187,
+            51.268
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kühles Getränk nach der Radtour.",
+            "hu": "Egy hűsítő ital a biciklitúra után.",
+            "ro": "O băutură răcoritoare după tura cu bicicleta.",
+            "en": "A cool drink after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Vine Cricket Ground, von wo aus Sie direkt zum Wildlife Reserve radeln. Die flachen Wege um die Seen sind perfekt zum Einrollen und bieten tolle Naturerlebnisse.\n\nDas Highlight zur Mittagszeit ist die Fahrt nach Ightham Mote, einem versteckten Juwel von Kent. Das mittelalterliche Herrenhaus mit seinem Wassergraben wirkt wie aus einer anderen Zeit. Nach der Besichtigung radeln Sie zurück zum Godden Green für ein herzhaftes Mittagessen.\n\nDer Nachmittag führt Sie durch das weitläufige Gelände des Knole Parks. Das Radfahren zwischen den grasenden Hirschen ist ein besonderes Erlebnis. Ein kurzer Stopp im Stadtmuseum gibt Ihnen den historischen Kontext der Region.\n\nAm Ende des Tages entspannen Sie in einem der gemütlichen Cafés im Zentrum, während Sie Ihr Fahrrad sicher abstellen und die Route Revue passieren lassen.",
+        "hu": "Biciklitúrád a Vine krikettpályánál indul, ahonnan egyenesen a természetvédelmi területre kerekezel. A tavak körüli sík utak tökéletesek a bemelegítéshez és a természet megfigyeléséhez.\n\nAz ebédidő fénypontja az Ightham Mote-hoz való tekerés, ami Kent rejtett kincse. A vizesárokkal körülvett középkori udvarház olyan, mintha megállt volna az idő. A látogatás után Godden Green felé veszed az irányt egy kiadós ebédre.\n\nDélután a Knole Park hatalmas területein tekersz keresztül. A legelésző szarvasok közötti biciklizés különleges élmény. Egy rövid megálló a városi múzeumban segít megérteni a környék történelmi hátterét.\n\nA nap végén a központ egyik hangulatos kávézójában pihenhetsz meg, miközben biztonságba helyezed a kerékpárt és átgondolod a megtett útvonalat.",
+        "ro": "Tura cu bicicleta începe la terenul de cricket Vine, de unde pedalați direct spre rezervația naturală. Potecile plate din jurul lacurilor sunt perfecte pentru încălzire și oferă experiențe naturale minunate.\n\nPunctul culminant la prânz este drumul către Ightham Mote, o bijuterie ascunsă din Kent. Conacul medieval cu șanțul său cu apă pare desprins din alt timp. După vizită, pedalați înapoi spre Godden Green pentru un prânz copios.\n\nDupă-amiaza vă poartă prin incinta vastă a Knole Park. Mersul cu bicicleta printre cerbii care pasc este o experiență deosebită. O scurtă oprire la muzeul orașului vă oferă contextul istoric al regiunii.\n\nLa sfârșitul zilei, relaxați-vă la una dintre cafenelele primitoare din centru, în timp ce vă parcați bicicleta în siguranță și treceți în revistă traseul.",
+        "en": "Your bike tour starts at the Vine Cricket Ground, from where you cycle directly to the Wildlife Reserve. The flat paths around the lakes are perfect for warming up and offer great nature experiences.\n\nThe highlight at midday is the ride to Ightham Mote, a hidden gem of Kent. The medieval moated manor house seems to come from another time. After the visit, cycle back to Godden Green for a hearty lunch.\n\nThe afternoon takes you through the vast grounds of Knole Park. Cycling among the grazing deer is a special experience. A short stop at the town museum gives you the historical context of the region.\n\nAt the end of the day, relax in one of the cozy cafes in the center while you park your bike safely and review the route."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Buck's Head, Godden Green",
+            "tip": "Traditioneller Pub auf der Radroute."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Buck's Head, Godden Green",
+            "tip": "Hagyományos pub a kerékpáros útvonalon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Buck's Head, Godden Green",
+            "tip": "Pub tradițional pe ruta de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Buck's Head, Godden Green",
+            "tip": "Traditional pub on the cycling route."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wildlife Reserve Lakes",
+            "tip": "Ruhiges Radeln am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wildlife Reserve tavak",
+            "tip": "Csendes kerekezés a víz mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația naturală - Lacuri",
+            "tip": "Ciclism liniștit pe malul apei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wildlife Reserve Lakes",
+            "tip": "Quiet cycling by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Knole Gift Shop",
+            "tip": "Lokales Kunsthandwerk und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knole Gift Shop",
+            "tip": "Helyi kézműves termékek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knole Gift Shop",
+            "tip": "Artizanat local și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Knole Gift Shop",
+            "tip": "Local crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Ightham Mote Fahrt.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Respektieren Sie die Hirsche im Knole Park.",
+          "Ein Fahrradschloss ist in der Stadt unerlässlich."
+        ],
+        "hu": [
+          "Ellenőrizd a guminyomást az Ightham Mote út előtt.",
+          "Vigyél magaddal elég vizet.",
+          "Tiszteld a szarvasokat a Knole Parkban.",
+          "A kerékpárzár elengedhetetlen a városban."
+        ],
+        "ro": [
+          "Verificați presiunea în pneuri înainte de drumul către Ightham Mote.",
+          "Luați suficientă apă cu voi.",
+          "Respectați cerbii din Knole Park.",
+          "Un lacăt pentru bicicletă este esențial în oraș."
+        ],
+        "en": [
+          "Check tire pressure before the Ightham Mote ride.",
+          "Carry plenty of water.",
+          "Respect the deer in Knole Park.",
+          "A bike lock is essential in the town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 35.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "High Street Cluster",
+            "hu": "High Street klaszter",
+            "ro": "Clusterul High Street",
+            "en": "High Street Cluster"
+          },
+          "coords": [
+            0.187,
+            51.268
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum für den ersten Cluster.",
+            "hu": "Parkolj a központban az első részhez.",
+            "ro": "Parcați în centrul orașului pentru primul cluster.",
+            "en": "Park in the city center for the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nicholas Church",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St Nicholas Church"
+          },
+          "coords": [
+            0.188,
+            51.267
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine kurze Gehminute vom Parkplatz.",
+            "hu": "Pár perc séta a parkolótól.",
+            "ro": "La câteva minute de mers pe jos de parcare.",
+            "en": "A few minutes' walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Knole House (Cluster 2)",
+            "hu": "Knole House (2. klaszter)",
+            "ro": "Knole House (Cluster 2)",
+            "en": "Knole House (Cluster 2)"
+          },
+          "coords": [
+            0.207,
+            51.266
+          ],
+          "category": "museum",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Direkter Parkplatz am Haus verfügbar.",
+            "hu": "Közvetlen parkoló a háznál.",
+            "ro": "Parcare directă disponibilă la casă.",
+            "en": "Direct parking available at the house."
+          }
+        },
+        {
+          "name": {
+            "de": "Knole Park Walk",
+            "hu": "Knole Park séta",
+            "ro": "Plimbare în Knole Park",
+            "en": "Knole Park Walk"
+          },
+          "coords": [
+            0.205,
+            51.268
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Park zu Fuß vom Haus aus.",
+            "hu": "Fedezd fel a parkot gyalog a háztól.",
+            "ro": "Explorați parcul pe jos de la casă.",
+            "en": "Explore the park on foot from the house."
+          }
+        },
+        {
+          "name": {
+            "de": "Heaver Castle (Kirándulás)",
+            "hu": "Hever-kastély (Kirándulás)",
+            "ro": "Castelul Hever (Excursie)",
+            "en": "Hever Castle (Excursion)"
+          },
+          "coords": [
+            0.113,
+            51.186
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das Elternhaus von Anne Boleyn.",
+            "hu": "Boleyn Anna gyermekkori otthona.",
+            "ro": "Casa copilăriei Annei Boleyn.",
+            "en": "Childhood home of Anne Boleyn."
+          }
+        },
+        {
+          "name": {
+            "de": "Sevenoaks Wildlife Reserve (Cluster 3)",
+            "hu": "Sevenoaks Természetvédelmi klaszter",
+            "ro": "Rezervația Sevenoaks (Cluster 3)",
+            "en": "Sevenoaks Wildlife Reserve (Cluster 3)"
+          },
+          "coords": [
+            0.176,
+            51.288
+          ],
+          "category": "natural",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eigener Parkplatz vor Ort.",
+            "hu": "Helyszíni parkoló biztosított.",
+            "ro": "Parcare proprie disponibilă la fața locului.",
+            "en": "Own parking available on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Lakeside Viewpoint",
+            "hu": "Tóparti kilátó",
+            "ro": "Punct de vedere pe malul lacului",
+            "en": "Lakeside Viewpoint"
+          },
+          "coords": [
+            0.178,
+            51.29
+          ],
+          "category": "landmark",
+          "arrive_at": "17:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Reserve-Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro-Abschluss (Town Center)",
+            "hu": "Gasztro-zárás (Városközpont)",
+            "ro": "Final gastronomic (Centru)",
+            "en": "Gastro Finale (Town Center)"
+          },
+          "coords": [
+            0.188,
+            51.269
+          ],
+          "category": "gastro",
+          "arrive_at": "18:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie erneut im Zentrum für das Abendessen.",
+            "hu": "Parkolj újra a központban vacsorához.",
+            "ro": "Parcați din nou în centru pentru cină.",
+            "en": "Park again in the center for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit dem Auto im Stadtzentrum, wo Sie die historische Architektur und die St. Nicholas Kirche erkunden. Das Auto dient als Basis für den ersten Cluster von Sehenswürdigkeiten.\n\nDas Highlight am Mittag ist die Fahrt zum Knole House. Durch den eigenen Parkplatz direkt am Herrenhaus sparen Sie Zeit und können die prachtvollen Ausstellungen und den angrenzenden Park in Ruhe genießen.\n\nEin lohnenswerter Abstecher am frühen Nachmittag führt Sie zum Hever Castle, dem Geburtsort von Anne Boleyn. Die Fahrt durch die grüne Landschaft von Kent ist Teil des Erlebnisses, bevor Sie die Wassergräben und Gärten erkunden.\n\nZum Abschluss des Tages fahren Sie zurück nach Sevenoaks zum Wildlife Reserve. Hier genießen Sie den Sonnenuntergang an den Seen, bevor Sie für ein stilvolles Abendessen zurück ins Stadtzentrum kehren.",
+        "hu": "A nap autóval indul a városközpontban, ahol felfedezed a történelmi építészetet és a Szent Miklós-templomot. Az autó bázisként szolgál a látnivalók első csoportjához.\n\nAz ebédidő fénypontja a Knole House-hoz való hajtás. A kastélynál található saját parkolóval időt takaríthatsz meg, így nyugodtan élvezheted a pompás kiállításokat és a szomszédos parkot.\n\nEgy kora délutáni kitérő a Hever-kastélyhoz vezet, Boleyn Anna szülőhelyéhez. A Kent zöld tájain átvezető út az élmény része, mielőtt felfedeznéd a vizesárkokat és a kerteket.\n\nA nap végén visszahajtasz Sevenoaks-ba, a természetvédelmi területre. Itt élvezheted a naplementét a tavaknál, mielőtt visszatérnél a városközpontba egy stílusos vacsorára.",
+        "ro": "Ziua începe cu mașina în centrul orașului, unde explorați arhitectura istorică și Biserica Sf. Nicolae. Mașina servește ca bază pentru primul cluster de atracții.\n\nPunctul culminant la prânz este drumul către Knole House. Datorită parcării proprii direct la conac, economisiți timp și vă puteți bucura în liniște de expozițiile magnifice și de parcul adiacent.\n\nO excursie la începutul după-amiezii vă duce la Castelul Hever, locul de naștere al Annei Boleyn. Drumul prin peisajul verde din Kent face parte din experiență, înainte de a explora șanțurile cu apă și grădinile.\n\nLa sfârșitul zilei, vă întoarceți la Sevenoaks, la rezervația naturală. Aici vă bucurați de apusul soarelui la lacuri, înainte de a vă întoarce în centrul orașului pentru o cină elegantă.",
+        "en": "The day starts by car in the city center, where you explore the historic architecture and St Nicholas Church. The car serves as a base for the first cluster of sights.\n\nThe highlight at midday is the drive to Knole House. With its own parking directly at the manor house, you save time and can enjoy the magnificent exhibitions and the adjacent park in peace.\n\nA worthwhile excursion in the early afternoon takes you to Hever Castle, the birthplace of Anne Boleyn. The drive through the green Kent countryside is part of the experience before you explore the moats and gardens.\n\nTo end the day, drive back to Sevenoaks to the Wildlife Reserve. Here you enjoy the sunset by the lakes before returning to the city center for a stylish dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hever Castle Tea Room",
+            "tip": "Mittagessen in historischer Schlossumgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hever Castle Tea Room",
+            "tip": "Ebéd a történelmi kastély környezetében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hever Castle Tea Room",
+            "tip": "Prânz în cadrul istoric al castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hever Castle Tea Room",
+            "tip": "Lunch in a historic castle setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lakeside at Sevenoaks Reserve",
+            "tip": "Sonnenuntergang am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sevenoaks Reserve tópart",
+            "tip": "Naplemente a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului la Rezervația Sevenoaks",
+            "tip": "Apus de soare pe apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside at Sevenoaks Reserve",
+            "tip": "Sunset by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Knole Courtyard Shops",
+            "tip": "Exklusive Geschenkartikel und Bücher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knole Courtyard Shops",
+            "tip": "Exkluzív ajándéktárgyak és könyvek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knole Courtyard Shops",
+            "tip": "Cadouri exclusive și cărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Knole Courtyard Shops",
+            "tip": "Exclusive gifts and books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten von Hever Castle.",
+          "Parken Sie im Zentrum in der Nähe der Post.",
+          "Die Fahrt nach Hever dauert etwa 20-30 Minuten.",
+          "Nutzen Sie die National Trust Mitgliedschaft für Knole."
+        ],
+        "hu": [
+          "Ellenőrizd a Hever-kastély nyitvatartását.",
+          "Parkolj a központban a posta közelében.",
+          "Az út Heverbe kb. 20-30 percet vesz igénybe.",
+          "Használd a National Trust tagságodat Knole-nál."
+        ],
+        "ro": [
+          "Verificați programul Castelului Hever.",
+          "Parcați în centru lângă poștă.",
+          "Drumul către Hever durează aproximativ 20-30 de minute.",
+          "Folosiți calitatea de membru National Trust pentru Knole."
+        ],
+        "en": [
+          "Check Hever Castle's opening hours.",
+          "Park in the center near the post office.",
+          "The drive to Hever takes about 20-30 minutes.",
+          "Use National Trust membership for Knole."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sevenoaks Station Cluster",
+            "hu": "Sevenoaks állomás klaszter",
+            "ro": "Clusterul Gării Sevenoaks",
+            "en": "Sevenoaks Station Cluster"
+          },
+          "coords": [
+            0.18,
+            51.276
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ankunft mit dem Zug aus London.",
+            "hu": "Érkezés vonattal Londonból.",
+            "ro": "Sosire cu trenul din Londra.",
+            "en": "Arrival by train from London."
+          }
+        },
+        {
+          "name": {
+            "de": "Sevenoaks Wildlife Reserve",
+            "hu": "Sevenoaks Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Sevenoaks",
+            "en": "Sevenoaks Wildlife Reserve"
+          },
+          "coords": [
+            0.176,
+            51.288
+          ],
+          "category": "natural",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Fußweg vom Bahnhof entfernt.",
+            "hu": "Csak egy rövid séta az állomástól.",
+            "ro": "La doar o scurtă plimbare de gară.",
+            "en": "Just a short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "High Street (District B)",
+            "hu": "High Street (B negyed)",
+            "ro": "High Street (District B)",
+            "en": "High Street (District B)"
+          },
+          "coords": [
+            0.187,
+            51.268
+          ],
+          "category": "gastro",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie zum Stadtzentrum nutzen.",
+            "hu": "Használd a buszjáratot a központba.",
+            "ro": "Folosiți linia de autobuz către centru.",
+            "en": "Use the bus line to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Knole House Entrance",
+            "hu": "Knole House bejárat",
+            "ro": "Intrarea Knole House",
+            "en": "Knole House Entrance"
+          },
+          "coords": [
+            0.207,
+            51.266
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang vom Stadtzentrum durch den Park.",
+            "hu": "Séta a központból a parkon keresztül.",
+            "ro": "Plimbare din centrul orașului prin parc.",
+            "en": "Walk from the city center through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Bat & Ball Station Area (District C)",
+            "hu": "Bat & Ball állomás környéke",
+            "ro": "Zona Gării Bat & Ball",
+            "en": "Bat & Ball Station Area"
+          },
+          "coords": [
+            0.188,
+            51.288
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein anderer Teil der Stadt mit Industriegeschichte.",
+            "hu": "A város egy másik része ipari múlttal.",
+            "ro": "O altă parte a orașului cu istorie industrială.",
+            "en": "Another part of town with industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Station Farewell Café",
+            "hu": "Állomási búcsú kávézó",
+            "ro": "Cafeneaua de final de la gară",
+            "en": "Station Farewell Café"
+          },
+          "coords": [
+            0.18,
+            51.276
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Letzter Kaffee vor der Rückreise nach London.",
+            "hu": "Utolsó kávé a londoni visszautazás előtt.",
+            "ro": "Ultima cafea înainte de întoarcerea la Londra.",
+            "en": "Last coffee before returning to London."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt am Bahnhof Sevenoaks, einem wichtigen Knotenpunkt für Reisende aus London. Der erste Cluster liegt in unmittelbarer Nähe: das Wildlife Reserve, das Sie nach einem kurzen Fußweg erreichen.\n\nZur Mittagszeit bringt Sie der lokale Bus ins Stadtzentrum (District B). Hier genießen Sie das lebendige Flair der High Street und ein entspanntes Mittagessen, bevor Sie den Spaziergang zum Knole House antreten.\n\nNach der Erkundung des historischen Herrenhauses und des Parks nutzen Sie den Nahverkehr, um den nördlichen Teil der Stadt (District C) rund um den Bahnhof Bat & Ball zu erkunden. Dies bietet einen anderen Blick auf die Entwicklung von Sevenoaks.\n\nDer Tag endet wieder am Hauptbahnhof. In einem der Cafés in der Nähe können Sie sich entspannen, während Sie auf Ihren Zug warten und die Eindrücke des Tages auf sich wirken lassen.",
+        "hu": "Utazásod a Sevenoaks vasútállomáson indul, amely fontos csomópont a Londonból érkezőknek. Az első látnivalócsoport a közelben van: a természetvédelmi terület, amit rövid sétával érsz el.\n\nEbédidőben a helyi busz visz be a városközpontba (B negyed). Itt élvezheted a High Street nyüzsgését és egy nyugodt ebédet, mielőtt elindulnál a Knole House felé.\n\nA történelmi udvarház és a park felfedezése után a tömegközlekedést használva a város északi részét (C negyed) ismerheted meg a Bat & Ball állomás környékén. Ez egy másik arcát mutatja meg Sevenoaks fejlődésének.\n\nA nap ismét a főpályaudvaron ér véget. A közeli kávézók egyikében pihenhetsz meg a vonat indulásáig, feldolgozva a nap élményeit.",
+        "ro": "Călătoria începe la gara Sevenoaks, un nod important pentru călătorii din Londra. Primul cluster se află în imediata apropiere: rezervația naturală, la care ajungeți după o scurtă plimbare.\n\nLa prânz, autobuzul local vă duce în centrul orașului (District B). Aici vă bucurați de atmosfera vibrantă de pe High Street și de un prânz relaxat, înainte de a porni spre Knole House.\n\nDupă explorarea conacului istoric și a parcului, folosiți transportul public pentru a explora partea de nord a orașului (District C) din jurul gării Bat & Ball. Aceasta oferă o altă perspectivă asupra dezvoltării orașului Sevenoaks.\n\nZiua se încheie din nou la gara principală. Într-una dintre cafenelele din apropiere vă puteți relaxa în timp ce așteptați trenul, reflectând asupra impresiilor zilei.",
+        "en": "Your journey starts at Sevenoaks Station, a major hub for travelers from London. The first cluster is in the immediate vicinity: the Wildlife Reserve, which you reach after a short walk.\n\nAt midday, the local bus takes you to the city center (District B). Here you enjoy the lively flair of High Street and a relaxed lunch before starting the walk to Knole House.\n\nAfter exploring the historic manor house and the park, use public transport to explore the northern part of the town (District C) around Bat & Ball station. This offers a different view of Sevenoaks' development.\n\nThe day ends back at the main station. In one of the cafes nearby, you can relax while waiting for your train and let the impressions of the day sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Station Cafe",
+            "tip": "Perfekt für ein schnelles Frühstück oder einen Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Station Cafe",
+            "tip": "Tökéletes egy gyors reggelihez vagy kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Station Cafe",
+            "tip": "Perfect pentru un mic dejun rapid sau o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Cafe",
+            "tip": "Perfect for a quick breakfast or coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Reserve Lakeside Reeds",
+            "tip": "Ruhepause zwischen den Busfahrten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reserve nádas a tóparton",
+            "tip": "Pihenő a buszutak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația - Stufărișul de pe mal",
+            "tip": "Pauză de liniște între călătoriile cu autobuzul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reserve Lakeside Reeds",
+            "tip": "Quiet break between bus rides.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "High Street News & Goods",
+            "tip": "Lokale Produkte für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "High Street News & Goods",
+            "tip": "Helyi termékek útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "High Street News & Goods",
+            "tip": "Produse locale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "High Street News & Goods",
+            "tip": "Local products for the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Sevenoaks Bus' App.",
+          "Ein Tagesticket lohnt sich bei mehreren Fahrten.",
+          "Züge nach London verkehren regelmäßig.",
+          "Achten Sie auf die Anschlusszeiten am Bat & Ball."
+        ],
+        "hu": [
+          "Használd a 'Sevenoaks Bus' appot.",
+          "A napijegy megéri több utazás esetén.",
+          "A londoni vonatok rendszeresen járnak.",
+          "Figyelj a csatlakozásokra Bat & Ball-nál."
+        ],
+        "ro": [
+          "Folosiți aplicația 'Sevenoaks Bus'.",
+          "Un bilet de o zi merită la mai multe călătorii.",
+          "Trenurile spre Londra circulă regulat.",
+          "Atenție la orele de legătură la Bat & Ball."
+        ],
+        "en": [
+          "Use the 'Sevenoaks Bus' app.",
+          "A day ticket is worth it for multiple trips.",
+          "Trains to London run regularly.",
+          "Watch for connection times at Bat & Ball."
+        ]
+      }
+    }
+  }
+}

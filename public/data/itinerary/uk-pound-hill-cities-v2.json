@@ -1,0 +1,218 @@
+{
+  "city_id": "uk-pound-hill-cities-v2",
+  "anchor": {
+    "name": "Pound Hill",
+    "coords": [
+      -0.1486,
+      51.122
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Worth Park Gardens",
+          "coords": [
+            -0.1465,
+            51.1255
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das restaurierte viktorianische Parterre.",
+            "hu": "Nézd meg a felújított viktoriánus kertet.",
+            "ro": "Vizitați parterul victorian restaurat.",
+            "en": "Visit the restored Victorian parterre."
+          }
+        },
+        {
+          "name": "Milton Mount Lake",
+          "coords": [
+            -0.1475,
+            51.1245
+          ],
+          "category": "natural",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal zum Beobachten von Enten.",
+            "hu": "Ideális kacsák megfigyeléséhez.",
+            "ro": "Ideal pentru observarea rațelor.",
+            "en": "Ideal for watching ducks."
+          }
+        },
+        {
+          "name": "Worth Parish Church",
+          "coords": [
+            -0.1415,
+            51.1145
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine der ältesten sächsischen Kirchen.",
+            "hu": "Az egyik legrégebbi szász templom.",
+            "ro": "Una dintre cele mai vechi biserici saxone.",
+            "en": "One of the oldest Saxon churches."
+          }
+        },
+        {
+          "name": "Pound Hill Parade",
+          "coords": [
+            -0.155,
+            51.1225
+          ],
+          "category": "civic",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Lokales Einkaufszentrum für den täglichen Bedarf.",
+            "hu": "Helyi bevásárlóközpont a napi szükségletekhez.",
+            "ro": "Centru comercial local pentru nevoi zilnice.",
+            "en": "Local shopping parade for daily needs."
+          }
+        },
+        {
+          "name": "Grattons Park",
+          "coords": [
+            -0.165,
+            51.1285
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schöner Waldweg für Naturliebhaber.",
+            "hu": "Szép erdei út a természetkedvelőknek.",
+            "ro": "Traseu frumos prin pădure pentru iubitorii de natură.",
+            "en": "Lovely woodland path for nature lovers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die prachtvollen Worth Park Gardens und den Milton Mount Lake. Ein historischer Höhepunkt ist der Besuch der sächsischen Worth Parish Church. Danach bummeln Sie über die Pound Hill Parade und genießen zum Abschluss die Ruhe im Grattons Park.",
+        "hu": "Fedezze fel a pompás Worth Park kerteket és a Milton Mount tavat. Történelmi csúcspont a szász Worth Parish templom meglátogatása. Ezután sétáljon végig a Pound Hill Parade-en, majd a napot a Grattons Park nyugalmában fejezze be.",
+        "ro": "Explorați grădinile superbe din Worth Park și lacul Milton Mount. Un punct culminant istoric este vizitarea bisericii saxone Worth Parish. Apoi plimbați-vă prin Pound Hill Parade și încheiați ziua în liniștea din parcul Grattons.",
+        "en": "Explore the magnificent Worth Park Gardens and Milton Mount Lake. A historical highlight is visiting the Saxon Worth Parish Church. Afterwards, stroll through Pound Hill Parade and finish the day enjoying the peace in Grattons Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The White Knight",
+            "tip": "Gemütlicher Pub in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The White Knight",
+            "tip": "Hangulatos pub a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The White Knight",
+            "tip": "Pub primitor în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "The White Knight",
+            "tip": "Cozy pub nearby."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Worth Park",
+            "tip": "Friedliche Atmosphäre am See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Worth Park",
+            "tip": "Békés hangulat a tónál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Worth Park",
+            "tip": "Atmosferă liniștită lângă lac.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Worth Park",
+            "tip": "Peaceful atmosphere by the lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pound Hill Parade",
+            "tip": "Kleine lokale Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pound Hill Parade",
+            "tip": "Kisebb helyi üzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pound Hill Parade",
+            "tip": "Mici magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pound Hill Parade",
+            "tip": "Small local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Worth Church ist oft nur für Gottesdienste offen.",
+          "Die Gärten sind im Frühling am schönsten."
+        ],
+        "hu": [
+          "A Worth templom gyakran csak szertartások idején van nyitva.",
+          "A kertek tavasszal a legszebbek."
+        ],
+        "ro": [
+          "Biserica Worth este adesea deschisă doar pentru slujbe.",
+          "Grădinile sunt cele mai frumoase primăvara."
+        ],
+        "en": [
+          "Worth Church is often open only for services.",
+          "The gardens are most beautiful in spring."
+        ]
+      }
+    }
+  }
+}

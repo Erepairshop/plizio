@@ -1,0 +1,982 @@
+{
+  "city_id": "uk-maryport-cities-v2",
+  "anchor": {
+    "name": "Maryport",
+    "coords": [
+      54.713,
+      -3.493
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Senhouse Roman Museum",
+            "hu": "Senhouse Római Múzeum",
+            "ro": "Muzeul Roman Senhouse",
+            "en": "Senhouse Roman Museum"
+          },
+          "coords": [
+            54.717,
+            -3.495
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beste Sammlung römischer Altäre.",
+            "hu": "A legjobb római oltárgyűjtemény.",
+            "ro": "Cea mai bună colecție de altare romane.",
+            "en": "Best collection of Roman military altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Maryport Maritime Museum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Maryport",
+            "en": "Maryport Maritime Museum"
+          },
+          "coords": [
+            54.714,
+            -3.496
+          ],
+          "category": "museum",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den Schiffbau.",
+            "hu": "Ismerje meg a hajóépítés múltját.",
+            "ro": "Aflați despre istoria construcției navale.",
+            "en": "Learn about the town's shipbuilding history."
+          }
+        },
+        {
+          "name": {
+            "de": "Elizabeth Dock",
+            "hu": "Elizabeth Dock",
+            "ro": "Docul Elizabeth",
+            "en": "Elizabeth Dock"
+          },
+          "coords": [
+            54.712,
+            -3.498
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Historisches Herz des Hafens.",
+            "hu": "A kikötő történelmi szíve.",
+            "ro": "Inima istorică a portului.",
+            "en": "The historic heart of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake District Coast Aquarium",
+            "hu": "Coast Aquarium",
+            "ro": "Acvariul Coastei",
+            "en": "Lake District Coast Aquarium"
+          },
+          "coords": [
+            54.711,
+            -3.499
+          ],
+          "category": "cultural",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für die ganze Familie.",
+            "hu": "Ideális az egész családnak.",
+            "ro": "Ideal pentru întreaga familie.",
+            "en": "Perfect fun for the whole family."
+          }
+        },
+        {
+          "name": {
+            "de": "Maryport Lighthouse",
+            "hu": "Világítótorony",
+            "ro": "Farul Maryport",
+            "en": "Maryport Lighthouse"
+          },
+          "coords": [
+            54.71,
+            -3.502
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein klassisches maritimes Fotomotiv.",
+            "hu": "Klasszikus tengerparti fotótéma.",
+            "ro": "Un subiect clasic pentru fotografii maritime.",
+            "en": "A classic maritime photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Maryport Promenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada Maryport",
+            "en": "Maryport Promenade"
+          },
+          "coords": [
+            54.705,
+            -3.5
+          ],
+          "category": "natural",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf Schottland.",
+            "hu": "Élvezze a kilátást Skócia felé.",
+            "ro": "Admirați priveliștea spre Scoția.",
+            "en": "Enjoy the stunning views towards Scotland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Maryport verbindet 2000 Jahre Geschichte. Beginnen Sie oben auf der Klippe im römischen Museum mit Blick auf die See. Der Weg führt Sie hinunter zum historischen Hafen und dem modernen Aquarium. Beenden Sie den Tag mit einem ausgiebigen Spaziergang auf der Promenade, wo die frische Brise des Solway Firth weht.",
+        "hu": "Maryport 2000 év történelmét ötvözi. Kezdje a sziklatetőn, a római múzeumban, kilátással a tengerre. Az út levezet a történelmi kikötőhöz és a modern akváriumhoz. Zárja a napot egy nagy sétával a tengerparti sétányon, ahol a Solway Firth friss szellője fúj.",
+        "ro": "Maryport îmbină 2000 de ani de istorie. Începeți pe faleză, la muzeul roman, cu vedere spre mare. Drumul vă coboară spre portul istoric și acvariul modern. Încheiați ziua cu o plimbare lungă pe promenadă, simțind briza proaspătă a estuarului Solway.",
+        "en": "Maryport blends 2000 years of history. Start on the cliff-top at the Roman museum overlooking the sea. The path takes you down to the historic harbor and the modern aquarium. End your day with an extensive stroll along the promenade, feeling the fresh breeze of the Solway Firth."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Maryport Trawler",
+            "tip": "Frischer Fisch direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Maryport Trawler",
+            "tip": "Friss hal közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Maryport Trawler",
+            "tip": "Pește proaspăt chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Maryport Trawler",
+            "tip": "Freshly caught fish right by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "The Ghyll Woodland",
+            "tip": "Ein friedlicher Waldweg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Ghyll erdő",
+            "tip": "Békés erdei ösvény.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea The Ghyll",
+            "tip": "O potecă liniștită prin pădure.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Ghyll Woodland",
+            "tip": "A peaceful woodland walk nearby.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Senhouse Street Shops",
+            "tip": "Kleine Läden und Antiquitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Senhouse utcai boltok",
+            "tip": "Kis üzletek és antikvitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe strada Senhouse",
+            "tip": "Mici magazine și antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Senhouse Street Shops",
+            "tip": "Local boutiques and antiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Winddichte Jacke ist an der Küste Pflicht.",
+          "Das Aquarium ist auch bei Regen ein tolles Ziel."
+        ],
+        "hu": [
+          "A szélálló kabát kötelező a parton.",
+          "Az akvárium esőben is remek program."
+        ],
+        "ro": [
+          "O jachetă rezistentă la vânt este obligatorie.",
+          "Acvariul este o destinație excelentă și pe ploaie."
+        ],
+        "en": [
+          "A windproof jacket is a must on the coast.",
+          "The aquarium is a great wet-weather alternative."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 14.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maryport Station",
+            "hu": "Vasútállomás",
+            "ro": "Gara Maryport",
+            "en": "Maryport Station"
+          },
+          "coords": [
+            54.712,
+            -3.488
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahrradmitnahme im Zug möglich.",
+            "hu": "Kerékpárszállítás lehetséges a vonaton.",
+            "ro": "Bicicletele sunt permise în tren.",
+            "en": "Bikes allowed on the Cumbrian Coast Line."
+          }
+        },
+        {
+          "name": {
+            "de": "Maryport Marina",
+            "hu": "Jachtkikötő",
+            "ro": "Marina Maryport",
+            "en": "Maryport Marina"
+          },
+          "coords": [
+            54.713,
+            -3.499
+          ],
+          "category": "port",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Flache Wege rund um das Becken.",
+            "hu": "Sík utak a kikötőmedence körül.",
+            "ro": "Drumuri plane în jurul marinei.",
+            "en": "Flat paths around the harbor basin."
+          }
+        },
+        {
+          "name": {
+            "de": "Elizabeth Dock",
+            "hu": "Elizabeth Dock",
+            "ro": "Docul Elizabeth",
+            "en": "Elizabeth Dock"
+          },
+          "coords": [
+            54.712,
+            -3.498
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Industrieruinen.",
+            "hu": "Fedezze fel az ipari romokat.",
+            "ro": "Explorați ruinele industriale.",
+            "en": "Explore the industrial remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Maryport Lighthouse",
+            "hu": "Világítótorony",
+            "ro": "Farul Maryport",
+            "en": "Maryport Lighthouse"
+          },
+          "coords": [
+            54.71,
+            -3.502
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Windiger Aussichtspunkt.",
+            "hu": "Szeles kilátópont.",
+            "ro": "Punct de belvedere vântos.",
+            "en": "A breezy viewpoint by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Coastal Path South",
+            "hu": "Déli parti út",
+            "ro": "Traseul de coastă spre sud",
+            "en": "Coastal Path South"
+          },
+          "coords": [
+            54.685,
+            -3.51
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Toller Radweg Richtung Workington.",
+            "hu": "Remek kerékpárút Workington felé.",
+            "ro": "Pistă de biciclete excelentă spre Workington.",
+            "en": "Great cycle route towards Workington."
+          }
+        },
+        {
+          "name": {
+            "de": "The Captain's Table",
+            "hu": "The Captain's Table",
+            "ro": "The Captain's Table",
+            "en": "The Captain's Table"
+          },
+          "coords": [
+            54.711,
+            -3.496
+          ],
+          "category": "culinary",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Herzhafte Snacks für Radler.",
+            "hu": "Bőséges harapnivalók bringásoknak.",
+            "ro": "Gustări consistente pentru bicicliști.",
+            "en": "Hearty snacks for hungry cyclists."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie die maritime Geschichte auf zwei Rädern. Von der Station aus erkunden Sie die Marina und die historischen Docks, bevor Sie auf den Cumbrian Coastal Way Richtung Süden abbiegen. Genießen Sie die raue Schönheit der Küste und die weiten Horizonte der Irischen See.",
+        "hu": "Tekerje körbe a tengeri múltat két keréken. Az állomástól indulva fedezze fel a jachtkikötőt és a történelmi dokkokat, majd kanyarodjon a Cumbrian Coastal Way-re dél felé. Élvezze a partvidék nyers szépségét és az Ír-tenger tágas horizontját.",
+        "ro": "Descoperiți istoria maritimă pe două roți. De la gară, explorați marina și docurile istorice, înainte de a porni pe Cumbrian Coastal Way spre sud. Bucurați-vă de frumusețea brută a coastei și de orizonturile vaste ale Mării Irlandei.",
+        "en": "Cycle through maritime history on two wheels. From the station, explore the marina and historic docks before heading south on the Cumbrian Coastal Way. Enjoy the rugged beauty of the coast and the wide horizons of the Irish Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Lifeboat Inn",
+            "tip": "Traditioneller Pub mit Hafenblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Lifeboat Inn",
+            "tip": "Hagyományos pub kikötői kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Lifeboat Inn",
+            "tip": "Pub tradițional cu vedere la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lifeboat Inn",
+            "tip": "Traditional pub with harbor views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "South Pier",
+            "tip": "Ruhiger Ort zum Angeln oder Denken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli móló",
+            "tip": "Csendes hely horgászáshoz vagy gondolkodáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mollul de sud",
+            "tip": "Loc liniștit pentru pescuit sau reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "South Pier",
+            "tip": "A quiet spot for fishing or reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maryport Market (Freitags)",
+            "tip": "Regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maryport piac (péntek)",
+            "tip": "Regionális különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Maryport (Vineri)",
+            "tip": "Specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maryport Market (Fridays)",
+            "tip": "Local produce and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Wind weht meist aus Westen.",
+          "Nutzen Sie den flachen Küstenradweg."
+        ],
+        "hu": [
+          "A szél többnyire nyugatról fúj.",
+          "Használja a sík parti kerékpárutat."
+        ],
+        "ro": [
+          "Vântul bate de obicei dinspre vest.",
+          "Folosiți pista de coastă plană."
+        ],
+        "en": [
+          "Wind usually blows from the west.",
+          "The coastal path is flat and easy to ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 32.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Senhouse Roman Museum (Cluster A)",
+            "hu": "Senhouse Római Múzeum (A klaszter)",
+            "ro": "Muzeul Roman Senhouse (Cluster A)",
+            "en": "Senhouse Roman Museum (Cluster A)"
+          },
+          "coords": [
+            54.717,
+            -3.495
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz vor Ort.",
+            "hu": "Ingyenes parkoló a helyszínen.",
+            "ro": "Parcare gratuită la fața locului.",
+            "en": "Free parking available on-site."
+          }
+        },
+        {
+          "name": {
+            "de": "Camp Farm (Cluster A)",
+            "hu": "Camp Farm (A klaszter)",
+            "ro": "Camp Farm (Cluster A)",
+            "en": "Camp Farm (Cluster A)"
+          },
+          "coords": [
+            54.718,
+            -3.493
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Reste des römischen Kastells.",
+            "hu": "A római erőd maradványai.",
+            "ro": "Rămășițele castrului roman.",
+            "en": "Remains of the Roman fort site."
+          }
+        },
+        {
+          "name": {
+            "de": "Maryport Marina (Cluster B)",
+            "hu": "Jachtkikötő (B klaszter)",
+            "ro": "Marina Maryport (Cluster B)",
+            "en": "Maryport Marina (Cluster B)"
+          },
+          "coords": [
+            54.713,
+            -3.499
+          ],
+          "category": "port",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz an der Promenade.",
+            "hu": "Parkoló a sétánynál.",
+            "ro": "Parcare pe faleză.",
+            "en": "Parking available on the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake District Aquarium (Cluster B)",
+            "hu": "Akvárium (B klaszter)",
+            "ro": "Acvariu (Cluster B)",
+            "en": "Lake District Aquarium (Cluster B)"
+          },
+          "coords": [
+            54.711,
+            -3.499
+          ],
+          "category": "cultural",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt am Hafen.",
+            "hu": "Közvetlenül a kikötőben.",
+            "ro": "Chiar în port.",
+            "en": "Located directly at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Allonby (Nearby Excursion)",
+            "hu": "Allonby (közeli kirándulás)",
+            "ro": "Allonby (Excursie în apropiere)",
+            "en": "Allonby (Nearby Excursion)"
+          },
+          "coords": [
+            54.77,
+            -3.435
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Berühmt für sein Eiscreme.",
+            "hu": "Híres a fagylaltjáról.",
+            "ro": "Faimos pentru înghețata sa.",
+            "en": "Famous for its local ice cream."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Maryport mit dem Auto zu erkunden, erlaubt einen Trip entlang der Küste des Solway Firth. Nutzen Sie das Cluster im Hafen für Museen und das Aquarium. Am Nachmittag fahren Sie die malerische Küstenstraße nach Allonby, einem charmanten Dorf mit weiten Sandstränden und dem besten Eis der Region.",
+        "hu": "Maryport felfedezése autóval lehetővé teszi a Solway Firth partvidéki bejárását. Használja a kikötői klasztert a múzeumokhoz és az akváriumhoz. Délután autózzon el a festői parti úton Allonby-ba, egy bájos faluba, amely hatalmas homokos strandjairól és a régió legjobb fagylaltjáról híres.",
+        "ro": "Explorarea Maryport cu mașina permite o călătorie pe coasta estuarului Solway. Folosiți clusterul din port pentru muzee și acvariu. După-amiaza, conduceți pe drumul pitoresc de coastă spre Allonby, un sat fermecător cu plaje largi și cea mai bună înghețată din zonă.",
+        "en": "Exploring Maryport by car allows for a scenic trip along the Solway Firth coast. Use the harbor cluster for museums and the aquarium. In the afternoon, drive along the picturesque coastal road to Allonby, a charming village known for its vast sandy beaches and the region's best ice cream."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Allonby Ice Cream Shop",
+            "tip": "Legendäres lokales Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Allonby fagylaltozó",
+            "tip": "Legendás helyi fagylalt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de înghețată Allonby",
+            "tip": "Înghețată locală legendară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Allonby Ice Cream Shop",
+            "tip": "Legendary local ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Crosscanonby Shore",
+            "tip": "Einsamkeit am Strand (5 Min Fahrt).",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crosscanonby part",
+            "tip": "Magány a strandon (5 perc autóval).",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țărmul Crosscanonby",
+            "tip": "Singurătate pe plajă (5 min cu mașina).",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Crosscanonby Shore",
+            "tip": "Seclusion on the beach (5 min drive).",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tesco Superstore",
+            "tip": "Alles für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tesco Superstore",
+            "tip": "Minden a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tesco Superstore",
+            "tip": "Tot ce aveți nevoie pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tesco Superstore",
+            "tip": "Supplies for your coastal picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße B5300 ist sehr malerisch.",
+          "Parken Sie in Allonby direkt am Strand."
+        ],
+        "hu": [
+          "A B5300-as parti út nagyon látványos.",
+          "Allonby-ban parkoljon közvetlenül a strandon."
+        ],
+        "ro": [
+          "Drumul de coastă B5300 este foarte pitoresc.",
+          "Parcați în Allonby chiar lângă plajă."
+        ],
+        "en": [
+          "The B5300 coastal road is highly scenic.",
+          "Park directly on the seafront in Allonby."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maryport Railway Station (District A)",
+            "hu": "Vasútállomás (A negyed)",
+            "ro": "Gara Maryport (District A)",
+            "en": "Maryport Railway Station (District A)"
+          },
+          "coords": [
+            54.712,
+            -3.488
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "An der Cumbrian Coast Line.",
+            "hu": "A Cumbrian Coast vasútvonalon.",
+            "ro": "Pe linia de coastă Cumbrian.",
+            "en": "On the scenic Cumbrian Coast Line."
+          }
+        },
+        {
+          "name": {
+            "de": "Curzon Street (District A)",
+            "hu": "Curzon utca (A negyed)",
+            "ro": "Strada Curzon (District A)",
+            "en": "Curzon Street (District A)"
+          },
+          "coords": [
+            54.714,
+            -3.49
+          ],
+          "category": "civic",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hauptgeschäftsstraße der Stadt.",
+            "hu": "A város fő bevásárlóutcája.",
+            "ro": "Principala stradă comercială.",
+            "en": "The town's main commercial street."
+          }
+        },
+        {
+          "name": {
+            "de": "Maryport Harbor (District B)",
+            "hu": "Kikötő (B negyed)",
+            "ro": "Portul Maryport (District B)",
+            "en": "Maryport Harbor (District B)"
+          },
+          "coords": [
+            54.712,
+            -3.498
+          ],
+          "category": "port",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bushaltestellen am Aquarium.",
+            "hu": "Buszmegállók az akváriumnál.",
+            "ro": "Stații de autobuz lângă acvariu.",
+            "en": "Bus stops located near the aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Grasslot (District C)",
+            "hu": "Grasslot (C negyed)",
+            "ro": "Grasslot (District C)",
+            "en": "Grasslot (District C)"
+          },
+          "coords": [
+            54.7,
+            -3.485
+          ],
+          "category": "civic",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Südlicher Teil der Stadt.",
+            "hu": "A város déli része.",
+            "ro": "Partea de sud a orașului.",
+            "en": "The southern residential part of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Senhouse Street",
+            "hu": "Senhouse utca",
+            "ro": "Strada Senhouse",
+            "en": "Senhouse Street"
+          },
+          "coords": [
+            54.715,
+            -3.492
+          ],
+          "category": "civic",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Viele Cafés und lokale Shops.",
+            "hu": "Számos kávézó és helyi bolt.",
+            "ro": "Multe cafenele și magazine locale.",
+            "en": "Plenty of local cafes and small shops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Maryport mit dem Transit zu erleben ist einfach und entspannt. Die Bahn bringt Sie ins Herz der Stadt, und lokale Busse verbinden das Zentrum mit dem Hafen und den umliegenden Vierteln. Genießen Sie die Aussicht aus dem Bus auf dem Weg zum Hafen und erkunden Sie die viktorianischen Straßenzüge ganz ohne Parkplatzsorgen.",
+        "hu": "Maryport felfedezése tömegközlekedéssel egyszerű és pihentető. A vonat a város szívébe repíti, a helyi buszok pedig összekötik a központot a kikötővel és a környező negyedekkel. Élvezze a kilátást a buszból a kikötő felé menet, és fedezze fel a viktoriánus utcákat parkolási gondok nélkül.",
+        "ro": "Experimentarea Maryport prin transportul public este simplă și relaxantă. Trenul vă aduce în inima orașului, iar autobuzele locale conectează centrul cu portul și cartierele din jur. Bucurați-vă de priveliștea din autobuz în drum spre port și explorați străzile victoriene fără grija parcării.",
+        "en": "Experiencing Maryport via transit is simple and relaxing. The train brings you into the heart of the town, and local buses connect the center with the harbor and surrounding districts. Enjoy the bus views on the way to the harbor and explore the Victorian streetscapes without any parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hervey's 1749",
+            "tip": "Kaffee und Lunch im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hervey's 1749",
+            "tip": "Kávé és ebéd a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hervey's 1749",
+            "tip": "Cafea și prânz în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hervey's 1749",
+            "tip": "Coffee and lunch in the town center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christ Church Grounds",
+            "tip": "Ruhe am Hafen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christ Church udvara",
+            "tip": "Nyugalom a kikötőben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii Christ Church",
+            "tip": "Liniște în zona portului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christ Church Grounds",
+            "tip": "Peaceful spot on the harbor front.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Charity Shops",
+            "tip": "Einzigartige Fundstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi jótékonysági boltok",
+            "tip": "Egyedi kincsek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine caritabile locale",
+            "tip": "Descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Charity Shops",
+            "tip": "Unique second-hand finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cumbrian Coast Day Explorer Karte.",
+          "Busse fahren unregelmäßiger am Sonntag."
+        ],
+        "hu": [
+          "Használja a Cumbrian Coast Day Explorer jegyet.",
+          "Vasárnap ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Folosiți biletul Cumbrian Coast Day Explorer.",
+          "Autobuzele circulă mai rar duminica."
+        ],
+        "en": [
+          "Use the Cumbrian Coast Day Explorer ticket for value.",
+          "Buses run less frequently on Sundays."
+        ]
+      }
+    }
+  }
+}

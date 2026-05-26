@@ -1,0 +1,1097 @@
+{
+  "city_id": "mljet",
+  "anchor": {
+    "name": "Mljet National Park - Pomena",
+    "coords": [
+      17.3435,
+      42.7885
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Pomena",
+            "hu": "Pomena kikötő",
+            "ro": "Portul Pomena",
+            "en": "Pomena Harbor"
+          },
+          "coords": [
+            17.344,
+            42.789
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Startpunkt und Ticketkauf für den Nationalpark.",
+            "hu": "Indulópont és jegyvásárlás a Nemzeti Parkba.",
+            "ro": "Punct de plecare și cumpărare bilete pentru Parcul Național.",
+            "en": "Starting point and ticket purchase for the National Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleiner See (Malo Jezero)",
+            "hu": "Kis-tó (Malo Jezero)",
+            "ro": "Lacul Mic (Malo Jezero)",
+            "en": "Small Lake (Malo Jezero)"
+          },
+          "coords": [
+            17.355,
+            42.785
+          ],
+          "category": "lake",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Wasser ist hier immer etwas wärmer.",
+            "hu": "A víz itt mindig kicsit melegebb.",
+            "ro": "Apa este aici întotdeauna puțin mai caldă.",
+            "en": "The water here is always a bit warmer."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer See (Veliko Jezero)",
+            "hu": "Nagy-tó (Veliko Jezero)",
+            "ro": "Lacul Mare (Veliko Jezero)",
+            "en": "Great Lake (Veliko Jezero)"
+          },
+          "coords": [
+            17.365,
+            42.775
+          ],
+          "category": "lake",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blick auf das Inselkloster in der Mitte.",
+            "hu": "Kilátás a tó közepén lévő szigetkolostorra.",
+            "ro": "Vedere spre mănăstirea de pe insula din mijloc.",
+            "en": "View of the island monastery in the middle."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel der Hl. Maria",
+            "hu": "Szent Mária-sziget",
+            "ro": "Insula Sfânta Maria",
+            "en": "St. Mary's Island"
+          },
+          "coords": [
+            17.36,
+            42.768
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurze Bootsfahrt zum Benediktinerkloster.",
+            "hu": "Rövid hajóút a bencés kolostorhoz.",
+            "ro": "Scurtă plimbare cu barca până la mănăstirea benedictină.",
+            "en": "Short boat ride to the Benedictine monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen auf der Insel",
+            "hu": "Ebéd a szigeten",
+            "ro": "Prânz pe insulă",
+            "en": "Lunch on the Island"
+          },
+          "coords": [
+            17.3605,
+            42.7675
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Essen in ruhiger Klosteratmosphäre.",
+            "hu": "Ebéd nyugodt kolostori környezetben.",
+            "ro": "Prânz în atmosfera liniștită a mănăstirii.",
+            "en": "Dining in a peaceful monastery atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Most (Kleine Brücke)",
+            "hu": "Mali Most (Kis híd)",
+            "ro": "Mali Most (Podul Mic)",
+            "en": "Mali Most (Small Bridge)"
+          },
+          "coords": [
+            17.358,
+            42.782
+          ],
+          "category": "landmark",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die starke Strömung unter der Brücke.",
+            "hu": "Nézze meg az erős áramlást a híd alatt.",
+            "ro": "Observați curentul puternic de sub pod.",
+            "en": "Watch the strong current under the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückweg durch den Pinienwald",
+            "hu": "Visszaút a fenyőerdőn át",
+            "ro": "Drumul de întoarcere prin pădurea de pini",
+            "en": "Return through Pine Forest"
+          },
+          "coords": [
+            17.348,
+            42.787
+          ],
+          "category": "park",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Duft der Nadelbäume.",
+            "hu": "Élvezze a fenyőfák illatát.",
+            "ro": "Bucurați-vă de mirosul pinilor.",
+            "en": "Enjoy the scent of the pine trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mljet ist die grünste Insel der Adria. Diese Wanderung führt Sie durch das Herz des Nationalparks zu den zwei Salzwasserseen. Ein Highlight ist die Überfahrt zur Insel der Heiligen Maria, wo ein altes Kloster inmitten des Veliko Jezero thront. Der Rückweg durch duftende Wälder rundet diesen naturverbundenen Tag ab.",
+        "hu": "Mljet az Adria legzöldebb szigete. Ez a túra a Nemzeti Park szívébe, a két sós vizű tóhoz vezet. A nap csúcspontja a Szent Mária-szigetre való átkelés, ahol egy ősi kolostor trónol a Nagy-tó közepén. A fenyőerdőkön keresztüli visszaút zárja ezt a természetközeli napot.",
+        "ro": "Mljet este cea mai verde insulă din Adriatica. Această drumeție vă poartă prin inima Parcului Național către cele două lacuri sărate. Un punct culminant este traversarea spre Insula Sfânta Maria, unde o mănăstire veche tronează în mijlocul Lacului Mare. Drumul de întoarcere prin păduri parfumate încheie această zi dedicată naturii.",
+        "en": "Mljet is the greenest island in the Adriatic. This hike leads you through the heart of the National Park to the two saltwater lakes. A highlight is the crossing to St. Mary's Island, where an ancient monastery sits in the middle of Veliko Jezero. The return path through fragrant forests rounds off this nature-filled day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Melita",
+            "tip": "Einzigartige Lage auf der Insel der Hl. Maria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Pomena",
+            "tip": "Friss tengeri ételek a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mali Most Grill",
+            "tip": "Gustări rapide lângă pod."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nine",
+            "tip": "Modern Mediterranean cuisine in Pomena."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südufer des Malo Jezero",
+            "tip": "Sehr ruhige Badeplätze.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Mária sziget kertje",
+            "tip": "Meditatív csend a kolostor falai között.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca spre Montokuc",
+            "tip": "Vedere panoramică în liniște deplină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine forest shade",
+            "tip": "Perfect spot for a quiet read.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mljet-Honig",
+            "tip": "Bekannt für sein intensives Aroma."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "A sziget folyékony aranya."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plante aromatice uscate",
+            "tip": "Salvire și rozmarin de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade wooden crafts",
+            "tip": "Traditional island souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie Badekleidung mit, die Seen sind herrlich.",
+          "Das Ticket für den Park beinhaltet die Bootsfahrt zur Insel."
+        ],
+        "hu": [
+          "Vigyen fürdőruhát, a tavak vize csodás.",
+          "A nemzeti parki belépő tartalmazza a hajóutat a szigetre."
+        ],
+        "ro": [
+          "Luați costumul de baie, lacurile sunt superbe.",
+          "Biletul pentru parc include călătoria cu barca spre insulă."
+        ],
+        "en": [
+          "Take swimwear, the lakes are wonderful.",
+          "The park ticket includes the boat ride to the island."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pomena - Bike Rental",
+            "hu": "Pomena - bringakölcsönző",
+            "ro": "Pomena - închiriere biciclete",
+            "en": "Pomena - Bike Rental"
+          },
+          "coords": [
+            17.344,
+            42.7885
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Leihe dir ein robustes Mountainbike.",
+            "hu": "Béreljen egy strapabíró hegyi kerékpárt.",
+            "ro": "Închiriați o bicicletă de munte robustă.",
+            "en": "Rent a sturdy mountain bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Umrundung des Veliko Jezero",
+            "hu": "Nagy-tó körüli bringázás",
+            "ro": "Ocolul Lacului Mare",
+            "en": "Great Lake Loop"
+          },
+          "coords": [
+            17.37,
+            42.77
+          ],
+          "category": "lake",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Wunderschöne Uferwege im Schatten.",
+            "hu": "Csodálatos vízparti utak az árnyékban.",
+            "ro": "Drumuri superbe pe mal, la umbră.",
+            "en": "Beautiful lakeside paths in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Polače (Römischer Palast)",
+            "hu": "Polače (Római palota)",
+            "ro": "Polače (Palatul Roman)",
+            "en": "Polace (Roman Palace)"
+          },
+          "coords": [
+            17.378,
+            42.787
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Ruinen direkt an der Straße.",
+            "hu": "Látványos romok közvetlenül az út mellett.",
+            "ro": "Ruine impresionante chiar lângă drum.",
+            "en": "Impressive ruins right next to the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Polače",
+            "hu": "Ebéd Polačéban",
+            "ro": "Prânz în Polače",
+            "en": "Lunch in Polace"
+          },
+          "coords": [
+            17.379,
+            42.7875
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die geschützte Bucht.",
+            "hu": "Élvezze a kilátást a védett öbölre.",
+            "ro": "Bucurați-vă de vederea spre golful protejat.",
+            "en": "Enjoy the view of the protected bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Most Picknickplatz",
+            "hu": "Mali Most piknikezőhely",
+            "ro": "Loc de picnic Mali Most",
+            "en": "Mali Most Picnic Spot"
+          },
+          "coords": [
+            17.358,
+            42.782
+          ],
+          "category": "park",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beliebter Stopp zum Ausruhen und Schwimmen.",
+            "hu": "Népszerű megálló pihenéshez és úszáshoz.",
+            "ro": "Oprire populară pentru odihnă și înot.",
+            "en": "Popular stop for resting and swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Pomena",
+            "hu": "Visszatekerés Pomenába",
+            "ro": "Întoarcerea în Pomena",
+            "en": "Ride back to Pomena"
+          },
+          "coords": [
+            17.345,
+            42.788
+          ],
+          "category": "port",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Letzte Etappe durch den duftenden Wald.",
+            "hu": "Utolsó szakasz az illatos erdőn át.",
+            "ro": "Ultima etapă prin pădurea parfumată.",
+            "en": "Last stage through the fragrant forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Fahrrad ist das ideale Verkehrsmittel auf Mljet. Die Wege rund um die Seen sind größtenteils flach und gut ausgebaut. Auf dieser Tour verbinden wir Naturgenuss an den Seen mit einem Abstecher zu den antiken Ruinen von Polače. Überall locken schattige Plätze für eine kurze Badepause im kristallklaren Wasser.",
+        "hu": "A kerékpár az ideális közlekedési eszköz Mljeten. A tavak körüli utak nagy része sík és jól kiépített. Ezen a túrán a természeti élményt ötvözzük Polače ókori romjainak megtekintésével. Az árnyas helyek mindenhol csábítanak egy rövid fürdőzésre a kristálytiszta vízben.",
+        "ro": "Bicicleta este mijlocul de transport ideal pe Mljet. Drumurile din jurul lacurilor sunt în mare parte plate și bine întreținute. În acest tur, combinăm bucuria naturii de la lacuri cu o vizită la ruinele antice din Polače. Peste tot, locurile umbrite vă îmbie la o scurtă pauză de înot în apa cristalină.",
+        "en": "The bicycle is the ideal means of transport on Mljet. The paths around the lakes are mostly flat and well-maintained. On this tour, we combine nature enjoyment at the lakes with a trip to the ancient ruins of Polace. Everywhere, shady spots invite you for a short swim in the crystal-clear water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Antika",
+            "tip": "Hervorragende Pasta mit Meeresfrüchten in Polače."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sponga",
+            "tip": "Friss grill ételek és hideg italok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ogigija",
+            "tip": "Specialități din pește și vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ankora",
+            "tip": "Try the local goat cheese and olives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nordküste des Veliko Jezero",
+            "tip": "Weniger Radfahrer, mehr Ruhe.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polače római romok mögött",
+            "tip": "Csendes elvonulás a történelemben.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Soline",
+            "tip": "Un loc izolat și liniștit pe malul mării.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside bench",
+            "tip": "Quiet spot for watching the boat pass.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Pomena",
+            "tip": "Karten und Führer für den Nationalpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi grappa",
+            "tip": "Gyógynövényekkel ízesített helyi párlat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse artizanale din lemn",
+            "tip": "Lucrate manual de localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender bags",
+            "tip": "A scent of Mljet to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Wanderer auf den Wegen.",
+          "Ein Helm ist bei den steinigen Passagen empfehlenswert."
+        ],
+        "hu": [
+          "Ügyeljen a gyalogosokra az ösvényeken.",
+          "A köves szakaszokon ajánlott a bukósisak használata."
+        ],
+        "ro": [
+          "Atenție la drumeții de pe poteci.",
+          "Casca este recomandată pe porțiunile cu piatră."
+        ],
+        "en": [
+          "Watch out for hikers on the paths.",
+          "A helmet is recommended for the stony passages."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 50.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Pomena (Cluster A)",
+            "hu": "Pomena parkoló",
+            "ro": "Parcare Pomena",
+            "en": "Pomena Parking"
+          },
+          "coords": [
+            17.343,
+            42.788
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eingang zum NP-Bereich (Hop-Mode: Car).",
+            "hu": "Bejárat a Nemzeti Park területére.",
+            "ro": "Intrarea în zona Parcului Național.",
+            "en": "Entrance to the NP area."
+          }
+        },
+        {
+          "name": {
+            "de": "Malo Jezero Uferweg (Cluster A)",
+            "hu": "Kis-tó partmenti út",
+            "ro": "Poteca de pe malul Lacului Mic",
+            "en": "Small Lake Shore Path"
+          },
+          "coords": [
+            17.35,
+            42.786
+          ],
+          "category": "lake",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Geführter Spaziergang am Ufer (Hop-Mode: Walk).",
+            "hu": "Vezetett séta a parton.",
+            "ro": "Plimbare pe malul lacului.",
+            "en": "Guided walk on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Polače Hafen (Cluster B)",
+            "hu": "Polače kikötő",
+            "ro": "Portul Polače",
+            "en": "Polace Harbor"
+          },
+          "coords": [
+            17.378,
+            42.787
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken bei den römischen Ruinen (Hop-Mode: Car).",
+            "hu": "Parkolás a római romoknál.",
+            "ro": "Parcare lângă ruinele romane.",
+            "en": "Parking by the Roman ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Basilika (Cluster B)",
+            "hu": "Ókori bazilika",
+            "ro": "Bazilica antică",
+            "en": "Ancient Basilica"
+          },
+          "coords": [
+            17.379,
+            42.7875
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Gang durch die Ruinen (Hop-Mode: Walk).",
+            "hu": "Rövid séta a romok között.",
+            "ro": "Scurtă plimbare prin ruine.",
+            "en": "Short walk through the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Odysseus-Höhle (Cluster C)",
+            "hu": "Odüsszeusz-barlang",
+            "ro": "Peștera lui Ulise",
+            "en": "Ulysses Cave"
+          },
+          "coords": [
+            17.545,
+            42.723
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Fahrt ins Inselzentrum bei Babino Polje (Hop-Mode: Car).",
+            "hu": "Utazás a sziget közepére Babino Polje felé.",
+            "ro": "Călătorie spre centrul insulei spre Babino Polje.",
+            "en": "Drive to the island center towards Babino Polje."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Babino Polje (Cluster C)",
+            "hu": "Ebéd Babino Poljéban",
+            "ro": "Prânz în Babino Polje",
+            "en": "Lunch in Babino Polje"
+          },
+          "coords": [
+            17.54,
+            42.728
+          ],
+          "category": "gastro",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Hausgemachtes im größten Dorf (Hop-Mode: Walk).",
+            "hu": "Házias ételek a legnagyobb faluban.",
+            "ro": "Mâncare de casă în cel mai mare sat.",
+            "en": "Homemade food in the largest village."
+          }
+        },
+        {
+          "name": {
+            "de": "Sapine Lunara Strand (Cluster D)",
+            "hu": "Saplunara strand",
+            "ro": "Plaja Saplunara",
+            "en": "Saplunara Beach"
+          },
+          "coords": [
+            17.74,
+            42.7
+          ],
+          "category": "beach",
+          "arrive_at": "16:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Sandstrände im Osten der Insel (Hop-Mode: Car).",
+            "hu": "Homokos strandok a sziget keleti részén.",
+            "ro": "Plaje cu nisip în estul insulei.",
+            "en": "Sandy beaches in the east of the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Blace Bucht Aussicht (Cluster D)",
+            "hu": "Blace-öböl kilátás",
+            "ro": "Vedere golful Blace",
+            "en": "Blace Bay View"
+          },
+          "coords": [
+            17.745,
+            42.695
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Gang zum Aussichtspunkt (Hop-Mode: Walk).",
+            "hu": "Rövid séta a kilátóhoz.",
+            "ro": "Scurtă plimbare spre punctul de belvedere.",
+            "en": "Short walk to the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die gesamte Länge von Mljet an einem Tag erkunden. Wir beginnen im Nationalpark, besuchen die mythische Odysseus-Höhle im Zentrum und beenden den Tag an den seltenen Sandstränden von Saplunara. Die Cluster-Strategie erlaubt es, die wichtigsten Sehenswürdigkeiten intensiv zu Fuß zu erleben.",
+        "hu": "Autóval Mljet teljes hosszát felfedezheti egyetlen nap alatt. A Nemzeti Parkban kezdünk, meglátogatjuk a mitikus Odüsszeusz-barlangot a sziget közepén, és a napot Saplunara ritka homokos strandjain zárjuk. A klaszter-stratégia lehetővé teszi a legfontosabb látnivalók alapos, gyalogos felfedezését.",
+        "ro": "Cu mașina puteți explora întreaga lungime a insulei Mljet într-o singură zi. Începem în Parcul Național, vizităm mitica peșteră a lui Ulise în centru și încheiem ziua la rarele plaje cu nisip din Saplunara. Strategia de clustere permite experimentarea intensă, pe jos, a celor mai importante obiective.",
+        "en": "By car, you can explore the entire length of Mljet in one day. We start in the National Park, visit the mythical Ulysses Cave in the center, and end the day at the rare sandy beaches of Saplunara. The cluster strategy allows for an intensive experience of the key sights on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Stermasi",
+            "tip": "Hervorragende Aussicht und frischer Fisch in Saplunara."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Triton",
+            "tip": "Helyi finomságok Babino Polje közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ante",
+            "tip": "Mâncare tradițională într-o atmosferă familială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kod Ante",
+            "tip": "Famous for lobster and local wine in Saplunara."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen bei Babino Polje",
+            "tip": "Dramatische Aussicht in Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saplunara fenyőerdő",
+            "tip": "Csendes árnyék a forró homok után.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul spre Blace",
+            "tip": "Izolare totală și sunetul mării.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Odysseus Cave Cliffs",
+            "tip": "Feel the power of the sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl aus Saplunara",
+            "tip": "Direkt vom Bauern kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szigeti gyógynövények",
+            "tip": "Szárított tea és fűszerkeverékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Mljet",
+            "tip": "Un suvenir gustos pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local jams",
+            "tip": "Fig and orange jams from island fruit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Hauptstraße der Insel ist kurvenreich, fahren Sie vorsichtig.",
+          "In Saplunara gibt es nur wenige Parkplätze, kommen Sie rechtzeitig."
+        ],
+        "hu": [
+          "A sziget főútja kanyargós, vezessen óvatosan.",
+          "Saplunarában kevés a parkolóhely, érkezzen időben."
+        ],
+        "ro": [
+          "Drumul principal al insulei este virajat, conduceți cu atenție.",
+          "În Saplunara sunt puține locuri de parcare, veniți la timp."
+        ],
+        "en": [
+          "The island's main road is winding, drive carefully.",
+          "Parking is limited in Saplunara, arrive in time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pomena Busstopp (Cluster A)",
+            "hu": "Pomena buszmegálló",
+            "ro": "Stația de bus Pomena",
+            "en": "Pomena Bus Stop"
+          },
+          "coords": [
+            17.344,
+            42.7885
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für den Inselbus nach Polače.",
+            "hu": "Indulópont a szigeti busszal Polače felé.",
+            "ro": "Punct de plecare cu autobuzul insular spre Polače.",
+            "en": "Starting point for the island bus to Polace."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Pfad (Cluster A)",
+            "hu": "Nemzeti Park ösvény",
+            "ro": "Cărarea din Parcul Național",
+            "en": "National Park Path"
+          },
+          "coords": [
+            17.35,
+            42.785
+          ],
+          "category": "park",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Geführte Wanderung zu den Seen (Hop-Mode: Walk).",
+            "hu": "Vezetett túra a tavakhoz.",
+            "ro": "Drumeție ghidată spre lacuri.",
+            "en": "Guided hike to the lakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Polače (Cluster B)",
+            "hu": "Polače",
+            "ro": "Polače",
+            "en": "Polace"
+          },
+          "coords": [
+            17.378,
+            42.787
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahrt zum historischen Zentrum (Hop-Mode: Transit).",
+            "hu": "Utazás a történelmi központba.",
+            "ro": "Călătorie spre centrul istoric.",
+            "en": "Ride to the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Polače (Cluster B)",
+            "hu": "Ebéd Polačéban",
+            "ro": "Prânz în Polače",
+            "en": "Lunch in Polace"
+          },
+          "coords": [
+            17.3795,
+            42.7875
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Restaurants mit Blick auf die Römerwand (Hop-Mode: Walk).",
+            "hu": "Éttermek kilátással a római falra.",
+            "ro": "Restaurante cu vedere spre zidul roman.",
+            "en": "Restaurants with views of the Roman wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Most (Cluster C)",
+            "hu": "Mali Most",
+            "ro": "Mali Most",
+            "en": "Mali Most"
+          },
+          "coords": [
+            17.358,
+            42.782
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Rückfahrt zum See-Verbindungspunkt (Hop-Mode: Transit).",
+            "hu": "Visszautazás a tavak találkozásához.",
+            "ro": "Întoarcerea la punctul de legătură a lacurilor.",
+            "en": "Ride back to the lake junction."
+          }
+        },
+        {
+          "name": {
+            "de": "Pomena Sunset Walk (Cluster C)",
+            "hu": "Pomena naplementi séta",
+            "ro": "Plimbare la apus în Pomena",
+            "en": "Pomena Sunset Walk"
+          },
+          "coords": [
+            17.3435,
+            42.789
+          ],
+          "category": "port",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Letzter Spaziergang zurück zum Hafen (Hop-Mode: Walk).",
+            "hu": "Utolsó séta vissza a kikötőbe.",
+            "ro": "Ultima plimbare înapoi spre port.",
+            "en": "Last walk back to the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mljet bietet einen Inselbus, der die Hauptorte verbindet. Diese Tour konzentriert sich auf den westlichen Teil der Insel. Mit dem Bus erreichen wir bequem Polače, um die antiken Stätten zu besichtigen, und nutzen die restliche Zeit für ausgiebige Spaziergänge an den Ufern der Salzwasserseen.",
+        "hu": "Mljet szigeti buszt kínál, amely összeköti a főbb településeket. Ez a túra a sziget nyugati részére összpontosít. Busszal kényelmesen elérjük Polačét az ókori helyszínek megtekintéséhez, a fennmaradó időt pedig a sós tavak partján tett hosszú sétákra használjuk.",
+        "ro": "Mljet oferă un autobuz insular care leagă principalele localități. Acest tur se concentrează pe partea de vest a insulei. Cu autobuzul ajungem confortabil în Polače pentru a vizita siturile antice și folosim restul timpului pentru plimbări lungi pe malul lacurilor sărate.",
+        "en": "Mljet offers an island bus connecting the main villages. This tour focuses on the western part of the island. By bus, we easily reach Polace to visit ancient sites and use the remaining time for long walks along the shores of the saltwater lakes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spelunca",
+            "tip": "Gutes Preis-Leistungs-Verhältnis in Polače."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bura",
+            "tip": "Helyi halételek és barátságos kiszolgálás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vila Polace",
+            "tip": "Vedere panoramică și meniu mediteranean."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Pomena",
+            "tip": "Great grilled squid right by the boat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Malo Jezero Waldrand",
+            "tip": "Kühler Schatten am Nachmittag.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soline öböl bejárata",
+            "tip": "Ritkán látogatott, csendes partszakasz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bazilicii creștine",
+            "tip": "Liniște istorică între ruine.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Polace waterfront bench",
+            "tip": "Watch the yachts in silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "NP Souvenirstand",
+            "tip": "Hübsche Postkarten mit Naturmotiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves szappanok",
+            "tip": "Szigeti gyógynövényekkel készült szappanok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eșarfe cu motive locale",
+            "tip": "Cadouri textile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local herbs and spices",
+            "tip": "Dried rosemary and oregano from the hills."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan, da die Frequenz niedrig ist.",
+          "Die NP-Boote fahren meist zur vollen Stunde."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet, mert ritkán járnak.",
+          "A nemzeti parki hajók általában egész órakor indulnak."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor, frecvența este redusă.",
+          "Bărcile din parc pleacă de obicei la oră fixă."
+        ],
+        "en": [
+          "Check the bus schedule as frequency is low.",
+          "NP boats usually depart on the hour."
+        ]
+      }
+    }
+  }
+}

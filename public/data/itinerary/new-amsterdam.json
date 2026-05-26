@@ -1,0 +1,258 @@
+{
+  "city_id": "new-amsterdam",
+  "anchor": {
+    "name": "New Amsterdam",
+    "coords": [
+      6.2485,
+      -57.5165
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von New Amsterdam",
+            "hu": "New Amsterdam-i városháza",
+            "ro": "Primăria New Amsterdam",
+            "en": "New Amsterdam Town Hall"
+          },
+          "coords": [
+            6.2492,
+            -57.5175
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der hölzerne Uhrturm ist das Symbol der Stadt.",
+            "hu": "A fából készült óratorony a város jelképe.",
+            "ro": "Turnul cu ceas din lemn este simbolul orașului.",
+            "en": "The wooden clock tower is the iconic symbol of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "All Saints Anglican Church",
+            "hu": "Mindenszentek anglikán templom",
+            "ro": "Biserica Anglicană All Saints",
+            "en": "All Saints Anglican Church"
+          },
+          "coords": [
+            6.2475,
+            -57.5168
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Historic colonial church with beautiful interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "New Amsterdam Markt",
+            "hu": "Városi piac",
+            "ro": "Piața New Amsterdam",
+            "en": "New Amsterdam Market"
+          },
+          "coords": [
+            6.2465,
+            -57.5185
+          ],
+          "category": "market",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "hu": "Próbálja ki a friss kókuszvizet."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen bei lokale Garküche",
+            "hu": "Ebéd egy helyi kifőzdében",
+            "ro": "Prânz local",
+            "en": "Local Lunch Spot"
+          },
+          "coords": [
+            6.2455,
+            -57.5175
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Enjoy some Berbice-style curry."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade Park",
+            "hu": "Esplanade Park",
+            "ro": "Parcul Esplanade",
+            "en": "Esplanade Park"
+          },
+          "coords": [
+            6.2525,
+            -57.5195
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen Spaziergang am Flussufer.",
+            "hu": "Kellemes hely egy folyóparti sétához.",
+            "ro": "Un loc plăcut pentru o plimbare pe malul râului.",
+            "en": "A pleasant spot for a stroll along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Berbice River Bridge Blick",
+            "hu": "Berbice-folyó híd kilátópont",
+            "ro": "Vedere Podul Berbice",
+            "en": "Berbice River Bridge View"
+          },
+          "coords": [
+            6.2555,
+            -57.5215
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "en": "Watch the sunset behind the massive bridge structure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie morgens die niederländischen Wurzeln am Ufer des Berbice. Ein Spaziergang zum historischen Rathaus offenbart die hölzerne Eleganz der Stadt. Mittags probieren Sie lokale Spezialitäten auf dem belebten Markt. Der Nachmittag gehört dem Esplanade Park.",
+        "hu": "Fedezze fel reggel a Berbice-folyó partján fekvő város holland örökségét. A városháza ikonikus tornya a faépítészet remekműve. Délben kóstoljon bele a helyi ízekbe a nyüzsgő városi piacon. A délutánt töltse az Esplanade Park zöldjében.",
+        "ro": "Descoperiți dimineața rădăcinile olandeze ale orașului de pe malul râului Berbice. O plimbare spre primăria istorică dezvăluie eleganța arhitecturii din lemn. La prânz, degustați specialități locale în piața centrală. După-amiaza relaxați-vă în Parcul Esplanade.",
+        "en": "Explore the Dutch roots of Guyana's oldest town along the banks of the Berbice River. Visit the iconic Town Hall to see its magnificent timber craftsmanship. At lunch, enjoy authentic Berbician flavors at the local market. Spend your afternoon at Esplanade Park."
+      },
+      "gastro_picks": {
+        "en": [
+          {
+            "name": "Berbice Curry",
+            "tip": "Known for its unique spice blend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berbice Curry",
+            "tip": "Híres a különleges fűszerkeverékéről."
+          }
+        ],
+        "de": [
+          {
+            "name": "Berbice Curry",
+            "tip": "Bekannt für seine einzigartige Gewürzmischung."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berbice Curry",
+            "tip": "Renumit pentru amestecul său unic de condimente."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "en": [
+          {
+            "name": "Esplanade Park",
+            "tip": "Quiet benches near the water.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Esplanade Park",
+            "tip": "Csendes padok a víz közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "de": [
+          {
+            "name": "Esplanade Park",
+            "tip": "Ruhige Bänke in Wassernähe.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Esplanade",
+            "tip": "Bănci liniștite lângă apă.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "en": [
+          {
+            "name": "Pitt Street",
+            "tip": "The main commercial shopping lane."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pitt Street",
+            "tip": "A város fő bevásárlóutcája."
+          }
+        ],
+        "de": [
+          {
+            "name": "Pitt Street",
+            "tip": "Die Haupteinkaufsstraße der Stadt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pitt Street",
+            "tip": "Principala stradă comercială."
+          }
+        ]
+      },
+      "tips": {
+        "en": [
+          "The town is very laid back compared to Georgetown.",
+          "Buses to Georgetown leave from the main stelling area.",
+          "Stay hydrated in the Berbice heat."
+        ],
+        "hu": [
+          "A város sokkal nyugodtabb Georgetownhoz képest.",
+          "A buszok Georgetownba a fő kikötőtől indulnak.",
+          "Igyon sokat a Berbice-i hőségben."
+        ],
+        "de": [
+          "Die Stadt ist im Vergleich zu Georgetown sehr entspannt.",
+          "Busse nach Georgetown fahren vom Hauptsteg ab.",
+          "Trinken Sie viel bei der Hitze in Berbice."
+        ],
+        "ro": [
+          "Orașul este foarte relaxat în comparație cu Georgetown.",
+          "Microbuzele spre Georgetown pleacă de lângă port.",
+          "Hidratați-vă corespunzător în căldura din Berbice."
+        ]
+      }
+    }
+  }
+}

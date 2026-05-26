@@ -1,0 +1,1005 @@
+{
+  "city_id": "uk-south-kirkby-and-moorthorpe-cities-v2",
+  "anchor": {
+    "name": "South Kirkby and Moorthorpe",
+    "coords": [
+      53.595,
+      -1.306
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "All Saints Church",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica All Saints",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            53.596,
+            -1.304
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die mittelalterlichen Steinarbeiten.",
+            "hu": "Figyelje meg a középkori kőfaragásokat.",
+            "ro": "Observați detaliile medievale din piatră.",
+            "en": "Look for the medieval stonework details."
+          }
+        },
+        {
+          "name": {
+            "de": "South Kirkby War Memorial",
+            "hu": "South Kirkby háborús emlékmű",
+            "ro": "Monumentul Eroilor South Kirkby",
+            "en": "South Kirkby War Memorial"
+          },
+          "coords": [
+            53.594,
+            -1.308
+          ],
+          "category": "monument",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Ort des stillen Gedenkens im Zentrum.",
+            "hu": "Csendes emlékhely a település központjában.",
+            "ro": "Un loc de reculegere în centrul localității.",
+            "en": "A place of quiet reflection in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Moorthorpe Railway Station",
+            "hu": "Moorthorpe vasútállomás",
+            "ro": "Gara Moorthorpe",
+            "en": "Moorthorpe Railway Station"
+          },
+          "coords": [
+            53.591,
+            -1.301
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie das preisgekrönte Café im Bahnhof.",
+            "hu": "Látogassa meg a díjnyertes kávézót az állomáson.",
+            "ro": "Vizitați cafeneaua premiată din gară.",
+            "en": "Visit the award-winning café inside the station."
+          }
+        },
+        {
+          "name": {
+            "de": "South Kirkby Colliery Site",
+            "hu": "Egykori South Kirkby bánya",
+            "ro": "Situl fostei mine South Kirkby",
+            "en": "South Kirkby Colliery Site"
+          },
+          "coords": [
+            53.588,
+            -1.312
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Bergbaugeschichte.",
+            "hu": "Ismerje meg a helyi bányászat történetét.",
+            "ro": "Aflați mai multe despre istoria mineritului.",
+            "en": "Learn about the local coal mining heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Frickley Country Park",
+            "hu": "Frickley Country Park",
+            "ro": "Parcul Frickley",
+            "en": "Frickley Country Park"
+          },
+          "coords": [
+            53.585,
+            -1.315
+          ],
+          "category": "park",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang im Grünen.",
+            "hu": "Tökéletes hely egy zöldövezeti sétához.",
+            "ro": "Perfect pentru o plimbare în natură.",
+            "en": "Perfect for a long walk in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Miners' Welfare Scheme",
+            "hu": "Bányász jóléti központ",
+            "ro": "Centrul Social al Minerilor",
+            "en": "Miners' Welfare Scheme"
+          },
+          "coords": [
+            53.592,
+            -1.305
+          ],
+          "category": "civic",
+          "arrive_at": "15:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Das soziale Herz der Gemeinde.",
+            "hu": "A helyi közösség társadalmi szíve.",
+            "ro": "Inima socială a comunității locale.",
+            "en": "The social heart of the local community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der historischen All Saints Church, bevor Sie zum Bahnhof Moorthorpe schlendern, um den Charme der alten Eisenbahn zu spüren. Der Nachmittag steht im Zeichen der Industriegeschichte auf dem ehemaligen Zechengelände, gefolgt von erholsamen Stunden im Frickley Country Park. Beenden Sie die Tour im sozialen Zentrum der Bergleute, wo die Geschichte lebendig bleibt.",
+        "hu": "Kezdje a napot a történelmi Mindenszentek-templomnál, majd sétáljon el Moorthorpe vasútállomására, ahol megízlelheti a régi idők vasúti hangulatát. A délután az ipari örökség jegyében telik az egykori bánya területén, amit pihentető órák követnek a Frickley Country Parkban. Zárja a túrát a bányász jóléti központnál, ahol a múlt ma is él.",
+        "ro": "Începeți ziua la biserica istorică All Saints, apoi mergeți spre gara Moorthorpe pentru a simți farmecul vechilor căi ferate. După-amiaza este dedicată patrimoniului industrial pe situl fostei mine, urmată de ore relaxante în parcul Frickley. Încheiați turul la centrul social al minerilor, unde istoria locală rămâne vie.",
+        "en": "Start your day at the historic All Saints Church before strolling to Moorthorpe railway station to soak in the vintage rail atmosphere. The afternoon is dedicated to industrial heritage at the former colliery site, followed by relaxing hours in Frickley Country Park. End your tour at the Miners' Welfare Scheme, where the community's history is still palpable."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moorthorpe Station Café",
+            "tip": "Hausgemachter Kuchen und starker Tee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moorthorpe Station Café",
+            "tip": "Házias sütemények és erős tea."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moorthorpe Station Café",
+            "tip": "Prăjituri de casă și ceai tare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moorthorpe Station Café",
+            "tip": "Homemade cakes and strong local tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Frickley Country Park",
+            "tip": "Ruhige Wanderwege auf dem renaturierten Gelände.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frickley Country Park",
+            "tip": "Csendes ösvények a rekultivált bányaterületen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Frickley",
+            "tip": "Trasee liniștite pe fostele halde ecologizate.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Frickley Country Park",
+            "tip": "Quiet paths on the reclaimed colliery land.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Markets",
+            "tip": "Frische Produkte aus West Yorkshire."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Friss termékek West Yorkshire-ből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Produse proaspete din West Yorkshire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Fresh produce from West Yorkshire."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes Schuhwerk für den Park.",
+          "Prüfen Sie die Öffnungszeiten des Bahnhof-Cafés."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a parkhoz.",
+          "Ellenőrizze az állomási kávézó nyitvatartását."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru parc.",
+          "Verificați programul cafenelei din gară."
+        ],
+        "en": [
+          "Wear sturdy shoes for the country park.",
+          "Check the station café opening hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Moorthorpe Station",
+            "hu": "Moorthorpe állomás",
+            "ro": "Gara Moorthorpe",
+            "en": "Moorthorpe Station"
+          },
+          "coords": [
+            53.591,
+            -1.301
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Guter Ausgangspunkt für Radtouren.",
+            "hu": "Jó kiindulópont kerékpártúrákhoz.",
+            "ro": "Punct de plecare excelent pentru bicicliști.",
+            "en": "Great starting point for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "South Kirkby Town Council",
+            "hu": "Városháza",
+            "ro": "Consiliul Local",
+            "en": "South Kirkby Town Council"
+          },
+          "coords": [
+            53.593,
+            -1.305
+          ],
+          "category": "civic",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein markantes Verwaltungsgebäude.",
+            "hu": "Jellegzetes közigazgatási épület.",
+            "ro": "Clădire administrativă marcantă.",
+            "en": "Notable administrative building."
+          }
+        },
+        {
+          "name": {
+            "de": "Frickley Athletic FC Ground",
+            "hu": "Frickley Athletic focipálya",
+            "ro": "Stadionul Frickley Athletic",
+            "en": "Frickley Athletic FC Ground"
+          },
+          "coords": [
+            53.595,
+            -1.312
+          ],
+          "category": "recreational",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Stadion des lokalen Clubs.",
+            "hu": "Látogasson el a helyi klub stadionjához.",
+            "ro": "Vizitați stadionul clubului local.",
+            "en": "Visit the stadium of the local football club."
+          }
+        },
+        {
+          "name": {
+            "de": "Frickley Country Park",
+            "hu": "Frickley Country Park",
+            "ro": "Parcul Frickley",
+            "en": "Frickley Country Park"
+          },
+          "coords": [
+            53.585,
+            -1.315
+          ],
+          "category": "park",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Radwege im Park.",
+            "hu": "Használja a park kerékpárútjait.",
+            "ro": "Folosiți pistele de biciclete din parc.",
+            "en": "Utilize the cycling paths throughout the park."
+          }
+        },
+        {
+          "name": {
+            "de": "All Saints Church",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica All Saints",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            53.596,
+            -1.304
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrradständer am Eingang vorhanden.",
+            "hu": "Kerékpártároló a bejáratnál.",
+            "ro": "Rastel de biciclete la intrare.",
+            "en": "Cycle racks available at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Miners' Welfare Cafe",
+            "hu": "Bányász jóléti kávézó",
+            "ro": "Cafeneaua Minerilor",
+            "en": "Miners' Welfare Cafe"
+          },
+          "coords": [
+            53.592,
+            -1.305
+          ],
+          "category": "culinary",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Günstige und herzhafte Mahlzeiten.",
+            "hu": "Olcsó és bőséges ételek.",
+            "ro": "Mese consistente la prețuri bune.",
+            "en": "Value for money and hearty meals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Bergbaugemeinde auf zwei Rädern. Von Moorthorpe aus geht es über das Stadion zum weitläufigen Country Park, wo die Natur die alte Industrie zurückerobert hat. Die Route führt Sie durch grüne Korridore und vorbei an historischen Landmarken wie der All Saints Church.",
+        "hu": "Fedezze fel a bányászközösséget két keréken. Moorthorpe-ból indulva érintse a stadiont, majd tekerjen ki a tágas Country Parkba, ahol a természet visszahódította a régi ipari területet. Az út zöld folyosókon és történelmi helyszíneken vezet keresztül.",
+        "ro": "Explorați comunitatea minieră pe două roți. De la Moorthorpe, treceți pe lângă stadion spre parcul natural vast, unde natura a recucerit vechiul sit industrial. Traseul vă poartă prin coridoare verzi și pe lângă repere istorice precum biserica All Saints.",
+        "en": "Explore the mining community on two wheels. Starting from Moorthorpe, pass the stadium and head out to the expansive Country Park, where nature has reclaimed the former industrial site. The route takes you through green corridors and past historic landmarks like All Saints Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Gables",
+            "tip": "Traditioneller Pub mit lokalem Ale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Gables",
+            "tip": "Hagyományos pub helyi sörökkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Gables",
+            "tip": "Pub tradițional cu bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Gables",
+            "tip": "Traditional pub offering local ales."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Frickley Woodland",
+            "tip": "Ein ruhiger Waldspaziergang.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frickley erdő",
+            "tip": "Csendes erdei séta.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Frickley",
+            "tip": "O plimbare liniștită prin pădure.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Frickley Woodland",
+            "tip": "A quiet woodland escape within the park.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "South Kirkby Square",
+            "tip": "Kleine Läden für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "South Kirkby tér",
+            "tip": "Helyi boltok napi szükségletekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața South Kirkby",
+            "tip": "Magazine locale pentru necesități zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "South Kirkby Square",
+            "tip": "Local shops for daily essentials."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege im Park können nach Regen schlammig sein.",
+          "Nehmen Sie Wasser für die längeren Fahrstrecken mit."
+        ],
+        "hu": [
+          "A parki utak eső után sárosak lehetnek.",
+          "Vigyen magával vizet a hosszabb szakaszokra."
+        ],
+        "ro": [
+          "Potecile din parc pot fi noroioase după ploaie.",
+          "Luați apă pentru segmentele mai lungi."
+        ],
+        "en": [
+          "Park trails can be muddy after rain.",
+          "Carry water for the longer cycling stretches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Moorthorpe Station (Cluster A)",
+            "hu": "Moorthorpe állomás (A klaszter)",
+            "ro": "Gara Moorthorpe (Cluster A)",
+            "en": "Moorthorpe Station (Cluster A)"
+          },
+          "coords": [
+            53.591,
+            -1.301
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Bahnhof.",
+            "hu": "Parkoljon az állomásnál.",
+            "ro": "Parcați la gară.",
+            "en": "Park at the station car park."
+          }
+        },
+        {
+          "name": {
+            "de": "All Saints Church (Cluster A)",
+            "hu": "Mindenszentek-templom (A klaszter)",
+            "ro": "Biserica All Saints (Cluster A)",
+            "en": "All Saints Church (Cluster A)"
+          },
+          "coords": [
+            53.596,
+            -1.304
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bahnhof.",
+            "hu": "Rövid séta az állomástól.",
+            "ro": "Scurtă plimbare de la gară.",
+            "en": "Short walk from the station area."
+          }
+        },
+        {
+          "name": {
+            "de": "Frickley Athletic FC (Cluster B)",
+            "hu": "Frickley Athletic (B klaszter)",
+            "ro": "Frickley Athletic (Cluster B)",
+            "en": "Frickley Athletic (Cluster B)"
+          },
+          "coords": [
+            53.595,
+            -1.312
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Heimat des 'Blues'.",
+            "hu": "A kék-fehérek otthona.",
+            "ro": "Casa echipei locale 'The Blues'.",
+            "en": "Home of the local football club."
+          }
+        },
+        {
+          "name": {
+            "de": "Frickley Country Park (Cluster B)",
+            "hu": "Frickley Country Park (B klaszter)",
+            "ro": "Parcul Frickley (Cluster B)",
+            "en": "Frickley Country Park (Cluster B)"
+          },
+          "coords": [
+            53.585,
+            -1.315
+          ],
+          "category": "park",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Parkeingang.",
+            "hu": "Nagy parkoló a bejáratnál.",
+            "ro": "Parcare spațioasă la intrare.",
+            "en": "Spacious car park at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch in Moorthorpe (Cluster C)",
+            "hu": "Ebéd Moorthorpe-ban (C klaszter)",
+            "ro": "Prânz în Moorthorpe (Cluster C)",
+            "en": "Lunch in Moorthorpe (Cluster C)"
+          },
+          "coords": [
+            53.592,
+            -1.305
+          ],
+          "category": "culinary",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Probieren Sie einen 'Miners' Lunch'.",
+            "hu": "Kóstolja meg a bányász ebédet.",
+            "ro": "Încercați un prânz tradițional local.",
+            "en": "Try a hearty local lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Ackworth Garden Centre (Nearby)",
+            "hu": "Ackworth kertészet (közeli)",
+            "ro": "Centrul Ackworth Garden (Aproape)",
+            "en": "Ackworth Garden Centre (Nearby)"
+          },
+          "coords": [
+            53.645,
+            -1.332
+          ],
+          "category": "shopping",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Schöner Ausflugsziel in der Nähe.",
+            "hu": "Szép kirándulóhely a közelben.",
+            "ro": "O destinație plăcută în apropiere.",
+            "en": "A lovely nearby excursion spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das industrielle Erbe von South Kirkby mit einem Ausflug ins Grüne. Nutzen Sie das Cluster-Prinzip: Parken Sie im Zentrum für die historischen Sights und später am Country Park für einen ausgiebigen Spaziergang. Ein Abstecher nach Ackworth rundet den Tag perfekt ab.",
+        "hu": "Ez az autós túra ötvözi South Kirkby ipari örökségét egy kis vidéki kirándulással. Használja a klaszter-elvet: parkoljon a központban a történelmi látnivalókhoz, majd a Country Parknál egy nagy sétához. Egy közeli látogatás Ackworth-be tökéletessé teszi a napot.",
+        "ro": "Acest tur auto combină patrimoniul industrial din South Kirkby cu o excursie în natură. Folosiți principiul clusterelor: parcați în centru pentru vizite istorice și apoi la parcul natural pentru o plimbare lungă. O scurtă vizită la Ackworth completează ziua perfect.",
+        "en": "This car tour combines the industrial heritage of South Kirkby with a green getaway. Use the cluster principle: park in the center for historical sights and later at the Country Park for an extensive walk. A quick detour to Ackworth rounds off the day perfectly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Rustler",
+            "tip": "Beliebtes Bistro für Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Rustler",
+            "tip": "Népszerű bisztró ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Rustler",
+            "tip": "Bistro popular pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Rustler",
+            "tip": "Popular bistro for a midday meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Howell Wood",
+            "tip": "Waldruhe nur 10 Min. Fahrt entfernt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Howell erdő",
+            "tip": "Erdei nyugalom 10 perc autóútra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Howell",
+            "tip": "Liniște forestieră la 10 minute de mers.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Howell Wood",
+            "tip": "Forest tranquility just 10 mins drive away.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ackworth Garden Centre",
+            "tip": "Pflanzen und regionales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ackworth kertészet",
+            "tip": "Növények és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ackworth Garden Centre",
+            "tip": "Plante și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ackworth Garden Centre",
+            "tip": "Plants and regional crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Rushhour Richtung Wakefield.",
+          "Der Country Park hat im Sommer lange Parköffnungszeiten."
+        ],
+        "hu": [
+          "Kerülje a csúcsforgalmat Wakefield felé.",
+          "A parkoló nyáron sokáig nyitva tart."
+        ],
+        "ro": [
+          "Evitați orele de vârf spre Wakefield.",
+          "Parcarea are program prelungit vara."
+        ],
+        "en": [
+          "Avoid rush hour traffic towards Wakefield.",
+          "The country park car park has long hours in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Moorthorpe Station (District A)",
+            "hu": "Moorthorpe állomás (A negyed)",
+            "ro": "Gara Moorthorpe (District A)",
+            "en": "Moorthorpe Station (District A)"
+          },
+          "coords": [
+            53.591,
+            -1.301
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Haupteingang für den Nahverkehr.",
+            "hu": "A helyi közlekedés fő kapuja.",
+            "ro": "Poarta principală pentru transportul local.",
+            "en": "Main hub for local transport links."
+          }
+        },
+        {
+          "name": {
+            "de": "South Kirkby Square (District A)",
+            "hu": "South Kirkby tér (A negyed)",
+            "ro": "Piața South Kirkby (District A)",
+            "en": "South Kirkby Square (District A)"
+          },
+          "coords": [
+            53.592,
+            -1.305
+          ],
+          "category": "civic",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bushaltestellen direkt am Platz.",
+            "hu": "Buszmegállók közvetlenül a téren.",
+            "ro": "Stații de autobuz direct în piață.",
+            "en": "Bus stops located directly on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mill Lane Park (District B)",
+            "hu": "Mill Lane Park (B negyed)",
+            "ro": "Parcul Mill Lane (District B)",
+            "en": "Mill Lane Park (District B)"
+          },
+          "coords": [
+            53.59,
+            -1.32
+          ],
+          "category": "park",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erreichbar mit der Linie 496.",
+            "hu": "A 496-os busszal elérhető.",
+            "ro": "Accesibil cu linia de autobuz 496.",
+            "en": "Accessible via the 496 bus line."
+          }
+        },
+        {
+          "name": {
+            "de": "The Common (District B)",
+            "hu": "The Common (B negyed)",
+            "ro": "The Common (District B)",
+            "en": "The Common (District B)"
+          },
+          "coords": [
+            53.588,
+            -1.312
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spaziergang durch die Siedlung.",
+            "hu": "Séta a lakótelepen keresztül.",
+            "ro": "Plimbare prin zona rezidențială.",
+            "en": "Walk through the historic residential area."
+          }
+        },
+        {
+          "name": {
+            "de": "Moorthorpe Village Hall",
+            "hu": "Faluház",
+            "ro": "Căminul Cultural",
+            "en": "Moorthorpe Village Hall"
+          },
+          "coords": [
+            53.593,
+            -1.303
+          ],
+          "category": "civic",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentrum lokaler Veranstaltungen.",
+            "hu": "Helyi események központja.",
+            "ro": "Centrul evenimentelor locale.",
+            "en": "Center for local community events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den öffentlichen Nahverkehr, um die verschiedenen Ortsteile zu erkunden. Der Tag beginnt am Bahnknotenpunkt Moorthorpe, führt über den zentralen Platz zu den ruhigeren Parkanlagen im Westen und endet bei den historischen Bergarbeiterhäusern. Eine entspannte Art, das echte West Yorkshire zu erleben.",
+        "hu": "Használja a tömegközlekedést a különböző városrészek felfedezéséhez. A nap a moorthorpe-i vasúti csomópontnál indul, érinti a központi teret, majd a nyugati parkok és a történelmi bányászházak felé veszi az irányt. Kényelmes módja az igazi West Yorkshire megismerésének.",
+        "ro": "Folosiți transportul public pentru a explora diferitele cartiere. Ziua începe la nodul feroviar Moorthorpe, trece prin piața centrală spre parcurile liniștite din vest și se încheie la casele istorice ale minerilor. O modalitate relaxată de a experimenta adevăratul West Yorkshire.",
+        "en": "Use local public transport to explore the different districts. The day starts at the Moorthorpe rail hub, takes you through the central square to the quieter parks in the west, and ends among the historic miners' houses. A relaxed way to experience the real West Yorkshire."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moorthorpe Fish Bar",
+            "tip": "Klassische Fish and Chips."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moorthorpe Fish Bar",
+            "tip": "Klasszikus fish and chips."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moorthorpe Fish Bar",
+            "tip": "Fish and chips clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moorthorpe Fish Bar",
+            "tip": "Classic British fish and chips."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mill Lane Meadows",
+            "tip": "Ruhige Wiesen am Ortsrand.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mill Lane rétek",
+            "tip": "Csendes rétek a falu szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștile Mill Lane",
+            "tip": "Pajiști liniștite la marginea localității.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mill Lane Meadows",
+            "tip": "Quiet meadows on the edge of town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Poundland & Local Shops",
+            "tip": "Schnäppchenjagd im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek",
+            "tip": "Olcsó vásárlási lehetőség a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale",
+            "tip": "Cumpărături accesibile în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Discount Shops",
+            "tip": "Bargain hunting in the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich eine MCard für günstigere Busfahrten.",
+          "Die Busse verkehren regelmäßig Richtung Barnsley und Pontefract."
+        ],
+        "hu": [
+          "Váltson MCardot a kedvezőbb buszjegyekhez.",
+          "A buszok rendszeresen járnak Barnsley és Pontefract felé."
+        ],
+        "ro": [
+          "Luați un MCard pentru tarife mai mici la autobuz.",
+          "Autobuzele circulă regulat spre Barnsley și Pontefract."
+        ],
+        "en": [
+          "Get an MCard for cheaper bus travel across the region.",
+          "Buses run regularly towards Barnsley and Pontefract."
+        ]
+      }
+    }
+  }
+}

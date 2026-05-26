@@ -1,0 +1,1400 @@
+{
+  "city_id": "plizio_go",
+  "anchor": {
+    "name": "PlizioGo City Center",
+    "coords": [
+      46.1,
+      18.2
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Fő tér",
+          "coords": [
+            46.102,
+            18.201
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früher Marktplatz, heute Treffpunkt.",
+            "hu": "Régi piactér, ma találkozóhely.",
+            "ro": "Piață veche, azi loc de întâlnire.",
+            "en": "Old market square, now a meeting point."
+          }
+        },
+        {
+          "name": "Történelmi Múzeum",
+          "coords": [
+            46.103,
+            18.203
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stadtgeschichte interaktiv erleben.",
+            "hu": "Várostörténet interaktívan.",
+            "ro": "Istoria orașului interactiv.",
+            "en": "City history interactive."
+          }
+        },
+        {
+          "name": "Szent István templom",
+          "coords": [
+            46.104,
+            18.205
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Barocke Fresken im Inneren.",
+            "hu": "Barokk freskók a belsőben.",
+            "ro": "Frescuri baroce în interior.",
+            "en": "Baroque frescoes inside."
+          }
+        },
+        {
+          "name": "Városi Park",
+          "coords": [
+            46.105,
+            18.207
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mittagspause im Schatten der Bäume.",
+            "hu": "Ebédszünet a fák árnyékában.",
+            "ro": "Pauză de prânz la umbra copacilor.",
+            "en": "Lunch break in the shade of trees."
+          }
+        },
+        {
+          "name": "Képtár",
+          "coords": [
+            46.106,
+            18.209
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Moderne Kunst regionaler Künstler.",
+            "hu": "Regionális művészek modern művei.",
+            "ro": "Artă modernă a artiștilor locali.",
+            "en": "Modern art by regional artists."
+          }
+        },
+        {
+          "name": "Folyóparti sétány",
+          "coords": [
+            46.107,
+            18.211
+          ],
+          "category": "beach",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schöner Blick auf die Altstadt.",
+            "hu": "Gyönyörű kilátás az óvárosra.",
+            "ro": "Vedere frumoasă spre orașul vechi.",
+            "en": "Beautiful view of the old town."
+          }
+        },
+        {
+          "name": "Halászcsárda",
+          "coords": [
+            46.108,
+            18.213
+          ],
+          "category": "gastro",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frischer Fisch vom Grill, lokale Weine.",
+            "hu": "Friss hal a grillről, helyi borok.",
+            "ro": "Pește proaspăt la grătar, vinuri locale.",
+            "en": "Fresh grilled fish, local wines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem Hauptplatz, wo das Leben erwacht. Nach einem Kaffee geht es ins Historische Museum, um die Stadtgeschichte zu entdecken. Die Mittagszeit verbringt man im Stadtpark, bevor man am Nachmittag die Kunstgalerie besucht. Der Abend klingt mit einem Spaziergang entlang des Flusses und einem Abendessen in der Fischertaverne aus.",
+        "hu": "A reggel a Fő téren kezdődik, ahol az élet felébred. Kávé után a Történelmi Múzeumba megyünk, hogy felfedezzük a város történetét. A déli időt a Városi Parkban töltjük, majd délután meglátogatjuk a Képtárat. Az este egy folyóparti sétával és egy vacsorával zárul a Halászcsárdában.",
+        "ro": "Dimineața începe în Piața Principală, unde viața se trezește. După o cafea, mergem la Muzeul de Istorie pentru a descoperi istoria orașului. Prânzul îl petrecem în Parcul Orășenesc, iar după-amiaza vizităm Galeria de Artă. Seara se încheie cu o plimbare pe malul râului și o cină la Cârciuma Pescarilor.",
+        "en": "The morning starts at the Main Square, where life awakens. After coffee, head to the Historical Museum to discover the city's history. Lunchtime is spent in the City Park, followed by an afternoon visit to the Art Gallery. The evening ends with a walk along the river and dinner at the Fisherman's Tavern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Frischer Fisch und lokale Weine."
+          },
+          {
+            "name": "Piactéri Kávézó",
+            "tip": "Klasszikus magyar kávé és sütemény."
+          },
+          {
+            "name": "Park Étterem",
+            "tip": "Vegetáriánus ételek a parkban."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Friss hal és helyi borok."
+          },
+          {
+            "name": "Piactéri Kávézó",
+            "tip": "Klasszikus magyar kávé és sütemény."
+          },
+          {
+            "name": "Park Étterem",
+            "tip": "Vegetáriánus ételek a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârciuma Pescarilor",
+            "tip": "Pește proaspăt și vinuri locale."
+          },
+          {
+            "name": "Cafeneaua din Piață",
+            "tip": "Cafea și prăjituri clasice maghiare."
+          },
+          {
+            "name": "Restaurantul din Parc",
+            "tip": "Mâncăruri vegetariene în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Tavern",
+            "tip": "Fresh fish and local wines."
+          },
+          {
+            "name": "Market Café",
+            "tip": "Classic Hungarian coffee and pastry."
+          },
+          {
+            "name": "Park Restaurant",
+            "tip": "Vegetarian dishes in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Ruhiger Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Grüne Oase der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátótorony",
+            "tip": "Panoramablick auf die Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Csendes hely a naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Zöld oázis a csendhez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátótorony",
+            "tip": "Panorámás kilátás a városra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada pe malul râului",
+            "tip": "Loc liniștit pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Orășenesc",
+            "tip": "Oază verde de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Turnul de observație",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Promenade",
+            "tip": "Quiet spot for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Park",
+            "tip": "Green oasis of peace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Observation Tower",
+            "tip": "Panoramic view of the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piactér",
+            "tip": "Lokale Handwerkskunst und Souvenirs."
+          },
+          {
+            "name": "Kézműves utca",
+            "tip": "Einzigartige Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Helyi kézműves termékek és ajándéktárgyak."
+          },
+          {
+            "name": "Kézműves utca",
+            "tip": "Egyedi kerámiák és textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața",
+            "tip": "Meșteșuguri locale și suveniruri."
+          },
+          {
+            "name": "Strada Meșteșugarilor",
+            "tip": "Ceramică și textile unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Local crafts and souvenirs."
+          },
+          {
+            "name": "Craftsmen Street",
+            "tip": "Unique ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe.",
+          "Planen Sie Pausen in den Parks ein.",
+          "Probieren Sie lokale Spezialitäten.",
+          "Besuchen Sie Museen am Vormittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt.",
+          "Tervezzen szüneteket a parkokban.",
+          "Kóstolja meg a helyi specialitásokat.",
+          "Látogassa meg a múzeumokat délelőtt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă.",
+          "Planificați pauze în parcuri.",
+          "Încercați specialitățile locale.",
+          "Vizitați muzeele dimineața."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Plan breaks in the parks.",
+          "Try local specialties.",
+          "Visit museums in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Fő tér",
+          "coords": [
+            46.102,
+            18.201
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Radtour.",
+            "hu": "A biciklitúra kiindulópontja.",
+            "ro": "Punct de plecare pentru turul cu bicicleta.",
+            "en": "Starting point for the bike tour."
+          }
+        },
+        {
+          "name": "Történelmi Múzeum",
+          "coords": [
+            46.103,
+            18.203
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradständer vor dem Museum.",
+            "hu": "Biciklitároló a múzeum előtt.",
+            "ro": "Suport pentru biciclete în fața muzeului.",
+            "en": "Bike rack in front of the museum."
+          }
+        },
+        {
+          "name": "Szent István templom",
+          "coords": [
+            46.104,
+            18.205
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schöne Fassade für ein Foto.",
+            "hu": "Gyönyörű homlokzat egy fotóhoz.",
+            "ro": "Fațadă frumoasă pentru o fotografie.",
+            "en": "Beautiful facade for a photo."
+          }
+        },
+        {
+          "name": "Városi Park",
+          "coords": [
+            46.105,
+            18.207
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Picknick im Grünen.",
+            "hu": "Piknik a zöldben.",
+            "ro": "Picnic în natură.",
+            "en": "Picnic in the green."
+          }
+        },
+        {
+          "name": "Képtár",
+          "coords": [
+            46.106,
+            18.209
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahrradfreundlicher Eingang.",
+            "hu": "Biciklibarát bejárat.",
+            "ro": "Intrare prietenoasă pentru biciclete.",
+            "en": "Bike-friendly entrance."
+          }
+        },
+        {
+          "name": "Folyóparti sétány",
+          "coords": [
+            46.107,
+            18.211
+          ],
+          "category": "beach",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radweg entlang des Flusses.",
+            "hu": "Kerékpárút a folyó mentén.",
+            "ro": "Pistă pentru biciclete de-a lungul râului.",
+            "en": "Bike path along the river."
+          }
+        },
+        {
+          "name": "Halászcsárda",
+          "coords": [
+            46.108,
+            18.213
+          ],
+          "category": "gastro",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahrradparkplatz am Eingang.",
+            "hu": "Bicikliparkoló a bejáratnál.",
+            "ro": "Parcare pentru biciclete la intrare.",
+            "en": "Bike parking at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Radtour zum Hauptplatz. Nach dem Museumsbesuch radeln wir zur Kirche und dann zum Park für ein Picknick. Am Nachmittag geht es zur Kunstgalerie und dann entlang des Flusses. Der Abend endet mit einem Abendessen in der Fischertaverne.",
+        "hu": "A reggel egy biciklitúrával kezdődik a Fő térig. A múzeumlátogatás után a templomhoz, majd a parkba tekerünk egy piknikre. Délután a Képtárhoz, majd a folyó mentén haladunk. Az este egy vacsorával zárul a Halászcsárdában.",
+        "ro": "Dimineața începe cu un tur cu bicicleta până în Piața Principală. După vizita la muzeu, pedalăm spre biserică și apoi în parc pentru un picnic. După-amiaza mergem la Galeria de Artă și apoi de-a lungul râului. Seara se încheie cu o cină la Cârciuma Pescarilor.",
+        "en": "The morning starts with a bike ride to the Main Square. After the museum visit, we cycle to the church and then to the park for a picnic. In the afternoon, we head to the Art Gallery and then along the river. The evening ends with dinner at the Fisherman's Tavern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Frischer Fisch und lokale Weine."
+          },
+          {
+            "name": "Piactéri Kávézó",
+            "tip": "Klasszikus magyar kávé és sütemény."
+          },
+          {
+            "name": "Park Étterem",
+            "tip": "Vegetáriánus ételek a parkban."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Friss hal és helyi borok."
+          },
+          {
+            "name": "Piactéri Kávézó",
+            "tip": "Klasszikus magyar kávé és sütemény."
+          },
+          {
+            "name": "Park Étterem",
+            "tip": "Vegetáriánus ételek a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârciuma Pescarilor",
+            "tip": "Pește proaspăt și vinuri locale."
+          },
+          {
+            "name": "Cafeneaua din Piață",
+            "tip": "Cafea și prăjituri clasice maghiare."
+          },
+          {
+            "name": "Restaurantul din Parc",
+            "tip": "Mâncăruri vegetariene în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Tavern",
+            "tip": "Fresh fish and local wines."
+          },
+          {
+            "name": "Market Café",
+            "tip": "Classic Hungarian coffee and pastry."
+          },
+          {
+            "name": "Park Restaurant",
+            "tip": "Vegetarian dishes in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Ruhiger Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Grüne Oase der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátótorony",
+            "tip": "Panoramablick auf die Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Csendes hely a naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Zöld oázis a csendhez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátótorony",
+            "tip": "Panorámás kilátás a városra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada pe malul râului",
+            "tip": "Loc liniștit pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Orășenesc",
+            "tip": "Oază verde de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Turnul de observație",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Promenade",
+            "tip": "Quiet spot for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Park",
+            "tip": "Green oasis of peace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Observation Tower",
+            "tip": "Panoramic view of the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piactér",
+            "tip": "Lokale Handwerkskunst und Souvenirs."
+          },
+          {
+            "name": "Kézműves utca",
+            "tip": "Einzigartige Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Helyi kézműves termékek és ajándéktárgyak."
+          },
+          {
+            "name": "Kézműves utca",
+            "tip": "Egyedi kerámiák és textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața",
+            "tip": "Meșteșuguri locale și suveniruri."
+          },
+          {
+            "name": "Strada Meșteșugarilor",
+            "tip": "Ceramică și textile unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Local crafts and souvenirs."
+          },
+          {
+            "name": "Craftsmen Street",
+            "tip": "Unique ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Fahrradwege.",
+          "Nehmen Sie Wasser mit.",
+          "Schließen Sie Ihr Fahrrad immer ab.",
+          "Tragen Sie einen Helm."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárutakat.",
+          "Vigyen magával vizet.",
+          "Mindig zárja le a biciklijét.",
+          "Viseljen sisakot."
+        ],
+        "ro": [
+          "Verificați pistele pentru biciclete.",
+          "Luați apă cu dumneavoastră.",
+          "Încuiați întotdeauna bicicleta.",
+          "Purtați o cască."
+        ],
+        "en": [
+          "Check the bike paths.",
+          "Bring water with you.",
+          "Always lock your bike.",
+          "Wear a helmet."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 35.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Fő tér",
+          "coords": [
+            46.102,
+            18.201
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Platzes.",
+            "hu": "Parkoljon a tér közelében.",
+            "ro": "Parcați în apropierea pieței.",
+            "en": "Park near the square."
+          }
+        },
+        {
+          "name": "Történelmi Múzeum",
+          "coords": [
+            46.103,
+            18.203
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Walkable from the parking lot."
+          }
+        },
+        {
+          "name": "Szent István templom",
+          "coords": [
+            46.104,
+            18.205
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": "Városi Park",
+          "coords": [
+            46.105,
+            18.207
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mittagspause im Park.",
+            "hu": "Ebédszünet a parkban.",
+            "ro": "Pauză de prânz în parc.",
+            "en": "Lunch break in the park."
+          }
+        },
+        {
+          "name": "Képtár",
+          "coords": [
+            46.106,
+            18.209
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Park erreichbar.",
+            "hu": "Gyalogosan elérhető a parktól.",
+            "ro": "Accesibil pe jos din parc.",
+            "en": "Walkable from the park."
+          }
+        },
+        {
+          "name": "Folyóparti sétány",
+          "coords": [
+            46.107,
+            18.211
+          ],
+          "category": "beach",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schöner Spaziergang entlang des Flusses.",
+            "hu": "Szép séta a folyó mentén.",
+            "ro": "Plimbare frumoasă de-a lungul râului.",
+            "en": "Nice walk along the river."
+          }
+        },
+        {
+          "name": "Halászcsárda",
+          "coords": [
+            46.108,
+            18.213
+          ],
+          "category": "gastro",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abendessen in der Taverne.",
+            "hu": "Vacsora a csárdában.",
+            "ro": "Cină la cârciumă.",
+            "en": "Dinner at the tavern."
+          }
+        },
+        {
+          "name": "Kilátótorony",
+          "coords": [
+            46.12,
+            18.22
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtsturm für den Sonnenuntergang.",
+            "hu": "Menjen a kilátótoronyhoz a naplementéhez.",
+            "ro": "Mergeți la turnul de observație pentru apus.",
+            "en": "Drive to the observation tower for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem Hauptplatz. Nach dem Museumsbesuch und der Kirche geht es zu Fuß zum Park für ein Picknick. Am Nachmittag besuchen wir die Kunstgalerie und machen einen Spaziergang entlang des Flusses. Der Abend endet mit einem Abendessen in der Fischertaverne und einem Sonnenuntergang am Aussichtsturm.",
+        "hu": "A reggel a Fő téren kezdődik. A múzeumlátogatás és a templom után gyalogosan megyünk a parkba egy piknikre. Délután meglátogatjuk a Képtárat és sétálunk a folyó mentén. Az este egy vacsorával zárul a Halászcsárdában és egy naplementével a kilátótoronynál.",
+        "ro": "Dimineața începe în Piața Principală. După vizita la muzeu și la biserică, mergem pe jos în parc pentru un picnic. După-amiaza vizităm Galeria de Artă și facem o plimbare de-a lungul râului. Seara se încheie cu o cină la Cârciuma Pescarilor și un apus la turnul de observație.",
+        "en": "The morning starts at the Main Square. After the museum and church visit, we walk to the park for a picnic. In the afternoon, we visit the Art Gallery and take a walk along the river. The evening ends with dinner at the Fisherman's Tavern and a sunset at the observation tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Frischer Fisch und lokale Weine."
+          },
+          {
+            "name": "Piactéri Kávézó",
+            "tip": "Klasszikus magyar kávé és sütemény."
+          },
+          {
+            "name": "Park Étterem",
+            "tip": "Vegetáriánus ételek a parkban."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Friss hal és helyi borok."
+          },
+          {
+            "name": "Piactéri Kávézó",
+            "tip": "Klasszikus magyar kávé és sütemény."
+          },
+          {
+            "name": "Park Étterem",
+            "tip": "Vegetáriánus ételek a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârciuma Pescarilor",
+            "tip": "Pește proaspăt și vinuri locale."
+          },
+          {
+            "name": "Cafeneaua din Piață",
+            "tip": "Cafea și prăjituri clasice maghiare."
+          },
+          {
+            "name": "Restaurantul din Parc",
+            "tip": "Mâncăruri vegetariene în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Tavern",
+            "tip": "Fresh fish and local wines."
+          },
+          {
+            "name": "Market Café",
+            "tip": "Classic Hungarian coffee and pastry."
+          },
+          {
+            "name": "Park Restaurant",
+            "tip": "Vegetarian dishes in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Ruhiger Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Grüne Oase der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátótorony",
+            "tip": "Panoramablick auf die Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Csendes hely a naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Zöld oázis a csendhez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátótorony",
+            "tip": "Panorámás kilátás a városra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada pe malul râului",
+            "tip": "Loc liniștit pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Orășenesc",
+            "tip": "Oază verde de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Turnul de observație",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Promenade",
+            "tip": "Quiet spot for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Park",
+            "tip": "Green oasis of peace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Observation Tower",
+            "tip": "Panoramic view of the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piactér",
+            "tip": "Lokale Handwerkskunst und Souvenirs."
+          },
+          {
+            "name": "Kézműves utca",
+            "tip": "Einzigartige Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Helyi kézműves termékek és ajándéktárgyak."
+          },
+          {
+            "name": "Kézműves utca",
+            "tip": "Egyedi kerámiák és textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața",
+            "tip": "Meșteșuguri locale și suveniruri."
+          },
+          {
+            "name": "Strada Meșteșugarilor",
+            "tip": "Ceramică și textile unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Local crafts and souvenirs."
+          },
+          {
+            "name": "Craftsmen Street",
+            "tip": "Unique ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Zentrum und erkunden Sie die Stadt zu Fuß.",
+          "Nutzen Sie die Parkhäuser.",
+          "Planen Sie Fahrten zu den Außenbezirken ein.",
+          "Vermeiden Sie Stoßzeiten."
+        ],
+        "hu": [
+          "Parkoljon a központban és fedezze fel a várost gyalog.",
+          "Használja a parkolóházakat.",
+          "Tervezzen utazásokat a külvárosokba.",
+          "Kerülje a csúcsidőket."
+        ],
+        "ro": [
+          "Parcați în centru și explorați orașul pe jos.",
+          "Folosiți parcările.",
+          "Planificați călătorii în suburbii.",
+          "Evitați orele de vârf."
+        ],
+        "en": [
+          "Park in the center and explore the city on foot.",
+          "Use the parking garages.",
+          "Plan trips to the outskirts.",
+          "Avoid peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 18.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Fő tér",
+          "coords": [
+            46.102,
+            18.201
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bus- und Straßenbahnhaltestelle in der Nähe.",
+            "hu": "Bus- és villamosmegálló a közelben.",
+            "ro": "Stație de autobuz și tramvai în apropiere.",
+            "en": "Bus and tram stop nearby."
+          }
+        },
+        {
+          "name": "Történelmi Múzeum",
+          "coords": [
+            46.103,
+            18.203
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Haltestelle erreichbar.",
+            "hu": "Gyalogosan elérhető a megállótól.",
+            "ro": "Accesibil pe jos de la stație.",
+            "en": "Walkable from the stop."
+          }
+        },
+        {
+          "name": "Szent István templom",
+          "coords": [
+            46.104,
+            18.205
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": "Városi Park",
+          "coords": [
+            46.105,
+            18.207
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mittagspause im Park.",
+            "hu": "Ebédszünet a parkban.",
+            "ro": "Pauză de prânz în parc.",
+            "en": "Lunch break in the park."
+          }
+        },
+        {
+          "name": "Képtár",
+          "coords": [
+            46.106,
+            18.209
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Park erreichbar.",
+            "hu": "Gyalogosan elérhető a parktól.",
+            "ro": "Accesibil pe jos din parc.",
+            "en": "Walkable from the park."
+          }
+        },
+        {
+          "name": "Folyóparti sétány",
+          "coords": [
+            46.107,
+            18.211
+          ],
+          "category": "beach",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schöner Spaziergang entlang des Flusses.",
+            "hu": "Szép séta a folyó mentén.",
+            "ro": "Plimbare frumoasă de-a lungul râului.",
+            "en": "Nice walk along the river."
+          }
+        },
+        {
+          "name": "Halászcsárda",
+          "coords": [
+            46.108,
+            18.213
+          ],
+          "category": "gastro",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abendessen in der Taverne.",
+            "hu": "Vacsora a csárdában.",
+            "ro": "Cină la cârciumă.",
+            "en": "Dinner at the tavern."
+          }
+        },
+        {
+          "name": "Kilátótorony",
+          "coords": [
+            46.12,
+            18.22
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Aussichtsturm.",
+            "hu": "Vegye a buszt a kilátótoronyhoz.",
+            "ro": "Luați autobuzul până la turnul de observație.",
+            "en": "Take the bus to the observation tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem Hauptplatz. Nach dem Museumsbesuch und der Kirche geht es zu Fuß zum Park für ein Picknick. Am Nachmittag besuchen wir die Kunstgalerie und machen einen Spaziergang entlang des Flusses. Der Abend endet mit einem Abendessen in der Fischertaverne und einem Sonnenuntergang am Aussichtsturm.",
+        "hu": "A reggel a Fő téren kezdődik. A múzeumlátogatás és a templom után gyalogosan megyünk a parkba egy piknikre. Délután meglátogatjuk a Képtárat és sétálunk a folyó mentén. Az este egy vacsorával zárul a Halászcsárdában és egy naplementével a kilátótoronynál.",
+        "ro": "Dimineața începe în Piața Principală. După vizita la muzeu și la biserică, mergem pe jos în parc pentru un picnic. După-amiaza vizităm Galeria de Artă și facem o plimbare de-a lungul râului. Seara se încheie cu o cină la Cârciuma Pescarilor și un apus la turnul de observație.",
+        "en": "The morning starts at the Main Square. After the museum and church visit, we walk to the park for a picnic. In the afternoon, we visit the Art Gallery and take a walk along the river. The evening ends with dinner at the Fisherman's Tavern and a sunset at the observation tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Frischer Fisch und lokale Weine."
+          },
+          {
+            "name": "Piactéri Kávézó",
+            "tip": "Klasszikus magyar kávé és sütemény."
+          },
+          {
+            "name": "Park Étterem",
+            "tip": "Vegetáriánus ételek a parkban."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Friss hal és helyi borok."
+          },
+          {
+            "name": "Piactéri Kávézó",
+            "tip": "Klasszikus magyar kávé és sütemény."
+          },
+          {
+            "name": "Park Étterem",
+            "tip": "Vegetáriánus ételek a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârciuma Pescarilor",
+            "tip": "Pește proaspăt și vinuri locale."
+          },
+          {
+            "name": "Cafeneaua din Piață",
+            "tip": "Cafea și prăjituri clasice maghiare."
+          },
+          {
+            "name": "Restaurantul din Parc",
+            "tip": "Mâncăruri vegetariene în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Tavern",
+            "tip": "Fresh fish and local wines."
+          },
+          {
+            "name": "Market Café",
+            "tip": "Classic Hungarian coffee and pastry."
+          },
+          {
+            "name": "Park Restaurant",
+            "tip": "Vegetarian dishes in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Ruhiger Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Grüne Oase der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátótorony",
+            "tip": "Panoramablick auf die Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Csendes hely a naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Zöld oázis a csendhez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátótorony",
+            "tip": "Panorámás kilátás a városra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada pe malul râului",
+            "tip": "Loc liniștit pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Orășenesc",
+            "tip": "Oază verde de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Turnul de observație",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Promenade",
+            "tip": "Quiet spot for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Park",
+            "tip": "Green oasis of peace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Observation Tower",
+            "tip": "Panoramic view of the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piactér",
+            "tip": "Lokale Handwerkskunst und Souvenirs."
+          },
+          {
+            "name": "Kézműves utca",
+            "tip": "Einzigartige Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Helyi kézműves termékek és ajándéktárgyak."
+          },
+          {
+            "name": "Kézműves utca",
+            "tip": "Egyedi kerámiák és textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața",
+            "tip": "Meșteșuguri locale și suveniruri."
+          },
+          {
+            "name": "Strada Meșteșugarilor",
+            "tip": "Ceramică și textile unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Local crafts and souvenirs."
+          },
+          {
+            "name": "Craftsmen Street",
+            "tip": "Unique ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket.",
+          "Überprüfen Sie die Fahrpläne.",
+          "Seien Sie pünktlich an den Haltestellen.",
+          "Nutzen Sie die öffentlichen Verkehrsmittel für weitere Strecken."
+        ],
+        "hu": [
+          "Vásároljon napijegyet.",
+          "Ellenőrizze a menetrendeket.",
+          "Legyen pontos a megállókban.",
+          "Használja a tömegközlekedést a hosszabb utakhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi.",
+          "Verificați orarele.",
+          "Fiți punctual la stații.",
+          "Folosiți transportul public pentru distanțe mai lungi."
+        ],
+        "en": [
+          "Buy a day ticket.",
+          "Check the schedules.",
+          "Be punctual at the stops.",
+          "Use public transport for longer distances."
+        ]
+      }
+    }
+  }
+}
