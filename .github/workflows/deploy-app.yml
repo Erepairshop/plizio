@@ -1,0 +1,145 @@
+name: Deploy App (Next routes only)
+
+# Fast deploy path for app-shell / UI changes:
+#   - Next build → app routes (homepage, /games, /astro-*, /test-*, /learn, etc.)
+#   - REUSES the POI HTMLs from the current release (no 152K regen)
+#   - REUSES the static maps already in public/*-map/
+#
+# Trigger this when the change is in app/, components/, or non-data lib code.
+# For POI data updates → use deploy-poi-delta.yml (4-5 min).
+# For full rebuild from scratch → use deploy-vps.yml (manual, 35-40 min).
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-vps
+  cancel-in-progress: false
+
+env:
+  RELEASE_BASE: /home/erik/plizio
+  KEEP_RELEASES: 2
+
+jobs:
+  build-deploy:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Cache .next
+        uses: actions/cache@v4
+        with:
+          path: .next/cache
+          key: nextcache-vps-v2-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-${{ github.sha }}
+          restore-keys: |
+            nextcache-vps-v2-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-
+            nextcache-vps-v2-${{ runner.os }}-
+
+      - name: Purge stale build output
+        shell: bash
+        run: |
+          if [ -d .next ]; then
+            find .next -mindepth 1 -maxdepth 1 ! -name cache -exec rm -rf {} +
+          fi
+          rm -rf out
+
+      - run: npm ci
+
+      - name: Patch Next worker memory limit (4GB → 12GB)
+        shell: bash
+        continue-on-error: true
+        run: |
+          FILES=$(grep -rl "maxOldGenerationSizeMb" node_modules/next/dist 2>/dev/null || true)
+          [ -z "$FILES" ] && FILES=$(grep -rl "resourceLimits" node_modules/next/dist 2>/dev/null || true)
+          [ -z "$FILES" ] && { echo "WARN: no patchable file"; exit 0; }
+          echo "$FILES" | xargs sed -i -E 's/maxOldGenerationSizeMb:\s*[0-9]+/maxOldGenerationSizeMb: 12288/g' || true
+
+      - name: Generate V2 POI JSON (chunks for runtime lazy-load)
+        run: npx tsx scripts/prepare_v2_data.mjs
+
+      - name: Build SEO index
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-seo-index.mts
+
+      - name: Split POIs per country (lazy-fetch source)
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/split_pois_by_country.mts
+
+      - name: Build (static export → out/)
+        env:
+          NODE_OPTIONS: --max-old-space-size=12288
+          GSP_LIMIT: '0'
+        run: npm run build
+
+      - name: Verify Next out/ produced
+        run: test -f out/index.html && test -d out/_next
+
+      - name: Flatten sitemap paths
+        run: node scripts/flatten-sitemap-paths.mjs
+
+      - name: Reuse POI HTMLs from current release
+        shell: bash
+        run: |
+          set -euo pipefail
+          CURRENT="${{ env.RELEASE_BASE }}/current"
+          if [ ! -L "$CURRENT" ]; then
+            echo "ERROR: no current symlink — first deploy must use deploy-vps.yml"
+            exit 1
+          fi
+          REAL=$(readlink -f "$CURRENT")
+          rsync -a --ignore-existing "$REAL/" out/
+          # Sanity check: POI HTMLs present
+          COUNT=$(find out -path "*/poi-static" -prune -o -mindepth 4 -name "index.html" -print | wc -l)
+          echo "POI HTML count after rsync: $COUNT"
+          test "$COUNT" -gt 100000
+
+      - name: Force sitemap.xml index into out/
+        run: |
+          set -euo pipefail
+          cp public/sitemap.xml out/sitemap.xml
+          test -f out/sitemap.xml && test -s out/sitemap.xml
+
+      - name: Atomic static release + nginx reload
+        run: |
+          set -euo pipefail
+          TS=$(date -u +%Y%m%d-%H%M%S)
+          REL_DIR="${{ env.RELEASE_BASE }}/releases/${TS}"
+          mkdir -p "$REL_DIR"
+          PREV=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
+          if [ -n "$PREV" ] && [ -d "$PREV" ]; then
+            rsync -a --delete --link-dest="$PREV/" out/ "$REL_DIR/"
+          else
+            cp -a out/. "$REL_DIR"/
+          fi
+          test -f "$REL_DIR/index.html" && test -d "$REL_DIR/_next"
+          chmod 755 "$REL_DIR"
+          find "$REL_DIR" -type d ! -perm 755 -exec chmod 755 {} + || true
+          find "$REL_DIR" -type f ! -perm 644 -exec chmod 644 {} + || true
+          if [ -d "${{ env.RELEASE_BASE }}/shared/sight-images" ]; then
+            ln -sfn "${{ env.RELEASE_BASE }}/shared/sight-images" "$REL_DIR/sight-images"
+          fi
+          ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
+          mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
+          CURRENT_TARGET=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
+          find "${{ env.RELEASE_BASE }}/releases" -mindepth 1 -maxdepth 1 -type d -mmin +1440 \
+            ! -path "$CURRENT_TARGET" -print -exec rm -rf {} + || true
+          if ! cmp -s deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf 2>/dev/null; then
+            sudo cp deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf
+            sudo nginx -t
+          fi
+          sudo systemctl reload nginx
+          echo "DEPLOYED: $REL_DIR"
+
+      - name: Smoke test
+        run: |
+          set -euo pipefail
+          STATUS=$(curl -sS -o /tmp/out.html -w "%{http_code}" http://localhost/)
+          test "$STATUS" = "200"
