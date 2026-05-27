@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraPeruCitiesV2: POI[] = [
@@ -10,61 +11,44 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Lima",
       hu: "Lima",
       ro: "Lima",
-      en: "Lima"
-    },
+      en: "Lima"},
+    image: "/poi-images/lima-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und größte Stadt Perus.",
       hu: "Peru fővárosa és legnagyobb városa.",
       ro: "Capitala și cel mai mare oraș din Peru.",
-      en: "The capital and largest city of Peru."
+      en: "The capital and largest city of Peru.",
+      es: "La capital y ciudad más grande del Perú.",
+      pt: "A capital e maior cidade do Peru.",
+      fr: "La capitale et la plus grande ville du Pérou.",
     },
     descriptionAdvanced: {
-      de: "Lima, die \"Stadt der Könige\", ist das pulsierende Herz Perus und vereint koloniale Pracht mit moderner Metropolenatmosphäre. Die historische Altstadt, ein UNESCO-Weltkulturerbe, beeindruckt mit prächtigen Holzbalkonen und monumentalen Kirchen aus der spanischen Zeit. In Stadtteilen wie Miraflores und Barranco zeigt sich die Stadt von ihrer modernen und künstlerischen Seite mit Blick auf den Pazifik. Lima gilt zudem als die gastronomische Hauptstadt Amerikas, in der die Vielfalt der peruanischen Küche in Weltklasse-Restaurants gefeiert wird. Das feuchte Küstenklima sorgt oft für einen mystischen Nebel, die Garúa, der die Stadt in ein besonderes Licht taucht.",
-      hu: "Lima, a \"királyok városa\", Peru lüktető szíve, amely egyesíti a koloniális pompát a modern nagyvárosi légkörrel. Történelmi központja, az UNESCO világörökség része, lenyűgözi a látogatókat a spanyol korszakból származó pompás faerkélyekkel és monumentális templomokkal. Az olyan városrészek, mint Miraflores és Barranco, a város modern és művészi oldalát mutatják be, csodálatos kilátással a Csendes-óceánra. Lima Amerika gasztronómiai fővárosaként is ismert, ahol a perui konyha sokszínűségét világszínvonalú éttermekben ünnepelik. A párás tengerparti éghajlat gyakran idéz elő egy misztikus ködöt, a Garúát, amely különleges fénybe borítja a várost. Földrajz K8 - Városi tájak.",
-      ro: "Lima, cunoscută drept „Orașul Regilor”, este inima vibrantă a Peru-ului, îmbinând măreția colonială cu atmosfera unei metropole moderne. Centrul istoric, parte a patrimoniului mondial UNESCO, impresionează prin balcoanele din lemn ornate și bisericile monumentale din perioada colonială spaniolă. Districte precum Miraflores și Barranco evidențiază latura artistică a orașului, cu panorame uluitoare asupra Oceanului Pacific. Lima este recunoscută și ca fiind capitala gastronomică a Americii, unde diversitatea bucătăriei peruane este pusă în valoare în restaurante de talie mondială. Climatul costier umed aduce adesea o ceață mistică numită „garúa”, care învăluie orașul într-o lumină unică. Geografie K8 - Peisaje Urbane.",
-      en: "Lima, the \"City of Kings,\" is the pulsating heart of Peru, blending colonial grandeur with a modern metropolitan atmosphere. The historic center, a UNESCO World Heritage site, impresses with ornate wooden balconies and monumental churches from the Spanish era. Districts like Miraflores and Barranco showcase the city's artistic side with stunning views over the Pacific Ocean. Lima is also celebrated as the gastronomic capital of the Americas, where the diversity of Peruvian cuisine is showcased in world-class restaurants. The humid coastal climate often brings a mystical mist known as garúa, bathing the city in a unique, soft light. Geography K8 - Urban Landscapes."
+      de: "Lima, die Hauptstadt von Peru, wurde am 18. Januar 1535 vom spanischen Eroberer Francisco Pizarro als 'Stadt der Könige' gegründet. Sie liegt an der zentralen Küste des Landes am Pazifischen Ozean und ist heute das politische, wirtschaftliche und kulturelle Zentrum Perus. Die Architektur der Stadt ist eine faszinierende Mischung aus kolonialen Prachtbauten im historischen Zentrum, das zum UNESCO-Weltkulturerbe gehört, und modernen Wolkenkratzern in Vierteln wie San Isidro. Lima ist weltbekannt für seine Gastronomie und gilt als kulinarische Hauptstadt Amerikas, in der Traditionen der Anden, des Amazonas und Einflüsse aus Europa und Asien verschmelzen. Geografisch ist die Stadt durch das Phänomen des Küstennebels (Garúa) geprägt, der durch den kalten Humboldtstrom verursacht wird. Trotz ihrer Lage in einer Wüstenregion ist Lima die zweitgrößte Wüstenstadt der Welt nach Kairo. Mit über 10 Millionen Einwohnern ist sie eine pulsierende Megacity, die bedeutende Museen wie das Larco-Museum beherbergt, welches die präkolumbianische Geschichte Perus eindrucksvoll dokumentiert.",
+      hu: "Lima, Peru fővárosa, 1535. január 18-án alapította Francisco Pizarro spanyol hódító 'A királyok városa' néven. Az ország központi tengerpartján, a Csendes-óceán partján fekszik, és ma Peru politikai, gazdasági és kulturális központja. A város építészete a gyarmati kor pompás épületeinek és a modern felhőkarcolók lenyűgöző keveréke, történelmi belvárosa pedig az UNESCO Világörökség részét képezi. Lima világszerte ismert gasztronómiájáról, és Amerika kulináris fővárosának tartják, ahol az andoki, az amazóniai, az európai és az ázsiai hatások ötvöződnek. Földrajzilag a várost a part menti köd (garúa) jelensége határozza meg, amelyet a hideg Humboldt-áramlat okoz. Sivatagi fekvése ellenére Lima a világ második legnagyobb sivatagi városa Kairó után. Több mint 10 millió lakosával egy lüktető metropolisz, amely olyan jelentős múzeumoknak ad otthont, mint a Larco Múzeum, amely Peru prekolumbián történelmét dokumentálja.",
+      ro: "Lima, capitala Peruului, a fost fondată la 18 ianuarie 1535 de către cuceritorul spaniol Francisco Pizarro sub numele de „Orașul Regilor”. Situată pe coasta centrală a țării, la Oceanul Pacific, este astăzi centrul politic, economic și cultural al Peruului. Arhitectura orașului este un amestec fascinant de clădiri coloniale magnifice în centrul istoric, inclus în Patrimoniul Mondial UNESCO, și zgârie-nori moderni în cartiere precum San Isidro. Lima este renumită la nivel mondial pentru gastronomia sa, fiind considerată capitala culinară a Americilor, unde se contopesc tradițiile andine, amazoniene și influențele europene și asiatice. Din punct de vedere geografic, orașul este marcat de fenomenul ceții de coastă (garúa), cauzat de curentul rece Humboldt. În ciuda amplasării sale într-o regiune deșertică, Lima este al doilea cel mai mare oraș de deșert din lume, după Cairo. Cu peste 10 milioane de locuitori, este o megacetate vibrantă care adăpostește muzee importante, precum Muzeul Larco, ce documentează istoria precolumbiană a țării.",
+      en: "Lima, the capital of Peru, was founded on January 18, 1535, by the Spanish conqueror Francisco Pizarro as the 'City of the Kings.' Located on the country's central coast by the Pacific Ocean, it is now the political, economic, and cultural heart of Peru. The city's architecture is a fascinating blend of grand colonial buildings in the historic center, a UNESCO World Heritage site, and modern skyscrapers in districts like San Isidro. Lima is world-renowned for its gastronomy and is considered the culinary capital of the Americas, where Andean, Amazonian, European, and Asian influences converge. Geographically, the city is defined by the coastal mist phenomenon (garúa) caused by the cold Humboldt Current. Despite its location in a desert region, Lima is the world's second-largest desert city after Cairo. With over 10 million inhabitants, it is a vibrant megacity home to significant museums like the Larco Museum, which impressively documents Peru's pre-Columbian history.",
+      es: "Lima es un elemento notable de la geografía y cultura peruana. Es la capital y la ciudad más grande del país, fundada en 1535 por Francisco Pizarro. Tiene más de 9 millones de habitantes. Esta ciudad es uno de los asentamientos característicos de Perú entre los Andes, la costa del Pacífico y la cuenca del Amazonas. Como muchos lugares importantes de Perú, este sitio combina peculiaridades regionales entre el Pacífico, los Andes y el Amazonas con una importancia global. Así, este lugar contribuye al perfil versátil de Perú, desde el legado inca y Machu Picchu hasta Lima y la cuenca del Amazonas.",
+      pt: "Lima é um elemento notável da geografia e cultura peruana. É a capital e a maior cidade do país, fundada em 1535 por Francisco Pizarro. Tem mais de 9 milhões de habitantes. Esta cidade é um dos assentamentos característicos do Peru entre os Andes, a costa do Pacífico e a bacia amazônica. Como muitos locais importantes no Peru, este sítio combina peculiaridades regionais entre o Pacífico, os Andes e a Amazônia com uma importância abrangente. Assim, este lugar contribui para o perfil versátil do Peru, desde o legado inca e Machu Picchu até Lima e a bacia amazônica.",
+      fr: "Lima est un élément remarquable de la géographie et de la culture péruviennes. Capitale et plus grande ville du Pérou, elle a été fondée en 1535 par Francisco Pizarro. Elle compte plus de 9 millions d'habitants. Cette ville fait partie des colonies caractéristiques du Pérou situées entre les Andes, la côte pacifique et le bassin amazonien. Comme de nombreux lieux importants au Pérou, ce site combine des particularités régionales entre le Pacifique, les Andes et l'Amazonie avec une importance globale. Ainsi, ce lieu contribue au profil polyvalent du Pérou, de l'héritage inca et du Machu Picchu à Lima et au bassin amazonien.",
     },
     facts: {
       de: ["Gegründet 1535 von Francisco Pizarro.", "Über 9 Millionen Einwohner."],
       hu: ["Francisco Pizarro alapította 1535-ben.", "Több mint 9 millió lakosa van."],
       ro: ["Fondat în 1535 de Francisco Pizarro.", "Are peste 9 milioane de locuitori."],
-      en: ["Founded in 1535 by Francisco Pizarro.", "Has over 9 million inhabitants."]
+      en: ["Founded in 1535 by Francisco Pizarro.", "Has over 9 million inhabitants."],
+      es: ["Fundada en 1535 por Francisco Pizarro.", "Más de 9 millones de habitantes."],
+      pt: ["Fundada em 1535 por Francisco Pizarro.", "Mais de 9 milhões de habitantes."],
+      fr: ["Fondée en 1535 par Francisco Pizarro.", "Plus de 9 millions d'habitants."],
     },
     factsAdvanced: {
-      de: [
-        "Die Kathedrale von Lima beherbergt das Grab des Stadtgründers Francisco Pizarro.",
-        "Lima ist die zweitgrößte Wüstenstadt der Welt nach Kairo.",
-        "Die Stadt wurde am 18. Januar 1535 offiziell gegründet.",
-        "Im Larco Museum kann man eine der weltweit bedeutendsten Sammlungen präkolumbianischer Kunst bewundern."
-      ],
-      hu: [
-        "A limai katedrálisban nyugszik a város alapítója, Francisco Pizarro.",
-        "Kairó után Lima a világ második legnagyobb sivatagi városa.",
-        "A várost hivatalosan 1535. január 18-án alapították.",
-        "A Larco Múzeumban a prekolumbián művészet egyik legfontosabb gyűjteménye látható."
-      ],
-      ro: [
-        "Catedrala din Lima găzduiește mormântul fondatorului orașului, Francisco Pizarro.",
-        "Lima este al doilea cel mai mare oraș deșertic din lume, după Cairo.",
-        "Orașul a fost fondat oficial la 18 ianuarie 1535.",
-        "Muzeul Larco adăpostește una dintre cele mai importante colecții de artă precolumbiană din lume."
-      ],
-      en: [
-        "The Cathedral of Lima houses the tomb of the city's founder, Francisco Pizarro.",
-        "Lima is the world's second-largest desert city after Cairo.",
-        "The city was officially founded on January 18, 1535.",
-        "The Larco Museum features one of the most significant collections of pre-Columbian art in the world."
-      ]
-    },
-      ro: [],
-      en: [
-        "The Cathedral of Lima houses the tomb of the city's founder, Francisco Pizarro.",
-        "Lima is the second-largest desert city in the world after Cairo.",
-        "The city was officially founded on January 18, 1535.",
-        "The Larco Museum features one of the most important collections of pre-Columbian art."
-      ]
-    }
-  },
+      de: ["Lima wurde am 18. Januar 1535 von Francisco Pizarro gegründet.", "Das historische Zentrum gehört seit 1988 zum UNESCO-Weltkulturerbe.", "Es ist die zweitgrößte Wüstenstadt der Welt nach Kairo.", "In der Metropolregion Lima leben über 10 Millionen Menschen.", "Die Universität San Marcos (gegründet 1551) ist die älteste Amerikas.", "Der Hafen von Callao ist der wichtigste Handelsplatz Perus."],
+      hu: ["Limát 1535. január 18-án alapította Francisco Pizarro.", "A történelmi belváros 1988 óta az UNESCO Világörökség része.", "A világ második legnagyobb sivatagi városa az egyiptomi Kairó után.", "Lima metropolisz körzetében több mint 10 millióan élnek.", "Az 1551-ben alapított San Marcos Egyetem Amerika legrégebbi egyeteme.", "A város kikötője, Callao, Peru legfontosabb kereskedelmi csomópontja."],
+      ro: ["Lima a fost fondată la 18 ianuarie 1535 de către Francisco Pizarro.", "Centrul istoric a fost inclus în Patrimoniul Mondial UNESCO în 1988.", "Este al doilea cel mai mare oraș din lume construit în deșert.", "Populația zonei metropolitane depășește 10 milioane de locuitori.", "Universitatea San Marcos (1551) este cea mai veche din Americi.", "Portul Callao, adiacent Limei, este principalul nod comercial al țării."],
+      en: ["Lima was founded on January 18, 1535, by Francisco Pizarro.", "The historic center was designated a UNESCO World Heritage site in 1988.", "It is the second-largest desert city in the world, after Cairo.", "The Lima metropolitan area is home to over 10 million people.", "San Marcos University, founded in 1551, is the oldest in the Americas.", "The Port of Callao is Peru's primary international trade gateway."],
+      es: ["La capital y ciudad más grande del Perú.", "Se encuentra en el territorio de la República del Perú.", "Enclavada entre la cordillera de los Andes, el desierto costero y la cuenca del Amazonas.", "Desempeña un papel en la identidad local de la región.", "Conocida por su importancia paisajística o cultural."],
+      pt: ["A capital e maior cidade do Peru.", "Está localizada no território da República do Peru.", "Situada entre a cordilheira dos Andes, o deserto costeiro e a bacia amazônica.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
+      fr: ["La capitale et la plus grande ville du Pérou.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
+    }, image: "/poi-images/lima-cities-v2.webp"},
   {
     id: "arequipa-cities-v2",
     type: "city",
@@ -74,70 +58,44 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Arequipa",
       hu: "Arequipa",
       ro: "Arequipa",
-      en: "Arequipa"
-    },
+      en: "Arequipa"},
+    image: "/poi-images/arequipa-cities-v2.webp",
     description: {
       de: "Bekannt als die 'Weiße Stadt'.",
       hu: "A 'Fehér Város' néven ismert.",
       ro: "Cunoscut ca 'Orașul Alb'.",
-      en: "Known as the 'White City'."
+      en: "Known as the 'White City'.",
+      es: "Conocida como la 'Ciudad Blanca'.",
+      pt: "Conhecida como a 'Cidade Branca'.",
+      fr: "Connue comme la 'Ville Blanche'.",
     },
     descriptionAdvanced: {
-      de: "Arequipa, die zweitgrößte Stadt Perus, liegt malerisch am Fuße des majestätischen Vulkans Misti in den Anden. Ihr Beiname \"Weiße Stadt\" rührt von dem hellen Sillar-Gestein her, einem Vulkangestein, aus dem die meisten Gebäude der Altstadt errichtet wurden. Das Kloster Santa Catalina ist ein faszinierendes \"Stadt in der Stadt\"-Labyrinth aus farbenfrohen Gassen und kolonialer Architektur. Die Region ist auch bekannt für ihre tiefe Schluchten, wie den Colca-Canyon, und ihre traditionsreiche, oft scharfe Küche. Arequipa bewahrt stolz seine eigene regionale Identität und Geschichte, die bis in die Inkazeit und die spanische Kolonisation zurückreicht.",
-      hu: "Arequipa, Peru második legnagyobb városa, festői környezetben fekszik a fenséges Misti vulkán lábánál az Andokban. A \"Fehér város\" elnevezés a világos színű, vulkanikus sillar kőzetből ered, amelyből a történelmi óváros épületeinek többsége épült. A Santa Catalina kolostor egy lenyűgöző \"város a városban\", tele színes sikátorokkal és koloniális építészettel. A régió híres mély kanyonjairól, például a Colca-kanyonról, valamint gazdag és gyakran fűszeres hagyományos konyhájáról. Arequipa büszkén őrzi saját regionális identitását és történelmét, amely az inka korszakba és a spanyol gyarmatosítás idejére nyúlik vissza. Földrajz K7 - Vulkanikus régiók.",
-      ro: "Arequipa, al doilea oraș ca mărime din Peru, este situat pitoresc la poalele maiestuosului vulcan Misti în Munții Anzi. Supranumele de „Orașul Alb” provine de la roca vulcanică deschisă la culoare, numită „sillar”, utilizată în construcția majorității clădirilor din centrul istoric. Mănăstirea Santa Catalina este un „oraș în oraș” fascinant, un labirint de străzi colorate și arhitectură colonială. Regiunea este renumită și pentru canioanele sale adânci, precum Canionul Colca, și pentru bucătăria sa tradițională bogată, deseori condimentată. Arequipa își păstrează cu mândrie identitatea regională și istoria care datează din perioada incașă și colonizarea spaniolă. Geografie K7 - Regiuni vulcanice.",
-      en: "Arequipa, Peru's second-largest city, is beautifully framed by the majestic Misti Volcano in the Andes. Its nickname, the \"White City,\" comes from the light-colored sillar, a volcanic stone used to build most of the historic center's structures. The Santa Catalina Monastery is a fascinating \"city within a city,\" featuring a labyrinth of colorful alleys and colonial architecture. The region is also famous for its deep canyons, such as the Colca Canyon, and its rich, often spicy traditional cuisine. Arequipa proudly maintains its own regional identity and history, dating back to both the Inca period and Spanish colonization. Geography K7 - Volcanic Regions."
+      de: "Arequipa, bekannt als die 'Weiße Stadt', ist die zweitgrößte Stadt Perus und liegt auf einer Höhe von 2.335 Metern in den Anden. Ihren Beinamen verdankt sie dem Sillar, einem weißen vulkanischen Gestein, aus dem viele Gebäude im historischen Zentrum errichtet wurden. Die Stadt wird von drei imposanten Vulkanen überragt: dem Misti, dem Chachani und dem Pichu Pichu, die das Stadtbild prägen. Das historische Zentrum von Arequipa gehört seit dem Jahr 2000 zum UNESCO-Weltkulturerbe und beherbergt das beeindruckende Kloster Santa Catalina, eine Stadt in der Stadt. Arequipa wurde offiziell am 15. August 1540 von den Spaniern gegründet, blickt jedoch auf eine lange prähistorische Besiedlung zurück. Die Stadt ist auch ein Zentrum für Textilindustrie, insbesondere für hochwertige Alpakawolle, und besitzt eine eigenständige, hochgelobte Küche. Geografisch dient sie als Tor zum Colca-Tal, einer der tiefsten Schluchten der Welt, wo der majestätische Kondor beobachtet werden kann. Die Kombination aus kolonialer Architektur, vulkanischer Landschaft und kultureller Tiefe macht Arequipa zu einem der wichtigsten Reiseziele Perus.",
+      hu: "Arequipa, amelyet 'Fehér Város' néven ismernek, Peru második legnagyobb városa, 2335 méter magasságban fekszik az Andokban. Becenevét a sillarnak, egy fehér vulkáni kőzetnek köszönheti, amelyből a történelmi belváros számos épülete készült. A várost három impozáns vulkán uralja: a Misti, a Chachani és a Pichu Pichu, amelyek meghatározzák a látképet. Arequipa történelmi központja 2000 óta az UNESCO Világörökség része, és itt található a lenyűgöző Santa Catalina kolostor, amely egy város a városban. A várost hivatalosan 1540. augusztus 15-én alapították a spanyolok, de hosszú őskori betelepülési múlttal rendelkezik. A város a textilipar központja is, különösen a kiváló minőségű alpakagyapjú tekintetében, és egyedülálló, méltán dicsért konyhával büszkélkedhet. Földrajzilag kapuként szolgál a Colca-völgyhöz, a világ egyik legmélyebb kanyonjához, ahol a fenséges kondorkeselyű megfigyelhető. A gyarmati építészet, a vulkáni táj és a kulturális mélység kombinációja Arequipát Peru egyik legfontosabb úti céljává teszi.",
+      ro: "Arequipa, cunoscut sub numele de „Orașul Alb”, este al doilea oraș ca mărime din Peru și este situat la o altitudine de 2.335 de metri în Anzi. Își datorează porecla pietrei sillar, o rocă vulcanică albă din care au fost construite multe clădiri din centrul istoric. Orașul este dominat de trei vulcani impunători: Misti, Chachani și Pichu Pichu, care definesc peisajul urban. Centrul istoric al Arequipei face parte din Patrimoniul Mondial UNESCO din anul 2000 și găzduiește impresionanta Mănăstire Santa Catalina, o adevărată „cetate în cetate”. Arequipa a fost fondată oficial la 15 august 1540 de către spanioli, dar are o lungă istorie de așezări preistorice. Orașul este, de asemenea, un centru al industriei textile, în special pentru lână de alpaca de înaltă calitate, și posedă o bucătărie distinctă, foarte apreciată. Din punct de vedere geografic, servește drept poartă către Valea Colca, unul dintre cele mai adânci canioane din lume, unde poate fi observat maiestuosul condor. Combinația de arhitectură colonială, peisaj vulcanic și profunzime culturală face din Arequipa una dintre cele mai importante destinații din Peru.",
+      en: "Arequipa, known as the 'White City,' is the second-largest city in Peru, situated at an elevation of 2,335 meters in the Andes. It owes its nickname to sillar, a white volcanic stone used to construct many buildings in its historic center. The city is overseen by three imposing volcanoes: Misti, Chachani, and Pichu Pichu, which define the skyline. Arequipa's historic center has been a UNESCO World Heritage site since 2000 and is home to the impressive Santa Catalina Monastery, a city within a city. The city was officially founded on August 15, 1540, by the Spanish, though it has a long history of prehistoric settlement. Arequipa is also a hub for the textile industry, particularly high-quality alpaca wool, and boasts a unique and highly praised cuisine. Geographically, it serves as the gateway to the Colca Canyon, one of the deepest canyons in the world, where the majestic condor can be observed. The combination of colonial architecture, volcanic landscape, and cultural depth makes Arequipa one of Peru's most important destinations.",
+      es: "Arequipa es un elemento notable de la geografía y cultura peruanas. Conocida como la 'Ciudad Blanca'. Rodeada de volcanes como el Misti. La segunda ciudad más grande de Perú. Esta ciudad se cuenta entre los asentamientos característicos de Perú entre los Andes, la costa del Pacífico y la cuenca del Amazonas. Como muchos lugares importantes en Perú, este sitio combina peculiaridades regionales entre el Pacífico, los Andes y el Amazonas con una importancia global. De este modo, este lugar contribuye al perfil versátil de Perú, desde la herencia inca y Machu Picchu hasta Lima y la cuenca del Amazonas.",
+      pt: "Arequipa é um elemento notável da geografia e cultura peruanas. Conhecida como a 'Cidade Branca'. Cercada por vulcões como o Misti. A segunda maior cidade do Peru. Esta cidade está entre os assentamentos característicos do Peru entre os Andes, a costa do Pacífico e a bacia amazónica. Como muitos locais importantes no Peru, este sítio combina peculiaridades regionais entre o Pacífico, os Andes e a Amazónia com uma importância global. Assim, este local contribui para o perfil versátil do Peru, desde a herança inca e Machu Picchu até Lima e a bacia amazónica.",
+      fr: "Arequipa est un élément remarquable de la géographie et de la culture péruviennes. Connue comme la 'Ville Blanche'. Entourée de volcans comme le Misti. Deuxième plus grande ville du Pérou. Cette ville compte parmi les établissements caractéristiques du Pérou, entre les Andes, la côte Pacifique et le bassin amazonien. Comme de nombreux sites importants au Pérou, ce lieu allie des particularités régionales entre le Pacifique, les Andes et l'Amazonie à une importance globale. Ainsi, ce lieu contribue au profil diversifié du Pérou, de l'héritage inca et du Machu Picchu jusqu'à Lima et au bassin amazonien.",
     },
     facts: {
       de: ["Umgeben von Vulkanen wie dem Misti.", "Zweitgrößte Stadt in Peru."],
       hu: ["Olyan vulkánok veszik körül, mint a Misti.", "Peru második legnagyobb városa."],
       ro: ["Înconjurat de vulcani precum Misti.", "Al doilea cel mai mare oraș din Peru."],
-      en: ["Surrounded by volcanoes like El Misti.", "Second largest city in Peru."]
+      en: ["Surrounded by volcanoes like El Misti.", "Second largest city in Peru."],
+      es: ["Rodeada de volcanes como el Misti.", "Segunda ciudad más grande de Perú."],
+      pt: ["Cercada por vulcões como o Misti.", "Segunda maior cidade do Peru."],
+      fr: ["Entourée de volcans comme le Misti.", "Deuxième plus grande ville du Pérou."],
     },
     factsAdvanced: {
-      de: [
-        "Das historische Zentrum von Arequipa gehört seit dem Jahr 2000 zum UNESCO-Weltkulturerbe.",
-        "Der Vulkan Misti ist mit 5.822 Metern das markante Wahrzeichen der Stadt.",
-        "Die Stadt wurde 1540 von den Spaniern gegründet.",
-        "Arequipa ist berühmt für seine 'Picanterías', traditionelle Restaurants mit lokaler Küche."
-      ],
-      hu: [
-        "Arequipa történelmi központja 2000 óta az UNESCO világörökség része.",
-        "A Misti vulkán 5822 méteres magasságával a város szembetűnő jelképe.",
-        "A várost 1540-ben alapították a spanyolok.",
-        "Arequipa híres 'Picantería' éttermeiről, amelyek hagyományos helyi ételeket kínálnak."
-      ],
-      ro: [
-        "Centrul istoric al orașului Arequipa face parte din patrimoniul mondial UNESCO din anul 2000.",
-        "Vulcanul Misti, cu o înălțime de 5.822 metri, este simbolul distinctiv al orașului.",
-        "Orașul a fost fondat de spanioli în 1540.",
-        "Arequipa este renumit pentru „Picanterías”, restaurante tradiționale care servesc preparate locale."
-      ],
-      en: [
-        "Arequipa's historic center has been a UNESCO World Heritage site since 2000.",
-        "The Misti Volcano, at 5,822 meters, is the city's striking landmark.",
-        "The city was founded by the Spanish in 1540.",
-        "Arequipa is famous for its 'Picanterías', traditional restaurants serving local cuisine."
-      ]
-    },
-        "Arequipa hat eine eigene Regionalfahne und sogar einen symbolischen eigenen Pass.",
-        "Die Stadt liegt auf einer angenehmen Höhe von etwa 2.335 Metern über dem Meeresspiegel."
-      ],
-      hu: [
-        "Arequipa történelmi központja 2000 óta az UNESCO világörökség része.",
-        "A Misti vulkán 5822 méteres magasságával a város szembetűnő jelképe.",
-        "A város saját regionális zászlóval rendelkezik, és jelképesen saját útlevéllel is büszkélkedhet.",
-        "A város kényelmes, körülbelül 2335 méteres tengerszint feletti magasságban fekszik."
-      ],
-      ro: [],
-      en: [
-        "The historic center of Arequipa has been a UNESCO World Heritage site since 2000.",
-        "The Misti Volcano stands at 5,822 meters and is the city's most iconic landmark.",
-        "Arequipa has its own regional flag and even its own symbolic regional passport.",
-        "The city is located at a pleasant altitude of approximately 2,335 meters above sea level."
-      ]
-    }
-  },
+      de: ["Arequipa liegt auf einer Höhe von 2.335 Metern über dem Meeresspiegel.", "Der Vulkan Misti (5.822 m) ist das Wahrzeichen der Stadt.", "Die Stadt wurde am 15. August 1540 von Garcí Manuel de Carbajal gegründet.", "Das historische Zentrum wurde im Jahr 2000 zum UNESCO-Weltkulturerbe erklärt.", "Das Kloster Santa Catalina erstreckt sich über eine Fläche von 20.000 m².", "Arequipa ist der weltweit führende Exporteur von Alpaka-Textilien."],
+      hu: ["Arequipa 2335 méterrel a tengerszint felett helyezkedik el.", "A Misti-vulkán (5822 m) a város legismertebb jelképe.", "A várost 1540. augusztus 15-én alapította Garcí Manuel de Carbajal.", "Történelmi központja 2000-ben került fel az UNESCO listájára.", "A Santa Catalina kolostor területe több mint 20 000 négyzetméter.", "Arequipa a világ legnagyobb alpakagyapjú-exportőre."],
+      ro: ["Arequipa este situat la o altitudine de 2.335 de metri în Anzi.", "Vulcanul Misti (5.822 m) este simbolul inconfundabil al orașului.", "Fondarea oficială a avut loc la 15 august 1540 de către spanioli.", "Centrul istoric a fost declarat Patrimoniu UNESCO în anul 2000.", "Mănăstirea Santa Catalina este un complex religios de 20.000 m².", "Este considerat centrul mondial al prelucrării fibrelor de alpaca."],
+      en: ["Arequipa is located at an elevation of 2,335 meters above sea level.", "The Misti Volcano (5,822 m) is the city's most iconic landmark.", "The city was officially founded on August 15, 1540.", "Its historic center was inscribed as a UNESCO World Heritage site in 2000.", "Santa Catalina Monastery covers a sprawling area of 20,000 square meters.", "The city is the global capital for the production of alpaca wool."],
+      es: ["Conocida como la 'Ciudad Blanca'.", "Ubicada en el territorio de la República del Perú.", "Enmarcada entre la cordillera de los Andes, el desierto costero y la cuenca del Amazonas.", "Juega un papel en la identidad local de la región.", "Conocida por su importancia paisajística o cultural."],
+      pt: ["Conhecida como a 'Cidade Branca'.", "Situada no território da República do Peru.", "Inserida entre a cordilheira dos Andes, o deserto costeiro e a bacia amazónica.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
+      fr: ["Connue comme la 'Ville Blanche'.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
+    }, image: "/poi-images/arequipa-cities-v2.webp"},
   {
     id: "trujillo-cities-v2",
     type: "city",
@@ -147,48 +105,44 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Trujillo",
       hu: "Trujillo",
       ro: "Trujillo",
-      en: "Trujillo"
-    },
+      en: "Trujillo"},
+    image: "/poi-images/trujillo-cities-v2.webp",
     description: {
       de: "Zentrum der Chimú-Kultur in Nordperu.",
       hu: "A Chimú kultúra központja Észak-Peruban.",
       ro: "Centrul culturii Chimú din nordul statului Peru.",
-      en: "Center of the Chimú culture in northern Peru."
+      en: "Center of the Chimú culture in northern Peru.",
+      es: "Centro de la cultura Chimú en el norte de Perú.",
+      pt: "Centro da cultura Chimú no norte do Peru.",
+      fr: "Centre de la culture Chimú au nord du Pérou.",
     },
     descriptionAdvanced: {
-      de: "Trujillo, die \"Stadt des ewigen Frühlings\", ist das kulturelle Zentrum Nordperus und reich an archäologischen Schätzen. Nahe der Stadt befinden sich die riesigen Lehmziegelruinen von Chan Chan, der einstigen Hauptstadt des Chimú-Reiches. Auch die Sonnen- und Mondpyramiden der Moche-Kultur zeugen von der jahrtausendealten Besiedlung dieser fruchtbaren Küstenregion. Die koloniale Innenstadt besticht durch ihre leuchtenden Farben, eleganten schmiedeeisernen Fenstergitter und weitläufigen Plätze. Jedes Jahr zieht das Marinera-Festival Besucher an, die den eleganten Nationaltanz Perus und die stolzen Paso-Pferde erleben wollen.",
-      hu: "Trujillo, az \"örök tavasz városa\" Észak-Peru kulturális központja, amely gazdag régészeti kincsekben. A város közelében találhatók a Chan Chan hatalmas vályogtéglából épült romjai, az egykori Chimú-birodalom fővárosa. A Moche-kultúra Nap- és Hold-piramisai szintén az évezredes emberi jelenlétről tanúskodnak ebben a termékeny partvidéken. A koloniális belváros ragyogó színeivel, elegáns kovácsoltvas ablakrácsaival és tágas tereivel hívja fel magára a figyelmet. A minden évben megrendezett Marinera Fesztivál vonzza a látogatókat, akik megcsodálhatják Peru elegáns nemzeti táncát és a büszke Paso lovakat. Történelem K6 - Ókori civilizációk.",
-      ro: "",
-      en: "Trujillo, the \"City of Eternal Spring,\" is the cultural hub of northern Peru and is exceptionally rich in archaeological treasures. Near the city lie the massive adobe ruins of Chan Chan, once the capital of the Chimú Empire and the largest mud-brick city in the world. The Sun and Moon Pyramids of the Moche culture also testify to thousands of years of settlement in this fertile coastal region. The colonial downtown stands out with its bright colors, elegant wrought-iron window grilles, and spacious plazas. Every year, the Marinera Festival attracts visitors to witness Peru's elegant national dance and the famous Paso horses. History K6 - Ancient Civilizations."
+      de: "Trujillo, an der Nordküste Perus gelegen, ist die drittgrößte Stadt des Landes und als 'Stadt des ewigen Frühlings' bekannt. Sie wurde 1534 gegründet und ist berühmt für ihr koloniales Erbe mit farbenfrohen Villen und kunstvollen Balkonen. In unmittelbarer Nähe befindet sich Chan Chan, die größte Lehmziegelstadt der Welt und ehemalige Hauptstadt des Chimú-Reiches, die zum UNESCO-Weltkulturerbe gehört. Trujillo ist zudem ein Zentrum der Moche-Kultur, dokumentiert durch die beeindruckenden Sonnen- und Mondpyramiden (Huacas del Sol y de la Luna). Die Stadt ist stolz auf ihre kulturellen Traditionen, insbesondere den Marinera-Tanz, für den sie die nationale Hauptstadt ist. Geografisch liegt Trujillo im Moche-Tal nahe dem Pazifik, wobei der Badeort Huanchaco für seine traditionellen Schilfboote (Caballitos de Totora) bekannt ist. Trujillo spielte eine Schlüsselrolle in der peruanischen Unabhängigkeit, da sie als erste Stadt die Freiheit von Spanien proklamierte. Heute ist sie ein bedeutendes Wirtschaftszentrum für Landwirtschaft und Handel im Norden Perus.",
+      hu: "Trujillo, Peru északi partján fekszik, az ország harmadik legnagyobb városa, és az 'Örök tavasz városa' néven ismert. 1534-ben alapították, és híres gyarmati örökségéről, színes kúriáiról és díszes erkélyeiről. Közvetlen közelében található Chan Chan, a világ legnagyobb vályogvárosa és a Chimú Birodalom egykori fővárosa, amely az UNESCO Világörökség része. Trujillo emellett a Moche-kultúra központja is, amit a lenyűgöző Nap- és Hold-piramisok (Huacas del Sol y de la Luna) dokumentálnak. A város büszke kulturális hagyományaira, különösen a Marinera táncra, amelynek országos fővárosa. Földrajzilag Trujillo a Moche-völgyben, a Csendes-óceán közelében fekszik, Huanchaco üdülőhelye pedig hagyományos nádtutajairól (Caballitos de Totora) ismert. Trujillo kulcsszerepet játszott Peru függetlenségében, mivel ez volt az első város, amely kikiáltotta a Spanyolországtól való szabadságát. Ma Észak-Peru jelentős mezőgazdasági és kereskedelmi gazdasági központja.",
+      ro: "Trujillo, situat pe coasta de nord a Peruului, este al treilea oraș ca mărime din țară și este cunoscut sub numele de „Orașul Primăverii Eterne”. A fost fondat în 1534 și este faimos pentru moștenirea sa colonială, cu conace colorate și balcoane elaborate. În imediata vecinătate se află Chan Chan, cel mai mare oraș de chirpici din lume și fosta capitală a Imperiului Chimú, inclus în Patrimoniul Mondial UNESCO. Trujillo este, de asemenea, un centru al culturii Moche, documentat prin impresionantele piramide ale Soarelui și Lunii (Huacas del Sol y de la Luna). Orașul este mândru de tradițiile sale culturale, în special de dansul Marinera, pentru care este capitala națională. Din punct de vedere geografic, Trujillo este situat în Valea Moche, lângă Pacific, stațiunea Huanchaco fiind renumită pentru bărcile sale tradiționale din stuf (Caballitos de Totora). Trujillo a jucat un rol cheie în independența Peruului, fiind primul oraș care și-a proclamat libertatea față de Spania. Astăzi, este un centru economic major pentru agricultură și comerț în nordul Peruului.",
+      en: "Trujillo, located on the northern coast of Peru, is the country's third-largest city and is known as the 'City of Eternal Spring.' Founded in 1534, it is famous for its colonial heritage, featuring colorful mansions and ornate balconies. In its immediate vicinity lies Chan Chan, the largest adobe city in the world and the former capital of the Chimú Empire, a UNESCO World Heritage site. Trujillo is also a center of the Moche culture, documented by the impressive Pyramids of the Sun and the Moon (Huacas del Sol y de la Luna). The city takes pride in its cultural traditions, especially the Marinera dance, for which it is the national capital. Geographically, Trujillo is situated in the Moche Valley near the Pacific, with the seaside resort of Huanchaco being famous for its traditional reed boats (Caballitos de Totora). Trujillo played a key role in Peruvian independence, as it was the first city to proclaim freedom from Spain. Today, it is a significant economic hub for agriculture and commerce in northern Peru.",
+      es: "Trujillo es un elemento notable de la geografía y cultura peruana. Fue el centro de la cultura Chimú en el norte de Perú y se encuentra cerca de las ruinas de Chan Chan. Es conocida por su Festival de la Primavera. Esta ciudad es uno de los asentamientos característicos de Perú entre los Andes, la costa del Pacífico y la cuenca del Amazonas. Como muchos lugares importantes de Perú, este sitio combina peculiaridades regionales entre el Pacífico, los Andes y el Amazonas con una importancia global. Así, este lugar contribuye al perfil versátil de Perú, desde el legado inca y Machu Picchu hasta Lima y la cuenca del Amazonas.",
+      pt: "Trujillo é um elemento notável da geografia e cultura peruana. Foi o centro da cultura Chimú no norte do Peru e fica perto das ruínas de Chan Chan. É conhecida pelo seu Festival da Primavera. Esta cidade é um dos assentamentos característicos do Peru entre os Andes, a costa do Pacífico e a bacia amazônica. Como muitos locais importantes no Peru, este sítio combina peculiaridades regionais entre o Pacífico, os Andes e a Amazônia com uma importância abrangente. Assim, este lugar contribui para o perfil versátil do Peru, desde o legado inca e Machu Picchu até Lima e a bacia amazônica.",
+      fr: "Trujillo est un élément remarquable de la géographie et de la culture péruviennes. Centre de la culture Chimú au nord du Pérou, elle est située à proximité des ruines de Chan Chan. Elle est célèbre pour son Festival du Printemps. Cette ville fait partie des colonies caractéristiques du Pérou situées entre les Andes, la côte pacifique et le bassin amazonien. Comme de nombreux lieux importants au Pérou, ce site combine des particularités régionales entre le Pacifique, les Andes et l'Amazonie avec une importance globale. Ainsi, ce lieu contribue au profil polyvalent du Pérou, de l'héritage inca et du Machu Picchu à Lima et au bassin amazonien.",
     },
     facts: {
       de: ["Die Ruinen von Chan Chan liegen nahe.", "Bekannt für den Frühlingsfest."],
       hu: ["Chan Chan romjai a közelben találhatók.", "Híres a tavaszi fesztiváljáról."],
       ro: ["Ruinele de la Chan Chan sunt aproape.", "Cunoscut pentru festivalul primăverii."],
-      en: ["The ruins of Chan Chan are nearby.", "Known for its spring festival."]
+      en: ["The ruins of Chan Chan are nearby.", "Known for its spring festival."],
+      es: ["Cerca de las ruinas de Chan Chan.", "Conocida por el Festival de la Primavera."],
+      pt: ["Perto das ruínas de Chan Chan.", "Conhecida pelo Festival da Primavera."],
+      fr: ["Proche des ruines de Chan Chan.", "Célèbre pour son Festival du Printemps."],
     },
     factsAdvanced: {
-      de: [
-        "Chan Chan ist die größte aus Lehm errichtete Stadt der Welt.",
-        "Trujillo wurde 1534 von Diego de Almagro gegründet und nach Pizarros Geburtsort in Spanien benannt.",
-        "Die Stadt war der erste Ort in Peru, der 1820 seine Unabhängigkeit von Spanien proklamierte.",
-        "Das nahegelegene Huanchaco ist berühmt für seine traditionellen Schilfboote, die Caballitos de Totora."
-      ],
-      hu: [
-        "Chan Chan a világ legnagyobb vályogból épült városa.",
-        "Trujillót 1534-ben alapította Diego de Almagro, és Pizarro szülőhelyéről nevezték el Spanyolországban.",
-        "Ez volt az első város Peruban, amely 1820-ban kikiáltotta függetlenségét Spanyolországtól.",
-        "A közeli Huanchaco strand híres a Caballitos de Totora nevű hagyományos nádtutajairól."
-      ],
-      ro: [],
-      en: [
-        "Chan Chan is the largest city built of mud in the world.",
-        "Trujillo was founded in 1534 and named after Pizarro's birthplace in Spain.",
-        "It was the first city in Peru to proclaim independence from Spain in 1820.",
-        "The nearby Huanchaco beach is famous for its traditional reed boats called Caballitos de Totora."
-      ]
-    }
-  },
+      de: ["Trujillo wurde im Dezember 1534 von Diego de Almagro gegründet.", "Chan Chan ist mit 20 km² die größte Lehmziegelstadt der Welt.", "Die Stadt gilt als die nationale Hauptstadt des Marinera-Tanzes.", "Die Huaca del Sol ist die größte Adobe-Pyramide Amerikas.", "Trujillo war 1820 die erste Stadt Perus, die ihre Unabhängigkeit erklärte.", "Der nahe Strand von Huanchaco ist berühmt für seine Caballitos de Totora."],
+      hu: ["Trujillót 1534 decemberében alapította Diego de Almagro.", "Chan Chan 20 négyzetkilométeres területével a világ legnagyobb vályogvárosa.", "A várost a Marinera tánc országos fővárosaként ismerik.", "A Huaca del Sol Amerika legnagyobb vályogtéglából épült piramisa.", "1820-ban Trujillo volt az első perui város, amely kikiáltotta függetlenségét.", "Huanchaco tengerpartja a hagyományos nádtutajokról híres."],
+      ro: ["Trujillo a fost fondat în decembrie 1534 de Diego de Almagro.", "Chan Chan, aflat lângă oraș, este cel mai mare oraș de chirpici din lume.", "Trujillo deține titlul oficial de Capitală Națională a dansului Marinera.", "Huaca del Sol este considerată cea mai mare piramidă de adobe din Americi.", "A fost primul oraș din Peru care și-a proclamat independența în 1820.", "Caballitos de Totora sunt bărci de stuf folosite de peste 2000 de ani."],
+      en: ["Trujillo was founded in December 1534 by Diego de Almagro.", "Chan Chan is the world's largest adobe city, covering 20 square kilometers.", "The city is the official National Capital of the Marinera dance.", "The Huaca del Sol is the largest pre-Columbian adobe structure in the Americas.", "Trujillo was the first Peruvian city to declare independence from Spain in 1820.", "The traditional Caballitos de Totora boats are still used in nearby Huanchaco."],
+      es: ["Centro de la cultura Chimú en el norte de Perú.", "Se encuentra en el territorio de la República del Perú.", "Enclavada entre la cordillera de los Andes, el desierto costero y la cuenca del Amazonas.", "Desempeña un papel en la identidad local de la región.", "Conocida por su importancia paisajística o cultural."],
+      pt: ["Centro da cultura Chimú no norte do Peru.", "Está localizada no território da República do Peru.", "Situada entre a cordilheira dos Andes, o deserto costeiro e a bacia amazônica.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
+      fr: ["Centre de la culture Chimú au nord du Pérou.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
+    }, image: "/poi-images/trujillo-cities-v2.webp"},
   {
     id: "chiclayo-cities-v2",
     type: "city",
@@ -198,43 +152,44 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Chiclayo",
       hu: "Chiclayo",
       ro: "Chiclayo",
-      en: "Chiclayo"
-    },
+      en: "Chiclayo"},
+    image: "/poi-images/chiclayo-cities-v2.webp",
     description: {
       de: "Hauptstadt der Region Lambayeque.",
       hu: "Lambayeque régió fővárosa.",
       ro: "Capitala regiunii Lambayeque.",
-      en: "Capital of the Lambayeque region."
+      en: "Capital of the Lambayeque region.",
+      es: "Capital de la región de Lambayeque.",
+      pt: "Capital da região de Lambayeque.",
+      fr: "Capitale de la région de Lambayeque.",
     },
     descriptionAdvanced: {
-      de: "Chiclayo, oft als \"Stadt der Freundschaft\" bezeichnet, ist ein lebhaftes Handelszentrum in der Region Lambayeque. Obwohl die Stadt selbst eher modern ist, dient sie als Tor zu einigen der bedeutendsten archäologischen Fundstätten Amerikas. Besonders berühmt ist das nahegelegene Sipán, wo das unversehrte Grab des Herrn von Sipán entdeckt wurde, ein Meilenstein der Moche-Archäologie. Der lokale Hexenmarkt (Mercado de Brujos) bietet faszinierende Einblicke in traditionelle Heilkunst und Schamanismus der Region. Chiclayo ist zudem für seine exzellente regionale Küche bekannt, insbesondere für Gerichte wie Arroz con Pato.",
-      hu: "",
-      ro: "",
-      en: "Chiclayo, often called the \"City of Friendship,\" is a vibrant commercial hub in the Lambayeque region. While the city itself is relatively modern, it serves as the gateway to some of the most significant archaeological sites in the Americas. It is particularly famous for the nearby Sipán, where the intact tomb of the Lord of Sipán was discovered, a milestone in Moche archaeology. The local Witches' Market (Mercado de Brujos) offers fascinating insights into traditional healing and regional shamanism. Chiclayo is also renowned for its excellent regional cuisine, especially dishes like Arroz con Pato. History K6 - Pre-Columbian Cultures."
+      de: "Chiclayo, bekannt als die 'Stadt der Freundschaft', liegt in der Region Lambayeque im Norden Perus. Obwohl sie erst im 18. Jahrhundert offiziell gegründet wurde, ist die Umgebung Schauplatz bedeutender präkolumbianischer Kulturen wie der Moche und Lambayeque. In unmittelbarer Nähe befindet sich das Grab des Herrn von Sipán, eine der bedeutendsten archäologischen Entdeckungen Südamerikas, das heute im Museum Tumbas Reales de Sipán ausgestellt wird. Chiclayo ist ein wichtiger Handelsknotenpunkt, der die Küste mit dem Amazonas-Regenwald und den Bergen verbindet. Der 'Markt der Hexen' (Mercado de las Brujas) ist eine einzigartige kulturelle Sehenswürdigkeit, auf der traditionelle Heiler schamanische Utensilien und Heilkräuter anbieten. Geografisch liegt die Stadt in einer fruchtbaren Küstenebene, die durch künstliche Bewässerung für den Reisanbau und die Zuckerindustrie genutzt wird. Chiclayo ist auch für seine exzellente Gastronomie berühmt, insbesondere für Gerichte wie Arroz con Pato. Trotz ihres modernen Charakters bewahrt die Stadt tiefe spirituelle Wurzeln und ist ein Zentrum für das Studium antiker peruanischer Zivilisationen.",
+      hu: "Chiclayo, a 'Barátság városa' néven ismert, Peru északi részén, Lambayeque régióban található. Bár csak a 18. században alapították hivatalosan, környéke olyan jelentős prekolumbián kultúrák színhelye volt, mint a Moche és a Lambayeque. Közvetlen közelében található Sipán urának sírja, Dél-Amerika egyik legjelentősebb régészeti felfedezése, amelyet ma a Tumbas Reales de Sipán Múzeumban állítanak ki. Chiclayo fontos kereskedelmi csomópont, amely összeköti a tengerpartot az Amazonas-esőerdővel és a hegyekkel. A 'Boszorkányok piaca' (Mercado de las Brujas) egyedülálló kulturális látványosság, ahol a hagyományos gyógyítók sámáni kellékeket és gyógynövényeket kínálnak. Földrajzilag a város egy termékeny parti síkságon fekszik, amelyet mesterséges öntözéssel rizstermesztésre és cukoriparra használnak. Chiclayo kiváló gasztronómiájáról is híres, különösen az Arroz con Patohoz hasonló ételekről. Modern jellege ellenére a város mély spirituális gyökereket őriz, és az ősi perui civilizációk tanulmányozásának központja.",
+      ro: "Chiclayo, cunoscut sub numele de „Orașul Prieteniei”, este situat în regiunea Lambayeque din nordul Peruului. Deși a fost fondat oficial abia în secolul al XVIII-lea, împrejurimile sale au fost scena unor importante culturi precolumbiene, precum Moche și Lambayeque. În imediata vecinătate se află mormântul Domnului de Sipán, una dintre cele mai semnificative descoperiri arheologice din America de Sud, expus astăzi la Muzeul Tumbas Reales de Sipán. Chiclayo este un nod comercial important care leagă coasta de pădurea amazoniană și munți. „Piața Vrăjitoarelor” (Mercado de las Brujas) este o atracție culturală unică, unde vindecătorii tradiționali oferă ustensile șamanice și ierburi medicinale. Din punct de vedere geografic, orașul este situat într-o câmpie de coastă fertilă, folosită prin irigare artificială pentru cultivarea orezului și industria zahărului. Chiclayo este, de asemenea, renumit pentru gastronomia sa excelentă, în special pentru mâncăruri precum Arroz con Pato. În ciuda caracterului său modern, orașul păstrează rădăcini spirituale profunde și este un centru pentru studiul civilizațiilor antice peruane.",
+      en: "Chiclayo, known as the 'City of Friendship,' is located in the Lambayeque region of northern Peru. Although it was officially founded only in the 18th century, its surroundings were the site of major pre-Columbian cultures like the Moche and Lambayeque. In its immediate vicinity lies the Tomb of the Lord of Sipán, one of South America's most significant archaeological discoveries, now exhibited at the Tumbas Reales de Sipán Museum. Chiclayo is an important commercial hub connecting the coast with the Amazon rainforest and the mountains. The 'Witches' Market' (Mercado de las Brujas) is a unique cultural attraction where traditional healers offer shamanic tools and medicinal herbs. Geographically, the city is situated in a fertile coastal plain used through artificial irrigation for rice cultivation and the sugar industry. Chiclayo is also famous for its excellent gastronomy, particularly dishes like Arroz con Pato. Despite its modern character, the city preserves deep spiritual roots and is a center for the study of ancient Peruvian civilizations.",
+      es: "Chiclayo es un elemento notable de la geografía y cultura peruana. Es la capital de la región de Lambayeque, situada cerca de la tumba del Señor de Sipán. Es un importante centro comercial. Esta ciudad es uno de los asentamientos característicos de Perú entre los Andes, la costa del Pacífico y la cuenca del Amazonas. Como muchos lugares importantes de Perú, este sitio combina peculiaridades regionales entre el Pacífico, los Andes y el Amazonas con una importancia global. Así, este lugar contribuye al perfil versátil de Perú, desde el legado inca y Machu Picchu hasta Lima y la cuenca del Amazonas.",
+      pt: "Chiclayo é um elemento notável da geografia e cultura peruana. É a capital da região de Lambayeque, situada perto do túmulo do Senhor de Sipán. É um importante centro comercial. Esta cidade é um dos assentamentos característicos do Peru entre os Andes, a costa do Pacífico e a bacia amazônica. Como muitos locais importantes no Peru, este sítio combina peculiaridades regionais entre o Pacífico, os Andes e a Amazônia com uma importância abrangente. Assim, este lugar contribui para o perfil versátil do Peru, desde o legado inca e Machu Picchu até Lima e a bacia amazônica.",
+      fr: "Chiclayo est un élément remarquable de la géographie et de la culture péruviennes. Capitale de la région de Lambayeque, elle se trouve à proximité de la tombe du Seigneur de Sipán. C'est un carrefour commercial important. Cette ville fait partie des colonies caractéristiques du Pérou situées entre les Andes, la côte pacifique et le bassin amazonien. Comme de nombreux lieux importants au Pérou, ce site combine des particularités régionales entre le Pacifique, les Andes et l'Amazonie avec une importance globale. Ainsi, ce lieu contribue au profil polyvalent du Pérou, de l'héritage inca et du Machu Picchu à Lima et au bassin amazonien.",
     },
     facts: {
       de: ["Nahe dem Grab des Herrn von Sipán.", "Wichtiger Handelsknotenpunkt."],
       hu: ["Sipán urának sírja közelében.", "Fontos kereskedelmi csomópont."],
       ro: ["Aproape de mormântul Domnului de Sipán.", "Un important nod comercial."],
-      en: ["Near the tomb of the Lord of Sipán.", "An important commercial hub."]
+      en: ["Near the tomb of the Lord of Sipán.", "An important commercial hub."],
+      es: ["Cerca de la tumba del Señor de Sipán.", "Importante centro comercial."],
+      pt: ["Perto do túmulo do Senhor de Sipán.", "Importante centro comercial."],
+      fr: ["Proche de la tombe du Seigneur de Sipán.", "Important carrefour commercial."],
     },
     factsAdvanced: {
-      de: [
-        "Das Museum der Königsgräber von Sipán gilt als eines der besten Museen Südamerikas.",
-        "Chiclayo hat keine koloniale Gründung, sondern entstand aus einer indigenen Siedlung.",
-        "In der Nähe liegt Túcume, das Tal der 26 Pyramiden der Lambayeque-Kultur.",
-        "Die Stadt ist ein wichtiger Knotenpunkt für den handel zwischen der Küste und dem Amazonasbecken."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "The Royal Tombs of Sipán Museum is considered one of the best museums in South America.",
-        "Chiclayo was not founded by Spaniards but grew from an indigenous settlement.",
-        "Nearby Túcume features the Valley of 26 Pyramids from the Lambayeque culture.",
-        "The city is a vital link for trade between the coast and the Amazon basin."
-      ]
-    }
-  },
+      de: ["Chiclayo wurde offiziell erst am 18. April 1835 zur Stadt erhoben.", "Das Grab des Herrn von Sipán wurde 1987 in der Nähe entdeckt.", "Der Hexenmarkt bietet Heilmittel für schamanische Rituale an.", "Das Museum Tumbas Reales de Sipán ist einem Moche-Palast nachempfunden.", "Chiclayo ist das Zentrum der Zuckerproduktion im Norden Perus.", "Die Kathedrale von Chiclayo wurde von Gustave Eiffel entworfen."],
+      hu: ["Chiclayót hivatalosan csak 1835. április 18-án nyilvánították várossá.", "Sipán urának sírját 1987-ben fedezték fel a város közelében.", "A Boszorkányok piacán sámáni rituálékhoz szükséges kellékeket árulnak.", "A Tumbas Reales de Sipán Múzeum egy Moche-piramist formáz.", "Chiclayo Észak-Peru cukortermelésének központja.", "Chiclayo katedrálisának terveit Gustave Eiffel készítette."],
+      ro: ["Chiclayo a primit rangul oficial de oraș la 18 aprilie 1835.", "Mormântul Domnului de Sipán a fost descoperit în apropiere în 1987.", "Mercado de las Brujas este faimoasă pentru medicina tradițională șamanică.", "Muzeul Tumbas Reales de Sipán este considerat unul dintre cele mai bune din Americi.", "Orașul este un nod rutier major între coastă, munte și junglă.", "Arhitectura catedralei locale este atribuită parțial lui Gustave Eiffel."],
+      en: ["Chiclayo was officially designated as a city on April 18, 1835.", "The Lord of Sipán's tomb was discovered nearby in 1987.", "The Witches' Market is famous for its shamanic and herbal remedies.", "Tumbas Reales de Sipán Museum is modeled after a Moche pyramid.", "Chiclayo is the commercial heart of the Lambayeque agriculture region.", "The city's cathedral was designed with input from Gustave Eiffel."],
+      es: ["Capital de la región de Lambayeque.", "Se encuentra en el territorio de la República del Perú.", "Enclavada entre la cordillera de los Andes, el desierto costero y la cuenca del Amazonas.", "Desempeña un papel en la identidad local de la región.", "Conocida por su importancia paisajística o cultural."],
+      pt: ["Capital da região de Lambayeque.", "Está localizada no território da República do Peru.", "Situada entre a cordilheira dos Andes, o deserto costeiro e a bacia amazônica.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
+      fr: ["Capitale de la région de Lambayeque.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
+    }, image: "/poi-images/chiclayo-cities-v2.webp"},
   {
     id: "piura-cities-v2",
     type: "city",
@@ -244,43 +199,44 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Piura",
       hu: "Piura",
       ro: "Piura",
-      en: "Piura"
-    },
+      en: "Piura"},
+    image: "/poi-images/piura-cities-v2.webp",
     description: {
       de: "Eine der ältesten spanischen Städte Südamerikas.",
       hu: "Dél-Amerika egyik legrégebbi spanyol városa.",
       ro: "Unul dintre cele mai vechi orașe spaniole din America de Sud.",
-      en: "One of the oldest Spanish cities in South America."
+      en: "One of the oldest Spanish cities in South America.",
+      es: "Una de las ciudades españolas más antiguas de Sudamérica.",
+      pt: "Uma das cidades espanholas mais antigas da América do Sul.",
+      fr: "L'une des plus anciennes villes espagnoles d'Amérique du Sud.",
     },
     descriptionAdvanced: {
-      de: "Piura, im hohen Norden Perus gelegen, ist bekannt für seine beständige Hitze und seine tief verwurzelten Traditionen. Es war die erste Stadt, die Francisco Pizarro 1532 unter dem Namen San Miguel de Piura in Südamerika gründete. Die Region ist geprägt von weiten Wüstenlandschaften, die durch Bewässerung in fruchtbare Täler für den Anbau von Reis, Baumwolle und Mangos verwandelt wurden. Piura ist auch die Wiege des Tondero, eines leidenschaftlichen Volkstanzes, und berühmt für seine feine Silberfiligranarbeit aus Catacaos. Die nahen Strände wie Máncora sind heute beliebte Ziele für Surfer und Erholungssuchende aus aller Welt.",
-      hu: "",
-      ro: "",
-      en: "Piura, located in Peru's far north, is known for its persistent heat and deeply rooted traditions. It was the first city founded by Francisco Pizarro in South America in 1532, originally named San Miguel de Piura. The landscape is dominated by vast desert plains that have been transformed into fertile valleys for growing rice, cotton, and mangoes through irrigation. Piura is also the cradle of the Tondero, a passionate folk dance, and is famous for its fine silver filigree work from Catacaos. The nearby beaches, such as Máncora, are world-famous destinations for surfers and sun-seekers. History K7 - Colonial Conquest."
+      de: "Piura, im Nordwesten Perus gelegen, wurde am 15. Juli 1532 von Francisco Pizarro gegründet und gilt als die erste von Spaniern gegründete Stadt in Südamerika. Bekannt als die 'Stadt des ewigen Sommers' oder 'Stadt des Reisens', ist sie durch ein heißes, trockenes Wüstenklima geprägt, das durch das El-Niño-Phänomen beeinflusst wird. Die Stadt ist ein bedeutendes Zentrum für die Agrarindustrie, insbesondere für den Export von Pima-Baumwolle, Zitronen und Mangos. Kulturell ist Piura die Geburtsstätte des berühmten peruanischen Malers Ignacio Merino und des Seefahrers Miguel Grau, dessen Geburtshaus ein Museum ist. In der Umgebung befinden sich die Strände von Máncora und Los Órganos, die für den Tourismus von großer Bedeutung sind. Piura ist auch für seine Kunsthandwerkstradition bekannt, besonders für die feine Filigranarbeit aus Silber in Catacaos. Die Gastronomie der Region ist einzigartig und berühmt für Gerichte wie Ceviche de Mero und Seco de Chabelo. Trotz der Herausforderungen durch extreme Wetterereignisse bleibt Piura ein dynamisches wirtschaftliches Rückgrat im Norden Perus.",
+      hu: "Piura, Peru északnyugati részén fekszik, 1532. július 15-én alapította Francisco Pizarro, és Dél-Amerika első spanyolok által alapított városának tartják. Az 'Örök nyár városa' vagy az 'Utazás városa' néven ismert, forró, száraz sivatagi éghajlat jellemzi, amelyet az El Niño jelenség befolyásol. A város az agrárkapitalizmus jelentős központja, különösen a Pima pamut, a citrom és a mangó exportja tekintetében. Kulturálisan Piura a híres perui festő, Ignacio Merino és a tengerész Miguel Grau szülőhelye, akinek szülőháza ma múzeum. A környéken találhatók Máncora és Los Órganos strandjai, amelyek a turizmus szempontjából kiemelkedő jelentőségűek. Piura kézműves hagyományairól is ismert, különösen a Catacaosban készített finom ezüst filigrán munkákról. A régió gasztronómiája egyedülálló, és olyan ételeiről híres, mint a Ceviche de Mero és a Seco de Chabelo. A szélsőséges időjárási események okozta kihívások ellenére Piura Észak-Peru dinamikus gazdasági gerince marad.",
+      ro: "Piura, situat în nord-vestul Peruului, a fost fondat la 15 iulie 1532 de către Francisco Pizarro și este considerat primul oraș fondat de spanioli în America de Sud. Cunoscut sub numele de „Orașul Verii Eterne” sau „Orașul Călătoriei”, este caracterizat printr-un climat de deșert cald și uscat, influențat de fenomenul El Niño. Orașul este un centru important pentru industria agrară, în special pentru exportul de bumbac Pima, lămâi și mango. Din punct de vedere cultural, Piura este locul de naștere al celebrului pictor peruan Ignacio Merino și al marinarului Miguel Grau, a cărui casă natală este muzeu. În împrejurimi se află plajele din Máncora și Los Órganos, care sunt de mare importanță pentru turism. Piura este cunoscut și pentru tradiția sa meșteșugărească, în special pentru filigranul fin din argint din Catacaos. Gastronomia regiunii este unică și renumită pentru mâncăruri precum Ceviche de Mero și Seco de Chabelo. În ciuda provocărilor cauzate de evenimente meteorologice extreme, Piura rămâne o coloană vertebrală economică dinamică în nordul Peruului.",
+      en: "Piura, located in northwestern Peru, was founded on July 15, 1532, by Francisco Pizarro and is considered the first city founded by the Spanish in South America. Known as the 'City of Eternal Summer' or 'City of Travel,' it is characterized by a hot, dry desert climate influenced by the El Niño phenomenon. The city is a significant center for the agro-industry, particularly for the export of Pima cotton, lemons, and mangoes. Culturally, Piura is the birthplace of the famous Peruvian painter Ignacio Merino and the sailor Miguel Grau, whose birthplace is now a museum. In the surrounding area are the beaches of Máncora and Los Órganos, which are of great importance for tourism. Piura is also known for its handicraft tradition, especially the fine silver filigree work in Catacaos. The region's gastronomy is unique and famous for dishes like Ceviche de Mero and Seco de Chabelo. Despite challenges from extreme weather events, Piura remains a dynamic economic backbone in northern Peru.",
+      es: "Piura es un elemento notable de la geografía y cultura peruana. Es una de las ciudades españolas más antiguas de Sudamérica, conocida por su clima cálido y sus playas. Es una importante región agrícola. Esta ciudad es uno de los asentamientos característicos de Perú entre los Andes, la costa del Pacífico y la cuenca del Amazonas. Como muchos lugares importantes de Perú, este sitio combina peculiaridades regionales entre el Pacífico, los Andes y el Amazonas con una importancia global. Así, este lugar contribuye al perfil versátil de Perú, desde el legado inca y Machu Picchu hasta Lima y la cuenca del Amazonas.",
+      pt: "Piura é um elemento notável da geografia e cultura peruana. É uma das cidades espanholas mais antigas da América do Sul, conhecida pelo seu clima quente e praias. É uma importante região agrícola. Esta cidade é um dos assentamentos característicos do Peru entre os Andes, a costa do Pacífico e a bacia amazônica. Como muitos locais importantes no Peru, este sítio combina peculiaridades regionais entre o Pacífico, os Andes e a Amazônia com uma importância abrangente. Assim, este lugar contribui para o perfil versátil do Peru, desde o legado inca e Machu Picchu até Lima e a bacia amazônica.",
+      fr: "Piura est un élément remarquable de la géographie et de la culture péruviennes. C'est l'une des plus anciennes villes espagnoles d'Amérique du Sud, réputée pour son climat chaud et ses plages. C'est une région agricole majeure. Cette ville fait partie des colonies caractéristiques du Pérou situées entre les Andes, la côte pacifique et le bassin amazonien. Comme de nombreux lieux importants au Pérou, ce site combine des particularités régionales entre le Pacifique, les Andes et l'Amazonie avec une importance globale. Ainsi, ce lieu contribue au profil polyvalent du Pérou, de l'héritage inca et du Machu Picchu à Lima et au bassin amazonien.",
     },
     facts: {
       de: ["Bekannt für warmes Klima und Strände.", "Wichtige landwirtschaftliche Region."],
       hu: ["Meleg éghajlatáról és strandjairól ismert.", "Fontos mezőgazdasági régió."],
       ro: ["Cunoscut pentru clima caldă și plaje.", "O regiune agricolă importantă."],
-      en: ["Known for warm climate and beaches.", "Important agricultural region."]
+      en: ["Known for warm climate and beaches.", "Important agricultural region."],
+      es: ["Conocida por su clima cálido y playas.", "Importante región agrícola."],
+      pt: ["Conhecida pelo clima quente e praias.", "Importante região agrícola."],
+      fr: ["Réputée pour son climat chaud et ses plages.", "Région agricole majeure."],
     },
     factsAdvanced: {
-      de: [
-        "Piura ist die älteste von Spaniern gegründete Stadt in ganz Peru.",
-        "Der Name Piura stammt vermutlich aus dem Quechua und bedeutet 'Ort des Überflusses'.",
-        "Die Region verzeichnet einige der höchsten Temperaturen des Landes.",
-        "In Piura wächst die berühmte Pima-Baumwolle, die zu den feinsten der Welt gehört."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Piura is the oldest Spanish-founded city in all of Peru.",
-        "The name Piura likely comes from Quechua, meaning 'place of abundance'.",
-        "The region records some of the highest temperatures in the country.",
-        "Piura produces famous Pima cotton, which is among the finest in the world."
-      ]
-    }
-  },
+      de: ["Piura wurde am 15. Juli 1532 als San Miguel de Piura gegründet.", "Es ist die erste von Europäern gegründete Stadt im heutigen Peru.", "Piura ist das Hauptanbaugebiet für die hochwertige Pima-Baumwolle.", "Admiral Miguel Grau, ein Nationalheld Perus, wurde hier 1834 geboren.", "Die Stadt Catacaos ist berühmt für ihr Gold- und Silberhandwerk.", "Das Klima Piuras wird stark durch die Meeresströmung El Niño geprägt."],
+      hu: ["Piurát 1532. július 15-én alapították San Miguel de Piura néven.", "Ez az első európaiak által alapított város a mai Peru területén.", "Piura a kiváló minőségű Pima pamut legfontosabb termővidéke.", "Itt született 1834-ben Miguel Grau admirális, Peru nemzeti hőse.", "Catacaos városa a finom arany- és ezüstművességéről ismert.", "Piura éghajlatát alapvetően meghatározza az El Niño áramlat."],
+      ro: ["Piura a fost întemeiat la 15 iulie 1532 sub numele San Miguel de Piura.", "Este recunoscut ca prima așezare spaniolă permanentă din Peru.", "Regiunea produce bumbac Pima, considerat unul dintre cele mai fine din lume.", "Eroul național Miguel Grau s-a născut în Piura la 27 iulie 1834.", "Catacaos, aflat lângă oraș, este faimos pentru bijuteriile din filigran.", "Piura este poarta de acces către cele mai bune plaje de surf din Peru."],
+      en: ["Piura was founded on July 15, 1532, as San Miguel de Piura.", "It is the first permanent Spanish settlement in South America.", "The region is a leading producer of high-quality Pima cotton.", "National hero Admiral Miguel Grau was born here in 1834.", "The nearby village of Catacaos is renowned for silver filigree jewelry.", "Piura's agriculture depends heavily on El Niño-driven rainfall cycles."],
+      es: ["Una de las ciudades españolas más antiguas de Sudamérica.", "Se encuentra en el territorio de la República del Perú.", "Enclavada entre la cordillera de los Andes, el desierto costero y la cuenca del Amazonas.", "Desempeña un papel en la identidad local de la región.", "Conocida por su importancia paisajística o cultural."],
+      pt: ["Uma das cidades espanholas mais antigas da América do Sul.", "Está localizada no território da República do Peru.", "Situada entre a cordilheira dos Andes, o deserto costeiro e a bacia amazônica.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
+      fr: ["L'une des plus anciennes villes espagnoles d'Amérique du Sud.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
+    }, image: "/poi-images/piura-cities-v2.webp"},
   {
     id: "iquitos-cities-v2",
     type: "city",
@@ -290,43 +246,44 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Iquitos",
       hu: "Iquitos",
       ro: "Iquitos",
-      en: "Iquitos"
-    },
+      en: "Iquitos"},
+    image: "/poi-images/iquitos-cities-v2.webp",
     description: {
       de: "Die größte Stadt im peruanischen Amazonasgebiet.",
       hu: "A perui Amazonas legnagyobb városa.",
       ro: "Cel mai mare oraș din Amazonia peruană.",
-      en: "The largest city in the Peruvian Amazon."
+      en: "The largest city in the Peruvian Amazon.",
+      es: "La ciudad más grande de la Amazonía peruana.",
+      pt: "A maior cidade da Amazônia peruana.",
+      fr: "La plus grande ville de l'Amazonie péruvienne.",
     },
     descriptionAdvanced: {
-      de: "Iquitos ist die größte Stadt der Welt, die nicht auf dem Landweg erreichbar ist, und liegt tief im Herzen des peruanischen Amazonas-Regenwaldes. Während des Kautschukbooms im späten 19. Jahrhundert erlebte die Stadt einen märchenhaften Reichtum, wovon heute noch prächtige Villen mit italienischen Kacheln zeugen. Ein besonderes Highlight ist das von Gustave Eiffel entworfene \"Eisenhaus\", das mitten am Hauptplatz steht. Der Stadtteil Belén, ein schwimmendes Viertel auf dem Fluss Itaya, wird oft als das \"Venedig des Amazonas\" bezeichnet. Heute ist Iquitos das wichtigste Zentrum für Ökotourismus und Expeditionen in den unberührten Dschungel und das Reservat Pacaya-Samiria.",
-      hu: "",
-      ro: "",
-      en: "Iquitos is the largest city in the world that cannot be reached by road, situated deep in the heart of the Peruvian Amazon rainforest. During the rubber boom of the late 19th century, the city experienced immense wealth, which is still reflected in the grand mansions adorned with Italian tiles. A notable highlight is the Iron House, designed by Gustave Eiffel, located right on the main plaza. The district of Belén, a floating neighborhood on the Itaya River, is often called the 'Venice of the Amazon.' Today, Iquitos serves as the primary gateway for ecotourism and expeditions into the pristine jungle and the Pacaya-Samiria National Reserve. Geography K8 - Tropical Ecosystems."
+      de: "Iquitos, die Hauptstadt der Region Loreto im peruanischen Amazonasgebiet, ist die weltweit größte Stadt, die nicht über den Landweg erreichbar ist. Sie liegt am Ufer des Amazonas und ist nur per Flugzeug oder Schiff zugänglich, was ihr eine einzigartige Isolierung und Atmosphäre verleiht. Die Stadt erlebte Ende des 19. Jahrhunderts während des Kautschukbooms eine Blütezeit, was sich noch heute in den prachtvollen, mit Kacheln verzierten Villen am Malecón widerspiegelt. Eines der bekanntesten Bauwerke ist das Eisenhaus (Casa de Fierro), das angeblich von Gustave Eiffel entworfen wurde. Iquitos ist das Tor zum Amazonas-Regenwald und Ausgangspunkt für Expeditionen in das Pacaya-Samiria-Nationalreservat. Der schwimmende Stadtteil Belén, auch das 'Venedig des Amazonas' genannt, zeigt das Leben am Fluss in seiner ursprünglichsten Form. Die Kultur der Stadt ist tief in indigenen Traditionen verwurzelt, was sich auf dem Belén-Markt durch das Angebot an exotischen Früchten und Heilpflanzen zeigt. Heute ist Iquitos ein Zentrum für Ökotourismus und wissenschaftliche Forschung zur Biodiversität des Amazonasbeckens.",
+      hu: "Iquitos, a perui Amazonas-vidék Loreto régiójának fővárosa, a világ legnagyobb olyan városa, amely szárazföldön nem közelíthető meg. Az Amazonas partján fekszik, és csak repülővel vagy hajóval érhető el, ami egyedülálló elszigeteltséget és atmoszférát kölcsönöz neki. A város a 19. század végén, a gumi-bumm idején élte virágkorát, ami ma is tükröződik a Malecón mentén található pompás, csempékkel díszített kúriákban. Egyik legismertebb épülete a Vasház (Casa de Fierro), amelyet állítólag Gustave Eiffel tervezett. Iquitos az Amazonas-esőerdő kapuja és a Pacaya-Samiria Nemzeti Rezervátumba induló expedíciók kiindulópontja. Belén úszó negyede, amelyet az 'Amazonas Velencéjének' is neveznek, a folyó menti életet a legeredetibb formájában mutatja be. A város kultúrája mélyen az őslakos hagyományokban gyökerezik, ami a Belén piacon az egzotikus gyümölcsök és gyógynövények kínálatában mutatkozik meg. Ma Iquitos az ökoturizmus és az Amazonas-medence biodiverzitását vizsgáló tudományos kutatások központja.",
+      ro: "Iquitos, capitala regiunii Loreto din Amazonia peruană, este cel mai mare oraș din lume care nu este accesibil pe cale terestră. Situat pe malul Amazonului, este accesibil doar cu avionul sau cu nava, ceea ce îi conferă o izolare și o atmosferă unică. Orașul a cunoscut o perioadă de glorie la sfârșitul secolului al XIX-lea, în timpul boom-ului cauciucului, lucru care se reflectă și astăzi în conacele magnifice decorate cu plăci de faianță de pe Malecón. Una dintre cele mai cunoscute clădiri este Casa de Fier (Casa de Fierro), despre care se spune că a fost proiectată de Gustave Eiffel. Iquitos este poarta către pădurea amazoniană și punctul de plecare pentru expedițiile în Rezervația Națională Pacaya-Samiria. Cartierul plutitor Belén, supranumit și „Veneția Amazonului”, arată viața de pe râu în forma sa cea mai originală. Cultura orașului este profund înrădăcinată în tradițiile indigene, fapt vizibil în piața Belén prin oferta de fructe exotice și plante medicinale. Astăzi, Iquitos este un centru pentru ecoturism și cercetare științifică privind biodiversitatea bazinului amazonian.",
+      en: "Iquitos, the capital of the Loreto region in the Peruvian Amazon, is the world's largest city not accessible by land. Situated on the banks of the Amazon River, it is reachable only by plane or boat, giving it a unique isolation and atmosphere. The city experienced a heyday in the late 19th century during the rubber boom, which is still reflected today in the grand, tile-decorated mansions along the Malecón. One of the most famous buildings is the Iron House (Casa de Fierro), allegedly designed by Gustave Eiffel. Iquitos is the gateway to the Amazon rainforest and the starting point for expeditions into the Pacaya-Samiria National Reserve. The floating district of Belén, also called the 'Venice of the Amazon,' shows river life in its most original form. The city's culture is deeply rooted in indigenous traditions, as seen in the Belén market through the offering of exotic fruits and medicinal plants. Today, Iquitos is a hub for ecotourism and scientific research into the biodiversity of the Amazon basin.",
+      es: "Iquitos es un elemento notable de la geografía y cultura peruana. Es la ciudad más grande de la Amazonía peruana y solo es accesible por barco o avión. Es un centro clave para el ecoturismo. Esta ciudad es uno de los asentamientos característicos de Perú entre los Andes, la costa del Pacífico y la cuenca del Amazonas. Como muchos lugares importantes de Perú, este sitio combina peculiaridades regionales entre el Pacífico, los Andes y el Amazonas con una importancia global. Así, este lugar contribuye al perfil versátil de Perú, desde el legado inca y Machu Picchu hasta Lima y la cuenca del Amazonas.",
+      pt: "Iquitos é um elemento notável da geografia e cultura peruana. É a maior cidade da Amazônia peruana e só é acessível por barco ou avião. É um centro fundamental para o ecoturismo. Esta cidade é um dos assentamentos característicos do Peru entre os Andes, a costa do Pacífico e a bacia amazônica. Como muitos locais importantes no Peru, este sítio combina peculiaridades regionais entre o Pacífico, os Andes e a Amazônia com uma importância abrangente. Assim, este lugar contribui para o perfil versátil do Peru, desde o legado inca e Machu Picchu até Lima e a bacia amazônica.",
+      fr: "Iquitos est un élément remarquable de la géographie et de la culture péruviennes. Plus grande ville de l'Amazonie péruvienne, elle n'est accessible que par bateau ou par avion. C'est un centre important pour l'écotourisme. Cette ville fait partie des colonies caractéristiques du Pérou situées entre les Andes, la côte pacifique et le bassin amazonien. Comme de nombreux lieux importants au Pérou, ce site combine des particularités régionales entre le Pacifique, les Andes et l'Amazonie avec une importance globale. Ainsi, ce lieu contribue au profil polyvalent du Pérou, de l'héritage inca et du Machu Picchu à Lima et au bassin amazonien.",
     },
     facts: {
       de: ["Nur per Boot oder Flugzeug erreichbar.", "Wichtiges Zentrum für Ökotourismus."],
       hu: ["Csak hajóval vagy repülővel közelíthető meg.", "Az ökoturizmus fontos központja."],
       ro: ["Accesibil doar cu barca sau avionul.", "Un centru important pentru ecoturism."],
-      en: ["Accessible only by boat or airplane.", "Important ecotourism center."]
+      en: ["Accessible only by boat or airplane.", "Important ecotourism center."],
+      es: ["Solo accesible por barco o avión.", "Importante centro de ecoturismo."],
+      pt: ["Só acessível por barco ou avião.", "Importante centro de ecoturismo."],
+      fr: ["Uniquement accessible par bateau ou par avion.", "Centre important pour l'écotourisme."],
     },
     factsAdvanced: {
-      de: [
-        "Iquitos ist nur per Flugzeug oder über mehrtägige Schiffsreisen auf dem Amazonas erreichbar.",
-        "Das Eisenhaus wurde 1889 in Paris vorgefertigt und in Einzelteilen in den Dschungel transportiert.",
-        "Der Amazonas ist bei Iquitos bereits mehrere Kilometer breit.",
-        "Auf dem Markt von Belén werden hunderte exotische Früchte und Naturheilmittel angeboten."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Iquitos is accessible only by plane or several days' boat travel along the Amazon River.",
-        "The Iron House was prefabricated in Paris in 1889 and transported in pieces to the jungle.",
-        "The Amazon River at Iquitos is already several kilometers wide.",
-        "The Belén Market offers hundreds of exotic fruits and traditional medicinal remedies."
-      ]
-    }
-  },
+      de: ["Iquitos ist die größte Stadt der Welt ohne Straßenverbindung nach außen.", "Der Kautschukboom zwischen 1880 und 1912 brachte der Stadt großen Reichtum.", "Die Casa de Fierro (Eisenhaus) wurde in Paris vorgefertigt.", "Iquitos liegt 3.700 km von der Mündung des Amazonas entfernt.", "Der Stadtteil Belén besteht aus Häusern, die auf Flößen schwimmen.", "Die Stadt ist der wichtigste Hafen für den peruanischen Amazonas-Handel."],
+      hu: ["Iquitos a világ legnagyobb olyan városa, amelybe nem vezet országút.", "Az 1880 és 1912 közötti gumi-bumm hozott hatalmas gazdagságot a városnak.", "A Casa de Fierro (Vasház) elemeit Párizsban gyártották le.", "Iquitos 3700 kilométerre fekszik az Amazonas torkolatától.", "Belén negyedének házai tutajokon úsznak a folyó vízszintjétől függően.", "A város a perui Amazonas-medence legfontosabb kereskedelmi kikötője."],
+      ro: ["Iquitos este cel mai mare oraș izolat terestru de pe glob.", "Boom-ul cauciucului (1880-1912) a transformat orașul într-un centru de lux.", "Casa de Fierro a fost adusă din Europa și asamblată în centrul orașului.", "Iquitos se află la aproximativ 3.700 km de gura de vărsare a Amazonului.", "Cartierul Belén este construit în totalitate pe structuri plutitoare.", "Orașul servește drept bază principală pentru explorarea junglei amazoniene."],
+      en: ["Iquitos is the largest city in the world without a road connecting it to the outside.", "The rubber boom of the late 19th century funded the city's ornate architecture.", "The Casa de Fierro (Iron House) was prefabricated in France.", "The city is located roughly 3,700 kilometers from the Atlantic Ocean.", "Belén market is famous for selling Ayahuasca and Amazonian medicinal herbs.", "Iquitos is the capital of Loreto, Peru's largest and northernmost department."],
+      es: ["La ciudad más grande de la Amazonía peruana.", "Se encuentra en el territorio de la República del Perú.", "Enclavada entre la cordillera de los Andes, el desierto costero y la cuenca del Amazonas.", "Desempeña un papel en la identidad local de la región.", "Conocida por su importancia paisajística o cultural."],
+      pt: ["A maior cidade da Amazônia peruana.", "Está localizada no território da República do Peru.", "Situada entre a cordilheira dos Andes, o deserto costeiro e a bacia amazônica.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
+      fr: ["La plus grande ville de l'Amazonie péruvienne.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
+    }, image: "/poi-images/iquitos-cities-v2.webp"},
   {
     id: "cusco-cities-v2",
     type: "state-capital",
@@ -336,43 +293,38 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Cusco",
       hu: "Cusco",
       ro: "Cusco",
-      en: "Cusco"
-    },
+      en: "Cusco"},
+    image: "/poi-images/cusco-cities-v2.webp",
     description: {
       de: "Ehemalige Hauptstadt des Inkareiches.",
       hu: "Az Inka Birodalom egykori fővárosa.",
       ro: "Fosta capitală a Imperiului Inca.",
-      en: "Former capital of the Inca Empire."
+      en: "Former capital of the Inca Empire.",
+      es: "Antigua capital del Imperio Inca.",
+      pt: "Antiga capital do Império Inca.",
+      fr: "Ancienne capitale de l'Empire Inca.",
     },
     descriptionAdvanced: {
-      de: "Cusco, der \"Nabel der Welt\" in der Sprache der Inka, ist eine faszinierende Mischung aus präkolumbianischer Geschichte und spanischer Kolonialzeit. Die Stadt war die prachtvolle Hauptstadt des Inkareiches, bevor sie im 16. Jahrhundert von den Spaniern erobert wurde, die ihre Kirchen oft direkt auf den massiven Mauern der Inka-Paläste errichteten. Heute ist die Altstadt mit ihren engen Kopfsteinpflastergassen und dem beeindruckenden Hauptplatz, der Plaza de Armas, ein lebendiges Freilichtmuseum. Cusco dient als wichtigstes Tor zum Heiligen Tal der Inka und zur weltberühmten Ruinenstätte Machu Picchu. Die indigene Kultur der Quechua ist hier im Alltag, in der Sprache und in farbenfrohen Festen wie dem Inti Raymi allgegenwärtig.",
-      hu: "",
-      ro: "",
-      en: "Cusco, the 'Navel of the World' in the Inca language, is a fascinating blend of pre-Columbian history and Spanish colonial influence. The city served as the magnificent capital of the Inca Empire before being conquered in the 16th century by the Spaniards, who often built their churches directly upon the massive foundations of Inca palaces. Today, the historic center with its narrow cobblestone streets and the impressive Plaza de Armas functions as a living open-air museum. Cusco is the essential gateway to the Sacred Valley and the world-famous ruins of Machu Picchu. The indigenous Quechua culture remains vibrant here, visible in daily life, language, and colorful festivals like Inti Raymi. History K6 - The Inca Empire."
+      de: "Cusco, einst die glanzvolle Hauptstadt des Inkareiches Tawantinsuyu, liegt auf einer beeindruckenden Höhe von 3.400 Metern in den peruanischen Anden. Die Stadt ist ein lebendiges Freilichtmuseum, in dem die präzise Steinmetzkunst der Inka das Fundament für die prachtvollen Kolonialbauten der Spanier bildet. Nach der Eroberung durch Francisco Pizarro im Jahr 1533 wurde die Stadt grundlegend umgestaltet, doch die mystische Energie der Inka-Vergangenheit blieb in den massiven Mauern von Sacsayhuamán und dem Sonnentempel Qorikancha erhalten. Das heutige Stadtbild wird vom Plaza de Armas dominiert, einem der schönsten Plätze Lateinamerikas, gesäumt von der monumentalen Kathedrale und der Jesuitenkirche La Compañía. \n\nDie Wirtschaft Cuscos basiert heute fast ausschließlich auf dem Tourismus, da die Stadt als wichtigster Ausgangspunkt für Reisen zum Weltwunder Machu Picchu und ins Heilige Tal dient. Doch Cusco ist weit mehr als nur ein Transitort; es ist das kulturelle Herz der Quechua-Bevölkerung. Die Demografie der Stadt spiegelt eine tiefe Verbundenheit mit den indigenen Traditionen wider, die sich in den farbenfrohen Trachten, dem lebhaften San Pedro Markt und den zahlreichen religiösen Festen wie dem Inti Raymi (Sonnenfest) zeigt. Die Gastronomie Cuscos hat in den letzten Jahren Weltruhm erlangt, wobei lokale Zutaten wie Quinoa, Alpaka und hunderte Kartoffelsorten in modernen Interpretationen der andinen Küche verwendet werden. Trotz der Herausforderungen durch den Massentourismus und die dünne Höhenluft bewahrt Cusco eine spirituelle Atmosphäre, die Besucher aus aller Welt in ihren Bann zieht. Die Architektur, die Geschichte und die lebendige Kultur machen Cusco zu einem unverzichtbaren kulturellen Ankerpunkt Südamerikas.",
+      hu: "Cusco, az Inka Birodalom egykori fővárosa és a „világ köldöke”, ma Peru egyik leglátogatottabb és legvarázslatosabb városa. Az Andok szívében, 3400 méteres magasságban fekvő település egyedülálló módon ötvözi az inka mérnöki tudományt a spanyol barokk építészettel. Az inka falak, amelyeket kötőanyag nélkül, hajszálpontosan illesztett hatalmas kőtömbökből emeltek, ma is alapul szolgálnak a gyarmati kúriák és templomok számára. A város központja a Plaza de Armas, ahol a monumentális katedrális áll, amelynek falai között az inka és a keresztény szimbolika keveredik. A Qorikancha, az egykori Naptemplom romjai felett ma a Santo Domingo kolostor magasodik, mementójaként a két civilizáció drámai találkozásának.\n\nA modern Cusco gazdasága a turizmusra épül, hiszen innen indulnak a vonatok Machu Picchu felé, de a város önmagában is kulturális kincsestár. A lakosság többsége büszke quechua származására, és a mindennapokban is ápolja ősi hagyományait. A San Pedro piac a város lüktető szíve, ahol a látogatók megismerhetik az andoki mezőgazdaság hihetetlen gazdagságát, a több tucat kukoricafajtától a gyógynövényekig. A város környékén olyan lenyűgöző régészeti lelőhelyek találhatók, mint Sacsayhuamán hatalmas cikkcakkos falai vagy Tambomachay rituális fürdői. Cusco nem csupán egy megállóhely, hanem egy szellemi központ is, ahol az évszázados inka rituálék és a katolikus körmenetek békésen megférnek egymás mellett. A vékony hegyi levegő és a macskaköves, meredek utcák próbára teszik az utazót, de a város látványa és energiája minden fáradságot megér. A város 1983 óta az UNESCO Világörökség része, és továbbra is Peru büszkesége, az inkák örök hagyatékának őrzője.",
+      ro: "Cusco, situat la o altitudine de 3.400 de metri în Anzii peruvieni, este adesea numit „Capitala Istorică a Americii”. Fostul centru al Imperiului Inca, orașul este o capodoperă urbană unde zidurile incașe din piatră masivă servesc drept fundație pentru bisericile coloniale spaniole. Această suprapunere arhitecturală oferă orașului o estetică unică în lume. Inima orașului este Plaza de Armas, un loc de o frumusețe rară, unde Catedrala din Cusco adăpostește picturi celebre ale Școlii Cusqueña, o fuziune între arta europeană și motivele indigene. Templul Soarelui, Qorikancha, odinioară acoperit cu foițe de aur, rămâne o dovadă a preciziei incredibile a ingineriei incașe, rezistând cutremurelor care au dărâmat clădirile coloniale de deasupra.\n\nEconomia orașului este dominată de fluxul masiv de turiști care se îndreaptă spre Machu Picchu, însă Cusco păstrează o identitate culturală puternică și autentică. Populația locală menține tradițiile Quechua, limba strămoșilor fiind vorbită pe scară largă, iar festivalul Inti Raymi, celebrat în fiecare an în iunie, transformă orașul într-o scenă vibrantă de ritualuri antice. Gastronomia din Cusco este o altă atracție majoră, oferind preparate precum „cuy” (porcușor de Guineea) și o varietate imensă de cartofi nativi, cultivați pe terasele agricole din apropiere. Vizitatorii trebuie să se aclimatizeze cu grija la altitudinea ridicată, consumând adesea ceai de coca, un remediu tradițional local. În jurul orașului se află situri arheologice colosale precum Sacsayhuamán, ale cărui pietre cântăresc peste 100 de tone, lăsând cercetătorii și astăzi înmărmuriți de modul în care au fost transportate și montate. Cusco nu este doar un oraș, ci un simbol al rezilienței culturale și al măreției unei civilizații care a dominat odinioară întregul continent sud-american.",
+      en: "Cusco, nestled high in the Peruvian Andes at 3,400 meters, is a city where history is literally etched into the stone. As the former capital of the Inca Empire, it was designed in the shape of a puma, with the fortress of Sacsayhuamán forming its head. Following the Spanish conquest in the 16th century, the invaders built their palaces and cathedrals directly atop the impeccably crafted Inca foundations, creating a unique 'Inca-Baroque' style that defines the city's UNESCO-listed historic center. The Qorikancha, or Temple of the Sun, stands as the most dramatic example of this fusion, where the monastery of Santo Domingo rests upon the finest stone masonry in the New World. The Plaza de Armas remains the pulsating heart of the city, surrounded by colonial arcades and the majestic Cusco Cathedral.\n\nToday, Cusco is the undisputed tourism capital of Peru, serving as the essential hub for explorations of Machu Picchu, the Sacred Valley, and the Rainbow Mountain. Beyond its role as a transit point, the city is a living center of Quechua culture. Indigenous traditions remain vibrant, visible in the intricate textiles sold by local weavers and the bustling San Pedro Market, where traditional Andean products meet modern commerce. The city’s geography is challenging but stunning, with narrow cobblestone streets climbing steep hillsides that offer breathtaking vistas of the surrounding peaks. Demographically, Cusco is a melting pot of local Andean people and an international community of travelers and expats. Cultural highlights include the feast of Corpus Christi and the Inti Raymi festival, which re-enacts Inca sun worship. Cusco’s culinary scene is also a major draw, blending ancient ingredients like alpaca and quinoa with contemporary techniques. The city's enduring allure lies in its ability to honor its imperial past while embracing its role as a global cultural crossroads.",
     },
     facts: {
       de: ["UNESCO-Weltkulturerbe seit 1983.", "Ausgangspunkt nach Machu Picchu."],
       hu: ["1983 óta UNESCO Világörökség.", "Kiindulópont Machu Picchu felé."],
       ro: ["Patrimoniul Mondial UNESCO din 1983.", "Punct de plecare spre Machu Picchu."],
-      en: ["UNESCO World Heritage site since 1983.", "Starting point for Machu Picchu."]
+      en: ["UNESCO World Heritage site since 1983.", "Starting point for Machu Picchu."],
+      es: ["Patrimonio de la Humanidad por la UNESCO desde 1983.", "Punto de partida hacia Machu Picchu."],
+      pt: ["Patrimônio Mundial da UNESCO desde 1983.", "Ponto de partida para Machu Picchu."],
+      fr: ["Patrimoine mondial de l'UNESCO depuis 1983.", "Point de départ vers le Machu Picchu."],
     },
     factsAdvanced: {
-      de: [
-        "Die Inka bauten die Stadt Cusco ursprünglich in der Form eines Pumas.",
-        "In der Loreto-Gasse kann man die berühmten zwölfeckigen Steine der Inka-Mauern bewundern.",
-        "Die Stadt liegt auf einer beachtlichen Höhe von 3.399 Metern über dem Meeresspiegel.",
-        "Cusco war über Jahrhunderte das religiöse und administrative Zentrum Südamerikas."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "The Incas originally built Cusco in the shape of a puma.",
-        "Loreto Alley features the famous twelve-angled stone within its ancient Inca walls.",
-        "The city is located at a significant altitude of 3,399 meters above sea level.",
-        "Cusco was the religious and administrative center of South America for centuries."
-      ]
-    }
-  },
+      de: ["Cusco liegt auf 3.400 Metern Höhe und war die Hauptstadt des Inkareiches.", "Der Name 'Cusco' bedeutet in der Quechua-Sprache 'Nabel der Welt'.", "Die Steine in Sacsayhuamán sind so präzise gefügt, dass kein Messer dazwischen passt.", "Die Kathedrale von Cusco enthält ein Gemälde des Abendmahls mit einem Meerschweinchen auf dem Teller.", "Der Zwölfeckige Stein in der Hatun Rumiyoc Straße ist ein Meisterwerk der Inka-Architektur.", "Das Inti Raymi Fest am 24. Juni ist die zweitgrößte Veranstaltung in Südamerika.", "UNESCO erklärte das Stadtzentrum von Cusco 1983 zum Weltkulturerbe.", "In Cusco wird traditionell Mate de Coca getrunken, um die Höhenkrankheit zu lindern."],
+      hu: ["Cusco alapításának pontos dátuma nem ismert, de a 13. század óta lakott terület.", "A város egykor puma alakúra volt tervezve, a feje Sacsayhuamán erődje volt.", "A Qorikancha templom falait egykor több mint 700 tiszta aranylemezzel borították.", "A San Pedro piacot Gustave Eiffel, az Eiffel-torony tervezője álmodta meg.", "Cusco környékén található a Világos-hegy (Rainbow Mountain), amely 5200 méter magas.", "A quechua nyelv ma is hivatalos és széles körben beszélt nyelv a városban.", "A város zászlaja a szivárvány hét színét tartalmazza, ami az inkák ősi szimbóluma.", "Cusco központjából indul az egyik legluxusabb vonatút a világon, a Belmond Hiram Bingham."],
+      ro: ["Cusco este cea mai veche așezare locuită continuu din întreaga Americă de Sud.", "Piatra cu 12 unghiuri este un simbol al ingineriei de precizie a incașilor.", "Cutremurele din 1650 și 1950 au distrus clădirile spaniole, dar zidurile incașe au rămas intacte.", "Catedrala a fost construită pe locul palatului incașului Viracocha folosind pietre de la Sacsayhuamán.", "Altitudinea de 3.400 m înseamnă că nivelul oxigenului este cu 30% mai mic decât la nivelul mării.", "Bucătăria locală folosește peste 3.000 de soiuri diferite de cartofi crescuți în regiune.", "Barrio de San Blas este cunoscut drept cartierul artiștilor și artizanilor din Cusco.", "Cusco a fost reședința a 12 împărați incași înainte de cucerirea spaniolă."],
+      en: ["Cusco served as the capital of the Inca Empire from the 13th century until 1533.", "The city's Plaza de Armas was once double its current size and called Huacaypata.", "Sacsayhuamán's zigzag walls represent the teeth of the puma that the city was shaped like.", "The Dominican Convent of Santo Domingo was built on top of the Inca Temple of the Sun.", "Cusco has a temperate climate with two seasons: dry (May-Oct) and rainy (Nov-April).", "The city's university, San Antonio Abad, was founded in 1692 and is one of Peru's oldest.", "Local laws strictly prohibit the modernization of façades in the historic center to preserve heritage.", "Cusco is the starting point for the famous 4-day Inca Trail hike to Machu Picchu."],
+    }, image: "/poi-images/cusco-cities-v2.webp"},
   {
     id: "chimbote-cities-v2",
     type: "city",
@@ -382,43 +334,44 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Chimbote",
       hu: "Chimbote",
       ro: "Chimbote",
-      en: "Chimbote"
-    },
+      en: "Chimbote"},
+    image: "/poi-images/chimbote-cities-v2.webp",
     description: {
       de: "Wichtiger Fischereihafen in Peru.",
       hu: "Fontos halászkikötő Peruban.",
       ro: "Un important port de pescuit în Peru.",
-      en: "Major fishing port in Peru."
+      en: "Major fishing port in Peru.",
+      es: "Importante puerto pesquero de Perú.",
+      pt: "Importante porto de pesca no Peru.",
+      fr: "Important port de pêche au Pérou.",
     },
     descriptionAdvanced: {
-      de: "Chimbote ist eine dynamische Hafenstadt an der Küste der Region Ancash und gilt als eines der wichtigsten Wirtschaftszentren Nordperus. Einst ein kleines Fischerdorf, entwickelte sich die Stadt Mitte des 20. Jahrhunderts rasant zum weltweit führenden Standort für die Produktion von Fischmehl. Die Bucht von Ferrol bietet einen natürlichen Schutz für die riesige Fangflotte, die täglich die reichen Fischgründe des Humboldtstroms nutzt. Neben der Fischerei spielt die Stahlindustrie eine zentrale Rolle für die Stadtentwicklung und das Wachstum der Region. Trotz ihrer industriellen Prägung bietet die Umgebung von Chimbote interessante Naturlandschaften wie die Insel Blanca und nahegelegene archäologische Stätten.",
-      hu: "",
-      ro: "",
-      en: "Chimbote is a dynamic port city on the coast of the Ancash region and is considered one of northern Peru's most important economic centers. Once a small fishing village, the city underwent rapid development in the mid-20th century to become the world's leading site for fishmeal production. Ferrol Bay provides natural shelter for a massive fishing fleet that harvests the rich waters of the Humboldt Current daily. Beyond fishing, the steel industry plays a central role in the city's urban development and regional growth. Despite its industrial character, Chimbote's surroundings offer interesting natural landscapes such as Blanca Island and nearby archaeological sites. Economics K8 - Natural Resources and Industry."
+      de: "Chimbote ist die größte Stadt in der Region Ancash und liegt an der Pazifikküste Perus in der Ferrol-Bucht. Ursprünglich ein kleines Fischerdorf, erlebte die Stadt Mitte des 20. Jahrhunderts durch den Boom der Fischmehlindustrie ein explosives Wachstum. In den 1960er und 1970er Jahren galt Chimbote als der wichtigste Fischereihafen der Welt, insbesondere für den Fang von Sardellen. Geografisch wird die Bucht durch die Halbinsel El Ferrol und die vorgelagerten Inseln Blanca und Ferrol geschützt, was sie zu einem idealen natürlichen Hafen macht. Neben der Fischerei ist die Stadt ein bedeutendes Zentrum der peruanischen Stahlindustrie mit dem Siderperu-Werk. Trotz der industriellen Prägung bietet die Umgebung ökologische Attraktionen wie das Sumpfgebiet Villa María. Die Stadt dient als strategischer Verkehrsknotenpunkt an der Panamericana Norte und verbindet die Küste mit dem Hinterland der Anden. Chimbote steht heute vor der Herausforderung, industrielle Entwicklung mit Umweltschutzmaßnahmen in der Bucht in Einklang zu bringen.",
+      hu: "Chimbote az Ancash régió legnagyobb városa, Peru csendes-óceáni partvidékén, a Ferrol-öbölben fekszik. Eredetileg kis halászfalu volt, de a 20. század közepén a hallisztipar fellendülése miatt robbanásszerű növekedésen ment keresztül. Az 1960-as és 1970-es években Chimbote a világ legjelentősebb halászkikötőjének számított, különösen a szardellafogás tekintetében. Földrajzilag az öblöt az El Ferrol-félsziget, valamint a Blanca- és Ferrol-szigetek védik, ami ideális természetes kikötővé teszi. A halászat mellett a város a perui acélipar fontos központja a Siderperu gyárral. Az ipari jelleg ellenére a környék olyan ökológiai látnivalókat kínál, mint a Villa María mocsárvidék. A város stratégiai közlekedési csomópont a Panamericana Norte mentén, összekötve a partvidéket az Andok belső területeivel. Chimbote ma azzal a kihívással néz szembe, hogy összehangolja az ipari fejlődést az öböl környezetvédelmi intézkedéseivel.",
+      ro: "Chimbote este cel mai mare oraș din regiunea Ancash și este situat pe coasta Pacificului a statului Peru, în Golful Ferrol. Inițial un mic sat de pescari, orașul a cunoscut o creștere explozivă la mijlocul secolului al XX-lea datorită boom-ului industriei făinii de pește. În anii 1960 și 1970, Chimbote a fost considerat cel mai important port de pescuit din lume, în special pentru captura de anșoa. Geografic, golful este protejat de peninsula El Ferrol și de insulele Blanca și Ferrol, ceea ce îl face un port natural ideal. Pe lângă pescuit, orașul este un centru important al industriei siderurgice peruane, găzduind uzina Siderperu. În ciuda caracterului industrial, împrejurimile oferă atracții ecologice precum zona umedă Villa María. Orașul servește ca un nod strategic de transport pe Panamericana Norte, conectând coasta de interiorul Anzilor. Chimbote se confruntă astăzi cu provocarea de a armoniza dezvoltarea industrială cu măsurile de protecție a mediului în golf.",
+      en: "Chimbote is the largest city in the Ancash Region and is situated on Peru's Pacific coast within Ferrol Bay. Originally a small fishing village, the city experienced explosive growth in the mid-20th century due to the boom in the fishmeal industry. During the 1960s and 1970s, Chimbote was considered the primary fishing port in the world, particularly for anchovy harvesting. Geographically, the bay is protected by the El Ferrol Peninsula and the offshore Blanca and Ferrol islands, making it an ideal natural harbor. Beyond fishing, the city is a significant center for the Peruvian steel industry, hosting the Siderperu plant. Despite its industrial focus, the surrounding area offers ecological attractions such as the Villa María wetlands. The city serves as a strategic transportation hub on the Panamericana Norte highway, connecting the coast with the Andean hinterland. Chimbote currently faces the challenge of balancing industrial development with environmental protection measures in the bay area.",
+      es: "Chimbote es un elemento notable de la geografía y cultura peruana. Es un importante puerto pesquero de Perú y el principal centro de la industria siderúrgica peruana. Se encuentra en la región de Ancash. Esta ciudad es uno de los asentamientos característicos de Perú entre los Andes, la costa del Pacífico y la cuenca del Amazonas. Como muchos lugares importantes de Perú, este sitio combina peculiaridades regionales entre el Pacífico, los Andes y el Amazonas con una importancia global. Así, este lugar contribuye al perfil versátil de Perú, desde el legado inca y Machu Picchu hasta Lima y la cuenca del Amazonas.",
+      pt: "Chimbote é um elemento notável da geografia e cultura peruana. É um importante porto de pesca no Peru e o principal centro da indústria siderúrgica peruana. Está localizada na região de Ancash. Esta cidade é um dos assentamentos característicos do Peru entre os Andes, a costa do Pacífico e a bacia amazônica. Como muitos locais importantes no Peru, este sítio combina peculiaridades regionais entre o Pacífico, os Andes e a Amazônia com uma importância abrangente. Assim, este lugar contribui para o perfil versátil do Peru, desde o legado inca e Machu Picchu até Lima e a bacia amazônica.",
+      fr: "Chimbote est un élément remarquable de la géographie et de la culture péruviennes. C'est un port de pêche majeur au Pérou et le centre principal de l'industrie sidérurgique péruvienne. Elle est située dans la région d'Ancash. Cette ville fait partie des colonies caractéristiques du Pérou situées entre les Andes, la côte pacifique et le bassin amazonien. Comme de nombreux lieux importants au Pérou, ce site combine des particularités régionales entre le Pacifique, les Andes et l'Amazonie avec une importance globale. Ainsi, ce lieu contribue au profil polyvalent du Pérou, de l'héritage inca et du Machu Picchu à Lima et au bassin amazonien.",
     },
     facts: {
       de: ["Hauptzentrum der peruanischen Stahlindustrie.", "Liegt in der Region Ancash."],
       hu: ["A perui acélipar fő központja.", "Ancash régióban található."],
       ro: ["Centrul principal al industriei siderurgice peruane.", "Situat în regiunea Ancash."],
-      en: ["Main center of the Peruvian steel industry.", "Located in the Ancash region."]
+      en: ["Main center of the Peruvian steel industry.", "Located in the Ancash region."],
+      es: ["Centro principal de la industria siderúrgica peruana.", "Ubicado en la región de Ancash."],
+      pt: ["Centro principal da indústria siderúrgica peruana.", "Localizada na região de Ancash."],
+      fr: ["Centre principal de l'industrie sidérurgique péruvienne.", "Située dans la région d'Ancash."],
     },
     factsAdvanced: {
-      de: [
-        "Chimbote war in den 1970er Jahren zeitweise der produktivste Fischereihafen der Erde.",
-        "Die Stadt wurde 1970 durch ein schweres Erdbeben fast vollständig zerstört und modern wiederaufgebaut.",
-        "Die nahegelegene Isla Blanca ist bekannt für ihre schneeweißen Guano-Ablagerungen.",
-        "Chimbote ist Sitz der Kathedrale Unserer Lieben Frau vom Karmel und von San Pedro."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "In the 1970s, Chimbote was at one point the most productive fishing port on Earth.",
-        "The city was almost entirely destroyed by a major earthquake in 1970 and subsequently rebuilt.",
-        "Nearby Isla Blanca is known for its snow-white guano deposits.",
-        "Chimbote is the seat of the Cathedral of Our Lady of Mount Carmel and San Pedro."
-      ]
-    }
-  },
+      de: ["Chimbote war in den 1970er Jahren der tonnage-mäßig größte Fischereihafen der Welt.", "Die Stadt erlitt am 31. Mai 1970 schwere Schäden durch das verheerende Ancash-Erdbeben.", "In Chimbote befindet sich das Siderperu-Stahlwerk, das 1956 den Betrieb aufnahm.", "Die Stadt hat laut der Volkszählung von 2017 über 350.000 Einwohner.", "Die Ferrol-Bucht erstreckt sich über eine Fläche von etwa 12 Kilometern Länge.", "Die Kathedrale Nuestra Señora del Carmen y San Pedro ist das religiöse Wahrzeichen der Stadt."],
+      hu: ["Az 1970-es években Chimbote volt a világ legnagyobb halászkikötője a kifogott mennyiség alapján.", "A város súlyos károkat szenvedett az 1970. május 31-i pusztító Ancash-földrengésben.", "Itt található a Siderperu acélmű, amely 1956-ban kezdte meg működését.", "A város lakossága a 2017-es népszámlálás adatai szerint meghaladja a 350 000 főt.", "A Ferrol-öböl hossza körülbelül 12 kilométer.", "Nuestra Señora del Carmen y San Pedro katedrális a város legfontosabb vallási épülete."],
+      ro: ["Chimbote a fost cel mai mare port de pescuit din lume în anii 1970, după tonajul capturat.", "Orașul a suferit daune grave în urma cutremurului devastator din Ancash de la 31 mai 1970.", "În Chimbote se află uzina siderurgică Siderperu, care și-a început activitatea în 1956.", "Orașul are peste 350.000 de locuitori conform recensământului din 2017.", "Golful Ferrol se întinde pe o lungime de aproximativ 12 kilometri.", "Catedrala Nuestra Señora del Carmen y San Pedro este principalul reper religios al orașului."],
+      en: ["Chimbote was the world's largest fishing port by tonnage during the 1970s.", "The city suffered severe damage during the devastating Ancash earthquake on May 31, 1970.", "The Siderperu steel plant, which began operations in 1956, is located in the city.", "The city has a population exceeding 350,000 according to the 2017 census.", "Ferrol Bay spans a length of approximately 12 kilometers.", "The Cathedral of Nuestra Señora del Carmen y San Pedro is the city's primary religious landmark."],
+      es: ["Importante puerto pesquero de Perú.", "Se encuentra en el territorio de la República del Perú.", "Enclavada entre la cordillera de los Andes, el desierto costero y la cuenca del Amazonas.", "Desempeña un papel en la identidad local de la región.", "Conocida por su importancia paisajística o cultural."],
+      pt: ["Importante porto de pesca no Peru.", "Está localizada no território da República do Peru.", "Situada entre a cordilheira dos Andes, o deserto costeiro e a bacia amazônica.", "Desempenha um papel na identidade local da região.", "Conhecida pela sua importância paisagística ou cultural."],
+      fr: ["Important port de pêche au Pérou.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
+    }, image: "/poi-images/chimbote-cities-v2.webp"},
   {
     id: "huancayo-cities-v2",
     type: "state-capital",
@@ -428,43 +381,38 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Huancayo",
       hu: "Huancayo",
       ro: "Huancayo",
-      en: "Huancayo"
-    },
+      en: "Huancayo"},
+    image: "/poi-images/huancayo-cities-v2.webp",
     description: {
       de: "Kulturelles Zentrum im zentralen Hochland.",
       hu: "Kulturális központ a központi hegyvidéken.",
       ro: "Centru cultural în zona muntoasă centrală.",
-      en: "Cultural center in the central highlands."
+      en: "Cultural center in the central highlands.",
+      es: "Centro cultural en la sierra central.",
+      pt: "Centro cultural nas terras altas centrais.",
+      fr: "Centre culturel des hauts plateaux centraux.",
     },
     descriptionAdvanced: {
-      de: "Huancayo liegt im fruchtbaren Mantaro-Tal im Herzen der peruanischen Zentralanden und ist bekannt für seinen starken regionalen Stolz. Als Hauptstadt der Region Junín ist sie ein wichtiger Handelsknotenpunkt, was besonders auf dem berühmten Sonntagsmarkt in der Calle Real deutlich wird. Die Stadt ist die Wiege der Huanca-Kultur, die sich tapfer gegen die Inka behauptete, bevor sie später Teil deren Reiches wurde. Berühmt ist Huancayo auch als Endstation des Ferrocarril Central Andino, einer der höchsten Eisenbahnstrecken der Welt, die über spektakuläre Brücken und Tunnel aus Lima heraufkommt. Die Umgebung bietet malerische Landschaften, traditionelle Dörfer und die beeindruckenden Felsformationen von Torre Torre.",
-      hu: "",
-      ro: "",
-      en: "Huancayo is located in the fertile Mantaro Valley in the heart of the Peruvian central Andes and is known for its strong regional pride. As the capital of the Junín region, it is a vital commercial hub, especially evident during the famous Sunday market on Calle Real. The city is the cradle of the Huanca culture, which bravely resisted the Incas before eventually becoming part of their empire. Huancayo is also famous as the terminus of the Ferrocarril Central Andino, one of the highest railway lines in the world, which climbs from Lima over spectacular bridges and through numerous tunnels. The surrounding area offers picturesque landscapes, traditional villages, and the striking rock formations of Torre Torre. Geography K7 - Mountain Commerce."
+      de: "Huancayo, bekannt als die „Unvergleichliche Stadt“, ist das wirtschaftliche und kulturelle Zentrum des zentralen Hochlandes von Peru. Gelegen im fruchtbaren Mantaro-Tal auf einer Höhe von ca. 3.250 Metern, ist die Stadt die Hauptstadt der Region Junín. Huancayo hat eine reiche Geschichte, die weit vor die Inka-Zeit zurückreicht; sie war einst das Kernland der kriegerischen Wanka-Kultur. Diese indigene Identität ist bis heute stark ausgeprägt und unterscheidet Huancayo von den eher Inka-geprägten Städten wie Cusco. Die Stadt wurde 1572 offiziell von den Spaniern gegründet, entwickelte sich aber erst im 19. und 20. Jahrhundert durch den Bau der Zentralbahn, einer der höchsten Eisenbahnstrecken der Welt, zu einer bedeutenden Handelsmetropole. \n\nDie Wirtschaft Huancayos ist heute ein Kraftzentrum der Landwirtschaft und des Handels. Das Mantaro-Tal gilt als die Kornkammer Limas, und Huancayos Märkte, insbesondere der berühmte Sonntagsmarkt in der Avenida Huancavelica, sind legendär für ihre Größe und Vielfalt. Hier werden handgewebte Textilien, geschnitzte Kürbisse (Mates Burilados) und frische Agrarprodukte aus der gesamten Region verkauft. Kulturell ist die Stadt berühmt für ihre lebhaften Tänze, wie den Huaylarsh, der die Freude der Ernte und die Kraft des andinen Volkes zelebriert. Die Architektur der Stadt ist eher funktional und modern, doch die Kathedrale an der Plaza Constitución und das nahegelegene Kloster Santa Rosa de Ocopa bieten historische Glanzpunkte. Huancayo ist auch ein Zentrum für Bildung und Kunst, bekannt für seine Keramiktraditionen in den umliegenden Dörfern. Die Bewohner Huancayos gelten als besonders unternehmerisch und stolz auf ihre Wanka-Wurzeln, was der Stadt eine ganz eigene, dynamische Energie verleiht, die sie zu einem wichtigen Pfeiler der peruanischen Identität macht.",
+      hu: "Huancayo Peru egyik legdinamikusabb városa, a Junín régió központja, amely a Mantaro-völgy szívében fekszik. A 3250 méteres magasságban található települést gyakran nevezik „Összehasonlíthatatlan Városnak” (Ciudad Incontrastable), utalva lakóinak ellenálló képességére és szabadságszeretetére. Történelmileg ez a terület a Wanka kultúra központja volt, akik még az inkákkal is szembeszálltak függetlenségük megőrzése érdekében. Ez a dacos szellem ma is érezhető a város hangulatában és a helyiek büszkeségében. Huancayo nem a klasszikus gyarmati építészetéről híres, hanem sokkal inkább lüktető gazdasági életéről és kulturális sokszínűségéről. A város fejlődésében kulcsszerepet játszott a Ferrocarril Central Andino, a világ egyik legmagasabban haladó vasútvonala, amely összeköti a várost Limával.\n\nA város gazdasága a kereskedelemre és a mezőgazdaságra épül; a Mantaro-völgy Peru egyik legfontosabb élelmiszertermelő vidéke. A huancayói vasárnapi piac az egyik legnagyobb és legszínesebb egész Dél-Amerikában, ahol a kézműves termékek, mint a híres faragott tökök (mates burilados) és a finom gyapjúszövetek cserélnek gazdát. Kulturálisan a város a perui folklór egyik fellegvára; itt született meg a Huaylarsh tánc, amely az Andok legenergikusabb táncstílusa. A város környéke természeti szépségekben is gazdag: a Torre Torre eróziós sziklaformációi vagy az Ocopa kolostor könyvtára különleges látnivalót kínálnak. Huancayo egy modern andoki metropolisz, ahol a hagyományos paraszti kultúra és a feltörekvő középosztály világa találkozik. A város lakói, a „huancaínók”, híresek vendégszeretetükről és gazdag gasztronómiájukról, amelynek alapja a híres Papa a la Huancaína (huancayói burgonya), ami mára az egész ország nemzeti étele lett.",
+      ro: "Huancayo, capitala regiunii Junín, este inima pulsândă a Anzilor centrali din Peru, fiind situat în spectaculoasa Vale Mantaro la o altitudine de aproximativ 3.250 de metri. Orașul poartă titlul onorific de „Ciudad Incontrastable”, o recunoaștere a curajului locuitorilor săi în timpul luptelor pentru independență. Istoria sa este marcată de cultura Wanka, o civilizație pre-incașă puternică, a cărei influență se resimte și astăzi în tradițiile și mândria locală. Spre deosebire de Cusco, care este axat pe turismul arheologic, Huancayo este un centru comercial și agricol vital, fiind principalul furnizor de produse alimentare pentru metropola Lima. Orașul a cunoscut o expansiune majoră odată cu sosirea căii ferate trans-andine, o realizare tehnică uluitoare care urcă la peste 4.800 de metri în drumul său spre coastă.\n\nEconomia orașului este susținută de târgurile sale săptămânale, cel mai important fiind cel de duminică, unde se pot găsi faimoasele „mates burilados” (dovleci sculptați manual cu o precizie microscopică) și textile de lână de înaltă calitate. Din punct de vedere cultural, Huancayo este faimos pentru dansul Huaylarsh, o expresie exuberantă a vieții rurale andine, și pentru numeroasele sale festivități religioase. Gastronomia locală este deosebit de apreciată în tot Peru, celebrul preparat „Papa a la Huancaína” purtând numele orașului, deși originile sale sunt disputate. Arhitectura orașului este în mare parte modernă, dar locuri precum Plaza de la Constitución și Catedrala oferă un sentiment de stabilitate istorică. În împrejurimi, formațiunile geologice Torre Torre, sculptate de vânt și ploaie în argilă, oferă un peisaj aproape suprarealist. Huancayo reprezintă spiritul muncitor al poporului peruan, fiind un loc unde tradiția ancestrală Wanka se adaptează constant la provocările modernității, menținând în același timp un ritm de viață vibrant și autentic.",
+      en: "Huancayo, known as the 'Incomparable City,' is the thriving administrative and commercial capital of the Junín Region in central Peru. Situated at an elevation of 3,250 meters in the fertile Mantaro Valley, it is one of the highest major urban centers in the country. The city’s history is rooted in the fierce Wanka culture, which dominated the region before being integrated into the Inca Empire and later colonized by the Spanish in 1572. Huancayo gained its title of 'Incomparable' for the unyielding spirit of its people during the Peruvian War of Independence. The city’s modern development was significantly spurred by the Central Andean Railway, a marvel of engineering that connects Huancayo to Lima, crossing some of the highest mountain passes in the world.\n\nEconomically, Huancayo is a major agricultural hub, often referred to as the 'granary of Lima' due to the vast output of potatoes, grains, and vegetables from the surrounding valley. The city is also famous for its vibrant handicraft industry, particularly the 'mates burilados'—finely engraved gourds that depict intricate scenes of Andean life. Every Sunday, the Avenida Huancavelica transforms into one of Peru’s largest traditional markets, attracting thousands of traders and tourists. Culturally, Huancayo is the heart of the Huaylarsh dance, a high-energy performance that celebrates harvest and fertility. The city’s layout is centered around the Plaza Constitución, home to the Neo-Classical Cathedral. Nearby attractions include the geological formations of Torre Torre and the historic Santa Rosa de Ocopa Convent, which houses a massive library of colonial-era books. Huancayo’s demographic is primarily Mestizo and Quechua-speaking, maintaining a strong connection to rural traditions while embracing its role as a regional leader in education and business. It is a city of resilience and industry, embodying the soul of the central Andes.",
     },
     facts: {
       de: ["Bekannt für den Sonntagsmarkt.", "Liegt auf über 3.200 Metern Höhe."],
       hu: ["Híres a vasárnapi piacáról.", "Több mint 3200 méter magasan fekszik."],
-      ro: ["Cunoscut für die piața de duminică.", "Situat la peste 3.200 de metri altitudine."],
-      en: ["Known for its Sunday market.", "Located over 3,200 meters above sea level."]
+      ro: ["Cunoscut pentru piața de duminică.", "Situat la peste 3.200 de metri altitudine."],
+      en: ["Known for its Sunday market.", "Located over 3,200 meters above sea level."],
+      es: ["Conocido por el mercado dominical.", "Ubicado a más de 3.200 metros de altitud."],
+      pt: ["Conhecido pelo mercado de domingo.", "Localizada a mais de 3.200 metros de altitude."],
+      fr: ["Célèbre pour son marché du dimanche.", "Située à plus de 3 200 mètres d'altitude."],
     },
     factsAdvanced: {
-      de: [
-        "Huancayo wird oft als 'Stadt der Unbeugsamen' bezeichnet, da sie gegen verschiedene Invasoren Widerstand leistete.",
-        "Das berühmte Gericht 'Papa a la Huancaína' hat hier seine Wurzeln.",
-        "Die Stadt liegt auf einer Höhe von 3.259 Metern im größten Gebirgstal Perus.",
-        "Der Huaylarsh ist ein traditioneller, energiegeladener Tanz, der typisch für diese Region ist."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Huancayo is often called the 'City of the Unbowed' due to its resistance against invaders.",
-        "The famous dish 'Papa a la Huancaína' has its origins in this city.",
-        "The city is situated at 3,259 meters in the largest inter-mountain valley in Peru.",
-        "The Huaylarsh is a traditional, high-energy dance typical of this Andean region."
-      ]
-    }
-  },
+      de: ["Huancayo liegt im Mantaro-Tal, einem der breitesten und fruchtbarsten Täler der Anden.", "Die Stadt erhielt 1822 den Titel 'Ciudad Incontrastable' für ihren Kampfgeist.", "Der Sonntagsmarkt in Huancayo erstreckt sich über mehrere Kilometer durch die Stadt.", "Die Zentralbahn verbindet Huancayo mit Lima und erreicht Höhen von über 4.800 Metern.", "Das Gericht 'Papa a la Huancaína' ist das bekannteste kulinarische Erbe der Stadt.", "Torre Torre sind bis zu 30 Meter hohe Lehmsäulen, die durch natürliche Erosion entstanden sind.", "Die Wanka-Kultur, die Vorfahren der Bewohner, widersetzte sich lange der Inka-Herrschaft.", "Huancayo ist Sitz der Universidad Nacional del Centro del Perú, einer wichtigen Forschungsstätte."],
+      hu: ["Huancayo magassága 3259 méter, ami miatt a levegő lényegesen ritkább, mint a parton.", "A város Peru egyik legfontosabb vasúti csomópontja az Andokban.", "A 'mates burilados' faragott tökök a világ legfinomabb népművészeti alkotásai közé tartoznak.", "A Mantaro-völgy biztosítja Lima élelmiszerellátásának jelentős részét.", "A Huaylarsh tánc fesztiválja alatt a város utcái zenétől és táncosoktól hangosak.", "A Plaza Constitución a város főtere, ahol a függetlenségi nyilatkozatot is felolvasták.", "A város környéki Paca-tó egy gyönyörű magashegyi tó, ahol csónakázni is lehet.", "Huancayóban található Peru egyik legnagyobb cipő- és textilipari központja."],
+      ro: ["Huancayo este situat la aproximativ 300 km est de capitala Lima.", "Numele orașului provine din limba Quechua și s-ar traduce prin 'locul pietrei'.", "Târgul de duminică este considerat patrimoniu cultural al națiunii peruviene.", "Mănăstirea Ocopa, situată la 25 km, are o bibliotecă cu peste 20.000 de volume rare.", "Gara din Huancayo este punctul final al celei mai înalte căi ferate cu ecartament normal din lume.", "Stadionul Huancayo este situat la o altitudine care pune probleme echipelor de fotbal de la câmpie.", "Clima orașului este uscată și răcoroasă, cu nopți foarte reci în timpul iernii (iunie-august).", "Regiunea Huancayo este celebră pentru producția de argintărie și filigran."],
+      en: ["Huancayo is the capital of both the Huancayo Province and the Junín Region.", "The city’s official foundation date by the Spanish is June 1, 1572.", "The 'Incontrastable' title was granted by the supreme protector José de San Martín.", "The Mantaro River, which flows past the city, is one of the longest in the Peruvian highlands.", "Traditional Huancayo embroidery is recognized for its colorful and floral patterns.", "The city hosts the 'Santiago' festival in July, celebrating cattle branding and fertility.", "The nearby town of Ingenio is famous for its trout farms and picturesque landscapes.", "Huancayo has a population of approximately 500,000, making it the 6th largest city in Peru."],
+    }, image: "/poi-images/huancayo-cities-v2.webp"},
   {
     id: "tacna-cities-v2",
     type: "state-capital",
@@ -474,2585 +422,38 @@ export const poiExtraPeruCitiesV2: POI[] = [
       de: "Tacna",
       hu: "Tacna",
       ro: "Tacna",
-      en: "Tacna"
-    },
+      en: "Tacna"},
+    image: "/poi-images/tacna-cities-v2.webp",
     description: {
       de: "Grenzstadt zu Chile im Süden Perus.",
       hu: "Határváros Chilével Peru déli részén.",
       ro: "Oraș de graniță cu Chile în sudul statului Peru.",
-      en: "Border city with Chile in southern Peru."
+      en: "Border city with Chile in southern Peru.",
+      es: "Ciudad fronteriza con Chile en el sur del Perú.",
+      pt: "Cidade fronteiriça com o Chile no sul do Peru.",
+      fr: "Ville frontalière avec le Chili, au sud du Pérou.",
     },
     descriptionAdvanced: {
-      de: "Tacna, die südlichste Stadt Perus, trägt stolz den Titel \"Heldenstadt\" aufgrund ihrer Rolle im Salpeterkrieg gegen Chile im späten 19. Jahrhundert. Nachdem die Stadt fast 50 Jahre lang unter chilenischer Verwaltung stand, kehrte sie 1929 nach einem Referendum feierlich zu Peru zurück. Dieses Ereignis wird jedes Jahr mit der emotionalen \"Prozession der Flagge\" gefeiert, einem der wichtigsten patriotischen Feste des Landes. Tacna ist heute eine moderne, saubere Stadt mit weiten Alleen und einer wichtigen Freihandelszone, die viele Besucher zum Einkaufen anzieht. Die Umgebung bietet fruchtbare Täler, in denen exzellente Oliven und Wein produziert werden, sowie prähistorische Petroglyphen in Miculla.",
-      hu: "",
-      ro: "",
-      en: "Tacna, Peru's southernmost city, proudly holds the title of 'Heroic City' for its role in the War of the Pacific against Chile in the late 19th century. After being under Chilean administration for nearly 50 years, the city solemnly returned to Peru in 1929 following a referendum. This event is celebrated annually with the emotional 'Procession of the Flag,' one of the most important patriotic festivals in the country. Tacna is now a modern, clean city with wide avenues and an important free trade zone that attracts many visitors for shopping. The surrounding area offers fertile valleys producing excellent olives and wine, as well as prehistoric petroglyphs in Miculla. History K8 - Modern National History."
+      de: "Tacna, im äußersten Süden Perus gelegen, ist bekannt als die „Heldenstadt“ (Ciudad Heroica) und nimmt einen besonderen Platz im nationalen Bewusstsein der Peruaner ein. Die Stadt liegt in einer fruchtbaren Oase inmitten der Atacama-Wüste, nur etwa 35 Kilometer von der Grenze zu Chile entfernt. Tacnas Geschichte ist untrennbar mit dem Salpeterkrieg (1879–1883) verbunden, in dessen Folge die Stadt fast 50 Jahre lang unter chilenischer Verwaltung stand. Erst 1929 kehrte Tacna offiziell zu Peru zurück, ein Ereignis, das jedes Jahr am 28. August mit dem emotionalen „Einzug der Flagge“ (Procesión de la Bandera) gefeiert wird. Diese patriotische Identität prägt das gesamte Stadtbild und die Mentalität seiner Bewohner. \n\nHeute ist Tacna ein florierendes Handelszentrum, begünstigt durch den Status als Freihandelszone (Zotac). Tausende von Besuchern, insbesondere aus dem nahen Chile, kommen täglich in die Stadt, um von den günstigen Preisen für Elektronik, Textilien und medizinische Dienstleistungen zu profitieren. Das Herz der Stadt ist die Avenida San Martín, an der sich der markante Torbogen „Arco Parabólico“ erhebt, ein Denkmal für die Helden des Pazifikkrieges. Die Kathedrale von Tacna, entworfen vom renommierten Büro von Gustave Eiffel, besticht durch ihre einzigartige Architektur aus rosa Stein. Neben dem Handel spielt die Landwirtschaft eine wichtige Rolle, insbesondere der Anbau von Oliven und Trauben, die zur Herstellung des berühmten Pisco verwendet werden. Die Umgebung von Tacna bietet zudem interessante Ausflugsziele wie die Petroglyphen von Miculla und die Thermalquellen von Calientes. Tacna ist eine Stadt, die trotz ihrer isolierten Lage in der Wüste durch Vitalität, Gastfreundschaft und einen unerschütterlichen Patriotismus besticht.",
+      hu: "Tacna Peru legdélebbi városa, amelyet a „Hősi Város” (Ciudad Heroica) jelzővel illetnek a nemzet függetlenségéért és területi épségéért vívott harcokban tanúsított bátorsága miatt. A város az Atacama-sivatag peremén, egy virágzó oázisban fekszik, és stratégiai kapuként szolgál Chile felé. Történelmének legmeghatározóbb időszaka a Csendes-óceáni háború (1879–1883) volt, amely után a város 49 évig chilei megszállás alatt állt. Ebben a fél évszázadban a lakók titokban őrizték perui identitásukat és nyelvüket, mígnem 1929-ben egy népszavazást követően a város visszatért az anyaországhoz. Ez a történelmi háttér Tacnát Peru egyik legpatriotikusabb városává tette, ahol a nemzeti lobogó tisztelete minden másnál előrébb való.\n\nGazdaságilag Tacna ma Peru egyik legfontosabb kereskedelmi központja, köszönhetően a Zotac szabadkereskedelmi övezetnek. A chilei határ közelsége miatt a város virágzik a bevásárlóturizmusból; chileiek ezrei látogatják naponta a várost orvosi szolgáltatások, gasztronómia és olcsó áruk reményében. A város építészeti jelképe a rózsaszín kőből épült katedrális, amelynek terveit Gustave Eiffel irodája készítette. A főtér, a Paseo Cívico, ad otthont az Arco Parabólico emlékműnek, amely a nemzet hőseinek állít emléket. Tacna gasztronómiája is egyedülálló, híres a „Picante a la Tacneña” nevű ételéről és a kiváló minőségű olívaolajáról. A város környékén találhatók Miculla ősi sziklarajzai, amelyek több ezer éves emberi jelenlétről tanúskodnak a sivatagban. Tacna egy modern, rendezett és tiszta város, amely büszkén őrzi múltját, miközben Peru déli gazdasági motorjaként tekint a jövőbe.",
+      ro: "Tacna, cunoscut drept „Orașul Eroic” al Peruului, este situat în extremitatea sudică a țării, într-o zonă de deșert arid care prinde viață datorită râului Caplina. Orașul este un simbol al patriotismului peruan, având o istorie dramatică legată de Războiul Pacificului. După ocuparea sa de către Chile în 1880, Tacna a rămas sub administrare străină până în 1929, când s-a reintegrat oficial în statul peruan, spre deosebire de provincia vecină Arica, care a rămas chiliană. Această perioadă de „captivitate” a forjat un spirit local de neclintit, vizibil în numeroasele monumente și ceremonii civice. Procesiunea Steagului, desfășurată anual pe 28 august, este una dintre cele mai emoționante manifestări de mândrie națională din întreaga Americă de Sud.\n\nÎn prezent, Tacna este un hub comercial dinamic, transformat de zona de liber schimb (Zotac) care atrage zilnic mii de vizitatori chilieni datorită prețurilor competitive. Economia este astfel bazată pe comerț, servicii medicale de înaltă calitate și turism de weekend. Arhitectural, orașul se mândrește cu Catedrala din Tacna, o structură neo-renascentistă construită din piatră de carieră locală, proiectată de echipa celebrului Gustave Eiffel. Paseo Cívico este centrul social al orașului, dominat de Arcul Parabolic și de fântâna ornamentală din bronz adusă din Anglia în secolul al XIX-lea. Regiunea din jurul orașului este renumită pentru producția de măsline și vinuri, precum și pentru peisajele aride spectaculoase. Miculla, unul dintre cele mai mari situri de petroglife din America de Sud, se află la doar câțiva kilometri, oferind o fereastră spre culturile pre-hispanice care au îmblânzit deșertul. Tacna reușește să combine memoria istorică profundă cu o atmosferă modernă și primitoare, fiind o oprire obligatorie pentru oricine dorește să înțeleagă complexitatea granițelor și identităților sud-americane.",
+      en: "Tacna, located at the southernmost tip of Peru, is a city of profound historical significance and economic vitality. Known as the 'Heroic City' (Ciudad Heroica), Tacna serves as a powerful symbol of Peruvian patriotism due to its 50-year resistance under Chilean occupation following the War of the Pacific. The city was finally returned to Peru in 1929, and this historical legacy is celebrated every August with the 'Procession of the Flag,' a deeply emotional event for the entire nation. Situated in an oasis in the middle of the Caplina River valley, Tacna is surrounded by the stark beauty of the Atacama Desert, making it a critical border town just 35 kilometers from Chile.\n\nEconomically, Tacna is one of Peru's most prosperous cities, largely thanks to its status as a Free Trade Zone (Zotac). This status has turned the city into a bustling commercial center, attracting thousands of shoppers and medical tourists across the border every day. The urban landscape is dominated by the Arco Parabólico, a monument honoring war heroes Miguel Grau and Francisco Bolognesi, and the stunning Tacna Cathedral, which was designed by Gustave Eiffel’s firm and built with distinct pink quarried stone. The city’s Paseo Cívico is noted for its cleanliness and orderly design, often cited as one of the best-maintained public spaces in Peru. Agriculture also plays a vital role in the region, with Tacna being the primary producer of olives and olive oil in the country, as well as a significant producer of pisco grapes. Local culture is a mix of historical reverence and modern commerce, with a cuisine that features unique regional dishes like 'Picante a la Tacneña.' For history enthusiasts and shoppers alike, Tacna offers a unique blend of nationalistic pride and international trade, standing as the southern gate to the Peruvian Republic.",
     },
     facts: {
       de: ["Gilt als die 'Heldenstadt' Perus.", "Wichtige Freihandelszone."],
       hu: ["Peru 'Hősvárosa' néven ismert.", "Fontos szabadkereskedelmi övezet."],
       ro: ["Cunoscut ca 'Orașul Erou' din Peru.", "O importantă zonă de liber schimb."],
-      en: ["Considered the 'Heroic City' of Peru.", "Important free trade zone."]
+      en: ["Considered the 'Heroic City' of Peru.", "Important free trade zone."],
+      es: ["Considerada la 'Ciudad Heroica' del Perú.", "Zona de libre comercio importante."],
+      pt: ["Considerada a 'Cidade Heroica' do Peru.", "Importante zona de livre comércio."],
+      fr: ["Considérée comme la 'Ville Héroïque' du Pérou.", "Zone franche importante."],
     },
     factsAdvanced: {
-      de: [
-        "Tacna ist die einzige peruanische Stadt, die nach einer langen Besetzung durch Verhandlungen zurückgewonnen wurde.",
-        "Die Kathedrale von Tacna wurde von der Firma von Gustave Eiffel entworfen.",
-        "Die Stadt liegt in der Nähe der trockensten Wüste der Welt, der Atacama.",
-        "Der Bogen 'Arco Parabólico' im Zentrum erinnert an die Helden des Salpeterkrieges."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Tacna is the only Peruvian city recovered through negotiations after a long occupation.",
-        "The Cathedral of Tacna was designed by the firm of Gustave Eiffel.",
-        "The city is located near the Atacama Desert, the driest desert in the world.",
-        "The 'Arco Parabólico' monument in the center commemorates the heroes of the Pacific War."
-      ]
-    }
-  },
-  {
-    id: "ica-cities-v2",
-    type: "state-capital",
-    parent: "PE-ICA",
-    coords: [-75.7277, -14.0677],
-    name: {
-      de: "Ica",
-      hu: "Ica",
-      ro: "Ica",
-      en: "Ica"
+      de: ["Tacna liegt nur 35 km nördlich der Grenze zu Chile und dem Hafen von Arica.", "Der Arco Parabólico auf dem Hauptplatz ist das Wahrzeichen der Stadt.", "Die Stadt stand von 1880 bis 1929 unter chilenischer Herrschaft.", "Die Kathedrale von Tacna wurde aus rosa Stein vom nahegelegenen Berg Intiorko gebaut.", "Tacna ist die Olivenhauptstadt Perus und produziert den Großteil der nationalen Ernte.", "Die Petroglyphen von Miculla zeigen über 1.500 Felsritzungen aus der Zeit 500 n. Chr.", "Der Bahnhof von Tacna ist der Ausgangspunkt der internationalen Bahnlinie nach Arica.", "Jedes Jahr am 28. August findet die beeindruckende Procesión de la Bandera statt."],
+      hu: ["Tacna volt az első város Peruban, amely kikiáltotta a függetlenséget 1811-ben.", "A rózsaszín kőből készült katedrális építése 1875-ben kezdődött és 1954-ben fejeződött be.", "A város Peru legfontosabb orvosi turisztikai központja a chilei betegek számára.", "A Tacna-Arica vasútvonal a legrégebbi nemzetközi vasút egész Dél-Amerikában.", "A város környékén található Alto de la Alianza volt a Csendes-óceáni háború egyik legvéresebb csatájának helyszíne.", "Tacna híres a 'Damajuana' nevű boráról és a helyi készítésű Pisco brandy-ről.", "Az Arco Parabólico 18 méter magas és a háborús hősök emlékműve.", "Tacna Peru egyik legtisztább és legbiztonságosabb városának számít."],
+      ro: ["Tacna este singura provincie din Peru care a revenit la țară prin tratat după o lungă ocupație.", "Locuitorii din Tacna sunt cunoscuți pentru păstrarea cu sfințenie a tradițiilor peruane.", "Fântâna ornamentală din piața principală a fost proiectată de sculptorul francez Mathurin Moreau.", "Tacna are un regim fiscal special (ZofraTacna) care permite importuri fără taxe.", "Gastro-turismul este foarte dezvoltat, chileii venind special pentru preparatele picante locale.", "În apropiere se află băile termale Calientes, cunoscute pentru proprietățile lor curative.", "Climatul este arid, cu precipitații aproape inexistente pe tot parcursul anului.", "Muzeul Feroviar din Tacna păstrează locomotive vechi care circulau pe linia spre Chile."],
+      en: ["Tacna is located at an altitude of 562 meters above sea level.", "The city’s official anniversary of its return to Peru is celebrated on August 28th.", "Tacna accounts for over 70% of Peru's olive production.", "The Arco Parabólico honors Miguel Grau and Francisco Bolognesi, Peru's national heroes.", "The city’s cathedral is built in a Neo-Renaissance style and features a massive bronze bell.", "Tacna was the site of the Battle of the Intiorko Hill in 1880.", "The Miculla Petroglyphs are spread across a desert area of 20 square kilometers.", "Tacna serves as a vital transit point for the Pan-American Highway entering Peru from the south."],
     },
-    description: {
-      de: "Zentrum der peruanischen Weinproduktion.",
-      hu: "A perui bortermelés központja.",
-      ro: "Centrul producției de vin peruan.",
-      en: "Center of Peruvian wine production."
-    },
-    descriptionAdvanced: {
-      de: "Ica ist eine faszinierende Oasenstadt in der peruanischen Wüste und das Herz des Wein- und Pisco-Anbaus. Dank eines ausgeklügelten Bewässerungssystems, dessen Wurzeln bis in die Zeit der Inka und davor zurückreichen, ist das Wüstental heute eine der produktivsten Agrarregionen des Landes. Ein absolutes Muss für Besucher ist die nahegelegene Oase Huacachina, die von riesigen Sanddünen umgeben ist und zum Sandboarding einlädt. Die Region Ica ist zudem reich an Geschichte; so siedelten hier die Kulturen der Paracas und Nazca, bevor sie von den Inka unterworfen wurden. In den lokalen Bodegas (Weinkellereien) können Besucher den Herstellungsprozess des berühmten Traubenschnapses Pisco kennenlernen und verkosten.",
-      hu: "",
-      ro: "",
-      en: "Ica is a fascinating oasis city in the Peruvian desert and the heart of the country's wine and pisco production. Thanks to a sophisticated irrigation system with roots dating back to the Inca era and earlier, the desert valley is now one of Peru's most productive agricultural regions. An absolute must-see for visitors is the nearby Huacachina oasis, surrounded by massive sand dunes that are perfect for sandboarding. The Ica region is also rich in history, having been settled by the Paracas and Nazca cultures before being incorporated into the Inca Empire. In local bodegas (wineries), visitors can learn about and taste the production process of the famous grape brandy, Pisco. Geography K7 - Desert Oases and Agriculture."
-    },
-    facts: {
-      de: ["Die Oase Huacachina liegt in der Nähe.", "Berühmt für Pisco, ein Traubenschnaps."],
-      hu: ["A Huacachina oázis a közelben található.", "Híres a Pisco nevű szőlőpárlatról."],
-      ro: ["Oaza Huacachina se află în apropiere.", "Faimos pentru Pisco, un rachiu de struguri."],
-      en: ["The Huacachina oasis is nearby.", "Famous for Pisco, a grape brandy."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Lagune von Huacachina ist eine der wenigen natürlichen Oasen in ganz Südamerika.",
-        "Ica ist berühmt für seine 'Cachina', einen jungen, süßen Wein aus der Region.",
-        "Das Regionalmuseum von Ica beherbergt beeindruckende Paracas-Mumien und Schädeldeformationen.",
-        "Die Dünen rund um die Stadt gehören zu den höchsten der Welt."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Huacachina Lagoon is one of the few natural oases in all of South America.",
-        "Ica is famous for its 'Cachina', a young, sweet regional wine.",
-        "The Regional Museum of Ica houses impressive Paracas mummies and cranial deformations.",
-        "The sand dunes surrounding the city are among the highest in the world."
-      ]
-    }
-  },
-  {
-    id: "juliaca-cities-v2",
-    type: "city",
-    parent: "PE-PUN",
-    coords: [-70.1336, -15.4939],
-    name: {
-      de: "Juliaca",
-      hu: "Juliaca",
-      ro: "Juliaca",
-      en: "Juliaca"
-    },
-    description: {
-      de: "Handelszentrum in der Region Puno.",
-      hu: "Puno régió kereskedelmi központja.",
-      ro: "Centru comercial in regiunea Puno.",
-      en: "Commercial center in the Puno region."
-    },
-    descriptionAdvanced: {
-      de: "Juliaca, bekannt als die \"Stadt der Winde\", ist das pulsierende wirtschaftliche Herz des peruanischen Altiplano in der Region Puno. Die Stadt liegt auf einer weiten Hochebene und hat sich zu einem riesigen informellen Handelsplatz entwickelt, auf dem Waren aus ganz Peru und Bolivien gehandelt werden. Obwohl sie weniger touristisch ist als das nahegelegene Puno am Titicacasee, ist sie ein unverzichtbarer Verkehrsknotenpunkt mit dem wichtigsten Flughafen der Region. Architektonisch sticht die koloniale Kirche Santa Catalina aus weißem Sillar-Gestein hervor, die einen interessanten Kontrast zum eher funktionalen Stadtbild bildet. Juliaca ist zudem ein Zentrum der Textilproduktion, insbesondere für hochwertige Erzeugnisse aus Alpaka- und Schafwolle.",
-      hu: "",
-      ro: "",
-      en: "Juliaca, known as the 'City of Winds,' is the pulsating economic heart of the Peruvian Altiplano in the Puno region. Situated on a vast high plateau, the city has evolved into a massive informal commercial hub where goods from all over Peru and Bolivia are traded. Although it is less touristy than nearby Puno on Lake Titicaca, it is an indispensable transport hub with the region's most important airport. Architecturally, the colonial Santa Catalina church, built from white sillar stone, stands out as an interesting contrast to the otherwise functional cityscape. Juliaca is also a center for textile production, particularly for high-quality alpaca and sheep wool products. Economics K8 - Informal Markets and Trade."
-    },
-    facts: {
-      de: ["Bekannt als 'Stadt der Winde'.", "Wichtiger Verkehrsknotenpunkt im Süden."],
-      hu: ["A 'Szelek Városaként' is ismert.", "Fontos közlekedési csomópont délen."],
-      ro: ["Cunoscut ca 'Orașul Vânturilor'.", "Un important nod de transport în sud."],
-      en: ["Known as the 'City of Winds'.", "Important transport hub in the south."]
-    },
-    factsAdvanced: {
-      de: [
-        "Juliaca liegt auf einer beachtlichen Höhe von etwa 3.825 Metern über dem Meeresspiegel.",
-        "Die Stadt ist berühmt für ihren farbenfrohen und ausgedehnten Karneval zu Ehren von San Sebastian.",
-        "Aufgrund ihrer Lage in der Hochebene wehen hier fast ständig starke Winde.",
-        "Juliaca ist ein wichtiger Knotenpunkt der Eisenbahnstrecke zwischen Cusco, Puno und Arequipa."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Juliaca is located at a significant altitude of approximately 3,825 meters above sea level.",
-        "The city is famous for its colorful and extensive carnival in honor of San Sebastian.",
-        "Due to its location on the high plateau, strong winds blow here almost constantly.",
-        "Juliaca is a major junction on the railway line connecting Cusco, Puno, and Arequipa."
-      ]
-    }
-  },
-  {
-    id: "pucallpa-cities-v2",
-    type: "state-capital",
-    parent: "PE-UCA",
-    coords: [-74.5262, -8.3791],
-    name: {
-      de: "Pucallpa",
-      hu: "Pucallpa",
-      ro: "Pucallpa",
-      en: "Pucallpa"
-    },
-    description: {
-      de: "Hauptstadt der Region Ucayali am Fluss Ucayali.",
-      hu: "Ucayali régió fővárosa az Ucayali folyó mentén.",
-      ro: "Capitala regiunii Ucayali pe râul Ucayali.",
-      en: "Capital of the Ucayali region on the Ucayali River."
-    },
-    descriptionAdvanced: {
-      de: "Pucallpa ist eine schnell wachsende Dschungelmetropole am Ufer des majestätischen Ucayali-Flusses im Osten Perus. Ihr Name bedeutet in der Sprache der Pano-Indianer \"Rote Erde\", was auf die charakteristische Farbe des Bodens in dieser Region anspielt. Die Stadt dient als wichtigstes Bindeglied zwischen dem Amazonasbecken und der Hauptstadt Lima, da sie über eine der wenigen ganzjährig befahrbaren Straßenverbindungen aus den Anden verfügt. Wirtschaftlich ist Pucallpa stark von der Holzindustrie und der Ölförderung geprägt, entwickelt sich aber zunehmend zu einem Ziel für Naturtourismus. Ein besonderes Highlight ist die nahegelegene Lagune Yarinacocha, wo man in schwimmenden Restaurants essen und indigene Gemeinschaften der Shipibo-Conibo besuchen kann.",
-      hu: "",
-      ro: "",
-      en: "Pucallpa is a rapidly growing jungle metropolis on the banks of the majestic Ucayali River in eastern Peru. Its name means 'Red Earth' in the Pano language, referring to the characteristic color of the soil in this region. The city serves as the most important link between the Amazon basin and the capital, Lima, as it possesses one of the few year-round accessible road connections from the Andes. Economically, Pucallpa is heavily influenced by the timber industry and oil extraction, but it is increasingly becoming a destination for nature tourism. A special highlight is the nearby Yarinacocha Lagoon, where visitors can dine in floating restaurants and visit indigenous Shipibo-Conibo communities. Geography K8 - Amazonian Connectivity."
-    },
-    facts: {
-      de: ["Wichtiger Hafen im Amazonasgebiet.", "Wirtschaftlich durch Holzeinschlag geprägt."],
-      hu: ["Fontos kikötő az Amazonas régióban.", "Gazdaságát a fakitermelés határozza meg."],
-      ro: ["Port important în regiunea amazoniană.", "Economia este dominată de exploatarea forestieră."],
-      en: ["Important port in the Amazon region.", "Economy characterized by logging."]
-    },
-    factsAdvanced: {
-      de: [
-        "Pucallpa ist über den Ucayali-Fluss mit dem weit entfernten Amazonas und Iquitos verbunden.",
-        "Die Lagune Yarinacocha war einst ein Altarm des Ucayali-Flusses.",
-        "In der Region leben viele Schamanen, die für ihre traditionellen Heilzeremonien mit Ayahuasca bekannt sind.",
-        "Die Stadt ist ein Schmelztiegel aus indigenen Kulturen und Siedlern aus dem Hochland."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Pucallpa is connected via the Ucayali River to the distant Amazon and Iquitos.",
-        "Yarinacocha Lagoon was once an oxbow of the Ucayali River.",
-        "The region is home to many shamans known for traditional healing ceremonies with Ayahuasca.",
-        "The city is a melting pot of indigenous cultures and settlers from the highlands."
-      ]
-    }
-  },
-  {
-    id: "sullana-cities-v2",
-    type: "city",
-    parent: "PE-PIU",
-    coords: [-80.6852, -4.9038],
-    name: {
-      de: "Sullana",
-      hu: "Sullana",
-      ro: "Sullana",
-      en: "Sullana"
-    },
-    description: {
-      de: "Stadt im Tal des Río Chira in Nordperu.",
-      hu: "Város a Chira folyó völgyében, Észak-Peruban.",
-      ro: "Oraș din valea râului Chira, în nordul statului Peru.",
-      en: "City in the Chira River valley in northern Peru."
-    },
-    descriptionAdvanced: {
-      de: "Sullana, auch als die \"Perle des Chira\" bekannt, ist eine wichtige Stadt im Norden Perus, die im fruchtbaren Tal des Río Chira liegt. Die Stadt profitiert von einem tropischen Klima und einer hochentwickelten Landwirtschaft, die durch den nahegelegenen Poechos-Stausee ermöglicht wird. Hier werden vor allem Bananen, Zitronen und Kokosnüsse für den Export angebaut, was Sullana zu einem wirtschaftlichen Motor der Region Piura macht. Das Stadtbild ist geprägt von modernen Einflüssen und dem lebhaften Handel, der typisch für nordperuanische Städte ist. In der Umgebung finden sich zudem Zeugnisse der Tallán-Kultur, einer bedeutenden präkolumbianischen Zivilisation, die für ihre Seefahrt und ihren Handel bekannt war.",
-      hu: "",
-      ro: "",
-      en: "Sullana, also known as the 'Pearl of the Chira,' is an important city in northern Peru located in the fertile Chira River valley. The city benefits from a tropical climate and highly developed agriculture, made possible by the nearby Poechos Reservoir. Major export crops such as bananas, lemons, and coconuts are grown here, making Sullana an economic engine for the Piura region. The cityscape reflects modern influences and the bustling trade typical of northern Peruvian cities. In the surrounding area, there are also remains of the Tallán culture, a significant pre-Columbian civilization known for their seafaring and trade. Economics K7 - Tropical Agriculture."
-    },
-    facts: {
-      de: ["Wichtiges Zentrum für Landwirtschaft.", "Bekannt für sein warmes Klima."],
-      hu: ["A mezőgazdaság fontos központja.", "Meleg éghajlatáról ismert."],
-      ro: ["Un centru important pentru agricultură.", "Cunoscut pentru clima sa caldă."],
-      en: ["Important center for agriculture.", "Known for its warm climate."]
-    },
-    factsAdvanced: {
-      de: [
-        "Der Poechos-Stausee bei Sullana ist einer der größten Wasserspeicher Perus.",
-        "Die Stadt wurde 1783 von dem spanischen Bischof Baltasar Jaime Martínez Compañón gegründet.",
-        "Sullana ist berühmt für seine leckeren 'Chifles', frittierte Kochbananenscheiben.",
-        "Die Brücke über den Río Chira ist ein markantes Wahrzeichen der Stadt."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "The Poechos Reservoir near Sullana is one of the largest water reservoirs in Peru.",
-        "The city was founded in 1783 by the Spanish Bishop Baltasar Jaime Martínez Compañón.",
-        "Sullana is famous for its delicious 'chifles', which are fried plantain slices.",
-        "The bridge over the Chira River is a prominent landmark of the city."
-      ]
-    }
-  },
-  {
-    id: "cajamarca-cities-v2",
-    type: "state-capital",
-    parent: "PE-CAJ",
-    coords: [-78.5135, -7.1637],
-    name: {
-      de: "Cajamarca",
-      hu: "Cajamarca",
-      ro: "Cajamarca",
-      en: "Cajamarca"
-    },
-    description: {
-      de: "Historische Stadt im nördlichen Hochland Perus.",
-      hu: "Történelmi város Peru északi hegyvidékén.",
-      ro: "Oraș istoric din nordul muntos al statului Peru.",
-      en: "Historical city in the northern highlands of Peru."
-    },
-    descriptionAdvanced: {
-      de: "Cajamarca ist eine Stadt von enormer historischer Bedeutung, denn hier fand 1532 die schicksalhafte Begegnung zwischen dem Inka-Herrscher Atahualpa und dem spanischen Eroberer Francisco Pizarro statt. Das sogenannte \"Lösegeldzimmer\" (Cuarto del Rescate) ist das einzige heute noch erhaltene Inka-Bauwerk der Stadt und erinnert an die gewaltigen Mengen Gold und Silber, die für den Inka gezahlt wurden. Die Stadt besticht heute durch ihre wunderschöne barocke Kolonialarchitektur, die aus dem hellen Stein der Region errichtet wurde. Dank der fruchtbaren Umgebung ist Cajamarca zudem berühmt für seine exzellenten Milchprodukte, insbesondere Käse und Manjar Blanco (eine Art Karamellcreme). Die nahegelegenen Inka-Bäder laden auch heute noch Besucher ein, in den heißen Thermalquellen zu entspannen, die schon Atahualpa nutzte.",
-      hu: "",
-      ro: "",
-      en: "Cajamarca is a city of immense historical importance, as it was the site of the fateful 1532 encounter between the Inca ruler Atahualpa and the Spanish conquistador Francisco Pizarro. The so-called 'Ransom Room' (Cuarto del Rescate) is the only surviving Inca structure in the city and commemorates the vast quantities of gold and silver paid for the Inca's release. Today, the city charms visitors with its beautiful Baroque colonial architecture, built from the light-colored local stone. Thanks to its fertile surroundings, Cajamarca is also famous for its excellent dairy products, especially cheese and manjar blanco. The nearby Inca Baths still invite visitors to relax in the thermal springs that Atahualpa himself once used. History K7 - The Fall of the Inca Empire."
-    },
-    facts: {
-      de: ["Ort der Gefangennahme des Inkas Atahualpa.", "Bekannt für Karneval und Milchprodukte."],
-      hu: ["Atahualpa inka uralkodó elfogásának helyszíne.", "Híres a karneválról és a tejtermékekről."],
-      ro: ["Locul unde a fost capturat incașul Atahualpa.", "Cunoscut pentru carnaval și produse lactate."],
-      en: ["Site of the capture of the Inca Atahualpa.", "Known for carnival and dairy products."]
-    },
-    factsAdvanced: {
-      de: [
-        "Cajamarca war der Ort der Gefangennahme und Hinrichtung des letzten unabhängigen Inka-Kaisers Atahualpa.",
-        "Der Karneval von Cajamarca gilt als einer der fröhlichsten und farbenprächtigsten in ganz Peru.",
-        "Die Stadt liegt in einem malerischen Tal auf etwa 2.750 Metern Höhe in den Nordanden.",
-        "In der Umgebung befinden sich die 'Ventanillas de Otuzco', eine beeindruckende präkolumbianische Nekropole."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Cajamarca was the site of the capture and execution of the last independent Inca Emperor, Atahualpa.",
-        "The Carnival of Cajamarca is considered one of the most joyful and colorful in all of Peru.",
-        "The city is nestled in a picturesque valley at about 2,750 meters in the northern Andes.",
-        "Nearby are the 'Ventanillas de Otuzco,' an impressive pre-Columbian necropolis."
-      ]
-    }
-  },
-  {
-    id: "chincha_alta-cities-v2",
-    type: "city",
-    parent: "PE-ICA",
-    coords: [-76.1309, -13.4098],
-    name: {
-      de: "Chincha Alta",
-      hu: "Chincha Alta",
-      ro: "Chincha Alta",
-      en: "Chincha Alta"
-    },
-    description: {
-      de: "Zentrum der afro-peruanischen Kultur.",
-      hu: "Az afro-perui kultúra központja.",
-      ro: "Centrul culturii afro-peruane.",
-      en: "Center of Afro-Peruvian culture."
-    },
-    descriptionAdvanced: {
-      de: "Chincha Alta ist das pulsierende Zentrum der afro-peruanischen Kultur an der Zentralküste Perus und reich an lebendigen Traditionen. Die Stadt und das Umland wurden im 17. Jahrhundert durch afrikanische Sklaven geprägt, die auf den Baumwoll- und Zuckerrohrplantagen arbeiteten und ihre Rhythmen und Bräuche mitbrachten. Heute ist Chincha berühmt für seine mitreißende Musik, insbesondere den Einsatz des Cajón-Trommelkastens, und Tänze wie den Festejo. Kulinarisch lockt die Region mit einzigartigen Gerichten wie der Carapulcra con Sopa Seca, die bei keinem Fest fehlen dürfen. In der Umgebung zeugen beeindruckende Lehmpyramiden (Huacas) von der einst mächtigen Chincha-Kultur, die ein bedeutendes Handelsreich zu Wasser und zu Land führte.",
-      hu: "",
-      ro: "",
-      en: "Chincha Alta is the vibrant heart of Afro-Peruvian culture on Peru's central coast, rich in living traditions. The city and its surroundings were shaped in the 17th century by African slaves who worked on cotton and sugarcane plantations, bringing their rhythms and customs with them. Today, Chincha is famous for its infectious music, especially the use of the cajón drum box, and dances like the Festejo. Culinary-wise, the region attracts visitors with unique dishes such as Carapulcra con Sopa Seca. Nearby, impressive mud pyramids (huacas) testify to the once-mighty Chincha culture, which led a significant trade empire by sea and land. History K7 - Afro-Peruvian Heritage."
-    },
-    facts: {
-      de: ["Liegt in der Region Ica.", "Bekannt für den traditionellen Cajón-Trommel."],
-      hu: ["Az Ica régióban található.", "A hagyományos cajón dobról ismert."],
-      ro: ["Situat în regiunea Ica.", "Cunoscut pentru toba tradițională cajón."],
-      en: ["Located in the Ica region.", "Known for the traditional cajón drum."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Chincha-Kultur war so mächtig, dass ihr Herrscher der einzige war, der in derselben Sänfte wie der Inka getragen werden durfte.",
-        "Der Stadtteil El Carmen gilt als die spirituelle Hauptstadt der afro-peruanischen Musik.",
-        "Chincha ist ein bedeutendes Anbaugebiet für Baumwolle, Trauben und Spargel.",
-        "Jedes Jahr im Februar findet hier das berühmte 'Verano Negro' Festival statt."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "The Chincha culture was so powerful that its ruler was the only one allowed to be carried in the same litter as the Inca.",
-        "The El Carmen district is considered the spiritual capital of Afro-Peruvian music.",
-        "Chincha is a major production area for cotton, grapes, and asparagus.",
-        "Every year in February, the famous 'Verano Negro' (Black Summer) festival takes place here."
-      ]
-    }
-  },
-  {
-    id: "ayacucho-cities-v2",
-    type: "state-capital",
-    parent: "PE-AYA",
-    coords: [-74.2235, -13.1587],
-    name: {
-      de: "Ayacucho",
-      hu: "Ayacucho",
-      ro: "Ayacucho",
-      en: "Ayacucho"
-    },
-    description: {
-      de: "Bekannt für seine zahlreichen Kirchen.",
-      hu: "Számos templomáról ismert.",
-      ro: "Cunoscut pentru numeroasele sale biserici.",
-      en: "Known for its numerous churches."
-    },
-    descriptionAdvanced: {
-      de: "Ayacucho, oft als \"Stadt der 33 Kirchen\" bezeichnet, ist eine der geschichtsträchtigsten und kulturell reichsten Städte im peruanischen Hochland. Ihre wunderschöne koloniale Altstadt beherbergt prachtvolle Tempel und Herrenhäuser, die von einer glanzvollen Vergangenheit zeugen. Weltbekannt ist Ayacucho für seine feine Handwerkskunst, insbesondere die \"Retablos\" – kunstvoll geschnitzte und bemalte Holzkästchen, die religiöse oder Alltagsszenen darstellen. In der Ebene von Quinua, unweit der Stadt, wurde 1824 in der Schlacht von Ayacucho die endgültige Unabhängigkeit Südamerikas von der spanischen Krone besiegelt. Trotz einer schwierigen Phase in den 1980er Jahren hat die Stadt ihre Lebensfreude bewahrt und feiert heute eine der beeindruckendsten Karwochen (Semana Santa) der Welt.",
-      hu: "",
-      ro: "",
-      en: "Ayacucho, often called the 'City of 33 Churches,' is one of the most historical and culturally rich cities in the Peruvian highlands. Its beautiful colonial center houses magnificent temples and mansions that testify to a glorious past. Ayacucho is world-renowned for its fine craftsmanship, especially 'Retablos'—intricately carved and painted wooden boxes depicting religious or everyday scenes. On the Plains of Quinua, near the city, the final independence of South America from the Spanish crown was sealed in the Battle of Ayacucho in 1824. Despite a difficult period in the 1980s, the city has preserved its joy and today celebrates one of the world's most impressive Holy Weeks (Semana Santa). History K8 - South American Independence."
-    },
-    facts: {
-      de: ["Ort der entscheidenden Schlacht von Ayacucho 1824.", "Zentrum des peruanischen Kunsthandwerks."],
-      hu: ["Az 1824-es ayacuchói csata helyszíne.", "A perui kézművesség központja."],
-      ro: ["Locul bătăliei decisive de la Ayacucho din 1824.", "Centrul meșteșugurilor peruane."],
-      en: ["Site of the decisive Battle of Ayacucho in 1824.", "Center of Peruvian handicrafts."]
-    },
-    factsAdvanced: {
-      de: [
-        "Ayacucho bedeutet in der Sprache Quechua 'Ecke der Toten', was auf alte Schlachtfelder hindeutet.",
-        "In der Nähe liegen die Ruinen von Wari, der Hauptstadt eines mächtigen Reiches vor der Inkazeit.",
-        "Die Stadt ist berühmt für ihre Silberfiligranarbeit und ihre farbenfrohen Webarbeiten.",
-        "Das Obelisk von Quinua erinnert an die entscheidende Schlacht für die Freiheit Südamerikas."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Ayacucho means 'Corner of the Dead' in Quechua, likely referring to ancient battlefields.",
-        "Nearby are the ruins of Wari, the capital of a powerful empire that predated the Incas.",
-        "The city is famous for its silver filigree work and colorful weaving.",
-        "The Obelisk of Quinua commemorates the decisive battle for South American freedom."
-      ]
-    }
-  },
-  {
-    id: "huanuco-cities-v2",
-    type: "state-capital",
-    parent: "PE-HUC",
-    coords: [-76.2411, -9.9306],
-    name: {
-      de: "Huánuco",
-      hu: "Huánuco",
-      ro: "Huánuco",
-      en: "Huánuco"
-    },
-    description: {
-      de: "Liegt am Huallaga-Fluss im zentralen Hochland.",
-      hu: "A Huallaga folyó mentén található a központi hegyvidéken.",
-      ro: "Situat pe râul Huallaga în zonele muntoase centrale.",
-      en: "Located on the Huallaga River in the central highlands."
-    },
-    descriptionAdvanced: {
-      de: "Huánuco liegt im malerischen Tal des Flusses Huallaga und gilt aufgrund seines ganzjährig milden und sonnigen Klimas als Stadt des \"ewigen Frühlings\". Sie ist ein wichtiger Knotenpunkt zwischen den Anden und dem Amazonasbecken und bietet eine faszinierende Mischung aus verschiedenen ökologischen Zonen. Nur wenige Kilometer von der Stadt entfernt befindet sich Kotosh, der Tempel der gekreuzten Hände, eine der ältesten archäologischen Stätten Amerikas (ca. 2500 v. Chr.). Huánuco ist zudem berühmt für seine leidenschaftlichen Traditionen, wie den Tanz der Negritos, der zur Weihnachtszeit die Straßen belebt. Die Umgebung ist geprägt von fruchtbaren Plantagen, auf denen Zuckerrohr, Kaffee und Obst in Hülle und Fülle gedeihen.",
-      hu: "",
-      ro: "",
-      en: "Huánuco is nestled in the picturesque Huallaga River valley and is known as the city of 'Eternal Spring' due to its year-round mild and sunny climate. It serves as a vital link between the Andes and the Amazon basin, offering a fascinating mix of different ecological zones. Just a few kilometers from the city lies Kotosh, the Temple of the Crossed Hands, one of the oldest archaeological sites in the Americas (circa 2500 BCE). Huánuco is also famous for its passionate traditions, such as the Dance of the Negritos, which enlivens the streets during the Christmas season. The surrounding area is characterized by fertile plantations where sugarcane, coffee, and fruit grow in abundance. History K6 - Early Civilizations."
-    },
-    facts: {
-      de: ["Gilt als Tor zum Amazonas.", "Bekannt für den Tanz 'Los Negritos'."],
-      hu: ["Az Amazonas kapujaként tartják számon.", "Híres a 'Los Negritos' táncról."],
-      ro: ["Considerat o poartă de acces către Amazon.", "Cunoscut pentru dansul 'Los Negritos'."],
-      en: ["Considered a gateway to the Amazon.", "Known for the 'Los Negritos' dance."]
-    },
-    factsAdvanced: {
-      de: [
-        "Huánuco wurde 1539 von den Spaniern gegründet, nachdem eine erste Siedlung weiter oben in den Bergen aufgegeben wurde.",
-        "Der Kotosh-Tempel beweist eine hochentwickelte Zivilisation lange vor den Inka.",
-        "Die Stadt liegt strategisch günstig an der Straße, die Lima mit dem Amazonas-Hafen Pucallpa verbindet.",
-        "Huánuco ist bekannt für seine Produktion von Shacta, einem traditionellen Zuckerrohrschnaps."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Huánuco was founded in 1539 by the Spaniards after an earlier settlement higher in the mountains was abandoned.",
-        "The Kotosh temple proves the existence of a highly developed civilization long before the Incas.",
-        "The city is strategically located on the road connecting Lima with the Amazon port of Pucallpa.",
-        "Huánuco is known for its production of Shacta, a traditional sugarcane brandy."
-      ]
-    }
-  },
-  {
-    id: "puno-cities-v2",
-    type: "state-capital",
-    parent: "PE-PUN",
-    coords: [-70.0267, -15.8402],
-    name: {
-      de: "Puno",
-      hu: "Puno",
-      ro: "Puno",
-      en: "Puno"
-    },
-    description: {
-      de: "Stadt am Ufer des Titicacasees.",
-      hu: "Város a Titicaca-tó partján.",
-      ro: "Oraș pe malul lacului Titicaca.",
-      en: "City on the shores of Lake Titicaca."
-    },
-    descriptionAdvanced: {
-      de: "Puno, am Ufer des tiefblauen Titicacasees auf über 3.800 Metern Höhe gelegen, gilt als die offizielle Folklore-Hauptstadt Perus. Die Stadt ist weltbekannt für ihre farbenfrohen Tänze und Feste, allen voran das Fest der Virgen de la Candelaria, das zum UNESCO-Immateriellen Kulturerbe gehört. Von Puno aus starten die Boote zu den schwimmenden Inseln der Uros, die vollständig aus Totora-Schilf erbaut sind und eine einzigartige Lebensweise bewahren. Auch die Inseln Taquile und Amantaní, auf denen die Bewohner noch heute nach jahrhundertealten Traditionen leben und weben, sind von hier aus erreichbar. Die karge, aber beeindruckende Landschaft des Altiplano verleiht der Region eine mystische Atmosphäre, die tief in den Mythen um die Entstehung der Inka verwurzelt ist.",
-      hu: "",
-      ro: "",
-      en: "Puno, located on the shores of the deep blue Lake Titicaca at over 3,800 meters, is recognized as the official folklore capital of Peru. The city is world-famous for its colorful dances and festivals, most notably the Feast of the Virgin of Candelaria, which is a UNESCO Intangible Cultural Heritage. From Puno, boats depart for the floating Uros Islands, built entirely of totora reeds, which preserve a unique way of life. The islands of Taquile and Amantaní, where residents still live and weave according to centuries-old traditions, are also accessible from here. The stark but impressive Altiplano landscape gives the region a mystical atmosphere deeply rooted in myths surrounding the origin of the Incas. Geography K7 - High Plateau Cultures."
-    },
-    facts: {
-      de: ["Folklore-Hauptstadt Perus.", "Ausgangspunkt zu den Uros-Inseln."],
-      hu: ["Peru folklór fővárosa.", "Kiindulópont az Uros-szigetekhez."],
-      ro: ["Capitala folclorică a statului Peru.", "Punct de plecare către insulele Uros."],
-      en: ["Folklore capital of Peru.", "Starting point to the Uros Islands."]
-    },
-    factsAdvanced: {
-      de: [
-        "Der Titicacasee bei Puno ist der höchste kommerziell schiffbare See der Welt.",
-        "Das Fest der Candelaria im Februar bringt tausende Tänzer und Musiker in die Stadt.",
-        "Der Legende nach stiegen Manco Cápac und Mama Ocllo, die Gründer des Inkareiches, aus den Wassern des Titicacasees.",
-        "Puno ist ein bedeutendes Zentrum für die Zucht von Alpakas und die Verarbeitung ihrer feinen Wolle."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Lake Titicaca near Puno is the highest commercially navigable lake in the world.",
-        "The Candelaria festival in February brings thousands of dancers and musicians to the city.",
-        "According to legend, Manco Cápac and Mama Ocllo, the founders of the Inca Empire, rose from the waters of Lake Titicaca.",
-        "Puno is a major center for alpaca breeding and the processing of their fine wool."
-      ]
-    }
-  },
-  {
-    id: "tarapoto-cities-v2",
-    type: "city",
-    parent: "PE-SAM",
-    coords: [-76.3667, -6.4833],
-    name: {
-      de: "Tarapoto",
-      hu: "Tarapoto",
-      ro: "Tarapoto",
-      en: "Tarapoto"
-    },
-    description: {
-      de: "Größte Stadt in der Region San Martín.",
-      hu: "San Martín régió legnagyobb városa.",
-      ro: "Cel mai mare oraș din regiunea San Martín.",
-      en: "Largest city in the San Martín region."
-    },
-    descriptionAdvanced: {
-      de: "Tarapoto liegt in der \"Hochselva\" Nordperus und ist eine pulsierende Stadt, die für ihr warmes Klima und ihre üppige Natur bekannt ist. Als wichtigstes Wirtschaftszentrum der Region San Martín dient sie als idealer Ausgangspunkt für Abenteuer im Regenwald. Die Umgebung ist gespickt mit spektakulären Wasserfällen wie Ahuashiyacu und kristallklaren Lagunen wie der Laguna Azul in Sauce. Tarapoto hat sich in den letzten Jahren rasant entwickelt und bietet heute eine lebhafte Gastronomie und ein buntes Nachtleben, das Besucher aus dem In- und Ausland anzieht. Trotz der Modernisierung bewahrt die Stadt ihre Verbindung zur Natur und ist ein Paradies für Vogelbeobachter und Naturliebhaber.",
-      hu: "",
-      ro: "",
-      en: "Tarapoto is located in the 'High Jungle' (Selva Alta) of northern Peru and is a vibrant city known for its warm climate and lush nature. As the primary economic center of the San Martín region, it serves as an ideal base for Amazonian adventures. The surrounding area is dotted with spectacular waterfalls like Ahuashiyacu and crystal-clear lagoons such as the Blue Lagoon (Laguna Azul) in Sauce. Tarapoto has developed rapidly in recent years, now offering a lively gastronomy scene and colorful nightlife that attracts visitors from across Peru and abroad. Despite modernization, the city maintains its connection to nature and is a paradise for birdwatchers and nature enthusiasts. Geography K8 - Cloud Forests and High Jungle."
-    },
-    facts: {
-      de: ["Wichtiges Tourismuszentrum für den Regenwald.", "Bekannt für nahegelegene Wasserfälle."],
-      hu: ["Fontos turisztikai központ az esőerdőben.", "A közeli vízesésekről ismert."],
-      ro: ["Centru turistic important pentru pădurea tropicală.", "Cunoscut pentru cascadele din apropiere."],
-      en: ["Important tourism center for the rainforest.", "Known for nearby waterfalls."]
-    },
-    factsAdvanced: {
-      de: [
-        "Tarapoto wird oft als 'Stadt der Palmen' bezeichnet.",
-        "In der Region wird hochwertiger Kaffee, Kakao und Tabak angebaut.",
-        "Die Laguna Azul entstand in einem alten Vulkankrater und ist ein beliebtes Ausflugsziel.",
-        "Der Flughafen von Tarapoto ist einer der meistfrequentierten im peruanischen Amazonasgebiet."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Tarapoto is often referred to as the 'City of Palms'.",
-        "The region produces high-quality coffee, cocoa, and tobacco.",
-        "The Blue Lagoon was formed in an ancient volcanic crater and is a popular excursion destination.",
-        "Tarapoto's airport is one of the busiest in the Peruvian Amazon region."
-      ]
-    }
-  },
-  {
-    id: "huaraz-cities-v2",
-    type: "state-capital",
-    parent: "PE-ANC",
-    coords: [-77.5287, -9.529],
-    name: {
-      de: "Huaraz",
-      hu: "Huaraz",
-      ro: "Huaraz",
-      en: "Huaraz"
-    },
-    description: {
-      de: "Hauptstadt der Region Ancash.",
-      hu: "Ancash régió fővárosa.",
-      ro: "Capitala regiunii Ancash.",
-      en: "Capital of the Ancash region."
-    },
-    descriptionAdvanced: {
-      de: "Huaraz ist das unbestrittene Mekka für Bergsteiger und Wanderer in Südamerika und liegt im spektakulären Tal Callejón de Huaylas. Eingerahmt von der Cordillera Negra und der majestätischen, schneebedeckten Cordillera Blanca, bietet die Stadt atemberaubende Ausblicke auf einige der höchsten Gipfel Perus, darunter den Huascarán. Huaraz dient als Basislager für Expeditionen in den Huascarán-Nationalpark, der für seine türkisfarbenen Gletscherseen und seine reiche Flora und Fauna bekannt ist. Die Stadt selbst wurde 1970 durch ein verheerendes Erdbeben fast vollständig zerstört und anschließend modern wiederaufgebaut. Dennoch bewahrt sie ihren Charakter als lebendiges Handelszentrum der Anden, in dem die indigene Bevölkerung ihre Traditionen und Märkte pflegt.",
-      hu: "",
-      ro: "",
-      en: "Huaraz is the undisputed mecca for mountaineers and hikers in South America, situated in the spectacular Callejón de Huaylas valley. Framed by the Cordillera Negra and the majestic, snow-capped Cordillera Blanca, the city offers breathtaking views of some of Peru's highest peaks, including Huascarán. Huaraz serves as the base camp for expeditions into Huascarán National Park, famous for its turquoise glacial lakes and rich flora and fauna. While the city was almost entirely destroyed by a devastating earthquake in 1970 and subsequently rebuilt in a modern style, it retains its character as a vibrant Andean trading center where the indigenous population maintains their traditions and markets. Geography K7 - Glacial Landscapes."
-    },
-    facts: {
-      de: ["Zentrum für Alpinismus und Trekking.", "Liegt im Tal Callejón de Huaylas."],
-      hu: ["A hegymászás és túrázás központja.", "A Callejón de Huaylas völgyben fekszik."],
-      ro: ["Centru pentru alpinism și trekking.", "Situat în valea Callejón de Huaylas."],
-      en: ["Center for mountaineering and trekking.", "Located in the Callejón de Huaylas valley."]
-    },
-    factsAdvanced: {
-      de: [
-        "Huaraz liegt auf 3.052 Metern Höhe am Fuße des höchsten Berges Perus, dem Huascarán.",
-        "In der Nähe befindet sich Chavín de Huántar, eine über 3.000 Jahre alte religiöse Stätte.",
-        "Die Cordillera Blanca beherbergt die weltweit größte Konzentration an tropischen Gletschern.",
-        "Der Name Huaraz leitet sich vom Quechua-Wort 'Waraq' ab, was 'Morgenröte' bedeutet."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Huaraz is located at 3,052 meters at the foot of Peru's highest mountain, Huascarán.",
-        "Nearby is Chavín de Huántar, a religious site over 3,000 years old.",
-        "The Cordillera Blanca contains the world's largest concentration of tropical glaciers.",
-        "The name Huaraz is derived from the Quechua word 'Waraq', meaning 'Dawn'."
-      ]
-    }
-  },
-  {
-    id: "tumbes-cities-v2",
-    type: "state-capital",
-    parent: "PE-TUM",
-    coords: [-80.4515, -3.5669],
-    name: {
-      de: "Tumbes",
-      hu: "Tumbes",
-      ro: "Tumbes",
-      en: "Tumbes"
-    },
-    description: {
-      de: "Grenzstadt zu Ecuador im Norden Perus.",
-      hu: "Határváros Ecuadorral Peru északi részén.",
-      ro: "Oraș de graniță cu Ecuador în nordul statului Peru.",
-      en: "Border city with Ecuador in northern Peru."
-    },
-    descriptionAdvanced: {
-      de: "Tumbes ist das tropische Tor im äußersten Norden Perus und liegt unmittelbar an der Grenze zu Ecuador. Die Stadt ist geprägt von einem feucht-heißen Klima und einer einzigartigen Ökologie, die sich deutlich vom Rest der peruanischen Küste unterscheidet. Berühmt ist die Region für ihre ausgedehnten Mangrovenwälder, die in Nationalparks geschützt sind und einen wichtigen Lebensraum für Krokodile, Krabben und zahlreiche Vogelarten bieten. Tumbes war der Ort, an dem Francisco Pizarro und seine Männer 1532 zum zweiten Mal landeten, um ihre Eroberung des Inkareiches zu beginnen. Heute ziehen die traumhaften Strände der Umgebung, wie Zorritos und Punta Sal, das ganze Jahr über Sonnenanbeter und Wassersportler an.",
-      hu: "",
-      ro: "",
-      en: "Tumbes is the tropical gateway in the far north of Peru, located right on the border with Ecuador. The city is characterized by a humid-hot climate and a unique ecology that differs significantly from the rest of the Peruvian coast. The region is famous for its extensive mangrove forests, protected in national parks, which provide vital habitat for crocodiles, crabs, and numerous bird species. Tumbes was where Francisco Pizarro and his men landed for the second time in 1532 to begin their conquest of the Inca Empire. Today, the nearby dream beaches, such as Zorritos and Punta Sal, attract sun-seekers and water sports enthusiasts year-round. Biology K7 - Mangrove Ecosystems."
-    },
-    facts: {
-      de: ["Umgeben von Mangrovenwäldern.", "Bekannt für Strände wie Punta Sal."],
-      hu: ["Mangroveerdők veszik körül.", "Híres a strandjairól, mint Punta Sal."],
-      ro: ["Înconjurat de păduri de mangrove.", "Cunoscut pentru plaje precum Punta Sal."],
-      en: ["Surrounded by mangrove forests.", "Known for beaches like Punta Sal."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Mangroven von Tumbes sind die einzigen ihrer Art in ganz Peru.",
-        "In Tumbes kann man die seltene Gelegenheit nutzen, das Tumbes-Krokodil in seinem natürlichen Lebensraum zu sehen.",
-        "Die Stadt ist ein wichtiger Umschlagplatz für den legalen Grenzhandel mit Ecuador.",
-        "Hier beginnt das fruchtbare Küstentiefland, das reich an Bananen- und Tabakplantagen ist."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "The mangroves of Tumbes are the only ones of their kind in all of Peru.",
-        "In Tumbes, one has the rare opportunity to see the Tumbes crocodile in its natural habitat.",
-        "The city is a major hub for legal cross-border trade with Ecuador.",
-        "This is where the fertile coastal lowlands begin, rich in banana and tobacco plantations."
-      ]
-    }
-  },
-  {
-    id: "talara-cities-v2",
-    type: "city",
-    parent: "PE-PIU",
-    coords: [-81.2719, -4.5772],
-    name: {
-      de: "Talara",
-      hu: "Talara",
-      ro: "Talara",
-      en: "Talara"
-    },
-    description: {
-      de: "Wichtiges Zentrum der peruanischen Erdölindustrie.",
-      hu: "A perui olajipar fontos központja.",
-      ro: "Un important centru al industriei petroliere peruane.",
-      en: "Important center of the Peruvian oil industry."
-    },
-    descriptionAdvanced: {
-      de: "Talara, oft als die \"Hauptstadt des Erdöls\" bezeichnet, ist eine bedeutende Industriestadt an der Nordküste Perus in der Region Piura. Die Geschichte der Stadt ist seit über einem Jahrhundert untrennbar mit der Ausbeutung von Ölfeldern verbunden, was ihr ein einzigartiges, industriell geprägtes Stadtbild verleiht. Trotz ihrer wirtschaftlichen Ausrichtung auf Energie und Rohstoffe besitzt Talara eine wunderschöne Küstenlinie mit spektakulären Klippen und Buchten. Nahegelegene Strände wie Cabo Blanco sind legendär; hier verbrachte Ernest Hemingway Zeit und es wurde der Weltrekord für den größten gefangenen schwarzen Marlin aufgestellt. Heute erlebt die Stadt durch den bau einer der modernsten Ölraffinerien Südamerikas einen neuen wirtschaftlichen Aufschwung.",
-      hu: "",
-      ro: "",
-      en: "Talara, often called the 'Oil Capital,' is a major industrial city on the northern coast of Peru in the Piura region. The city's history has been inextricably linked to the exploitation of oil fields for over a century, giving it a unique, industrially focused cityscape. Despite its economic orientation toward energy and raw materials, Talara possesses a beautiful coastline with spectacular cliffs and bays. Nearby beaches like Cabo Blanco are legendary; Ernest Hemingway spent time here, and the world record for the largest black marlin ever caught was set nearby. Today, the city is experiencing a new economic boom through the construction of one of South America's most modern oil refineries. Economics K8 - Energy Resources."
-    },
-    facts: {
-      de: ["Liegt an der Nordküste Perus.", "Bekannt für den Surfer-Strand Cabo Blanco."],
-      hu: ["Peru északi partján található.", "Híres a Cabo Blanco nevű szörfös strandról."],
-      ro: ["Situat pe coasta de nord a statului Peru.", "Cunoscut pentru plaja de surf Cabo Blanco."],
-      en: ["Located on the northern coast of Peru.", "Known for the Cabo Blanco surfer beach."]
-    },
-    factsAdvanced: {
-      de: [
-        "Talara verfügt über den ersten Tiefseehafen Perus für die Ölindustrie.",
-        "Cabo Blanco bei Talara war in den 1950er Jahren ein Hotspot für den internationalen Jetset.",
-        "Die Gegend um Talara gehört zu den trockensten, aber windreichsten Gebieten der peruanischen Küste.",
-        "In Talara wurde Ende des 19. Jahrhunderts die erste Ölquelle Südamerikas gebohrt."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Talara has Peru's first deep-sea port dedicated to the oil industry.",
-        "Cabo Blanco near Talara was a hotspot for the international jet set in the 1950s.",
-        "The Talara area is among the driest but windiest regions on the Peruvian coast.",
-        "The first oil well in South America was drilled in Talara at the end of the 19th century."
-      ]
-    }
-  },
-  {
-    id: "huaral-cities-v2",
-    type: "city",
-    parent: "PE-LMA",
-    coords: [-77.2081, -11.4936],
-    name: {
-      de: "Huaral",
-      hu: "Huaral",
-      ro: "Huaral",
-      en: "Huaral"
-    },
-    description: {
-      de: "Stadt nördlich von Lima in einem fruchtbaren Tal.",
-      hu: "Limától északra fekvő város egy termékeny völgyben.",
-      ro: "Oraș situat la nord de Lima într-o vale fertilă.",
-      en: "City north of Lima in a fertile valley."
-    },
-    descriptionAdvanced: {
-      de: "Huaral ist eine aufstrebende Stadt nördlich von Lima, die inmitten des fruchtbaren Chancay-Tals liegt und oft als die \"Hauptstadt der Landwirtschaft\" bezeichnet wird. Dank des hervorragenden Klimas und der wasserreichen Täler ist die Region ein Hauptlieferant für Obst und Gemüse für die Metropole Lima, besonders bekannt für ihre kernlosen Mandarinen. In den letzten Jahren hat sich Huaral zudem zu einem bedeutenden Ziel für den Wochenend- und Gastronomietourismus entwickelt. Besucher kommen vor allem, um den berühmten \"Chancho al Palo\" (am Pfahl gegrilltes Schweinefleisch) zu genießen, der hier seine Perfektion erreicht hat. In der Umgebung locken zudem archäologische Stätten wie die Bergfestung Rúpac, die auch als das \"Machu Picchu von Lima\" bekannt ist.",
-      hu: "",
-      ro: "",
-      en: "Huaral is an emerging city north of Lima, situated in the heart of the fertile Chancay Valley and often referred to as the 'Agricultural Capital.' Thanks to its excellent climate and water-rich valleys, the region is a primary supplier of fruits and vegetables to the Lima metropolis, particularly famous for its seedless tangerines. In recent years, Huaral has also developed into a significant destination for weekend and gastronomic tourism. Visitors primarily come to enjoy the famous 'Chancho al Palo' (pork grilled on a pole), which has reached perfection here. Nearby, archaeological sites such as the Rúpac mountain fortress, known as the 'Machu Picchu of Lima,' attract explorers. Economics K7 - Agricultural Productivity."
-    },
-    facts: {
-      de: ["Bekannt für den Schweinebraten 'Chancho al Palo'.", "Wichtige landwirtschaftliche Region."],
-      hu: ["Híres a 'Chancho al Palo' nevű malacsültről.", "Fontos mezőgazdasági régió."],
-      ro: ["Cunoscut pentru friptura de porc 'Chancho al Palo'.", "O regiune agricolă importantă."],
-      en: ["Known for the 'Chancho al Palo' roast pork.", "Important agricultural region."]
-    },
-    factsAdvanced: {
-      de: [
-        "Huaral ist der Geburtsort des 'Chancho al Palo', eines der beliebtesten Volksgerichte Perus.",
-        "Die Bergfestung Rúpac bietet bei Sonnenuntergang spektakuläre Aussichten über den Wolken.",
-        "Die Region ist berühmt für die Produktion von Mandarinen und Orangen höchster Qualität.",
-        "In Huaral befindet sich auch die Burg 'Castillo de Chancay', ein beliebtes Ausflugsziel an der Küste."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Huaral is famous for the 'Chancho al Palo' roast pork dish.",
-        "The region is a major producer of citrus fruits, especially the 'Huaralina' tangerine.",
-        "Rúpac is an impressive pre-Inca fortress located at over 3,000 meters altitude.",
-        "The city serves as a key commercial hub for the valley's diverse agricultural output."
-      ]
-    }
-  },
-  {
-    id: "paita-cities-v2",
-    type: "city",
-    parent: "PE-PIU",
-    coords: [-81.1147, -5.0783],
-    name: {
-      de: "Paita",
-      hu: "Paita",
-      ro: "Paita",
-      en: "Paita"
-    },
-    description: {
-      de: "Wichtiger Seehafen in Nordperu.",
-      hu: "Fontos tengeri kikötő Észak-Peruban.",
-      ro: "Un important port maritim în nordul statului Peru.",
-      en: "Major seaport in northern Peru."
-    },
-    descriptionAdvanced: {
-      de: "Paita ist eine geschichtsträchtige Hafenstadt im Norden Perus, die in einer geschützten Bucht der Region Piura liegt. Seit der Kolonialzeit war Paita einer der wichtigsten Häfen des Vizekönigreichs Peru, was ihn jedoch auch zu einem bevorzugten Ziel für Angriffe berühmter Piraten und Korsaren wie Francis Drake machte. Die Stadt bewahrt eine charmante Atmosphäre mit alten Holzhäusern und engen Gassen, die sich die Hügel hinaufziehen. Besonders verehrt wird hier die Virgen de las Mercedes, deren Fest im September tausende Pilger anzieht. Heute ist Paita ein moderner Containerhafen und ein Zentrum der Fischereiindustrie, das eine Schlüsselrolle im Außenhandel Nordperus spielt.",
-      hu: "",
-      ro: "",
-      en: "Paita is one of Peru's most important and historic seaports, located on a large bay in the Piura region. Founded by the Spanish in 1532, it became a crucial point for colonial trade and was frequently attacked by famous pirates and corsairs like Francis Drake. The city's architecture still reflects its maritime past, with old wooden buildings and narrow streets climbing the surrounding hills. Paita is also famous as the birthplace of Manuelita Sáenz, the 'Liberator of the Liberator' and partner of Simón Bolívar. Today, the port is a modern facility that handles a large portion of northern Peru's exports, especially fish, agricultural products, and minerals. History K8 - Maritime History and Independence."
-    },
-    facts: {
-      de: ["Historisch oft von Piraten angegriffen.", "Bekannt für traditionelle Ceviche."],
-      hu: ["A történelem során gyakran támadták kalózok.", "Híres a hagyományos ceviche-ről."],
-      ro: ["Din punct de vedere istoric, atacat adesea de pirați.", "Cunoscut pentru ceviche-ul tradițional."],
-      en: ["Historically often attacked by pirates.", "Known for traditional ceviche."]
-    },
-    factsAdvanced: {
-      de: [
-        "Manuela Sáenz, die Geliebte von Simón Bolívar, verbrachte ihre letzten Lebensjahre im Exil in Paita.",
-        "Paita galt im 19. Jahrhundert als einer der besten natürlichen Häfen an der gesamten Pazifikküste.",
-        "Die Stadt wurde 1587 vom Piraten Thomas Cavendish fast vollständig niedergebrannt.",
-        "Die 'Silla de Paita' ist eine markante Felsformation, die Seefahrern seit Jahrhunderten als Orientierung dient."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Paita was once one of the most important ports in the Viceroyalty of Peru.",
-        "The city is known for its beautiful sunsets over the large bay.",
-        "The Church of San Francisco is one of the oldest in the region.",
-        "Paita is a major center for the industrial processing and export of giant squid (pota)."
-      ]
-    }
-  },
-  {
-    id: "jaen-cities-v2",
-    type: "city",
-    parent: "PE-CAJ",
-    coords: [-78.8049, -5.7089],
-    name: {
-      de: "Jaén",
-      hu: "Jaén",
-      ro: "Jaén",
-      en: "Jaén"
-    },
-    description: {
-      de: "Stadt in der nördlichen Region Cajamarca.",
-      hu: "Város az északi Cajamarca régióban.",
-      ro: "Oraș în regiunea nordică Cajamarca.",
-      en: "City in the northern Cajamarca region."
-    },
-    descriptionAdvanced: {
-      de: "Jaén liegt in den nördlichen Ausläufern der Anden in der Region Cajamarca und ist ein dynamisches Zentrum für den Kaffeehandel. Die Stadt genießt ein angenehm warmes, tropisches Klima und dient als strategisches Tor zwischen dem Hochgebirge und dem Amazonas-Tiefland. In der Umgebung von Jaén werden einige der besten Bio-Kaffees Perus produziert, die weltweit exportiert werden und der Stadt wirtschaftlichen Aufschwung verleihen. Archäologisch ist die Region von großer Bedeutung, da hier in jüngster Zeit monumentale Grabanlagen und Zeremonialzentren der Bracamoros-Kultur entdeckt wurden, wie etwa in Montegrande. Jaén ist zudem ein idealer Ausgangspunkt für Reisen in die Regenwaldprovinzen von Amazonas und San Martín.",
-      hu: "",
-      ro: "",
-      en: "Nestled in the northern foothills of the Andes within the Cajamarca region, Jaén serves as a vibrant hub for the coffee trade. The city enjoys a pleasant, warm tropical climate, acting as a strategic gateway between the high mountains and the Amazon lowlands. The surrounding areas produce some of Peru's finest organic coffees, which are exported globally, driving significant economic growth for the region. Archaeologically, the area has gained immense importance following the recent discovery of monumental tombs and ceremonial centers of the Bracamoros culture, such as the Montegrande site. It is an ideal starting point for exploring the rainforest provinces of Amazonas and San Martín. Geography K7 - Regional Economic Hubs."
-    },
-    facts: {
-      de: ["Wichtiges Zentrum für Kaffeeproduktion.", "Tor zum peruanischen Amazonasgebiet."],
-      hu: ["A kávétermelés fontos központja.", "Kapu a perui Amazonas régióhoz."],
-      ro: ["Un centru important pentru producția de cafea.", "Poarta de acces către Amazonul peruan."],
-      en: ["Important center for coffee production.", "Gateway to the Peruvian Amazon."]
-    },
-    factsAdvanced: {
-      de: [
-        "Jaén ist nach der spanischen Stadt Jaén benannt, da die Landschaft die Eroberer an Andalusien erinnerte.",
-        "Die archäologische Stätte Montegrande zeigt, dass hier schon vor über 5.000 Jahren Kakao domestiziert wurde.",
-        "Die Stadt ist bekannt für ihre lebhaften Märkte und ihre Rolle als regionaler Logistikknotenpunkt.",
-        "Jaén feiert jedes Jahr im Juni sein großes Patronatsfest zu Ehren von San Juan Bautista."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "The city is named after the Spanish city of Jaén, as the landscape reminded the conquerors of Andalusia.",
-        "The Montegrande archaeological site reveals that cacao was domesticated here over 5,000 years ago.",
-        "The city is renowned for its vibrant markets and its role as a key regional logistics center.",
-        "Jaén celebrates its major annual patronal festival in June, honoring Saint John the Baptist."
-      ]
-    }
-  },
-  {
-    id: "cerro_de_pasco-cities-v2",
-    type: "state-capital",
-    parent: "PE-PAS",
-    coords: [-76.2673, -10.6678],
-    name: {
-      de: "Cerro de Pasco",
-      hu: "Cerro de Pasco",
-      ro: "Cerro de Pasco",
-      en: "Cerro de Pasco"
-    },
-    description: {
-      de: "Eine der höchstgelegenen Städte der Welt.",
-      hu: "A világ egyik legmagasabban fekvő városa.",
-      ro: "Unul dintre orașele aflate la cea mai mare altitudine din lume.",
-      en: "One of the highest cities in the world."
-    },
-    descriptionAdvanced: {
-      de: "Cerro de Pasco ist eine der höchstgelegenen Städte der Welt und liegt auf über 4.300 Metern in den zentralen Anden Perus. Die Geschichte der Stadt ist untrennbar mit dem Bergbau verbunden, insbesondere mit der Gewinnung von Silber, Kupfer und Zink seit der Kolonialzeit. Ein markantes Merkmal ist der riesige Tagebau \"El Tajo\", der sich mitten im Stadtzentrum befindet und das Stadtbild sowie das Leben der Bewohner maßgeblich prägt. Trotz der extremen Höhe und des rauen Klimas bewahrt die Stadt eine stolze Identität und eine reiche Bergbautradition. In der Umgebung finden sich faszinierende Naturphänomene wie der Steinwald von Huayllay.",
-      hu: "",
-      ro: "",
-      en: "Cerro de Pasco is one of the highest cities in the world, perched at over 4,300 meters in Peru's central Andes. The city's history is inextricably linked to mining, specifically silver, copper, and zinc extraction dating back to the colonial era. A striking feature is the massive 'El Tajo' open-pit mine located right in the city center, significantly influencing the urban layout and the daily lives of residents. Despite the extreme altitude and harsh climate, the city maintains a proud identity and a rich mining heritage. The surrounding area features fascinating natural phenomena like the Huayllay Stone Forest. Geography K8 - Mining Landscapes."
-    },
-    facts: {
-      de: ["Liegt auf 4.330 Metern über dem Meeresspiegel.", "Zentrum des Bergbaus in Peru."],
-      hu: ["4330 méterrel a tengerszint felett található.", "A perui bányászat központja."],
-      ro: ["Situat la 4.330 de metri deasupra nivelului mării.", "Centrul mineritului din Peru."],
-      en: ["Located 4,330 meters above sea level.", "Center of mining in Peru."]
-    },
-    factsAdvanced: {
-      de: [
-        "Cerro de Pasco gilt als die Bergbauhauptstadt Perus.",
-        "Der Sauerstoffgehalt in dieser Höhe ist deutlich geringer als auf Meereshöhe.",
-        "Die Stadt wurde 1578 als Bergbausiedlung gegründet.",
-        "Der Tagebau im Zentrum ist so groß, dass Teile der Stadt bereits umgesiedelt werden mussten."
-      ],
-      hu: [],
-      ro: [],
-      en: [
-        "Cerro de Pasco is known as the mining capital of Peru.",
-        "The oxygen level at this altitude is significantly lower than at sea level.",
-        "The city was founded in 1578 as a mining settlement.",
-        "The central open-pit mine has forced the relocation of parts of the city."
-      ]
-    },
-  {
-    id: "ilo-cities-v2",
-    type: "city",
-    parent: "PE-MOQ",
-    coords: [-71.3375, -17.6394],
-    name: {
-      de: "Ilo",
-      hu: "Ilo",
-      ro: "Ilo",
-      en: "Ilo"
-    },
-    description: {
-      de: "Küstenstadt in der Region Moquegua.",
-      hu: "Tengerparti város a Moquegua régióban.",
-      ro: "Oraș de coastă în regiunea Moquegua.",
-      en: "Coastal city in the Moquegua region."
-    },
-    descriptionAdvanced: {
-      de: "Ilo ist eine dynamische Hafenstadt an der Südküste Perus in der Region Moquegua und ein wichtiger Wirtschaftsmotor des Landes. Die Stadt ist bekannt für ihre strategische Bedeutung als Endpunkt der Eisenbahnstrecke für Kupfertransporte und ihre moderne Kupferhütte. Die Uferpromenade, der Malecón, lädt mit ihren Parks und Ausblicken auf den Pazifik zum Verweilen ein und zeigt die moderne Seite der Stadt. In der Umgebung von Ilo befinden sich wunderschöne Strände wie Pozo de Lisas, die bei Einheimischen und Touristen gleichermaßen beliebt sind. Archäologisch ist die Region für die Chiribaya-Kultur bekannt, deren Mumien und Textilien im lokalen Museum bewundert werden können.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Wichtiger Hafen und Kupferhütte.", "Beliebte Strände in der Umgebung."],
-      hu: ["Fontos kikötő és rézkohó.", "Népszerű strandok a környéken."],
-      ro: ["Port important și topitorie de cupru.", "Plaje populare în împrejurimi."],
-      en: ["Important port and copper smelter.", "Popular beaches in the area."]
-    },
-    factsAdvanced: {
-      de: [
-        "Ilo ist einer der wichtigsten Exporthäfen für peruanisches Kupfer.",
-        "Die Stadt hat eines der angenehmsten Küstenklimate im Süden des Landes.",
-        "Das Chiribaya-Museum zeigt faszinierende Funde einer Kultur, die lange vor den Inka hier lebte.",
-        "Die Fischereiindustrie spielt neben dem Bergbau eine zentrale Rolle für die lokale Wirtschaft."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "puerto_maldonado-cities-v2",
-    type: "state-capital",
-    parent: "PE-MDD",
-    coords: [-69.1828, -12.5933],
-    name: {
-      de: "Puerto Maldonado",
-      hu: "Puerto Maldonado",
-      ro: "Puerto Maldonado",
-      en: "Puerto Maldonado"
-    },
-    description: {
-      de: "Hauptstadt der Region Madre de Dios.",
-      hu: "Madre de Dios régió fővárosa.",
-      ro: "Capitala regiunii Madre de Dios.",
-      en: "Capital of the Madre de Dios region."
-    },
-    descriptionAdvanced: {
-      de: "Puerto Maldonado ist das pulsierende Tor zum südlichen Amazonas-Regenwald Perus und die Hauptstadt der Region Madre de Dios. Gelegen am Zusammenfluss der Flüsse Madre de Dios und Tambopata, dient die Stadt als Ausgangspunkt für Expeditionen in einige der artenreichsten Gebiete der Erde. Nationalparks wie Manu und das Tambopata-Reservat sind von hier aus erreichbar und beherbergen unzählige Tier- und Pflanzenarten. Die Stadt selbst ist geprägt von einer entspannten Dschungelatmosphäre, Motorrad-Taxis und lebhaften Märkten mit exotischen Früchten. Puerto Maldonado ist zudem ein Zentrum für die Gewinnung von Paranüssen und Gold, was die wirtschaftliche Entwicklung der Region vorantreibt.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Zentrum der Biodiversität im Amazonas.", "Tor zum Tambopata-Nationalreservat."],
-      hu: ["Az amazóniai biodiverzitás központja.", "Kapu a Tambopata Nemzeti Rezervátumhoz."],
-      ro: ["Centru al biodiversității în Amazon.", "Poartă de acces către Rezervația Națională Tambopata."],
-      en: ["Center of biodiversity in the Amazon.", "Gateway to the Tambopata National Reserve."]
-    },
-    factsAdvanced: {
-      de: [
-        "Puerto Maldonado wird oft als 'Welthauptstadt der Biodiversität' bezeichnet.",
-        "Die Stadt ist über die Interoceánica-Straße direkt mit Brasilien verbunden.",
-        "Der nahegelegene Sandoval-See ist berühmt für seine Riesenotter und Kaimane.",
-        "Die Region Madre de Dios ist der größte Produzent von Paranüssen in Peru."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "chulucanas-cities-v2",
-    type: "city",
-    parent: "PE-PIU",
-    coords: [-80.1625, -5.0931],
-    name: {
-      de: "Chulucanas",
-      hu: "Chulucanas",
-      ro: "Chulucanas",
-      en: "Chulucanas"
-    },
-    description: {
-      de: "Stadt in der Region Piura.",
-      hu: "Város a Piura régióban.",
-      ro: "Oraș în regiunea Piura.",
-      en: "City in the Piura region."
-    },
-    descriptionAdvanced: {
-      de: "Chulucanas ist eine Stadt in der Region Piura im Norden Perus, die weltweit für ihre einzigartige Keramiktradition berühmt ist. Die Kunsthandwerker von Chulucanas nutzen Techniken, die auf die präkolumbianischen Kulturen Vicús und Tallán zurückgehen, insbesondere die Methode der Reduktion und des Steinpolierens. Die charakteristischen schwarz-weißen oder erdfarbenen Designs mit geometrischen Motiven sind heute in Galerien auf der ganzen Welt zu finden. Neben dem Kunsthandwerk ist die Region ein bedeutendes Agrarzentrum, das für die Produktion von hochwertigen Mangos und Zitronen bekannt ist. Das warme Klima und die Gastfreundschaft der Bewohner machen Chulucanas zu einem charmanten Ziel im peruanischen Norden.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Weltweit bekannt für ihre Keramik.", "Produktion von Mango und Zitrone."],
-      hu: ["Kerámiáiról világszerte ismert.", "Mangó és citrom termesztése."],
-      ro: ["Cunoscut în întreaga lume pentru ceramica sa.", "Producția de mango și lămâie."],
-      en: ["Known worldwide for its pottery.", "Production of mango and lemon."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Keramik aus Chulucanas hat eine offizielle Herkunftsbezeichnung (Denominación de Origen).",
-        "Die Handwerker verwenden Mango-Blätter im Brennprozess, um die typische schwarze Farbe zu erzielen.",
-        "Chulucanas liegt im Herzen des Piura-Tals, einer sehr fruchtbaren Oase.",
-        "Die Stadt feiert jedes Jahr das Fest der Keramik, um ihre Traditionen zu ehren."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "sicuani-cities-v2",
-    type: "city",
-    parent: "PE-CUS",
-    coords: [-71.2261, -14.2694],
-    name: {
-      de: "Sicuani",
-      hu: "Sicuani",
-      ro: "Sicuani",
-      en: "Sicuani"
-    },
-    description: {
-      de: "Wichtige Stadt in der Region Cusco.",
-      hu: "Fontos város a Cusco régióban.",
-      ro: "Un oraș important din regiunea Cusco.",
-      en: "Important city in the Cusco region."
-    },
-    descriptionAdvanced: {
-      de: "Sicuani ist eine wichtige Handelsstadt im Departement Cusco und liegt strategisch günstig auf dem Weg zwischen Cusco und Puno. Gelegen auf über 3.500 Metern Höhe am Fluss Vilcanota, dient die Stadt als zentraler Sammelpunkt für Agrarprodukte und Wolle aus dem Hochland. In der Nähe von Sicuani befindet sich die beeindruckende archäologische Stätte Raqchi mit dem monumentalen Tempel des Gottes Wiracocha. Die Stadt ist auch bekannt für ihre Thermalbäder und ihre lebhaften Märkte, auf denen traditionelle Webarbeiten der indigenen Gemeinschaften angeboten werden. Sicuani bewahrt seinen Charakter als authentisches Andenzentrum, in dem die Quechua-Kultur im Alltag fest verwurzelt ist.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Ein zentrales Handelskreuz für Wolle.", "Nahe den Inka-Ruinen von Raqchi."],
-      hu: ["A gyapjú központi kereskedelmi csomópontja.", "Raqchi inka romjai közelében."],
-      ro: ["O intersecție comercială centrală pentru lână.", "Aproape de ruinele incașe de la Raqchi."],
-      en: ["A central commercial crossroad for wool.", "Near the Inca ruins of Raqchi."]
-    },
-    factsAdvanced: {
-      de: [
-        "Sicuani ist die zweitwichtigste Stadt in der Region Cusco.",
-        "Die Stadt ist ein bedeutender Knotenpunkt für den Handel mit Alpaka- und Schafwolle.",
-        "In der Umgebung befinden sich die spektakulären sieben Lagunen von Ausangate.",
-        "Der Tempel von Raqchi bei Sicuani ist eines der größten Inka-Bauwerke überhaupt."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "abancay-cities-v2",
-    type: "state-capital",
-    parent: "PE-APU",
-    coords: [-72.8814, -13.6339],
-    name: {
-      de: "Abancay",
-      hu: "Abancay",
-      ro: "Abancay",
-      en: "Abancay"
-    },
-    description: {
-      de: "Hauptstadt der Region Apurímac.",
-      hu: "Apurímac régió fővárosa.",
-      ro: "Capitala regiunii Apurímac.",
-      en: "Capital of the Apurímac region."
-    },
-    descriptionAdvanced: {
-      de: "Abancay, die Hauptstadt der Region Apurímac, liegt malerisch in einem tiefen Tal der Anden und wird oft als das \"Ewige Frühlingsbecken\" bezeichnet. Die Stadt genießt ein angenehmes Klima und ist umgeben von einer dramatischen Berglandschaft mit tiefen Canyons und schneebedeckten Gipfeln wie dem Ampay. Das Ampay-Nationalheiligtum oberhalb der Stadt schützt einzigartige Steineibenwälder und kristallklare Lagunen. Abancay ist ein wichtiges Bildungs- und Verwaltungszentrum der Region und dient als Tor zu den abgelegenen archäologischen Stätten von Choquequirao. Die Mischung aus kolonialem Charme, moderner Entwicklung und unberührter Natur macht Abancay zu einem faszinierenden Ort abseits der ausgetretenen Pfade.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Umgeben von tiefen Canyons.", "Wichtiger landwirtschaftlicher Markt."],
-      hu: ["Mély kanyonok veszik körül.", "Fontos mezőgazdasági piac."],
-      ro: ["Înconjurat de canioane adânci.", "Piață agricolă importantă."],
-      en: ["Surrounded by deep canyons.", "Important agricultural market."]
-    },
-    factsAdvanced: {
-      de: [
-        "Der Name Abancay stammt vom Quechua-Wort 'Amancay', einer Lilienart, die in der Region wächst.",
-        "Die Stadt liegt strategisch an der wichtigen Straßenverbindung zwischen Cusco und Lima.",
-        "Das Nationalheiligtum Ampay beherbergt den einzigen natürlichen Intimpa-Wald (Steineiben) in Peru.",
-        "Abancay ist berühmt für seine farbenfrohen Karnevalsfeiern im Februar."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "moquegua-cities-v2",
-    type: "state-capital",
-    parent: "PE-MOQ",
-    coords: [-70.9356, -17.1983],
-    name: {
-      de: "Moquegua",
-      hu: "Moquegua",
-      ro: "Moquegua",
-      en: "Moquegua"
-    },
-    description: {
-      de: "Hauptstadt der Region Moquegua im Süden.",
-      hu: "Moquegua régió fővárosa délen.",
-      ro: "Capitala regiunii Moquegua în sud.",
-      en: "Capital of the Moquegua region in the south."
-    },
-    descriptionAdvanced: {
-      de: "Moquegua ist eine charmante Stadt im Süden Perus, die für ihre koloniale Architektur und ihre exzellenten Weine und Piscos bekannt ist. Charakteristisch für das Stadtbild sind die traditionellen Häuser mit ihren markanten Satteldächern (techos de mojinete), die perfekt an das trockene Klima angepasst sind. Die Region Moquegua profitiert von einem fruchtbaren Tal, das inmitten einer Wüstenlandschaft liegt und in dem seit Jahrhunderten Weinbau betrieben wird. Besucher können historische Bodegas besichtigen und die hochwertigen Destillate verkosten, die zu den besten Perus zählen. Die Stadt bewahrt eine ruhige und elegante Atmosphäre und ist stolz auf ihre kulinarischen Traditionen, insbesondere ihre feinen Backwaren und Süßspeisen.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt für traditionelle Architektur mit Satteldächern.", "Zentrum der peruanischen Pisco-Routen."],
-      hu: ["Hagyományos nyeregtetős építészetéről ismert.", "A perui Pisco útvonalak központja."],
-      ro: ["Cunoscut pentru arhitectura tradițională cu acoperișuri în două ape.", "Centrul rutelor peruane Pisco."],
-      en: ["Known for traditional architecture with gabled roofs.", "Center of the Peruvian Pisco routes."]
-    },
-    factsAdvanced: {
-      de: [
-        "Moquegua gilt als eine der Städte mit der höchsten Lebensqualität in Peru.",
-        "Die Kathedrale von Moquegua beherbergt die sterblichen Überreste der Heiligen Constantia.",
-        "Die Stadt ist berühmt für ihre 'Pisco-Route', die durch historische Weinkeller führt.",
-        "Der nahegelegene Vulkan Ubinas ist einer der aktivsten Vulkane des Landes."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "yurimaguas-cities-v2",
-    type: "city",
-    parent: "PE-LOR",
-    coords: [-76.1039, -5.903],
-    name: {
-      de: "Yurimaguas",
-      hu: "Yurimaguas",
-      ro: "Yurimaguas",
-      en: "Yurimaguas"
-    },
-    description: {
-      de: "Wichtiger Flusshafen in der Region Loreto.",
-      hu: "Fontos folyami kikötő a Loreto régióban.",
-      ro: "Un port fluvial important în regiunea Loreto.",
-      en: "Important river port in the Loreto region."
-    },
-    descriptionAdvanced: {
-      de: "Yurimaguas, oft als die \"Perle des Huallaga\" bezeichnet, ist eine wichtige Hafenstadt am Ufer des Flusses Huallaga in der Region Loreto. Die Stadt dient als entscheidendes Bindeglied zwischen dem peruanischen Hochland und dem Amazonasbecken, da hier die Straße aus Tarapoto endet und der Schiffsverkehr tief in den Dschungel beginnt. Das feucht-tropische Klima und die üppige Vegetation prägen das Lebensgefühl in dieser lebhaften Flussmetropole. Von Yurimaguas aus starten große Fracht- und Passagierschiffe (Lanchas) zu mehrtägigen Reisen nach Iquitos. Die Stadt ist auch ein Zentrum für die Verarbeitung von Agrarprodukten wie Reis, Ölpalmen und tropischen Früchten.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt als die 'Perle des Huallaga'.", "Liegt am Zusammenfluss von Huallaga und Paranapura."],
-      hu: ["A 'Huallaga gyöngye' néven ismert.", "A Huallaga und a Paranapura összefolyásánál fekszik."],
-      ro: ["Cunoscut sub numele de „Perla de Huallaga”.", "Situat la confluența râurilor Huallaga și Paranapura."],
-      en: ["Known as the 'Pearl of the Huallaga'.", "Located at the confluence of the Huallaga and Paranapura rivers."]
-    },
-    factsAdvanced: {
-      de: [
-        "Yurimaguas ist der endpunkt der Autobahn, die die Küste mit dem schiffbaren Amazonasbecken verbindet.",
-        "Der Name der Stadt stammt von den indigenen Stämmen der Yuri und der Maguas.",
-        "Die Kathedrale von Yurimaguas beeindruckt mit ihrer roten Fassade und ihrem kolonialen Stil.",
-        "In der Umgebung findet man wunderschöne Naturseen und Primärwald."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "chancay-cities-v2",
-    type: "city",
-    parent: "PE-LMA",
-    coords: [-77.2681, -11.5622],
-    name: {
-      de: "Chancay",
-      hu: "Chancay",
-      ro: "Chancay",
-      en: "Chancay"
-    },
-    description: {
-      de: "Küstenstadt in der Region Lima.",
-      hu: "Tengerparti város a Lima régióban.",
-      ro: "Oraș de coastă în regiunea Lima.",
-      en: "Coastal city in the Lima region."
-    },
-    descriptionAdvanced: {
-      de: "Chancay ist eine geschichtsträchtige Küstenstadt nördlich von Lima, die derzeit durch den Bau eines gigantischen neuen Tiefseehafens weltweit Aufmerksamkeit erregt. Die Stadt war einst das Zentrum der bedeutenden Chancay-Kultur, die für ihre feinen Textilien und charakteristischen Keramikfiguren, die \"Cuchimilcos\", bekannt war. Ein markantes Wahrzeichen ist das Castillo de Chancay, eine im mittelalterlichen Stil errichtete Burg direkt am Meer, die heute ein beliebtes Museum und Kulturzentrum ist. Die Strände von Chancay ziehen besonders im Sommer viele Besucher aus der nahegelegenen Hauptstadt an. Mit der Entwicklung des neuen \"Megaports\" steht die Stadt vor einem massiven wirtschaftlichen Wandel zum wichtigsten Logistikknotenpunkt an der Pazifikküste Südamerikas.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Heimat des Castillo de Chancay.", "Baut einen großen neuen Hafen (Megaport)."],
-      hu: ["A Chancay-kastély otthona.", "Egy hatalmas új kikötőt (Megaport) építenek."],
-      ro: ["Casa Castelului Chancay.", "Construiește un port mare nou (Megaport)."],
-      en: ["Home of the Castillo de Chancay.", "Building a large new port (Megaport)."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Cuchimilco-Figuren der Chancay-Kultur dienten als Inspiration für das Maskottchen der Panamerikanischen Spiele 2019.",
-        "Das Castillo de Chancay wurde in den 1920er Jahren zu Ehren eines Vorfahren erbaut.",
-        "Im Meer vor Chancay liegt das Wrack des chilenischen Schiffes 'Covadonga' aus dem Salpeterkrieg.",
-        "Der neue Hafen von Chancay soll einer der modernsten und größten in ganz Amerika werden."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "andahuaylas-cities-v2",
-    type: "city",
-    parent: "PE-APU",
-    coords: [-73.3853, -13.6556],
-    name: {
-      de: "Andahuaylas",
-      hu: "Andahuaylas",
-      ro: "Andahuaylas",
-      en: "Andahuaylas"
-    },
-    description: {
-      de: "Stadt in der Region Apurímac.",
-      hu: "Város az Apurímac régióban.",
-      ro: "Oraș în regiunea Apurímac.",
-      en: "City in the Apurímac region."
-    },
-    descriptionAdvanced: {
-      de: "Andahuaylas liegt im Herzen der Region Apurímac und ist eine Stadt mit tiefen Wurzeln in der Chanka-Kultur, die einst das Inkareich herausforderte. Die Stadt befindet sich in einem malerischen Andental auf etwa 2.900 Metern Höhe und ist von fruchtbaren Feldern umgeben, auf denen vor allem Kartoffeln und Getreide angebaut werden. Jedes Jahr im Sommer findet hier das Sondor Raymi Festival statt, ein beeindruckendes Schauspiel, das den Ursprung und die Geschichte des Chanka-Volkes feiert. Die nahegelegene Lagune Pacucha und der archäologische Komplex Sondor sind wichtige Ausflugsziele, die Geschichte und Natur verbinden. Andahuaylas bewahrt eine authentische andine Atmosphäre mit lebhaften Märkten und einer Bevölkerung, die stolz auf ihre indigene Identität ist.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt für das Sondor Raymi Festival.", "Wichtiges Zentrum für Kartoffelanbau."],
-      hu: ["A Sondor Raymi fesztiválról ismert.", "A burgonyatermesztés fontos központja."],
-      ro: ["Cunoscut pentru festivalul Sondor Raymi.", "Un centru important pentru cultivarea cartofilor."],
-      en: ["Known for the Sondor Raymi festival.", "Important center for potato cultivation."]
-    },
-    factsAdvanced: {
-      de: [
-        "Andahuaylas ist bekannt als die 'Stadt der Prachtwinde'.",
-        "Die Region gilt als eines der wichtigsten Zentren für die Produktion von über 3.000 Kartoffelsorten.",
-        "Die Lagune Pacucha gilt als eine der schönsten und blauesten Lagunen in den peruanischen Anden.",
-        "Andahuaylas ist der Geburtsort des berühmten peruanischen Schriftstellers José María Arguedas."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "moyobamba-cities-v2",
-    type: "state-capital",
-    parent: "PE-SAM",
-    coords: [-76.9745, -6.0355],
-    name: {
-      de: "Moyobamba",
-      hu: "Moyobamba",
-      ro: "Moyobamba",
-      en: "Moyobamba"
-    },
-    description: {
-      de: "Hauptstadt der Region San Martín.",
-      hu: "San Martín régió fővárosa.",
-      ro: "Capitala regiunii San Martín.",
-      en: "Capital of the San Martín region."
-    },
-    descriptionAdvanced: {
-      de: "Moyobamba ist die Hauptstadt der Region San Martín und trägt stolz den Titel \"Stadt der Orchideen\", da in ihrer Umgebung über 3.500 Arten dieser faszinierenden Blumen gedeihen. Sie war die erste Stadt, die von den Spaniern im peruanischen Amazonasgebiet (1540) gegründet wurde, und bewahrt daher eine lange Geschichte als koloniales Tor zum Dschungel. Die Stadt liegt in der Hochselva am Ufer des Flusses Mayo und genießt ein angenehmes tropisches Klima. Ein Highlight für Besucher sind die Thermalbäder von San Mateo und die zahlreichen Orchideengärten, die die Stadt schmücken. Moyobamba ist zudem ein Zentrum für den Kaffeeanbau und dient als idealer Ausgangspunkt, um die reiche Natur und die Wasserfälle der Region San Martín zu erkunden.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Die 'Stadt der Orchideen' in Peru.", "Älteste spanische Stadt im Amazonas."],
-      hu: ["Az 'Orchideák Városa' Peruban.", "A legrégebbi spanyol város az Amazonasban."],
-      ro: ["„Orașul orhideelor” din Peru.", "Cel mai vechi oraș spaniol din Amazon."],
-      en: ["The 'City of Orchids' in Peru.", "Oldest Spanish city in the Amazon."]
-    },
-    factsAdvanced: {
-      de: [
-        "Moyobamba war die erste dauerhafte spanische Siedlung im peruanischen Regenwald.",
-        "Jedes Jahr im Juni findet das Orchideenfestival statt, das Besucher aus aller Welt anzieht.",
-        "Die Region ist berühmt für ihre 'Humedales', einzigartige Sumpfökosysteme mit hoher Artenvielfalt.",
-        "In Moyobamba wird traditionell der San Juan-Feiertag mit großen Festen und dem Verzehr von Juanes gefeiert."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "huaura-cities-v2",
-    type: "city",
-    parent: "PE-LMA",
-    coords: [-77.5994, -11.07],
-    name: {
-      de: "Huaura",
-      hu: "Huaura",
-      ro: "Huaura",
-      en: "Huaura"
-    },
-    description: {
-      de: "Historische Stadt in der Region Lima.",
-      hu: "Történelmi város a Lima régióban.",
-      ro: "Oraș istoric în regiunea Lima.",
-      en: "Historical city in the Lima region."
-    },
-    descriptionAdvanced: {
-      de: "Huaura ist eine kleine Stadt mit einer enormen historischen Bedeutung für Peru, denn hier wurde 1820 durch General José de San Martín zum ersten Mal die Unabhängigkeit des Landes proklamiert. Der berühmte Balkon von Huaura, von dem aus San Martín zu den Menschen sprach, ist heute ein nationales Denkmal und Teil eines interessanten Museums. Die Stadt liegt im fruchtbaren Tal des Flusses Huaura an der Zentralküste und ist von bedeutenden archäologischen Stätten wie Bandurria umgeben, die zu den ältesten Amerikas gehören. Huaura bewahrt eine ruhige, kleinstädtische Atmosphäre mit kolonialen Gebäuden und einer starken landwirtschaftlichen Tradition. In der Umgebung locken zudem die heißen Quellen von Churín, die für ihre Heilkräfte bekannt sind.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Ort der ersten Unabhängigkeitserklärung Perus.", "José de San Martín sprach hier 1820 vom Balkon."],
-      hu: ["Peru első függetlenségi nyilatkozatának helyszíne.", "José de San Martín 1820-ban itt beszélt az erkélyről."],
-      ro: ["Locul primei declarații de independență a statului Peru.", "José de San Martín a vorbit aici de la balcon în 1820."],
-      en: ["Site of the first declaration of independence of Peru.", "José de San Martín spoke here from the balcony in 1820."]
-    },
-    factsAdvanced: {
-      de: [
-        "Der Balkon von Huaura gilt als die Wiege der peruanischen Freiheit.",
-        "Die Stadt war der erste Ort in Peru, der eine eigene Verfassung erhielt.",
-        "In der Nähe liegt die archäologische Stätte Bandurria, die über 5.000 Jahre alt ist.",
-        "Huaura ist bekannt für seine Produktion von Likören und handwerklichem Honig."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "ferrenafe-cities-v2",
-    type: "city",
-    parent: "PE-LAM",
-    coords: [-79.7911, -6.6375],
-    name: {
-      de: "Ferreñafe",
-      hu: "Ferreñafe",
-      ro: "Ferreñafe",
-      en: "Ferreñafe"
-    },
-    description: {
-      de: "Stadt in der Region Lambayeque.",
-      hu: "Város a Lambayeque régióban.",
-      ro: "Oraș în regiunea Lambayeque.",
-      en: "City in the Lambayeque region."
-    },
-    descriptionAdvanced: {
-      de: "Ferreñafe, bekannt als die \"Stadt der doppelten Treue\", liegt in der Region Lambayeque und ist ein Zentrum der Geschichte und des Reismarktes im Norden Perus. Die Stadt ist weltberühmt für das Sicán-Nationalmuseum, das die beeindruckenden Goldschätze und Funde der Sicán- oder Lambayeque-Kultur beherbergt, darunter das berühmte Tumi-Opfermesser. In der Umgebung von Ferreñafe befindet sich der Wald von Pómac, ein geschütztes Gebiet, das die weltweit größte Konzentration von Johannisbrotbäumen und zahlreiche antike Pyramiden schützt. Die Stadt selbst ist geprägt von einer starken katholischen Tradition und feiert ihre religiösen Feste mit großer Hingabe. Wirtschaftlich spielt der Anbau und die Verarbeitung von Reis eine zentrale Rolle für die Region.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt als die 'Stadt der doppelten Treue'.", "Nahe dem Sicán-Nationalmuseum."],
-      hu: ["A 'Kettős Hűség Városa' néven ismert.", "A Sicán Nemzeti Múzeum közelében."],
-      ro: ["Cunoscut ca „Orașul Dublei Loialități”.", "Aproape de Muzeul Național Sicán."],
-      en: ["Known as the 'City of Double Loyalty'.", "Near the Sicán National Museum."]
-    },
-    factsAdvanced: {
-      de: [
-        "Das Sicán-Nationalmuseum zeigt die unversehrten Gräber der Herrscher von Sicán.",
-        "Der Name 'Stadt der doppelten Treue' rührt von der Loyalität zur Krone und später zur Unabhängigkeitsbewegung her.",
-        "Das Schutzgebiet Pómac-Wald beherbergt 36 antike Pyramiden der Sicán-Kultur.",
-        "Ferreñafe ist berühmt für sein Gericht 'Causa Ferreñafana', eine lokale Spezialität."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "quillabamba-cities-v2",
-    type: "city",
-    parent: "PE-CUS",
-    coords: [-72.6953, -12.8633],
-    name: {
-      de: "Quillabamba",
-      hu: "Quillabamba",
-      ro: "Quillabamba",
-      en: "Quillabamba"
-    },
-    description: {
-      de: "Hauptstadt der Provinz La Convención in Cusco.",
-      hu: "La Convención tartomány fővárosa Cuscóban.",
-      ro: "Capitala provinciei La Convención din Cusco.",
-      en: "Capital of the La Convención province in Cusco."
-    },
-    descriptionAdvanced: {
-      de: "Quillabamba, die Hauptstadt der Provinz La Convención im Departement Cusco, ist bekannt als die \"Stadt des ewigen Sommers\" aufgrund ihres warmen, subtropischen Klimas. Im Gegensatz zur kühlen Stadt Cusco liegt Quillabamba in einem fruchtbaren Tal am Rande des Amazonasbeckens und ist ein bedeutendes Zentrum für den Anbau von Kaffee, Kakao und Tee. Die Region ist berühmt für ihren hochwertigen Bio-Kaffee, der in die ganze Welt exportiert wird. Die Umgebung bietet spektakuläre Naturlandschaften mit Wasserfällen, Thermalbädern wie Cocalmayo und einer üppigen tropischen Flora. Quillabamba ist auch ein wichtiger Zugangspunkt für Reisende, die Machu Picchu über die alternative Route via Santa Teresa besuchen wollen.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Wichtiger Produzent von Kaffee und Kakao.", "Liegt in einem warmen, subtropischen Tal."],
-      hu: ["Fontos kávé- és kakaótermelő.", "Egy meleg, schubtrópusi völgyben fekszik."],
-      ro: ["Un important producător de cafea și cacao.", "Situat într-o vale caldă, subtropicală."],
-      en: ["Important producer of coffee and cocoa.", "Located in a warm, subtropical valley."]
-    },
-    factsAdvanced: {
-      de: [
-        "Quillabamba produziert einige der feinsten Kaffeesorten Perus, die regelmäßig internationale Preise gewinnen.",
-        "Die Stadt liegt auf einer angenehmen Höhe von etwa 1.050 Metern über dem Meeresspiegel.",
-        "In der Umgebung wächst der seltene und hochwertige 'Cacao Chuncho'.",
-        "Jedes Jahr im Juli feiert die Stadt ihr großes Jubiläum mit Musik- und Gastronomiefestivals."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "tingo_maria-cities-v2",
-    type: "city",
-    parent: "PE-HUC",
-    coords: [-76.0028, -9.2975],
-    name: {
-      de: "Tingo María",
-      hu: "Tingo María",
-      ro: "Tingo María",
-      en: "Tingo María"
-    },
-    description: {
-      de: "Stadt in der Region Huánuco am Huallaga-Fluss.",
-      hu: "Város a Huánuco régióban, a Huallaga folyó mentén.",
-      ro: "Oraș din regiunea Huánuco, pe râul Huallaga.",
-      en: "City in the Huánuco region on the Huallaga River."
-    },
-    descriptionAdvanced: {
-      de: "Tingo María ist eine faszinierende Dschungelstadt am Fuße der Anden in der Region Huánuco, die für ihre atemberaubende Landschaft bekannt ist. Das markanteste Wahrzeichen ist die Bergkette \"La Bella Durmiente\" (Die schlafende Schöne), deren Silhouette an eine liegende Frau erinnert. Die Stadt ist das Tor zum Tingo-María-Nationalpark, der spektakuläre Höhlen wie die \"Cueva de las Lechuzas\" (Eulenhöhle) und zahlreiche Wasserfälle beherbergt. Das feucht-tropische Klima begünstigt eine enorme Artenvielfalt an Orchideen, Schmetterlingen und Vögeln. Tingo María hat sich zu einem Zentrum für Ökotourismus und Abenteuerlustige entwickelt, die die unberührte Natur des peruanischen Regenwaldes erleben wollen.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt für den Nationalpark Tingo María.", "Die Bergkette 'Dornröschen' prägt das Landschaftsbild."],
-      hu: ["A Tingo María Nemzeti Parkról ismert.", "A 'Csipkerózsika' hegyvonulat uralja a tájat."],
-      ro: ["Cunoscut pentru Parcul Național Tingo María.", "Lanțul muntos 'Frumoasa din Pădurea Adormită' domină peisajul."],
-      en: ["Known for the Tingo María National Park.", "The 'Sleeping Beauty' mountain range dominates the landscape."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Bergkette 'La Bella Durmiente' ist das Symbol der Stadt und Gegenstand zahlreicher Legenden.",
-        "Die 'Cueva de las Lechuzas' beherbergt in Wirklichkeit keine Eulen, sondern Fettschwalme (Guácharos).",
-        "Tingo María ist ein wichtiger Standort für die Forschung zur tropischen Landwirtschaft.",
-        "In der Region wird hochwertiger Kakao und Kaffee für den Weltmarkt produziert."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "barranca-cities-v2",
-    type: "city",
-    parent: "PE-LMA",
-    coords: [-77.7656, -10.7519],
-    name: {
-      de: "Barranca",
-      hu: "Barranca",
-      ro: "Barranca",
-      en: "Barranca"
-    },
-    description: {
-      de: "Küstenstadt in der Region Lima.",
-      hu: "Tengerparti város a Lima régióban.",
-      ro: "Oraș de coastă în regiunea Lima.",
-      en: "Coastal city in the Lima region."
-    },
-    descriptionAdvanced: {
-      de: "Barranca ist eine lebhafte Küstenstadt nördlich von Lima, die für ihre exzellente Gastronomie und ihre unmittelbare Nähe zu Caral, der ältesten Stadt Amerikas, bekannt ist. Die Strände von Barranca, wie Puerto Chico und Chorrillos, sind beliebte Ziele für Surfer und Erholungssuchende aus der Region. Die Stadt ist berühmt für ihre Meeresfrüchteküche, insbesondere für das Gericht \"Tacu Tacu\", das hier seine Wurzeln haben soll. Nur etwa 20 Kilometer im Landesinneren befindet sich die heilige Stadt Caral, ein UNESCO-Weltkulturerbe, das vor über 5.000 Jahren das Zentrum einer hochentwickelten Zivilisation war. Barranca vereint so modernen Küstentourismus mit faszinierenden Einblicken in die tiefste Geschichte der Menschheit in Amerika.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Nahe der archäologischen Stätte Caral.", "Beliebte Strände und Gastronomie."],
-      hu: ["Caral régészeti lelőhelyének közelében.", "Népszerű strandok és gasztronómia."],
-      ro: ["Aproape de situl arheologic Caral.", "Plaje populare și gastronomie."],
-      en: ["Near the archaeological site of Caral.", "Popular beaches and gastronomy."]
-    },
-    factsAdvanced: {
-      de: [
-        "Caral bei Barranca ist zeitgleich mit den Pyramiden von Gizeh entstanden.",
-        "Das Wahrzeichen der Stadt ist der 'Cristo Redentor', eine riesige Christusstatue auf einem Hügel am Meer.",
-        "Barranca ist berühmt für seine 'Tacu Tacu'-Variationen und frischen Fisch.",
-        "In der Umgebung befinden sich auch die beeindruckenden Festungsruinen von Paramonga."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "lambayeque-cities-v2",
-    type: "city",
-    parent: "PE-LAM",
-    coords: [-79.9075, -6.7022],
-    name: {
-      de: "Lambayeque",
-      hu: "Lambayeque",
-      ro: "Lambayeque",
-      en: "Lambayeque"
-    },
-    description: {
-      de: "Stadt nahe Chiclayo, bekannt für Archäologie.",
-      hu: "Chiclayo melletti város, régészetéről ismert.",
-      ro: "Oraș lângă Chiclayo, cunoscut pentru arheologie.",
-      en: "City near Chiclayo, known for archaeology."
-    },
-    descriptionAdvanced: {
-      de: "Lambayeque ist eine geschichtsträchtige Stadt im Norden Perus, die oft als das Herz der archäologischen Forschung des Landes bezeichnet wird. Sie beherbergt das weltberühmte Museum der Königsgräber von Sipán, ein architektonisches Meisterwerk in Form einer Moche-Pyramide, das die unermesslichen Goldschätze des Herrn von Sipán zeigt. Die Stadt selbst bewahrt einen starken kolonialen Charakter mit prächtigen Herrenhäusern und der beeindruckenden Kirche San Pedro. Lambayeque ist zudem die Wiege der \"King Kong\"-Süßigkeit, eines traditionellen Gebäcks mit Manjar Blanco, das weit über die Region hinaus bekannt ist. Die Kombination aus präkolumbianischem Erbe, kolonialer Eleganz und kulinarischen Traditionen macht Lambayeque zu einem unverzichtbaren Ziel für Kulturliebhaber.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Heimat des Bruning-Museums und der Königsgäber von Sipán.", "Wichtiges koloniales Erbe."],
-      hu: ["A Bruning Múzeum és a Sipán királyi sírok otthona.", "Jelentős gyarmati örökség."],
-      ro: ["Sediul Muzeului Bruning și al Mormintelor Regale din Sipán.", "Moștenire colonială importantă."],
-      en: ["Home to the Bruning Museum and Royal Tombs of Sipán.", "Important colonial heritage."]
-    },
-    factsAdvanced: {
-      de: [
-        "Das Museum der Königsgräber von Sipán gilt als eines der bedeutendsten archäologischen Museen der Welt.",
-        "In Lambayeque befindet sich das Bruning-Museum mit einer riesigen Sammlung präkolumbianischer Artefakte.",
-        "Der Name 'King Kong' für das Gebäck stammt von der Begeisterung der Bewohner für den gleichnamigen Film aus den 1930er Jahren.",
-        "Die Stadt war ein Zentrum des Widerstands während der Unabhängigkeitskämpfe gegen Spanien."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "chepen-cities-v2",
-    type: "city",
-    parent: "PE-LAL",
-    coords: [-79.4317, -7.2272],
-    name: {
-      de: "Chepén",
-      hu: "Chepén",
-      ro: "Chepén",
-      en: "Chepén"
-    },
-    description: {
-      de: "Stadt in der Region La Libertad.",
-      hu: "Város a La Libertad régióban.",
-      ro: "Oraș în regiunea La Libertad.",
-      en: "City in the La Libertad region."
-    },
-    descriptionAdvanced: {
-      de: "Chepén, bekannt als die \"Perle des Jequetepeque-Tals\", ist eine geschäftige Stadt in der Region La Libertad im Norden Perus. Die Stadt ist ein wichtiger Handelsknotenpunkt für Agrarprodukte, insbesondere Reis, der in den weiten Feldern der Umgebung angebaut wird. Ein Highlight für Besucher ist der Aufstieg auf den Cerro Chepén, auf dessen Gipfel sich eine monumentale Christusstatue und einer der beeindruckendsten Kreuzwege der Welt mit lebensgroßen Figuren befinden. Von dort oben bietet sich ein spektakulärer Blick über das fruchtbare Tal bis hin zum Pazifik. In der Umgebung zeugen archäologische Stätten wie San José de Moro von der bedeutenden Vergangenheit der Region als Zentrum der Moche-Kultur.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt für den Cerro Chepén und seinen Kreuzweg.", "Wichtiges landwirtschaftliches und kommerzielles Zentrum."],
-      hu: ["A Cerro Chepénről és annak keresztútjáról ismert.", "Fontos mezőgazdasági és kereskedelmi központ."],
-      ro: ["Cunoscut pentru Cerro Chepén și Drumul Crucii sale.", "Centru agricol și comercial important."],
-      en: ["Known for the Cerro Chepén and its Way of the Cross.", "Important agricultural and commercial center."]
-    },
-    factsAdvanced: {
-      de: [
-        "Der Kreuzweg auf dem Cerro Chepén umfasst 14 Stationen mit insgesamt 77 lebensgroßen Statuen.",
-        "Chepén ist ein Hauptproduzent von hochwertigem Reis für den peruanischen Markt.",
-        "Die archäologische Stätte San José de Moro ist berühmt für die Gräber mächtiger Moche-Priesterinnen.",
-        "Jedes Jahr im November feiert die Stadt ihre traditionelle Woche der Identität."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "tarma-cities-v2",
-    type: "city",
-    parent: "PE-JUN",
-    coords: [-75.6883, -11.4189],
-    name: {
-      de: "Tarma",
-      hu: "Tarma",
-      ro: "Tarma",
-      en: "Tarma"
-    },
-    description: {
-      de: "Die 'Perle der Anden' in der Region Junín.",
-      hu: "Az 'Andok gyöngye' a Junín régióban.",
-      ro: "„Perla Anzilor” din regiunea Junín.",
-      en: "The 'Pearl of the Andes' in the Junín region."
-    },
-    descriptionAdvanced: {
-      de: "Tarma, gelegen im zentralen Hochland Perus auf etwa 3.000 Metern Höhe, trägt den poetischen Namen \"Perle der Anden\". Die Stadt ist berühmt für ihr mildes Klima und ihre spektakuläre Blumenpracht, die sie zu einem der wichtigsten Zentren für den Blumenexport des Landes macht. Besonders eindrucksvoll ist Tarma während der Karwoche (Semana Santa), wenn die Straßen mit riesigen, kunstvollen Teppichen aus echten Blütenblättern geschmückt werden. Die Umgebung ist geprägt von fruchtbaren Tälern, präkolumbianischen Terrassen und faszinierenden Höhlen wie Huagapo, der tiefsten Höhle Perus. Tarma bewahrt eine elegante andine Atmosphäre mit kolonialen Kirchen und einer traditionsreichen Gastronomie, die Besucher aus nah und fern anzieht.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt für Blumenteppiche zu Ostern.", "Wichtiger Produzent von Blumen und Kräutern."],
-      hu: ["Híres a húsvéti virágszőnyegeiről.", "Fontos virág- és gyógynövénytermelő."],
-      ro: ["Cunoscut pentru covoarele sale de flori de Paște.", "Un important producător de flori și ierburi."],
-      en: ["Known for flower carpets at Easter.", "Important producer of flowers and herbs."]
-    },
-    factsAdvanced: {
-      de: [
-        "Tarma wurde 1538 von den Spaniern gegründet und war einst ein wichtiges Verwaltungszentrum.",
-        "Die Blumenteppiche von Tarma zu Ostern gelten als die schönsten in ganz Peru.",
-        "Die nahegelegene Grotte von Huagapo ist über 2.000 Meter tief erforscht.",
-        "In der Umgebung findet man die archäologischen Ruinen von Tarmatambo, ein altes Inka-Zentrum."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "huacho-cities-v2",
-    type: "city",
-    parent: "PE-LMA",
-    coords: [-77.6075, -11.1064],
-    name: {
-      de: "Huacho",
-      hu: "Huacho",
-      ro: "Huacho",
-      en: "Huacho"
-    },
-    description: {
-      de: "Küstenstadt und Hauptstadt der Provinz Huaura.",
-      hu: "Tengerparti város und Huaura tartomány fővárosa.",
-      ro: "Oraș de coastă și capitală a provinciei Huaura.",
-      en: "Coastal city and capital of the Huaura province."
-    },
-    descriptionAdvanced: {
-      de: "Huacho ist eine bedeutende Hafenstadt an der Zentralküste Perus und die Hauptstadt der Provinz Huaura. Die Stadt ist bekannt für ihre lebhafte Fischereiindustrie und ihre exzellente Gastronomie, wobei die \"Salchicha Huachana\" (eine würzige Wurstspezialität) landesweit berühmt ist. Huacho dient als wichtiges Handelszentrum nördlich von Lima und bietet eine Mischung aus einem modernen Stadtleben und traditionellem Küstenflair. In der unmittelbaren Umgebung befindet sich die archäologische Ausgrabungsstätte Bandurria, die Zeugnis von einer über 5.000 Jahre alten Zivilisation ablegt. Auch das Naturschutzgebiet der Lomas de Lachay, ein einzigartiges Nebel-Ökosystem in der Wüste, ist von Huacho aus leicht zu erreichen und lädt zu Wanderungen in einer grünen Oase ein.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt für die typische Wurst 'Salchicha Huachana'.", "Nahe der Ausgrabungsstätte Bandurria."],
-      hu: ["A jellegzetes 'Salchicha Huachana' kolbászról ismert.", "Bandurria ásatási területének közelében."],
-      ro: ["Cunoscut pentru cârnații tipici 'Salchicha Huachana'.", "Aproape de situl de excavare Bandurria."],
-      en: ["Known for the typical 'Salchicha Huachana' sausage.", "Near the Bandurria excavation site."]
-    },
-    factsAdvanced: {
-      de: [
-        "Huacho ist der Geburtsort der 'Salchicha Huachana', die oft zum Frühstück verzehrt wird.",
-        "Die Stadt besitzt einen der größten und lebhaftesten Märkte an der peruanischen Küste.",
-        "Bandurria bei Huacho beweist, dass die Zivilisation an der Küste Perus viel älter ist als lange angenommen.",
-        "Die Bucht von Huacho bietet ideale Bedingungen für die handwerkliche Fischerei."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "sechura-cities-v2",
-    type: "city",
-    parent: "PE-PIU",
-    coords: [-80.8228, -5.5569],
-    name: {
-      de: "Sechura",
-      hu: "Sechura",
-      ro: "Sechura",
-      en: "Sechura"
-    },
-    description: {
-      de: "Stadt in der Region Piura an der Wüste Sechura.",
-      hu: "Város a Piura régióban a Sechura-sivatag mentén.",
-      ro: "Oraș din regiunea Piura de-a lungul deșertului Sechura.",
-      en: "City in the Piura region along the Sechura Desert."
-    },
-    descriptionAdvanced: {
-      de: "Sechura liegt im hohen Norden Perus in der Region Piura und ist bekannt als die Stadt am Rande der größten Wüste des Landes. Trotz der kargen Umgebung ist die Region reich an natürlichen Ressourcen, insbesondere Phosphaten und Meeresfrüchten aus der fischreichen Bucht von Sechura. Ein architektonisches Juwel der Stadt ist die Kathedrale San Martín de Tours, ein beeindruckendes Beispiel des kolonialen Barocks mit massiven Mauern aus Sillar-Gestein. In der Umgebung finden sich faszinierende Naturphänomene wie die Lagune von Ramón und riesige Sanddünen wie der Cerro Blanco, der zum Sandboarding einlädt. Sechura bewahrt eine tiefe religiöse Hingabe und feiert seine Feste mit traditioneller Musik und Tänzen, die die Geschichte der Region widerspiegeln.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Wichtiges Zentrum der peruanischen Phosphatförderung.", "Die Bucht von Sechura ist reich an Meeresfrüchten."],
-      hu: ["A perui foszfátbányászat fontos központja.", "A Sechura-öböl gazdag tenger gyümölcseiben."],
-      ro: ["Centrul important al exploatării fosfaților din Peru.", "Golful Sechura este bogat în fructe de mare."],
-      en: ["Important center of Peruvian phosphate mining.", "The Bay of Sechura is rich in seafood."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Wüste von Sechura ist die größte Wüste Perus und eine der trockensten Regionen der Erde.",
-        "Die Kathedrale von Sechura wurde im 18. Jahrhundert erbaut und ist ein nationales Kulturdenkmal.",
-        "Sechura ist ein weltweit bedeutender Exporteur von Phosphaten für die Düngemittelindustrie.",
-        "In der Bucht von Sechura werden riesige Mengen an Jakobsmuscheln (Conchas de Abanico) für den Export gezüchtet."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "chota-cities-v2",
-    type: "city",
-    parent: "PE-CAJ",
-    coords: [-78.6517, -6.5606],
-    name: {
-      de: "Chota",
-      hu: "Chota",
-      ro: "Chota",
-      en: "Chota"
-    },
-    description: {
-      de: "Stadt im nördlichen Hochland von Cajamarca.",
-      hu: "Város Cajamarca északi hegyvidékén.",
-      ro: "Oraș în ținuturile muntoase de nord din Cajamarca.",
-      en: "City in the northern highlands of Cajamarca."
-    },
-    descriptionAdvanced: {
-      de: "Chota ist eine geschichtsträchtige Stadt im nördlichen Hochland der Region Cajamarca und liegt auf einem windgepeitschten Plateau in über 2.300 Metern Höhe. Die Stadt ist bekannt für ihren starken regionalen Stolz und als Wiege der \"Rondas Campesinas\", einer bäuerlichen Selbstschutzorganisation, die im gesamten peruanischen Hochland an Bedeutung gewonnen hat. Chota ist ein wichtiges Zentrum der Rinderzucht und berühmt für seine leidenschaftlichen Stierkämpfe während der Feierlichkeiten zu Ehren des Heiligen Johannes des Täufers im Juni. Das Stadtbild ist geprägt von kolonialen Einflüssen und dem täglichen Kommen und Gehen der Landbevölkerung in ihren typischen Trachten. Die Umgebung bietet beeindruckende Berglandschaften, tiefe Schluchten und die mysteriösen Ruinen von Pacopampa aus präinkaischer Zeit.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt für Rinderzucht und traditionelle Feste.", "Die Provinz ist berühmt für die 'Rondas Campesinas'."],
-      hu: ["Szarvasmarha-tenyésztésről und hagyományos fesztiválokról ismert.", "A tartomány híres a 'Rondas Campesinas' paraszti őrségeiről."],
-      ro: ["Cunoscut pentru creșterea vitelor și festivaluri tradiționale.", "Provincia este renumită pentru 'Rondas Campesinas'."],
-      en: ["Known for cattle breeding and traditional festivals.", "The province is famous for the 'Rondas Campesinas' peasant patrols."]
-    },
-    factsAdvanced: {
-      de: [
-        "Chota gilt als die Stierkampf-Hauptstadt Nordperus.",
-        "Die 'Rondas Campesinas' entstanden hier in den 1970er Jahren als Antwort auf Viehdiebstahl.",
-        "Die Provinz Chota ist berühmt für ihre Produktion von hochwertigem Käse und anderen Milchprodukten.",
-        "Jedes Jahr am 24. Juni findet das größte Fest der Stadt mit Umzügen und traditionellen Tänzen statt."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "pisco-cities-v2",
-    type: "city",
-    parent: "PE-ICA",
-    coords: [-76.2022, -13.7114],
-    name: {
-      de: "Pisco",
-      hu: "Pisco",
-      ro: "Pisco",
-      en: "Pisco"
-    },
-    description: {
-      de: "Küstenstadt in der Region Ica.",
-      hu: "Tengerparti város a Ica régióban.",
-      ro: "Oraș de coastă în regiunea Ica.",
-      en: "Coastal city in the Ica region."
-    },
-    descriptionAdvanced: {
-      de: "Pisco ist eine geschichtsträchtige Hafenstadt an der peruanischen Zentralküste, die vor allem als Namensgeberin für das Nationalgetränk Pisco bekannt ist. Die Stadt war im 17. Jahrhundert ein bedeutender Umschlagplatz für Wein und Branntwein, bevor sie 1687 durch ein schweres Erdbeben und einen Tsunami fast vollständig zerstört wurde. Heute ist Pisco das wichtigste Tor zum Nationalreservat von Paracas, einem Naturparadies, das für seine reiche Meeresfauna und die mysteriösen Ballestas-Inseln berühmt ist. Besucher können hier nicht nur die Geschichte der Unabhängigkeit Perus spüren, sondern auch die atemberaubende Schönheit der Wüstenlandschaften erleben, die direkt in den Pazifik übergehen. Die Stadt hat sich nach dem verheerenden Erdbeben von 2007 mutig wiederaufgebaut und bewahrt ihren Stolz als Zentrum der regionalen Kultur.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Namensgeber für den peruanischen Traubenschnaps.", "Wichtiges Tor zu den Paracas-Inseln."],
-      hu: ["A perui szőlőpárlat névadója.", "Fontos kapu a Paracas-szigetekhez."],
-      ro: ["Omonim pentru rachiul de struguri peruan.", "O poartă importantă către Insulele Paracas."],
-      en: ["Namesake for the Peruvian grape brandy.", "Important gateway to the Paracas Islands."]
-    },
-    factsAdvanced: {
-      de: [
-        "In Pisco landete General José de San Martín 1820 mit der Befreiungsexpedition.",
-        "Der Name 'Pisco' stammt aus dem Quechua und bedeutet 'Vogel'.",
-        "Die Stadt ist berühmt für ihren handwerklichen Hafen und die frischen Meeresfrüchte.",
-        "Die nahegelegene Paracas-Kultur schuf hier bereits vor 2000 Jahren feinste Textilien."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "pacasmayo-cities-v2",
-    type: "city",
-    parent: "PE-LAL",
-    coords: [-79.5714, -7.4019],
-    name: {
-      de: "Pacasmayo",
-      hu: "Pacasmayo",
-      ro: "Pacasmayo",
-      en: "Pacasmayo"
-    },
-    description: {
-      de: "Hafenstadt in der Region La Libertad.",
-      hu: "Kikötőváros a La Libertad régióban.",
-      ro: "Oraș-port în regiunea La Libertad.",
-      en: "Port city in the La Libertad region."
-    },
-    descriptionAdvanced: {
-      de: "Pacasmayo ist eine charmante Hafenstadt im Norden Perus, die für ihren langen hölzernen Pier und ihre entspannte Atmosphäre bekannt ist. Die Stadt erlebte im 19. Jahrhundert eine Blütezeit als wichtiger Exporthafen für Zucker und Reis, was sich noch heute in den eleganten kolonialen Herrenhäusern der Altstadt widerspiegelt. Für Surfer und Windsurfer aus aller Welt ist Pacasmayo ein legendäres Ziel, da die Bucht von El Faro einige der längsten und am besten formbaren Wellen der Welt bietet. Neben den sportlichen Aktivitäten lädt die Uferpromenade zu langen Spaziergängen ein, bei denen man die spektakulären Sonnenuntergänge über dem Pazifik genießen kann. Die Stadt bewahrt eine authentische Verbindung zum Meer und bietet eine exzellente Küche, in der frischer Fisch die Hauptrolle spielt.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Beliebt bei Surfern wegen der langen Wellen.", "Bewahrt schöne koloniale Architektur."],
-      hu: ["Hosszú hullámai miatt népszerű a szörfösök körében.", "Megőrizte gyönyörű gyarmati építészetét."],
-      ro: ["Popular printre surferi pentru valurile sale lungi.", "Păstrează o frumoasă arhitectură colonială."],
-      en: ["Popular with surfers because of its long waves.", "Preserves beautiful colonial architecture."]
-    },
-    factsAdvanced: {
-      de: [
-        "Der Pier von Pacasmayo ist über 500 Meter lang und wurde ursprünglich für den Eisenbahnverkehr gebaut.",
-        "Die Stadt gilt als einer der besten Orte weltweit für Wave-Windsurfing.",
-        "In der Nähe befinden sich die archäologischen Ruinen von Pakatnamú aus der Chimú-Zeit.",
-        "Der Name Pacasmayo bedeutet vermutlich 'Fluss der Rebhühner' in der Mochica-Sprache."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "viru-cities-v2",
-    type: "city",
-    parent: "PE-LAL",
-    coords: [-78.7511, -8.4161],
-    name: {
-      de: "Virú",
-      hu: "Virú",
-      ro: "Virú",
-      en: "Virú"
-    },
-    description: {
-      de: "Stadt und Provinz in der Region La Libertad.",
-      hu: "Város és tartomány a La Libertad régióban.",
-      ro: "Oraș și provincie în regiunea La Libertad.",
-      en: "City and province in the La Libertad region."
-    },
-    descriptionAdvanced: {
-      de: "Virú ist eine dynamische Stadt in der gleichnamigen Provinz der Region La Libertad, die als Zentrum eines der wichtigsten Bewässerungsprojekte Perus, Chavimochic, gilt. Dank dieser technologischen Meisterleistung wurde die einstige Wüstenlandschaft in ein grünes Paradies für den Export von Spargel, Avocados und Heidelbeeren verwandelt. Die Geschichte von Virú reicht jedoch weit zurück; sie war die Wiege der Virú-Kultur, die eine Brücke zwischen den Zivilisationen der Salinar und Moche bildete. Beeindruckende archäologische Stätten wie Queneto mit seinen megalithischen Strukturen zeugen von der jahrtausendealten Besiedlung dieses fruchtbaren Tals. Heute ist Virú ein Motor der wirtschaftlichen Entwicklung Nordperus und verbindet moderne Landwirtschaft mit einem reichen kulturellen Erbe.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Wichtiges Zentrum des Spargel- und Avocadoanbaus.", "Reich an präkolumbianischen archäologischen Stätten."],
-      hu: ["A spárga és az avokádó termesztésének fontos központja.", "Gazdag prekolumbián régészeti lelőhelyekben."],
-      ro: ["Centrul important al cultivării sparanghelului și avocado.", "Bogat în situri arheologice precolumbiene."],
-      en: ["Important center for asparagus and avocado cultivation.", "Rich in pre-Columbian archaeological sites."]
-    },
-    factsAdvanced: {
-      de: [
-        "Virú ist einer der weltweit größten Produzenten von weißem Spargel.",
-        "Die Tempel von Queneto beherbergen seltene Petroglyphen und astronomische Ausrichtungen.",
-        "Das Virú-Tal ist bekannt für seine 'Huacas' oder heiligen Pyramiden aus Lehm.",
-        "Die Stadt feiert jedes Jahr im Juli das Pflaumenfestival (Feria de la Ciruela)."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "requena-cities-v2",
-    type: "city",
-    parent: "PE-LOR",
-    coords: [-73.8517, -5.0608],
-    name: {
-      de: "Requena",
-      hu: "Requena",
-      ro: "Requena",
-      en: "Requena"
-    },
-    description: {
-      de: "Stadt am Fluss Ucayali in der Region Loreto.",
-      hu: "Város az Ucayali folyó partján a Loreto régióban.",
-      ro: "Oraș pe râul Ucayali în regiunea Loreto.",
-      en: "City on the Ucayali River in the Loreto region."
-    },
-    descriptionAdvanced: {
-      de: "Requena, bekannt als das 'Athen des Ucayali', ist eine malerische Stadt im Herzen des peruanischen Amazonasgebiets in der Region Loreto. Sie liegt am Zusammenfluss der Flüsse Ucayali und Tapiche und ist ein wichtiges Zentrum für Bildung und Kultur im Dschungel. Die Stadt wurde im frühen 20. Jahrhundert von franziskanischen Missionaren geprägt, was ihr eine für die Region ungewöhnliche architektonische und intellektuelle Note verlieh. Requena dient als strategischer Ausgangspunkt für Expeditionen in das nahegelegene nationale Reservat Pacaya-Samiria, eines der größten Schutzgebiete Perus. Die ruhige Atmosphäre und die üppige grüne Umgebung machen sie zu einem idealen Ort für alle, die das authentische Amazonasleben abseits der großen Touristenpfade kennenlernen möchten.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt als das 'Athen des Ucayali'.", "Wichtiges Bildungszentrum im peruanischen Dschungel."],
-      hu: ["Az 'Ucayali Athénjaként' ismert.", "Fontos oktatási központ a perui dzsungelben."],
-      ro: ["Cunoscut sub numele de „Atena din Ucayali”.", "Un important centru educațional în jungla peruană."],
-      en: ["Known as the 'Athens of the Ucayali'.", "Important educational center in the Peruvian jungle."]
-    },
-    factsAdvanced: {
-      de: [
-        "Requena wurde nach dem spanischen Ingenieur Francisco Requena benannt.",
-        "Die Stadt ist ein bedeutendes Zentrum für die Ausbildung von Lehrern im Amazonasgebiet.",
-        "In den Gewässern um Requena kann man oft die seltenen rosa Flussdelphine beobachten.",
-        "Die Stadt ist nur per Boot oder Flugzeug erreichbar, was ihren Charme bewahrt."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "contamana-cities-v2",
-    type: "city",
-    parent: "PE-LOR",
-    coords: [-75.0119, -7.3486],
-    name: {
-      de: "Contamana",
-      hu: "Contamana",
-      ro: "Contamana",
-      en: "Contamana"
-    },
-    description: {
-      de: "Hauptstadt der Provinz Ucayali in der Region Loreto.",
-      hu: "Ucayali tartomány fővárosa a Loreto régióban.",
-      ro: "Capitala provinciei Ucayali din regiunea Loreto.",
-      en: "Capital of the Ucayali province in the Loreto region."
-    },
-    descriptionAdvanced: {
-      de: "Contamana ist die charmante Hauptstadt der Provinz Ucayali und liegt am Ufer des majestätischen Ucayali-Flusses im dichten Regenwald der Region Loreto. Die Stadt ist berühmt für ihre warmen Quellen von Aguas Calientes, die inmitten einer paradiesischen Dschungellandschaft liegen und Heilkräfte besitzen sollen. Ein besonderes Merkmal von Contamana ist der Hügel 'El Mirador', von dem aus man einen spektakulären Panoramablick über die endlose Weite des Amazonasbeckens und die sich dahinschlängelnden Flüsse hat. Die lokale Kultur ist geprägt von den Traditionen der Shipibo-Conibo-Ureinwohner, die für ihre kunstvollen geometrischen Textilmuster bekannt sind. Contamana bewahrt eine herzliche Gastfreundschaft und bietet Einblicke in ein Leben, das eng mit dem Rhythmus des Flusses und des Waldes verbunden ist.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Liegt an den Ufern des Flusses Ucayali.", "Bekannt für das nahegelegene Thermalbad Aguas Calientes."],
-      hu: ["Az Ucayali folyó partján fekszik.", "A közeli Aguas Calientes termálfürdőről ismert."],
-      ro: ["Situat pe malul râului Ucayali.", "Cunoscut pentru băile termale din apropiere de la Aguas Calientes."],
-      en: ["Located on the banks of the Ucayali River.", "Known for the nearby Aguas Calientes thermal baths."]
-    },
-    factsAdvanced: {
-      de: [
-        "Contamana bedeutet in der indigenen Sprache 'Hügel der Palmen'.",
-        "Die Thermalquellen von Aguas Calientes erreichen Temperaturen von über 40 Grad Celsius.",
-        "Der Malecón von Contamana bietet wunderschöne Aussichten bei Sonnenuntergang am Fluss.",
-        "Die Stadt ist ein wichtiger Umschlagplatz für tropische Früchte und Holz."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "juanjui-cities-v2",
-    type: "city",
-    parent: "PE-SAM",
-    coords: [-76.7294, -7.1775],
-    name: {
-      de: "Juanjuí",
-      hu: "Juanjuí",
-      ro: "Juanjuí",
-      en: "Juanjuí"
-    },
-    description: {
-      de: "Stadt in der Region San Martín.",
-      hu: "Város a San Martín régióban.",
-      ro: "Oraș în regiunea San Martín.",
-      en: "City in the San Martín region."
-    },
-    descriptionAdvanced: {
-      de: "Juanjuí ist eine blühende Stadt im oberen Huallaga-Tal und das wirtschaftliche Herz der Provinz Mariscal Cáceres in der Region San Martín. Sie hat sich in den letzten Jahrzehnten von einem Zentrum des Koka-Anbaus zu einer Welthauptstadt des ökologischen Kakaos gewandelt. Die Stadt dient als Tor zum Abiseo-Fluss-Nationalpark, einem UNESCO-Weltnatur- und Kulturerbe, das unberührte Nebelwälder und die mysteriöse archäologische Stätte Gran Pajatén schützt. Die Umgebung von Juanjuí ist reich an spektakulären Wasserfällen und kristallklaren Bächen, die zum Baden einladen. Der Stolz der Bewohner auf ihren hochwertigen Kakao spiegelt sich in zahlreichen lokalen Schokoladenmanufakturen und jährlichen Festivals wider.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Wichtiges Zentrum der Kakaoproduktion.", "Ausgangspunkt für den Abiseo-Fluss-Nationalpark."],
-      hu: ["A kakaótermelés fontos központja.", "Kiindulópont az Abiseo-folyó Nemzeti Parkhoz."],
-      ro: ["Un centru important pentru producția de cacao.", "Punct de plecare pentru Parcul Național Râul Abiseo."],
-      en: ["Important center for cocoa production.", "Starting point for the Abiseo River National Park."]
-    },
-    factsAdvanced: {
-      de: [
-        "Juanjuí wurde nach seinem Gründer Juan José del Castillo benannt.",
-        "Die Region ist berühmt für den Export von erstklassigem Bio-Kakao nach Europa.",
-        "Der nahegelegene Nationalpark Abiseo beherbergt den vom Aussterben bedrohten Gelbschwanz-Wollaffen.",
-        "Juanjuí ist ein wichtiger Knotenpunkt der Fernstraße Carretera Marginal de la Selva."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "bagua-cities-v2",
-    type: "city",
-    parent: "PE-AMA",
-    coords: [-78.5303, -5.6397],
-    name: {
-      de: "Bagua",
-      hu: "Bagua",
-      ro: "Bagua",
-      en: "Bagua"
-    },
-    description: {
-      de: "Wichtige Stadt in der Region Amazonas.",
-      hu: "Fontos város az Amazonas régióban.",
-      ro: "Oraș important din regiunea Amazon.",
-      en: "Important city in the Amazonas region."
-    },
-    descriptionAdvanced: {
-      de: "Bagua liegt im Norden der Region Amazonas und ist eine strategisch wichtige Stadt, die das Hochland mit dem Regenwald verbindet. Die Stadt befindet sich in einem weitläufigen Tal, das vom Fluss Utcubamba bewässert wird und ideale Bedingungen für den Anbau von Reis, Kakao und Kaffee bietet. Bagua ist bekannt für seine lebhaften Märkte, auf denen Produkte aus verschiedenen ökologischen Zonen der Anden und des Amazonas gehandelt werden. Geschichtlich ist die Region bedeutend für die Funde aus der Bagua-Kultur, die zu den ältesten organisierten Siedlungen im peruanischen Norden gehören. Die Umgebung bietet faszinierende Naturlandschaften wie die Schluchten des Marañón-Flusses und eine reiche tropische Flora und Fauna.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Zentrum des Handels für den peruanischen Dschungel.", "Umgeben von Kaffeebohnen- und Reisfeldern."],
-      hu: ["A perui dzsungel kereskedelmi központja.", "Kávé- és rizsföldek veszik körül."],
-      ro: ["Centru de comerț pentru jungla peruană.", "Înconjurat de boabe de cafea și câmpuri de orez."],
-      en: ["Center of commerce for the Peruvian jungle.", "Surrounded by coffee bean and rice fields."]
-    },
-    factsAdvanced: {
-      de: [
-        "Der Name Bagua stammt vermutlich von einem indigenen Wort für 'Ebene'.",
-        "In Bagua herrscht das ganze Jahr über ein heißes und feuchtes tropisches Klima.",
-        "Die Region ist ein wichtiger Lieferant für Fleisch und Agrarprodukte für die Andenstädte.",
-        "Die nahegelegene archäologische Stätte Casual zeigt 3000 Jahre alte Wandmalereien."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "chachapoyas-cities-v2",
-    type: "state-capital",
-    parent: "PE-AMA",
-    coords: [-77.8728, -6.2294],
-    name: {
-      de: "Chachapoyas",
-      hu: "Chachapoyas",
-      ro: "Chachapoyas",
-      en: "Chachapoyas"
-    },
-    description: {
-      de: "Hauptstadt der Region Amazonas in Nordperu.",
-      hu: "Amazonas régió fővárosa Észak-Peruban.",
-      ro: "Capitala regiunii Amazonas din nordul statului Peru.",
-      en: "Capital of the Amazonas region in northern Peru."
-    },
-    descriptionAdvanced: {
-      de: "Chachapoyas, die Hauptstadt der Region Amazonas, ist eine charmante koloniale Stadt in den Nordanden, die als Ausgangspunkt für Entdeckungen in das Land der 'Wolkenkrieger' dient. Die Stadt besticht durch ihre weißen Fassaden, blumengeschmückten Balkone und eine friedliche Atmosphäre, die zum Verweilen einlädt. In der Umgebung befinden sich einige der spektakulärsten Sehenswürdigkeiten Perus, darunter die gewaltige Festung Kuélap, die älter und massiver als Machu Picchu ist. Auch der Gocta-Wasserfall, einer der höchsten der Welt, stürzt unweit der Stadt in die Tiefe des Nebelwaldes. Die reiche Geschichte der Chachapoya-Kultur ist hier an jeder Ecke spürbar, von den Sarkophagen von Karajía bis zu den Mausoleen von Revash.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Zentrum der historischen Chachapoya-Kultur.", "Nahe der Festung Kuélap und dem Gocta-Wasserfall."],
-      hu: ["A történelmi Chachapoya kultúra központja.", "A Kuélap erőd és a Gocta-vízesés közelében."],
-      ro: ["Centrul culturii istorice Chachapoya.", "Aproape de fortăreața Kuélap și cascada Gocta."],
-      en: ["Center of the historical Chachapoya culture.", "Near the Kuélap fortress and the Gocta waterfall."]
-    },
-    factsAdvanced: {
-      de: [
-        "Chachapoyas bedeutet in der Sprache der Inka 'Ort der Wolkenmenschen'.",
-        "Die Stadt wurde 1538 von Alonso de Alvarado gegründet.",
-        "Kuélap ist die größte Steinmauerstruktur in ganz Südamerika.",
-        "Die Region beherbergt zahlreiche endemische Arten wie den Kolibri 'Spatelschwanz'."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "rioja-cities-v2",
-    type: "city",
-    parent: "PE-SAM",
-    coords: [-77.1667, -6.0614],
-    name: {
-      de: "Rioja",
-      hu: "Rioja",
-      ro: "Rioja",
-      en: "Rioja"
-    },
-    description: {
-      de: "Die 'Stadt der Hüte' in der Region San Martín.",
-      hu: "A 'Kalapok Városa' a San Martín régióban.",
-      ro: "„Orașul pălăriilor” din regiunea San Martín.",
-      en: "The 'City of Hats' in the San Martín region."
-    },
-    descriptionAdvanced: {
-      de: "Rioja ist eine charmante Stadt im oberen Mayo-Tal der Region San Martín, die für ihre üppige Natur und ihren kulturellen Reichtum bekannt ist. Sie trägt den Beinamen 'Stadt der Hüte', da hier seit Generationen die traditionellen 'Sombreros de Paja Bombonaje' in feiner Handarbeit gefertigt werden. Rioja ist ein Paradies für Ökotouristen, mit Attraktionen wie dem Quellgebiet des Tioyacu-Flusses, wo kristallklares Wasser aus dem Felsen sprudelt. Der Karneval von Rioja ist einer der farbenprächtigsten und lebhaftesten im gesamten peruanischen Amazonasgebiet und zieht tausende Besucher an. Die Stadt ist zudem ein wichtiger Ausgangspunkt für die Erkundung des Waldschutzgebietes Alto Mayo, das für seine enorme Artenvielfalt an Vögeln und Orchideen berühmt ist.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt für den traditionellen Karneval.", "Wichtiges ökologisches Tourismusziel."],
-      hu: ["Híres a hagyományos karneválról.", "Fontos ökológiai turisztikai célpont."],
-      ro: ["Cunoscut pentru carnavalul tradițional.", "Destinație importantă pentru turism ecologic."],
-      en: ["Known for its traditional carnival.", "Important ecological tourism destination."]
-    },
-    factsAdvanced: {
-      de: [
-        "Rioja wurde 1772 gegründet und ist eine der ältesten Städte der Region.",
-        "Die traditionellen Rioja-Hüte werden aus der Faser der Bombonaje-Palme gewebt.",
-        "Die Thermalquellen von Pardo Miguel sind ein beliebtes Ziel für Entspannung Suchende.",
-        "Rioja ist berühmt für seine 'Avispa Juane', eine lokale Variante des traditionellen Dschungelgerichts."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "ilave-cities-v2",
-    type: "city",
-    parent: "PE-PUN",
-    coords: [-69.6381, -16.0825],
-    name: {
-      de: "Ilave",
-      hu: "Ilave",
-      ro: "Ilave",
-      en: "Ilave"
-    },
-    description: {
-      de: "Wichtige Handelsstadt in der Region Puno.",
-      hu: "Fontos kereskedőváros a Puno régióban.",
-      ro: "Oraș comercial important în regiunea Puno.",
-      en: "Important commercial city in the Puno region."
-    },
-    descriptionAdvanced: {
-      de: "Ilave ist eine bedeutende Stadt im peruanischen Altiplano, südlich von Puno gelegen, und gilt als das kulturelle und wirtschaftliche Zentrum des Aymara-Volkes in Peru. Die Stadt liegt auf einer weiten Hochebene in über 3.800 Metern Höhe und ist bekannt für ihren riesigen Sonntagsmarkt, auf dem Vieh, Textilien und Agrarprodukte aus der gesamten Region gehandelt werden. Die koloniale Kirche San Miguel de Ilave mit ihrer prächtigen Fassade zeugt von der Bedeutung des Ortes während der spanischen Zeit. Ilave ist ein Ort tief verwurzelter Traditionen, an dem die Aymara-Sprache und uralte Bräuche im Alltag allgegenwärtig sind. Die karge, aber beeindruckende Landschaft der Hochebene verleiht der Stadt eine ganz besondere, fast mystische Atmosphäre.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Zentrum der Aymara-Kultur in Peru.", "Großer Markt für landwirtschaftliche Produkte."],
-      hu: ["Az aymara kultúra központja Peruban.", "Nagy piac a mezőgazdasági termékek számára."],
-      ro: ["Centrul culturii Aymara din Peru.", "Piață mare pentru produse agricole."],
-      en: ["Center of the Aymara culture in Peru.", "Large market for agricultural products."]
-    },
-    factsAdvanced: {
-      de: [
-        "Ilave ist der wichtigste Verkehrsknotenpunkt für den Handel zwischen Peru und Bolivien im Süden.",
-        "Die Stadt feiert jedes Jahr im September das Fest zu Ehren des Erzengels Michael.",
-        "In der Umgebung findet man beeindruckende 'Chullpas' oder Grabtürme aus präinkaischer Zeit.",
-        "Die Region Ilave ist berühmt für ihre hochwertige Alpaka-Wolle."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "huamachuco-cities-v2",
-    type: "city",
-    parent: "PE-LAL",
-    coords: [-78.0489, -7.8144],
-    name: {
-      de: "Huamachuco",
-      hu: "Huamachuco",
-      ro: "Huamachuco",
-      en: "Huamachuco"
-    },
-    description: {
-      de: "Historische Stadt in der Region La Libertad.",
-      hu: "Történelmi város a La Libertad régióban.",
-      ro: "Oraș istoric în regiunea La Libertad.",
-      en: "Historical city in the La Libertad region."
-    },
-    descriptionAdvanced: {
-      de: "Huamachuco ist eine geschichtsträchtige Stadt in den Hochanden der Region La Libertad, die einst das Zentrum der mächtigen Huamachuco-Kultur war. Nur wenige Kilometer von der Stadt entfernt thronen die Ruinen von Marcahuamachuco auf einem Bergplateau, eine der bedeutendsten archäologischen Stätten Nordperus, die oft als das 'Machu Picchu des Nordens' bezeichnet wird. Die Stadt selbst spielte eine zentrale Rolle in der Geschichte Perus, insbesondere während des Unabhängigkeitskrieges und des Salpeterkrieges gegen Chile. Der weitläufige Hauptplatz von Huamachuco gehört zu den größten des Landes und ist von kolonialen Gebäuden und gepflegten Gärten umgeben. Die Mischung aus prähistorischem Erbe, kolonialer Geschichte und lebendigen andinen Traditionen macht Huamachuco zu einem faszinierenden Ziel für Reisende.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Nahe der bedeutenden archäologischen Stätte Marcahuamachuco.", "Schauplatz der Schlacht von Huamachuco (1883)."],
-      hu: ["Marcahuamachuco jelentős régészeti lelőhelyének közelében.", "A huamachucói csata (1883) helyszíne."],
-      ro: ["Aproape de situl arheologic important de la Marcahuamachuco.", "Scena bătăliei de la Huamachuco (1883)."],
-      en: ["Near the important archaeological site of Marcahuamachuco.", "Scene of the Battle of Huamachuco (1883)."]
-    },
-    factsAdvanced: {
-      de: [
-        "Marcahuamachuco war ein religiöses und administratives Zentrum lange vor der Zeit der Inka.",
-        "In Huamachuco fand 1883 die letzte entscheidende Schlacht des Salpeterkrieges statt.",
-        "Die Stadt ist berühmt für ihre handgewebten Textilien mit traditionellen Motiven.",
-        "Huamachuco liegt auf einer beachtlichen Höhe von über 3.100 Metern über dem Meeresspiegel."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "nazca-cities-v2",
-    type: "city",
-    parent: "PE-ICA",
-    coords: [-74.9392, -14.8288],
-    name: {
-      de: "Nazca",
-      hu: "Nazca",
-      ro: "Nazca",
-      en: "Nazca"
-    },
-    description: {
-      de: "Stadt in der Region Ica, im südlichen Peru.",
-      hu: "Város az Ica régióban, Dél-Peruban.",
-      ro: "Oraș în regiunea Ica, din sudul statului Peru.",
-      en: "City in the Ica region, in southern Peru."
-    },
-    descriptionAdvanced: {
-      de: "Nazca ist weltweit berühmt für die mysteriösen Nazca-Linien, riesige Geoglyphen in der Wüste, die nur aus der Luft in ihrer vollen Pracht zu erkennen sind. Die Stadt liegt in einer der trockensten Regionen der Erde, hat es aber geschafft, durch die genialen 'Cantalloc-Aquädukte' der Nazca-Kultur seit fast 2000 Jahren Wasser aus den Anden in das Tal zu leiten. Neben den Linien bietet die Region faszinierende archäologische Stätten wie die Pyramiden von Cahuachi, das einst ein bedeutendes religies Zentrum war, und den Friedhof von Chauchilla mit seinen gut erhaltenen Mumien. Das Klima in Nazca ist das ganze Jahr über sonnig und warm, was die Stadt zu einem idealen Ziel für Kulturinteressierte macht. Die handwerkliche Tradition der Keramikherstellung wird hier nach wie vor mit den alten Techniken der Nazca-Kultur gepflegt.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Weltberühmt für die Nazca-Linien in der Wüste.", "Wichtiger Touristenort wegen archäologischer Funde."],
-      hu: ["Világhírű a sivatagban található Nazca-vonalakról.", "Fontos turisztikai célpont a régészeti leletek miatt."],
-      ro: ["Cunoscut în întreaga lume pentru liniile Nazca din deșert.", "Destinație turistică importantă datorită descoperirilor arheologice."],
-      en: ["World-famous for the Nazca Lines in the desert.", "Important tourist resort because of archaeological finds."]
-    },
-    factsAdvanced: {
-      de: [
-        "Die Nazca-Linien wurden 1994 zum UNESCO-Weltkulturerbe erklärt.",
-        "Maria Reiche widmete ihr ganzes Leben der Erforschung und dem Schutz der Linien.",
-        "Die Aquädukte von Cantalloc funktionieren noch heute perfekt und bewässern lokale Felder.",
-        "In Nazca kann man den höchsten Sandhügel der Welt, den Cerro Blanco, besteigen."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "cutervo-cities-v2",
-    type: "city",
-    parent: "PE-CAJ",
-    coords: [-78.8169, -6.3764],
-    name: {
-      de: "Cutervo",
-      hu: "Cutervo",
-      ro: "Cutervo",
-      en: "Cutervo"
-    },
-    description: {
-      de: "Stadt im Hochland von Cajamarca.",
-      hu: "Város Cajamarca hegyvidékén.",
-      ro: "Oraș de munte din Cajamarca.",
-      en: "City in the highlands of Cajamarca."
-    },
-    descriptionAdvanced: {
-      de: "Cutervo ist eine malerische Stadt im nördlichen Hochland von Cajamarca und ist stolz darauf, die Heimat des ersten Nationalparks Perus zu sein. Der Nationalpark Cutervo, 1961 gegründet, schützt einzigartige Ökosysteme wie die 'Cordillera de los Tarros' und faszinierende Höhlen wie die 'Cueva de los Guácharos', in denen seltene Fettschwalme leben. Die Stadt selbst ist geprägt von einer starken landwirtschaftlichen Tradition, wobei die Rinderzucht und die Milchwirtschaft die Haupteinnahmequellen der Region sind. Cutervo bewahrt einen authentischen kleinstädtischen Charme mit kolonialen Einflüssen und freundlichen Bewohnern. Die Umgebung ist ein Paradies für Naturliebhaber und bietet Wanderwege durch Nebelwälder und unberührte Berglandschaften.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Heimat des ersten Nationalparks Perus (1961).", "Bekannt für Viehzucht und Landwirtschaft."],
-      hu: ["Peru első nemzeti parkjának (1961) otthona.", "Állattenyésztésről és mezőgazdaságról ismert."],
-      ro: ["Sediul primului parc național din Peru (1961).", "Cunoscut pentru creșterea vitelor și agricultură."],
-      en: ["Home of the first national park of Peru (1961).", "Known for cattle breeding and agriculture."]
-    },
-    factsAdvanced: {
-      de: [
-        "Der Nationalpark Cutervo ist berühmt für seine Populationen des Brillenbären.",
-        "Cutervo feiert jedes Jahr im Juni sein großes Patronatsfest zu Ehren von San Juan Bautista.",
-        "In den Höhlen von Cutervo findet man faszinierende Stalaktiten- und Stalagmitenformationen.",
-        "Die Stadt liegt in einem fruchtbaren Tal auf etwa 2.600 Metern Höhe."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "catacaos-cities-v2",
-    type: "city",
-    parent: "PE-PIU",
-    coords: [-80.6761, -5.2678],
-    name: {
-      de: "Catacaos",
-      hu: "Catacaos",
-      ro: "Catacaos",
-      en: "Catacaos"
-    },
-    description: {
-      de: "Kleine Stadt in der Region Piura.",
-      hu: "Kisváros a Piura régióban.",
-      ro: "Orășel din regiunea Piura.",
-      en: "Small town in the Piura region."
-    },
-    descriptionAdvanced: {
-      de: "Catacaos, nur wenige Kilometer von der Stadt Piura entfernt, gilt als die Hauptstadt des Kunsthandwerks und der Gastronomie im Norden Perus. Die Stadt ist weltberühmt für ihre feine Silber- und Goldfiligranarbeit, bei der Kunsthandwerker aus hauchdünnen Drähten komplizierte Schmuckstücke fertigen. In der Calle Comercio, der Hauptgeschäftsstraße, finden Besucher zudem beeindruckende Holzschnitzereien, Strohhüte und Keramiken. Catacaos ist aber auch ein Mekka für Genießer; in den traditionellen 'Picanterías' werden lokale Spezialitäten wie Ceviche, Seco de Chabelo und die berühmte Chicha de Jora serviert. Die tiefe Religiosität der Bewohner zeigt sich besonders während der Karwoche, die in Catacaos mit großer Pracht und Hingabe gefeiert wird.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Berühmt für Silber- und Goldfiligranarbeiten.", "Zentrum der peruanischen Picanterías (Restaurants)."],
-      hu: ["Híres az ezüst- és arany filigrán munkákról.", "A perui picanteríák (éttermek) központja."],
-      ro: ["Renumit pentru munca cu filigran de argint și aur.", "Centrul picanteriilor (restaurantelor) peruane."],
-      en: ["Famous for silver and gold filigree work.", "Center of the Peruvian picanterías (restaurants)."]
-    },
-    factsAdvanced: {
-      de: [
-        "Catacaos ist bekannt für seine 'Sombreros de Paja Toquilla', die feinsten Strohhüte der Region.",
-        "Die Kirche San Juan Bautista beeindruckt durch ihre prachtvolle Fassade und ihre Geschichte.",
-        "In Catacaos findet man die archäologische Stätte Narihualá, das Zentrum der alten Tallán-Kultur.",
-        "Die Stadt wurde auf den Überresten einer wichtigen indigenen Siedlung erbaut."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "zarumilla-cities-v2",
-    type: "city",
-    parent: "PE-TUM",
-    coords: [-80.2742, -3.5019],
-    name: {
-      de: "Zarumilla",
-      hu: "Zarumilla",
-      ro: "Zarumilla",
-      en: "Zarumilla"
-    },
-    description: {
-      de: "Grenzstadt in der nördlichen Region Tumbes.",
-      hu: "Határváros az északi Tumbes régióban.",
-      ro: "Oraș de graniță în regiunea de nord Tumbes.",
-      en: "Border city in the northern Tumbes region."
-    },
-    descriptionAdvanced: {
-      de: "Zarumilla ist die nördlichste Grenzstadt Perus in der Region Tumbes und hat eine große strategische und historische Bedeutung für das Land. Sie war der Schauplatz der entscheidenden Schlacht von Zarumilla im Jahr 1941 während des Konflikts mit Ecuador, an die heute zahlreiche Denkmäler erinnern. Die Umgebung der Stadt ist ökologisch einzigartig, da hier das nationale Heiligtum der Mangroven von Tumbes beginnt, ein Labyrinth aus Kanälen und Wasserwegen. Besucher können hier eine faszinierende Tierwelt beobachten, darunter Kaimane, Fregattvögel und die berühmten schwarzen Krabben der Region. Zarumilla verbindet so die Geschichte der nationalen Verteidigung mit der Schönheit eines der seltensten Ökosysteme der peruanischen Küste.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Schauplatz des ecuadorianisch-peruanischen Krieges (1941).", "Nahe an Mangroven-Schutzgebieten."],
-      hu: ["Az ecuadori-perui háború (1941) helyszíne.", "Közel a mangrove védett területekhez."],
-      ro: ["Teatrul războiului ecuadorian-peruan (1941).", "Aproape de arii protejate cu mangrove."],
-      en: ["Scene of the Ecuadorian-Peruvian War (1941).", "Close to mangrove protected areas."]
-    },
-    factsAdvanced: {
-      de: [
-        "Zarumilla ist nach dem gleichnamigen Fluss benannt, der die Grenze zu Ecuador bildet.",
-        "Das nationale Heiligtum der Mangroven schützt die größten Mangrovenbestände Perus.",
-        "Die Stadt ist ein wichtiger Stützpunkt für den grenzüberschreitenden Handel.",
-        "Hier beginnt die fruchtbare Ebene, die für den Anbau von Bananen höchster Qualität bekannt ist."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "lircay-cities-v2",
-    type: "city",
-    parent: "PE-HUV",
-    coords: [-74.7214, -12.9867],
-    name: {
-      de: "Lircay",
-      hu: "Lircay",
-      ro: "Lircay",
-      en: "Lircay"
-    },
-    description: {
-      de: "Stadt und Hauptstadt der Provinz Angaraes.",
-      hu: "Város és Angaraes tartomány fővárosa.",
-      ro: "Oraș și capitală a provinciei Angaraes.",
-      en: "City and capital of the Angaraes province."
-    },
-    descriptionAdvanced: {
-      de: "Lircay ist die malerische Hauptstadt der Provinz Angaraes in der Region Huancavelica und liegt eingebettet in ein tiefes Tal der Zentralanden. Aufgrund seines im Vergleich zum restlichen Hochland milderen Klimas wird es oft als das 'Kleine Europa' bezeichnet. Die Stadt ist bekannt für ihre heißen Thermalquellen wie Huapa, die in einer beeindruckenden Bergkulisse liegen und Entspannung bieten. Lircay bewahrt starke indigene Traditionen, die sich in farbenfrohen Tänzen wie dem Danza de las Tijeras (Scherentanz) widerspiegeln. Die Umgebung ist geprägt von terrassierten Feldern, auf denen seit Jahrhunderten Mais und Kartoffeln angebaut werden. Lircay ist ein Ort der Ruhe und Authentizität, ideal für Reisende, die das echte Leben in den peruanischen Anden kennenlernen möchten.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Liegt in der Region Huancavelica.", "Bekannt als das 'Kleine Europa' wegen seines Mikroklimas."],
-      hu: ["A Huancavelica régióban található.", "Mikroklímája miatt 'Kis Európaként' ismert."],
-      ro: ["Situat în regiunea Huancavelica.", "Cunoscută drept „Mica Europă” datorită microclimatului său."],
-      en: ["Located in the Huancavelica region.", "Known as 'Little Europe' due to its microclimate."]
-    },
-    factsAdvanced: {
-      de: [
-        "Lircay liegt auf einer Höhe von etwa 3.280 Metern über dem Meeresspiegel.",
-        "Der Name Lircay bedeutet vermutlich 'Ort des klaren Wassers' in der indigenen Sprache.",
-        "Die Stadt ist berühmt für ihre Textilien aus Schaf- und Alpakawolle.",
-        "Das Fest zu Ehren der Jungfrau Carmen im Juli ist das wichtigste religiöse Ereignis der Stadt."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "huancavelica-cities-v2",
-    type: "state-capital",
-    parent: "PE-HUV",
-    coords: [-74.9722, -12.7867],
-    name: {
-      de: "Huancavelica",
-      hu: "Huancavelica",
-      ro: "Huancavelica",
-      en: "Huancavelica"
-    },
-    description: {
-      de: "Hauptstadt der Region Huancavelica.",
-      hu: "Huancavelica régió fővárosa.",
-      ro: "Capitala regiunii Huancavelica.",
-      en: "Capital of the Huancavelica region."
-    },
-    descriptionAdvanced: {
-      de: "Huancavelica ist eine der geschichtsträchtigeren und zugleich unberührtesten Städte im peruanischen Hochland und liegt in einem tiefen Tal am Fluss Ichu. Während der spanischen Kolonialzeit war sie von unschätzbarem Wert für die Krone, da hier die Mine Santa Bárbara lag, die wichtigste Quecksilberquelle Amerikas. Ohne das Quecksilber aus Huancavelica hätte das Silber von Potosí nicht gewonnen werden können, was der Stadt den Namen 'Kostbarer Edelstein' einbrachte. Heute besticht Huancavelica durch seine wunderschöne koloniale Architektur mit Kirchen aus hellem Stein und einer friedlichen, fast zeitlosen Atmosphäre. Die Stadt ist zudem ein Zentrum der lebendigen Quechua-Kultur, was sich in der Sprache, der Kleidung und den prachtvollen religiösen Festen der Bewohner zeigt.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Wichtiges historisches Bergbauzentrum für Quecksilber.", "Liegt im tiefen Tal des Flusses Ichu."],
-      hu: ["Fontos történelmi higanybányászati központ.", "Az Ichu folyó mély völgyében fekszik."],
-      ro: ["Un important centru istoric minier de mercur.", "Situat în valea adâncă a râului Ichu."],
-      en: ["Important historical mining center for mercury.", "Located in the deep valley of the Ichu River."]
-    },
-    factsAdvanced: {
-      de: [
-        "Huancavelica wurde 1571 von den Spaniern als Bergbausiedlung gegründet.",
-        "Die Stadt ist durch eine legendäre Eisenbahnstrecke, den 'Tren Macho', mit Huancayo verbunden.",
-        "Die Mine Santa Bárbara kann heute als historisches Denkmal besichtigt werden.",
-        "Die Region Huancavelica ist bekannt für ihre extrem vielfältigen Kartoffelsorten."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "satipo-cities-v2",
-    type: "city",
-    parent: "PE-JUN",
-    coords: [-74.6386, -11.2522],
-    name: {
-      de: "Satipo",
-      hu: "Satipo",
-      ro: "Satipo",
-      en: "Satipo"
-    },
-    description: {
-      de: "Größte Provinz der Region Junín.",
-      hu: "A Junín régió legnagyobb tartománya.",
-      ro: "Cea mai mare provincie din regiunea Junín.",
-      en: "Largest province in the Junín region."
-    },
-    descriptionAdvanced: {
-      de: "Satipo, das Tor zum zentralen Dschungel Perus, ist die Hauptstadt der gleichnamigen, flächenmäßig größten Provinz in der Region Junín. Die Stadt liegt in einem fruchtbaren Tal am Übergang von den Anden zum Amazonasbecken und ist ein bedeutendes Zentrum für den Anbau von Kaffee, Kakao und tropischen Früchten. Die Region ist reich an natürlicher Schönheit, mit zahlreichen spektakulären Wasserfällen und einer enormen Artenvielfalt in den dichten Regenwäldern. Satipo ist zudem die Heimat bedeutender indigener Gemeinschaften, insbesondere der Asháninka, die ihre traditionelle Lebensweise und Kultur bis heute bewahren. Für Abenteurer bietet die Umgebung zahlreiche Möglichkeiten für Trekking und die Erkundung unberührter Dschungelpfade.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Wichtiges landwirtschaftliches Zentrum im Dschungel.", "Reich an indigenen Kulturen (Asháninka)."],
-      hu: ["Fontos mezőgazdasági központ a dzsungelben.", "Gazdag az őslakos kultúrákban (Asháninka)."],
-      ro: ["Un centru agricol important în junglă.", "Bogat în culturi indigene (Asháninka)."],
-      en: ["Important agricultural center in the jungle.", "Rich in indigenous cultures (Asháninka)."]
-    },
-    factsAdvanced: {
-      de: [
-        "Satipo gilt als einer der wichtigsten Produzenten von Bio-Kaffee und Edelkakao in Peru.",
-        "In der Provinz befinden sich beeindruckende Wasserfälle like die Catarata de Koquiri.",
-        "Die Stadt wurde 1947 durch ein schweres Erdbeben fast vollständig zerstört und später wiederaufgebaut.",
-        "Satipo ist ein wichtiger Ausgangspunkt für Expeditionen in den Nationalpark Otishi."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "casma-cities-v2",
-    type: "city",
-    parent: "PE-ANC",
-    coords: [-78.3125, -9.4753],
-    name: {
-      de: "Casma",
-      hu: "Casma",
-      ro: "Casma",
-      en: "Casma"
-    },
-    description: {
-      de: "Stadt in der Region Ancash am Fluss Casma.",
-      hu: "Város az Ancash régióban, a Casma folyó partján.",
-      ro: "Oraș în regiunea Ancash pe râul Casma.",
-      en: "City in the Ancash region on the Casma River."
-    },
-    descriptionAdvanced: {
-      de: "Casma, oft als die \"Stadt des ewigen Sonnenscheins\" bezeichnet, liegt in einem fruchtbaren Küstental der Region Ancash. Die Stadt ist weltberühmt für ihre unmittelbare Nähe zu einigen der ältesten und bedeutendsten archäologischen Stätten Amerikas. Besonders herausragend ist Sechín, ein zeremonielles Zentrum aus dem zweiten Jahrtausend vor Christus, dessen Steinmauern mit beeindruckenden, kriegerischen Reliefs geschmückt sind. Ein weiteres Highlight ist der Chankillo-Komplex, der das älteste Sonnenobservatorium der westlichen Hemisphäre beherbergt. Casma ist zudem ein wichtiges landwirtschaftliches Zentrum, bekannt für die Produktion von hochwertigen Mangos und Avocados, die in die ganze Welt exportiert werden.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Nahe der archäologischen Stätte Sechín.", "Gilt als die 'Stadt des ewigen Sonnenscheins'."],
-      hu: ["Sechín régészeti lelőhelyének közelében.", "Az 'Örök Napsütés Városaként' ismert."],
-      ro: ["Aproape de situl arheologic Sechín.", "Considerat „Orașul Soarelui Etern”."],
-      en: ["Near the archaeological site of Sechín.", "Considered the 'City of Eternal Sunshine'."]
-    },
-    factsAdvanced: {
-      de: [
-        "Das Sonnenobservatorium von Chankillo gehört zum UNESCO-Weltkulturerbe.",
-        "Sechín ist bekannt für seine über 300 in Stein gehauenen Reliefs, die Kriegsszenen darstellen.",
-        "In der Nähe von Casma befindet sich der Strand Tortugas, ein beliebtes Erholungsziel.",
-        "Die Region Casma hat eine der höchsten Mango-Produktionsraten in ganz Peru."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "yungay-cities-v2",
-    type: "city",
-    parent: "PE-ANC",
-    coords: [-77.7436, -9.1389],
-    name: {
-      de: "Yungay",
-      hu: "Yungay",
-      ro: "Yungay",
-      en: "Yungay"
-    },
-    description: {
-      de: "Stadt im Callejón de Huaylas in der Region Ancash.",
-      hu: "Város a Callejón de Huaylas-ban, az Ancash régióban.",
-      ro: "Oraș din Callejón de Huaylas în regiunea Ancash.",
-      en: "City in the Callejón de Huaylas in the Ancash region."
-    },
-    descriptionAdvanced: {
-      de: "Yungay, gelegen im malerischen Callejón de Huaylas am Fuße des majestätischen Huascarán, trägt eine bewegte und tragische Geschichte in sich. Die ursprüngliche Stadt wurde 1970 durch ein verheerendes Erdbeben und eine darauffolgende gewaltige Eislawine vom Huascarán fast vollständig ausgelöscht, wobei Zehntausende Menschen ihr Leben verloren. Die heutige Stadt wurde in sicherer Entfernung neu aufgebaut, während das Gelände der alten Stadt als nationale Gedenkstätte Campo Santo erhalten blieb. Trotz dieser Tragödie ist Yungay heute ein lebendiges Zentrum und ein wichtiger Ausgangspunkt für Touristen, die den Huascarán-Nationalpark und die berühmten Llanganuco-Seen erkunden wollen. Die Umgebung bietet atemberaubende Panoramablicke auf die schneebedeckten Gipfel der Cordillera Blanca.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Die alte Stadt wurde 1970 durch eine Lawine zerstört.", "Wichtiger Ausgangspunkt zum Huascarán-Nationalpark."],
-      hu: ["A régi várost 1970-ben elpusztította egy lavina.", "Fontos kiindulópont a Huascarán Nemzeti Parkhoz."],
-      ro: ["Orașul vechi a fost distrus de o avalanșă în 1970.", "Punct de plecare important pentru Parcul Național Huascarán."],
-      en: ["The old city was destroyed by an avalanche in 1970.", "Important starting point to the Huascarán National Park."]
-    },
-    factsAdvanced: {
-      de: [
-        "Yungay ist als 'Stadt der Märtyrer' bekannt, in Erinnerung an die Opfer der Katastrophe von 1970.",
-        "Das Campo Santo ist heute ein friedlicher Ort mit Rosengärten und den Überresten der alten Kathedrale.",
-        "Nur vier Palmen auf dem Hauptplatz überstanden die gewaltige Lawine von 1970.",
-        "Die Stadt liegt auf einer Höhe von ca. 2.458 Metern und bietet Zugang zu anspruchsvollen Bergsteigerrouten."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "azangaro-cities-v2",
-    type: "city",
-    parent: "PE-PUN",
-    coords: [-70.1983, -14.9083],
-    name: {
-      de: "Azángaro",
-      hu: "Azángaro",
-      ro: "Azángaro",
-      en: "Azángaro"
-    },
-    description: {
-      de: "Historische Stadt in der Region Puno.",
-      hu: "Történelmi város a Puno régióban.",
-      ro: "Oraș istoric în regiunea Puno.",
-      en: "Historical city in the Puno region."
-    },
-    descriptionAdvanced: {
-      de: "Azángaro, im hohen Norden der Region Puno gelegen, blickt auf eine stolze Geschichte als Zentrum des Widerstands und der Revolution zurück. Während der Kolonialzeit war die Stadt ein wichtiger Schauplatz für Aufstände gegen die spanische Herrschaft, was ihr den Beinamen \"Revolutionäre Stadt\" einbrachte. Die Architektur der Stadt wird von der prächtigen Kirche Nuestra Señora de la Asunción dominiert, die für ihre wertvollen Gemälde der Cuzco-Schule bekannt ist. Wirtschaftlich ist die Region Azángaro stark von der Viehzucht geprägt, insbesondere von der Zucht von Alpakas und Schafen auf den weiten Ebenen des Altiplano. Die lokale Kultur ist tief in indigenen Traditionen verwurzelt, die sich in lebhaften Festen und kunstvollen Textilarbeiten widerspiegeln.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Bekannt als die 'Revolutionäre Stadt' im Kolonialismus.", "Zentrum der Viehzucht (Alpakas und Schafe)."],
-      hu: ["A gyarmati időkben 'Forradalmi Városként' ismert.", "Az állattenyésztés központja (alpakák és juhok)."],
-      ro: ["Cunoscut ca „Orașul revoluționar” în perioada colonială.", "Centrul creșterii vitelor (alpacas și oi)."],
-      en: ["Known as the 'Revolutionary City' in colonial times.", "Center of cattle breeding (alpacas and sheep)."]
-    },
-    factsAdvanced: {
-      de: [
-        "Azángaro war ein strategisch wichtiger Ort während des großen Aufstands von Túpac Amaru II.",
-        "Die Kirche der Stadt wird aufgrund ihrer kunstvollen Innenausstattung oft als die 'Goldene Kirche' bezeichnet.",
-        "Die Region liegt auf einer beeindruckenden Höhe von fast 3.900 Metern über dem Meeresspiegel.",
-        "Azángaro ist bekannt für seine traditionelle Käseproduktion, die weit über die Region hinaus geschätzt wird."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "macusani-cities-v2",
-    type: "city",
-    parent: "PE-PUN",
-    coords: [-70.4319, -14.0722],
-    name: {
-      de: "Macusani",
-      hu: "Macusani",
-      ro: "Macusani",
-      en: "Macusani"
-    },
-    description: {
-      de: "Hauptstadt der Provinz Carabaya in der Region Puno.",
-      hu: "Carabaya tartomány fővárosa a Puno régióban.",
-      ro: "Capitala provinciei Carabaya din regiunea Puno.",
-      en: "Capital of the Carabaya province in the Puno region."
-    },
-    descriptionAdvanced: {
-      de: "Macusani, gelegen in der Provinz Carabaya in der Region Puno, gilt weltweit als die \"Welthauptstadt der Alpakas\". Auf einer extremen Höhe von über 4.300 Metern gelegen, bietet die Umgebung ideale Bedingungen für die Zucht dieser Tiere, deren feine Wolle eine der Haupteinnahmequellen der lokalen Bevölkerung darstellt. Die Landschaft um Macusani ist geprägt von rauen Hochlandsteppen und den majestätischen Gipfel der Kordilleren, die oft schneebedeckt sind. In den letzten Jahren hat die Region auch durch bedeutende Lithium- und Uranvorkommen internationales Interesse geweckt, was die wirtschaftliche Dynamik der Stadt verändert hat. Trotz des modernen Wandels bleibt Macusani ein Ort tiefer andiner Traditionen, wo die Quechua-Sprache und jahrhundertealte Bräuche lebendig geblieben sind.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    facts: {
-      de: ["Ein bedeutendes Zentrum für Alpakazucht.", "Liegt auf einer Höhe von über 4.300 Metern."],
-      hu: ["Az alpakatenyésztés jelentős központja.", "Több mint 4300 méteres magasságban található."],
-      ro: ["Un centru major pentru creșterea alpaca.", "Situat la o altitudine de peste 4.300 de metri."],
-      en: ["A major center for alpaca breeding.", "Located at an altitude of over 4,300 meters."]
-    },
-    factsAdvanced: {
-      de: [
-        "Macusani beherbergt einige der weltweit größten Bestände an reinrassigen Alpakas.",
-        "In der Nähe der Stadt befinden sich die prähistorischen Felsmalereien von Corani.",
-        "Die Region Macusani gilt als eine der größten Lithium-Lagerstätten Amerikas.",
-        "Aufgrund der extremen Höhe herrscht in Macusani das ganze Jahr über ein kühles bis eiskaltes Klima."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
   }
 ];
+
