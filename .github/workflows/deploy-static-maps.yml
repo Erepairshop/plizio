@@ -1,0 +1,83 @@
+name: Deploy Static Maps (rsync only)
+
+# Push public/<country>-map/ HTML files to the active VPS release with no build.
+# Use when only static map HTML changed (build-static-maps.mts output, no Next code).
+# Takes ~30 seconds total.
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-static-maps
+  cancel-in-progress: false
+
+env:
+  RELEASE_BASE: /home/erik/plizio
+
+jobs:
+  deploy:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Locate active VPS release
+        id: release
+        run: |
+          if [ ! -L "$RELEASE_BASE/current" ]; then
+            echo "::error::No active release symlink at $RELEASE_BASE/current"
+            exit 1
+          fi
+          ACTIVE=$(readlink -f "$RELEASE_BASE/current")
+          echo "active=$ACTIVE" >> $GITHUB_OUTPUT
+          echo "[deploy] active release: $ACTIVE"
+
+      - name: Copy static map HTMLs into active release
+        run: |
+          ACTIVE='${{ steps.release.outputs.active }}'
+          COPIED=0
+          # All <country>-map/ dirs at the top of public/
+          for dir in public/*-map; do
+            [ -d "$dir" ] || continue
+            DIRNAME=$(basename "$dir")
+            mkdir -p "$ACTIVE/$DIRNAME"
+            # Copy all index.html files, preserving subdir structure
+            cd "$dir" && find . -name 'index.html' -type f | while read -r f; do
+              REL="${f#./}"
+              DEST="$ACTIVE/$DIRNAME/$REL"
+              mkdir -p "$(dirname "$DEST")"
+              cp "$f" "$DEST"
+            done
+            cd - >/dev/null
+            COUNT=$(find "$dir" -name 'index.html' -type f | wc -l)
+            COPIED=$((COPIED + COUNT))
+            echo "  $DIRNAME: $COUNT files"
+          done
+          echo "## Deploy static-maps summary" >> $GITHUB_STEP_SUMMARY
+          echo "- HTML files copied: $COPIED" >> $GITHUB_STEP_SUMMARY
+          echo "- Active release: $ACTIVE" >> $GITHUB_STEP_SUMMARY
+
+      - name: CF purge (if secrets set)
+        run: |
+          if [ -n "${{ secrets.CF_API_TOKEN }}" ] && [ -n "${{ secrets.CF_ZONE_ID }}" ]; then
+            # Purge ALL <country>-map/* URLs
+            URLS_JSON=$(for dir in public/*-map; do
+              [ -d "$dir" ] || continue
+              DIRNAME=$(basename "$dir")
+              for lang in '' de hu ro en; do
+                if [ -z "$lang" ]; then
+                  echo "https://plizio.com/$DIRNAME/"
+                else
+                  echo "https://plizio.com/$DIRNAME/$lang/"
+                fi
+              done
+            done | jq -R . | jq -s '{files: .}')
+            echo "$URLS_JSON" | jq -c '.files | _nwise(30)' | while IFS= read -r chunk; do
+              curl -s -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
+                -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+                -H "Content-Type: application/json" \
+                --data "{\"files\": $chunk}" | jq -r '.success'
+            done
+          else
+            echo "[deploy] CF_API_TOKEN not set, skipping purge"
+          fi
