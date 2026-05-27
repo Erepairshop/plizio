@@ -65,6 +65,7 @@ const TRANSLATIONS = {
       "BRAIN": "LEARN",
       "LOGIC": "LOGIC",
       "SPORT": "SPORT",
+      "MAPS": "MAPS",
     },
     games: {
       quickpick: "Quick Pick",
@@ -123,6 +124,12 @@ const TRANSLATIONS = {
       airhockey: "Air Hockey",
       tennis: "Tennis",
       squash: "Squash",
+      "europe-map": "Europe",
+      "northamerica-map": "North America",
+      "southamerica-map": "South America",
+      "africa-map": "Africa",
+      "asia-map": "Asia",
+      "oceania-map": "Oceania",
     },
     ui: {
       comingSoon: "COMING SOON",
@@ -135,6 +142,7 @@ const TRANSLATIONS = {
       "BRAIN": "TANULÁS",
       "LOGIC": "LOGIKA",
       "SPORT": "SPORT",
+      "MAPS": "TÉRKÉPEK",
     },
     games: {
       quickpick: "Gyors Választás",
@@ -193,6 +201,12 @@ const TRANSLATIONS = {
       airhockey: "Léghoki",
       tennis: "Tenisz",
       squash: "Squash",
+      "europe-map": "Európa",
+      "northamerica-map": "Észak-Amerika",
+      "southamerica-map": "Dél-Amerika",
+      "africa-map": "Afrika",
+      "asia-map": "Ázsia",
+      "oceania-map": "Óceánia",
     },
     ui: {
       comingSoon: "HAMAROSAN",
@@ -205,6 +219,7 @@ const TRANSLATIONS = {
       "BRAIN": "LERNEN",
       "LOGIC": "LOGIK",
       "SPORT": "SPORT",
+      "MAPS": "KARTEN",
     },
     games: {
       quickpick: "Schnelle Wahl",
@@ -263,6 +278,12 @@ const TRANSLATIONS = {
       airhockey: "Air Hockey",
       tennis: "Tennis",
       squash: "Squash",
+      "europe-map": "Europa",
+      "northamerica-map": "Nordamerika",
+      "southamerica-map": "Südamerika",
+      "africa-map": "Afrika",
+      "asia-map": "Asien",
+      "oceania-map": "Ozeanien",
     },
     ui: {
       comingSoon: "BALD VERFÜGBAR",
@@ -275,6 +296,7 @@ const TRANSLATIONS = {
       "BRAIN": "ÎNVĂȚARE",
       "LOGIC": "LOGICĂ",
       "SPORT": "SPORT",
+      "MAPS": "HĂRȚI",
     },
     games: {
       quickpick: "Alegere Rapidă",
@@ -333,6 +355,12 @@ const TRANSLATIONS = {
       airhockey: "Air Hockey",
       tennis: "Tenis",
       squash: "Squash",
+      "europe-map": "Europa",
+      "northamerica-map": "America de Nord",
+      "southamerica-map": "America de Sud",
+      "africa-map": "Africa",
+      "asia-map": "Asia",
+      "oceania-map": "Oceania",
     },
     ui: {
       comingSoon: "CÂT CURÂND",
@@ -779,10 +807,30 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
       },
     ],
   },
+  {
+    id: "maps",
+    icon: MapIcon,
+    color: "#4FC3F7",
+    games: [
+      { id: "europe-map", icon: MapIcon, nameKey: "europe-map", color: "#60A5FA",
+        gradient: "bg-gradient-to-br from-sky-500/20 to-blue-500/20" },
+      { id: "northamerica-map", icon: MapIcon, nameKey: "northamerica-map", color: "#34D399",
+        gradient: "bg-gradient-to-br from-emerald-500/20 to-green-500/20" },
+      { id: "southamerica-map", icon: MapIcon, nameKey: "southamerica-map", color: "#FBBF24",
+        gradient: "bg-gradient-to-br from-amber-500/20 to-yellow-500/20" },
+      { id: "africa-map", icon: MapIcon, nameKey: "africa-map", color: "#F87171",
+        gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20" },
+      { id: "asia-map", icon: MapIcon, nameKey: "asia-map", color: "#C084FC",
+        gradient: "bg-gradient-to-br from-purple-500/20 to-violet-500/20" },
+      { id: "oceania-map", icon: MapIcon, nameKey: "oceania-map", color: "#22D3EE",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-teal-500/20" },
+    ],
+  },
 ];
 
 /* Planet positions in the 500x900 viewBox — optimized for mobile */
 const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
+  maps:       { cx: 250, cy: 130, color: "#4FC3F7", glow: "rgba(79,195,247,0.45)" },
   quizreflex: { cx: 155, cy: 250, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
   adventure:  { cx: 365, cy: 320, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
   brain:      { cx: 145, cy: 450, color: "#4ECDC4", glow: "rgba(78,205,196,0.4)" },
@@ -818,12 +866,13 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   const currentLang = validLangs.includes(lang as any) ? (lang as typeof validLangs[number]) : 'en';
   const t = TRANSLATIONS[lang as keyof typeof TRANSLATIONS] || TRANSLATIONS.en;
 
-  const categoryLabels: Record<"quizreflex" | "adventure" | "brain" | "logic" | "sport", keyof typeof t.categories> = {
+  const categoryLabels: Record<"quizreflex" | "adventure" | "brain" | "logic" | "sport" | "maps", keyof typeof t.categories> = {
     quizreflex: "QUIZ & REFLEX",
     adventure: "ADVENTURE",
     brain: "BRAIN",
     logic: "LOGIC",
     sport: "SPORT",
+    maps: "MAPS",
   };
 
   return CATEGORIES_BASE.map((cat) => {

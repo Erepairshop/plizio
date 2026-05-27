@@ -145,6 +145,33 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
       </g>
     ),
   },
+  /* Maps — Earth-like planet with stylized continents on a blue ocean */
+  maps: {
+    ring: "#4FC3F7",
+    details: (cx, cy, r, _color) => (
+      <g>
+        {/* Africa-ish (centre-left) */}
+        <path
+          d={`M ${cx - 6},${cy - 10} Q ${cx - 12},${cy - 4} ${cx - 8},${cy + 6} Q ${cx - 4},${cy + 12} ${cx + 2},${cy + 6} Q ${cx + 4},${cy - 2} ${cx},${cy - 8} Z`}
+          fill="#34D399" opacity={0.85}
+        />
+        {/* Eurasia-ish (top-right) */}
+        <path
+          d={`M ${cx + 2},${cy - 14} Q ${cx + 10},${cy - 12} ${cx + 14},${cy - 6} Q ${cx + 12},${cy - 2} ${cx + 6},${cy - 4} Q ${cx + 2},${cy - 8} ${cx + 2},${cy - 14} Z`}
+          fill="#34D399" opacity={0.8}
+        />
+        {/* Americas-ish (left blob) */}
+        <path
+          d={`M ${cx - 14},${cy + 2} Q ${cx - 16},${cy + 8} ${cx - 12},${cy + 12} Q ${cx - 10},${cy + 10} ${cx - 11},${cy + 4} Z`}
+          fill="#34D399" opacity={0.7}
+        />
+        {/* Australia-ish (bottom-right) */}
+        <ellipse cx={cx + 10} cy={cy + 10} rx={4} ry={2.5} fill="#34D399" opacity={0.7} />
+        {/* Atmosphere highlight */}
+        <ellipse cx={cx - 4} cy={cy - 8} rx={r * 0.5} ry={r * 0.15} fill="white" opacity={0.15} transform={`rotate(-20, ${cx}, ${cy})`} />
+      </g>
+    ),
+  },
 };
 
 /* Fallback for unknown categories */
