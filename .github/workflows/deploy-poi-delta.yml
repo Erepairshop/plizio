@@ -70,6 +70,13 @@ jobs:
           echo "active=$ACTIVE" >> $GITHUB_OUTPUT
           echo "[delta] active release: $ACTIVE"
 
+      - name: Prepare V2 data chunks (required by generate-poi-html)
+        run: |
+          # generate-poi-html.mts imports _all_v2_pois_*.json chunks that
+          # prepare_v2_data.mjs writes from poiExtra*V2.ts. Re-run on each delta
+          # so the latest source data is reflected.
+          node scripts/prepare_v2_data.mjs 2>&1 | tail -10
+
       - name: Generate targeted POI HTMLs into a staging out/
         run: |
           mkdir -p out_delta
