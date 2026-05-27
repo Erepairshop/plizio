@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=3">
+<title>Vatikán térkép — Plizio</title>
+<meta name="description" content="Koppints egy helyre a részletekért">
+<link rel="canonical" href="https://plizio.com/vatican-map/">
+<link rel="alternate" hreflang="de" href="https://plizio.com/vatican-map/de/">
+<link rel="alternate" hreflang="hu" href="https://plizio.com/vatican-map/">
+<link rel="alternate" hreflang="ro" href="https://plizio.com/vatican-map/ro/">
+<link rel="alternate" hreflang="en" href="https://plizio.com/vatican-map/en/">
+<link rel="alternate" hreflang="x-default" href="https://plizio.com/vatican-map/">
+<meta property="og:title" content="Vatikán térkép — Plizio">
+<meta property="og:description" content="Koppints egy helyre a részletekért">
+<meta property="og:url" content="https://plizio.com/vatican-map/">
+<meta property="og:type" content="website">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;height:100%;background:#060614;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
+header{display:flex;align-items:center;gap:.6rem;padding:.65rem .9rem;background:#0a0a1f;border-bottom:1px solid #ffffff14;position:relative;z-index:5}
+header a.back{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;background:#ffffff14;color:#fff;text-decoration:none;font-weight:700}
+header a.back:active{background:#ffffff28}
+header h1{margin:0;font-size:1rem;font-weight:800;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+header .langs{display:flex;gap:.25rem}
+.lang{font-size:.7rem;font-weight:700;padding:.25rem .45rem;border-radius:6px;color:#ffffffb0;text-decoration:none;background:#ffffff10}
+.lang.on{background:#3b82f6;color:#fff}
+#stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
+#svg{width:100%;height:100%;display:block;cursor:grab}
+#svg.drag{cursor:grabbing}
+.region{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s}
+.region:hover{fill:#2d3a78}
+.label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
+.poi{cursor:pointer}
+.poi circle{fill:#9ca3af;stroke:#000;stroke-width:.5;transition:r .12s,opacity .12s}
+.poi.g-city circle{fill:#60a5fa}
+.poi.g-sight circle{fill:#fbbf24}
+.poi.g-nature circle{fill:#22c55e}
+.poi.g-history circle{fill:#c084fc}
+.poi.g-industry circle{fill:#fb923c}
+.poi.g-other circle{fill:#9ca3af}
+.poi.dim{opacity:.18}
+.poi.match circle{stroke:#fff;stroke-width:1.4}
+.poi:hover circle,.poi.active circle{r:7;fill:#fff;opacity:1}
+.controls{position:absolute;top:53px;left:0;right:0;z-index:4;padding:.4rem .55rem;display:flex;gap:.3rem;align-items:center;background:linear-gradient(180deg,#060614 0%,#06061400 100%)}
+.chips{display:flex;gap:.25rem;flex-shrink:0}
+.chip{flex-shrink:0;width:30px;height:30px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;user-select:none;padding:0;opacity:.45;transition:opacity .12s,background .12s,border-color .12s}
+.chip.on{opacity:1}
+.chip.on.g-city{background:#60a5fa22;border-color:#60a5fa70}
+.chip.on.g-sight{background:#fbbf2422;border-color:#fbbf2470}
+.chip.on.g-nature{background:#22c55e22;border-color:#22c55e70}
+.chip.on.g-history{background:#c084fc22;border-color:#c084fc70}
+.chip.on.g-industry{background:#fb923c22;border-color:#fb923c70}
+.chip.on.g-other{background:#9ca3af22;border-color:#9ca3af70}
+.chip svg{display:block}
+.search{flex:1;min-width:0;display:flex;align-items:center;gap:.3rem;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;padding:.15rem .5rem .15rem .6rem;height:30px}
+.search input{flex:1;border:none;outline:none;background:transparent;color:#fff;font-size:.82rem;padding:.25rem 0;min-width:0;font-family:inherit}
+.search input::placeholder{color:#ffffff70}
+.search-results{position:absolute;top:34px;left:0;right:0;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;max-height:280px;overflow-y:auto;display:none;z-index:10;box-shadow:0 4px 16px #00000060}
+.search.has-q .search-results.has-hits{display:block}
+.search-results a{display:flex;align-items:center;gap:.4rem;padding:.45rem .55rem;color:#fff;text-decoration:none;font-size:.8rem;border-bottom:1px solid #ffffff10;cursor:pointer}
+.search-results a:last-child{border-bottom:none}
+.search-results a:hover,.search-results a.active{background:#1a2055}
+.search-results .dot{width:8px;height:8px;border-radius:50%;flex:none}
+.search-results .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.search-results .gr{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em}
+.search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
+.search.has-q button{display:block}
+.poi.hidden{display:none !important}
+.poi.reveal{display:initial}
+.cluster.hidden{display:none !important}
+.cluster{cursor:pointer}
+.cluster circle{transition:r .12s}
+.cluster:hover circle{r:14}
+/* At default zoom: clusters visible, in-cluster POIs hidden */
+.poi.in-cluster{display:none}
+/* At higher zoom: clusters hide, in-cluster POIs become visible */
+#svg.expand .cluster{display:none}
+#svg.expand .poi.in-cluster{display:initial}
+.hint{position:absolute;top:102px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
+@keyframes fadeOut{to{opacity:0}}
+.popup{position:absolute;bottom:0;left:0;right:0;background:#0d1230;border-top:1px solid #ffffff20;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -10px 40px #00000080}
+.popup.open{transform:translateY(0)}
+.popup .x{position:absolute;top:.5rem;right:.7rem;width:32px;height:32px;border-radius:50%;background:#ffffff14;border:none;color:#fff;font-size:1.1rem;cursor:pointer;z-index:2}
+.popup h2{margin:0 0 .3rem;font-size:1.1rem;font-weight:800}
+.popup .type{font-size:.7rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.5rem}
+.popup p{margin:0 0 .8rem;font-size:.85rem;line-height:1.45;color:#ffffffc8}
+.popup a.more{display:inline-block;background:#3b82f6;color:#fff;text-decoration:none;font-weight:700;padding:.55rem 1rem;border-radius:8px;font-size:.85rem}
+.popup .single{display:none}.popup .list{display:none}
+.popup.mode-single .single{display:block}
+.popup.mode-list .list{display:block;max-height:60vh;overflow-y:auto;margin-right:-.5rem;padding-right:.5rem}
+.popup .list .lh{font-size:.75rem;color:#ffffff80;margin:0 0 .5rem;text-transform:uppercase;letter-spacing:.05em}
+.popup .list a{display:flex;align-items:center;gap:.55rem;padding:.55rem .55rem;border-radius:8px;text-decoration:none;color:#fff;font-size:.88rem;border-bottom:1px solid #ffffff10}
+.popup .list a:active{background:#ffffff14}
+.popup .list a .dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.popup .list a .n{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.popup .list a .g{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em;flex-shrink:0}
+.popup .list .nl{padding:.6rem;color:#ffffff70;font-size:.85rem;font-style:italic}
+.zoom{position:absolute;right:.7rem;bottom:.7rem;display:flex;flex-direction:column;gap:.35rem;z-index:4}
+.zoom button{width:38px;height:38px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;color:#fff;font-size:1.2rem;font-weight:800;cursor:pointer}
+.zoom button:active{background:#1a2240}
+</style>
+</head>
+<body>
+<header>
+<a class="back" href="/europe-map/" aria-label="Vissza">‹</a>
+<h1>Vatikán térkép</h1>
+<div class="langs"><a class="lang" href="./?lang=de">DE</a><span class="lang on">HU</span><a class="lang" href="./?lang=ro">RO</a><a class="lang" href="./?lang=en">EN</a></div>
+</header>
+<div class="controls">
+<div class="chips"><button class="chip on g-sight" data-g="sight" aria-label="Látnivalók" title="Látnivalók (4)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fbbf24" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1l2.09 4.74L15 6.4l-3.5 3.41.83 4.83L8 12.27 3.67 14.64 4.5 9.81 1 6.4l4.91-.66z"/></svg></button><button class="chip on g-nature" data-g="nature" aria-label="Természet" title="Természet (3)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#22c55e" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 14V9M8 9l-3 3M8 9l3 3M8 9V5l-3-2M8 5l3-2"/></svg></button><button class="chip on g-industry" data-g="industry" aria-label="Ipar" title="Ipar (1)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fb923c" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M2 13V6l4 2V6l4 2V6l4 2v5z"/></svg></button><button class="chip on g-other" data-g="other" aria-label="Egyéb" title="Egyéb (6)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#9ca3af" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="3"/></svg></button></div>
+<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="Keresés…" autocomplete="off"><button id="searchX" aria-label="clear">×</button><div class="search-results" id="searchRes"></div></div>
+</div>
+<div id="stage">
+  <svg id="svg" viewBox="0 0 1000 1183" preserveAspectRatio="xMidYMid meet" aria-label="Vatikán térkép">
+    <g id="gR"><path class="region" data-id="VA-001" d="M263.6,53.8L918.8,102.8L954.6,1129.2L336.6,1129.2L45.5,885.1L81.9,493.9L263.6,53.8Z"/></g>
+    <g id="gL"><text class="label" x="409.21" y="549.69">Vatican</text></g>
+    <g id="gP"><g class="poi g-sight" data-id="vatican-bunker-access-cities-v2" data-name="Bunkerbejárat" data-search="bunkerzugang|bunkerbejarat|acces buncar|bunker access" data-grp="sight" data-url="/hu/vatikan/va/bunkerbejarat/" transform="translate(379.9,160.1)"><circle r="3.5"/></g><g class="poi g-industry" data-id="vatican-secretariat-for-economy-economic-v2" data-name="Gazdasági Titkárság" data-search="sekretariat fur die wirtschaft|gazdasagi titkarsag|secretariatul pentru economie|secretariat for the economy" data-grp="industry" transform="translate(104.6,160.1)"><circle r="3.5"/></g><g class="poi g-other" data-id="vatican-gallery-of-the-candelabra-history-v2" data-name="Kandeláberek galériája" data-search="galerie der kandelaber|kandelaberek galeriaja|galeria candelabrelor|gallery of the candelabra" data-grp="other" data-url="/hu/vatikan/va/kandelaberek-galeriaja/" transform="translate(586.4,160.1)"><circle r="3.5"/></g><g class="poi g-other" data-id="vatican-gallery-of-tapestries-history-v2" data-name="Gobelinek galériája" data-search="galerie der wandteppiche|gobelinek galeriaja|galeria tapiteriilor|gallery of tapestries" data-grp="other" data-url="/hu/vatikan/va/gobelinek-galeriaja/" transform="translate(655.2,345.1)"><circle r="3.5"/></g><g class="poi g-sight" data-id="vatican-sala-rotonda-history-v2" data-name="Sala Rotonda" data-search="sala rotonda" data-grp="sight" data-url="/hu/vatikan/va/sala-rotonda/" transform="translate(930.5,715)"><circle r="3.5"/></g><g class="poi g-other" data-id="vatican-greek-cross-hall-history-v2" data-name="Görög kereszt terem" data-search="griechisches kreuz saal|gorog kereszt terem|sala in forma de cruce greaca|greek cross hall" data-grp="other" transform="translate(999.3,807.4)"><circle r="3.5"/></g><g class="poi g-other" data-id="vatican-hall-of-animals-history-v2" data-name="Állatok terme" data-search="saal der tiere|allatok terme|sala animalelor|hall of animals" data-grp="other" data-url="/hu/vatikan/va/allatok-terme/" transform="translate(792.8,437.5)"><circle r="3.5"/></g><g class="poi g-other" data-id="vatican-apartment-of-pius-v-history-v2" data-name="V. Piusz apartmanja" data-search="appartement von pius v.|v. piusz apartmanja|apartamentul lui pius al v-lea|apartment of pius v" data-grp="other" data-url="/hu/vatikan/va/v-piusz-apartmanja/" transform="translate(999.3,67.6)"><circle r="3.5"/></g><g class="poi g-other" data-id="vatican-tower-of-innocent-history-v2" data-name="III. Ince tornya" data-search="turm des innozenz iii.|iii. ince tornya|turnul lui inocentiu al iii-lea|tower of innocent iii" data-grp="other" transform="translate(930.5,899.9)"><circle r="3.5"/></g><g class="poi g-nature" data-id="vatican-fountain-of-the-sacrament-pond-nature-v2" data-name="Szentség-kút tava" data-search="teich des sakramentsbrunnens|szentseg-kut tava|iazul fantanii sacramentului|fountain of the sacrament pond" data-grp="nature" data-url="/hu/vatikan/va/szentseg-kut-tava/" transform="translate(104.6,1177.3)"><circle r="3.5"/></g><g class="poi g-sight" data-id="vatican-observatory-crest-relief-v2" data-name="Obszervatórium gerince" data-search="kamm des observatoriums|obszervatorium gerince|creasta observatorului|observatory crest" data-grp="sight" transform="translate(242.3,160.1)"><circle r="3.5"/></g><g class="poi g-nature" data-id="vatican-vatican-hill-eastern-face-relief-v2" data-name="Vatikán-domb keleti oldala" data-search="vatikanhugel osthang|vatikan-domb keleti oldala|versantul estic al dealului vatican|vatican hill eastern face" data-grp="nature" data-url="/hu/vatikan/va/vatikan-domb-keleti-oldala/" transform="translate(517.5,992.4)"><circle r="3.5"/></g><g class="poi g-nature" data-id="vatican-eastern-ridge-plateau-relief-v2" data-name="Keleti gerinc-fennsík" data-search="ostliches kammplateau|keleti gerinc-fennsik|platoul crestei estice|eastern ridge plateau" data-grp="nature" transform="translate(930.5,1177.3)"><circle r="3.5"/></g><g class="poi g-sight" data-id="vatican-casina-pio-iv-plateau-relief-v2" data-name="Casina Pio IV fennsík" data-search="casina-pio-iv-plateau|casina pio iv fennsik|platoul casina pio iv|casina pio iv plateau" data-grp="sight" transform="translate(586.4,899.9)"><circle r="3.5"/></g></g>
+    <g id="gC"></g>
+  </svg>
+  <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
+</div>
+<div class="hint">Koppints egy helyre a részletekért</div>
+<div class="popup" id="popup" role="dialog" aria-modal="false">
+  <button class="x" id="px" aria-label="close">×</button>
+  <div class="single">
+    <div class="type" id="ptype"></div>
+    <h2 id="pname"></h2>
+    <a class="more" id="pmore" href="#">Bővebben →</a>
+  </div>
+  <div class="list" id="plist"></div>
+</div>
+<script>
+const LANG="hu",W=1000,H=1183;
+const CLUSTERS=[];
+const svg=document.getElementById('svg'),stage=document.getElementById('stage');
+const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
+const EXPAND_SCALE=6;
+let s=1,tx=0,ty=0;
+function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE)}
+function clmp(v){return Math.max(.5,Math.min(8,v))}
+function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
+function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
+function zoomCenter(f){const r=svg.getBoundingClientRect();zoomAt(f,r.left+r.width/2,r.top+r.height/2)}
+let dr=false,dx=0,dy=0;
+svg.addEventListener('pointerdown',e=>{if(e.target.closest('.poi'))return;if(e.isPrimary===false)return;dr=true;dx=e.clientX;dy=e.clientY;svg.classList.add('drag');svg.setPointerCapture(e.pointerId)});
+svg.addEventListener('pointermove',e=>{if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()});
+svg.addEventListener('pointerup',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('pointercancel',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('wheel',e=>{e.preventDefault();zoomAt(e.deltaY<0?1.15:1/1.15,e.clientX,e.clientY)},{passive:false});
+document.getElementById('zin').onclick=()=>zoomCenter(1.3);
+document.getElementById('zout').onclick=()=>zoomCenter(1/1.3);
+let pD=0,pS=1;
+svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
+svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
+const pop=document.getElementById('popup');
+const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function clearMode(){pop.classList.remove('mode-single','mode-list')}
+function openPopup(el){document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));el.classList.add('active');const t=el.getAttribute('data-grp')||'';document.getElementById('ptype').textContent=t;document.getElementById('pname').textContent=el.getAttribute('data-name')||el.getAttribute('data-id');const u=el.getAttribute('data-url');const moreBtn=document.getElementById('pmore');if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}clearMode();pop.classList.add('mode-single','open')}
+function openClusterList(i){const all=CLUSTERS[i];if(!all)return;const list=all.filter(p=>activeGrps.has(p.grp));const el=document.getElementById('plist');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(p=>p.url?'<a href="'+p.url+'"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+'"></span><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></a>':'<div class="nl"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+';display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:.5rem"></span>'+escAttrJs(p.name)+'</div>').join('');clearMode();pop.classList.add('mode-list','open')}
+function escAttrJs(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
+if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openClusterList(+cl.getAttribute('data-i'))})}
+function closePopup(){pop.classList.remove('open');clearMode();document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}
+document.getElementById('px').onclick=closePopup;
+stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.cluster')&&!e.target.closest('.popup')){closePopup()}});
+// Chip toggle: hide POIs of disabled group
+const activeGrps=new Set(["sight","nature","industry","other"]);
+function applyGrpFilter(){
+  gP.querySelectorAll('.poi').forEach(p=>{const g=p.getAttribute('data-grp');p.classList.toggle('hidden',!activeGrps.has(g))});
+  // Cluster + reveal-id computation moved to applySearch() so chip + search
+  // combine consistently. Just re-trigger applySearch (it reads activeGrps).
+  if(typeof applySearch==='function')applySearch();
+}
+document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
+// Search: dim non-matching POIs + recompute cluster visibility (only count matches)
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap'),sRes=document.getElementById('searchRes');
+function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
+// Quick lookup of POI's normalized search text + display name + group + coords by id
+const POI_INDEX={};
+gP.querySelectorAll('.poi').forEach(p=>{
+  const id=p.getAttribute('data-id');
+  const t=p.getAttribute('transform')||'';
+  const m=t.match(/translate\(([-\d.]+),([-\d.]+)\)/);
+  POI_INDEX[id]={
+    search:p.getAttribute('data-search')||'',
+    name:p.getAttribute('data-name')||id,
+    grp:p.getAttribute('data-grp')||'other',
+    url:p.getAttribute('data-url')||null,
+    cx:m?+m[1]:0,cy:m?+m[2]:0
+  };
+});
+const POI_SEARCH_BY_ID={};
+for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function applySearch(){
+  const q=norm(sIn.value.trim());
+  sW.classList.toggle('has-q',!!q);
+  // Phase 1: per-POI dim/match
+  gP.querySelectorAll('.poi').forEach(p=>{
+    if(!q){p.classList.remove('dim');p.classList.remove('match');return}
+    const t=p.getAttribute('data-search')||'';
+    const m=t.includes(q);
+    p.classList.toggle('match',m);
+    p.classList.toggle('dim',!m);
+  });
+  // Phase 2: cluster visibility — combine search match WITH group filter
+  if(!gC)return;
+  const revealIds=new Set();
+  gC.querySelectorAll('.cluster').forEach(c=>{
+    const i=+c.getAttribute('data-i');
+    const list=CLUSTERS[i]||[];
+    // POI counts as "visible" if: group active AND (no query OR matches query)
+    const vis=list.filter(p=>{
+      if(!activeGrps.has(p.grp))return false;
+      if(!q)return true;
+      return (POI_SEARCH_BY_ID[p.id]||'').includes(q);
+    });
+    const txt=c.querySelector('text');
+    if(vis.length===0){c.classList.add('hidden')}
+    else if(vis.length===1){c.classList.add('hidden');revealIds.add(vis[0].id)}
+    else{c.classList.remove('hidden');if(txt)txt.textContent=String(vis.length)}
+  });
+  gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
+    p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
+  });
+  // Phase 3: dropdown list of top matches (count ALL matching for auto-zoom decision)
+  if(!q){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  const hits=[];
+  for(const id in POI_INDEX){
+    const e=POI_INDEX[id];
+    if(!activeGrps.has(e.grp))continue;
+    if(!e.search.includes(q))continue;
+    if(hits.length<50)hits.push({id,...e});
+  }
+  // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
+  // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
+  // Compute by examining current cluster visibility (already set in Phase 2 above).
+  if(hits.length>0){
+    // Map: poi-id -> cluster index it belongs to (if any)
+    const poiToCluster={};
+    for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
+    // Group matches by their visible "thing": either a visible cluster (id of cluster) or 'solo' + poi-id.
+    // A cluster is "visible" if its DOM .cluster element does NOT have .hidden.
+    // A POI is "shown solo" if either: not in any cluster, OR in a cluster whose .cluster element IS hidden (= cluster collapsed to <=1 match).
+    const visibleClusterIdx=new Set();
+    if(gC){
+      gC.querySelectorAll('.cluster:not(.hidden)').forEach(c=>visibleClusterIdx.add(+c.getAttribute('data-i')));
+    }
+    const visibleThings=new Set();
+    for(const h of hits){
+      const ci=poiToCluster[h.id];
+      if(ci!==undefined && visibleClusterIdx.has(ci)){
+        visibleThings.add('c'+ci);
+      }else{
+        visibleThings.add('p'+h.id);
+      }
+    }
+    const onlyOneThing=visibleThings.size===1;
+    if(onlyOneThing){
+      const thing=Array.from(visibleThings)[0];
+      let cx,cy;
+      if(thing[0]==='p'){
+        // Solo POI (or revealed cluster-POI)
+        const id=thing.slice(1);
+        const e=POI_INDEX[id];
+        if(e){cx=e.cx;cy=e.cy}
+      }else{
+        // Visible cluster (c<idx>) — center = avg of cluster's POI coords
+        const ci=+thing.slice(1);
+        const cl=CLUSTERS[ci]||[];
+        let sx=0,sy=0,n=0;
+        for(const p of cl){sx+=p.cx||0;sy+=p.cy||0;n++}
+        if(n>0){cx=sx/n;cy=sy/n}
+      }
+      if(cx!==undefined){
+        // Use 4× zoom (below EXPAND_SCALE=6 so clusters stay collapsed as numbers,
+        // POI doesn't disappear into expanded form)
+        s=4;
+        tx=W/2-cx*s;
+        // Bias the target 20% above viewBox center so it's not hidden behind the search dropdown / header
+        ty=H*0.32-cy*s;
+        ap();
+        sRes.innerHTML='';
+        sRes.classList.remove('has-hits');
+        return;
+      }
+    }
+  }
+  if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  sRes.innerHTML=hits.map(h=>{
+    const grpLabel=String(h.grp);
+    return '<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+grpLabel+'</span></a>';
+  }).join('');
+  sRes.classList.add('has-hits');
+}
+sIn.addEventListener('input',applySearch);
+sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
+// Click on dropdown item: zoom-pan to POI, do NOT auto-navigate (user can click again on map dot for that)
+sRes.addEventListener('click',e=>{
+  const a=e.target.closest('a[data-id]');
+  if(!a)return;
+  e.preventDefault();
+  const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
+  s=4;
+  tx=W/2-cx*s;
+  ty=H*0.32-cy*s;
+  ap();
+  sRes.classList.remove('has-hits');
+  sIn.blur();
+});
+// Close dropdown on outside click
+document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
+</script>
+</body>
+</html>

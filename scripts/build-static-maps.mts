@@ -98,6 +98,18 @@ const COUNTRIES: Country[] = [
     names:{ de:"Zypern", hu:"Ciprus", ro:"Cipru", en:"Cyprus" } },
   { iso:"lu", slug:"luxembourg", svgFile:"luxembourg.svg.ts", mapVar:"luxembourgMap", vbVar:"luxembourgViewBox", projFn:"projectCoordsLU",
     names:{ de:"Luxemburg", hu:"Luxemburg", ro:"Luxemburg", en:"Luxembourg" } },
+  { iso:"ad", slug:"andorra", svgFile:"andorra.svg.ts", mapVar:"andorraMap", vbVar:"andorraViewBox", projFn:"projectCoordsAD",
+    names:{ de:"Andorra", hu:"Andorra", ro:"Andorra", en:"Andorra" } },
+  { iso:"mc", slug:"monaco", svgFile:"monaco.svg.ts", mapVar:"monacoMap", vbVar:"monacoViewBox", projFn:"projectCoordsMC",
+    names:{ de:"Monaco", hu:"Monaco", ro:"Monaco", en:"Monaco" } },
+  { iso:"sm", slug:"sanmarino", svgFile:"sanmarino.svg.ts", mapVar:"sanmarinoMap", vbVar:"sanmarinoViewBox", projFn:"projectCoordsSM",
+    names:{ de:"San Marino", hu:"San Marino", ro:"San Marino", en:"San Marino" } },
+  { iso:"va", slug:"vatican", svgFile:"vatican.svg.ts", mapVar:"vaticanMap", vbVar:"vaticanViewBox", projFn:"projectCoordsVA",
+    names:{ de:"Vatikan", hu:"Vatikán", ro:"Vatican", en:"Vatican" } },
+  { iso:"li", slug:"liechtenstein", svgFile:"liechtenstein.svg.ts", mapVar:"liechtensteinMap", vbVar:"liechtensteinViewBox", projFn:"projectCoordsLI",
+    names:{ de:"Liechtenstein", hu:"Liechtenstein", ro:"Liechtenstein", en:"Liechtenstein" } },
+  { iso:"gf", slug:"frenchguiana", svgFile:"frenchguiana.svg.ts", mapVar:"frenchguianaMap", vbVar:"frenchguianaViewBox", projFn:"projectCoordsGF",
+    names:{ de:"Französisch-Guayana", hu:"Francia Guyana", ro:"Guyana Franceză", en:"French Guiana" } },
 
   // === North America (2026-05-27) ===
   { iso:"us", slug:"usa", svgFile:"usa.svg.ts", mapVar:"usaMap", vbVar:"usaViewBox", projFn:"projectCoordsUS",

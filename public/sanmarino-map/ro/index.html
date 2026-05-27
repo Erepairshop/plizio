@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=3">
+<title>San Marino hartă — Plizio</title>
+<meta name="description" content="Atinge un loc pentru detalii">
+<link rel="canonical" href="https://plizio.com/sanmarino-map/ro/">
+<link rel="alternate" hreflang="de" href="https://plizio.com/sanmarino-map/de/">
+<link rel="alternate" hreflang="hu" href="https://plizio.com/sanmarino-map/">
+<link rel="alternate" hreflang="ro" href="https://plizio.com/sanmarino-map/ro/">
+<link rel="alternate" hreflang="en" href="https://plizio.com/sanmarino-map/en/">
+<link rel="alternate" hreflang="x-default" href="https://plizio.com/sanmarino-map/">
+<meta property="og:title" content="San Marino hartă — Plizio">
+<meta property="og:description" content="Atinge un loc pentru detalii">
+<meta property="og:url" content="https://plizio.com/sanmarino-map/ro/">
+<meta property="og:type" content="website">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;height:100%;background:#060614;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
+header{display:flex;align-items:center;gap:.6rem;padding:.65rem .9rem;background:#0a0a1f;border-bottom:1px solid #ffffff14;position:relative;z-index:5}
+header a.back{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;background:#ffffff14;color:#fff;text-decoration:none;font-weight:700}
+header a.back:active{background:#ffffff28}
+header h1{margin:0;font-size:1rem;font-weight:800;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+header .langs{display:flex;gap:.25rem}
+.lang{font-size:.7rem;font-weight:700;padding:.25rem .45rem;border-radius:6px;color:#ffffffb0;text-decoration:none;background:#ffffff10}
+.lang.on{background:#3b82f6;color:#fff}
+#stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
+#svg{width:100%;height:100%;display:block;cursor:grab}
+#svg.drag{cursor:grabbing}
+.region{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s}
+.region:hover{fill:#2d3a78}
+.label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
+.poi{cursor:pointer}
+.poi circle{fill:#9ca3af;stroke:#000;stroke-width:.5;transition:r .12s,opacity .12s}
+.poi.g-city circle{fill:#60a5fa}
+.poi.g-sight circle{fill:#fbbf24}
+.poi.g-nature circle{fill:#22c55e}
+.poi.g-history circle{fill:#c084fc}
+.poi.g-industry circle{fill:#fb923c}
+.poi.g-other circle{fill:#9ca3af}
+.poi.dim{opacity:.18}
+.poi.match circle{stroke:#fff;stroke-width:1.4}
+.poi:hover circle,.poi.active circle{r:7;fill:#fff;opacity:1}
+.controls{position:absolute;top:53px;left:0;right:0;z-index:4;padding:.4rem .55rem;display:flex;gap:.3rem;align-items:center;background:linear-gradient(180deg,#060614 0%,#06061400 100%)}
+.chips{display:flex;gap:.25rem;flex-shrink:0}
+.chip{flex-shrink:0;width:30px;height:30px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;user-select:none;padding:0;opacity:.45;transition:opacity .12s,background .12s,border-color .12s}
+.chip.on{opacity:1}
+.chip.on.g-city{background:#60a5fa22;border-color:#60a5fa70}
+.chip.on.g-sight{background:#fbbf2422;border-color:#fbbf2470}
+.chip.on.g-nature{background:#22c55e22;border-color:#22c55e70}
+.chip.on.g-history{background:#c084fc22;border-color:#c084fc70}
+.chip.on.g-industry{background:#fb923c22;border-color:#fb923c70}
+.chip.on.g-other{background:#9ca3af22;border-color:#9ca3af70}
+.chip svg{display:block}
+.search{flex:1;min-width:0;display:flex;align-items:center;gap:.3rem;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;padding:.15rem .5rem .15rem .6rem;height:30px}
+.search input{flex:1;border:none;outline:none;background:transparent;color:#fff;font-size:.82rem;padding:.25rem 0;min-width:0;font-family:inherit}
+.search input::placeholder{color:#ffffff70}
+.search-results{position:absolute;top:34px;left:0;right:0;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;max-height:280px;overflow-y:auto;display:none;z-index:10;box-shadow:0 4px 16px #00000060}
+.search.has-q .search-results.has-hits{display:block}
+.search-results a{display:flex;align-items:center;gap:.4rem;padding:.45rem .55rem;color:#fff;text-decoration:none;font-size:.8rem;border-bottom:1px solid #ffffff10;cursor:pointer}
+.search-results a:last-child{border-bottom:none}
+.search-results a:hover,.search-results a.active{background:#1a2055}
+.search-results .dot{width:8px;height:8px;border-radius:50%;flex:none}
+.search-results .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.search-results .gr{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em}
+.search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
+.search.has-q button{display:block}
+.poi.hidden{display:none !important}
+.poi.reveal{display:initial}
+.cluster.hidden{display:none !important}
+.cluster{cursor:pointer}
+.cluster circle{transition:r .12s}
+.cluster:hover circle{r:14}
+/* At default zoom: clusters visible, in-cluster POIs hidden */
+.poi.in-cluster{display:none}
+/* At higher zoom: clusters hide, in-cluster POIs become visible */
+#svg.expand .cluster{display:none}
+#svg.expand .poi.in-cluster{display:initial}
+.hint{position:absolute;top:102px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
+@keyframes fadeOut{to{opacity:0}}
+.popup{position:absolute;bottom:0;left:0;right:0;background:#0d1230;border-top:1px solid #ffffff20;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -10px 40px #00000080}
+.popup.open{transform:translateY(0)}
+.popup .x{position:absolute;top:.5rem;right:.7rem;width:32px;height:32px;border-radius:50%;background:#ffffff14;border:none;color:#fff;font-size:1.1rem;cursor:pointer;z-index:2}
+.popup h2{margin:0 0 .3rem;font-size:1.1rem;font-weight:800}
+.popup .type{font-size:.7rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.5rem}
+.popup p{margin:0 0 .8rem;font-size:.85rem;line-height:1.45;color:#ffffffc8}
+.popup a.more{display:inline-block;background:#3b82f6;color:#fff;text-decoration:none;font-weight:700;padding:.55rem 1rem;border-radius:8px;font-size:.85rem}
+.popup .single{display:none}.popup .list{display:none}
+.popup.mode-single .single{display:block}
+.popup.mode-list .list{display:block;max-height:60vh;overflow-y:auto;margin-right:-.5rem;padding-right:.5rem}
+.popup .list .lh{font-size:.75rem;color:#ffffff80;margin:0 0 .5rem;text-transform:uppercase;letter-spacing:.05em}
+.popup .list a{display:flex;align-items:center;gap:.55rem;padding:.55rem .55rem;border-radius:8px;text-decoration:none;color:#fff;font-size:.88rem;border-bottom:1px solid #ffffff10}
+.popup .list a:active{background:#ffffff14}
+.popup .list a .dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.popup .list a .n{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.popup .list a .g{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em;flex-shrink:0}
+.popup .list .nl{padding:.6rem;color:#ffffff70;font-size:.85rem;font-style:italic}
+.zoom{position:absolute;right:.7rem;bottom:.7rem;display:flex;flex-direction:column;gap:.35rem;z-index:4}
+.zoom button{width:38px;height:38px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;color:#fff;font-size:1.2rem;font-weight:800;cursor:pointer}
+.zoom button:active{background:#1a2240}
+</style>
+</head>
+<body>
+<header>
+<a class="back" href="/europe-map/" aria-label="Înapoi">‹</a>
+<h1>San Marino hartă</h1>
+<div class="langs"><a class="lang" href="./?lang=de">DE</a><a class="lang" href="./?lang=hu">HU</a><span class="lang on">RO</span><a class="lang" href="./?lang=en">EN</a></div>
+</header>
+<div class="controls">
+<div class="chips"><button class="chip on g-city" data-g="city" aria-label="Orașe" title="Orașe (48)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#60a5fa" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21V8l5-3v3l5-3v16M3 12h2m4 0h2m-2 4h2m-2-8h2m4 4h2m-2 4h2m-2-8h2"/></svg></button><button class="chip on g-sight" data-g="sight" aria-label="Atracții" title="Atracții (13)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fbbf24" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1l2.09 4.74L15 6.4l-3.5 3.41.83 4.83L8 12.27 3.67 14.64 4.5 9.81 1 6.4l4.91-.66z"/></svg></button><button class="chip on g-nature" data-g="nature" aria-label="Natură" title="Natură (43)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#22c55e" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 14V9M8 9l-3 3M8 9l3 3M8 9V5l-3-2M8 5l3-2"/></svg></button><button class="chip on g-history" data-g="history" aria-label="Istorie" title="Istorie (1)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#c084fc" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 13V6l5-3 5 3v7M3 13h10M5 13V6m6 7V6"/></svg></button><button class="chip on g-industry" data-g="industry" aria-label="Industrie" title="Industrie (9)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fb923c" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M2 13V6l4 2V6l4 2V6l4 2v5z"/></svg></button><button class="chip on g-other" data-g="other" aria-label="Altele" title="Altele (3)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#9ca3af" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="3"/></svg></button></div>
+<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="Caută…" autocomplete="off"><button id="searchX" aria-label="clear">×</button><div class="search-results" id="searchRes"></div></div>
+</div>
+<div id="stage">
+  <svg id="svg" viewBox="0 0 1000 1177" preserveAspectRatio="xMidYMid meet" aria-label="San Marino hartă">
+    <g id="gR"><path class="region" data-id="SM-001" d="M867.4,53.5L927.3,165.3L940.5,260.7L868.8,294L788.4,322.7L717.3,415.2L650.7,316.3L577.2,383.3L542.7,303.6L545,227L522,214.3L460,239.8L399.8,209.3L621.9,95L867.4,53.5Z"/><path class="region" data-id="SM-002" d="M940.5,260.7L954.6,362.6L947.1,449.1L917.1,482.1L864.2,514L839,533.1L772.4,536.3L728.7,596.9L655.2,635.2L584.1,600.1L549.6,552.3L561.1,472.6L577.2,383.3L650.7,316.3L717.3,415.2L788.4,322.7L868.8,294L940.5,260.7Z"/><path class="region" data-id="SM-003" d="M947.1,449.1L936.9,566.7L875.4,684.4L867.4,699.5L845.4,724.6L832.2,755.1L779.3,749.9L747.1,762.7L717.3,740.4L735.6,698.9L733.3,667.1L689.7,667.1L655.2,635.2L728.7,596.9L772.4,536.3L839,533.1L864.2,514L917.1,482.1L947.1,449.1Z"/><path class="region" data-id="SM-004" d="M832.2,755.1L827.7,792.6L834.4,828.2L716.2,1028.7L705.8,944.5L712.7,871.1L721.9,826.5L742.5,791.4L747.1,762.7L779.3,749.9L832.2,755.1Z"/><path class="region" data-id="SM-005" d="M716.2,1028.7L682.6,1085.6L519.2,1109.1L501.4,1030.5L466.9,982.7L503.7,934.9L517.5,858.4L590.9,858.4L657.5,823.3L717.3,740.4L747.1,762.7L742.5,791.4L721.9,826.5L712.7,871.1L705.8,944.5L716.2,1028.7Z"/><path class="region" data-id="SM-006" d="M519.2,1109.1L418.6,1123.5L347.6,1086.6L164.3,991.6L82.4,817.8L161.5,813.7L244.2,826.5L349.8,874.3L356.7,915.7L356.7,954L393.4,982.7L466.9,982.7L501.4,1030.5L519.2,1109.1Z"/><path class="region" data-id="SM-007" d="M82.4,817.8L45.5,739.6L152.3,724.4L232.7,695.7L290.1,660.7L324.5,616L322.2,549.1L370.5,600.1L434.8,635.2L480.7,698.9L512.9,785L517.5,858.4L503.7,934.9L466.9,982.7L393.4,982.7L356.7,954L356.7,915.7L349.8,874.3L244.2,826.5L161.5,813.7L82.4,817.8Z"/><path class="region" data-id="SM-008" d="M45.5,739.6L130.8,457.3L261.9,324.3L308.9,276.6L349.8,309.9L386.5,357.8L393.4,424.7L352.1,456.6L324.5,440.7L324.5,469.4L322.2,549.1L324.5,616L290.1,660.7L232.7,695.7L152.3,724.4L45.5,739.6Z"/><path class="region" data-id="SM-009" d="M308.9,276.6L350,234.9L399.8,209.3L460,239.8L522,214.3L545,227L542.7,303.6L577.2,383.3L561.1,472.6L549.6,552.3L584.1,600.1L655.2,635.2L689.7,667.1L733.3,667.1L735.6,698.9L717.3,740.4L657.5,823.3L590.9,858.4L517.5,858.4L512.9,785L480.7,698.9L434.8,635.2L370.5,600.1L322.2,549.1L324.5,469.4L324.5,440.7L352.1,456.6L393.4,424.7L386.5,357.8L349.8,309.9L308.9,276.6Z"/></g>
+    <g id="gL"><text class="label" x="686.43" y="236.9">Serravalle</text><text class="label" x="769.79" y="443.73">Domagnano</text><text class="label" x="812.13" y="626.96">Faetano</text><text class="label" x="768.35" y="827.8">Montegiardino</text><text class="label" x="638.7" y="917.3">Fiorentino</text><text class="label" x="348.69" y="972.7">Chiesanuova</text><text class="label" x="318.15" y="784.92">San Marino</text><text class="label" x="265.33" y="515.14">Acquaviva</text><text class="label" x="492.2" y="505.36">Borgo Maggiore</text></g>
+    <g id="gP"><g class="poi g-city" data-id="sanmarino-dogana-cities-v2" data-name="Dogana" data-search="dogana" data-grp="city" data-url="/ro/san-marino/sm/dogana/" transform="translate(879.7,96.9)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-falciano-cities-v2" data-name="Falciano" data-search="falciano" data-grp="city" data-url="/ro/san-marino/sm/falciano/" transform="translate(924.8,228.1)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-rovereta-cities-v2" data-name="Rovereta" data-search="rovereta" data-grp="city" data-url="/ro/san-marino/sm/rovereta/" transform="translate(803.9,150)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ventoso-cities-v2" data-name="Ventoso" data-search="ventoso" data-grp="city" data-url="/ro/san-marino/sm/ventoso/" transform="translate(534.8,488.2)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-galavotto-cities-v2" data-name="Galavotto" data-search="galavotto" data-grp="city" data-url="/ro/san-marino/sm/galavotto/" transform="translate(952.9,281.3)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-gorgascura-cities-v2" data-name="Gorgascura" data-search="gorgascura" data-grp="city" data-url="/ro/san-marino/sm/gorgascura/" transform="translate(577.4,534.3)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ca-berloni-cities-v2" data-name="Cà Berloni" data-search="ca berloni" data-grp="city" data-url="/ro/san-marino/sm/ca-berloni/" transform="translate(706.8,743.5)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ca-chiaro-cities-v2" data-name="Cà Chiaro" data-search="ca chiaro" data-grp="city" data-url="/ro/san-marino/sm/ca-chiaro/" transform="translate(761.3,780.1)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ca-dei-lanci-cities-v2" data-name="Cà dei Lanci" data-search="ca dei lanci" data-grp="city" data-url="/ro/san-marino/sm/ca-dei-lanci/" transform="translate(782.6,806.2)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ca-gallo-cities-v2" data-name="Cà Gallo" data-search="ca gallo" data-grp="city" data-url="/ro/san-marino/sm/ca-gallo/" transform="translate(815.8,842.8)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ca-giangi-cities-v2" data-name="Cà Giangi" data-search="ca giangi" data-grp="city" data-url="/ro/san-marino/sm/ca-giangi/" transform="translate(839.7,881.8)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ca-guerino-cities-v2" data-name="Cà Guerino" data-search="ca guerino" data-grp="city" data-url="/ro/san-marino/sm/ca-guerino/" transform="translate(858.4,924.4)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ca-janni-cities-v2" data-name="Cà Janni" data-search="ca janni" data-grp="city" data-url="/ro/san-marino/sm/ca-janni/" transform="translate(882.2,963.4)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ca-olivo-cities-v2" data-name="Cà Olivo" data-search="ca olivo" data-grp="city" data-url="/ro/san-marino/sm/ca-olivo/" transform="translate(906.1,1003.6)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ca-rossi-cities-v2" data-name="Cà Rossi" data-search="ca rossi" data-grp="city" data-url="/ro/san-marino/sm/ca-rossi/" transform="translate(924.8,1042.6)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-caladino-cities-v2" data-name="Caladino" data-search="caladino" data-grp="city" data-url="/ro/san-marino/sm/caladino/" transform="translate(867.8,17.6)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-canepa-cities-v2" data-name="Canepa" data-search="canepa" data-grp="city" data-url="/ro/san-marino/sm/canepa/" transform="translate(669.4,608.7)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-casole-cities-v2" data-name="Casole" data-search="casole" data-grp="city" data-url="/ro/san-marino/sm/casole/" transform="translate(711.9,648.9)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-castellaro-cities-v2" data-name="Castellaro" data-search="castellaro" data-grp="city" data-url="/ro/san-marino/sm/castellaro/" transform="translate(754.5,687.9)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-cerbaiola-cities-v2" data-name="Cerbaiola" data-search="cerbaiola" data-grp="city" data-url="/ro/san-marino/sm/cerbaiola/" transform="translate(797.1,727)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="sanmarino-cerbaiola-di-sotto-cities-v2" data-name="Cerbaiola di Sotto" data-search="cerbaiola di sotto" data-grp="city" data-url="/ro/san-marino/sm/cerbaiola-di-sotto/" transform="translate(839.7,767.1)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-cervara-cities-v2" data-name="Cervara" data-search="cervara" data-grp="city" data-url="/ro/san-marino/sm/cervara/" transform="translate(882.2,806.2)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-ciampavento-cities-v2" data-name="Ciampavento" data-search="ciampavento" data-grp="city" data-url="/ro/san-marino/sm/ciampavento/" transform="translate(924.8,845.2)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-corianino-cities-v2" data-name="Corianino" data-search="corianino" data-grp="city" data-url="/ro/san-marino/sm/corianino/" transform="translate(967.4,885.4)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-falciano-di-sopra-cities-v2" data-name="Falciano di Sopra" data-search="falciano di sopra" data-grp="city" data-url="/ro/san-marino/sm/falciano-di-sopra/" transform="translate(967.4,963.4)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-gualdicciolo-di-sopra-cities-v2" data-name="Gualdicciolo di Sopra" data-search="gualdicciolo di sopra" data-grp="city" data-url="/ro/san-marino/sm/gualdicciolo-di-sopra/" transform="translate(924.8,1003.6)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-gualdicciolo-di-sotto-cities-v2" data-name="Gualdicciolo di Sotto" data-search="gualdicciolo di sotto" data-grp="city" data-url="/ro/san-marino/sm/gualdicciolo-di-sotto/" transform="translate(882.2,1042.6)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-montalbo-cities-v2" data-name="Montalbo" data-search="montalbo" data-grp="city" data-url="/ro/san-marino/sm/montalbo/" transform="translate(541.6,451.5)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="sanmarino-montegiardino-di-sopra-cities-v2" data-name="Montegiardino di Sopra" data-search="montegiardino di sopra" data-grp="city" data-url="/ro/san-marino/sm/montegiardino-di-sopra/" transform="translate(584.2,490.5)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-montegiardino-di-sotto-cities-v2" data-name="Montegiardino di Sotto" data-search="montegiardino di sotto" data-grp="city" data-url="/ro/san-marino/sm/montegiardino-di-sotto/" transform="translate(626.8,530.7)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-paderna-cities-v2" data-name="Paderna" data-search="paderna" data-grp="city" data-url="/ro/san-marino/sm/paderna/" transform="translate(669.4,569.7)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-poggiale-cities-v2" data-name="Poggiale" data-search="poggiale" data-grp="city" data-url="/ro/san-marino/sm/poggiale/" transform="translate(711.9,608.7)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-poggio-casalino-cities-v2" data-name="Poggio Casalino" data-search="poggio casalino" data-grp="city" data-url="/ro/san-marino/sm/poggio-casalino/" transform="translate(754.5,648.9)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-poggio-chiurano-cities-v2" data-name="Poggio Chiurano" data-search="poggio chiurano" data-grp="city" data-url="/ro/san-marino/sm/poggio-chiurano/" transform="translate(797.1,687.9)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-pozzetta-cities-v2" data-name="Pozzetta" data-search="pozzetta" data-grp="city" data-url="/ro/san-marino/sm/pozzetta/" transform="translate(839.7,727)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="sanmarino-quartuccioli-cities-v2" data-name="Quartuccioli" data-search="quartuccioli" data-grp="city" data-url="/ro/san-marino/sm/quartuccioli/" transform="translate(882.2,767.1)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-rovere-cities-v2" data-name="Rovere" data-search="rovere" data-grp="city" data-url="/ro/san-marino/sm/rovere/" transform="translate(924.8,806.2)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-santagatha-cities-v2" data-name="Santagatha" data-search="santagatha" data-grp="city" data-url="/ro/san-marino/sm/santagatha/" transform="translate(967.4,845.2)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-taverna-cities-v2" data-name="Taverna" data-search="taverna" data-grp="city" data-url="/ro/san-marino/sm/taverna/" transform="translate(967.4,924.4)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-torraccia-cities-v2" data-name="Torraccia" data-search="torraccia" data-grp="city" data-url="/ro/san-marino/sm/torraccia/" transform="translate(924.8,963.4)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-valdragone-di-sopra-cities-v2" data-name="Valdragone di Sopra" data-search="valdragone di sopra" data-grp="city" data-url="/ro/san-marino/sm/valdragone-di-sopra/" transform="translate(882.2,1003.6)"><circle r="5"/></g><g class="poi g-city" data-id="sanmarino-valdragone-di-sotto-cities-v2" data-name="Valdragone di Sotto" data-search="valdragone di sotto" data-grp="city" data-url="/ro/san-marino/sm/valdragone-di-sotto/" transform="translate(839.7,1042.6)"><circle r="5"/></g><g class="poi g-industry" data-id="sanmarino-rovereta-industrial-hub-economic-v2" data-name="Zona industrială Rovereta" data-search="industriegebiet rovereta|rovereta ipari ovezet|zona industriala rovereta|rovereta industrial hub" data-grp="industry" data-url="/ro/san-marino/sm/zona-industriala-rovereta/" transform="translate(711.1,148.9)"><circle r="3.5"/></g><g class="poi g-industry" data-id="sanmarino-domagnano-business-park-economic-v2" data-name="Parcul de afaceri Domagnano" data-search="domagnano gewerbepark|domagnano uzleti park|parcul de afaceri domagnano|domagnano business park" data-grp="industry" data-url="/ro/san-marino/sm/parcul-de-afaceri-domagnano/" transform="translate(793.7,235.2)"><circle r="3.5"/></g><g class="poi g-industry" data-id="sanmarino-faetano-agricultural-center-economic-v2" data-name="Centrul agricol Faetano" data-search="faetano agrarzentrum|faetano mezogazdasagi kozpont|centrul agricol faetano|faetano agricultural center" data-grp="industry" data-url="/ro/san-marino/sm/centrul-agricol-faetano/" transform="translate(867.8,614.6)"><circle r="3.5"/></g><g class="poi g-industry" data-id="sanmarino-chiesanuova-craft-district-economic-v2" data-name="Cartierul artizanal Chiesanuova" data-search="chiesanuova handwerksviertel|chiesanuova kezmuves negyed|cartierul artizanal chiesanuova|chiesanuova craft district" data-grp="industry" data-url="/ro/san-marino/sm/cartierul-artizanal-chiesanuova/" transform="translate(314.3,810.9)"><circle r="3.5"/></g><g class="poi g-industry" data-id="sanmarino-serravalle-trade-hub-economic-v2" data-name="Centrul comercial Serravalle" data-search="serravalle handelszentrum|serravalle kereskedelmi kozpont|centrul comercial serravalle|serravalle trade hub" data-grp="industry" data-url="/ro/san-marino/sm/centrul-comercial-serravalle/" transform="translate(768.1,101.6)"><circle r="3.5"/></g><g class="poi g-industry" data-id="sanmarino-acquaviva-logistics-zone-economic-v2" data-name="Zona logistică Acquaviva" data-search="acquaviva logistikzone|acquaviva logisztikai zona|zona logistica acquaviva|acquaviva logistics zone" data-grp="industry" data-url="/ro/san-marino/sm/zona-logistica-acquaviva/" transform="translate(410.5,488.2)"><circle r="3.5"/></g><g class="poi g-industry" data-id="sanmarino-montegiardino-forestry-economic-v2" data-name="Centrul forestier Montegiardino" data-search="montegiardino forstwirtschaftszentrum|montegiardino erdeszeti kozpont|centrul forestier montegiardino|montegiardino forestry center" data-grp="industry" data-url="/ro/san-marino/sm/centrul-forestier-montegiardino/" transform="translate(872.9,909)"><circle r="3.5"/></g><g class="poi g-industry" data-id="sanmarino-borgo-maggiore-service-hub-economic-v2" data-name="Centrul de servicii Borgo Maggiore" data-search="borgo maggiore dienstleistungszentrum|borgo maggiore szolgaltatokozpont|centrul de servicii borgo maggiore|borgo maggiore service hub" data-grp="industry" data-url="/ro/san-marino/sm/centrul-de-servicii-borgo-maggiore/" transform="translate(591.9,397.1)"><circle r="3.5"/></g><g class="poi g-industry" data-id="sanmarino-fiorentino-manufacturing-cluster-economic-v2" data-name="Clusterul de producție Fiorentino" data-search="fiorentino fertigungscluster|fiorentino gyartasi klaszter|clusterul de productie fiorentino|fiorentino manufacturing cluster" data-grp="industry" data-url="/ro/san-marino/sm/clusterul-de-productie-fiorentino/" transform="translate(640.4,731.7)"><circle r="3.5"/></g><g class="poi g-other in-cluster" data-id="sanmarino-palazzo-valloni-history-v2" data-name="Palazzo Valloni" data-search="palazzo valloni" data-grp="other" data-url="/ro/san-marino/sm/palazzo-valloni/" transform="translate(566.3,606.4)"><circle r="3.5"/></g><g class="poi g-other in-cluster" data-id="sanmarino-teatro-titano-history-v2" data-name="Teatro Titano" data-search="teatro titano" data-grp="other" data-url="/ro/san-marino/sm/teatro-titano/" transform="translate(564.6,614.6)"><circle r="3.5"/></g><g class="poi g-sight in-cluster" data-id="sanmarino-monumento-garibaldi-history-v2" data-name="Monumentul Garibaldi" data-search="garibaldi-denkmal|garibaldi-emlekmu|monumentul garibaldi|garibaldi monument" data-grp="sight" data-url="/ro/san-marino/sm/monumentul-garibaldi/" transform="translate(572.3,609.9)"><circle r="3.5"/></g><g class="poi g-other in-cluster" data-id="sanmarino-chiesa-san-pietro-history-v2" data-name="Biserica San Pietro" data-search="chiesa di san pietro|san pietro-templom|biserica san pietro|church of san pietro" data-grp="other" data-url="/ro/san-marino/sm/biserica-san-pietro/" transform="translate(568.9,618.2)"><circle r="3.5"/></g><g class="poi g-sight" data-id="sanmarino-ex-convento-san-francesco-history-v2" data-name="Fosta mănăstire franciscană" data-search="ehemaliges franziskanerkloster|volt ferences kolostor|fosta manastire franciscana|former franciscan monastery" data-grp="sight" data-url="/ro/san-marino/sm/fosta-manastire-franciscana/" transform="translate(544.2,598.1)"><circle r="3.5"/></g><g class="poi g-sight in-cluster" data-id="sanmarino-porto-franco-storico-history-v2" data-name="Porta del Paese" data-search="porta del paese" data-grp="sight" data-url="/ro/san-marino/sm/porta-del-paese/" transform="translate(555.3,601.6)"><circle r="3.5"/></g><g class="poi g-sight in-cluster" data-id="sanmarino-piazza-titano-history-v2" data-name="Piazza Titano" data-search="piazza titano" data-grp="sight" data-url="/ro/san-marino/sm/piazza-titano/" transform="translate(566.3,612.3)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-orto-botanico-life-v2" data-name="Grădina Botanică San Marino" data-search="botanischer garten san marino|san marino-i botanikus kert|gradina botanica san marino|botanical garden of san marino" data-grp="nature" data-url="/ro/san-marino/sm/gradina-botanica-san-marino/" transform="translate(584.2,618.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-oasi-faunistica-life-v2" data-name="Refugiul pentru animale Monte Titano" data-search="tierrefugium monte titano|monte titano vadvedelmi terulet|refugiul pentru animale monte titano|monte titano wildlife refuge" data-grp="nature" data-url="/ro/san-marino/sm/refugiul-pentru-animale-monte-titano/" transform="translate(563.8,673.8)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-giardino-biodiversita-life-v2" data-name="Grădina Biodiversității" data-search="garten der biodiversitat|biodiverzitas kert|gradina biodiversitatii|biodiversity garden" data-grp="nature" data-url="/ro/san-marino/sm/gradina-biodiversitatii/" transform="translate(688.1,495.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-zona-umida-torrente-life-v2" data-name="Zona umedă Torrente Ausa" data-search="feuchtgebiet torrente ausa|torrente ausa vizes elohely|zona umeda torrente ausa|torrente ausa wetland" data-grp="nature" data-url="/ro/san-marino/sm/zona-umeda-torrente-ausa/" transform="translate(844.8,223.3)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="sanmarino-parco-forestale-faetano-life-v2" data-name="Parcul Forestier Faetano" data-search="waldpark faetano|faetano erdopark|parcul forestier faetano|faetano forest park" data-grp="nature" data-url="/ro/san-marino/sm/parcul-forestier-faetano/" transform="translate(893.3,775.4)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-riserva-naturale-cerbaiola-life-v2" data-name="Rezervația Naturală Cerbaiola" data-search="naturreservat cerbaiola|cerbaiola termeszetvedelmi terulet|rezervatia naturala cerbaiola|cerbaiola nature reserve" data-grp="nature" data-url="/ro/san-marino/sm/rezervatia-naturala-cerbaiola/" transform="translate(670.2,814.4)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-arboreto-nazionale-life-v2" data-name="Arboretumul Național San Marino" data-search="nationales arboretum san marino|san marino-i nemzeti arboretum|arboretumul national san marino|national arboretum of san marino" data-grp="nature" data-url="/ro/san-marino/sm/arboretumul-national-san-marino/" transform="translate(637.9,550.8)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-torrente-marano-nature-v2" data-name="Râul Marano" data-search="marano fluss|marano-folyo|raul marano|marano river" data-grp="nature" data-url="/ro/san-marino/sm/raul-marano/" transform="translate(910.3,373.5)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-canyon-torrente-cailungo-nature-v2" data-name="Cheile Cailungo" data-search="cailungo schlucht|cailungo-szurdok|cheile cailungo|cailungo gorge" data-grp="nature" data-url="/ro/san-marino/sm/cheile-cailungo/" transform="translate(605.5,458.6)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-bosco-di-monte-giardino-nature-v2" data-name="Pădurea Monte Giardino" data-search="monte giardino wald|monte giardino-erdo|padurea monte giardino|monte giardino forest" data-grp="nature" data-url="/ro/san-marino/sm/padurea-monte-giardino/" transform="translate(815.8,907.8)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-sorgente-acquaviva-nature-v2" data-name="Izvorul Acquaviva" data-search="acquaviva quelle|acquaviva-forras|izvorul acquaviva|acquaviva spring" data-grp="nature" data-url="/ro/san-marino/sm/izvorul-acquaviva/" transform="translate(404.5,569.7)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-costone-roccioso-faetano-nature-v2" data-name="Peretele stâncos Faetano" data-search="faetano felswand|faetano-sziklafal|peretele stancos faetano|faetano rock cliff" data-grp="nature" data-url="/ro/san-marino/sm/peretele-stancos-faetano/" transform="translate(962.3,775.4)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-valle-rio-san-marino-nature-v2" data-name="Valea Rio San Marino" data-search="rio san marino tal|rio san marino-volgy|valea rio san marino|rio san marino valley" data-grp="nature" data-url="/ro/san-marino/sm/valea-rio-san-marino/" transform="translate(770.7,241.1)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-collina-di-chiesanuova-nature-v2" data-name="Dealul Chiesanuova" data-search="chiesanuova hugel|chiesanuova-domb|dealul chiesanuova|chiesanuova hill" data-grp="nature" data-url="/ro/san-marino/sm/dealul-chiesanuova/" transform="translate(314.3,756.5)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-torrente-ausa-alta-nature-v2" data-name="Râul Ausa Superior" data-search="oberer ausa fluss|felso-ausa folyo|raul ausa superior|upper ausa river" data-grp="nature" data-url="/ro/san-marino/sm/raul-ausa-superior/" transform="translate(555.3,542.5)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-bosco-di-serravalle-nature-v2" data-name="Pădurea Serravalle" data-search="serravalle wald|serravalle-erdo|padurea serravalle|serravalle forest" data-grp="nature" data-url="/ro/san-marino/sm/padurea-serravalle/" transform="translate(706.8,105.1)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-crinale-fiorentino-nature-v2" data-name="Creasta Fiorentino" data-search="fiorentino bergkamm|fiorentino-hegygerinc|creasta fiorentino|fiorentino ridge" data-grp="nature" data-url="/ro/san-marino/sm/creasta-fiorentino/" transform="translate(664.3,832.2)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="sanmarino-valle-di-borgo-maggiore-nature-v2" data-name="Valea Borgo Maggiore" data-search="borgo maggiore tal|borgo maggiore-volgy|valea borgo maggiore|borgo maggiore valley" data-grp="nature" data-url="/ro/san-marino/sm/valea-borgo-maggiore/" transform="translate(591,477.5)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-sorgente-faetano-nature-v2" data-name="Izvorul Faetano" data-search="faetano quelle|faetano-forras|izvorul faetano|faetano spring" data-grp="nature" data-url="/ro/san-marino/sm/izvorul-faetano/" transform="translate(1004.9,713.9)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-collina-di-domagnano-nature-v2" data-name="Dealul Domagnano" data-search="domagnano hugel|domagnano-domb|dealul domagnano|domagnano hill" data-grp="nature" data-url="/ro/san-marino/sm/dealul-domagnano/" transform="translate(745.1,372.3)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-monte-giango-relief-v2" data-name="Monte Giango" data-search="monte giango" data-grp="nature" data-url="/ro/san-marino/sm/monte-giango/" transform="translate(603.8,374.7)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="sanmarino-poggio-del-romito-relief-v2" data-name="Poggio del Romito" data-search="poggio del romito" data-grp="nature" data-url="/ro/san-marino/sm/poggio-del-romito/" transform="translate(839.7,756.5)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-monte-cerreto-relief-v2" data-name="Monte Cerreto" data-search="monte cerreto" data-grp="nature" data-url="/ro/san-marino/sm/monte-cerreto/" transform="translate(441.2,219.8)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="sanmarino-colle-di-borgo-relief-v2" data-name="Colle di Borgo" data-search="colle di borgo" data-grp="nature" data-url="/ro/san-marino/sm/colle-di-borgo/" transform="translate(580.8,495.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-pian-di-gesto-relief-v2" data-name="Pian di Gesto" data-search="pian di gesto" data-grp="nature" data-url="/ro/san-marino/sm/pian-di-gesto/" transform="translate(518.6,810.9)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-costa-delle-vigne-relief-v2" data-name="Costa delle Vigne" data-search="costa delle vigne" data-grp="nature" data-url="/ro/san-marino/sm/costa-delle-vigne/" transform="translate(688.9,609.9)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-monte-pancalo-relief-v2" data-name="Monte Pancalo" data-search="monte pancalo" data-grp="nature" data-url="/ro/san-marino/sm/monte-pancalo/" transform="translate(580.8,964.6)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-valle-dell-ausa-relief-v2" data-name="Valle dell'Ausa" data-search="valle dell'ausa" data-grp="nature" data-url="/ro/san-marino/sm/valle-dell-ausa/" transform="translate(640.4,101.6)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-poggio-di-faetano-relief-v2" data-name="Poggio di Faetano" data-search="poggio di faetano" data-grp="nature" data-url="/ro/san-marino/sm/poggio-di-faetano/" transform="translate(866.9,660.7)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-colle-del-castello-relief-v2" data-name="Colle del Castello" data-search="colle del castello" data-grp="nature" data-url="/ro/san-marino/sm/colle-del-castello/" transform="translate(666,779)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-valle-di-chiesanuova-relief-v2" data-name="Valle di Chiesanuova" data-search="valle di chiesanuova" data-grp="nature" data-url="/ro/san-marino/sm/valle-di-chiesanuova/" transform="translate(470.1,897.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-monte-carllo-relief-v2" data-name="Monte Carllo" data-search="monte carllo" data-grp="nature" data-url="/ro/san-marino/sm/monte-carllo/" transform="translate(495.7,424.3)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-pian-della-segara-relief-v2" data-name="Pian della Segara" data-search="pian della segara" data-grp="nature" data-url="/ro/san-marino/sm/pian-della-segara/" transform="translate(555.3,692.7)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-costa-della-serra-relief-v2" data-name="Costa della Serra" data-search="costa della serra" data-grp="nature" data-url="/ro/san-marino/sm/costa-della-serra/" transform="translate(518.6,255.3)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-poggio-di-fiorentino-relief-v2" data-name="Poggio di Fiorentino" data-search="poggio di fiorentino" data-grp="nature" data-url="/ro/san-marino/sm/poggio-di-fiorentino/" transform="translate(725.6,574.4)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-monte-del-casale-relief-v2" data-name="Monte del Casale" data-search="monte del casale" data-grp="nature" data-url="/ro/san-marino/sm/monte-del-casale/" transform="translate(640.4,929.1)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-colle-della-rocca-relief-v2" data-name="Colle della Rocca" data-search="colle della rocca" data-grp="nature" data-url="/ro/san-marino/sm/colle-della-rocca/" transform="translate(751.1,456.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-pian-di-gualdicciolo-relief-v2" data-name="Pian di Gualdicciolo" data-search="pian di gualdicciolo" data-grp="nature" data-url="/ro/san-marino/sm/pian-di-gualdicciolo/" transform="translate(410.5,373.5)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-poggio-di-acquaviva-relief-v2" data-name="Poggio di Acquaviva" data-search="poggio di acquaviva" data-grp="nature" data-url="/ro/san-marino/sm/poggio-di-acquaviva/" transform="translate(385,609.9)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-monte-serravalle-relief-v2" data-name="Monte Serravalle" data-search="monte serravalle" data-grp="nature" data-url="/ro/san-marino/sm/monte-serravalle/" transform="translate(580.8,177.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-colle-del-faetano-relief-v2" data-name="Colle del Faetano" data-search="colle del faetano" data-grp="nature" data-url="/ro/san-marino/sm/colle-del-faetano/" transform="translate(895.9,728.1)"><circle r="3.5"/></g><g class="poi g-nature" data-id="sanmarino-pian-di-domagnano-relief-v2" data-name="Pian di Domagnano" data-search="pian di domagnano" data-grp="nature" data-url="/ro/san-marino/sm/pian-di-domagnano/" transform="translate(640.4,338)"><circle r="3.5"/></g><g class="poi g-city" data-id="city-gualdicciolo-extra" data-name="Gualdicciolo" data-search="gualdicciolo" data-grp="city" data-url="/ro/san-marino/acquaviva/gualdicciolo/" transform="translate(321.1,497.6)"><circle r="5"/></g><g class="poi g-city" data-id="city-la-serra-extra" data-name="La Serra" data-search="la serra" data-grp="city" data-url="/ro/san-marino/acquaviva/la-serra/" transform="translate(278.5,509.4)"><circle r="5"/></g><g class="poi g-city" data-id="city-ca-melone-extra" data-name="Cà Melone" data-search="ca melone" data-grp="city" data-url="/ro/san-marino/borgo-maggiore/ca-melone/" transform="translate(619.1,509.4)"><circle r="5"/></g><g class="poi g-city" data-id="city-ca-rigo-extra" data-name="Cà Rigo" data-search="ca rigo" data-grp="city" data-url="/ro/san-marino/borgo-maggiore/ca-rigo/" transform="translate(610.6,414.9)"><circle r="5"/></g><g class="poi g-city" data-id="city-cailungo-extra" data-name="Cailungo" data-search="cailungo" data-grp="city" data-url="/ro/san-marino/borgo-maggiore/cailungo/" transform="translate(670.2,462.1)"><circle r="5"/></g><g class="poi g-city" data-id="city-san-marino" data-name="Orașul San Marino" data-search="stadt san marino|san marino varos|orasul san marino|city of san marino" data-grp="city" data-url="/ro/san-marino/sm-007/orasul-san-marino/" transform="translate(562.9,654.8)"><circle r="5"/></g><g class="poi g-sight in-cluster" data-id="cult-guaita" data-name="Guaita (Primul Turn)" data-search="guaita (erster turm)|guaita (elso torony)|guaita (primul turn)|guaita (first tower)" data-grp="sight" data-url="/ro/san-marino/sm-007/guaita-primul-turn/" transform="translate(580.8,604)"><circle r="3.5"/></g><g class="poi g-sight in-cluster" data-id="cult-cesta" data-name="Cesta (Al doilea Turn)" data-search="cesta (zweiter turm)|cesta (masodik torony)|cesta (al doilea turn)|cesta (second tower)" data-grp="sight" data-url="/ro/san-marino/sm-007/cesta-al-doilea-turn/" transform="translate(585.1,651.3)"><circle r="3.5"/></g><g class="poi g-sight" data-id="cult-montale" data-name="Montale (Al treilea Turn)" data-search="montale (dritter turm)|montale (harmadik torony)|montale (al treilea turn)|montale (third tower)" data-grp="sight" data-url="/ro/san-marino/sm-007/montale-al-treilea-turn/" transform="translate(591.9,680.8)"><circle r="3.5"/></g><g class="poi g-sight in-cluster" data-id="cult-palazzo-pubblico" data-name="Palazzo Pubblico" data-search="palazzo pubblico" data-grp="sight" transform="translate(564.6,596.9)"><circle r="3.5"/></g><g class="poi g-history" data-id="cult-basilica-di-san-marino" data-name="Bazilica San Marino" data-search="basilica di san marino|san marino-bazilika|bazilica san marino" data-grp="history" data-url="/ro/san-marino/sm-007/bazilica-san-marino/" transform="translate(562.1,589.8)"><circle r="3.5"/></g><g class="poi g-sight" data-id="cult-chiesa-fiorentino" data-name="Biserica Sfântul Ioan Botezătorul" data-search="kirche san giovanni battista|keresztelo szent janos-templom|biserica sfantul ioan botezatorul|church of saint john the baptist" data-grp="sight" data-url="/ro/san-marino/fiorentino/landmark-biserica-sfantul-ioan-botezatorul/" transform="translate(636.2,887.7)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="nat-monte-titano" data-name="Muntele Titano" data-search="monte titano|titano-hegy|muntele titano|mount titano" data-grp="nature" data-url="/ro/san-marino/sm-007/muntele-titano/" transform="translate(593.6,658.4)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nat-parco-ausa" data-name="Parcul Ausa" data-search="ausa-park|ausa park|parcul ausa" data-grp="sight" data-url="/ro/san-marino/serravalle/parcul-ausa/" transform="translate(832.8,244.6)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nat-sentiero-rupe" data-name="Traseul Rupe" data-search="rupe-wanderweg|rupe turautvonal|traseul rupe|rupe trail" data-grp="sight" data-url="/ro/san-marino/borgo-maggiore/traseul-rupe/" transform="translate(534,615.8)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nat-pineta-chiesanuova" data-name="Pădurea de pini Chiesanuova" data-search="kiefernwald von chiesanuova|chiesanuovai fenyoerdo|padurea de pini chiesanuova|chiesanuova pine forest" data-grp="sight" data-url="/ro/san-marino/chiesanuova/padurea-de-pini-chiesanuova/" transform="translate(295.5,1005.9)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nat-rupe-baldasserona" data-name="Stânca Baldasserona" data-search="rupe della baldasserona|baldasserona-szikla|stanca baldasserona|baldasserona cliff" data-grp="sight" data-url="/ro/san-marino/acquaviva/stanca-baldasserona/" transform="translate(380.7,462.1)"><circle r="3.5"/></g></g>
+    <g id="gC"><g class="cluster" data-i="0" data-grps="city,nature" data-cx="839.7" data-cy="761.8" transform="translate(839.7,761.8)"><circle r="8.0" fill="#60a5fa" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g><g class="cluster" data-i="1" data-grps="city,nature" data-cx="585.3" data-cy="487.7" transform="translate(585.3,487.7)"><circle r="9.2" fill="#22c55e" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="10.1" font-weight="800" fill="#0a0a1f">3</text></g><g class="cluster" data-i="2" data-grps="city,nature" data-cx="887.8" data-cy="771.3" transform="translate(887.8,771.3)"><circle r="8.0" fill="#60a5fa" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g><g class="cluster" data-i="3" data-grps="other,sight" data-cx="567.4" data-cy="608.0" transform="translate(567.4,608.0)"><circle r="12.0" fill="#fbbf24" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="13.2" font-weight="800" fill="#0a0a1f">8</text></g><g class="cluster" data-i="4" data-grps="sight,nature" data-cx="589.4" data-cy="654.8" transform="translate(589.4,654.8)"><circle r="8.0" fill="#fbbf24" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g></g>
+  </svg>
+  <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
+</div>
+<div class="hint">Atinge un loc pentru detalii</div>
+<div class="popup" id="popup" role="dialog" aria-modal="false">
+  <button class="x" id="px" aria-label="close">×</button>
+  <div class="single">
+    <div class="type" id="ptype"></div>
+    <h2 id="pname"></h2>
+    <a class="more" id="pmore" href="#">Detalii →</a>
+  </div>
+  <div class="list" id="plist"></div>
+</div>
+<script>
+const LANG="ro",W=1000,H=1177;
+const CLUSTERS=[[{"id":"sanmarino-cerbaiola-di-sotto-cities-v2","name":"Cerbaiola di Sotto","grp":"city","url":"/ro/san-marino/sm/cerbaiola-di-sotto/","cx":839.7,"cy":767.1},{"id":"sanmarino-poggio-del-romito-relief-v2","name":"Poggio del Romito","grp":"nature","url":"/ro/san-marino/sm/poggio-del-romito/","cx":839.7,"cy":756.5}],[{"id":"sanmarino-montegiardino-di-sopra-cities-v2","name":"Montegiardino di Sopra","grp":"city","url":"/ro/san-marino/sm/montegiardino-di-sopra/","cx":584.2,"cy":490.5},{"id":"sanmarino-valle-di-borgo-maggiore-nature-v2","name":"Valea Borgo Maggiore","grp":"nature","url":"/ro/san-marino/sm/valea-borgo-maggiore/","cx":591,"cy":477.5},{"id":"sanmarino-colle-di-borgo-relief-v2","name":"Colle di Borgo","grp":"nature","url":"/ro/san-marino/sm/colle-di-borgo/","cx":580.8,"cy":495.2}],[{"id":"sanmarino-quartuccioli-cities-v2","name":"Quartuccioli","grp":"city","url":"/ro/san-marino/sm/quartuccioli/","cx":882.2,"cy":767.1},{"id":"sanmarino-parco-forestale-faetano-life-v2","name":"Parcul Forestier Faetano","grp":"nature","url":"/ro/san-marino/sm/parcul-forestier-faetano/","cx":893.3,"cy":775.4}],[{"id":"sanmarino-palazzo-valloni-history-v2","name":"Palazzo Valloni","grp":"other","url":"/ro/san-marino/sm/palazzo-valloni/","cx":566.3,"cy":606.4},{"id":"sanmarino-teatro-titano-history-v2","name":"Teatro Titano","grp":"other","url":"/ro/san-marino/sm/teatro-titano/","cx":564.6,"cy":614.6},{"id":"sanmarino-monumento-garibaldi-history-v2","name":"Monumentul Garibaldi","grp":"sight","url":"/ro/san-marino/sm/monumentul-garibaldi/","cx":572.3,"cy":609.9},{"id":"sanmarino-chiesa-san-pietro-history-v2","name":"Biserica San Pietro","grp":"other","url":"/ro/san-marino/sm/biserica-san-pietro/","cx":568.9,"cy":618.2},{"id":"sanmarino-porto-franco-storico-history-v2","name":"Porta del Paese","grp":"sight","url":"/ro/san-marino/sm/porta-del-paese/","cx":555.3,"cy":601.6},{"id":"sanmarino-piazza-titano-history-v2","name":"Piazza Titano","grp":"sight","url":"/ro/san-marino/sm/piazza-titano/","cx":566.3,"cy":612.3},{"id":"cult-guaita","name":"Guaita (Primul Turn)","grp":"sight","url":"/ro/san-marino/sm-007/guaita-primul-turn/","cx":580.8,"cy":604},{"id":"cult-palazzo-pubblico","name":"Palazzo Pubblico","grp":"sight","url":null,"cx":564.6,"cy":596.9}],[{"id":"cult-cesta","name":"Cesta (Al doilea Turn)","grp":"sight","url":"/ro/san-marino/sm-007/cesta-al-doilea-turn/","cx":585.1,"cy":651.3},{"id":"nat-monte-titano","name":"Muntele Titano","grp":"nature","url":"/ro/san-marino/sm-007/muntele-titano/","cx":593.6,"cy":658.4}]];
+const svg=document.getElementById('svg'),stage=document.getElementById('stage');
+const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
+const EXPAND_SCALE=6;
+let s=1,tx=0,ty=0;
+function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE)}
+function clmp(v){return Math.max(.5,Math.min(8,v))}
+function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
+function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
+function zoomCenter(f){const r=svg.getBoundingClientRect();zoomAt(f,r.left+r.width/2,r.top+r.height/2)}
+let dr=false,dx=0,dy=0;
+svg.addEventListener('pointerdown',e=>{if(e.target.closest('.poi'))return;if(e.isPrimary===false)return;dr=true;dx=e.clientX;dy=e.clientY;svg.classList.add('drag');svg.setPointerCapture(e.pointerId)});
+svg.addEventListener('pointermove',e=>{if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()});
+svg.addEventListener('pointerup',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('pointercancel',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('wheel',e=>{e.preventDefault();zoomAt(e.deltaY<0?1.15:1/1.15,e.clientX,e.clientY)},{passive:false});
+document.getElementById('zin').onclick=()=>zoomCenter(1.3);
+document.getElementById('zout').onclick=()=>zoomCenter(1/1.3);
+let pD=0,pS=1;
+svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
+svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
+const pop=document.getElementById('popup');
+const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function clearMode(){pop.classList.remove('mode-single','mode-list')}
+function openPopup(el){document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));el.classList.add('active');const t=el.getAttribute('data-grp')||'';document.getElementById('ptype').textContent=t;document.getElementById('pname').textContent=el.getAttribute('data-name')||el.getAttribute('data-id');const u=el.getAttribute('data-url');const moreBtn=document.getElementById('pmore');if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}clearMode();pop.classList.add('mode-single','open')}
+function openClusterList(i){const all=CLUSTERS[i];if(!all)return;const list=all.filter(p=>activeGrps.has(p.grp));const el=document.getElementById('plist');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(p=>p.url?'<a href="'+p.url+'"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+'"></span><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></a>':'<div class="nl"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+';display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:.5rem"></span>'+escAttrJs(p.name)+'</div>').join('');clearMode();pop.classList.add('mode-list','open')}
+function escAttrJs(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
+if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openClusterList(+cl.getAttribute('data-i'))})}
+function closePopup(){pop.classList.remove('open');clearMode();document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}
+document.getElementById('px').onclick=closePopup;
+stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.cluster')&&!e.target.closest('.popup')){closePopup()}});
+// Chip toggle: hide POIs of disabled group
+const activeGrps=new Set(["city","sight","nature","history","industry","other"]);
+function applyGrpFilter(){
+  gP.querySelectorAll('.poi').forEach(p=>{const g=p.getAttribute('data-grp');p.classList.toggle('hidden',!activeGrps.has(g))});
+  // Cluster + reveal-id computation moved to applySearch() so chip + search
+  // combine consistently. Just re-trigger applySearch (it reads activeGrps).
+  if(typeof applySearch==='function')applySearch();
+}
+document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
+// Search: dim non-matching POIs + recompute cluster visibility (only count matches)
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap'),sRes=document.getElementById('searchRes');
+function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
+// Quick lookup of POI's normalized search text + display name + group + coords by id
+const POI_INDEX={};
+gP.querySelectorAll('.poi').forEach(p=>{
+  const id=p.getAttribute('data-id');
+  const t=p.getAttribute('transform')||'';
+  const m=t.match(/translate\(([-\d.]+),([-\d.]+)\)/);
+  POI_INDEX[id]={
+    search:p.getAttribute('data-search')||'',
+    name:p.getAttribute('data-name')||id,
+    grp:p.getAttribute('data-grp')||'other',
+    url:p.getAttribute('data-url')||null,
+    cx:m?+m[1]:0,cy:m?+m[2]:0
+  };
+});
+const POI_SEARCH_BY_ID={};
+for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function applySearch(){
+  const q=norm(sIn.value.trim());
+  sW.classList.toggle('has-q',!!q);
+  // Phase 1: per-POI dim/match
+  gP.querySelectorAll('.poi').forEach(p=>{
+    if(!q){p.classList.remove('dim');p.classList.remove('match');return}
+    const t=p.getAttribute('data-search')||'';
+    const m=t.includes(q);
+    p.classList.toggle('match',m);
+    p.classList.toggle('dim',!m);
+  });
+  // Phase 2: cluster visibility — combine search match WITH group filter
+  if(!gC)return;
+  const revealIds=new Set();
+  gC.querySelectorAll('.cluster').forEach(c=>{
+    const i=+c.getAttribute('data-i');
+    const list=CLUSTERS[i]||[];
+    // POI counts as "visible" if: group active AND (no query OR matches query)
+    const vis=list.filter(p=>{
+      if(!activeGrps.has(p.grp))return false;
+      if(!q)return true;
+      return (POI_SEARCH_BY_ID[p.id]||'').includes(q);
+    });
+    const txt=c.querySelector('text');
+    if(vis.length===0){c.classList.add('hidden')}
+    else if(vis.length===1){c.classList.add('hidden');revealIds.add(vis[0].id)}
+    else{c.classList.remove('hidden');if(txt)txt.textContent=String(vis.length)}
+  });
+  gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
+    p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
+  });
+  // Phase 3: dropdown list of top matches (count ALL matching for auto-zoom decision)
+  if(!q){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  const hits=[];
+  for(const id in POI_INDEX){
+    const e=POI_INDEX[id];
+    if(!activeGrps.has(e.grp))continue;
+    if(!e.search.includes(q))continue;
+    if(hits.length<50)hits.push({id,...e});
+  }
+  // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
+  // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
+  // Compute by examining current cluster visibility (already set in Phase 2 above).
+  if(hits.length>0){
+    // Map: poi-id -> cluster index it belongs to (if any)
+    const poiToCluster={};
+    for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
+    // Group matches by their visible "thing": either a visible cluster (id of cluster) or 'solo' + poi-id.
+    // A cluster is "visible" if its DOM .cluster element does NOT have .hidden.
+    // A POI is "shown solo" if either: not in any cluster, OR in a cluster whose .cluster element IS hidden (= cluster collapsed to <=1 match).
+    const visibleClusterIdx=new Set();
+    if(gC){
+      gC.querySelectorAll('.cluster:not(.hidden)').forEach(c=>visibleClusterIdx.add(+c.getAttribute('data-i')));
+    }
+    const visibleThings=new Set();
+    for(const h of hits){
+      const ci=poiToCluster[h.id];
+      if(ci!==undefined && visibleClusterIdx.has(ci)){
+        visibleThings.add('c'+ci);
+      }else{
+        visibleThings.add('p'+h.id);
+      }
+    }
+    const onlyOneThing=visibleThings.size===1;
+    if(onlyOneThing){
+      const thing=Array.from(visibleThings)[0];
+      let cx,cy;
+      if(thing[0]==='p'){
+        // Solo POI (or revealed cluster-POI)
+        const id=thing.slice(1);
+        const e=POI_INDEX[id];
+        if(e){cx=e.cx;cy=e.cy}
+      }else{
+        // Visible cluster (c<idx>) — center = avg of cluster's POI coords
+        const ci=+thing.slice(1);
+        const cl=CLUSTERS[ci]||[];
+        let sx=0,sy=0,n=0;
+        for(const p of cl){sx+=p.cx||0;sy+=p.cy||0;n++}
+        if(n>0){cx=sx/n;cy=sy/n}
+      }
+      if(cx!==undefined){
+        // Use 4× zoom (below EXPAND_SCALE=6 so clusters stay collapsed as numbers,
+        // POI doesn't disappear into expanded form)
+        s=4;
+        tx=W/2-cx*s;
+        // Bias the target 20% above viewBox center so it's not hidden behind the search dropdown / header
+        ty=H*0.32-cy*s;
+        ap();
+        sRes.innerHTML='';
+        sRes.classList.remove('has-hits');
+        return;
+      }
+    }
+  }
+  if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  sRes.innerHTML=hits.map(h=>{
+    const grpLabel=String(h.grp);
+    return '<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+grpLabel+'</span></a>';
+  }).join('');
+  sRes.classList.add('has-hits');
+}
+sIn.addEventListener('input',applySearch);
+sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
+// Click on dropdown item: zoom-pan to POI, do NOT auto-navigate (user can click again on map dot for that)
+sRes.addEventListener('click',e=>{
+  const a=e.target.closest('a[data-id]');
+  if(!a)return;
+  e.preventDefault();
+  const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
+  s=4;
+  tx=W/2-cx*s;
+  ty=H*0.32-cy*s;
+  ap();
+  sRes.classList.remove('has-hits');
+  sIn.blur();
+});
+// Close dropdown on outside click
+document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
+</script>
+</body>
+</html>
