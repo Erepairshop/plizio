@@ -1173,11 +1173,20 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   type SightItem = { name?: string; text?: string; image?: string; distance?: string; image_attribution?: SightAttr };
   const renderAttribution = (a?: SightAttr): string => {
     if (!a || !a.author) return "";
-    const lic = a.license ? ` (${escapeHtml(a.license)})` : "";
+    // Compact license label: long "Google Places API" stretches mobile cards,
+    // so collapse to just "/ Google" (or skip for Commons/Wikipedia).
+    let licShort = "";
+    if (a.license) {
+      const l = a.license.toLowerCase();
+      if (l.includes("google")) licShort = " / Google";
+      else if (l.includes("wikimedia") || l.includes("commons")) licShort = " / Wiki";
+      else if (l.length <= 16) licShort = " / " + escapeHtml(a.license);
+      // else: long license string omitted to keep card width tight
+    }
     const link = a.source
       ? `<a href="${escapeHtml(a.source)}" rel="nofollow noopener" target="_blank">${escapeHtml(a.author)}</a>`
       : escapeHtml(a.author);
-    return `<span class="plz-sight-attr">📷 ${link}${lic}</span>`;
+    return `<span class="plz-sight-attr">📷 ${link}${licShort}</span>`;
   };
   const renderSightCard = (s: SightItem, withDistance: boolean): string => {
     if (!s?.name) return "";
