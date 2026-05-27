@@ -132,6 +132,32 @@ const COUNTRIES: Country[] = [
     names:{ de:"Bahamas", hu:"Bahama-szigetek", ro:"Bahamas", en:"Bahamas" } },
   { iso:"tt", slug:"trinidad", svgFile:"trinidad.svg.ts", mapVar:"trinidadMap", vbVar:"trinidadViewBox", projFn:"projectCoordsTT",
     names:{ de:"Trinidad", hu:"Trinidad", ro:"Trinidad", en:"Trinidad" } },
+
+  // === South America (2026-05-27) ===
+  { iso:"ar", slug:"argentina", svgFile:"argentina.svg.ts", mapVar:"argentinaMap", vbVar:"argentinaViewBox", projFn:"projectCoordsAR",
+    names:{ de:"Argentinien", hu:"Argentína", ro:"Argentina", en:"Argentina" } },
+  { iso:"bo", slug:"bolivia", svgFile:"bolivia.svg.ts", mapVar:"boliviaMap", vbVar:"boliviaViewBox", projFn:"projectCoordsBO",
+    names:{ de:"Bolivien", hu:"Bolívia", ro:"Bolivia", en:"Bolivia" } },
+  { iso:"br", slug:"brazil", svgFile:"brazil.svg.ts", mapVar:"brazilMap", vbVar:"brazilViewBox", projFn:"projectCoordsBR",
+    names:{ de:"Brasilien", hu:"Brazília", ro:"Brazilia", en:"Brazil" } },
+  { iso:"cl", slug:"chile", svgFile:"chile.svg.ts", mapVar:"chileMap", vbVar:"chileViewBox", projFn:"projectCoordsCL",
+    names:{ de:"Chile", hu:"Chile", ro:"Chile", en:"Chile" } },
+  { iso:"co", slug:"colombia", svgFile:"colombia.svg.ts", mapVar:"colombiaMap", vbVar:"colombiaViewBox", projFn:"projectCoordsCO",
+    names:{ de:"Kolumbien", hu:"Kolumbia", ro:"Columbia", en:"Colombia" } },
+  { iso:"ec", slug:"ecuador", svgFile:"ecuador.svg.ts", mapVar:"ecuadorMap", vbVar:"ecuadorViewBox", projFn:"projectCoordsEC",
+    names:{ de:"Ecuador", hu:"Ecuador", ro:"Ecuador", en:"Ecuador" } },
+  { iso:"gy", slug:"guyana", svgFile:"guyana.svg.ts", mapVar:"guyanaMap", vbVar:"guyanaViewBox", projFn:"projectCoordsGY",
+    names:{ de:"Guyana", hu:"Guyana", ro:"Guyana", en:"Guyana" } },
+  { iso:"py", slug:"paraguay", svgFile:"paraguay.svg.ts", mapVar:"paraguayMap", vbVar:"paraguayViewBox", projFn:"projectCoordsPY",
+    names:{ de:"Paraguay", hu:"Paraguay", ro:"Paraguay", en:"Paraguay" } },
+  { iso:"pe", slug:"peru", svgFile:"peru.svg.ts", mapVar:"peruMap", vbVar:"peruViewBox", projFn:"projectCoordsPE",
+    names:{ de:"Peru", hu:"Peru", ro:"Peru", en:"Peru" } },
+  { iso:"sr", slug:"suriname", svgFile:"suriname.svg.ts", mapVar:"surinameMap", vbVar:"surinameViewBox", projFn:"projectCoordsSR",
+    names:{ de:"Suriname", hu:"Suriname", ro:"Suriname", en:"Suriname" } },
+  { iso:"uy", slug:"uruguay", svgFile:"uruguay.svg.ts", mapVar:"uruguayMap", vbVar:"uruguayViewBox", projFn:"projectCoordsUY",
+    names:{ de:"Uruguay", hu:"Uruguay", ro:"Uruguay", en:"Uruguay" } },
+  { iso:"ve", slug:"venezuela", svgFile:"venezuela.svg.ts", mapVar:"venezuelaMap", vbVar:"venezuelaViewBox", projFn:"projectCoordsVE",
+    names:{ de:"Venezuela", hu:"Venezuela", ro:"Venezuela", en:"Venezuela" } },
 ];
 
 const HINT: Record<Lang, string> = {

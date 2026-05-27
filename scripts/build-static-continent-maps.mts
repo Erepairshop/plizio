@@ -19,9 +19,24 @@ type Continent = {
   hint: Record<Lang, string>;
   // country-id → slug for /-map/ link (must match build-static-maps.mts COUNTRIES entries)
   bind: Record<string, string>;
-  // Extra width/height bias for the zoom math (some continents need different defaults)
-  initialZoom?: number;
+  // Optional override: country-id → 4-lang display name (used when SVG name is a placeholder)
+  nameOverride?: Record<string, Record<Lang, string>>;
 };
+
+// Compute approximate label position from a path's coordinate cloud.
+// Returns the median (X, Y) of all numeric pairs found in the path-d string.
+function computeLabelPos(d: string): [number, number] | null {
+  const nums = d.match(/-?\d+\.?\d*/g);
+  if (!nums || nums.length < 4) return null;
+  const xs: number[] = [], ys: number[] = [];
+  for (let i = 0; i + 1 < nums.length; i += 2) {
+    const x = parseFloat(nums[i]), y = parseFloat(nums[i + 1]);
+    if (!isNaN(x) && !isNaN(y)) { xs.push(x); ys.push(y); }
+  }
+  if (!xs.length) return null;
+  xs.sort((a, b) => a - b); ys.sort((a, b) => a - b);
+  return [xs[Math.floor(xs.length / 2)], ys[Math.floor(ys.length / 2)]];
+}
 
 const SOON: Record<Lang, string> = { de:"Bald verfügbar", hu:"Hamarosan", ro:"În curând", en:"Coming soon" };
 const BACK: Record<Lang, string> = { de:"Zurück", hu:"Vissza", ro:"Înapoi", en:"Back" };
@@ -60,6 +75,51 @@ const CONTINENTS: Continent[] = [
       jamaica:"jamaica", haiti:"haiti", dominicanrepublic:"dominicanrepublic",
       bahamas:"bahamas", trinidad:"trinidad",
     },
+    nameOverride: {
+      usa: { de:"USA", hu:"USA", ro:"SUA", en:"USA" },
+      canada: { de:"Kanada", hu:"Kanada", ro:"Canada", en:"Canada" },
+      mexico: { de:"Mexiko", hu:"Mexikó", ro:"Mexic", en:"Mexico" },
+      guatemala: { de:"Guatemala", hu:"Guatemala", ro:"Guatemala", en:"Guatemala" },
+      honduras: { de:"Honduras", hu:"Honduras", ro:"Honduras", en:"Honduras" },
+      elsalvador: { de:"El Salvador", hu:"Salvador", ro:"El Salvador", en:"El Salvador" },
+      nicaragua: { de:"Nicaragua", hu:"Nicaragua", ro:"Nicaragua", en:"Nicaragua" },
+      costarica: { de:"Costa Rica", hu:"Costa Rica", ro:"Costa Rica", en:"Costa Rica" },
+      panama: { de:"Panama", hu:"Panama", ro:"Panama", en:"Panama" },
+      belize: { de:"Belize", hu:"Belize", ro:"Belize", en:"Belize" },
+      cuba: { de:"Kuba", hu:"Kuba", ro:"Cuba", en:"Cuba" },
+      jamaica: { de:"Jamaika", hu:"Jamaica", ro:"Jamaica", en:"Jamaica" },
+      haiti: { de:"Haiti", hu:"Haiti", ro:"Haiti", en:"Haiti" },
+      dominicanrepublic: { de:"Dom. Rep.", hu:"Dom. Közt.", ro:"Rep. Dom.", en:"Dom. Rep." },
+      bahamas: { de:"Bahamas", hu:"Bahamák", ro:"Bahamas", en:"Bahamas" },
+      trinidad: { de:"Trinidad", hu:"Trinidad", ro:"Trinidad", en:"Trinidad" },
+    },
+  },
+  {
+    slug: "southamerica",
+    svgFile: "southamerica.svg.ts",
+    mapVar: "southamericaMap",
+    vbVar: "southamericaViewBox",
+    title: { de:"Südamerika-Karte", hu:"Dél-Amerika térkép", ro:"Harta Americii de Sud", en:"South America Map" },
+    hint:  { de:"Tippe auf ein Land, um die Karte zu öffnen", hu:"Koppints egy országra a térképért", ro:"Atinge o țară pentru harta detaliată", en:"Tap a country to open its map" },
+    bind: {
+      argentina:"argentina", bolivia:"bolivia", brazil:"brazil", chile:"chile",
+      colombia:"colombia", ecuador:"ecuador", guyana:"guyana", paraguay:"paraguay",
+      peru:"peru", suriname:"suriname", uruguay:"uruguay", venezuela:"venezuela",
+    },
+    nameOverride: {
+      argentina: { de:"Argentinien", hu:"Argentína", ro:"Argentina", en:"Argentina" },
+      bolivia: { de:"Bolivien", hu:"Bolívia", ro:"Bolivia", en:"Bolivia" },
+      brazil: { de:"Brasilien", hu:"Brazília", ro:"Brazilia", en:"Brazil" },
+      chile: { de:"Chile", hu:"Chile", ro:"Chile", en:"Chile" },
+      colombia: { de:"Kolumbien", hu:"Kolumbia", ro:"Columbia", en:"Colombia" },
+      ecuador: { de:"Ecuador", hu:"Ecuador", ro:"Ecuador", en:"Ecuador" },
+      guyana: { de:"Guyana", hu:"Guyana", ro:"Guyana", en:"Guyana" },
+      paraguay: { de:"Paraguay", hu:"Paraguay", ro:"Paraguay", en:"Paraguay" },
+      peru: { de:"Peru", hu:"Peru", ro:"Peru", en:"Peru" },
+      suriname: { de:"Suriname", hu:"Suriname", ro:"Suriname", en:"Suriname" },
+      uruguay: { de:"Uruguay", hu:"Uruguay", ro:"Uruguay", en:"Uruguay" },
+      venezuela: { de:"Venezuela", hu:"Venezuela", ro:"Venezuela", en:"Venezuela" },
+    },
   },
 ];
 
@@ -87,11 +147,21 @@ function renderHtml(c: Continent, lang: Lang, mapData: any[], viewBox: string): 
     }
     return out.join("");
   };
-  const countries = mapData.map((co: any) => ({
-    id: co.id, name: (co.name && co.name[lang]) || (co.names && co.names[lang]) || co.id,
-    cap: co.capital, path: simplifyPath(co.path),
-    url: c.bind[co.id] ? `/${c.bind[co.id]}-map/${lang==='hu'?'':lang+'/'}` : null,
-  }));
+  const countries = mapData.map((co: any) => {
+    // Name priority: nameOverride > co.names (europa style) > co.name (NA style) > id
+    const overrideName = c.nameOverride?.[co.id]?.[lang];
+    const name = overrideName || (co.names && co.names[lang]) || (co.name && co.name[lang]) || co.id;
+    // Label position: use SVG-provided labelX/Y if non-zero, else compute from path median
+    let lx = co.labelX || 0, ly = co.labelY || 0;
+    if (lx === 0 && ly === 0) {
+      const c2 = computeLabelPos(co.path);
+      if (c2) { lx = c2[0]; ly = c2[1]; }
+    }
+    return {
+      id: co.id, name, lx, ly, cap: co.capital, path: simplifyPath(co.path),
+      url: c.bind[co.id] ? `/${c.bind[co.id]}-map/${lang==='hu'?'':lang+'/'}` : null,
+    };
+  });
 
   const vbParts = viewBox.split(/\s+/).map(Number);
   const vbW = vbParts[2], vbH = vbParts[3];
@@ -101,6 +171,11 @@ function renderHtml(c: Continent, lang: Lang, mapData: any[], viewBox: string): 
     const p = `<path class="country${co.url?'':' disabled'}" data-id="${esc(co.id)}" data-name="${esc(co.name)}" d="${co.path}"/>`;
     return co.url ? `<a href="${co.url}" aria-label="${esc(co.name)}">${p}</a>` : p;
   }).join("");
+  // Country name labels (text + stroke for legibility on map)
+  const svgLabels = countries
+    .filter((co: any) => co.lx && co.ly)
+    .map((co: any) => `<text class="cname" x="${co.lx}" y="${co.ly}">${esc(co.name)}</text>`)
+    .join("");
 
   const canonicalLang = lang === 'hu' ? '' : lang + '/';
   return `<!doctype html>
@@ -132,6 +207,7 @@ header .langs{display:flex;gap:.25rem}
 .country{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s,stroke .15s;cursor:pointer}
 .country:hover,.country.hover{fill:#2d3a78;stroke:#fff}
 .country.disabled{cursor:not-allowed;opacity:.6}
+.cname{fill:#fff;font-size:11px;font-weight:700;pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:#0a0a1f;stroke-width:3;stroke-linejoin:round}
 .hint{position:absolute;top:54px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
 @keyframes fadeOut{to{opacity:0}}
 .toast{position:absolute;bottom:1rem;left:50%;transform:translate(-50%,200%);background:#0d1230;border:1px solid #ffffff20;padding:.7rem 1rem;border-radius:10px;font-size:.85rem;z-index:8;transition:transform .25s;pointer-events:none}
@@ -149,6 +225,7 @@ header .langs{display:flex;gap:.25rem}
 <div id="stage">
   <svg id="svg" viewBox="${viewBox}" preserveAspectRatio="xMidYMid meet">
     <g id="gC">${svgCountries}</g>
+    <g id="gL">${svgLabels}</g>
   </svg>
   <div class="zoom"><button id="zin">+</button><button id="zout">−</button></div>
 </div>
@@ -159,7 +236,8 @@ const LANG=${JSON.stringify(lang)},W=${vbW},H=${vbH},SOON=${JSON.stringify(soon)
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gC=document.getElementById('gC');
 let s=1,tx=0,ty=0;
-function ap(){gC.setAttribute('transform','translate('+tx+','+ty+') scale('+s+')')}
+const gL=document.getElementById('gL');
+function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gC.setAttribute('transform',tr);if(gL)gL.setAttribute('transform',tr)}
 function clmp(v){return Math.max(.5,Math.min(20,v))}
 function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
 function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
