@@ -12,6 +12,8 @@ ad-agriculture-fruit-orchards-sant-julia-extra-3
 ad-agriculture-high-mountain-potato-farms-extra-3
 ad-agriculture-horse-breeding-farms-extra-3
 ad-agriculture-market-garden-escaldes-extra-3
+ad-agriculture-medicinal-herb-gardens-encamp-extra-3
+ad-agriculture-mushroom-foraging-areas-canillo-extra-3
 ad-agriculture-organic-farm-anyos-extra-3
 ad-agriculture-sheep-and-goat-farms-ordino-extra-3
 ad-agriculture-shepherd-huts-madriu-valley-extra-3
@@ -23,6 +25,7 @@ ad-animal-habitat-alpine-chough-high-cliffs-extra
 ad-animal-habitat-asp-viper-sunny-slopes-extra
 ad-animal-habitat-badger-den-la-massana-extra
 ad-animal-habitat-bat-caves-sant-julia-extra
+ad-animal-habitat-bearded-vulture-high-peaks-extra
 ad-animal-habitat-brook-trout-river-sant-julia-extra
 ad-animal-habitat-butterfly-meadows-ordino-extra
 ad-animal-habitat-capercaillie-forests-ordino-extra
@@ -35,6 +38,7 @@ ad-animal-habitat-grass-snake-wetlands-extra
 ad-animal-habitat-griffon-vulture-nesting-la-massana-extra
 ad-animal-habitat-ibex-reintroduction-zone-extra
 ad-animal-habitat-marmot-viewpoint-canillo-extra
+ad-animal-habitat-otter-valira-river-extra
 ad-animal-habitat-pine-marten-conifer-forests-extra
 ad-animal-habitat-ptarmigan-high-altitudes-extra
 ad-animal-habitat-pyrenean-chamois-ordino-extra
@@ -92,12 +96,14 @@ bad-doberan-extra
 bad-homburg-extra
 bad-kreuznach-extra
 bagaces-de-guanacaste-cities-v2
+bahrain-ajirah-relief-v2
 bahrain-al-hajiyat-relief-v2
 bahrain-al-hamalah-relief-v2
 bahrain-al-hazm-plateau-nature-v2
 bahrain-al-jasayrah-relief-v2
 bahrain-al-jazaer-beach-nature-v2
 bahrain-al-markh-relief-v2
+bahrain-al-wasmiya-relief-v2
 bahrain-bu-saadah-island-nature-v2
 bahrain-bu-thaur-island-nature-v2
 bahrain-fasht-al-azm-relief-v2
@@ -238,6 +244,7 @@ barbados-codrington-college-gardens-life-v2
 barbados-codrington-college-hill-relief-v2
 barbados-codrington-college-history-v2
 barbados-codrington-woods-nature-v2
+barbados-coles-cave-nature-v2
 barbados-colleton-cities-v2
 barbados-constant-cities-v2
 barbados-cotton-tower-signal-station-history-v2
@@ -334,6 +341,7 @@ barbados-mount-misery-relief-v2
 barbados-mount-standfast-commercial-economic-v2
 barbados-mount-stepney-relief-v2
 barbados-mount-wilton-relief-v2
+barbados-mullins-bay-nature-v2
 barbados-mullins-cities-v2
 barbados-mutual-life-assurance-society-building-landmarks-v2
 barbados-national-heroes-square-landmarks-v2
@@ -1140,6 +1148,7 @@ grenada-carriacou-museum-history-v2
 grenada-christ-of-the-deep-monument-v2
 grenada-concord-falls-life-v2
 grenada-crochu-cities-v2
+grenada-dougaldston-estate-history-v2
 grenada-dragons-bay-nature-v2
 grenada-fedons-camp-relief-v2
 grenada-fort-frederick-history-v2
@@ -1152,6 +1161,7 @@ grenada-grand-anse-business-district-economic-v2
 grenada-grand-etang-lake-nature-v2
 grenada-grand-etang-national-park-life-v2
 grenada-grenville-cities-v2
+grenada-grenville-port-economic-v2
 grenada-harvey-vale-cities-v2
 grenada-high-north-relief-v2
 grenada-hillsborough-cities-v2
@@ -1286,6 +1296,7 @@ hongkong-elements-mall-west-kowloon-landmarks-v2
 hongkong-exchange-square-economic-v2
 hongkong-fan-lau-fort-history-v2
 hongkong-fanling-cities-v2
+hongkong-fanling-wai-cities-v2
 hongkong-flagstaff-house-history-v2
 hongkong-fo-tan-cities-v2
 hongkong-former-central-magistracy-history-v2
@@ -1374,6 +1385,7 @@ hongkong-maryknoll-convent-school-history-v2
 hongkong-mei-foo-cities-v2
 hongkong-mirror-pool-nature-v2
 hongkong-mong-kok-cities-v2
+hongkong-mong-kok-retail-economic-v2
 hongkong-mount-austin-relief-v2
 hongkong-mount-cameron-relief-v2
 hongkong-mount-collinson-relief-v2
@@ -1408,6 +1420,7 @@ hongkong-old-path-military-trail-history-v2
 hongkong-old-supreme-court-history-v2
 hongkong-old-supreme-court-statue-history-v2
 hongkong-old-tai-po-police-station-history-v2
+hongkong-old-wan-chai-post-office-history-v2
 hongkong-pacific-place-economic-v2
 hongkong-palace-museum-landmarks-v2
 hongkong-park-life-v2
@@ -1521,6 +1534,7 @@ hongkong-tung-ping-chau-nature-v2
 hongkong-two-international-finance-centre-economic-v2
 hongkong-university-hall-hku-history-v2
 hongkong-university-hall-hku-landmarks-v2
+hongkong-university-museum-art-gallery-landmarks-v2
 hongkong-victoria-peak-garden-life-v2
 hongkong-victoria-peak-tower-landmarks-v2
 hongkong-violet-hill-relief-v2
@@ -1737,6 +1751,7 @@ kuwait-umm-negga-relief-v2
 kuwait-umm-ruaba-relief-v2
 kuwait-wadi-al-batin-nature-v2
 kuwait-wadi-al-rimam-relief-v2
+kuwait-wadi-al-shagaya-relief-v2
 kuwait-wadi-umm-al-hayman-relief-v2
 kuwait-wadi-umm-al-khilsan-relief-v2
 kuwait-wafra-desert-strip-nature-v2
@@ -1752,6 +1767,7 @@ kyrgyzstan-aravan-petroglyphs-history-v2
 kyrgyzstan-at-bashy-ruins-history-v2
 kyrgyzstan-barskoon-tamerlane-stone-history-v2
 kyrgyzstan-batken-museum-history-v2
+kyrgyzstan-belovodskoye-site-history-v2
 kyrgyzstan-bishkek-old-station-history-v2
 kyrgyzstan-chon-dalin-history-v2
 kyrgyzstan-chuy-museum-history-v2
@@ -1759,6 +1775,7 @@ kyrgyzstan-daraut-korgon-history-v2
 kyrgyzstan-frunze-house-museum-history-v2
 kyrgyzstan-frunze-statue-bishkek-history-v2
 kyrgyzstan-gulcha-fortress-history-v2
+kyrgyzstan-jalal-abad-museum-history-v2
 kyrgyzstan-kara-bulak-history-v2
 kyrgyzstan-kara-darya-ruins-history-v2
 kyrgyzstan-karasuu-art-history-v2
@@ -1769,10 +1786,12 @@ kyrgyzstan-kochkor-rock-art-history-v2
 kyrgyzstan-koshoi-korgon-history-v2
 kyrgyzstan-kulan-say-history-v2
 kyrgyzstan-kyzyl-adyr-history-v2
+kyrgyzstan-kyzyl-tuu-heritage-history-v2
 kyrgyzstan-manas-ata-mausoleum-history-v2
 kyrgyzstan-naryn-museum-history-v2
 kyrgyzstan-navekat-ruins-history-v2
 kyrgyzstan-opera-theater-bishkek-history-v2
+kyrgyzstan-orto-tokoy-kurgans-history-v2
 kyrgyzstan-przewalski-memorial-history-v2
 kyrgyzstan-razzakov-museum-history-v2
 kyrgyzstan-sadovoye-site-history-v2
@@ -1938,6 +1957,7 @@ lesotho-old-train-station-history-v2
 lesotho-ongeluksnek-pass-economic-v2
 lesotho-our-lady-victories-history-v2
 lesotho-oxbow-alpine-area-life-v2
+lesotho-paray-history-v2
 lesotho-paray-mission-thaba-tseka-landmarks-v2
 lesotho-paris-evangelical-history-v2
 lesotho-pelaneng-area-life-v2
@@ -2050,6 +2070,7 @@ liberia-east-nimba-nature-reserve-life-v2
 liberia-executive-mansion-landmarks-v2
 liberia-farmington-river-corridor-life-v2
 liberia-farmington-river-nature-v2
+liberia-fish-town-economic-zone-v2
 liberia-foya-cities-v2
 liberia-gable-cities-v2
 liberia-ganta-cities-v2
@@ -2191,6 +2212,7 @@ lithuania-telsiai-cathedral-history-v2
 lithuania-varena-old-railway-station-history-v2
 lithuania-vilkaviskis-cathedral-history-v2
 lithuania-zarasai-manor-site-history-v2
+logone-river-nature-v2
 lucca
 lueneburg-extra
 lukaya-cities-v2
@@ -2225,6 +2247,7 @@ malawi-chizumulu-fortification-history-v2
 malawi-chongoni-hills-relief-v2
 malawi-chongoni-rock-art-history-v2
 malawi-dedza-border-post-economic-v2
+malawi-dedza-mountain-nature-v2
 malawi-dedza-salima-escarpment-relief-v2
 malawi-domasi-mission-site-history-v2
 malawi-domwe-island-nature-v2
@@ -2272,6 +2295,7 @@ malawi-lilongwe-dairy-economic-v2
 malawi-lilongwe-nature-sanctuary-life-v2
 malawi-lilongwe-war-memorial-history-v2
 malawi-lilongwe-wildlife-centre-life-v2
+malawi-limbe-leaf-factory-economic-v2
 malawi-linthipe-river-nature-v2
 malawi-livingstonia-cairn-history-v2
 malawi-livingstonia-escarpment-relief-v2
@@ -2499,6 +2523,7 @@ mauritania-aoun-cities-v2
 mauritania-arkin-wildlife-life-v2
 mauritania-assaba-hills-relief-v2
 mauritania-atarr-oasis-economic-v2
+mauritania-atâr-cities-v2
 mauritania-atâr-suburb-cities-v2
 mauritania-ayoun-el-atrous-valley-nature-v2
 mauritania-azefal-wildlife-life-v2
@@ -3179,6 +3204,7 @@ nauru-bpc-office-history-v2
 nauru-buada-basin-relief-v2
 nauru-buada-cities-v2
 nauru-buada-district-gardens-life-v2
+nauru-buada-lagoon-life-v2
 nauru-buada-pandanus-groves-nature-v2
 nauru-buada-settlement-site-history-v2
 nauru-cantilever-two-landmarks-v2
@@ -3187,6 +3213,7 @@ nauru-central-pacific-bank-landmarks-v2
 nauru-civic-centre-landmarks-v2
 nauru-civil-administration-ruins-history-v2
 nauru-command-ridge-forest-life-v2
+nauru-command-ridge-guns-history-v2
 nauru-command-ridge-landmarks-v2
 nauru-conservation-nursery-life-v2
 nauru-denig-settlement-economic-v2
@@ -3196,6 +3223,7 @@ nauru-denigomodu-coast-nature-v2
 nauru-eastern-rim-relief-v2
 nauru-eigigu-supermarket-economic-v2
 nauru-ewa-cities-v2
+nauru-ewa-reef-nature-v2
 nauru-general-hospital-landmarks-v2
 nauru-ijuw-cities-v2
 nauru-ijuw-coastline-nature-v2
@@ -3210,6 +3238,7 @@ nauru-meneng-pandanus-groves-life-v2
 nauru-meneng-terrace-relief-v2
 nauru-moqua-caves-nature-v2
 nauru-moqua-well-area-life-v2
+nauru-moqua-well-landmarks-v2
 nauru-museum-landmarks-v2
 nauru-naoero-museum-history-v2
 nauru-nfmra-economic-v2
@@ -3221,6 +3250,7 @@ nauru-northern-uplands-relief-v2
 nauru-nrc-hq-economic-v2
 nauru-old-cantilever-history-v2
 nauru-parliament-house-landmarks-v2
+nauru-phosphate-cantilever-economic-v2
 nauru-phosphate-cantilever-landmarks-v2
 nauru-phosphate-discovery-site-history-v2
 nauru-phosphate-pinnacles-relief-v2
@@ -3250,6 +3280,7 @@ newcaledonia-aiguilles-prony-nature-v2
 newcaledonia-amedee-island-reserve-life-v2
 newcaledonia-anse-du-tir-history-v2
 newcaledonia-anse-vata-cities-v2
+newcaledonia-arab-cemetery-nessadiou-history-v2
 newcaledonia-artillerie-bridge-landmarks-v2
 newcaledonia-bagnes-ile-des-pins-history-v2
 newcaledonia-baie-des-citrons-cities-v2
@@ -3357,6 +3388,7 @@ newcaledonia-lifou-mission-history-v2
 newcaledonia-madeleine-waterfalls-reserve-life-v2
 newcaledonia-magent-fort-history-v2
 newcaledonia-magenta-cities-v2
+newcaledonia-maison-celieres-history-v2
 newcaledonia-mare-archaeology-history-v2
 newcaledonia-mare-cities-v2
 newcaledonia-maritime-museum-history-v2
@@ -3700,6 +3732,7 @@ palestine-beit-jala-cities-v2
 palestine-beit-jala-cremisan-winery-economic-v2
 palestine-beit-kahel-cities-v2
 palestine-beit-lahiya-cities-v2
+palestine-beit-sahour-cities-v2
 palestine-beit-ummar-cities-v2
 palestine-beitin-history-v2
 palestine-beitunia-cities-v2
@@ -4023,6 +4056,7 @@ republicofcongo-loango-coast-relief-v2
 republicofcongo-loango-harbor-history-v2
 republicofcongo-loni-lake-nature-v2
 republicofcongo-loufoulakari-river-zone-life-v2
+republicofcongo-loulou-falls-nature-v2
 republicofcongo-loutete-nord-cities-v2
 republicofcongo-léfini-faunal-reserve-life-v2
 republicofcongo-léfini-wetland-life-v2
@@ -4033,6 +4067,7 @@ republicofcongo-makabana-railway-mining-economic-v2
 republicofcongo-makoua-nord-cities-v2
 republicofcongo-maloukou-sez-economic-v2
 republicofcongo-maya-maya-airport-economic-v2
+republicofcongo-mayombe-hills-relief-v2
 republicofcongo-mbe-plateau-savannah-life-v2
 republicofcongo-mfilou-cities-v2
 republicofcongo-mfilou-est-cities-v2
@@ -4327,6 +4362,7 @@ saintlucia-paix-bouche-war-memorial-history-v2
 saintlucia-patience-cities-v2
 saintlucia-petit-piton-nature-v2
 saintlucia-petit-piton-waterfall-relief-v2
+saintlucia-piaye-bridge-landmarks-v2
 saintlucia-piaye-cities-v2
 saintlucia-pigeon-island-causeway-history-v2
 saintlucia-pigeon-island-lazaretto-history-v2
