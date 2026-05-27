@@ -1,335 +1,934 @@
-// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraChileNatureV2: POI[] = [
-    {
-    id: "parque-nacional-torres-del-paine-nature-v2",
-    type: "nature",
-    parent: "CL-MA",
-    coords: [-73.0000, -51.0000],
-    name: {
-      de: "Nationalpark Torres del Paine",
-      hu: "Torres del Paine Nemzeti Park",
-      ro: "Parcul Național Torres del Paine",
-      en: "Torres del Paine National Park"},
-    image: "/poi-images/parque-nacional-torres-del-paine-nature-v2.webp",
+  {
+    id: "ojos-del-salado-nature-v2",
+    type: "mountain",
+    parent: "CL-AT",
+    coords: [-68.5411, -27.1092],
+    name: { de: "Ojos del Salado", hu: "Ojos del Salado", ro: "Ojos del Salado", en: "Ojos del Salado" },
+    description: {
+      de: "Der höchste aktive Vulkan der Welt und der zweithöchste Berg der westlichen Hemisphäre.",
+      hu: "A világ legmagasabb aktív vulkánja és a nyugati félteke második legmagasabb hegye.",
+      ro: "Cel mai înalt vulcan activ din lume și al doilea cel mai înalt munte din emisfera vestică.",
+      en: "The highest active volcano in the world and the second highest mountain in the Western Hemisphere."
+    },
+    facts: {
+      de: ["Erreicht eine Höhe von 6893 Metern.", "Liegt an der Grenze zu Argentinien."],
+      hu: ["6893 méter magasságot ér el.", "Az argentin határon fekszik."],
+      ro: ["Atinge o altitudine de 6893 metri.", "Situat la granița cu Argentina."],
+      en: ["Reaches a height of 6893 meters.", "Located on the border with Argentina."]
+    },
     descriptionAdvanced: {
-      de: "Der Nationalpark Torres del Paine in der chilenischen Region Magallanes gilt als eines der spektakulärsten Naturwunder der Welt. Er wurde 1959 gegründet und erstreckt sich über 227.000 Hektar patagonischer Wildnis, geprägt durch monumentale Granitspitzen, riesige Gletscher und türkisfarbene Seen. Die namensgebenden drei Granittürme (Torres) sind das Wahrzeichen des Parks und ein Magnet für Bergsteiger und Wanderer. Zu den weiteren Höhepunkten zählen das Cuernos del Paine Massiv und der Grey-Gletscher, der Teil des Südlichen Patagonischen Eisfeldes ist. Die Tierwelt ist außergewöhnlich vielfältig, mit großen Populationen von Guanakos, Nandus und dem schwer fassbaren Puma. Aufgrund seiner ökologischen Bedeutung wurde der Park 1978 von der UNESCO zum Biosphärenreservat erklärt. Wanderrouten wie der 'W-Trek' oder der 'O-Circuit' gehören zu den berühmtesten Fernwanderwegen der Welt und ziehen jährlich hunderttausende Besucher an. Trotz seiner Beliebtheit bleibt der Park ein streng geschütztes Gebiet, das die ungezähmte Schönheit Patagoniens in ihrer reinsten Form bewahrt.",
-      hu: "A chilei Magallanes régióban található Torres del Paine Nemzeti Park a világ egyik leglátványosabb természeti csodája. Az 1959-ben alapított park 227 000 hektárnyi patagóniai vadont foglal magában, amelyet monumentális gránitcsúcsok, hatalmas gleccserek és türkizkék tavak jellemeznek. A névadó három gránittorony (Torres) a park jelképe, amely mágnesként vonzza a hegymászókat és túrázókat. További kiemelkedő látnivalók közé tartozik a Cuernos del Paine masszívum és a Grey-gleccser, amely a déli patagóniai jégmező része. Az állatvilág rendkívül változatos: nagy létszámú guanako- és nandu-populációk élnek itt, valamint a rejtőzködő puma is előfordul. Ökológiai jelentősége miatt az UNESCO 1978-ban bioszféra-rezervátummá nyilvánította a területet. A 'W-túra' és az 'O-körút' a világ leghíresebb távolsági túraútvonalai közé tartoznak, évente látogatók százezreit vonzzák. Népszerűsége ellenére a park szigorúan védett terület marad, amely tisztaságában őrzi Patagónia zabolátlan szépségét.",
-      ro: "Parcul Național Torres del Paine, situat în regiunea Magallanes din Chile, este considerat una dintre cele mai spectaculoase minuni naturale ale lumii. Înființat în 1959, parcul se întinde pe 227.000 de hectare de sălbăticie patagoniană, fiind caracterizat prin vârfuri monumentale de granit, ghețari imenși și lacuri de culoarea turcoazului. Cele trei turnuri de granit (Torres), care dau numele parcului, sunt simbolul acestuia și un punct de atracție major pentru alpiniști și drumeți. Alte atracții notabile includ masivul Cuernos del Paine și Ghețarul Grey, care face parte din Câmpul de Gheață Patagonian de Sud. Fauna este excepțional de diversă, cu populații mari de guanaco, nandu și evazivul puma. Datorită importanței sale ecologice, parcul a fost declarat Rezervație a Biosferei de către UNESCO în 1978. Traseele de drumeție precum 'W-Trek' sau 'O-Circuit' sunt printre cele mai faimoase din lume, atrăgând anual sute de mii de vizitatori. În ciuda popularității sale, parcul rămâne o zonă strict protejată care conservă frumusețea neîmblânzită a Patagoniei.",
-      en: "Torres del Paine National Park, located in Chile's Magallanes Region, is widely regarded as one of the world's most spectacular natural wonders. Established in 1959, the park encompasses 227,000 hectares of Patagonian wilderness, characterized by monumental granite peaks, massive glaciers, and turquoise lakes. The three namesake granite towers (Torres) are the park's iconic symbol, serving as a magnet for climbers and hikers globally. Other highlights include the Cuernos del Paine massif and the Grey Glacier, part of the Southern Patagonian Ice Field. The local wildlife is exceptionally diverse, featuring significant populations of guanacos, rheas, and the elusive puma. Due to its ecological significance, UNESCO designated the park a Biosphere Reserve in 1978. Hiking routes like the 'W-Trek' and the 'O-Circuit' are among the most famous long-distance trails in the world, attracting hundreds of thousands of visitors annually. Despite its popularity, the park remains a strictly protected area that preserves the untamed beauty of Patagonia in its purest form.",
+      de: "",
+      hu: "",
+      ro: "Ojos del Salado reprezintă cel mai înalt punct din Chile și cel mai înalt vulcan activ de pe planetă, atingând o altitudine impresionantă de 6.893 de metri. Situat în regiunea aridă Puna de Atacama, izolarea sa îl transformă într-o destinație extrem de provocatoare pentru alpiniștii din întreaga lume. Muntele adăpostește un lac de crater permanent la cota 6.390, fiind una dintre cele mai înalte acumulări de apă de pe Terra. Deși este un vulcan activ, ultima erupție majoră a avut loc acum aproximativ 1.300 de ani. Acest gigant al Andzilor rămâne un loc esențial pentru cercetările geologice privind activitatea vulcanică la mare altitudine. Geografia K8 — vulcani și tectonica plăcilor.",
+      en: "Ojos del Salado stands as the highest point in Chile and the world's tallest active volcano, reaching an altitude of 6,893 meters. Located in the arid Puna de Atacama region, its remote setting makes it a challenging destination for mountaineers. The mountain features a permanent crater lake at 6,390 meters, which is one of the highest water bodies on Earth. Despite its volcanic nature, the last major eruption occurred approximately 1,300 years ago. It is a key site for geological research into high-altitude volcanic activity."
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1959 in der Region Magallanes.", "Umfasst eine Gesamtfläche von 227.298 Hektar.", "Wurde 1978 zum UNESCO-Biosphärenreservat erklärt.", "Beherbergt den Grey-Gletscher des patagonischen Eisfeldes.", "Die höchsten Türme erreichen über 2.800 Meter.", "Wurde 2013 zum achten Weltwunder gewählt."],
-      hu: ["1959-ben alapították a Magallanes régióban.", "Teljes területe 227 298 hektárt tesz ki.", "1978-ban lett az UNESCO bioszféra-rezervátuma.", "Itt található a hatalmas Grey-gleccser.", "A legmagasabb gránittorony több mint 2800 méteres.", "2013-ban a világ nyolcadik csodájának választották."],
-      ro: ["Înființat în anul 1959 în regiunea Magallanes.", "Are o suprafață totală de 227.298 de hectare.", "Declarat Rezervație a Biosferei UNESCO în 1978.", "Adăpostește impresionantul Ghețar Grey.", "Cele mai înalte vârfuri depășesc 2.800 de metri.", "Votat a opta minune a lumii în anul 2013."],
-      en: ["Established in 1959 in the Magallanes Region.", "Spans a total area of 227,298 hectares.", "Designated a UNESCO Biosphere Reserve in 1978.", "Home to the massive Grey Glacier of the ice field.", "The highest granite towers exceed 2,800 meters.", "Voted the eighth wonder of the world in 2013."],
-      es: [],
-      pt: [],
-      fr: [],
-    },
-    description: {
-      de: "Ein weltbekanntes Wildnisgebiet mit Granitfelsen, Gletschern und Seen in der patagonischen Region.",
-      hu: "Világhírű vadon a patagóniai régióban, gránitsziklákkal, gleccserekkel és tavakkal.",
-      ro: "O zonă de sălbăticie de renume mondial din regiunea patagoneză, cu vârfuri de granit, ghețari și lacuri.",
-      en: "A world-renowned wilderness area in the Patagonian region with granite peaks, glaciers, and lakes.",
-      es: "Una zona silvestre de fama mundial con rocas de granito, glaciares y lagos en la región de la Patagonia.",
-      pt: "Uma área selvagem mundialmente famosa com rochas de granito, glaciares e lagos na região patagónica.",
-      fr: "Une zone de nature sauvage de renommée mondiale avec des rochers de granit, des glaciers et des lacs dans la région de la Patagonie.",
-    },
-    
-    
-    facts: {
-      de: ["Die 'Torres' (Türme) sind markante Granitformationen.", "Der Grey-Gletscher ist eine Hauptattraktion."],
-      hu: ["A 'Torres' (tornyok) látványos gránitformációk.", "A Grey-gleccser a fő attrakció."],
-      ro: ["'Torres' (turnurile) sunt formațiuni de granit proeminente.", "Ghețarul Grey este o atracție principală."],
-      en: ["The 'Torres' (towers) are striking granite formations.", "The Grey Glacier is a main attraction."],
-      es: ["Las Torres son formaciones de granito distintivas.", "El glaciar Grey es una de las principales atracciones."],
-      pt: ["As Torres são formações de granito marcantes.", "O glaciar Grey é uma das principais atrações."],
-      fr: ["Les Torres sont des formations de granit distinctives.", "Le glacier Grey est l'une des principales attractions."],
-    }, image: "/poi-images/parque-nacional-torres-del-paine-nature-v2.webp"},
+      de: [],
+      hu: [],
+      ro: ["Cel mai înalt vulcan activ din lume.", "Altitudine oficială: 6.893 metri.", "Adăpostește unul dintre cele mai înalte lacuri de pe glob.", "Situat exact pe granița dintre Chile și Argentina."],
+      en: ["Highest active volcano in the world.", "Altitude: 6,893 meters above sea level.", "Located on the border with Chile and Argentina.", "Home to one of the world's highest lakes."]
+    }
+  },
   {
-    id: "parque-nacional-conguillio-nature-v2",
-    type: "nature",
+    id: "llullaillaco-nature-v2",
+    type: "mountain",
+    parent: "CL-AN",
+    coords: [-68.5364, -24.7192],
+    name: { de: "Llullaillaco", hu: "Llullaillaco", ro: "Llullaillaco", en: "Llullaillaco" },
+    description: {
+      de: "Ein ruhender Vulkan in den Anden, bekannt für die Entdeckung von Inka-Mumien nahe dem Gipfel.",
+      hu: "Szunnyadó vulkán az Andokban, amely a csúcs közelében talált inka múmiákról ismert.",
+      ro: "Un vulcan adormit din Anzi, cunoscut pentru descoperirea mumiilor incașe aproape de vârf.",
+      en: "A dormant volcano in the Andes, known for the discovery of Inca mummies near the summit."
+    },
+    facts: {
+      de: ["Mit 6739 Metern einer der höchsten Berge.", "Heiliger Berg der Inka."],
+      hu: ["6739 méteres magasságával az egyik legmagasabb hegy.", "Az inkák szent hegye volt."],
+      ro: ["Cu 6739 de metri este unul dintre cei mai înalți munți.", "Munte sacru al incașilor."],
+      en: ["At 6739 meters, it is one of the highest mountains.", "Sacred mountain of the Incas."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Llullaillaco este un stratovulcan masiv situat la granița dintre Chile și Argentina, renumit pentru găzduirea celui mai înalt sit arheologic din lume. În anul 1999, trei mumii incașe excepțional de bine conservate, cunoscute sub numele de „Copiii de pe Llullaillaco”, au fost descoperite aproape de vârful de 6.739 de metri. Acești tineri au fost sacrificați acum mai bine de 500 de ani în cadrul unui ritual sacru numit Capacocha. Frigul extrem și aerul uscat al Anzilor înalți i-au mumificat în mod natural, oferind informații neprețuite despre cultura incașă. Astăzi, muntele reprezintă o destinație de referință atât pentru arheologi, cât și pentru alpiniștii de altitudine. Istorie K7 — Imperiul Incaș și ritualurile precolumbiene.",
+      en: "Llullaillaco is a massive stratovolcano on the border of Chile and Argentina, famous for harboring the highest archaeological site in the world. In 1999, three exceptionally well-preserved Inca mummies, known as the Children of Llullaillaco, were discovered near its 6,739-meter summit. These individuals were sacrificed over 500 years ago as part of a ritual known as Capacocha. The extreme cold and dry air of the high Andes naturally mummified them, providing invaluable insights into Inca culture. Today, the mountain remains a significant site for both archaeologists and high-altitude climbers."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Înălțimea vârfului: 6.739 metri.", "Cel mai înalt sit arheologic de pe planetă.", "Locul de descoperire a trei mumii incașe celebre.", "Ultima erupție cunoscută a avut loc în jurul anului 1877."],
+      en: ["Summit height: 6,739 meters.", "Highest archaeological site globally.", "Site of three famous Inca mummies.", "Last known eruption around 1877."]
+    }
+  },
+  {
+    id: "volcan-parinacota-nature-v2",
+    type: "mountain",
+    parent: "CL-AP",
+    coords: [-69.1425, -18.1661],
+    name: { de: "Volcán Parinacota", hu: "Volcán Parinacota", ro: "Volcán Parinacota", en: "Volcán Parinacota" },
+    description: {
+      de: "Ein massiver Schichtvulkan an der Grenze zu Bolivien, Teil der Zentralen Anden.",
+      hu: "Hatalmas rétegvulkán a bolíviai határon, a Középső-Andok része.",
+      ro: "Un stratovulcan masiv la granița cu Bolivia, parte a Anzilor Centrali.",
+      en: "A massive stratovolcano on the border with Bolivia, part of the Central Andes."
+    },
+    facts: {
+      de: ["Seine Höhe beträgt 6348 Meter.", "Liegt im Lauca-Nationalpark."],
+      hu: ["Magassága 6348 méter.", "A Lauca Nemzeti Parkban található."],
+      ro: ["Înălțimea sa este de 6348 metri.", "Situat în Parcul Național Lauca."],
+      en: ["Its height is 6348 meters.", "Located in Lauca National Park."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Volcán Parinacota este un stratovulcan spectaculos cu vârful mereu înzăpezit, care domină peisajul Parcului Național Lauca din nordul statului Chile. Făcând parte din vârfurile gemene Nevados de Payachata, acesta se află alături de vecinul său Pomerape, creând o siluetă legendară pentru poporul local Aymara. Ultima activitate majoră a vulcanului a avut loc acum aproximativ 8.000 de ani, când o prăbușire masivă a versantului a dus la formarea lacului Chungará din apropiere. În prezent, forma sa de con perfect este un simbol al podișului andin și un punct de atracție major. Acesta servește ca habitat vital pentru o faună unică de mare altitudine, precum vicuñas și flamingo andini. Biologie K7 — adaptări la altitudine.",
+      en: "Volcán Parinacota is a stunning, snow-capped stratovolcano that dominates the landscape of Lauca National Park in northern Chile. Part of the Nevados de Payachata twin peaks, it sits alongside its neighbor Pomerape, creating a legendary skyline for the local Aymara people. The volcano's last major activity occurred around 8,000 years ago when a massive collapse created the nearby Chungará Lake. Today, its perfect cone shape is a symbol of the Andean highlands. It serves as a vital habitat for unique high-altitude fauna like vicuñas and Andean flamingos."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Altitudine: 6.348 metri.", "Face parte din „Gemenii Payachata”.", "Situat în inima Parcului Național Lauca.", "Legendele Aymara îl asociază cu un prinț pierdut."],
+      en: ["Elevation: 6,348 meters.", "Forms part of the Payachata twins.", "Located within Lauca National Park.", "Aymara legend associates it with a lost prince."]
+    }
+  },
+  {
+    id: "volcan-licancabur-nature-v2",
+    type: "mountain",
+    parent: "CL-AN",
+    coords: [-67.8833, -22.8333],
+    name: { de: "Volcán Licancabur", hu: "Volcán Licancabur", ro: "Volcán Licancabur", en: "Volcán Licancabur" },
+    description: {
+      de: "Ein markanter Vulkan an der Grenze zwischen Chile und Bolivien mit einem Kratersee.",
+      hu: "Kiemelkedő vulkán Chile és Bolívia határán, amelynek krátertava van.",
+      ro: "Un vulcan proeminent la granița dintre Chile și Bolivia, cu un lac vulcanic.",
+      en: "A prominent volcano on the border between Chile and Bolivia with a crater lake."
+    },
+    facts: {
+      de: ["Der Kratersee gehört zu den höchstgelegenen der Welt.", "Besitzt eine perfekte Kegelform."],
+      hu: ["Krátertava a világ legmagasabban fekvői közé tartozik.", "Tökéletes kúp alakja van."],
+      ro: ["Lacul din crater este printre cele mai înalte din lume.", "Are o formă conică perfectă."],
+      en: ["The crater lake is among the highest in the world.", "Has a perfect cone shape."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Licancabur este un vulcan cu o simetrie remarcabilă care străjuiește Deșertul Atacama, în apropiere de localitatea San Pedro de Atacama. Vârful său, situat la 5.920 de metri, conține un lac de crater care rămâne în stare lichidă în ciuda temperaturilor nocturne extreme, datorită activității geotermale. Acest lac a fost utilizat de NASA ca un model pentru mediile marțiene, studii fiind realizate pentru a înțelege cum ar putea supraviețui viața în condiții ostile. Pentru indigenii Likan Antai, muntele a fost mult timp considerat un gardian sacru al deșertului. Ascensiunea spre vârf oferă vederi panoramice incredibile atât asupra salinelor chiliene, cât și asupra altiplanoului bolivian. Științe K8 — astrobiologie și medii extreme.",
+      en: "Licancabur is a highly symmetrical volcano that towers over the Atacama Desert near San Pedro de Atacama. Its summit, sitting at 5,920 meters, contains a crater lake that remains liquid despite extreme nighttime temperatures, thanks to geothermal activity. This lake has been used by NASA as a proxy for Martian environments to study how life might survive in harsh conditions. For the indigenous Likan Antai people, the mountain has long been considered a sacred guardian of the desert. The climb to the top offers panoramic views of both the Chilean salt flats and the Bolivian altiplano."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Înălțime: 5.920 metri.", "Conține un lac de crater la mare altitudine.", "Sit de cercetare NASA pentru simularea vieții pe Marte.", "Munte sacru în cultura Likan Antai."],
+      en: ["Height: 5,920 meters.", "Contains a high-altitude crater lake.", "NASA research site for Martian-like life.", "Sacred to the Likan Antai culture."]
+    }
+  },
+  {
+    id: "volcan-villarrica-nature-v2",
+    type: "mountain",
+    parent: "CL-AR",
+    coords: [-71.9396, -39.4200],
+    name: { de: "Volcán Villarrica", hu: "Volcán Villarrica", ro: "Volcán Villarrica", en: "Volcán Villarrica" },
+    description: {
+      de: "Einer der aktivsten Vulkane Südamerikas, der über dem gleichnamigen See thront.",
+      hu: "Dél-Amerika egyik legaktívabb vulkánja, amely az azonos nevű tó fölé magasodik.",
+      ro: "Unul dintre cei mai activi vulcani din America de Sud, tronând deasupra lacului omonim.",
+      en: "One of the most active volcanoes in South South America, towering over the lake of the same name."
+    },
+    facts: {
+      de: ["Besitzt einen permanenten Lavasee im Krater.", "Ein beliebtes Ziel für Bergsteiger."],
+      hu: ["Állandó lávatóval rendelkezik a kráterében.", "Népszerű célpont a hegymászók körében."],
+      ro: ["Are un lac de lavă permanent în crater.", "O destinație populară pentru alpiniști."],
+      en: ["Has a permanent lava lake in its crater.", "A popular destination for mountaineers."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Volcán Villarrica este unul dintre cei mai activi și emblematici vulcani din America de Sud, cunoscut pentru coloana sa aproape constantă de fum. Este unul dintre puținii vulcani din lume care prezintă un lac de lavă persistent în interiorul craterului său deschis. În timpul iernii, devine un centru major pentru schi, cu pârtii care oferă vederi uluitoare asupra regiunii lacurilor din jur. Vara, mii de turiști se aventurează în drumeții ghidate până la vârf pentru a privi direct în miezul incandescent al muntelui. Vulcanul este un element central al culturii Mapuche, care îl numesc Ruka Pillañ, sau „Casa Spiritelor”. Geografia K6 — activitate vulcanică și turism.",
+      en: "Volcán Villarrica is one of South America's most active and iconic volcanoes, known for its nearly constant plume of smoke. It is one of the few volcanoes in the world that features a persistent lava lake within its open crater. During the winter, it becomes a major hub for skiing, with slopes that offer breathtaking views of the surrounding Lakes District. In the summer, thousands of tourists embark on guided treks to the summit to peer into the glowing core. The volcano is a centerpiece of the Mapuche culture, who call it Ruka Pillañ, or \"House of the Spirits\"."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Unul dintre puținii vulcani cu lac de lavă persistent.", "Numele nativ Mapuche: Ruka Pillañ.", "Înălțime: 2.847 metri.", "Activitate intensă cu erupții majore recente în 2015."],
+      en: ["One of only five persistent lava lakes.", "Native Mapuche name: Ruka Pillañ.", "Height: 2,847 meters.", "Highly active with major eruptions in 2015."]
+    }
+  },
+  {
+    id: "volcan-osorno-nature-v2",
+    type: "mountain",
+    parent: "CL-LL",
+    coords: [-72.4933, -41.1039],
+    name: { de: "Volcán Osorno", hu: "Volcán Osorno", ro: "Volcán Osorno", en: "Volcán Osorno" },
+    description: {
+      de: "Ein konischer Vulkan, der oft mit dem Berg Fuji verglichen wird.",
+      hu: "Kúp alakú vulkán, amelyet gyakran a Fudzsi hegyhez hasonlítanak.",
+      ro: "Un vulcan conic, adesea comparat cu muntele Fuji.",
+      en: "A conical volcano often compared to Mount Fuji."
+    },
+    facts: {
+      de: ["Seine Spitze ist stets von Gletschern bedeckt.", "Ein Wahrzeichen der Region Los Lagos."],
+      hu: ["Csúcsát mindig gleccserek borítják.", "A Los Lagos régió jelképe."],
+      ro: ["Vârful său este mereu acoperit de ghețari.", "Un simbol al regiunii Los Lagos."],
+      en: ["Its peak is constantly covered by glaciers.", "A symbol of the Los Lagos region."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Denumit adesea „Fuji al Americii de Sud” datorită formei sale conice perfecte, Vulcanul Osorno este o prezență maiestuoasă în regiunea Los Lagos. Se înalță mândru între lacurile Llanquihue și Todos los Santos, oferind un fundal dramatic pentru orașul Puerto Varas. Versanții superiori sunt acoperiți permanent de ghețari, care s-au retras semnificativ în ultimele decenii, dar oferă încă zăpadă pe tot parcursul anului. Vulcanul a jucat un rol crucial în călătoria lui Charles Darwin, acesta fiind martor la erupția sa din 1835. Astăzi, este o destinație populară pentru schi, drumeții și fotografie de peisaj. Istoria Științei K8 — observațiile lui Darwin.",
+      en: "Often referred to as the \"Fuji of South America\" due to its perfect conical shape, Volcán Osorno is a majestic sight in the Los Lagos region. It stands between the Llanquihue and Todos los Santos lakes, providing a dramatic backdrop for the town of Puerto Varas. The upper slopes are permanently covered in glaciers, which have receded significantly in recent decades but still offer year-round snow. The volcano played a crucial role in Charles Darwin's journey, as he witnessed its eruption in 1835. Today, it is a popular destination for skiing, hiking, and photography."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Altitudine: 2.652 metri.", "Observat de Charles Darwin în timpul erupției din 1835.", "Cunoscut pentru simetria sa conică perfectă.", "Mărginit de două mari lacuri glaciare."],
+      en: ["Elevation: 2,652 meters.", "Witnessed by Charles Darwin in 1835.", "Known for its perfect conical symmetry.", "Bordered by two major glacial lakes."]
+    }
+  },
+  {
+    id: "torres-del-paine-nature-v2",
+    type: "mountain",
+    parent: "CL-MA",
+    coords: [-72.9833, -50.9500],
+    name: { de: "Torres del Paine", hu: "Torres del Paine", ro: "Torres del Paine", en: "Torres del Paine" },
+    description: {
+      de: "Spektakuläre Granitgipfel im tiefen Süden, die das Wahrzeichen eines berühmten Nationalparks sind.",
+      hu: "Látványos gránitcsúcsok a mély délen, amelyek egy híres nemzeti park szimbólumai.",
+      ro: "Vârfuri spectaculoase de granit în sudul îndepărtat, simbolul unui faimos parc național.",
+      en: "Spectacular granite peaks in the deep south, the symbol of a famous national park."
+    },
+    facts: {
+      de: ["Ziehen Wanderer aus der ganzen Welt an.", "Die höchste Erhebung erreicht etwa 2884 Meter."],
+      hu: ["A világ minden tájáról vonzzák a túrázókat.", "Legmagasabb pontja körülbelül 2884 méter."],
+      ro: ["Atrag drumeți din întreaga lume.", "Cel mai înalt punct atinge aproximativ 2884 de metri."],
+      en: ["Attract hikers from all over the world.", "The highest peak reaches about 2884 meters."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Torres del Paine sunt un set de trei ace masive de granit care dau numele celui mai faimos parc național din Chile. Aceste turnuri au fost sculptate de forțele puternice ale gheții glaciare și ale vântului de-a lungul milioanelor de ani, ridicându-se la aproape 2.500 de metri deasupra stepei patagoniene. Parcul înconjurător este o Rezervație a Biosferei UNESCO, adăpostind ecosisteme diverse, de la pajiști aurii până la păduri subantarctice străvechi. Este recunoscut la nivel mondial pentru circuitele de trekking „W” și „O”, care atrag anual mii de entuziaști ai activităților în aer liber. Schimbările dramatice de vreme din regiune adaugă la reputația mistică și formidabilă a turnurilor. Geografia K7 — eroziune glaciară și ecosisteme.",
+      en: "The Torres del Paine are a set of three massive granite needles that give their name to Chile's most famous national park. These towers were sculpted by the powerful forces of glacial ice and wind over millions of years, rising nearly 2,500 meters above the Patagonian steppe. The surrounding park is a UNESCO Biosphere Reserve, home to diverse ecosystems ranging from golden grasslands to ancient subantarctic forests. It is globally renowned for the \"W\" and \"O\" trekking circuits, which attract thousands of outdoor enthusiasts annually. The dramatic weather changes of the region add to the towers' mystical and formidable reputation."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Trei turnuri de granit: Nord, Central și Sud.", "Vârful cel mai înalt depășește 2.500 de metri.", "Rezervație a Biosferei UNESCO din 1978.", "Situat în regiunea Magallanes din Patagonia."],
+      en: ["Three granite towers: North, Central, and South.", "Highest peak is over 2,500 meters.", "UNESCO Biosphere Reserve since 1978.", "Located in the Magallanes Region."]
+    }
+  },
+  {
+    id: "cerro-torre-nature-v2",
+    type: "mountain",
+    parent: "CL-MA",
+    coords: [-73.0989, -49.2922],
+    name: { de: "Cerro Torre", hu: "Cerro Torre", ro: "Cerro Torre", en: "Cerro Torre" },
+    description: {
+      de: "Ein extrem steiler Granitberg an der Grenze zu Argentinien, der bei Kletterern legendär ist.",
+      hu: "Rendkívül meredek gránithegy az argentin határon, amely legendás a hegymászók körében.",
+      ro: "Un munte de granit extrem de abrupt la granița cu Argentina, legendar printre alpiniști.",
+      en: "An extremely steep granite mountain on the border with Argentina, legendary among climbers."
+    },
+    facts: {
+      de: ["Berüchtigt für extreme Wetterbedingungen.", "Die Eiskuppe erschwert den Aufstieg massiv."],
+      hu: ["Hírhedt extrém időjárási körülményeiről.", "A jégsapka jelentősen megnehezíti a mászást."],
+      ro: ["Notoriu pentru condițiile meteorologice extreme.", "Calota de gheață îngreunează masiv ascensiunea."],
+      en: ["Notorious for extreme weather conditions.", "The ice cap massively complicates the ascent."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Cerro Torre este considerat pe scară largă unul dintre cei mai dificili și prestigioși munți de escaladat din întreaga lume. Situat la marginea Câmpului de Gheață Patagonian de Sud, acesta prezintă un perete vertical de granit de 1.200 de metri, terminat cu o ciupercă fragilă de gheață. Muntele este frecvent măturat de unele dintre cele mai puternice vânturi de pe planetă, făcând ascensiunile reușite rare și periculoase. Timp de decenii, a fost subiectul unor controverse intense privind prima ascensiune reușită, o dezbatere care a modelat alpinismul modern. Silueta sa asemănătoare unei turle este una dintre cele mai recunoscute icoane ale Andzilor de Sud. Sport K8 — istoria alpinismului de performanță.",
+      en: "Cerro Torre is widely considered one of the most difficult and prestigious mountains to climb in the world. Located on the edge of the Southern Patagonian Ice Field, it features a sheer 1,200-meter vertical wall of granite topped by a fragile ice mushroom. The mountain is frequently battered by some of the planet's fiercest winds, making successful ascents rare and dangerous. For decades, it was the subject of intense controversy regarding the first successful climb, a debate that has shaped modern alpinism. Its spire-like silhouette is one of the most recognizable icons of the Andes."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Înălțime: 3.128 metri.", "Faimos pentru „ciuperca de gheață” din vârf.", "Una dintre cele mai grele ascensiuni din lume.", "Situat la granița Câmpului de Gheață de Sud."],
+      en: ["Height: 3,128 meters.", "Famous for its summit ice mushroom.", "One of the world's hardest climbs.", "Situated on the Southern Ice Field border."]
+    }
+  },
+  {
+    id: "rio-loa-nature-v2",
+    type: "river",
+    parent: "CL-AN",
+    coords: [-70.0433, -21.4172],
+    name: { de: "Río Loa", hu: "Río Loa", ro: "Río Loa", en: "Río Loa" },
+    description: {
+      de: "Der längste Fluss Chiles, der sich durch die trockene Atacama-Wüste schlängelt.",
+      hu: "Chile leghosszabb folyója, amely a száraz Atacama-sivatagon kanyarog keresztül.",
+      ro: "Cel mai lung râu din Chile, care șerpuiește prin deșertul arid Atacama.",
+      en: "The longest river in Chile, winding its way through the dry Atacama Desert."
+    },
+    facts: {
+      de: ["Hat eine Länge von 440 Kilometern.", "Eine lebenswichtige Wasserquelle im Norden."],
+      hu: ["Hossza 440 kilométer.", "Létfontosságú vízforrás északon."],
+      ro: ["Are o lungime de 440 de kilometri.", "O sursă vitală de apă în nord."],
+      en: ["Has a length of 440 kilometers.", "A vital water source in the north."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Río Loa este o caracteristică geografică extraordinară, fiind cel mai lung râu din Chile și singurul care traversează Deșertul Atacama pentru a ajunge la Pacific. Cursul său de 440 de kilometri reprezintă o linie vitală pentru o regiune care nu primește aproape deloc precipitații, susținând culturile antice de oază și operațiunile miniere moderne. Râul izvorăște din poalele Andzilor și urmează un traseu în formă de U, săpând canioane adânci în solul deșertic. De-a lungul malurilor sale, siturile arheologice dezvăluie mii de ani de locuire umană, de la cultura Tiwanaku până la cea Incașă. Cu toate acestea, utilizarea industrială intensă și schimbările climatice reprezintă acum amenințări semnificative pentru ecosistemul său fragil. Geografia K7 — resurse de apă în zone aride.",
+      en: "The Río Loa is an extraordinary geographical feature, being the longest river in Chile and the only one to cross the Atacama Desert to reach the Pacific. Its 440-kilometer course is a lifeline for a region that receives almost no rainfall, supporting ancient oasis cultures and modern mining operations. The river originates in the Andean foothills and follows a U-shaped path, carving deep canyons into the desert floor. Along its banks, archaeological sites reveal thousands of years of human habitation, from the Tiwanaku to the Inca. However, heavy industrial use and climate change now pose significant threats to its fragile ecosystem."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Lungime totală: 440 kilometri.", "Singurul râu care traversează complet Deșertul Atacama.", "Susține cele mai mari mine de cupru din lume.", "Cursul în formă de U începe în munții Anzi."],
+      en: ["Total length: 440 kilometers.", "Only river to cross the Atacama Desert.", "Supports the world's largest copper mines.", "U-shaped course begins in the Andes."]
+    }
+  },
+  {
+    id: "rio-biobio-nature-v2",
+    type: "river",
+    parent: "CL-BI",
+    coords: [-73.1633, -36.8206],
+    name: { de: "Río Biobío", hu: "Río Biobío", ro: "Río Biobío", en: "Río Biobío" },
+    description: {
+      de: "Der zweitlängste Fluss des Landes und historisch eine wichtige kulturelle Grenze.",
+      hu: "Az ország második leghosszabb folyója, amely történelmileg fontos kulturális határ volt.",
+      ro: "Al doilea cel mai lung râu din țară și o graniță culturală importantă din punct de vedere istoric.",
+      en: "The second longest river in the country and historically an important cultural boundary."
+    },
+    facts: {
+      de: ["War die Grenze des Mapuche-Territoriums.", "Wird intensiv für Wasserkraft genutzt."],
+      hu: ["Ez volt a mapuche terület határa.", "Intenzíven használják vízenergia termelésre."],
+      ro: ["A fost granița teritoriului Mapuche.", "Este utilizat intens pentru energie hidroelectrică."],
+      en: ["Was the border of the Mapuche territory.", "Is intensely used for hydroelectric power."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Cunoscut istoric sub numele de „La Frontera”, Río Biobío a servit drept graniță naturală între Imperiul Spaniol și teritoriul independent Mapuche timp de peste 250 de ani. Este al doilea cel mai lung râu din Chile, curgând din lagunele andine Icalma și Galletué până în orașul Concepción. Râul are o semnificație culturală majoră pentru poporul Pehuenche, ale cărui pământuri ancestrale se află de-a lungul cursului său superior. În ultimele decenii, construcția unor mari baraje hidroelectrice a stârnit dezbateri de mediu și sociale semnificative. În ciuda acestor schimbări, Biobío rămâne un coridor vital pentru biodiversitate și o sursă majoră de apă pentru centrul statului Chile. Istorie K8 — rezistența Mapuche și colonizarea.",
+      en: "Historically known as the \"La Frontera,\" the Río Biobío served as a natural boundary between the Spanish Empire and the independent Mapuche territory for over 250 years. It is Chile's second longest river, flowing from the Andean Icalma and Galletué lagoons to the city of Concepción. The river is culturally significant to the Pehuenche people, whose ancestral lands lie along its upper reaches. In recent decades, the construction of large hydroelectric dams has sparked significant environmental and social debates. Despite these changes, the Biobío remains a vital corridor for biodiversity and a major source of water for central Chile."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Lungime: 380 kilometri.", "Granița istorică a națiunii Mapuche.", "Sursă majoră de energie hidroelectrică.", "Gura de vărsare se află lângă orașul Concepción."],
+      en: ["Length: 380 kilometers.", "Historical border of the Mapuche nation.", "Source of major hydroelectric energy.", "Mouth located near Concepción."]
+    }
+  },
+  {
+    id: "rio-maipo-nature-v2",
+    type: "river",
+    parent: "CL-VS",
+    coords: [-71.6033, -33.6133],
+    name: { de: "Río Maipo", hu: "Río Maipo", ro: "Río Maipo", en: "Río Maipo" },
+    description: {
+      de: "Ein wichtiger Fluss, der die Hauptstadt region mit Wasser versorgt und ins Pazifische Meer mündet.",
+      hu: "Fontos folyó, amely vízzel látja el a fővárosi régiót, és a Csendes-óceánba torkollik.",
+      ro: "Un râu important care furnizează apă regiunii capitalei și se varsă în Oceanul Pacific.",
+      en: "An important river that supplies water to the capital region and flows into the Pacific Ocean."
+    },
+    facts: {
+      de: ["Sein Einzugsgebiet ist dicht besiedelt.", "Wichtig für den lokalen Weinbau."],
+      hu: ["Vízgyűjtő területe sűrűn lakott.", "Fontos a helyi borászat számára."],
+      ro: ["Bazinul său hidrografic este dens populat.", "Important pentru viticultura locală."],
+      en: ["Its catchment area is densely populated.", "Important for local viticulture."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Río Maipo este sursa principală de apă potabilă și de irigații pentru regiunea metropolitană Santiago, unde locuiește aproape jumătate din populația țării. Începe sus în Anzi, la poalele vulcanului Maipo, și traversează fertila Vale Maipo, faimoasă pentru vinurile sale Cabernet Sauvignon de clasă mondială. Canionul râului, Cajón del Maipo, este o evadare populară de weekend pentru locuitorii orașului care caută aventură și natură. La gura de vărsare din San Antonio, râul formează o zonă umedă semnificativă care servește ca punct de oprire critic pentru păsările migratoare. Maipo este esențial atât pentru economie, cât și pentru sănătatea ecologică a zonei centrale. Geografia K6 — bazine hidrografice și agricultură.",
+      en: "The Río Maipo is the primary source of drinking and irrigation water for the Santiago Metropolitan Region, home to nearly half of Chile's population. It begins high in the Andes at the foot of the Maipo Volcano and flows through the fertile Maipo Valley, famous for its world-class Cabernet Sauvignon. The river's canyon, the Cajón del Maipo, is a popular weekend escape for city dwellers seeking adventure and nature. At its mouth in San Antonio, the river forms a significant wetland that serves as a critical stopover for migratory birds. The Maipo is essential for both the economy and the ecological health of central Chile."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Principala sursă de apă pentru capitala Santiago.", "Faimos pentru valea sa producătoare de vinuri.", "Lungime: 250 kilometri.", "Formează o zonă umedă protejată la vărsare."],
+      en: ["Primary water source for Santiago.", "Famous for its wine-producing valley.", "Length: 250 kilometers.", "Forms a protected wetland at its mouth."]
+    }
+  },
+  {
+    id: "rio-maule-nature-v2",
+    type: "river",
+    parent: "CL-ML",
+    coords: [-72.4103, -35.3167],
+    name: { de: "Río Maule", hu: "Río Maule", ro: "Río Maule", en: "Río Maule" },
+    description: {
+      de: "Ein historischer Fluss in Zentralchile, der einst die Südgrenze des Inka-Reiches markierte.",
+      hu: "Történelmi folyó Közép-Chilében, amely egykor az Inka Birodalom déli határát jelezte.",
+      ro: "Un râu istoric în centrul statului Chile, care marca odată granița de sud a Imperiului Inca.",
+      en: "A historic river in central Chile that once marked the southern border of the Inca Empire."
+    },
+    facts: {
+      de: ["Fließt von den Anden in den Pazifik.", "Gibt einer ganzen Region ihren Namen."],
+      hu: ["Az Andokból a Csendes-óceánba folyik.", "Egy egész régiónak adja a nevét."],
+      ro: ["Curge din Anzi în Pacific.", "Dă numele unei întregi regiuni."],
+      en: ["Flows from the Andes into the Pacific.", "Gives its name to an entire region."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Río Maule ocupă un loc special în istoria chiliană, marcând odată limita extremă sudică a expansiunii Imperiului Incaș. Curge din laguna andină Maule printr-un peisaj divers de munți, păduri și câmpii agricole. În epoca colonială, a fost o cale navigabilă importantă pentru transportul lemnului și al mărfurilor către coastă. Râul dă numele uneia dintre cele mai productive regiuni agricole din Chile, cunoscută pentru podgoriile sale și cultura rurală tradițională. Gura sa de vărsare la Constitución este faimoasă pentru „Piedra de la Iglesia”, o formațiune stâncoasă dramatică ce răsare din apele Pacificului. Istorie K7 — expansiunea incașă în America de Sud.",
+      en: "The Río Maule holds a special place in Chilean history, having once marked the southernmost extent of the Inca Empire's expansion. It flows from the high Andean Maule Lagoon through a diverse landscape of mountains, forests, and agricultural plains. During the colonial era, it was an important waterway for transporting timber and goods to the coast. The river gives its name to one of Chile's most productive agricultural regions, known for its vineyards and traditional rural culture. Its mouth at Constitución is famous for the \"Piedra de la Iglesia,\" a dramatic rock formation emerging from the Pacific."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Vechea graniță de sud a Imperiului Inca.", "Lungime: 240 kilometri.", "Centru major pentru viticultură.", "Sursă pentru numeroase legende populare chiliene."],
+      en: ["Ancient border of the Inca Empire.", "Length: 240 kilometers.", "Major center for viticulture.", "Source of many Chilean folk legends."]
+    }
+  },
+  {
+    id: "rio-baker-nature-v2",
+    type: "river",
+    parent: "CL-AI",
+    coords: [-73.1114, -47.7892],
+    name: { de: "Río Baker", hu: "Río Baker", ro: "Río Baker", en: "Río Baker" },
+    description: {
+      de: "Der wasserreichste Fluss Chiles, bekannt für sein leuchtend türkisfarbenes Wasser.",
+      hu: "Chile legbővizűbb folyója, amely élénk türkizkék vizéről ismert.",
+      ro: "Râul cu cel mai mare debit din Chile, cunoscut pentru apa sa de un turcoaz strălucitor.",
+      en: "The river with the largest volume of water in Chile, known for its bright turquoise water."
+    },
+    facts: {
+      de: ["Entspringt dem General-Carrera-See.", "Ein Paradies für Rafting und Fliegenfischen."],
+      hu: ["A General Carrera-tóból ered.", "A vadvízi evezés és a legyezőhorgászat paradicsoma."],
+      ro: ["Izvorăște din Lacul General Carrera.", "Un paradis pentru rafting și pescuit cu musca."],
+      en: ["Originates from Lake General Carrera.", "A paradise for rafting and fly fishing."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Río Baker este o minune naturală a Patagoniei, faimos pentru volumul său uriaș de apă și culoarea sa turcoaz vibrantă, lăptoasă. Această nuanță unică este cauzată de „făina de ghețar” — particule fine de rocă suspendate în apă, provenite din topirea ghețarilor. Râul începe la capătul sudic al lacului General Carrera și șerpuiește prin terenuri sălbatice și accidentate înainte de a intra în mare la Caleta Tortel. Este o destinație de clasă mondială pentru pescuitul cu musca și rafting, oferind unele dintre cele mai virgine medii din emisfera sudică. Planurile de a îndigui râul pentru energie au fost întâmpinate cu proteste masive sub sloganul „Patagonia Sin Represas”. Geografia K7 — hidrologia regiunilor glaciare.",
+      en: "The Río Baker is a natural marvel of Patagonia, famous for its staggering volume of water and its vibrant, milky turquoise color. This unique hue is caused by \"glacial flour\"—fine particles of rock suspended in the water from melting glaciers. The river starts at the southern end of Lake General Carrera and winds through wild, rugged terrain before entering the sea at Caleta Tortel. It is a world-class destination for fly fishing and rafting, offering some of the most pristine environments in the Southern Hemisphere. Plans to dam the river for power were met with massive \"Patagonia Sin Represas\" protests, highlighting its ecological value."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cel mai mare râu din Chile după debitul de apă.", "Cunoscut pentru culoarea sa turcoaz intensă.", "Lungime: 175 kilometri.", "Traversează regiunea sălbatică Aysén."],
+      en: ["Chile's largest river by discharge.", "Known for its intense turquoise color.", "Length: 175 kilometers.", "Flows through the Aysén Region."]
+    }
+  },
+  {
+    id: "rio-yelcho-nature-v2",
+    type: "river",
+    parent: "CL-LL",
+    coords: [-72.7667, -42.9667],
+    name: { de: "Río Yelcho", hu: "Río Yelcho", ro: "Río Yelcho", en: "Río Yelcho" },
+    description: {
+      de: "Ein Fluss in Patagonien, der von Gletschern gespeist wird und durch dichte Wälder fließt.",
+      hu: "Folyó Patagóniában, amelyet gleccserek táplálnak és sűrű erdőkön folyik keresztül.",
+      ro: "Un râu în Patagonia, alimentat de ghețari și curgând prin păduri dense.",
+      en: "A river in Patagonia, fed by glaciers and flowing through dense forests."
+    },
+    facts: {
+      de: ["Sehr beliebt bei Sportfischern.", "Fließt in den Golf von Corcovado."],
+      hu: ["Nagyon népszerű a sporthorgászok körében.", "A Corcovado-öbölbe torkollik."],
+      ro: ["Foarte popular printre pescarii sportivi.", "Se varsă în Golful Corcovado."],
+      en: ["Very popular with sport fishermen.", "Flows into the Gulf of Corcovado."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Río Yelcho este un râu scurt, dar puternic, situat în regiunea Los Lagos, acționând ca principal canal de drenaj pentru masivul lac Yelcho. Este înconjurat de unele dintre cele mai dense și virgine păduri tropicale temperate din Chile, adesea învăluite în ceață și ploaie. Râul este recunoscut la nivel mondial ca o destinație de prim rang pentru pescuitul la păstrăv de trofeu, atrăgând pescari sportivi din întreaga lume în fiecare sezon. Acesta străbate văi glaciare adânci și este alimentat de mai mulți ghețari mari, păstrându-și apele reci și limpezi. Parcul Național Corcovado din apropiere protejează bazinul râului, asigurând conservarea unuia dintre cele mai sălbatice colțuri ale Patagoniei. Biologie K6 — ecosisteme fluviale și conservare.",
+      en: "The Río Yelcho is a short but powerful river in the Los Lagos region, acting as the main drainage for the massive Yelcho Lake. It is surrounded by some of the densest and most pristine temperate rainforests in Chile, often shrouded in mist and rain. The river is globally recognized as a premier destination for trophy trout fishing, attracting anglers from across the globe every season. It cuts through deep glacial valleys and is fed by several large glaciers, keeping its waters cold and clear. The surrounding Corcovado National Park protects the river's basin, ensuring it remains one of the wildest corners of Patagonia."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Renumit mondial pentru pescuitul cu musca.", "Drenează lacul Yelcho alimentat de ghețari.", "Lungime: 40 kilometri.", "Mărginit de Parcul Național Corcovado."],
+      en: ["World-renowned for fly fishing.", "Drains the glacier-fed Yelcho Lake.", "Length: 40 kilometers.", "Bordered by Corcovado National Park."]
+    }
+  },
+  {
+    id: "lago-general-carrera-nature-v2",
+    type: "lake",
+    parent: "CL-AI",
+    coords: [-72.1333, -46.2667],
+    name: { de: "Lago General Carrera", hu: "Lago General Carrera", ro: "Lago General Carrera", en: "Lago General Carrera" },
+    description: {
+      de: "Der größte See Chiles, den sich das Land mit Argentinien teilt, berühmt für die Marmorhöhlen.",
+      hu: "Chile legnagyobb tava, amelyen Argentínával osztozik, és a márványbarlangokról híres.",
+      ro: "Cel mai mare lac din Chile, împărțit cu Argentina, faimos pentru peșterile sale de marmură.",
+      en: "The largest lake in Chile, shared with Argentina, famous for its marble caves."
+    },
+    facts: {
+      de: ["Auf argentinischer Seite heißt er Lago Buenos Aires.", "Das Wasser leuchtet intensiv blau."],
+      hu: ["Argentin oldalán Lago Buenos Airesnek hívják.", "Vize intenzív kék színben tündököl."],
+      ro: ["Pe partea argentiniană se numește Lago Buenos Aires.", "Apa strălucește într-un albastru intens."],
+      en: ["On the Argentine side it is called Lago Buenos Aires.", "The water glows an intense blue."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Lago General Carrera este un lac glaciar masiv împărțit între Chile și Argentina, unde este cunoscut sub numele de Lacul Buenos Aires. Este cel mai mare lac din Chile și al doilea ca mărime din America de Sud, atingând adâncimi de aproape 600 de metri. Lacul este faimos în întreaga lume pentru „Catedrala de Marmură” și „Capela de Marmură”, peșteri complicate sculptate în stânci de carbonat de calciu de acțiunea valurilor de-a lungul a 6.000 de ani. Aceste peșteri afișează modele și culori uluitoare care se schimbă în funcție de nivelul apei și de unghiul soarelui. Culoarea albastră intensă a lacului este rezultatul sedimentelor glaciare care reflectă lumina. Geografia K7 — procese de eroziune și lacuri glaciare.",
+      en: "Lago General Carrera is a massive glacial lake shared by Chile and Argentina, where it is known as Lake Buenos Aires. It is the largest lake in Chile and the second largest in South America, reaching depths of nearly 600 meters. The lake is world-famous for the \"Marble Cathedral\" and \"Marble Chapels,\" intricate caves carved into calcium carbonate cliffs by the action of waves over 6,000 years. These caves display stunning patterns and colors that change with the lake's water levels and the angle of the sun. The lake's intense blue color is a result of glacial sediments reflecting the light."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cel mai mare lac din Chile.", "Suprafață: 1.850 kilometri pătrați.", "Găzduiește faimoasele Peșteri de Marmură.", "Împărțit teritorial cu Argentina."],
+      en: ["Largest lake in Chile.", "Surface area: 1,850 square kilometers.", "Home to the Marble Caves.", "Shared with Argentina."]
+    }
+  },
+  {
+    id: "lago-llanquihue-nature-v2",
+    type: "lake",
+    parent: "CL-LL",
+    coords: [-72.8000, -41.1333],
+    name: { de: "Lago Llanquihue", hu: "Lago Llanquihue", ro: "Lago Llanquihue", en: "Lago Llanquihue" },
+    description: {
+      de: "Der zweitgrößte See Chiles, an dessen Ufern charmante Städte mit deutschem Erbe liegen.",
+      hu: "Chile második legnagyobb tava, melynek partján bájos, német örökségű városok fekszennek.",
+      ro: "Al doilea lac ca mărime din Chile, pe malurile căruia se află orașe fermecătoare cu moștenire germană.",
+      en: "The second largest lake in Chile, on whose shores lie charming towns with German heritage."
+    },
+    facts: {
+      de: ["Bietet atemberaubende Ausblicke auf Vulkane.", "Ein Zentrum für Segeln und Wassersport."],
+      hu: ["Lélegzetelállító kilátást nyújt a vulkánokra.", "A vitorlázás és a vízisportok központja."],
+      ro: ["Oferă priveliști uluitoare asupra vulcanilor.", "Un centru pentru navigație și sporturi nautice."],
+      en: ["Offers breathtaking views of volcanoes.", "A center for sailing and water sports."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Lago Llanquihue este al doilea lac ca mărime din Chile și piesa centrală a Districtului Lacurilor din sudul țării. Malurile sale au fost colonizate de imigranți germani la mijlocul secolului al XIX-lea, lăsând o moștenire durabilă în arhitectură, gastronomie și cultură în orașe precum Puerto Varas și Frutillar. Lacul oferă unele dintre cele mai emblematice vederi din Chile, cu vulcanii Osorno, Calbuco și Puntiagudo reflectându-se în apele sale limpezi. Este un centru major pentru turism, oferind totul, de la stațiuni de lux pe malul lacului până la patiserii tradiționale germane care servesc „kuchen”. Lacul este, de asemenea, semnificativ pentru acvacultura de somon. Istorie K8 — colonizarea germană în Chile.",
+      en: "Lago Llanquihue is the second largest lake in Chile and the centerpiece of the country's Lakes District. Its shores were settled by German immigrants in the mid-19th century, leaving a lasting legacy of architecture, cuisine, and culture in towns like Puerto Varas and Frutillar. The lake offers some of the most iconic views in Chile, with the snow-capped Osorno, Calbuco, and Puntiagudo volcanoes reflecting in its clear waters. It is a major hub for tourism, offering everything from luxury lakeside resorts to traditional kuchen bakeries. The lake is also significant for salmon farming and various water sports."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Suprafață: 860 kilometri pătrați.", "Centru al colonizării germane din secolul al XIX-lea.", "Oferă vederi panoramice asupra a trei vulcani mari.", "Gazda celebrelor Săptămâni Muzicale din Frutillar."],
+      en: ["Surface area: 860 square kilometers.", "Center of 19th-century German colonization.", "Offers views of three major volcanoes.", "Hosts the famous Frutillar Musical Weeks."]
+    }
+  },
+  {
+    id: "lago-villarrica-nature-v2",
+    type: "lake",
+    parent: "CL-AR",
+    coords: [-72.1000, -39.2500],
+    name: { de: "Lago Villarrica", hu: "Lago Villarrica", ro: "Lago Villarrica", en: "Lago Villarrica" },
+    description: {
+      de: "Ein malerischer See in der Region Araukanien, der im Sommer viele Touristen anzieht.",
+      hu: "Festői tó az Araucanía régióban, amely nyáron sok turistát vonz.",
+      ro: "Un lac pitoresc în regiunea Araucanía, care atrage mulți turiști vara.",
+      en: "A picturesque lake in the Araucania region that attracts many tourists in summer."
+    },
+    facts: {
+      de: ["Wird vom Vulkan Villarrica überragt.", "Das Wasser erwärmt sich im Sommer angenehm."],
+      hu: ["A Villarrica vulkán magasodik fölé.", "Vize nyáron kellemesen felmelegszik."],
+      ro: ["Este dominat de vulcanul Villarrica.", "Apa se încălzește plăcut vara."],
+      en: ["Is dominated by the Villarrica volcano.", "The water warms up pleasantly in summer."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Lago Villarrica este un lac vibrant și popular situat în inima zonei turistice din sudul statului Chile. Orașele Pucón și Villarrica se află pe malurile sale, servind drept porți de acces către vulcanii din jur, izvoarele termale și parcurile naționale. În timpul verii, plajele cu nisip vulcanic întunecat sunt pline de vizitatori care se bucură de înot, plimbări cu barca și schi nautic. Lacul este dominat de vulcanul activ Villarrica, creând un contrast dramatic între liniștea apei și muntele impunător. A fost numit inițial Mallolafquén de către poporul Mapuche, care a locuit în această zonă timp de secole. Geografia K6 — turism durabil și riscuri vulcanice.",
+      en: "Lago Villarrica is a vibrant and popular lake located in the heart of Chile's southern tourism zone. The towns of Pucón and Villarrica sit on its shores, serving as gateways to the surrounding volcanoes, hot springs, and national parks. During the summer, the lake's dark volcanic sand beaches are packed with visitors enjoying swimming, boating, and jet skiing. The lake is overlooked by the smoking Villarrica Volcano, creating a dramatic contrast between the peaceful water and the active mountain. It was originally named Mallolafquén by the Mapuche people, who have lived in the area for centuries."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Nume original Mapuche: Mallolafquén.", "Suprafață: 176 kilometri pătrați.", "Hub principal pentru turismul de vară chilian.", "Se varsă în râul Toltén."],
+      en: ["Original Mapuche name: Mallolafquén.", "Surface area: 176 square kilometers.", "Primary hub for Chilean summer tourism.", "Drains into the Toltén River."]
+    }
+  },
+  {
+    id: "lago-todos-los-santos-nature-v2",
+    type: "lake",
+    parent: "CL-LL",
+    coords: [-72.1500, -41.1500],
+    name: { de: "Lago Todos los Santos", hu: "Lago Todos los Santos", ro: "Lago Todos los Santos", en: "Lago Todos los Santos" },
+    description: {
+      de: "Ein smaragdgrüner See im Nationalpark Vicente Pérez Rosales, umgeben von dichten Wälder.",
+      hu: "Smaragdzöld tó a Vicente Pérez Rosales Nemzeti Parkban, sűrű erdőkkel körülvéve.",
+      ro: "Un lac de culoarea smaraldului în Parcul Național Vicente Pérez Rosales, înconjurat de păduri dense.",
+      en: "An emerald-green lake in the Vicente Pérez Rosales National Park, surrounded by dense forests."
+    },
+    facts: {
+      de: ["Wurde von Jesuitenmissionaren benannt.", "Teil der berühmten Anden-Überquerung nach Argentinien."],
+      hu: ["Jezsuita misszionáriusok nevezték el.", "A híres argentínai andoki átkelés része."],
+      ro: ["A fost numit de misionarii iezuiți.", "Parte a faimoasei traversări a Anzilor către Argentina."],
+      en: ["Was named by Jesuit missionaries.", "Part of the famous Andean crossing to Argentina."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Cunoscut pentru apele sale de un verde smarald profund, Lago Todos los Santos este adesea considerat cel mai frumos lac din Chile. Situat în cadrul Parcului Național Vicente Pérez Rosales, a fost format prin acțiune glaciară și ulterior barat de erupțiile vulcanului Osorno. Lacul este înconjurat de munți abrupți, dens împăduriți și este accesibil doar cu barca sau prin trasee de drumeție dificile, păstrându-și atmosfera senină. Face parte din „Cruce Andino”, o rută istorică transandină care conectează Chile și Argentina printr-o serie de traversări de lacuri. Starea sa virgină îl transformă într-un refugiu pentru fauna sălbatică nativă. Geografia K7 — formarea lacurilor de baraj vulcanic.",
+      en: "Known for its deep emerald-green waters, Lago Todos los Santos is often considered the most beautiful lake in Chile. Located within the Vicente Pérez Rosales National Park, it was formed by glacial action and later dammed by volcanic eruptions from Mount Osorno. The lake is surrounded by steep, densely forested mountains and is only accessible by boat or rugged hiking trails, preserving its serene atmosphere. It forms part of the \"Cruce Andino,\" a historic trans-Andean route that connects Chile and Argentina through a series of lake crossings. Its pristine condition makes it a haven for native wildlife."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Situat în cel mai vechi parc național din Chile.", "Cunoscut sub numele de „Lacul de Smarald”.", "Suprafață: 178 kilometri pătrați.", "Parte a rutei internaționale Cruce Andino."],
+      en: ["Located in Chile's oldest National Park.", "Known as the Emerald Lake.", "Surface area: 178 square kilometers.", "Part of the Cruce Andino international route."]
+    }
+  },
+  {
+    id: "lago-pehoe-nature-v2",
+    type: "lake",
+    parent: "CL-MA",
+    coords: [-73.0167, -51.0833],
+    name: { de: "Lago Pehoé", hu: "Lago Pehoé", ro: "Lago Pehoé", en: "Lago Pehoé" },
+    description: {
+      de: "Ein wunderschöner See im Torres-del-Paine-Nationalpark, bekannt für seine spiegelnde Wasseroberfläche.",
+      hu: "Gyönyörű tó a Torres del Paine Nemzeti Parkban, amely tükröződő vízfelszínéről ismert.",
+      ro: "Un lac superb în Parcul Național Torres del Paine, cunoscut pentru suprafața sa ca o oglindă.",
+      en: "A beautiful lake in the Torres del Paine National Park, known for its reflective water surface."
+    },
+    facts: {
+      de: ["Wird von den Cuernos del Paine überragt.", "Das Wasser ist eiskalt und kristallklar."],
+      hu: ["A Cuernos del Paine magasodik fölé.", "Vize jéghideg és kristálytiszta."],
+      ro: ["Este dominat de Cuernos del Paine.", "Apa este rece ca gheața și cristalină."],
+      en: ["Is dominated by the Cuernos del Paine.", "The water is freezing cold and crystal clear."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Lago Pehoe este o destinație de clasă mondială pentru fotografi și iubitorii de natură, situat în inima Parcului Național Torres del Paine. Apele sale au o nuanță incredibilă de turcoaz, contrastând puternic cu vârfurile de granit cenușiu ale Cuernos del Paine care se ridică direct de pe malurile sale. Lacul este adesea supus vânturilor legendare ale regiunii, care pot crea valuri dramatice pe suprafața sa. O mică insulă de pe lac găzduiește unul dintre cele mai pitorești hoteluri din lume, oferind vederi de neegalat asupra lanțului muntos. Pehoe înseamnă „lac ascuns” în limba indigenilor Tehuelche. Biologie K7 — sedimente glaciare și optica apei.",
+      en: "Lago Pehoe is a world-class destination for photographers and nature lovers, situated in the heart of Torres del Paine National Park. Its waters are an incredible shade of turquoise, contrasting sharply with the grey granite peaks of the Cuernos del Paine that rise directly from its shores. The lake is often subjected to the region's legendary winds, which can create dramatic whitecaps on its surface. A small island on the lake hosts one of the most scenic hotels in the world, offering unparalleled views of the mountain range. Pehoe means \"hidden lake\" in the language of the indigenous Tehuelche people."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Nume Tehuelche ce înseamnă „Lac Ascuns”.", "Oferă vederea iconică asupra formațiunii Cuernos del Paine.", "Centrul circuitului de trekking „W”.", "Culoarea apei provine de la particulele fine glaciare."],
+      en: ["Tehuelche name meaning 'Hidden Lake'.", "Iconic view of the Cuernos del Paine.", "Center of Torres del Paine's 'W' trek.", "Water color comes from glacial flour."]
+    }
+  },
+  {
+    id: "lago-ranco-nature-v2",
+    type: "lake",
+    parent: "CL-LR",
+    coords: [-72.3333, -40.2500],
+    name: { de: "Lago Ranco", hu: "Lago Ranco", ro: "Lago Ranco", en: "Lago Ranco" },
+    description: {
+      de: "Ein großer See in der Region Los Ríos, in dessen Mitte sich mehrere bewohnte Inseln befinden.",
+      hu: "Nagy tó a Los Ríos régióban, melynek közepén több lakott sziget található.",
+      ro: "Un lac mare în regiunea Los Ríos, în mijlocul căruia se află mai multe insule locuite.",
+      en: "A large lake in the Los Ríos region, in the middle of which are several inhabited islands."
+    },
+    facts: {
+      de: ["Die Insel Huapi ist die größte im See.", "Umgeben von einheimischen Mapuche-Gemeinden."],
+      hu: ["A Huapi-sziget a legnagyobb a tóban.", "Helyi mapuche közösségek veszik körül."],
+      ro: ["Insula Huapi este cea mai mare din lac.", "Înconjurat de comunități indigene Mapuche."],
+      en: ["Huapi Island is the largest in the lake.", "Surrounded by indigenous Mapuche communities."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Lago Ranco este un lac mare și liniștit din sudul statului Chile, remarcabil prin numeroasele sale insule și legătura strânsă cu cultura locală Mapuche-Huilliche. Cea mai mare insulă, Isla Huapi, găzduiește o comunitate indigenă care păstrează modurile tradiționale de viață și meșteșugurile străvechi. Lacul este înconjurat de păduri temperate luxuriante și sate mici și liniștite care au evitat turismul de masă din regiunile învecinate. Es este al treilea cel mai mare lac din Chile și servește drept sursă pentru râul Bueno. Legendele locale spun că lacul este locuit de o creatură mitică, ceea ce adaugă la farmecul său misterios și calm. Etnografie K8 — comunitățile Huilliche din sud.",
+      en: "Lago Ranco is a large, serene lake in southern Chile, distinguished by its many islands and its connection to the local Mapuche-Huilliche culture. The largest island, Isla Huapi, is home to an indigenous community that maintains traditional ways of life and crafts. The lake is surrounded by lush temperate forests and small, quiet villages that have avoided the mass tourism of neighboring regions. It is the third largest lake in Chile and serves as the source of the Bueno River. Legend has it that the lake is inhabited by a mythical creature, adding to its mysterious and tranquil charm."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Al treilea cel mai mare lac din statul Chile.", "Găzduiește comunitatea indigenă de pe Isla Huapi.", "Suprafață: 442 kilometri pătrați.", "Sursa râului Bueno."],
+      en: ["Third largest lake in Chile.", "Home to the indigenous Isla Huapi.", "Surface area: 442 square kilometers.", "Source of the Rio Bueno."]
+    }
+  },
+  {
+    id: "isla-de-chiloe-nature-v2",
+    type: "island",
+    parent: "CL-LL",
+    coords: [-73.8000, -42.6667],
+    name: { de: "Isla de Chiloé", hu: "Isla de Chiloé", ro: "Isla de Chiloé", en: "Isla de Chiloé" },
+    description: {
+      de: "Die größte Insel des Chiloé-Archipels, bekannt für ihre mystische Folklore und Holzkirchen.",
+      hu: "A Chiloé-szigetcsoport legnagyobb szigete, amely misztikus folklórjáról és fatemplomairól ismert.",
+      ro: "Cea mai mare insulă din arhipelagul Chiloé, cunoscută pentru folclorul ei mistic și bisericile din lemn.",
+      en: "The largest island of the Chiloé Archipelago, known for its mystical folklore and wooden churches."
+    },
+    facts: {
+      de: ["Heimat einzigartiger Mythen und Legenden.", "Viele Kirchen sind UNESCO-Weltkulturerbe."],
+      hu: ["Egyedi mítoszok és legendák otthona.", "Sok temploma UNESCO Világörökség része."],
+      ro: ["Găzduiește mituri și legende unice.", "Multe biserici sunt în Patrimoniul Mondial UNESCO."],
+      en: ["Home to unique myths and legends.", "Many churches are UNESCO World Heritage sites."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Isla de Chiloé este un loc plin de magie, ceață și tradiții unice, separat de Chile continental prin Canalul Chacao. Este faimoasă pentru casele sale colorate pe piloni, numite „palafitos”, și pentru cele peste 150 de biserici istorice din lemn, dintre care 16 fac parte din Patrimoniul Mondial UNESCO. Chiloé are o mitologie distinctă, cu creaturi precum Caleuche (o navă fantomă) și Trauco (un spiriduș al pădurii), care fac parte din conversațiile zilnice. Coasta de vest accidentată a insulei este protejată în cadrul Parcului Național Chiloé, fiind casa vulpilor lui Darwin și a pădurilor antice de tepu. Gastronomia sa bogată, inclusiv festinul „curanto”, este un punct culminant pentru vizitatori. Cultură K8 — arhitectură din lemn și mitologie.",
+      en: "Isla de Chiloé is a place of deep magic, mist, and unique traditions, separated from mainland Chile by the Chacao Channel. It is famous for its colorful \"palafitos\"—houses built on stilts over the water—and over 150 historic wooden churches, 16 of which are UNESCO World Heritage sites. Chiloé has a distinct mythology, featuring creatures like the Caleuche (a ghost ship) and the Trauco (a forest goblin), which remain part of daily conversation. The island's rugged west coast faces the Pacific and is protected within Chiloé National Park, home to rare Darwin's foxes and ancient tepu forests. Its hearty cuisine, including the \"curanto\" feast, is a highlight for visitors."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Cea mai mare insulă din arhipelagul Chiloé.", "Include 16 biserici de lemn protejate de UNESCO.", "Faimoasă pentru casele pe piloni numite „palafitos”.", "Casă pentru o mitologie unică în lume."],
+      en: ["Largest island in the Chiloé Archipelago.", "Features 16 UNESCO wooden churches.", "Famous for stilt houses called 'palafitos'.", "Home to the unique Chiloé mythology."]
+    }
+  },
+  {
+    id: "rapa-nui-nature-v2",
+    type: "island",
+    parent: "CL-VS",
+    coords: [-109.3667, -27.1167],
+    name: { de: "Rapa Nui", hu: "Rapa Nui", ro: "Rapa Nui", en: "Rapa Nui" },
+    description: {
+      de: "Eine entlegene Pazifikinsel, weltberühmt für ihre riesigen steinernen Moai-Statuen.",
+      hu: "Félreeső csendes-óceáni sziget, amely világhírű az óriási kő Moai-szobrairól.",
+      ro: "O insulă izolată din Pacific, faimoasă în întreaga lume pentru statuile sale uriașe de piatră Moai.",
+      en: "A remote Pacific island, world-famous for its giant stone Moai statues."
+    },
+    facts: {
+      de: ["Liegt über 3500 Kilometer vom Festland entfernt.", "Eines der isoliertesten bewohnten Gebiete der Erde."],
+      hu: ["Több mint 3500 kilométerre fekszik a szárazföldtől.", "A Föld egyik legelszigeteltebb lakott területe."],
+      ro: ["Se află la peste 3500 de kilometri de continent.", "Una dintre cele mai izolate zone locuite de pe Pământ."],
+      en: ["Located over 3500 kilometers from the mainland.", "One of the most isolated inhabited areas on Earth."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Rapa Nui, cunoscută și sub numele de Insula Paștelui, este unul dintre cele mai izolate locuri locuite de pe Pământ și un monument al ingeniozității umane. Este celebră pentru cei aproape 900 de „moai” — statui colosale de piatră sculptate de poporul Rapa Nui între secolele XIII și XVI. Aceste figuri, reprezentând strămoși divinizați, au fost transportate pe toată insula și plasate pe platforme ceremoniale numite „ahu”. Insula este un triunghi vulcanic cu trei vulcani stinși în colțurile sale, oferind piatra și peisajul unic care i-au modelat cultura. Astăzi, întreaga insulă este sit al Patrimoniului Mondial UNESCO și un muzeu viu al istoriei polineziene. Istorie K7 — civilizații polineziene și ecocid.",
+      en: "Rapa Nui, also known as Easter Island, is one of the most isolated inhabited places on Earth and a monument to human ingenuity. It is famous for nearly 900 \"moai\"—colossal stone statues carved by the Rapa Nui people between the 13th and 16th centuries. These figures, representing deified ancestors, were transported across the island and placed on ceremonial platforms called \"ahu.\" The island is a volcanic triangle with three extinct volcanoes at its corners, providing the stone and the unique landscape that shaped its culture. Today, the entire island is a UNESCO World Heritage site and a living museum of Polynesian history and resilience."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Peste 880 de statui Moai înregistrate.", "Sit al Patrimoniului Mondial UNESCO din 1995.", "Cultură polineziană în mijlocul Oceanului Pacific.", "Cea mai izolată insulă aparținând statului Chile."],
+      en: ["Over 880 Moai statues recorded.", "UNESCO World Heritage site since 1995.", "Polynesian culture in the middle of the Pacific.", "Most remote island belonging to Chile."]
+    }
+  },
+  {
+    id: "isla-robinson-crusoe-nature-v2",
+    type: "island",
+    parent: "CL-VS",
+    coords: [-78.8333, -33.6333],
+    name: { de: "Isla Robinson Crusoe", hu: "Isla Robinson Crusoe", ro: "Isla Robinson Crusoe", en: "Isla Robinson Crusoe" },
+    description: {
+      de: "Die Hauptinsel des Juan-Fernández-Archipels, die den berühmten Roman von Daniel Defoe inspirierte.",
+      hu: "A Juan Fernández-szigetek főszigete, amely Daniel Defoe híres regényét ihlette.",
+      ro: "Insula principală a arhipelagului Juan Fernández, care a inspirat faimosul roman al lui Daniel Defoe.",
+      en: "The main island of the Juan Fernández Archipelago, which inspired Daniel Defoe's famous novel."
+    },
+    facts: {
+      de: ["Der Seemann Alexander Selkirk strandete hier.", "Besitzt eine hohe Rate an endemischen Pflanzen."],
+      hu: ["Alexander Selkirk tengerész itt szenvedett hajótörést.", "Magas az endemikus növények aránya."],
+      ro: ["Marinarul Alexander Selkirk a naufragiat aici.", "Are o rată ridicată de plante endemice."],
+      en: ["The sailor Alexander Selkirk was stranded here.", "Has a high rate of endemic plants."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Isla Robinson Crusoe este cea mai mare din Insulele Juan Fernández și cadrul real care a inspirat capodopera lui Daniel Defoe. În 1704, marinarul scoțian Alexander Selkirk a fost abandonat aici timp de patru ani și patru luni, supraviețuind singur până la salvarea sa. Insula este o formațiune muntoasă, vulcanică, cu un ecosistem unic unde peste 60% din plante nu se mai găsesc nicăieri altundeva pe Pământ. Principala așezare, San Juan Bautista, găzduiește o mică comunitate susținută în mare parte de recoltarea durabilă a faimosului homar de Juan Fernández. Este o Rezervație a Biosferei UNESCO și un paradis pentru drumeți și botaniști. Literatură K8 — sursele de inspirație pentru Robinson Crusoe.",
+      en: "Isla Robinson Crusoe is the largest of the Juan Fernández Islands and the real-life setting that inspired Daniel Defoe's masterpiece. In 1704, the Scottish sailor Alexander Selkirk was marooned here for four years and four months, surviving alone until his rescue. The island is a mountainous, volcanic outcrop with a unique ecosystem where over 60% of the plants are found nowhere else on Earth. The main settlement, San Juan Bautista, is home to a small community largely supported by the sustainable harvest of the famous Juan Fernández spiny lobster. It is a UNESCO Biosphere Reserve and a paradise for hikers and botanists."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Numită după celebrul personaj literar.", "Căminul real al marinarului Alexander Selkirk.", "Rezervație a Biosferei UNESCO din 1977.", "Cunoscută pentru flora sa endemică unică."],
+      en: ["Named after the famous literary character.", "Real-life home of Alexander Selkirk.", "UNESCO Biosphere Reserve since 1977.", "Known for its unique endemic flora."]
+    }
+  },
+  {
+    id: "tierra-del-fuego-nature-v2",
+    type: "island",
+    parent: "CL-MA",
+    coords: [-69.3333, -54.0000],
+    name: { de: "Tierra del Fuego", hu: "Tierra del Fuego", ro: "Tierra del Fuego", en: "Tierra del Fuego" },
+    description: {
+      de: "Eine kühle und windige Inselgruppe an der Südspitze Südamerikas, geteilt mit Argentinien.",
+      hu: "Hűvös és szeles szigetcsoport Dél-Amerika déli csücskén, amelyen Argentínával osztozik.",
+      ro: "Un arhipelag rece și vântos la vârful sudic al Americii de Sud, împărțit cu Argentina.",
+      en: "A cool and windy archipelago at the southern tip of South America, shared with Argentina."
+    },
+    facts: {
+      de: ["Magellan benannte sie nach den Feuern der Ureinwohner.", "Geprägt von rauen Landschaften und Gletschern."],
+      hu: ["Magellán az őslakosok tüzeiről nevezte el.", "Zord tájak és gleccserek jellemzik."],
+      ro: ["Magellan a numit-o după focurile indigenilor.", "Caracterizată de peisaje aspre și ghețari."],
+      en: ["Magellan named it after the fires of the indigenous people.", "Characterized by harsh landscapes and glaciers."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Tierra del Fuego, sau „Țara Focului”, este un arhipelag accidentat și izolat la extremitatea sudică a Americii de Sud, împărțit între Chile și Argentina. A fost numit de Ferdinand Magellan, care a văzut numeroasele focuri aprinse de indigenii Selk'nam de-a lungul coastei. Peisajul este un amestec dramatic de turbării, câmpii măturate de vânt și lanțul muntos Darwin al Andzilor, acoperit de zăpadă. Din punct de vedere istoric, a fost locul unor goane după aur și al creșterii oilor la scară largă, ceea ce a dus la dispariția tragică a locuitorilor săi originali. Astăzi, este o țară de o frumusețe extremă, atrăgându-i pe cei care doresc să vadă „Capătul Lumii”. Istorie K8 — explorările lui Magellan și triburile dispărute.",
+      en: "Tierra del Fuego, or \"Land of Fire,\" is a rugged and desolate archipelago at the very tip of South America, divided between Chile and Argentina. It was named by Ferdinand Magellan, who saw the many fires lit by the indigenous Selk'nam people along the coast. The landscape is a dramatic mix of peat bogs, wind-swept plains, and the snow-capped Darwin Range of the Andes. Historically, it was the site of gold rushes and large-scale sheep farming, which led to the tragic displacement of its original inhabitants. Today, it is a land of extreme beauty, attracting those who wish to see the \"End of the World\" and explore its wild, pristine fjords."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Împărțită între statele Chile și Argentina.", "Separată prin meridianul 68 vest.", "Găzduiește lanțul muntos Cordillera Darwin.", "Numită de Magellan în timpul expediției din 1520."],
+      en: ["Shared between Chile and Argentina.", "Divided by the 68th meridian west.", "Home to the Darwin Mountain Range.", "Named by Magellan in 1520."]
+    }
+  },
+  {
+    id: "isla-navarino-nature-v2",
+    type: "island",
+    parent: "CL-MA",
+    coords: [-67.6667, -55.0833],
+    name: { de: "Isla Navarino", hu: "Isla Navarino", ro: "Isla Navarino", en: "Isla Navarino" },
+    description: {
+      de: "Eine chilenische Insel nahe dem Kap Hoorn, die als Tor zur Antarktis dient.",
+      hu: "Chilei sziget a Horn-fok közelében, amely az Antarktisz kapujaként szolgál.",
+      ro: "O insulă chiliană lângă Capul Horn, care servește drept poartă către Antarctica.",
+      en: "A Chilean island near Cape Horn, which serves as a gateway to Antarctica."
+    },
+    facts: {
+      de: ["Hier liegt Puerto Williams, die südlichste Siedlung.", "Beliebt für extreme Trekkingtouren."],
+      hu: ["Itt fekszik Puerto Williams, a legdélebbi település.", "Népszerű az extrém túrázásokhoz."],
+      ro: ["Aici se află Puerto Williams, cea mai sudică așezare.", "Populară pentru drumeții extreme."],
+      en: ["Here lies Puerto Williams, the southernmost settlement.", "Popular for extreme trekking tours."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Isla Navarino este situată la sud de Canalul Beagle și găzduiește Puerto Williams, cel mai sudic oraș din lume. Insula este dominată de „Dientes de Navarino”, un lanț muntos spectaculos cu vârfuri zimțate care seamănă cu niște dinți, oferind cel mai sudic circuit de trekking de pe glob. Peisajul este caracterizat de păduri subantarctice, turbării și numeroase lacuri, toate modelate de climatul antarctic aspru. Istoric, a fost inima teritoriului poporului Yaghan, cel mai sudic grup etnic din lume, care trăia ca vânători-culegători nomazi de mare. Insula rămâne un avanpost științific important pentru studierea schimbărilor climatice. Antropologie K7 — adaptarea popoarelor Yaghan la frig.",
+      en: "Isla Navarino is located south of the Beagle Channel and is home to Puerto Williams, the southernmost town in the world. The island is dominated by the \"Dientes de Navarino,\" a spectacular mountain range with jagged peaks that resemble teeth, offering the world's southernmost trekking circuit. The landscape is characterized by subantarctic forests, peat bogs, and numerous lakes, all shaped by the harsh Antarctic climate. Historically, it was the heart of the Yaghan people's territory, the world's southernmost ethnic group, who lived as nomadic sea-hunters. The island remains an important scientific outpost for studying climate change and subantarctic ecology."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Găzduiește Puerto Williams, cel mai sudic oraș.", "Locul circuitului de trekking Dientes de Navarino.", "Fost teritoriu al poporului indigen Yaghan.", "Situată strategic pe Canalul Beagle."],
+      en: ["Home to Puerto Williams, the southernmost town.", "Site of the Dientes de Navarino trek.", "Former territory of the Yaghan people.", "Strategically located on the Beagle Channel."]
+    }
+  },
+  {
+    id: "isla-wellington-nature-v2",
+    type: "island",
+    parent: "CL-MA",
+    coords: [-74.8833, -49.3833],
+    name: { de: "Isla Wellington", hu: "Isla Wellington", ro: "Isla Wellington", en: "Isla Wellington" },
+    description: {
+      de: "Eine der größten Inseln in den chilenischen Fjorden, fast vollständig aus wilder Natur bestehend.",
+      hu: "A chilei fjordok egyik legnagyobb szigete, amely szinte teljesen vad természetből áll.",
+      ro: "Una dintre cele mai mari insule din fiordurile chiliene, constând aproape în întregime din natură sălbatică.",
+      en: "One of the largest islands in the Chilean fjords, consisting almost entirely of wild nature."
+    },
+    facts: {
+      de: ["Die einzige Siedlung ist das kleine Puerto Edén.", "Heimat des indigenen Kawésqar-Volkes."],
+      hu: ["Az egyetlen település a kis Puerto Edén.", "A bennszülött kawésqar nép otthona."],
+      ro: ["Singura așezare este mica Puerto Edén.", "Căminul poporului indigen Kawésqar."],
+      en: ["The only settlement is the small Puerto Edén.", "Home of the indigenous Kawésqar people."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Isla Wellington este una dintre cele mai mari și mai izolate insule din fiordurile chiliene, situată în regiunea accidentată Aysén. Este aproape în întregime nelocuită, cu excepția micuței așezări Puerto Edén, accesibilă doar pe mare. Acest sat este ultimul refugiu al poporului Kawésqar, o cultură nomadă de navigatori care a locuit aceste fiorduri reci timp de milenii. Insula este acoperită de păduri dense, pline de mușchi, și face parte din Parcul Național Bernardo O'Higgins, cea mai mare arie protejată din Chile. Linia sa de coastă este un labirint de fiorduri adânci și canale, casa focilor, delfinilor și a păsărilor marine rare. Geografie K7 — geomorfologia fiordurilor și conservarea.",
+      en: "Isla Wellington is one of the largest and most remote islands in the Chilean fjords, located in the rugged Aysén Region. It is almost entirely uninhabited, with the exception of Puerto Edén, a tiny settlement accessible only by sea. This village is the last stronghold of the Kawésqar people, a formerly nomadic sea-faring culture that has inhabited these cold fjords for millennia. The island is covered in thick, mossy forests and is part of the Bernardo O'Higgins National Park, Chile's largest protected area. Its coastline is a labyrinth of deep fjords and channels, home to seals, dolphins, and rare marine birds."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["A treia cea mai mare insulă din Chile.", "Găzduiește ultima comunitate Kawésqar.", "Accesibilă exclusiv cu ambarcațiuni.", "Parte a Parcul Național Bernardo O'Higgins."],
+      en: ["Third largest island in Chile.", "Home to the last Kawésqar community.", "Accessible only by boat.", "Located in Bernardo O'Higgins National Park."]
+    }
+  },
+  {
+    id: "selva-valdiviana-nature-v2",
+    type: "forest",
+    parent: "CL-LR",
+    coords: [-73.0000, -39.8333],
+    name: { de: "Selva Valdiviana", hu: "Selva Valdiviana", ro: "Selva Valdiviana", en: "Selva Valdiviana" },
+    description: {
+      de: "Ein temperierter Regenwald, der sich durch eine immense Biodiversität und feuchtes Klima auszeichnet.",
+      hu: "Mérsékelt övi esőerdő, amelyet hatalmas biodiverzitás és nedves éghajlat jellemez.",
+      ro: "O pădure tropicală temperată, caracterizată printr-o imensă biodiversitate și un climat umed.",
+      en: "A temperate rainforest characterized by immense biodiversity and a humid climate."
+    },
+    facts: {
+      de: ["Einer der wenigen gemäßigten Regenwälder der Erde.", "Heimat des winzigen Pudu-Hirsches."],
+      hu: ["A Föld kevés mérsékelt övi esőerdejének egyike.", "Az apró pudu szarvas otthona."],
+      ro: ["Una dintre puținele păduri tropicale temperate de pe Pământ.", "Căminul micului cerb Pudu."],
+      en: ["One of the few temperate rainforests on Earth.", "Home of the tiny Pudu deer."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Pădurea Tropicală Temperată Valdiviană este o „insulă biologică”, izolată de Anzi la est și de Pacific la vest. Este una dintre puținele păduri tropicale temperate din lume și este faimoasă pentru densitatea incredibilă de viață și liniile de plante antice care datează de pe supercontinentul Gondwana. Pădurea este caracterizată de arbori veșnic verzi, ferigi uriașe și un subarboret des de bambus și mușchi. Oferă un habitat critic pentru specii unice, precum Monito del Monte (un marsupial considerat fosilă vie) și Pudu, cel mai mic cerb din lume. În ciuda frumuseții sale, pădurea se confruntă cu amenințări constante din cauza exploatării forestiere. Biologie K7 — biodiversitatea pădurilor temperate.",
+      en: "The Valdivian Temperate Rainforest is a biological island, isolated by the Andes to the east and the Pacific to the west. It is one of the few temperate rainforests in the world and is famous for its incredible density of life and ancient plant lineages that date back to the supercontinent Gondwana. The forest is characterized by evergreen trees, giant ferns, and a thick understory of bamboo and moss. It provides a critical habitat for unique species like the Monito del Monte (a living fossil marsupial) and the Pudu, the world's smallest deer. Despite its beauty, the forest faces ongoing threats from logging and conversion to agricultural land."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Una dintre puținele păduri pluviale temperate globale.", "Căminul Pudu-ului, cel mai mic cerb din lume.", "Procent ridicat de specii endemice.", "Conține plante ce datează din epoca Gondwana."],
+      en: ["One of the few temperate rainforests globally.", "Home to the Pudu, the smallest deer.", "High percentage of endemic species.", "Contains ancient Gondwanan plant lineages."]
+    }
+  },
+  {
+    id: "bosque-de-araucarias-nature-v2",
+    type: "forest",
     parent: "CL-AR",
     coords: [-71.6500, -38.6500],
-    name: {
-      de: "Nationalpark Conguillío",
-      hu: "Conguillío Nemzeti Park",
-      ro: "Parcul Național Conguillío",
-      en: "Conguillío National Park"},
-    image: "/poi-images/parque-nacional-conguillio-nature-v2.webp",
+    name: { de: "Bosque de Araucarias", hu: "Bosque de Araucarias", ro: "Bosque de Araucarias", en: "Bosque de Araucarias" },
     description: {
-      de: "Ein spektakulärer Park in den Araukarienwäldern, dominiert vom Vulkan Llaima.",
-      hu: "Lélegzetelállító park az araukáriaerdőkben, amelyet a Llaima vulkán ural.",
-      ro: "Un parc spectaculos în pădurile de araucaria, dominat de vulcanul Llaima.",
-      en: "A spectacular park in the araucaria forests, dominated by the Llaima volcano.",
-      es: "Un parque espectacular en los bosques de araucarias, dominado por el volcán Llaima.",
-      pt: "Um parque espetacular nas florestas de araucárias, dominado pelo vulcão Llaima.",
-      fr: "Un parc spectaculaire dans les forêts d'araucarias, dominé par le volcan Llaima.",
-    },
-    descriptionAdvanced: {
-      de: "Der Nationalpark Conguillío befindet sich in der Region Araucanía in den chilenischen Anden und ist berühmt für seine prähistorisch anmutende Landschaft. Er wurde 1950 gegründet und umfasst heute rund 60.832 Hektar. Das markanteste Merkmal des Parks ist der aktive Vulkan Llaima, einer der aktivsten Vulkane Südamerikas, dessen Lavaströme das Gelände über Jahrtausende geformt haben. Inmitten dieser vulkanischen Überreste gedeihen dichte Wälder der Araukarie (Araucaria araucana), auch Affenrätselbaum genannt, die bis zu 1.000 Jahre alt werden können. Die Kombination aus erstarrter Lava, schneebedeckten Gipfeln und tiefblauen Seen wie dem Conguillío-See verleiht dem Park eine einzigartige Ästhetik, die bereits als Kulisse für Dokumentationen über Dinosaurier diente. Der Park bietet zahlreiche Wanderwege, darunter die berühmte 'Sierra Nevada'-Route, die spektakuläre Ausblicke auf den Vulkan und den See bietet. Die Region ist zudem von großer kultureller Bedeutung für das indigene Volk der Mapuche, für die der Llaima und die Araukarien heilige Symbole ihrer Identität und Geschichte sind.",
-      hu: "A Conguillío Nemzeti Park az Andokban, az Araucanía régióban található, és híres őskori hangulatú tájáról. Az 1950-ben alapított park ma körülbelül 60 832 hektárt foglal magában. A park legmeghatározóbb eleme az aktív Llaima-vulkán, Dél-Amerika egyik legaktívabb tűzhányója, amelynek lávafolyamai évezredek alatt formálták a terepet. E vulkáni maradványok között sűrű araukária-erdők (Araucaria araucana) virágoznak; ezek a fák akár 1000 évig is elélhetnek. A megszilárdult láva, a hófödte csúcsok és a mélykék tavak, például a Conguillío-tó kombinációja egyedi esztétikát kölcsönöz a parknak, amely korábban dinoszauruszokról szóló dokumentumfilmek díszleteként is szolgált. A park számos túraútvonalat kínál, köztük a híres 'Sierra Nevada' útvonalat, amely lenyűgöző kilátást nyújt a vulkánra és a tóra. A régió nagy kulturális jelentőséggel bír a mapuche őslakosok számára is, akiknek a Llaima és az araukária identitásuk és történelmük szent szimbólumai.",
-      ro: "Parcul Național Conguillío este situat în Anzii chiliani, în regiunea Araucanía, și este renumit pentru peisajele sale care par desprinse din preistorie. Înființat în 1950, parcul acoperă astăzi aproximativ 60.832 de hectare. Cea mai proeminentă caracteristică a parcului este vulcanul activ Llaima, unul dintre cei mai activi din America de Sud, ale cărui scurgeri de lavă au modelat relieful de-a lungul mileniilor. În mijlocul acestor rămășițe vulcanice prosperă păduri dese de Araucaria (Araucaria araucana), arbori care pot trăi până la 1.000 de ani. Combinația de lavă solidificată, vârfuri înzăpezite și lacuri de un albastru profund, precum lacul Conguillío, oferă parcului o estetică unică, servind drept decor pentru documentare despre dinozauri. Parcul oferă numeroase trasee de drumeție, inclusiv celebra rută 'Sierra Nevada', care oferă vederi spectaculoase asupra vulcanului și lacului. Regiunea are și o mare importanță culturală pentru poporul indigen Mapuche, pentru care Llaima și Araucaria sunt simboluri sacre ale identității și istoriei lor.",
-      en: "Conguillío National Park is located in the Araucanía Region of the Chilean Andes and is famous for its prehistoric-looking landscapes. Established in 1950, the park now spans roughly 60,832 hectares. Its most defining feature is the active Llaima Volcano, one of South America's most active volcanoes, whose lava flows have shaped the terrain over millennia. Amidst these volcanic remnants, dense forests of Araucaria (Araucaria araucana), or monkey puzzle trees, thrive, with some specimens living for up to 1,000 years. The combination of solidified lava, snow-capped peaks, and deep blue lakes like Lake Conguillío creates a unique aesthetic that has served as a backdrop for dinosaur documentaries. The park offers numerous hiking trails, including the famous 'Sierra Nevada' route, which provides spectacular views of the volcano and lake. The region also holds great cultural significance for the indigenous Mapuche people, for whom the Llaima and the Araucaria are sacred symbols of their identity and history.",
-      es: "El Parque Nacional Conguillío es famoso por sus extensos bosques de araucarias, cuyos orígenes se remontan muy atrás en la historia geológica. El paisaje ha sido moldeado significativamente por el volcán activo Llaima, lo que ha dado lugar a una impresionante variedad de estructuras geológicas como flujos de lava y lagos volcánicos. Es un ejemplo vivo de la formación natural y el cambio de un paisaje volcánico.",
-      pt: "O Parque Nacional Conguillío é famoso pelas suas extensas florestas de araucárias, cujas origens remontam à história da Terra. A paisagem foi significativamente moldada pelo vulcão ativo Llaima, o que resultou numa impressionante variedade de estruturas geológicas, como fluxos de lava e lagos vulcânicos. É um exemplo vivo da criação natural e da mudança de uma paisagem vulcânica.",
-      fr: "Le parc national Conguillío est célèbre pour ses vastes forêts d'araucarias, dont l'origine remonte loin dans l'histoire de la Terre. Le paysage a été largement façonné par le volcan actif Llaima, ce qui a donné naissance à une impressionnante variété de structures géologiques telles que des coulées de lave et des lacs volcaniques. C'est un exemple vivant de la formation et de l'évolution naturelles d'un paysage volcanique.",
-    },
-    factsAdvanced: {
-      de: ["Wurde im Jahr 1950 als Nationalpark gegründet.", "Der Vulkan Llaima ist 3.125 Meter hoch.", "Umfasst eine Fläche von 60.832 Hektar.", "Beherbergt jahrtausendealte Araukarienwälder.", "Diente als Drehort für 'Dinosaurier - Im Reich der Giganten'.", "Gehört zum UNESCO-Biosphärenreservat Araucarias."],
-      hu: ["1950-ben alapították nemzeti parkként.", "A Llaima-vulkán magassága 3125 méter.", "Területe összesen 60 832 hektárt tesz ki.", "Több ezer éves araukária-erdőknek ad otthont.", "A 'Walking with Dinosaurs' sorozat forgatási helyszíne volt.", "Az UNESCO Araucarias bioszféra-rezervátum része."],
-      ro: ["Înființat ca parc național în anul 1950.", "Vulcanul Llaima are o înălțime de 3.125 metri.", "Acoperă o suprafață de 60.832 de hectare.", "Adăpostește păduri de Araucaria vechi de milenii.", "Loc de filmare pentru seria 'Walking with Dinosaurs'.", "Parte din Rezervația Biosferei UNESCO Araucarias."],
-      en: ["Established as a national park in 1950.", "The Llaima Volcano stands at 3,125 meters high.", "Spans a total area of 60,832 hectares.", "Home to millenarian Araucaria (monkey puzzle) forests.", "Filming location for 'Walking with Dinosaurs' documentary.", "Part of the UNESCO Araucarias Biosphere Reserve."],
-      es: ["Centro de los antiguos bosques de araucarias en Chile.", "Formado geológicamente por el volcán activo Llaima.", "Impresionantes lagos volcánicos y formaciones de lava.", "Importante lugar de investigación sobre la dinámica volcánica y el desarrollo forestal."],
-      pt: ["Centro das antigas florestas de araucárias no Chile.", "Formado geologicamente pelo vulcão ativo Llaima.", "Impressionantes lagos vulcânicos e formações de lava.", "Importante local de pesquisa sobre a dinâmica vulcânica e o desenvolvimento florestal."],
-      fr: ["Centre des anciennes forêts d'araucarias au Chili.", "Formé géologiquement par le volcan actif Llaima.", "Lacs volcaniques impressionnants et formations de lave.", "Lieu de recherche important sur la dynamique volcanique et le développement forestier."],
+      de: "Uralte Wälder, die von den markanten Chilenischen Schmucktannen dominiert werden.",
+      hu: "Ősi erdők, amelyeket a jellegzetes chilei araukária fenyők uralnak.",
+      ro: "Păduri străvechi, dominate de pinii chilieni Araucaria distinctivi.",
+      en: "Ancient forests dominated by the distinctive Chilean Araucaria pines."
     },
     facts: {
-      de: ["Die Araukarien sind bis zu 2.000 Jahre alt.", "Der Vulkan Llaima ist einer der aktivsten Vulkane Chiles."],
-      hu: ["Az araukáriák akár 2000 évesek is lehetnek.", "A Llaima az egyik legaktívabb chilei vulkán."],
-      ro: ["Araucariile pot avea până la 2.000 de ani.", "Llaima este unul dintre cei mai activi vulcani din Chile."],
-      en: ["The araucarias can be up to 2,000 years old.", "Llaima is one of the most active volcanoes in Chile."],
-      es: ["Las araucarias tienen hasta 2.000 años de antigüedad.", "El volcán Llaima es uno de los más activos de Chile."],
-      pt: ["As araucárias têm até 2.000 anos de idade.", "O vulcão Llaima é um dos vulcões mais ativos do Chile."],
-      fr: ["Les araucarias ont jusqu'à 2 000 ans.", "Le volcan Llaima est l'un des volcans les plus actifs du Chili."],
-    }, image: "/poi-images/parque-nacional-conguillio-nature-v2.webp"},
-  {
-    id: "parque-nacional-queulat-nature-v2",
-    type: "nature",
-    parent: "CL-AI",
-    coords: [-72.5000, -44.5000],
-    name: {
-      de: "Nationalpark Queulat",
-      hu: "Queulat Nemzeti Park",
-      ro: "Parcul Național Queulat",
-      en: "Queulat National Park"},
-    image: "/poi-images/parque-nacional-queulat-nature-v2.webp",
-    description: {
-      de: "Bekannt für seinen berühmten Hängegletscher, eingebettet in einen dichten patagonischen Regenwald.",
-      hu: "Híres függőgleccseréről, amely sűrű patagóniai esőerdőben található.",
-      ro: "Faimos pentru ghețarul său suspendat, situat într-o pădure tropicală patagoneză densă.",
-      en: "Known for its famous hanging glacier set in a dense Patagonian rainforest.",
-      es: "Conocido por su famoso glaciar colgante, inmerso en una densa selva patagónica.",
-      pt: "Conhecido pelo seu famoso glaciar suspenso, inserido numa densa floresta tropical patagónica.",
-      fr: "Connu pour son célèbre glacier suspendu, niché au cœur d'une forêt tropicale patagonienne dense.",
+      de: ["Die Bäume können über tausend Jahre alt werden.", "Ein heiliger Baum für das Volk der Mapuche."],
+      hu: ["A fák több mint ezer évig is élhetnek.", "Szent fa a mapuche nép számára."],
+      ro: ["Copacii pot trăi peste o mie de ani.", "Un arbore sacru pentru poporul Mapuche."],
+      en: ["The trees can live for over a thousand years.", "A sacred tree for the Mapuche people."]
     },
     descriptionAdvanced: {
-      de: "Der Nationalpark Queulat liegt in der Region Aysén im chilenischen Patagonien und erstreckt sich entlang der Carretera Austral. Er wurde 1983 gegründet und umfasst eine Fläche von etwa 154.093 Hektar, die durch dichte, immergrüne Regenwälder und eine zerklüftete Fjordlandschaft geprägt ist. Das herausragendste Merkmal des Parks ist der Ventisquero Colgante, ein hängender Gletscher, dessen Schmelzwasser in Form von gewaltigen Wasserfällen hunderte Meter in die Tiefe stürzt. Die Vegetation ist außergewöhnlich üppig und umfasst riesige Nalca-Pflanzen sowie Farne, die in dem feuchten Klima prächtig gedeihen. Der Park bietet Wanderern Wege wie den 'Sendero Ventisquero Colgante', der zu einem Aussichtspunkt mit direktem Blick auf den Gletscher führt. Neben der beeindruckenden Eiskappe ist das Gebiet für seine Thermalquellen in der Nähe der Puyuhuapi-Fjordküste bekannt. Queulat bleibt aufgrund seiner abgelegenen Lage und des oft nebelverhangenen, mystischen Ambientes ein Symbol für die unberührte Wildnis der chilenischen Fjorde und ein Muss für Reisende im tiefen Süden.",
-      hu: "A Queulat Nemzeti Park a chilei Patagóniában, az Aysén régióban található, a Carretera Austral mentén. Az 1983-ban alapított park körülbelül 154 093 hektáron terül el, amelyet sűrű, örökzöld esőerdők és vad fjordvidék jellemez. A park legkiemelkedőbb látványossága a Ventisquero Colgante, egy függőgleccser, amelynek olvadékvize hatalmas vízesések formájában zúdul alá több száz méteres magasságból. A növényzet rendkívül dús, óriási nalca-növények és páfrányok alkotják, amelyek a párás klímában kiválóan fejlődnek. A park túraútvonalakat kínál, például a 'Sendero Ventisquero Colgante'-t, amely a gleccserre néző kilátóhoz vezet. A lenyűgöző jégsapka mellett a terület a Puyuhuapi-fjord partján található termálforrásairól is ismert. Queulat távoli fekvése és gyakran ködös, misztikus hangulata miatt a chilei fjordok érintetlen vadonjának jelképe marad, és kihagyhatatlan állomás a déli területek utazói számára.",
-      ro: "Parcul Național Queulat este situat în regiunea Aysén din Patagonia chiliană și se întinde de-a lungul celebrei Carretera Austral. Înființat în 1983, parcul acoperă o suprafață de aproximativ 154.093 de hectare, caracterizată prin păduri perene dese și peisaje spectaculoase de fiorduri. Cea mai remarcabilă trăsătură a parcului este Ventisquero Colgante, un ghețar suspendat ale cărui ape rezultate din topire cad sub formă de cascade uriașe de la sute de metri înălțime. Vegetația este excepțional de luxuriantă, incluzând plante uriașe de Nalca și ferigi care prosperă în climatul umed. Parcul oferă drumeților trasee precum 'Sendero Ventisquero Colgante', care duce la un punct de observație cu vedere directă spre ghețar. Pe lângă calota de gheață impresionantă, zona este cunoscută pentru izvoarele termale situate în apropierea coastei fiordului Puyuhuapi. Queulat rămâne un simbol al sălbăticiei virgine a fiordurilor chiliene, datorită locației sale izolate și ambianței mistice, fiind o destinație esențială în sudul extrem.",
-      en: "Queulat National Park is located in the Aysén Region of Chilean Patagonia, stretching along the famous Carretera Austral. Established in 1983, the park spans approximately 154,093 hectares, characterized by dense evergreen rainforests and rugged fjord landscapes. Its most outstanding feature is the Ventisquero Colgante, a hanging glacier whose meltwater plunges in massive waterfalls hundreds of meters down a sheer cliff. The vegetation is exceptionally lush, featuring giant Nalca plants and ferns that thrive in the humid climate. The park offers hikers various trails, such as the 'Sendero Ventisquero Colgante', which leads to a viewpoint with a direct gaze at the glacier. Beyond the impressive ice cap, the area is known for thermal springs near the Puyuhuapi fjord coast. Due to its remote location and often misty, mystical atmosphere, Queulat remains a symbol of the pristine wilderness of the Chilean fjords and a must-see for travelers in the deep south.",
-      es: "El Parque Nacional Queulat es una joya escondida en la región de Aysén. Su principal atractivo es el Ventisquero Colgante, un espectacular glaciar que vierte su hielo sobre una empinada pared de roca hacia un pequeño lago. Este glaciar está rodeado de profundos bosques vírgenes, característicos de las altas precipitaciones de la Patagonia, que crean un microclima único.",
-      pt: "O Parque Nacional Queulat é uma joia escondida na região de Aysén. A principal atração é o Ventisquero Colgante, um espetacular glaciar suspenso que faz cair o gelo sobre uma parede rochosa íngreme num pequeno lago. Este glaciar está rodeado por florestas tropicais profundas e imaculadas, características da elevada pluviosidade da Patagónia, criando um microclima único.",
-      fr: "Le parc national Queulat est un joyau caché de la région d'Aysén. L'attraction principale est le Ventisquero Colgante, un spectaculaire glacier suspendu qui laisse tomber la glace sur une paroi rocheuse abrupte dans un petit lac. Ce glacier est entouré de forêts tropicales profondes et vierges, caractéristiques de la forte pluviométrie de la Patagonie, créant un microclimat unique.",
+      de: "",
+      hu: "",
+      ro: "Pădurile de Araucaria din Chile sunt relicve vii din epoca dinozaurilor, dominate de specia „Araucaria araucana”. Acești giganți cu creștere lentă pot trăi peste 2.000 de ani și prezintă coroane distinctive în formă de umbrelă și frunze triunghiulare ascuțite. Arborele este sacru pentru poporul Mapuche-Pehuenche, care s-a bazat tradițional pe semințele sale mari și nutritive, numite „piñones”, ca sursă principală de hrană. Aceste păduri se găsesc de obicei la altitudini mari de-a lungul Andzilor și sunt adesea asociate cu peisajele vulcanice. Araucaria a fost declarată Monument Natural al statului Chile în 1990 pentru a fi protejată de tăieri. Biologie K6 — plante preistorice și conservare.",
+      en: "The Araucaria forests of Chile are living relics from the age of dinosaurs, dominated by the \"Araucaria araucana\" or Monkey Puzzle tree. These slow-growing giants can live for over 2,000 years and feature distinctive, umbrella-like canopies and sharp, triangular leaves. The tree is sacred to the Mapuche-Pehuenche people, who have traditionally relied on its large, nutritious seeds (piñones) as a staple food source. These forests are typically found at high altitudes along the Andes and are often associated with volcanic landscapes. The Araucaria was declared a Natural Monument of Chile in 1990 to protect it from further exploitation and logging."
     },
     factsAdvanced: {
-      de: ["Wurde im Jahr 1983 offiziell gegründet.", "Umfasst eine Fläche von 154.093 Hektar.", "Bekannt für den hängenden Gletscher Ventisquero Colgante.", "Die Wasserfälle des Gletschers stürzen ca. 350 m tief.", "Liegt direkt an der Fernstraße Carretera Austral.", "Beherbergt seltene Südbuchenwälder (Nothofagus)."],
-      hu: ["Hivatalosan 1983-ban alapították a nemzeti parkot.", "Területe összesen 154 093 hektárt tesz ki.", "Híres a Ventisquero Colgante függőgleccserről.", "A gleccser vízesései mintegy 350 méter magasból hullanak.", "Közvetlenül a Carretera Austral főútvonal mentén fekszik.", "Ritka déli bükkerdőknek (Nothofagus) ad otthont."],
-      ro: ["Înființat oficial ca parc național în anul 1983.", "Acoperă o suprafață totală de 154.093 de hectare.", "Celebru pentru ghețarul suspendat Ventisquero Colgante.", "Cascadele ghețarului au o cădere de aproximativ 350 m.", "Situat direct pe ruta rutieră Carretera Austral.", "Adăpostește păduri rare de fag sudic (Nothofagus)."],
-      en: ["Officially established as a national park in 1983.", "Spans a total area of 154,093 hectares.", "Famous for the Ventisquero Colgante hanging glacier.", "The glacier's waterfalls drop approximately 350 meters.", "Located directly along the Carretera Austral highway.", "Home to rare southern beech (Nothofagus) forests."],
-      es: ["Llamativo glaciar colgante Ventisquero Colgante como principal atracción.", "Inmerso en una de las selvas más prístinas de la Patagonia.", "Ecológicamente significativo debido a las tasas de precipitación extremadamente altas.", "Estructura paisajística única por la combinación de glaciar y bosque."],
-      pt: ["Marcante glaciar suspenso Ventisquero Colgante como principal atração.", "Inserido numa das florestas tropicais mais primitivas da Patagónia.", "Ecologicamente significativo devido às taxas de precipitação extremamente elevadas.", "Estrutura paisagística única através da combinação de glaciar e floresta."],
-      fr: ["Remarquable glacier suspendu Ventisquero Colgante comme attraction principale.", "Niché dans l'une des forêts tropicales les plus vierges de Patagonie.", "Écologiquement important en raison des taux de précipitations extrêmement élevés.", "Structure paysagère unique grâce à la combinaison du glacier et de la forêt."],
+      de: [],
+      hu: [],
+      ro: ["Arborii Araucaria pot trăi peste 2.000 de ani.", "Sunt considerați sacri de către poporul Pehuenche.", "Semințele lor reprezintă o hrană tradițională.", "Declarat Monument Natural Național în 1990."],
+      en: ["Monkey Puzzle trees can live 2,000 years.", "Sacred to the Pehuenche people.", "Seeds are a traditional food source.", "National Natural Monument of Chile."]
+    }
+  },
+  {
+    id: "mar-chileno-nature-v2",
+    type: "sea",
+    parent: "CL-VS",
+    coords: [-75.0000, -30.0000],
+    name: { de: "Mar Chileno", hu: "Mar Chileno", ro: "Mar Chileno", en: "Mar Chileno" },
+    description: {
+      de: "Das Gebiet des Pazifischen Ozeans vor der chilenischen Küste, reich an marinem Leben.",
+      hu: "A Csendes-óceán chilei partok előtti területe, amely gazdag tengeri élővilágban.",
+      ro: "Zona Oceanului Pacific de pe coasta chiliană, bogată în viață marină.",
+      en: "The area of the Pacific Ocean off the Chilean coast, rich in marine life."
     },
     facts: {
-      de: ["Der Hängegletscher ist eine der meistfotografierten Sehenswürdigkeiten Chiles.", "Der Park liegt an der Carretera Austral."],
-      hu: ["A függőgleccser Chile egyik leggyakrabban fotózott látnivalója.", "A park a Carretera Austral mentén található."],
-      ro: ["Ghețarul suspendat este una dintre cele mai fotografiate atracții din Chile.", "Parcul este situat pe Carretera Austral."],
-      en: ["The hanging glacier is one of the most photographed attractions in Chile.", "The park is located on the Carretera Austral."],
-      es: ["El glaciar colgante es una de las vistas más fotografiadas de Chile.", "El parque se encuentra en la Carretera Austral."],
-      pt: ["O glaciar suspenso é uma das atrações mais fotografadas do Chile.", "O parque está localizado na Carretera Austral."],
-      fr: ["Le glacier suspendu est l'un des sites les plus photographiés du Chili.", "Le parc est situé sur la Carretera Austral."],
-    }, image: "/poi-images/parque-nacional-queulat-nature-v2.webp"},
-  {
-    id: "parque-nacional-vicente-perez-rosales-nature-v2",
-    type: "nature",
-    parent: "CL-LL",
-    coords: [-71.850, -41.150],
-    name: {
-      de: "Nationalpark Vicente Pérez Rosales",
-      hu: "Vicente Pérez Rosales Nemzeti Park",
-      ro: "Parcul Național Vicente Pérez Rosales",
-      en: "Vicente Pérez Rosales National Park"},
-    image: "/poi-images/parque-nacional-vicente-perez-rosales-nature-v2.webp",
-    description: {
-      de: "Der älteste Nationalpark Chiles mit den beeindruckenden Petrohué-Wasserfällen und dem Osorno-Vulkan.",
-      hu: "Chile legrégebbi nemzeti parkja a lenyűgöző Petrohué-vízesésekkel és az Osorno vulkánnal.",
-      ro: "Cel mai vechi parc național din Chile, cu impresionantele cascade Petrohué și vulcanul Osorno.",
-      en: "Chile's oldest national park with the impressive Petrohué Waterfalls and Osorno Volcano.",
-      es: "El parque nacional más antiguo de Chile, con los impresionantes Saltos del Petrohué y el volcán Osorno.",
-      pt: "O parque nacional mais antigo do Chile, com os impressionantes Saltos do Petrohué e o vulcão Osorno.",
-      fr: "Le plus ancien parc national du Chili, avec les impressionnantes chutes de Petrohué et le volcan Osorno.",
+      de: ["Der kalte Humboldtstrom prägt das Ökosystem.", "Wichtig für die chilenische Fischereiindustrie."],
+      hu: ["A hideg Humboldt-áramlat határozza meg az ökoszisztémát.", "Fontos a chilei halászati ipar számára."],
+      ro: ["Curentul rece Humboldt modelează ecosistemul.", "Important pentru industria pescuitului chilian."],
+      en: ["The cold Humboldt Current shapes the ecosystem.", "Important for the Chilean fishing industry."]
     },
     descriptionAdvanced: {
-      de: "Der Nationalpark Vicente Pérez Rosales wurde im Jahr 1926 gegründet und ist damit das älteste Schutzgebiet Chiles. Er erstreckt sich über eine Fläche von etwa 253.780 Hektar in der Region Los Lagos und ist Teil des Biosphärenreservats der gemäßigten Regenwälder der südlichen Anden. Das markanteste Wahrzeichen des Parks ist der perfekt geformte, schneebedeckte Vulkan Osorno, der majestätisch über den smaragdgrünen Wassern des Todos los Santos Sees thront. Ein weiteres geologisches Highlight sind die Saltos del Petrohué, eine Reihe von Wasserfällen, die durch Lavaströme des Vulkans geformt wurden und durch die sich das türkisfarbene Wasser des Petrohué-Flusses stürzt. Die Vegetation besteht vorwiegend aus valdivianischem Regenwald mit Arten wie der Coihue-Südbuche und der prachtvollen Chilenischen Myrte. Touristen nutzen das Gebiet intensiv für Wanderungen, Bergbesteigungen und Schifffahrten, während die wissenschaftliche Bedeutung in der Erforschung vulkanischer Prozesse und glazialer Ökosysteme liegt.",
-      hu: "A Vicente Pérez Rosales Nemzeti Parkot 1926-ban alapították, így ez Chile legrégebbi nemzeti parkja. A Los Lagos régióban elterülő, mintegy 253 780 hektáros terület az Andok mérsékelt övi esőerdőinek bioszféra-rezervátumához tartozik. A park legismertebb jelképe a tökéletes kúp alakú, 2652 méter magas Osorno-vulkán, amely a Todos los Santos-tó smaragdzöld vize felett magasodik. A látogatók körében rendkívül népszerűek a Petrohué-vízesések, ahol a folyó vize a vulkáni tevékenység során keletkezett bazaltcsatornákon keresztül zúdul alá. Az élővilágot a valdiviai mérsékelt övi esőerdők dominálják, ahol olyan különleges fafajok találhatók, mint a coihue és a déli bükk. A park geológiai szempontból is jelentős, mivel bemutatja a vulkanikus erők és a jégkorszaki gleccserek tájformáló munkáját a tengerparti hegyláncok és a magashegyek között.",
-      ro: "Parcul Național Vicente Pérez Rosales a fost înființat în anul 1926, fiind cel mai vechi parc național din Chile. Situat în regiunea Los Lagos, parcul acoperă o suprafață de peste 253.000 de hectare și face parte din Rezervația Biosferei Pădurilor Temperate din Anzii de Sud. Punctul central al peisajului este vulcanul Osorno, a cărui formă conică aproape perfectă și vârf înzăpezit domină orizontul deasupra lacului Todos los Santos. cascadele Petrohué reprezintă o altă atracție majoră, unde apele de culoarea smaraldului ale râului Petrohué curg prin canale sculptate în lavă bazaltică veche. Flora este compusă în principal din păduri pluviale valdiviene, adăpostind specii endemice precum coihue și faya. Importanța sa ecologică este dublată de valoarea turistică, oferind trasee montane și oportunități pentru observarea vulcanismului activ în condiții de siguranță.",
-      en: "Established in 1926, Vicente Pérez Rosales National Park is the oldest national park in Chile and a cornerstone of the country's protected areas. Located in the Los Lagos Region, it encompasses approximately 253,780 hectares of rugged Andean terrain and is part of the Temperate Rainforests of the Southern Andes Biosphere Reserve. The park is dominated by the majestic Osorno Volcano, standing at 2,652 meters, and the deep blue waters of Todos los Santos Lake, often called the Emerald Lake. A key geographical feature is the Petrohué Falls, where the river cascades through chutes of volcanic basalt formed by ancient lava flows. The vegetation consists largely of Valdivian temperate rainforest, providing a habitat for diverse fauna such as the pudu and the monito del monte. It serves as a vital center for outdoor recreation and scientific study of glaciology and volcanic activity in the Southern Cone.",
-      es: "El Vicente Pérez Rosales es el parque nacional más antiguo de Chile y está situado pintorescamente entre altas montañas y lagos profundos. Los Saltos del Petrohué, que se vierten sobre roca de lava, son un punto culminante absoluto. El panorama está dominado por el simétrico volcán Osorno, cuya silueta representa una de las imágenes más conocidas de Chile.",
-      pt: "O Vicente Pérez Rosales é o parque nacional mais antigo do Chile e situa-se pitorescamente entre montanhas altas e lagos profundos. Os Saltos do Petrohué, que se precipitam sobre rocha de lava, são um ponto alto absoluto. O panorama é dominado pelo vulcão simétrico Osorno, cuja silhueta é uma das imagens mais conhecidas do Chile.",
-      fr: "Le Vicente Pérez Rosales est le plus ancien parc national du Chili et se situe de manière pittoresque entre de hautes montagnes et des lacs profonds. Les chutes de Petrohué, qui se déversent sur de la roche de lave, sont un point culminant absolu. Le panorama est dominé par le volcan symétrique Osorno, dont la silhouette représente l'une des images les plus connues du Chili.",
+      de: "",
+      hu: "",
+      ro: "Mar Chileno cuprinde vastele ape teritoriale ale statului Chile, întinzându-se de la nordul arid până la fiordurile înghețate din sud. Este definit de Curentul Humboldt, un curent de apă rece și bogat în nutrienți care curge spre nord de-a lungul coastei, susținând unul dintre cele mai productive ecosisteme marine de pe Pământ. Această ascensiune a nutrienților alimentează înfloriri masive de plancton, care la rândul lor susțin bancuri uriașe de hamsii, sardine și balenele albastre maiestuoase care migrează aici pentru a se hrăni. Marea este centrală pentru identitatea și economia țării, oferind mijloace de trai pentru mii de pescari artizanal. Biologie K8 — curenții marini și lanțul trofic oceanic.",
+      en: "The Mar Chileno encompasses the vast territorial waters of Chile, stretching from the arid north to the icy southern fjords. It is defined by the Humboldt Current, a cold, nutrient-rich stream of water that flows northward along the coast, supporting one of the most productive marine ecosystems on Earth. This \"upwelling\" of nutrients fuels massive blooms of plankton, which in turn support vast schools of anchovies, sardines, and the majestic blue whales that migrate here to feed. The sea is central to Chile's identity and economy, providing a livelihood for thousands of artisanal fishers and supporting a massive global export industry."
     },
     factsAdvanced: {
-      de: ["Gründungsjahr: 1926, der erste Nationalpark in der Geschichte Chiles.", "Der Vulkan Osorno ist 2652 Meter hoch und gilt als aktiv.", "Der Todos los Santos See bedeckt eine Fläche von 178 Quadratkilometern.", "Die Petrohué-Wasserfälle entstanden vor etwa 600 Jahren durch Lavaströme.", "Der Park gehört zum UNESCO-Biosphärenreservat der südlichen Anden.", "Die durchschnittliche jährliche Niederschlagsmenge beträgt etwa 4000 mm."],
-      hu: ["Alapítási éve 1926, ezzel ez Chile legelső nemzeti parkja.", "Az Osorno-vulkán magassága 2652 méter, csúcsát örök hó fedi.", "A Todos los Santos-tó vízfelülete 178 négyzetkilométert tesz ki.", "A Petrohué-vízesések bazalt kanyonját az Osorno lávafolyásai hozták létre.", "A park területe 253 780 hektár, magába foglalva az Andok láncait.", "Az éves csapadékmennyiség elérheti a 4000 millimétert is."],
-      ro: ["Fondat în 1926, este primul și cel mai vechi parc național din Chile.", "Vulcanul Osorno are o altitudine de 2652 metri și este un vulcan activ.", "Lacul Todos los Santos are o suprafață totală de 178 kilometri pătrați.", "Cascadele Petrohué s-au format acum aproximativ 600 de ani din lavă.", "Parcul face parte integrantă din Rezervația Biosferei UNESCO.", "Precipitațiile medii anuale în zonă depășesc 4000 mm pe metru pătrat."],
-      en: ["Founded in 1926, it is officially the first national park created in Chile.", "Osorno Volcano reaches an elevation of 2,652 meters above sea level.", "Todos los Santos Lake spans an area of 178 square kilometers.", "Petrohué Falls features volcanic rock channels shaped by lava flows.", "The park is included in the UNESCO Biosphere Reserve of Southern Andes.", "Annual rainfall in the park's rainforest zones exceeds 4,000 mm."],
-      es: ["Parque nacional más antiguo de Chile (fundado en 1926).", "Conocido por los estruendosos Saltos del Petrohué sobre roca de lava.", "Posición dominante del volcán Osorno en el área del parque nacional.", "Destino importante para el turismo ecológico en la región de los lagos."],
-      pt: ["Parque nacional mais antigo do Chile (fundado em 1926).", "Conhecido pelos estrondosos Saltos do Petrohué sobre rocha de lava.", "Posição dominante do vulcão Osorno na área do parque nacional.", "Destino importante para o turismo ecológico na região dos lagos."],
-      fr: ["Plus ancien parc national du Chili (fondé en 1926).", "Connu pour les chutes vrombissantes de Petrohué sur de la roche de lave.", "Position dominante du volcan Osorno dans la zone du parc national.", "Destination majeure pour l'écotourisme dans la région des lacs."],
-    },
-    facts: {
-      de: ["Der Park wurde 1926 als erster Nationalpark Chiles gegründet.", "Die Petrohué-Wasserfälle ergießen sich über Vulkangestein."],
-      hu: ["A parkot 1926-ban alapították Chile első nemzeti parkjaként.", "A Petrohué-vízesések vulkáni kőzeten keresztül ömlenek."],
-      ro: ["Parcul a fost fondat în 1926 ca primul parc național din Chile.", "Cascadele Petrohué curg peste rocă vulcanică."],
-      en: ["The park was founded in 1926 as Chile's first national park.", "The Petrohué Waterfalls cascade over volcanic rock."],
-      es: ["El parque fue fundado en 1926 como el primer parque nacional de Chile.", "Los Saltos del Petrohué fluyen sobre roca volcánica."],
-      pt: ["O parque foi fundado em 1926 como o primeiro parque nacional do Chile.", "Os Saltos do Petrohué correm sobre rocha vulcânica."],
-      fr: ["Le parc a été fondé en 1926 en tant que premier parc national du Chili.", "Les chutes de Petrohué s'écoulent sur de la roche volcanique."],
-    }, image: "/poi-images/parque-nacional-vicente-perez-rosales-nature-v2.webp"},
+      de: [],
+      hu: [],
+      ro: ["Guvernat de curentul rece Humboldt.", "Una dintre cele mai productive mări din lume.", "Loc de hrănire major pentru balenele albastre.", "Se întinde pe mai bine de 4.000 km de coastă."],
+      en: ["Driven by the cold Humboldt Current.", "One of the world's most productive seas.", "Major feeding ground for Blue Whales.", "Spans over 4,000 kilometers of coastline."]
+    }
+  },
   {
-    id: "desierto-de-atacama-nature-v2",
-    type: "nature",
-    parent: "CL-AN",
-    coords: [-69.2500, -23.9000],
-    name: {
-      de: "Atacama-Wüste",
-      hu: "Atacama-sivatag",
-      ro: "Deșertul Atacama",
-      en: "Atacama Desert"},
-    image: "/poi-images/desierto-de-atacama-nature-v2.webp",
-    description: {
-      de: "Die trockenste Wüste der Welt mit faszinierenden Salzseen, Geysiren und klarem Sternenhimmel.",
-      hu: "A világ legszárazabb sivataga, lenyűgöző sóstavakkal, gejzírekkel és tiszta csillagos égbolttal.",
-      ro: "Cel mai uscat deșert din lume, cu lacuri sărate fascinante, gheizere și un cer înstelat limpede.",
-      en: "The driest desert in the world with fascinating salt lakes, geysers, and clear starry skies.",
-      es: "El desierto más árido del mundo, con fascinantes lagos de sal, géiseres y un cielo estrellado despejado.",
-      pt: "O deserto mais seco do mundo, com fascinantes lagos de sal, géiseres e um céu estrelado límpido.",
-      fr: "Le désert le plus aride du monde, avec des lacs salés fascinants, des geysers et un ciel étoilé limpide.",
-    },
-    descriptionAdvanced: {
-      de: "Die Atacama-Wüste im Norden Chiles gilt als die trockenste Region der Erde außerhalb der Polargebiete. Sie erstreckt sich über eine Fläche von rund 105.000 Quadratkilometern und liegt auf einem Hochplateau zwischen dem Küstengebirge und den Anden. Einige Wetterstationen in der Atacama haben noch nie Niederschlag aufgezeichnet, was auf die extremen Bedingungen des Humboldtstroms und des Regenschattens der Anden zurückzuführen ist. Die Landschaft ist geprägt von riesigen Salzpfannen wie dem Salar de Atacama, aktiven Geysirfeldern wie El Tatio und bizarren Gesteinsformationen im Valle de la Luna. Aufgrund der extrem geringen Luftfeuchtigkeit und der großen Höhe bietet die Wüste die klarsten Nächte der Welt, weshalb hier bedeutende astronomische Observatorien wie das ALMA stationiert sind. Historisch war die Region Zentrum der Salpetergewinnung und beherbergt bis heute bedeutende Lithiumvorkommen, die für die globale Wirtschaft von entscheidender Bedeutung sind.",
-      hu: "Az Atacama-sivatag Chile északi részén található, és a Föld legszárazabb nem-poláris területeként ismert. A mintegy 105 000 négyzetkilométeres fennsík az Andok és a tengerparti hegyláncok között helyezkedik el, átlagosan 2400 méter tengerszint feletti magasságban. A rendkívüli szárazságot a Humboldt-áramlat és az Andok által vetett esőárnyék okozza, egyes részein évtizedekig nem hullik mérhető csapadék. A tájat hatalmas sólepárlók, mint a Salar de Atacama, aktív gejzírmezők és a Valle de la Luna (Hold völgye) bizarr sziklaalakzatai jellemzik. A tiszta égbolt és a minimális fényszennyezés miatt itt működnek a világ legfontosabb csillagászati obszervatóriumai, köztük az ALMA rádióteleszkóp-rendszer. A sivatag gazdag ásványkincsekben is, különösen rézben és a modern technológiához elengedhetetlen lítiumban.",
-      ro: "Deșertul Atacama, situat în nordul Chile, este recunoscut drept cel mai arid loc de pe Pământ, exceptând regiunile polare. Acesta acoperă o suprafață de aproximativ 105.000 de kilometri pătrați, fiind un platou înalt situat între Cordiliera de Coastă și Munții Anzi. Condițiile climatice extreme sunt determinate de prezența curentului rece Humboldt și de bariera montană a Anzilor, care blochează umiditatea. Peisajul este unul selenar, incluzând bazine de sare imense precum Salar de Atacama, câmpuri de gheizere la El Tatio și formațiuni stâncoase spectaculoase în Valle de la Luna. Datorită altitudinii ridicate și lipsei norilor, Atacama este centrul mondial al astronomiei, găzduind observatoare precum ALMA și VLT. Regiunea are o importanță economică majoră datorită zăcămintelor de cupru, litiu și bor, esențiale pentru industria tehnologică globală.",
-      en: "The Atacama Desert in northern Chile is widely regarded as the driest non-polar place on Earth. Spanning approximately 105,000 square kilometers, this high-altitude plateau is nestled between the Chilean Coastal Range and the Andes Mountains. Its extreme aridity is caused by a temperature inversion from the cold Humboldt Current and the rain shadow effect of the Andes, resulting in decades-long dry spells in certain areas. The geography features vast salt flats like the Salar de Atacama, high-altitude geyser fields such as El Tatio, and the eroded landscapes of the Valle de la Luna. Because of its dry air and lack of light pollution, it is a premier destination for global astronomy, hosting the ALMA radio telescope array. Beyond its natural wonders, the Atacama is a vital mining hub, containing some of the world's largest deposits of copper and lithium, which are crucial for modern electronics.",
-      es: "El desierto de Atacama es un lugar de superlativos: se considera el desierto más árido de la Tierra. Su paisaje está marcado por enormes lagos de sal, fuentes termales y una diversidad geológica que recuerda a planetas extraños. Debido a su extrema aridez y la baja contaminación lumínica, es además uno de los mejores lugares del mundo para las observaciones astronómicas.",
-      pt: "O deserto de Atacama é um lugar de superlativos: é considerado o deserto mais seco da Terra. A sua paisagem é caracterizada por enormes lagos de sal, fontes termais e uma diversidade geológica que lembra planetas estranhos. Devido à sua extrema secura e baixa poluição luminosa, é também um dos melhores locais do mundo para observações astronómicas.",
-      fr: "Le désert d'Atacama est un lieu de superlatifs : il est considéré comme le désert le plus aride de la Terre. Son paysage est marqué par d'immenses lacs salés, des sources chaudes et une diversité géologique qui rappelle des planètes lointaines. En raison de son extrême aridité et de la faible pollution lumineuse, c'est aussi l'un des meilleurs sites au monde pour les observations astronomiques.",
-    },
-    factsAdvanced: {
-      de: ["Die Wüste ist schätzungsweise 15 Millionen Jahre alt.", "Einige Teile der Atacama haben seit 400 Jahren keinen Regen gesehen.", "Der Salar de Atacama ist mit 3000 Quadratkilometern die größte Salzpfanne Chiles.", "Die Geysire von El Tatio liegen auf einer Höhe von 4320 Metern.", "Über 40% der weltweiten Lithiumreserven befinden sich in dieser Region.", "Das ALMA-Observatorium nutzt 66 Hochpräzisionsantennen zur Himmelsbeobachtung."],
-      hu: ["A sivatag kora becslések szerint meghaladja a 15 millió évet.", "Vannak olyan területei, ahol 400 éve nem mértek csapadékot.", "A Salar de Atacama 3000 négyzetkilométerével Chile legnagyobb sós síksága.", "Az El Tatio gejzírmező 4320 méteres tengerszint feletti magasságban fekszik.", "A világ lítiumkészletének több mint 40%-át ebben a régióban bányásszák.", "Az ALMA obszervatórium 66 darab rádióteleszkópot üzemeltet itt."],
-      ro: ["Vârsta geologică a deșertului este estimată la 15 milioane de ani.", "Există zone în Atacama unde nu s-au înregistrat precipitații de 400 de ani.", "Salar de Atacama se întinde pe 3000 km pătrați, fiind cel mai mare din Chile.", "Câmpul de gheizere El Tatio este situat la o altitudine de 4320 metri.", "Regiunea deține peste 40% din rezervele mondiale cunoscute de litiu.", "Observatorul ALMA dispune de 66 de antene radio de înaltă precizie."],
-      en: ["The desert is estimated to be approximately 15 million years old.", "Parts of the Atacama have had no recorded rainfall for over 400 years.", "Salar de Atacama covers 3,000 square kilometers, Chile's largest salt flat.", "The El Tatio geysers are located at an altitude of 4,320 meters.", "The region contains more than 40% of the world's known lithium reserves.", "The ALMA observatory consists of 66 high-precision radio antennas."],
-      es: ["Lugar desértico más árido del mundo con condiciones extremas.", "Famoso por sus observatorios astronómicos debido al cielo despejado.", "Abarca enormes salares y una diversidad geológica única.", "Lugar científicamente central para la investigación astrobiológica."],
-      pt: ["O local desértico mais seco do mundo, com condições extremas.", "Famoso pelos observatórios astronómicos devido ao céu limpo.", "Abrange enormes planícies de sal e uma diversidade geológica única.", "Local cientificamente central para a investigação astrobiológica."],
-      fr: ["Lieu désertique le plus aride au monde avec des conditions extrêmes.", "Célèbre pour ses observatoires astronomiques en raison de la clarté du ciel.", "Comprend d'immenses plaines salées et une diversité géologique unique.", "Site scientifiquement central pour la recherche astrobiologique."],
-    },
-    facts: {
-      de: ["Einige Regionen haben seit Jahrhunderten keinen Niederschlag verzeichnet.", "Sie ist ein Paradies für Astronomen."],
-      hu: ["Egyes részeken évszázadok óta nem esett eső.", "A csillagászok paradicsoma."],
-      ro: ["Unele regiuni nu au înregistrat precipitații de secole.", "Este un paradis pentru astronomi."],
-      en: ["Some regions have not seen precipitation for centuries.", "It is a paradise for astronomers."],
-      es: ["Algunas regiones no han registrado precipitaciones desde hace siglos.", "Es un paraíso para los astrónomos."],
-      pt: ["Algumas regiões não registam precipitação há séculos.", "É um paraíso para os astrónomos."],
-      fr: ["Certaines régions n'ont enregistré aucune précipitation depuis des siècles.", "C'est un paradis pour les astronomes."],
-    }, image: "/poi-images/desierto-de-atacama-nature-v2.webp"},
-  {
-    id: "parque-nacional-chiloé-nature-v2",
-    type: "nature",
-    parent: "CL-LL",
-    coords: [-74.0500, -42.6000],
-    name: {
-      de: "Nationalpark Chiloé",
-      hu: "Chiloé Nemzeti Park",
-      ro: "Parcul Național Chiloé",
-      en: "Chiloé National Park"},
-    image: "/poi-images/parque-nacional-chiloé-nature-v2.webp",
-    description: {
-      de: "Ein Park an der Westküste der Insel Chiloé, der für seine dichten Regenwälder, Dünen und die pazifische Küste bekannt ist.",
-      hu: "Park Chiloé szigetének nyugati partján, amely sűrű esőerdőiről, dűnéiről és csendes-óceáni partjáról ismert.",
-      ro: "Un parc pe coasta de vest a insulei Chiloé, cunoscut pentru pădurile sale tropicale dense, dune și coasta Pacificului.",
-      en: "A park on the west coast of Chiloé Island, known for its dense rainforests, dunes, and Pacific coast.",
-      es: "Un parque en la costa oeste de la isla de Chiloé, conocido por sus densos bosques tropicales, dunas y la costa del Pacífico.",
-      pt: "Um parque na costa oeste da ilha de Chiloé, conhecido pelas suas densas florestas tropicais, dunas e costa do Pacífico.",
-      fr: "Un parc sur la côte ouest de l'île de Chiloé, connu pour ses forêts tropicales denses, ses dunes et sa côte pacifique.",
-    },
-    descriptionAdvanced: {
-      de: "Der Nationalpark Chiloé befindet sich an der Westküste der Insel Chiloé in der chilenischen Region Los Lagos. Er wurde 1982 gegründet und umfasst eine Fläche von etwa 43.057 Hektar, die von den Hügeln der Cordillera de la Costa bis zum Pazifischen Ozean reicht. Der Park schützt bedeutende Gebiete des valdivianischen Regenwaldes, der durch dichte Vegetation, Farne und immergrüne Bäume wie die Tepú und Arrayán gekennzeichnet ist. Neben den Wäldern umfasst das Schutzgebiet auch ausgedehnte Dünenlandschaften, Moore und unberührte Pazifikstrände. Die Fauna ist besonders bemerkenswert, da hier der gefährdete Darwin-Fuchs und der Pudu, die kleinste Hirschart der Welt, beheimatet sind. Für die lokale Huilliche-Bevölkerung hat das Gebiet eine tiefe kulturelle Bedeutung, die eng mit der Mythologie der Insel verknüpft ist. Wanderwege wie der 'Sendero El Tepual' ermöglichen Besuchern den Zugang zu den geheimnisvollen Waldökosystemen und bieten Einblicke in die unberührte Wildnis Südchiles.",
-      hu: "A Chiloé Nemzeti Park Chiloé szigetének nyugati partvidékén, a Los Lagos régióban található. Az 1982-ben alapított park mintegy 43 057 hektárnyi területet foglal magában, a tengerparti hegyláncoktól egészen a Csendes-óceán partjáig. A park elsődleges feladata a valdiviai mérsékelt övi esőerdő védelme, amelyet sűrű növényzet, páfrányok és örökzöld fafajok, például a tepú és az arrayán jellemeznek. A terület változatos ökoszisztémákat ölel fel, beleértve a dűnéket, tőzeglápokat és az érintetlen óceáni partszakaszokat. Az állatvilág különlegessége a veszélyeztetett Darwin-róka és a pudu, a világ legkisebb szarvasfaja. A környék a helyi huilliche közösségek számára spirituális jelentőséggel bír, számos legenda és mítosz kötődik a tájhoz. A látogatók számára kiépített ösvények, mint az El Tepual, bepillantást engednek Chiloé misztikus erdőibe és gazdag biológiai sokféleségébe.",
-      ro: "Parcul Național Chiloé este situat pe coasta de vest a insulei mari Chiloé, în regiunea Los Lagos din Chile. Înființat în 1982, parcul se întinde pe o suprafață de 43.057 hectare, protejând un sector vital al Cordilierei de Coastă. Ecosistemul predominant este pădurea pluvială valdiviană, caracterizată prin densitatea vegetației, prezența ferigilor gigant și a arborilor veșnic verzi precum tepú și arrayán. Teritoriul include, de asemenea, zone de dune de nisip, mlaștini și plaje sălbatice la Oceanul Pacific. Fauna este extrem de diversă, fiind habitatul vulpii lui Darwin, o specie pe cale de dispariție, și al micului cerb pudu. Parcul are și o dimensiune culturală importantă, fiind strâns legat de tradițiile comunităților indigene Huilliche și de mitologia locală a insulei. Trasee precum 'Sendero El Tepual' oferă vizitatorilor experiența unică a pădurii scufundate și a biodiversității marine de coastă.",
-      en: "Chiloé National Park is located on the western coast of the Chiloé Archipelago in Chile's Los Lagos Region. Established in 1982, the park covers 43,057 hectares, stretching from the Piuchén Range down to the Pacific Ocean. It is dedicated to preserving the Valdivian temperate rainforest, an ecosystem characterized by dense evergreen trees, ancient ferns, and species like the tepú and the arrayán. The park's varied landscape includes massive sand dunes, peat bogs, and rugged maritime coastlines. It is a critical refuge for rare wildlife, most notably the endangered Darwin's fox and the pudu, the world's smallest deer species. The area is also culturally significant to the local Huilliche indigenous people, who maintain a spiritual connection to the land and its mythology. Trails such as 'El Tepual' allow visitors to explore the mysterious, moss-covered forests that represent one of the most pristine wilderness areas in southern Chile.",
-      es: "El Parque Nacional Chiloé, en la salvaje costa oeste de la isla de Chiloé, cautiva por su extraordinaria mezcla de ecosistemas. Abarca densos bosques tropicales siempreverdes, extensos paisajes de dunas y una abrupta línea costera en el Pacífico. Esta diversidad lo convierte en un área importante para la investigación de la flora local y ofrece un hábitat para especies animales raras que prosperan en esta región insular aislada.",
-      pt: "O Parque Nacional Chiloé, na costa oeste selvagem da ilha de Chiloé, cativa com uma mistura extraordinária de ecossistemas. Inclui florestas tropicais densas e perenes, vastas paisagens de dunas e uma linha costeira acidentada do Pacífico. A diversidade torna-o uma área importante para a investigação da flora local e oferece um habitat para espécies animais raras que prosperam nesta região insular isolada.",
-      fr: "Le parc national de Chiloé, sur la côte ouest sauvage de l'île de Chiloé, séduit par un mélange extraordinaire d'écosystèmes. Il comprend des forêts tropicales denses et persistantes, de vastes paysages de dunes et un littoral pacifique accidenté. Cette diversité en fait une zone majeure pour l'étude de la flore locale et offre un habitat à des espèces animales rares qui prospèrent dans cette région insulaire isolée.",
-    },
-    factsAdvanced: {
-      de: ["Gründungsjahr des Nationalparks: 1982.", "Die Gesamtfläche beträgt 43.057 Hektar.", "Der Darwin-Fuchs wurde hier 1834 von Charles Darwin entdeckt.", "Im Park leben über 110 verschiedene Vogelarten.", "Die Durchschnittstemperatur liegt das ganze Jahr über bei 10-12 °C.", "Der See Cucao ist das größte Binnengewässer innerhalb des Parks."],
-      hu: ["A nemzeti park alapítási éve: 1982.", "A park teljes területe 43 057 hektár.", "A Darwin-rókát Charles Darwin fedezte fel itt 1834-ben.", "A parkban több mint 110 madárfaj fészkel vagy fordul meg.", "Az éves középhőmérséklet 10 és 12 Celsius-fok között alakul.", "A Cucao-tó a park területén található legnagyobb édesvízi tó."],
-      ro: ["Anul înființării parcului național: 1982.", "Suprafața totală protejată este de 43.057 hectare.", "Vulpea lui Darwin a fost identificată aici de Charles Darwin în 1834.", "Peste 110 specii de păsări trăiesnt în diversele ecosisteme ale parcului.", "Temperatura medie anuală variază între 10 și 12 grade Celsius.", "Lacul Cucao este principala resursă de apă dulce din interiorul parcului."],
-      en: ["The national park was officially established in 1982.", "Total protected area spans 43,057 hectares.", "Darwin's fox was first described here by Charles Darwin in 1834.", "The park is home to over 110 different species of birds.", "The average annual temperature remains between 10°C and 12°C.", "Lake Cucao is the largest body of fresh water within the park boundaries."],
-      es: ["Ecosistema diverso con selvas tropicales, dunas y costa del Pacífico.", "Área protegida para especies raras y endémicas de la isla.", "Lugar importante para la investigación de la ecología de islas aisladas.", "Costa oeste de Chiloé, paisajísticamente abrupta y virgen."],
-      pt: ["Ecossistema diversificado com florestas tropicais, dunas e costa do Pacífico.", "Área protegida para espécies raras e endémicas da ilha.", "Local importante para a investigação da ecologia de ilhas isoladas.", "Costa oeste de Chiloé, acidentada e intocada."],
-      fr: ["Écosystème diversifié comprenant forêts tropicales, dunes et côte pacifique.", "Zone protégée pour les espèces rares et endémiques de l'île.", "Site majeur pour la recherche sur l'écologie des îles isolées.", "Côte ouest de Chiloé, sauvage et préservée au niveau paysager."],
-    },
-    facts: {
-      de: ["Die Küste ist rau und geprägt von den Einflüssen des Pazifiks.", "Er beheimatet eine reiche Vielfalt an einheimischen Pflanzen."],
-      hu: ["A tengerpart zord, a Csendes-óceán hatásai érvényesülnek.", "Gazdag őshonos növényvilágnak ad otthont."],
-      ro: ["Coasta este aspră și modelată de influențele Pacificului.", "Găzduiește o bogată varietate de plante native."],
-      en: ["The coast is rugged and shaped by the influences of the Pacific.", "It is home to a rich variety of native plants."],
-      es: ["La costa es abrupta y está marcada por la influencia del Pacífico.", "Alberga una rica variedad de plantas nativas."],
-      pt: ["A costa é acidentada e marcada pelas influências do Pacífico.", "Abriga uma rica variedade de plantas nativas."],
-      fr: ["La côte est sauvage et marquée par l'influence du Pacifique.", "Il abrite une riche variété de plantes indigènes."],
-    }, image: "/poi-images/parque-nacional-chiloé-nature-v2.webp"},
-  {
-    id: "parque-nacional-tierra-del-fuego-nature-v2",
-    type: "nature",
+    id: "estrecho-de-magallanes-nature-v2",
+    type: "sea",
     parent: "CL-MA",
-    coords: [-68.5000, -54.8000],
-    name: {
-      de: "Nationalpark Tierra del Fuego",
-      hu: "Tűzföld Nemzeti Park",
-      ro: "Parcul Național Țara de Foc",
-      en: "Tierra del Fuego National Park"},
-    image: "/poi-images/parque-nacional-tierra-del-fuego-nature-v2.webp",
+    coords: [-71.0000, -53.2500],
+    name: { de: "Estrecho de Magallanes", hu: "Estrecho de Magallanes", ro: "Estrecho de Magallanes", en: "Estrecho de Magallanes" },
     description: {
-      de: "Ein südliches Naturparadies in Feuerland, bekannt für seine unberührten Wälder, Berge und die Nähe zum Ende der Welt.",
-      hu: "Déli természeti paradicsom Tűzföldön, amely érintetlen erdőiről, hegyeiről és a világ végéhez való közelségéről híres.",
-      ro: "Un paradis natural sudic în Țara de Foc, faimos pentru pădurile sale virgine, munți și apropierea de capătul lumii.",
-      en: "A southern natural paradise in Tierra del Fuego, famous for its pristine forests, mountains, and proximity to the end of the world.",
-      es: "Un paraíso natural austral en Tierra del Fuego, conocido por sus bosques vírgenes, montañas y cercanía al fin del mundo.",
-      pt: "Um paraíso natural do sul na Terra do Fogo, conhecido pelas suas florestas virgens, montanhas e proximidade do fim do mundo.",
-      fr: "Un paradis naturel du sud en Terre de Feu, connu pour ses forêts vierges, ses montagnes et sa proximité avec le bout du monde.",
-    },
-    descriptionAdvanced: {
-      de: "Der Nationalpark Tierra del Fuego liegt im äußersten Süden Argentiniens, nahe der Stadt Ushuaia, und schützt den südlichsten Teil der subantarktischen Wälder. Er wurde 1960 gegründet und umfasst eine Fläche von 63.000 Hektar, die von den schneebedeckten Gipfeln der Anden bis zur Küste des Beagle-Kanals reicht. Es ist der einzige Nationalpark Argentiniens, der über eine Meeresküste verfügt, was zu einer einzigartigen Kombination aus Gebirgs-, Wald- und Meeresökosystemen führt. Die Landschaft ist geprägt von tiefen Tälern, Gletschern, Torfmooren und kristallklaren Seen wie dem Lago Roca. Die Vegetation besteht hauptsächlich aus Südbuchenwäldern, die an das raue Klima Feuerlands angepasst sind. Fauna-Liebhaber können hier Guanakos, Rotfüchse und zahlreiche Seevögel beobachten. Der Park markiert zudem das Ende der Panamericana, der längsten Straßeverbindung der Welt, die in der Bucht von Lapataia endet, was ihn zu einem symbolträchtigen Ziel für Reisende aus aller Welt macht.",
-      hu: "A Tűzföld Nemzeti Park Argentína legdélebbi részén, Ushuaia városa közelében található, és a szubantarktikus erdők legdélebbi szakaszát védi. Az 1960-ban alapított, 63 000 hektáros terület az Andok hófödte csúcsaitól egészen a Beagle-csatorna partjáig nyúlik. Ez Argentína egyetlen olyan nemzeti parkja, amely tengerparti szakasszal is rendelkezik, így egyedülálló módon ötvözi a hegyvidéki, erdei és tengeri ökoszisztémákat. A tájat gleccserek által vájt völgyek, tőzeglápok és olyan kristálytiszta tavak jellemzik, mint a Lago Roca. A növényzet főként déli bükkerdőkből (lenga és nire) áll, amelyek alkalmazkodtak a szélsőséges időjáráshoz. Az állatvilág képviselői között megtalálható a guanakó, a tűzföldi róka és számos tengeri madár. Itt található a Pánamerikai autópálya végpontja is a Lapataia-öbölben, amely szimbolikus jelentőséggel bír a világutazók számára.",
-      ro: "Parcul Național Tierra del Fuego este situat în extremitatea sudică a Argentinei, lângă orașul Ushuaia, și protejează porțiunea cea mai sudică a pădurilor subantarctice. Înființat în 1960, parcul acoperă 63.000 de hectare și se întinde de la crestele înzăpezite ale Anzilor până la malul Canalului Beagle. Este singurul parc național argentinian cu ieșire la coastă marină, oferind un amestec unic de peisaje montane, lacustre și maritime. Relieful este modelat de ghețari, prezentând văi adânci, turbării și lacuri glaciare precum Lago Roca. Flora este dominată de specii de Nothofagus (fagul sudic), care creează o atmosferă mistică prin formele lor contorsionate de vânt. Fauna include specii precum guanaco, vulpea roșie și numeroase păsări marine și de pădure. Parcul găzduiește punctul terminus al autostrăzii Panamericane în Golful Lapataia, fiind o destinație emblematică pentru cei care călătoresc la 'capătul lumii'.",
-      en: "Tierra del Fuego National Park is situated in the far south of Argentina, near the city of Ushuaia, protecting the southernmost stretch of subantarctic forests. Established in 1960, it covers 63,000 hectares of diverse terrain, from the rugged Andes mountains to the shores of the Beagle Channel. It is unique as Argentina's only national park with a marine coastline, creating a spectacular convergence of mountain, forest, and sea ecosystems. The landscape is defined by deep glacial valleys, peat bogs, and pristine bodies of water like Lake Roca. The vegetation consists primarily of southern beech forests (lenga and ñire) that have adapted to the harsh Fuegian climate. Wildlife sightings often include guanacos, red foxes, and a vast array of coastal birds. The park is also famous for hosting the end of the Pan-American Highway at Lapataia Bay, making it a symbolic 'End of the World' destination for international travelers.",
-      es: "El Parque Nacional Tierra del Fuego constituye la parte más austral de Chile en la agreste región de Tierra del Fuego. El paisaje es una impresionante mezcla de bosques densos e intactos, montañas escarpadas y una línea de costa que captura perfectamente el carácter del fin del mundo de la Patagonia. Es un lugar de naturaleza extrema donde encuentran protección ecosistemas vírgenes.",
-      pt: "O Parque Nacional Tierra del Fuego constitui a parte mais a sul do Chile, na região agreste da Terra do Fogo. A paisagem é uma mistura impressionante de florestas densas e imaculadas, montanhas escarpadas e uma linha costeira que capta perfeitamente o carácter de fim do mundo da Patagónia. É um lugar de natureza extrema, onde os ecossistemas intocados encontram proteção.",
-      fr: "Le parc national Tierra del Fuego constitue la partie la plus méridionale du Chili, dans la région sauvage de la Terre de Feu. Le paysage est un mélange impressionnant de forêts denses et vierges, de montagnes escarpées et d'un littoral qui capture parfaitement le caractère de bout du monde de la Patagonie. C'est un lieu de nature extrême où les écosystèmes vierges sont protégés.",
-    },
-    factsAdvanced: {
-      de: ["Gründungsdatum: 30. September 1960.", "Der Park umfasst eine Fläche von 630 Quadratkilometern.", "Nur etwa 2000 Hektar des Parks sind für die Öffentlichkeit zugänglich.", "Die Lapataia-Bucht liegt 3063 Kilometer von Buenos Aires entfernt.", "Der 'Zug am Ende der Welt' verkehrt auf einer historischen Schmalspurstrecke.", "Über 90 Vogelarten wurden im Schutzgebiet dokumentiert."],
-      hu: ["Az alapítás hivatalos dátuma: 1960. szeptember 30.", "A park teljes területe 630 négyzetkilométer.", "A területnek csupán mintegy 2000 hektárja látogatható a turisták számára.", "A Lapataia-öböl 3063 kilométerre található Buenos Airestől.", "A 'Világ vége vasút' a parkon belül egy történelmi útvonalon halad.", "Több mint 90 madárfajt azonosítottak a nemzeti park területén."],
-      ro: ["Data oficială de înființare este 30 septembrie 1960.", "Parcul se întinde pe o suprafață de 630 de kilometri pătrați.", "Doar aproximativ 2000 de hectare sunt deschise vizitării publice.", "Golful Lapataia se află la o distanță de 3063 km de Buenos Aires.", "Trenul 'Capătul Lumii' parcurge o rută istorică prin incinta parcului.", "În rezervație au fost înregistrate peste 90 de specii diferite de păsări."],
-      en: ["The park was officially established on September 30, 1960.", "It covers a total land area of 630 square kilometers.", "Only about 2,000 hectares of the park are open to the general public.", "Lapataia Bay is located 3,063 kilometers away from Buenos Aires.", "The 'End of the World Train' runs along a historic narrow-gauge route.", "Over 90 species of birds have been documented within the protected area."],
-      es: ["Área protegida más austral de Chile en la región de Tierra del Fuego.", "Paisaje de densos bosques, montañas y costa escarpada.", "Cercanía simbólica al extremo más meridional del continente americano.", "Preservación de ecosistemas vírgenes y extremos en el sur."],
-      pt: ["Área de conservação mais a sul do Chile, na região da Terra do Fogo.", "Paisagem de florestas densas, montanhas e costa agreste.", "Proximidade simbólica da extremidade sul do continente americano.", "Preservação de ecossistemas intocados e extremos no sul."],
-      fr: ["Zone protégée la plus méridionale du Chili dans la région de la Terre de Feu.", "Paysage de forêts denses, de montagnes et de côtes sauvages.", "Proximité symbolique de l'extrémité sud du continent américain.", "Préservation d'écosystèmes vierges et extrêmes dans le sud."],
+      de: "Eine der wichtigsten natürlichen Schiffspassagen der Welt, die den Atlantik mit dem Pazifik verbindet.",
+      hu: "A világ egyik legfontosabb természetes hajózási útvonala, amely az Atlanti-óceánt köti össze a Csendes-óceánnal.",
+      ro: "Unul dintre cele mai importante pasaje navale naturale din lume, care leagă Atlanticul de Pacific.",
+      en: "One of the most important natural shipping passages in the world, connecting the Atlantic with the Pacific."
     },
     facts: {
-      de: ["Es ist einer der südlichsten Parks der Welt.", "Die Region ist bekannt als das 'Ende der Welt'."],
-      hu: ["A világ egyik legdélibb parkja.", "A régiót 'a világ végének' nevezik."],
-      ro: ["Este unul dintre cele mai sudice parcuri din lume.", "Regiunea este cunoscută drept 'capătul lumii'."],
-      en: ["It is one of the southernmost parks in the world.", "The region is known as the 'end of the world'."],
-      es: ["Es uno de los parques más australes del mundo.", "La región es conocida como el fin del mundo."],
-      pt: ["É um dos parques mais a sul do mundo.", "A região é conhecida como o fim do mundo."],
-      fr: ["C'est l'un des parcs les plus méridionaux du monde.", "La région est connue comme le bout du monde."],
+      de: ["Wurde 1520 von Ferdinand Magellan entdeckt.", "Berüchtigt für starke Winde und Strömungen."],
+      hu: ["Ferdinand Magellán fedezte fel 1520-ban.", "Hírhedt az erős szelekről és áramlatokról."],
+      ro: ["A fost descoperit de Ferdinand Magellan in 1520.", "Notoriu pentru vânturile și curenții puternici."],
+      en: ["Was discovered by Ferdinand Magellan in 1520.", "Notorious for strong winds and currents."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "Strâmtoarea Magellan este un pasaj natural de 570 de kilometri între oceanele Atlantic și Pacific, care separă Chile continental de Tierra del Fuego. Descoperită de Ferdinand Magellan în 1520 în timpul primei circumnavigații a globului, a rămas principala rută comercială între oceane timp de secole, până la deschiderea Canalului Panama. Strâmtoarea este notorie pentru canalele sale înguste, curenții trădători și rafalele de vânt bruște și violente numite „williwaws”. Pe malurile sale se află Punta Arenas, odinioară unul dintre cele mai bogate orașe din lume datorită poziției sale strategice. Astăzi, rămâne o rută vitală pentru transportul maritim și o poartă către expedițiile antarctice. Istorie K8 — marile descoperiri geografice.",
+      en: "The Strait of Magellan is a 570-kilometer natural passage between the Atlantic and Pacific Oceans, separating mainland South America from Tierra del Fuego. Discovered by Ferdinand Magellan in 1520 during the first circumnavigation of the globe, it remained the primary trade route between the oceans for centuries until the opening of the Panama Canal. The strait is notorious for its narrow channels, treacherous currents, and unpredictable \"williwaws\"—sudden, violent gusts of wind. Along its shores lies Punta Arenas, once one of the wealthiest cities in the world due to its strategic position. Today, it remains a vital route for shipping and a gateway for Antarctic expeditions."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: ["Prima navigare realizată de Magellan în 1520.", "Lungime: aproximativ 570 de kilometri.", "Ruta principală înainte de Canalul Panama.", "Locație strategică a orașului Punta Arenas."],
+      en: ["First navigated by Magellan in 1520.", "Length: approximately 570 kilometers.", "Primary route before the Panama Canal.", "Strategic location of the city of Punta Arenas."]
     }
   }
 ];
-

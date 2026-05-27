@@ -1,0 +1,110 @@
+name: Deploy POI Delta (content-only)
+
+# Regenerate ONLY the targeted POI HTMLs and copy into the active VPS release.
+# Use when only POI content (descAdv / sights / facts / image / name) changed —
+# skips the ~30-min full Next build + sitemap regen.
+#
+# Input: POI_IDS — comma-separated POI ids OR a path to a file under public/data/.
+# Example: "schwachhausen-extra,st-pauli-extra,merzig-extra"
+# Example: "file:public/data/_thin-descadv-applied.txt"
+
+on:
+  workflow_dispatch:
+    inputs:
+      poi_ids:
+        description: 'Comma-separated POI ids OR "file:<repo-path-to-txt>"'
+        required: true
+        default: 'file:public/data/_thin-descadv-applied.txt'
+
+concurrency:
+  group: deploy-poi-delta
+  cancel-in-progress: false
+
+env:
+  RELEASE_BASE: /home/erik/plizio
+
+jobs:
+  delta:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve POI_IDS input → file
+        id: ids
+        run: |
+          INPUT='${{ github.event.inputs.poi_ids }}'
+          if [[ "$INPUT" == file:* ]]; then
+            FP="${INPUT#file:}"
+            if [ ! -f "$FP" ]; then
+              echo "::error::POI ids file not found: $FP"
+              exit 1
+            fi
+            echo "POI_IDS_FILE=$PWD/$FP" >> $GITHUB_ENV
+            COUNT=$(wc -l < "$FP" | tr -d ' ')
+          else
+            TMP="$RUNNER_TEMP/poi_ids.txt"
+            echo "$INPUT" | tr ',' '\n' | sed '/^\s*$/d' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' > "$TMP"
+            echo "POI_IDS_FILE=$TMP" >> $GITHUB_ENV
+            COUNT=$(wc -l < "$TMP" | tr -d ' ')
+          fi
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "[delta] $COUNT POI ids to regenerate"
+
+      - name: Install dependencies (cache-friendly)
+        run: |
+          # Self-hosted runner usually has node_modules cached; npm ci only if missing.
+          if [ ! -d "node_modules" ]; then
+            npm ci --no-audit --no-fund --prefer-offline
+          fi
+
+      - name: Locate active VPS release
+        id: release
+        run: |
+          if [ -L "$RELEASE_BASE/current" ]; then
+            ACTIVE=$(readlink -f "$RELEASE_BASE/current")
+          else
+            echo "::error::No active release symlink at $RELEASE_BASE/current"
+            exit 1
+          fi
+          echo "active=$ACTIVE" >> $GITHUB_OUTPUT
+          echo "[delta] active release: $ACTIVE"
+
+      - name: Generate targeted POI HTMLs into a staging out/
+        run: |
+          mkdir -p out
+          POI_IDS_FILE="$POI_IDS_FILE" OUT_DIR="$PWD/out" \
+            node --experimental-strip-types scripts/generate-poi-html.mts 2>&1 | tail -30
+
+      - name: Diff + copy changed HTMLs into active release
+        run: |
+          ACTIVE='${{ steps.release.outputs.active }}'
+          COPIED=0
+          while IFS= read -r f; do
+            REL="${f#out/}"
+            DEST="$ACTIVE/$REL"
+            mkdir -p "$(dirname "$DEST")"
+            cp "$f" "$DEST"
+            COPIED=$((COPIED+1))
+          done < <(find out -name 'index.html' -type f -newer "$POI_IDS_FILE")
+          echo "[delta] copied $COPIED HTML files into active release"
+          echo "## Delta deploy summary" >> $GITHUB_STEP_SUMMARY
+          echo "- POI ids: ${{ steps.ids.outputs.count }}" >> $GITHUB_STEP_SUMMARY
+          echo "- HTML files written: $COPIED" >> $GITHUB_STEP_SUMMARY
+          echo "- Active release: $ACTIVE" >> $GITHUB_STEP_SUMMARY
+
+      - name: Smoke test (first 3 POIs return 200)
+        run: |
+          set +e
+          HEAD=$(head -3 "$POI_IDS_FILE")
+          for id in $HEAD; do
+            # Try the german path (each POI guaranteed to have /de/ route)
+            HIT=$(find out -name "index.html" -path "*/de/*" -newer "$POI_IDS_FILE" | grep -m1 "$id" || true)
+            if [ -n "$HIT" ]; then
+              REL="${HIT#out/}"
+              URL="https://plizio.com/$REL"
+              URL="${URL%/index.html}/"
+              CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 "$URL")
+              echo "[smoke] $URL → $CODE"
+            fi
+          done

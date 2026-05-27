@@ -1492,7 +1492,31 @@ async function main() {
     (p) => p && p.parent && p.type !== "region" && p.type !== "country" && hasIndexableContent(p)
   );
   console.log(`Eligible POIs: ${eligible.length}`);
-  const target = GEN_LIMIT > 0 ? eligible.slice(0, GEN_LIMIT) : eligible;
+  // POI_IDS_FILE: path to a text file (one POI id per line) → generate ONLY those POIs.
+  // POI_IDS: comma-separated list of POI ids → same effect.
+  // Used by the delta-deploy pipeline (scripts/deploy-poi-delta.sh) so a content
+  // change (descAdv/sights/facts) regenerates only the affected pages, not all ~48K.
+  let target = GEN_LIMIT > 0 ? eligible.slice(0, GEN_LIMIT) : eligible;
+  const POI_IDS_FILE = process.env.POI_IDS_FILE;
+  const POI_IDS_INLINE = process.env.POI_IDS;
+  if (POI_IDS_FILE || POI_IDS_INLINE) {
+    const idSet = new Set<string>();
+    if (POI_IDS_FILE && fs.existsSync(POI_IDS_FILE)) {
+      for (const line of fs.readFileSync(POI_IDS_FILE, "utf-8").split("\n")) {
+        const s = line.trim();
+        if (s) idSet.add(s);
+      }
+    }
+    if (POI_IDS_INLINE) {
+      for (const s of POI_IDS_INLINE.split(",")) {
+        const t = s.trim();
+        if (t) idSet.add(t);
+      }
+    }
+    const before = target.length;
+    target = target.filter((p) => idSet.has(p.id));
+    console.log(`POI_IDS filter: ${before} → ${target.length} POIs (filter set size: ${idSet.size})`);
+  }
   console.log(`Generating: ${target.length} POIs × ${SUPPORTED_LANGS.length} langs = ${target.length * SUPPORTED_LANGS.length} HTML files`);
 
   let written = 0;
