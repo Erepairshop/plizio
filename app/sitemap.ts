@@ -21,6 +21,17 @@ try {
   if (fs.existsSync(fp)) SIGHT_PAGES = JSON.parse(fs.readFileSync(fp, "utf-8"));
 } catch {}
 
+// 404/410 blocklist from scripts/audit-sitemap-404.sh — excluded from sitemap.
+// File is optional; if missing, no filtering applied.
+const BAD_URLS = new Set<string>();
+try {
+  const bp = path.resolve(process.cwd(), "public", "data", "_bad-poi-urls.json");
+  if (fs.existsSync(bp)) {
+    const arr = JSON.parse(fs.readFileSync(bp, "utf-8"));
+    if (Array.isArray(arr)) for (const u of arr) BAD_URLS.add(String(u));
+  }
+} catch {}
+
 export const dynamic = "force-static";
 
 // Google: 50,000 URLs MAX per sitemap. Chunk to 20K for reliable fetches
@@ -110,7 +121,9 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   const poiUrls: ReturnType<typeof createEntry>[] = [];
   for (const lang of SUPPORTED_LANGS) {
     for (const poi of indexablePois) {
-      poiUrls.push(createEntry(buildPoiPath(lang, poi), "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.6));
+      const p = buildPoiPath(lang, poi);
+      if (BAD_URLS.has(p)) continue;
+      poiUrls.push(createEntry(p, "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.6));
     }
   }
 

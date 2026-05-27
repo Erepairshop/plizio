@@ -109,8 +109,32 @@ const HINT: Record<Lang, string> = {
 const MORE: Record<Lang, string> = { de:"Mehr erfahren", hu:"Bővebben", ro:"Detalii", en:"Read more" };
 const BACK: Record<Lang, string> = { de:"Zurück", hu:"Vissza", ro:"Înapoi", en:"Back" };
 const TITLE_SUFFIX: Record<Lang, string> = { de:"Karte", hu:"térkép", ro:"hartă", en:"map" };
+const SEARCH_PH: Record<Lang, string> = { de:"Suche…", hu:"Keresés…", ro:"Caută…", en:"Search…" };
 
-type SlimPoi = { id:string; type:string; cx:number; cy:number; name:any; urls?:Record<string,string> };
+// Type → group mapping (5 visible groups). Unknown types fall into "other".
+type Grp = "city" | "sight" | "nature" | "history" | "industry" | "other";
+const TYPE_GROUP: Record<string, Grp> = {
+  city:"city", town:"city", village:"city",
+  sight:"sight", landmark:"sight", monument:"sight", "kid-landmark":"sight",
+  mountain:"nature", peak:"nature", lake:"nature", river:"nature", valley:"nature",
+  forest:"nature", park:"nature", wildlife:"nature", "animal-habitat":"nature",
+  geo:"nature", nature:"nature",
+  historical:"history", geschichte:"history",
+  industry:"industry", factory:"industry", port:"industry", agriculture:"industry",
+};
+function groupOf(t?: string): Grp { return (t && TYPE_GROUP[t]) || "other"; }
+
+// Chip labels per group per lang
+const GROUP_LABELS: Record<Grp, Record<Lang, string>> = {
+  city:     { de:"Städte", hu:"Városok",    ro:"Orașe",     en:"Cities" },
+  sight:    { de:"Sehensw.",hu:"Látnivalók", ro:"Atracții",  en:"Sights" },
+  nature:   { de:"Natur",  hu:"Természet",   ro:"Natură",    en:"Nature" },
+  history:  { de:"Geschichte",hu:"Történelem",ro:"Istorie",  en:"History" },
+  industry: { de:"Industrie",hu:"Ipar",      ro:"Industrie", en:"Industry" },
+  other:    { de:"Sonst.", hu:"Egyéb",      ro:"Altele",    en:"Other" },
+};
+
+type SlimPoi = { id:string; type:string; grp:Grp; cx:number; cy:number; name:any; urls?:Record<string,string> };
 
 // Load the pre-built POI id → URL per lang index (built by build-poi-url-index.mts).
 const URL_INDEX_PATH = path.join(process.cwd(), "public", "data", "_poi-url-index.json");
@@ -134,8 +158,9 @@ function slimPoi(p: any, proj: (lon:number,lat:number)=>[number,number], W:numbe
   }
   if (!Object.keys(name).length) return null;
   const urls = POI_URLS[p.id];
+  const t = p.type ?? "city";
   return {
-    id: p.id, type: p.type ?? "city",
+    id: p.id, type: t, grp: groupOf(t),
     cx: +cx.toFixed(1), cy: +cy.toFixed(1),
     name,
     ...(urls ? { urls } : {}),
@@ -189,11 +214,59 @@ function escText(s: string): string {
 
 function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], viewBox: string, W: number, H: number): string {
   const t = `${c.names[lang]} ${TITLE_SUFFIX[lang]}`;
-  const hint = HINT[lang], more = MORE[lang], back = BACK[lang];
+  const hint = HINT[lang], more = MORE[lang], back = BACK[lang], searchPh = SEARCH_PH[lang];
   const langLinks = LANGS.map(l => l === lang
     ? `<span class="lang on">${l.toUpperCase()}</span>`
     : `<a class="lang" href="./?lang=${l}">${l.toUpperCase()}</a>`
   ).join("");
+
+  // Count POIs per group for chip badges
+  const grpCount: Record<string, number> = { city:0, sight:0, nature:0, history:0, industry:0, other:0 };
+  for (const p of pois) grpCount[p.grp] = (grpCount[p.grp]||0) + 1;
+
+  // Build clusters at default scale=1. Threshold in viewBox units: ~8 CSS px.
+  const CLUSTER_THRESH = Math.max(15, Math.min(W, H) / 60);
+  type Cluster = { cx: number; cy: number; pois: SlimPoi[] };
+  const clusters: Cluster[] = [];
+  for (const p of pois) {
+    let added = false;
+    for (const cl of clusters) {
+      if (Math.hypot(p.cx - cl.cx, p.cy - cl.cy) <= CLUSTER_THRESH) {
+        cl.pois.push(p);
+        const n = cl.pois.length;
+        cl.cx = (cl.cx * (n - 1) + p.cx) / n;
+        cl.cy = (cl.cy * (n - 1) + p.cy) / n;
+        added = true;
+        break;
+      }
+    }
+    if (!added) clusters.push({ cx: p.cx, cy: p.cy, pois: [p] });
+  }
+  const multiClusters = clusters.filter(c => c.pois.length > 1);
+  const clusteredIds = new Set<string>();
+  for (const c of multiClusters) for (const p of c.pois) clusteredIds.add(p.id);
+  // Cluster color = majority group color
+  function clusterColor(cl: Cluster): string {
+    const cnt: Record<string, number> = {};
+    for (const p of cl.pois) cnt[p.grp] = (cnt[p.grp]||0) + 1;
+    const top = Object.entries(cnt).sort((a,b)=>b[1]-a[1])[0][0];
+    return ({city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'} as any)[top] || '#9ca3af';
+  }
+  const GROUPS: Grp[] = ["city","sight","nature","history","industry","other"];
+  // Tiny inline SVG icons per group (16x16). Single-color, currentColor.
+  const ICON: Record<Grp, string> = {
+    city: '<path d="M3 21V8l5-3v3l5-3v16M3 12h2m4 0h2m-2 4h2m-2-8h2m4 4h2m-2 4h2m-2-8h2"/>',
+    sight: '<path d="M8 1l2.09 4.74L15 6.4l-3.5 3.41.83 4.83L8 12.27 3.67 14.64 4.5 9.81 1 6.4l4.91-.66z"/>',
+    nature: '<path d="M8 14V9M8 9l-3 3M8 9l3 3M8 9V5l-3-2M8 5l3-2"/>',
+    history: '<path d="M3 13V6l5-3 5 3v7M3 13h10M5 13V6m6 7V6"/>',
+    industry: '<path d="M2 13V6l4 2V6l4 2V6l4 2v5z"/>',
+    other: '<circle cx="8" cy="8" r="3"/>',
+  };
+  const GCOL: Record<Grp,string> = { city:"#60a5fa", sight:"#fbbf24", nature:"#22c55e", history:"#c084fc", industry:"#fb923c", other:"#9ca3af" };
+  const chipsHtml = GROUPS
+    .filter(g => grpCount[g] > 0)
+    .map(g => `<button class="chip on g-${g}" data-g="${g}" aria-label="${GROUP_LABELS[g][lang]}" title="${GROUP_LABELS[g][lang]} (${grpCount[g]})"><svg viewBox="0 0 16 16" width="14" height="14" stroke="${GCOL[g]}" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">${ICON[g]}</svg></button>`)
+    .join("");
   return `<!doctype html>
 <html lang="${lang}">
 <head>
@@ -218,27 +291,69 @@ header h1{margin:0;font-size:1rem;font-weight:800;flex:1;min-width:0;overflow:hi
 header .langs{display:flex;gap:.25rem}
 .lang{font-size:.7rem;font-weight:700;padding:.25rem .45rem;border-radius:6px;color:#ffffffb0;text-decoration:none;background:#ffffff10}
 .lang.on{background:#3b82f6;color:#fff}
-#stage{position:absolute;inset:48px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
+#stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
 #svg{width:100%;height:100%;display:block;cursor:grab}
 #svg.drag{cursor:grabbing}
 .region{fill:#1a2240;stroke:#ffffff30;stroke-width:.6;transition:fill .15s}
 .region:hover{fill:#243066}
 .label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
 .poi{cursor:pointer}
-.poi circle{fill:#fbbf24;stroke:#000;stroke-width:.5;transition:r .15s}
-.poi.city circle{fill:#60a5fa}
-.poi.sight circle{fill:#fbbf24}
-.poi.nature circle{fill:#22c55e}
-.poi:hover circle,.poi.active circle{r:7;fill:#fff}
-.hint{position:absolute;top:54px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
+.poi circle{fill:#9ca3af;stroke:#000;stroke-width:.5;transition:r .12s,opacity .12s}
+.poi.g-city circle{fill:#60a5fa}
+.poi.g-sight circle{fill:#fbbf24}
+.poi.g-nature circle{fill:#22c55e}
+.poi.g-history circle{fill:#c084fc}
+.poi.g-industry circle{fill:#fb923c}
+.poi.g-other circle{fill:#9ca3af}
+.poi.dim{opacity:.18}
+.poi.match circle{stroke:#fff;stroke-width:1.4}
+.poi:hover circle,.poi.active circle{r:7;fill:#fff;opacity:1}
+.controls{position:absolute;top:53px;left:0;right:0;z-index:4;padding:.4rem .55rem;display:flex;gap:.3rem;align-items:center;background:linear-gradient(180deg,#060614 0%,#06061400 100%)}
+.chips{display:flex;gap:.25rem;flex-shrink:0}
+.chip{flex-shrink:0;width:30px;height:30px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;user-select:none;padding:0;opacity:.45;transition:opacity .12s,background .12s,border-color .12s}
+.chip.on{opacity:1}
+.chip.on.g-city{background:#60a5fa22;border-color:#60a5fa70}
+.chip.on.g-sight{background:#fbbf2422;border-color:#fbbf2470}
+.chip.on.g-nature{background:#22c55e22;border-color:#22c55e70}
+.chip.on.g-history{background:#c084fc22;border-color:#c084fc70}
+.chip.on.g-industry{background:#fb923c22;border-color:#fb923c70}
+.chip.on.g-other{background:#9ca3af22;border-color:#9ca3af70}
+.chip svg{display:block}
+.search{flex:1;min-width:0;display:flex;align-items:center;gap:.3rem;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;padding:.15rem .5rem .15rem .6rem;height:30px}
+.search input{flex:1;border:none;outline:none;background:transparent;color:#fff;font-size:.82rem;padding:.25rem 0;min-width:0;font-family:inherit}
+.search input::placeholder{color:#ffffff70}
+.search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
+.search.has-q button{display:block}
+.poi.hidden{display:none !important}
+.poi.reveal{display:initial}
+.cluster.hidden{display:none !important}
+.cluster{cursor:pointer}
+.cluster circle{transition:r .12s}
+.cluster:hover circle{r:14}
+/* At default zoom: clusters visible, in-cluster POIs hidden */
+.poi.in-cluster{display:none}
+/* At higher zoom: clusters hide, in-cluster POIs become visible */
+#svg.expand .cluster{display:none}
+#svg.expand .poi.in-cluster{display:initial}
+.hint{position:absolute;top:102px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
 @keyframes fadeOut{to{opacity:0}}
 .popup{position:absolute;bottom:0;left:0;right:0;background:#0d1230;border-top:1px solid #ffffff20;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -10px 40px #00000080}
 .popup.open{transform:translateY(0)}
-.popup .x{position:absolute;top:.5rem;right:.7rem;width:32px;height:32px;border-radius:50%;background:#ffffff14;border:none;color:#fff;font-size:1.1rem;cursor:pointer}
+.popup .x{position:absolute;top:.5rem;right:.7rem;width:32px;height:32px;border-radius:50%;background:#ffffff14;border:none;color:#fff;font-size:1.1rem;cursor:pointer;z-index:2}
 .popup h2{margin:0 0 .3rem;font-size:1.1rem;font-weight:800}
 .popup .type{font-size:.7rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.5rem}
 .popup p{margin:0 0 .8rem;font-size:.85rem;line-height:1.45;color:#ffffffc8}
 .popup a.more{display:inline-block;background:#3b82f6;color:#fff;text-decoration:none;font-weight:700;padding:.55rem 1rem;border-radius:8px;font-size:.85rem}
+.popup .single{display:none}.popup .list{display:none}
+.popup.mode-single .single{display:block}
+.popup.mode-list .list{display:block;max-height:60vh;overflow-y:auto;margin-right:-.5rem;padding-right:.5rem}
+.popup .list .lh{font-size:.75rem;color:#ffffff80;margin:0 0 .5rem;text-transform:uppercase;letter-spacing:.05em}
+.popup .list a{display:flex;align-items:center;gap:.55rem;padding:.55rem .55rem;border-radius:8px;text-decoration:none;color:#fff;font-size:.88rem;border-bottom:1px solid #ffffff10}
+.popup .list a:active{background:#ffffff14}
+.popup .list a .dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.popup .list a .n{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.popup .list a .g{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em;flex-shrink:0}
+.popup .list .nl{padding:.6rem;color:#ffffff70;font-size:.85rem;font-style:italic}
 .zoom{position:absolute;right:.7rem;bottom:.7rem;display:flex;flex-direction:column;gap:.35rem;z-index:4}
 .zoom button{width:38px;height:38px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;color:#fff;font-size:1.2rem;font-weight:800;cursor:pointer}
 .zoom button:active{background:#1a2240}
@@ -250,14 +365,29 @@ header .langs{display:flex;gap:.25rem}
 <h1>${t}</h1>
 <div class="langs">${langLinks}</div>
 </header>
+<div class="controls">
+<div class="chips">${chipsHtml}</div>
+<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="${searchPh}" autocomplete="off"><button id="searchX" aria-label="clear">×</button></div>
+</div>
 <div id="stage">
   <svg id="svg" viewBox="${viewBox}" preserveAspectRatio="xMidYMid meet" aria-label="${t}">
     <g id="gR">${regions.map(r => `<path class="region" data-id="${escAttr(r.id)}" d="${r.path}"/>`).join("")}</g>
     <g id="gL">${regions.filter(r => r.labelX && r.labelY).map(r => `<text class="label" x="${r.labelX}" y="${r.labelY}">${escText((r.name && (r.name[lang] || r.name.en)) || r.id)}</text>`).join("")}</g>
     <g id="gP">${pois.map(p => {
       const url = p.urls?.[lang];
-      const attrs = `data-id="${escAttr(p.id)}" data-name="${escAttr(p.name[lang]||p.name.en||p.id)}"${url?` data-url="${escAttr(url)}"`:""}`;
-      return `<g class="poi ${p.type||'city'}" ${attrs} transform="translate(${p.cx},${p.cy})"><circle r="${p.type==='city'?5:3.5}"/></g>`;
+      const nm = p.name[lang]||p.name.en||p.id;
+      const allNames = Array.from(new Set([p.name.de, p.name.hu, p.name.ro, p.name.en].filter(Boolean).map((n:any)=>String(n).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")))).join("|");
+      const inCluster = clusteredIds.has(p.id);
+      const cls = `poi g-${p.grp}${inCluster ? " in-cluster" : ""}`;
+      const attrs = `data-id="${escAttr(p.id)}" data-name="${escAttr(nm)}" data-search="${escAttr(allNames)}" data-grp="${p.grp}"${url?` data-url="${escAttr(url)}"`:""}`;
+      const r = p.grp === "city" ? 5 : 3.5;
+      return `<g class="${cls}" ${attrs} transform="translate(${p.cx},${p.cy})"><circle r="${r}"/></g>`;
+    }).join("")}</g>
+    <g id="gC">${multiClusters.map((cl, i) => {
+      const r = Math.min(13, 6 + Math.log2(cl.pois.length) * 2);
+      const col = clusterColor(cl);
+      const grps = Array.from(new Set(cl.pois.map(p => p.grp))).join(",");
+      return `<g class="cluster" data-i="${i}" data-grps="${grps}" data-cx="${cl.cx.toFixed(1)}" data-cy="${cl.cy.toFixed(1)}" transform="translate(${cl.cx.toFixed(1)},${cl.cy.toFixed(1)})"><circle r="${r.toFixed(1)}" fill="${col}" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="${(r*1.1).toFixed(1)}" font-weight="800" fill="#0a0a1f">${cl.pois.length}</text></g>`;
     }).join("")}</g>
   </svg>
   <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
@@ -265,16 +395,21 @@ header .langs{display:flex;gap:.25rem}
 <div class="hint">${hint}</div>
 <div class="popup" id="popup" role="dialog" aria-modal="false">
   <button class="x" id="px" aria-label="close">×</button>
-  <div class="type" id="ptype"></div>
-  <h2 id="pname"></h2>
-  <a class="more" id="pmore" href="#">${more} →</a>
+  <div class="single">
+    <div class="type" id="ptype"></div>
+    <h2 id="pname"></h2>
+    <a class="more" id="pmore" href="#">${more} →</a>
+  </div>
+  <div class="list" id="plist"></div>
 </div>
 <script>
 const LANG=${JSON.stringify(lang)},W=${W},H=${H};
+const CLUSTERS=${JSON.stringify(multiClusters.map(cl => cl.pois.map(p => ({id:p.id, name:p.name[lang]||p.name.en||p.id, grp:p.grp, url:p.urls?.[lang]||null}))))};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
-const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP');
+const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
+const EXPAND_SCALE=6;
 let s=1,tx=0,ty=0;
-function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr)}
+function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE)}
 function clmp(v){return Math.max(.5,Math.min(8,v))}
 function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
 function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
@@ -291,10 +426,45 @@ let pD=0,pS=1;
 svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
 svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
 const pop=document.getElementById('popup');
-function openPopup(el){document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));el.classList.add('active');const t=el.getAttribute('class').split(' ').filter(x=>x!=='poi'&&x!=='active')[0]||'';document.getElementById('ptype').textContent=t;document.getElementById('pname').textContent=el.getAttribute('data-name')||el.getAttribute('data-id');const u=el.getAttribute('data-url');const moreBtn=document.getElementById('pmore');if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}pop.classList.add('open')}
+const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function clearMode(){pop.classList.remove('mode-single','mode-list')}
+function openPopup(el){document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));el.classList.add('active');const t=el.getAttribute('data-grp')||'';document.getElementById('ptype').textContent=t;document.getElementById('pname').textContent=el.getAttribute('data-name')||el.getAttribute('data-id');const u=el.getAttribute('data-url');const moreBtn=document.getElementById('pmore');if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}clearMode();pop.classList.add('mode-single','open')}
+function openClusterList(i){const all=CLUSTERS[i];if(!all)return;const list=all.filter(p=>activeGrps.has(p.grp));const el=document.getElementById('plist');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(p=>p.url?'<a href="'+p.url+'"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+'"></span><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></a>':'<div class="nl"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+';display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:.5rem"></span>'+escAttrJs(p.name)+'</div>').join('');clearMode();pop.classList.add('mode-list','open')}
+function escAttrJs(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
 gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
-document.getElementById('px').onclick=()=>{pop.classList.remove('open');document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))};
-stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.popup')){pop.classList.remove('open');document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}});
+if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openClusterList(+cl.getAttribute('data-i'))})}
+function closePopup(){pop.classList.remove('open');clearMode();document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}
+document.getElementById('px').onclick=closePopup;
+stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.cluster')&&!e.target.closest('.popup')){closePopup()}});
+// Chip toggle: hide POIs of disabled group
+const activeGrps=new Set(${JSON.stringify(GROUPS.filter(g => grpCount[g] > 0))});
+function applyGrpFilter(){
+  gP.querySelectorAll('.poi').forEach(p=>{const g=p.getAttribute('data-grp');p.classList.toggle('hidden',!activeGrps.has(g))});
+  if(!gC) return;
+  const clNodes=gC.querySelectorAll('.cluster');
+  // Track which POI ids should be revealed (cluster collapsed to <=1)
+  const revealIds=new Set();
+  clNodes.forEach((c,idx)=>{
+    const i=+c.getAttribute('data-i');
+    const list=CLUSTERS[i]||[];
+    const vis=list.filter(p=>activeGrps.has(p.grp));
+    const txt=c.querySelector('text');
+    if(vis.length===0){c.classList.add('hidden')}
+    else if(vis.length===1){c.classList.add('hidden');revealIds.add(vis[0].id)}
+    else{c.classList.remove('hidden');if(txt)txt.textContent=String(vis.length)}
+  });
+  // Reveal singletons + de-reveal others
+  gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
+    p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
+  });
+}
+document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
+// Search: dim non-matching POIs, highlight matches
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap');
+function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
+function applySearch(){const q=norm(sIn.value.trim());sW.classList.toggle('has-q',!!q);gP.querySelectorAll('.poi').forEach(p=>{if(!q){p.classList.remove('dim');p.classList.remove('match');return}const t=p.getAttribute('data-search')||'';const m=t.includes(q);p.classList.toggle('match',m);p.classList.toggle('dim',!m)})}
+sIn.addEventListener('input',applySearch);
+sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
 </script>
 </body>
 </html>`;

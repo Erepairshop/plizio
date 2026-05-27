@@ -34016,5 +34016,495 @@
       "date": "2026-02-14",
       "source_url": "https://www.turismozarautz.eus"
     }
+  ],
+  "siguenza": [
+    {
+      "title": {
+        "de": "Fest des Heiligen Vinzenz des Märtyrers",
+        "hu": "Szent Vince Vértanú Ünnepe",
+        "ro": "Sărbătoarea Sfântului Vincențiu Martirul",
+        "en": "Feast of Saint Vincent the Martyr"
+      },
+      "summary": {
+        "de": "Sigüenza ehrt seinen Schutzpatron San Vicente mit religiösen Zeremonien, Prozessionen und traditionellen Freudenfeuern, bekannt als 'hogueras'. Die Feierlichkeiten verbinden Frömmigkeit mit lokaler Gemeinschaftsstimmung.",
+        "hu": "Sigüenza védőszentjét, Szent Vincét ünnepli vallási szertartásokkal, körmenetekkel és hagyományos máglyagyújtással ('hogueras'). Az ünnepség a vallásosságot a helyi közösségi szellemmel ötvözi.",
+        "ro": "Sigüenza își onorează sfântul patron, San Vicente, cu ceremonii religioase, procesiuni și focurile tradiționale cunoscute sub numele de 'hogueras'. Sărbătoarea îmbină devotamentul cu spiritul comunitar local.",
+        "en": "Sigüenza honors its patron saint, San Vicente, with religious ceremonies, processions, and the traditional bonfires known as 'hogueras'. The celebration combines devotion with local community spirit."
+      },
+      "date": "2026-01-22",
+      "source_url": "https://www.siguenza.es/turismo/"
+    },
+    {
+      "title": {
+        "de": "Heilige Woche in Sigüenza (Semana Santa)",
+        "hu": "Nagyhét Sigüenzában (Semana Santa)",
+        "ro": "Săptămâna Sfântă la Sigüenza (Semana Santa)",
+        "en": "Holy Week in Sigüenza (Semana Santa)"
+      },
+      "summary": {
+        "de": "Eine Zeit feierlicher Prozessionen und religiöser Veranstaltungen in den historischen Straßen von Sigüenza. Die Bruderschaften der Stadt führen tief verwurzelte Rituale durch, die in der Karwoche ihren Höhepunkt finden.",
+        "hu": "Az ünnepélyes körmenetek és vallási események időszaka Sigüenza történelmi utcáin. A város testvériségei mélyen gyökerező rituálékat mutatnak be, amelyek a nagycsütörtöki és nagypénteki eseményekkel csúcsosodnak ki.",
+        "ro": "O perioadă de procesiuni solemne și evenimente religioase pe străzile istorice din Sigüenza. Frățiile orașului organizează ritualuri adânc înrădăcinate, culminând cu evenimentele din Joia și Vinerea Mare.",
+        "en": "A period of solemn processions and religious events through the historic streets of Sigüenza. The city's brotherhoods perform deep-rooted rituals, culminating in the events of Holy Thursday and Good Friday."
+      },
+      "date": "2026-04-02",
+      "source_url": "https://www.turismocastillalamancha.es/fiestas/semana-santa-de-siguenza-6132/"
+    },
+    {
+      "title": {
+        "de": "Mittelaltertage von Sigüenza",
+        "hu": "Sigüenzai Középkori Napok",
+        "ro": "Zilele Medievale din Sigüenza",
+        "en": "Sigüenza Medieval Days"
+      },
+      "summary": {
+        "de": "Im Juli reist Sigüenza zurück ins Mittelalter. Ritter, Handwerker und Gaukler füllen die Straßen. Die Veranstaltung umfasst Turniere, Märkte und die dramatische Darstellung der Rückeroberung der Stadt.",
+        "hu": "Júliusban Sigüenza visszautazik az időben a középkorba. Lovagok, kézművesek és udvari bolondok lepik el az utcákat. Az eseménysorozat lovagi tornákat, piacokat és a város visszahódításának drámai előadását foglalja magában.",
+        "ro": "În iulie, Sigüenza călătorește înapoi în timp, în Evul Mediu. Cavaleri, meșteșugari și bufoni umplu străzile. Evenimentul include turniruri, piețe și o reconstituire dramatică a recuceririi orașului.",
+        "en": "In July, Sigüenza travels back in time to the Middle Ages. Knights, artisans, and jesters fill the streets. The event includes jousting, markets, and the dramatic re-enactment of the city's reconquest."
+      },
+      "date": "2026-07",
+      "source_url": "https://www.medievalessiguenza.com/"
+    },
+    {
+      "title": {
+        "de": "Feste der Virgen de la Mayor",
+        "hu": "Virgen de la Mayor Ünnepe",
+        "ro": "Sărbătorile Fecioarei de la Mayor",
+        "en": "Festivities of the Virgen de la Mayor"
+      },
+      "summary": {
+        "de": "Mitte August feiert Sigüenza seine Schutzpatronin, die Virgen de la Mayor, mit einer Woche voller Konzerte, Stierläufe, Feuerwerke und Paraden von 'Gigantes y Cabezudos' (Riesen und Großköpfe).",
+        "hu": "Augusztus közepén Sigüenza védőszentjét, a Virgen de la Mayort ünnepli egy egész héten át tartó rendezvénysorozattal, amely koncerteket, bikafuttatást, tűzijátékot és 'Gigantes y Cabezudos' (Óriások és Nagyfejűek) felvonulást is magában foglal.",
+        "ro": "La mijlocul lunii august, Sigüenza își sărbătorește patroana, Fecioara de la Mayor, cu o săptămână de concerte, coride, focuri de artificii și parade cu 'Gigantes y Cabezudos' (Uriași și Capete Mari).",
+        "en": "In mid-August, Sigüenza celebrates its patroness, the Virgen de la Mayor, with a week of concerts, bull runs, fireworks, and parades of 'Gigantes y Cabezudos' (Giants and Big-Heads)."
+      },
+      "date": "2026-08",
+      "source_url": "https://www.siguenza.es/turismo/fiestas-y-tradiciones/"
+    },
+    {
+      "title": {
+        "de": "Segontia, Festival für klassische Musik",
+        "hu": "Segontia Klasszikus Zenei Fesztivál",
+        "ro": "Segontia, Festival de Muzică Clasică",
+        "en": "Segontia Classical Music Festival"
+      },
+      "summary": {
+        "de": "Ein renommiertes Festival, das im Spätsommer klassische Musikkonzerte in den historischen Kirchen und Veranstaltungsorten von Sigüenza präsentiert und Musiker von internationalem Rang anzieht.",
+        "hu": "Egy rangos fesztivál, amely a nyár végén klasszikus zenei koncerteket mutat be Sigüenza történelmi templomaiban és helyszínein, nemzetközi hírű zenészeket vonultatva fel.",
+        "ro": "Un festival renumit care prezintă concerte de muzică clasică în bisericile și locațiile istorice din Sigüenza la sfârșitul verii, atrăgând muzicieni de talie internațională.",
+        "en": "A prestigious festival featuring classical music concerts in Sigüenza's historic churches and venues during the late summer, attracting musicians of international standing."
+      },
+      "date": "2026-09",
+      "source_url": "https://www.siguenza.es/ayuntamiento/cultura-y-festejos/"
+    },
+    {
+      "title": {
+        "de": "Herbstmarkt und Mykologische Tage",
+        "hu": "Őszi Piac és Gombász Napok",
+        "ro": "Târgul de Toamnă și Zilele Micologice",
+        "en": "Autumn Fair and Mycological Days"
+      },
+      "summary": {
+        "de": "Ein Fest der saisonalen Produkte im Herbst, insbesondere der Pilze aus der Region. Die Veranstaltung umfasst geführte Pilzsuche-Exkursionen, Kochvorführungen und einen Markt für lokale Produkte.",
+        "hu": "Az őszi szezonális termékek ünnepe, különös tekintettel a régió gombáira. A rendezvény vezetett gombaszedő túrákat, főzőbemutatókat és helyi termékek piacát foglalja magában.",
+        "ro": "O celebrare a produselor de sezon de toamnă, cu un accent special pe ciupercile din regiune. Evenimentul include excursii ghidate de cules ciuperci, demonstrații culinare și o piață de produse locale.",
+        "en": "A celebration of autumn seasonal products, with a special focus on the region's mushrooms. The event includes guided mushroom foraging excursions, cooking demonstrations, and a local produce market."
+      },
+      "date": "2026-10",
+      "source_url": "https://mico.siguenza.es/"
+    }
+  ],
+  "medinaceli": [
+    {
+      "title": {
+        "de": "Mittelalterlicher Markt von Medinaceli",
+        "hu": "Medinaceli Középkori Vásár",
+        "ro": "Târgul Medieval din Medinaceli",
+        "en": "Medieval Market of Medinaceli"
+      },
+      "summary": {
+        "de": "Ende Mai oder Anfang Juni wird die historische Stadt Medinaceli mit einem lebhaften mittelalterlichen Markt belebt, auf dem Handwerker, Musiker und Künstler die Vergangenheit wieder aufleben lassen.",
+        "hu": "Május végén vagy június elején Medinaceli történelmi városa egy élénk középkori vásárral kel életre, ahol kézművesek, zenészek és előadók idézik fel a múltat.",
+        "ro": "La sfârșitul lunii mai sau începutul lunii iunie, orașul istoric Medinaceli prinde viață cu o piață medievală vibrantă, unde artizani, muzicieni și artiști recreează atmosfera trecutului.",
+        "en": "In late May or early June, the historic town of Medinaceli comes alive with a vibrant medieval market, featuring artisans, musicians, and performers recreating the past."
+      },
+      "date": "2026-06",
+      "source_url": "https://medinacelivillanatal.com/eventos/"
+    },
+    {
+      "title": {
+        "de": "Symposium für zeitgenössische Kunst DEARTE",
+        "hu": "DEARTE Kortárs Művészeti Szimpózium",
+        "ro": "Simpozionul de Artă Contemporană DEARTE",
+        "en": "DEARTE Contemporary Art Symposium"
+      },
+      "summary": {
+        "de": "Eine jährliche Veranstaltung, die Künstler, Kritiker und Enthusiasten im Palacio Ducal zusammenbringt. Sie umfasst Ausstellungen, Konferenzen und Workshops, die der Förderung der zeitgenössischen Kunst gewidmet sind.",
+        "hu": "Egy éves esemény, amely művészeket, kritikusokat és rajongókat hoz össze a Hercegi Palotában. Kiállításokat, konferenciákat és workshopokat foglal magában, amelyek a kortárs művészet népszerűsítését szolgálják.",
+        "ro": "Un eveniment anual care reunește artiști, critici și entuziaști la Palatul Ducal. Include expoziții, conferințe și ateliere dedicate promovării artei contemporane.",
+        "en": "An annual event that brings together artists, critics, and enthusiasts at the Ducal Palace. It includes exhibitions, conferences, and workshops dedicated to promoting contemporary art."
+      },
+      "date": "2026-07",
+      "source_url": "https://fundaciondearte.com/"
+    },
+    {
+      "title": {
+        "de": "Kultureller Sommer in Medinaceli",
+        "hu": "Kulturális Nyár Medinaceliben",
+        "ro": "Vara Culturală în Medinaceli",
+        "en": "Cultural Summer in Medinaceli"
+      },
+      "summary": {
+        "de": "Während des Sommers veranstaltet Medinaceli ein vielfältiges Kulturprogramm mit Konzerten (Klassik, Jazz, Flamenco), Theateraufführungen und Lyrikabenden an verschiedenen historischen Orten.",
+        "hu": "A nyár folyamán Medinaceli változatos kulturális programot kínál, beleértve koncerteket (klasszikus, jazz, flamenco), színházi előadásokat és költészeti esteket különböző történelmi helyszíneken.",
+        "ro": "Pe parcursul verii, Medinaceli găzduiește un program cultural divers, incluzând concerte (muzică clasică, jazz, flamenco), piese de teatru și recitaluri de poezie în diverse locații istorice.",
+        "en": "Throughout the summer, Medinaceli hosts a diverse cultural program, including concerts (classical, jazz, flamenco), theater performances, and poetry readings in various historic venues."
+      },
+      "date": "2026-08",
+      "source_url": "https://www.medinaceli.es/actualidad/agenda"
+    },
+    {
+      "title": {
+        "de": "Fest der Heiligen Leiber (Cuerpos Santos)",
+        "hu": "Szent Testek Ünnepe (Cuerpos Santos)",
+        "ro": "Sărbătoarea Trupelor Sfinte (Cuerpos Santos)",
+        "en": "Feast of the Holy Bodies (Cuerpos Santos)"
+      },
+      "summary": {
+        "de": "Im November feiert Medinaceli seine Schutzheiligen mit religiösen Prozessionen zu Ehren der Reliquien der Heiligen Leiber, eine tief verwurzelte lokale Tradition.",
+        "hu": "Novemberben Medinaceli védőszentjeit ünnepli vallásos körmenetekkel a Szent Testek ereklyéinek tiszteletére. Ez egy mélyen gyökerező helyi hagyomány.",
+        "ro": "În noiembrie, Medinaceli își sărbătorește sfinții patroni cu procesiuni religioase în onoarea relicvelor Trupelor Sfinte, o tradiție locală profund înrădăcinată.",
+        "en": "In November, Medinaceli celebrates its patron saints with religious processions in honor of the relics of the Holy Bodies, a deeply rooted local tradition."
+      },
+      "date": "2026-11-11",
+      "source_url": "https://medinacelidearte.org/agenda-cultural/"
+    },
+    {
+      "title": {
+        "de": "Ritus des Toro Jubilo",
+        "hu": "A Toro Jubilo Rítusa",
+        "ro": "Ritualul Toro Jubilo",
+        "en": "Rite of the Toro Jubilo"
+      },
+      "summary": {
+        "de": "Ein umstrittenes Feuerochsen-Ritual aus der Vorrömerzeit, das in der Nacht des zweiten Samstags im November stattfindet. Es ist als Fest von regionalem touristischem Interesse eingestuft.",
+        "hu": "Egy ellentmondásos, római kor előtti tűzbika-rítus, amelyet november második szombatjának éjjelén tartanak. Regionális turisztikai érdeklődésre számot tartó ünnepként tartják számon.",
+        "ro": "Un ritual controversat al taurului de foc, de origine pre-romană, care are loc în noaptea celei de-a doua sâmbete din noiembrie. Este clasificat ca festival de interes turistic regional.",
+        "en": "A controversial pre-Roman fire bull ritual held on the night of the second Saturday in November. It is classified as a Festival of Regional Tourist Interest."
+      },
+      "date": "2026-11-14",
+      "source_url": "https://www.sorianitelaimaginas.com/fiestas/toro-jubilo-de-medinaceli"
+    },
+    {
+      "title": {
+        "de": "Weihnachtsmarkt",
+        "hu": "Karácsonyi Vásár",
+        "ro": "Târgul de Crăciun",
+        "en": "Christmas Market"
+      },
+      "summary": {
+        "de": "Im Dezember verwandelt sich die Plaza Mayor in einen bezaubernden Weihnachtsmarkt, auf dem lokales Kunsthandwerk, Süßigkeiten und saisonale Dekorationen in einer festlichen Atmosphäre verkauft werden.",
+        "hu": "Decemberben a Plaza Mayor egy bájos karácsonyi vásárrá alakul, ahol helyi kézműves termékeket, édességeket és szezonális díszeket árulnak ünnepi hangulatban.",
+        "ro": "În decembrie, Plaza Mayor se transformă într-o piață de Crăciun fermecătoare, care vinde produse de artizanat locale, dulciuri și decorațiuni de sezon într-o atmosferă festivă.",
+        "en": "In December, the Plaza Mayor transforms into a charming Christmas market, selling local handicrafts, sweets, and seasonal decorations in a festive atmosphere."
+      },
+      "date": "2026-12",
+      "source_url": "https://www.medinaceli.es/"
+    }
+  ],
+  "vielha": [
+    {
+      "title": {
+        "de": "Dreikönigsumzug",
+        "hu": "Háromkirályok Felvonulása",
+        "ro": "Parada Regilor Magi",
+        "en": "Three Kings Parade"
+      },
+      "summary": {
+        "de": "Am Abend des 5. Januar kommen die Heiligen Drei Könige in Vielha an und ziehen mit festlichen Wagen durch die Straßen, um Süßigkeiten an die Kinder zu verteilen.",
+        "hu": "Január 5-én este a Háromkirályok megérkeznek Vielhába, és feldíszített kocsikon vonulnak végig az utcákon, édességet osztogatva a gyerekeknek.",
+        "ro": "În seara zilei de 5 ianuarie, Cei Trei Magi sosesc în Vielha, defilând pe străzi în care alegorice festive și împărțind dulciuri copiilor.",
+        "en": "On the evening of January 5th, the Three Kings arrive in Vielha, parading through the streets on festive floats and handing out candy to children."
+      },
+      "date": "2026-01-05",
+      "source_url": "https://www.visitvaldaran.com/agenda/"
+    },
+    {
+      "title": {
+        "de": "Karneval in Vielha",
+        "hu": "Vielhai Karnevál",
+        "ro": "Carnavalul din Vielha",
+        "en": "Vielha Carnival"
+      },
+      "summary": {
+        "de": "Vor der Fastenzeit feiert Vielha den Karneval mit Kostümumzügen, Musik und der symbolischen 'Verbrennung des Karnevalskönigs', die das Ende der Feierlichkeiten markiert.",
+        "hu": "A nagyböjt előtt Vielha karneváli ünnepségeket tart jelmezes felvonulásokkal, zenével és a 'Carnestoltes' szimbolikus elégetésével, amely az ünnepségek végét jelzi.",
+        "ro": "Înainte de Postul Mare, Vielha sărbătorește Carnavalul cu parade de costume, muzică și arderea simbolică a lui 'Carnestoltes' pentru a marca sfârșitul festivităților.",
+        "en": "Before Lent, Vielha celebrates Carnival with costume parades, music, and the symbolic 'burning of Carnestoltes' to mark the end of the festivities."
+      },
+      "date": "2026-02",
+      "source_url": "https://www.visitvaldaran.com/event/carnaval-en-la-val-daran/"
+    },
+    {
+      "title": {
+        "de": "Johannisnacht und 'Crèma deth Haro'",
+        "hu": "Szent Iván-éj és 'Crèma deth Haro'",
+        "ro": "Noaptea de San Juan și 'Crèma deth Haro'",
+        "en": "Saint John's Eve and 'Crèma deth Haro'"
+      },
+      "summary": {
+        "de": "Ein UNESCO-Weltkulturerbe-Fest. Am 23. Juni wird eine hohe Tanne ('haro') auf dem Platz angezündet, um die Sommersonnenwende zu feiern, begleitet von traditionellen Tänzen und Musik.",
+        "hu": "Az UNESCO Világörökség részét képező ünnepség. Június 23-án egy magas fenyőfát ('haro') gyújtanak meg a téren a nyári napforduló ünneplésére, amelyet hagyományos táncok és zene kísér.",
+        "ro": "O festivitate inclusă în Patrimoniul Imaterial UNESCO. Pe 23 iunie, un brad înalt ('haro') este aprins în piață pentru a sărbători solstițiul de vară, însoțit de dansuri și muzică tradițională.",
+        "en": "A UNESCO Intangible Cultural Heritage festival. On June 23rd, a tall fir tree ('haro') is lit in the square to celebrate the summer solstice, accompanied by traditional dances and music."
+      },
+      "date": "2026-06-23",
+      "source_url": "https://www.visitvaldaran.com/fiestas-del-fuego/"
+    },
+    {
+      "title": {
+        "de": "Hèsta Major de Vielha (Hauptfest)",
+        "hu": "Hèsta Major de Vielha (Fő Fesztivál)",
+        "ro": "Hèsta Major de Vielha (Festivalul Principal)",
+        "en": "Hèsta Major de Vielha (Main Festival)"
+      },
+      "summary": {
+        "de": "Anfang September feiert Vielha sein Hauptfest zu Ehren der Virgen de Mijaran. Die Feierlichkeiten umfassen Konzerte, traditionelle aranesische Tänze, Straßenumzüge und Feuerwerk.",
+        "hu": "Szeptember elején Vielha a Virgen de Mijaran tiszteletére rendezi meg fő fesztiválját. Az ünnepségek koncerteket, hagyományos aráni táncokat, utcai felvonulásokat és tűzijátékot foglalnak magukban.",
+        "ro": "La începutul lunii septembrie, Vielha își celebrează festivalul principal în onoarea Fecioarei de Mijaran. Festivitățile includ concerte, dansuri tradiționale araneze, parade stradale și focuri de artificii.",
+        "en": "In early September, Vielha celebrates its main festival in honor of the Virgen de Mijaran. The festivities include concerts, traditional Aranese dances, street parades, and fireworks."
+      },
+      "date": "2026-09-08",
+      "source_url": "https://www.ajuntamentvielhaemijaran.es/vielha-e-mijaran-celebra-su-fiesta-mayor-2023/"
+    },
+    {
+      "title": {
+        "de": "Vieh- und Handwerksmesse von Vielha",
+        "hu": "Vielhai Állat- és Kézművesvásár",
+        "ro": "Târgul de Vite și Artizanat din Vielha",
+        "en": "Vielha Livestock and Artisan Fair"
+      },
+      "summary": {
+        "de": "Anfang Oktober findet eine traditionelle Messe statt, die dem Vieh gewidmet ist, insbesondere dem aranesischen Pferd. Sie umfasst auch einen Markt für lokale Produkte, Kunsthandwerk und landwirtschaftliche Maschinen.",
+        "hu": "Október elején egy hagyományos vásárt tartanak, amelyet az állatállománynak, különösen az aráni lónak szentelnek. A vásár helyi termékek, kézműves áruk és mezőgazdasági gépek piacát is magában foglalja.",
+        "ro": "La începutul lunii octombrie are loc un târg tradițional dedicat vitelor, în special calului aranez. Acesta include și o piață pentru produse locale, artizanat și mașini agricole.",
+        "en": "In early October, a traditional fair dedicated to livestock, especially the Aranese horse. It also includes a market for local products, crafts, and agricultural machinery."
+      },
+      "date": "2026-10",
+      "source_url": "https://www.visitvaldaran.com/event/feria-de-vielha/"
+    },
+    {
+      "title": {
+        "de": "Era Mongetada (Bohnenfest)",
+        "hu": "Era Mongetada (Babfesztivál)",
+        "ro": "Era Mongetada (Festivalul Fasolei)",
+        "en": "Era Mongetada (Bean Festival)"
+      },
+      "summary": {
+        "de": "Ein gastronomisches Festival in der gesamten Val d'Aran, das der lokalen Bohne gewidmet ist. Restaurants bieten spezielle Menüs an, und es gibt Märkte, Kochvorführungen und Verkostungen.",
+        "hu": "Egy gasztronómiai fesztivál a Val d'Aran-szerte, amelyet a helyi babnak szentelnek. Az éttermek különleges menüket kínálnak, és piacok, főzőbemutatók, valamint kóstolók is vannak.",
+        "ro": "Un festival gastronomic în toată Val d'Aran dedicat fasolei locale. Restaurantele oferă meniuri speciale, și există piețe, demonstrații culinare și degustări.",
+        "en": "A gastronomic festival throughout the Val d'Aran dedicated to the local bean. Restaurants offer special menus, and there are markets, cooking demonstrations, and tastings."
+      },
+      "date": "2026-10",
+      "source_url": "https://www.visitvaldaran.com/event/era-mongetada-2023/"
+    }
+  ],
+  "la-seu-d-urgell": [
+    {
+      "title": {
+        "de": "Sankt-Georgs-Tag (Diada de Sant Jordi)",
+        "hu": "Szent György Napja (Diada de Sant Jordi)",
+        "ro": "Ziua Sfântului Gheorghe (Diada de Sant Jordi)",
+        "en": "Saint George's Day (Diada de Sant Jordi)"
+      },
+      "summary": {
+        "de": "Der katalanische Tag der Liebe und Kultur. Die Menschen tauschen Bücher und Rosen aus. Die Straßen füllen sich mit Ständen, die die neuesten literarischen Werke und rote Rosen verkaufen.",
+        "hu": "A szerelem és a kultúra katalán napja. Az emberek könyveket és rózsákat cserélnek. Az utcák megtelnek standokkal, amelyek a legújabb irodalmi műveket és vörös rózsákat árulják.",
+        "ro": "Ziua catalană a iubirii și a culturii. Oamenii fac schimb de cărți și trandafiri. Străzile se umplu de tarabe care vând cele mai recente opere literare și trandafiri roșii.",
+        "en": "The Catalan day of love and culture. People exchange books and roses. The streets fill with stalls selling the latest literary works and red roses."
+      },
+      "date": "2026-04-23",
+      "source_url": "https://turisme.laseu.cat/que-fer/fires-mercats-i-festes/"
+    },
+    {
+      "title": {
+        "de": "ICF Kanu-Slalom-Weltcup",
+        "hu": "ICF Kajak-Szlalomm Világkupa",
+        "ro": "Cupa Mondială de Canoe Slalom ICF",
+        "en": "ICF Canoe Slalom World Cup"
+      },
+      "summary": {
+        "de": "Der Parc Olímpic del Segre, Austragungsort der Olympischen Spiele 1992, veranstaltet regelmäßig internationale Kanu-Slalom-Wettbewerbe, bei denen Weltklasse-Athleten gegeneinander antreten.",
+        "hu": "Az 1992-es olimpiai játékok helyszíne, a Parc Olímpic del Segre rendszeresen ad otthont nemzetközi kajak-szlalom versenyeknek, ahol világszínvonalú sportolók mérik össze tudásukat.",
+        "ro": "Parcul Olimpic del Segre, gazdă a Jocurilor Olimpice din 1992, găzduiește în mod regulat competiții internaționale de canoe slalom, atrăgând sportivi de talie mondială.",
+        "en": "The Parc Olímpic del Segre, a 1992 Olympic venue, regularly hosts international canoe slalom competitions, attracting world-class athletes to compete."
+      },
+      "date": "2026-07",
+      "source_url": "https://www.canoeicf.com/disciplines/canoe-slalom"
+    },
+    {
+      "title": {
+        "de": "Hauptfest von La Seu d'Urgell",
+        "hu": "La Seu d'Urgell Fő Fesztiválja",
+        "ro": "Festivalul Principal din La Seu d'Urgell",
+        "en": "Main Festival of La Seu d'Urgell"
+      },
+      "summary": {
+        "de": "In der letzten Augustwoche feiert die Stadt ihr Hauptfest mit einem vollen Programm an Konzerten, traditionellen Tänzen ('sardanes'), Kinderaktivitäten und einem beeindruckenden Feuerwerk.",
+        "hu": "Augusztus utolsó hetében a város a fő fesztiválját ünnepli, amely tele van koncertekkel, hagyományos táncokkal ('sardanes'), gyermekprogramokkal és lenyűgöző tűzijátékkal.",
+        "ro": "În ultima săptămână din august, orașul își sărbătorește festivalul principal cu un program plin de concerte, dansuri tradiționale ('sardanes'), activități pentru copii și un foc de artificii impresionant.",
+        "en": "In the last week of August, the city celebrates its main festival with a full schedule of concerts, traditional dances ('sardanes'), children's activities, and an impressive firework display."
+      },
+      "date": "2026-08",
+      "source_url": "https://www.laseu.cat/la-ciutat/festes-i-tradicions"
+    },
+    {
+      "title": {
+        "de": "Messe des Heiligen Ermengol",
+        "hu": "Szent Ermengol Vására",
+        "ro": "Târgul Sfântului Ermengol",
+        "en": "Fair of Saint Ermengol"
+      },
+      "summary": {
+        "de": "Eine der ältesten dokumentierten Messen in Spanien, die bis ins 11. Jahrhundert zurückreicht. Diese Herbstmesse im Oktober umfasst einen großen Markt und die berühmte Messe für handwerklichen Käse aus den Pyrenäen.",
+        "hu": "Spanyolország egyik legrégebbi dokumentált vására, amely a 11. századig nyúlik vissza. Ez az októberi őszi vásár egy hatalmas piacot és a híres Pireneusok Kézműves Sajtvásárát foglalja magában.",
+        "ro": "Unul dintre cele mai vechi târguri documentate din Spania, datând din secolul al XI-lea. Acest târg de toamnă din octombrie include o piață mare și renumitul Târg de Brânzeturi Artizanale din Pirinei.",
+        "en": "One of the oldest documented fairs in Spain, dating back to the 11th century. This autumn fair in October includes a large market and the famous Artisan Cheese Fair of the Pyrenees."
+      },
+      "date": "2026-10",
+      "source_url": "https://www.firasantermengol.cat/"
+    },
+    {
+      "title": {
+        "de": "Messe für handwerklichen Käse aus den Pyrenäen",
+        "hu": "Pireneusi Kézműves Sajtok Vására",
+        "ro": "Târgul de Brânzeturi Artizanale din Pirinei",
+        "en": "Artisan Cheese Fair of the Pyrenees"
+      },
+      "summary": {
+        "de": "Im Rahmen der Fira de Sant Ermengol bringt diese Veranstaltung Käsehersteller aus den gesamten Pyrenäen zusammen. Besucher können Hunderte von Käsesorten probieren und kaufen.",
+        "hu": "A Fira de Sant Ermengol részeként ez az esemény összegyűjti a sajtkészítőket az egész Pireneusokból. A látogatók több száz féle sajtot kóstolhatnak és vásárolhatnak meg.",
+        "ro": "Ca parte a Târgului Sant Ermengol, acest eveniment reunește producătorii de brânză din întregul Pirinei. Vizitatorii pot degusta și cumpăra sute de tipuri de brânză.",
+        "en": "Held as part of the Fira de Sant Ermengol, this event brings together cheesemakers from all over the Pyrenees. Visitors can taste and buy hundreds of varieties of cheese."
+      },
+      "date": "2026-10",
+      "source_url": "https://firasantermengol.cat/formatges/"
+    },
+    {
+      "title": {
+        "de": "Die Stadt des Weihnachtstraums (El Món Màgic de les Muntanyes)",
+        "hu": "A Karácsonyi Álom Városa (El Món Màgic de les Muntanyes)",
+        "ro": "Orașul Visului de Crăciun (El Món Màgic de les Muntanyes)",
+        "en": "The City of the Christmas Dream (El Món Màgic de les Muntanyes)"
+      },
+      "summary": {
+        "de": "Im Dezember verwandelt sich La Seu in eine magische Weihnachtswelt mit Lichtern, Dekorationen, einem Handwerksmarkt und Aktivitäten für Kinder, die auf der Ankunft der Bergmythen-Figuren basieren.",
+        "hu": "Decemberben La Seu egy varázslatos karácsonyi világgá változik fényekkel, díszekkel, kézműves piaccal és gyermekprogramokkal, amelyek a hegyi mitológiai alakok érkezésére épülnek.",
+        "ro": "În decembrie, La Seu se transformă într-o lume magică de Crăciun, cu lumini, decorațiuni, o piață de artizanat și activități pentru copii bazate pe sosirea personajelor mitice montane.",
+        "en": "In December, La Seu transforms into a magical Christmas world with lights, decorations, a craft market, and activities for children based on the arrival of mountain mythical figures."
+      },
+      "date": "2026-12",
+      "source_url": "https://www.laseu.cat/la-ciutat/el-mon-magic-de-les-muntanyes"
+    }
+  ],
+  "jaca-resort": [
+    {
+      "title": {
+        "de": "Fest des Ersten Freitags im Mai",
+        "hu": "Május Első Péntekjének Ünnepe",
+        "ro": "Sărbătoarea Primei Vineri din Mai",
+        "en": "Festival of the First Friday of May"
+      },
+      "summary": {
+        "de": "Ein Fest von nationalem touristischem Interesse, das an einen mittelalterlichen Sieg erinnert. Es bietet eine Parade in historischen Kostümen, einen mittelalterlichen Markt und eine allgemeine festliche Atmosphäre in der ganzen Stadt.",
+        "hu": "Nemzeti turisztikai érdekeltségű ünnep, amely egy középkori győzelemre emlékezik. Történelmi jelmezes felvonulást, középkori piacot és általános ünnepi hangulatot kínál az egész városban.",
+        "ro": "O sărbătoare de interes turistic național care comemorează o victorie medievală. Prezintă o paradă în costume de epocă, o piață medievală și o atmosferă festivă generală în tot orașul.",
+        "en": "A Festival of National Tourist Interest commemorating a medieval victory. It features a parade in period costume, a medieval market, and a general festive atmosphere throughout the city."
+      },
+      "date": "2026-05-01",
+      "source_url": "https://www.jaca.es/turismo/fiestas-y-eventos/primer-viernes-de-mayo.html"
+    },
+    {
+      "title": {
+        "de": "Feste der Heiligen Orosia und des Heiligen Petrus",
+        "hu": "Szent Orosia és Szent Péter Ünnepe",
+        "ro": "Sărbătorile Sfintei Orosia și Sfântului Petru",
+        "en": "Festivities of Saint Orosia and Saint Peter"
+      },
+      "summary": {
+        "de": "Die Schutzheiligenfeste von Jaca finden Ende Juni statt. Das Programm umfasst Konzerte, traditionelle Tänze, religiöse Prozessionen und Aktivitäten für alle Altersgruppen.",
+        "hu": "Jaca védőszentjeinek ünnepe június végén zajlik. A program koncerteket, hagyományos táncokat, vallási körmeneteket és minden korosztálynak szóló tevékenységeket tartalmaz.",
+        "ro": "Festivitățile patronale ale Jaca au loc la sfârșitul lunii iunie. Programul include concerte, dansuri tradiționale, procesiuni religioase și activități pentru toate vârstele.",
+        "en": "Jaca's patron saint festivities are held at the end of June. The program includes concerts, traditional dances, religious processions, and activities for all ages."
+      },
+      "date": "2026-06-25",
+      "source_url": "https://www.jaca.es/turismo/fiestas-y-eventos/fiestas-patronales-de-santa-orosia-y-san-pedro.html"
+    },
+    {
+      "title": {
+        "de": "Mittelalterlicher Markt der Drei Kulturen",
+        "hu": "A Három Kultúra Középkori Vására",
+        "ro": "Piața Medievală a Celor Trei Culturi",
+        "en": "Medieval Market of the Three Cultures"
+      },
+      "summary": {
+        "de": "Ende August findet in Jaca ein Markt statt, der an das friedliche Zusammenleben von Christen, Juden und Muslimen im mittelalterlichen Spanien erinnert. Es gibt Stände, Musik und Theater.",
+        "hu": "Augusztus végén Jaca egy olyan piacnak ad otthont, amely a keresztények, zsidók és muszlimok békés együttélésére emlékezik a középkori Spanyolországban. Standok, zene és színházi előadások várják az érdeklődőket.",
+        "ro": "La sfârșitul lunii august, Jaca găzduiește o piață care comemorează coexistența pașnică a creștinilor, evreilor și musulmanilor în Spania medievală, cu tarabe, muzică și teatru.",
+        "en": "In late August, Jaca hosts a market that commemorates the peaceful coexistence of Christians, Jews, and Muslims in medieval Spain, with stalls, music, and theater."
+      },
+      "date": "2026-08",
+      "source_url": "https://www.turismojacetania.es/agenda/mercado-medieval-de-jaca/"
+    },
+    {
+      "title": {
+        "de": "Gran Premio Ciudad de Jaca de Ciclismo",
+        "hu": "Jaca Város Kerékpáros Nagydíja",
+        "ro": "Marele Premiu Ciclist al Orașului Jaca",
+        "en": "City of Jaca Cycling Grand Prix"
+      },
+      "summary": {
+        "de": "Ein wichtiges Radrennen, das Radfahrer aus der ganzen Region anzieht, um auf einer anspruchsvollen Strecke rund um Jaca und die Pyrenäen anzutreten.",
+        "hu": "Egy fontos kerékpárverseny, amely az egész régióból vonzza a kerékpárosokat, hogy megmérkőzzenek egy kihívásokkal teli pályán Jaca környékén és a Pireneusokban.",
+        "ro": "O cursă ciclistă importantă care atrage cicliști din întreaga regiune pentru a concura pe un traseu dificil în jurul Jaca și al Pirineilor.",
+        "en": "An important cycling race that attracts cyclists from all over the region to compete on a challenging circuit around Jaca and the Pyrenees."
+      },
+      "date": "2026-09",
+      "source_url": "https://www.jaca.es/deportes.html"
+    },
+    {
+      "title": {
+        "de": "Internationale Eiskunstlauf-Meisterschaft",
+        "hu": "Nemzetközi Műkorcsolya Bajnokság",
+        "ro": "Campionatul Internațional de Patinaj Artistic",
+        "en": "International Figure Skating Championship"
+      },
+      "summary": {
+        "de": "Im Herbst finden im Eispalast von Jaca oft nationale oder internationale Eiskunstlaufwettbewerbe statt, bei denen talentierte Eiskunstläufer ihr Können zeigen.",
+        "hu": "Jaca jégpalotája ősszel gyakran ad otthont nemzeti vagy nemzetközi műkorcsolya versenyeknek, ahol tehetséges korcsolyázók mutatják be tudásukat.",
+        "ro": "Palatul de Gheață din Jaca găzduiește adesea competiții naționale sau internaționale de patinaj artistic în timpul toamnei, prezentând patinatori talentați.",
+        "en": "The Jaca Ice Pavilion often hosts national or international figure skating competitions during the autumn, showcasing talented skaters."
+      },
+      "date": "2026-11",
+      "source_url": "https://www.fedhielo.com/jaca-acogera-el-campeonato-de-espana-de-patinaje-artistico-2023/"
+    },
+    {
+      "title": {
+        "de": "Buchmesse von Aragonien",
+        "hu": "Aragóniai Könyvvásár",
+        "ro": "Târgul de Carte din Aragon",
+        "en": "Aragonese Book Fair"
+      },
+      "summary": {
+        "de": "Anfang Dezember versammeln sich Verlage, Autoren und Leser in Jaca zur aragonesischen Buchmesse, einer wichtigen kulturellen Veranstaltung zur Förderung der regionalen Literatur.",
+        "hu": "December elején kiadók, írók és olvasók gyűlnek össze Jacában az Aragóniai Könyvvásárra, amely egy fontos kulturális esemény a regionális irodalom népszerűsítésére.",
+        "ro": "La începutul lunii decembrie, editori, autori și cititori se adună la Jaca pentru Târgul de Carte Aragonez, un eveniment cultural important care promovează literatura regională.",
+        "en": "In early December, publishers, authors, and readers gather in Jaca for the Aragonese Book Fair, a key cultural event promoting regional literature."
+      },
+      "date": "2026-12",
+      "source_url": "https://www.jaca.es/cultura.html"
+    }
   ]
 }
