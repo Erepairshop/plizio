@@ -72,21 +72,31 @@ jobs:
 
       - name: Generate targeted POI HTMLs into a staging out/
         run: |
-          mkdir -p out
-          POI_IDS_FILE="$POI_IDS_FILE" OUT_DIR="$PWD/out" \
-            node --experimental-strip-types scripts/generate-poi-html.mts 2>&1 | tail -30
+          mkdir -p out_delta
+          # Use tsx (in node_modules) — works on Node 20, no --experimental-strip-types needed.
+          # Write to out_delta/ to avoid mixing with prior full-build artifacts.
+          POI_IDS_FILE="$POI_IDS_FILE" OUT_DIR="$PWD/out_delta" \
+            npx tsx scripts/generate-poi-html.mts 2>&1 | tail -30
+          # Sanity check
+          GENERATED=$(find out_delta -name 'index.html' -type f | wc -l)
+          echo "[delta] generated $GENERATED HTML files in out_delta/"
+          if [ "$GENERATED" -eq 0 ]; then
+            echo "::error::No HTMLs generated — POI_IDS filter likely matched 0 POIs"
+            exit 1
+          fi
 
       - name: Diff + copy changed HTMLs into active release
         run: |
           ACTIVE='${{ steps.release.outputs.active }}'
           COPIED=0
+          # Copy ALL HTMLs from out_delta (every file there is freshly generated)
           while IFS= read -r f; do
-            REL="${f#out/}"
+            REL="${f#out_delta/}"
             DEST="$ACTIVE/$REL"
             mkdir -p "$(dirname "$DEST")"
             cp "$f" "$DEST"
             COPIED=$((COPIED+1))
-          done < <(find out -name 'index.html' -type f -newer "$POI_IDS_FILE")
+          done < <(find out_delta -name 'index.html' -type f)
           echo "[delta] copied $COPIED HTML files into active release"
           echo "## Delta deploy summary" >> $GITHUB_STEP_SUMMARY
           echo "- POI ids: ${{ steps.ids.outputs.count }}" >> $GITHUB_STEP_SUMMARY
@@ -98,13 +108,30 @@ jobs:
           set +e
           HEAD=$(head -3 "$POI_IDS_FILE")
           for id in $HEAD; do
-            # Try the german path (each POI guaranteed to have /de/ route)
-            HIT=$(find out -name "index.html" -path "*/de/*" -newer "$POI_IDS_FILE" | grep -m1 "$id" || true)
+            HIT=$(find out_delta -name "index.html" -path "*/de/*" -type f | grep -m1 "$id" || true)
             if [ -n "$HIT" ]; then
-              REL="${HIT#out/}"
+              REL="${HIT#out_delta/}"
               URL="https://plizio.com/$REL"
               URL="${URL%/index.html}/"
               CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 "$URL")
               echo "[smoke] $URL → $CODE"
             fi
           done
+          # CF purge for the touched POI URLs (only if CF_API_TOKEN secret is set)
+          if [ -n "${{ secrets.CF_API_TOKEN }}" ] && [ -n "${{ secrets.CF_ZONE_ID }}" ]; then
+            echo "[delta] purging CF cache for changed POI URLs..."
+            URLS_JSON=$(find out_delta -name 'index.html' -type f | while read -r f; do
+              REL="${f#out_delta/}"
+              URL="https://plizio.com/${REL%/index.html}/"
+              echo "$URL"
+            done | jq -R . | jq -s '{files: .}')
+            # CF purge limit is 30 URLs per call — chunk if many
+            echo "$URLS_JSON" | jq -c '.files | _nwise(30)' | while IFS= read -r chunk; do
+              curl -s -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
+                -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+                -H "Content-Type: application/json" \
+                --data "{\"files\": $chunk}" | jq -r '.success'
+            done
+          else
+            echo "[delta] CF_API_TOKEN secret not set, skipping CF purge"
+          fi
