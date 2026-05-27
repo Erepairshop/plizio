@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=3">
+<title>Nauru hartă — Plizio</title>
+<meta name="description" content="Atinge un loc pentru detalii">
+<link rel="canonical" href="https://plizio.com/nauru-map/ro/">
+<link rel="alternate" hreflang="de" href="https://plizio.com/nauru-map/de/">
+<link rel="alternate" hreflang="hu" href="https://plizio.com/nauru-map/">
+<link rel="alternate" hreflang="ro" href="https://plizio.com/nauru-map/ro/">
+<link rel="alternate" hreflang="en" href="https://plizio.com/nauru-map/en/">
+<link rel="alternate" hreflang="x-default" href="https://plizio.com/nauru-map/">
+<meta property="og:title" content="Nauru hartă — Plizio">
+<meta property="og:description" content="Atinge un loc pentru detalii">
+<meta property="og:url" content="https://plizio.com/nauru-map/ro/">
+<meta property="og:type" content="website">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;height:100%;background:#060614;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
+header{display:flex;align-items:center;gap:.6rem;padding:.65rem .9rem;background:#0a0a1f;border-bottom:1px solid #ffffff14;position:relative;z-index:5}
+header a.back{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;background:#ffffff14;color:#fff;text-decoration:none;font-weight:700}
+header a.back:active{background:#ffffff28}
+header h1{margin:0;font-size:1rem;font-weight:800;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+header .langs{display:flex;gap:.25rem}
+.lang{font-size:.7rem;font-weight:700;padding:.25rem .45rem;border-radius:6px;color:#ffffffb0;text-decoration:none;background:#ffffff10}
+.lang.on{background:#3b82f6;color:#fff}
+#stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
+#svg{width:100%;height:100%;display:block;cursor:grab}
+#svg.drag{cursor:grabbing}
+.region{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s}
+.region:hover{fill:#2d3a78}
+.label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
+.poi{cursor:pointer}
+.poi circle{fill:#9ca3af;stroke:#000;stroke-width:.5;transition:r .12s,opacity .12s}
+.poi.g-city circle{fill:#60a5fa}
+.poi.g-sight circle{fill:#fbbf24}
+.poi.g-nature circle{fill:#22c55e}
+.poi.g-history circle{fill:#c084fc}
+.poi.g-industry circle{fill:#fb923c}
+.poi.g-other circle{fill:#9ca3af}
+.poi.dim{opacity:.18}
+.poi.match circle{stroke:#fff;stroke-width:1.4}
+.poi:hover circle,.poi.active circle{r:7;fill:#fff;opacity:1}
+.controls{position:absolute;top:53px;left:0;right:0;z-index:4;padding:.4rem .55rem;display:flex;gap:.3rem;align-items:center;background:linear-gradient(180deg,#060614 0%,#06061400 100%)}
+.chips{display:flex;gap:.25rem;flex-shrink:0}
+.chip{flex-shrink:0;width:30px;height:30px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;user-select:none;padding:0;opacity:.45;transition:opacity .12s,background .12s,border-color .12s}
+.chip.on{opacity:1}
+.chip.on.g-city{background:#60a5fa22;border-color:#60a5fa70}
+.chip.on.g-sight{background:#fbbf2422;border-color:#fbbf2470}
+.chip.on.g-nature{background:#22c55e22;border-color:#22c55e70}
+.chip.on.g-history{background:#c084fc22;border-color:#c084fc70}
+.chip.on.g-industry{background:#fb923c22;border-color:#fb923c70}
+.chip.on.g-other{background:#9ca3af22;border-color:#9ca3af70}
+.chip svg{display:block}
+.search{flex:1;min-width:0;display:flex;align-items:center;gap:.3rem;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;padding:.15rem .5rem .15rem .6rem;height:30px}
+.search input{flex:1;border:none;outline:none;background:transparent;color:#fff;font-size:.82rem;padding:.25rem 0;min-width:0;font-family:inherit}
+.search input::placeholder{color:#ffffff70}
+.search-results{position:absolute;top:34px;left:0;right:0;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;max-height:280px;overflow-y:auto;display:none;z-index:10;box-shadow:0 4px 16px #00000060}
+.search.has-q .search-results.has-hits{display:block}
+.search-results a{display:flex;align-items:center;gap:.4rem;padding:.45rem .55rem;color:#fff;text-decoration:none;font-size:.8rem;border-bottom:1px solid #ffffff10;cursor:pointer}
+.search-results a:last-child{border-bottom:none}
+.search-results a:hover,.search-results a.active{background:#1a2055}
+.search-results .dot{width:8px;height:8px;border-radius:50%;flex:none}
+.search-results .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.search-results .gr{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em}
+.search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
+.search.has-q button{display:block}
+.poi.hidden{display:none !important}
+.poi.reveal{display:initial}
+.cluster.hidden{display:none !important}
+.cluster{cursor:pointer}
+.cluster circle{transition:r .12s}
+.cluster:hover circle{r:14}
+/* At default zoom: clusters visible, in-cluster POIs hidden */
+.poi.in-cluster{display:none}
+/* At higher zoom: clusters hide, in-cluster POIs become visible */
+#svg.expand .cluster{display:none}
+#svg.expand .poi.in-cluster{display:initial}
+.hint{position:absolute;top:102px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
+@keyframes fadeOut{to{opacity:0}}
+.popup{position:absolute;bottom:0;left:0;right:0;background:#0d1230;border-top:1px solid #ffffff20;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -10px 40px #00000080}
+.popup.open{transform:translateY(0)}
+.popup .x{position:absolute;top:.5rem;right:.7rem;width:32px;height:32px;border-radius:50%;background:#ffffff14;border:none;color:#fff;font-size:1.1rem;cursor:pointer;z-index:2}
+.popup h2{margin:0 0 .3rem;font-size:1.1rem;font-weight:800}
+.popup .type{font-size:.7rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.5rem}
+.popup p{margin:0 0 .8rem;font-size:.85rem;line-height:1.45;color:#ffffffc8}
+.popup a.more{display:inline-block;background:#3b82f6;color:#fff;text-decoration:none;font-weight:700;padding:.55rem 1rem;border-radius:8px;font-size:.85rem}
+.popup .single{display:none}.popup .list{display:none}
+.popup.mode-single .single{display:block}
+.popup.mode-list .list{display:block;max-height:60vh;overflow-y:auto;margin-right:-.5rem;padding-right:.5rem}
+.popup .list .lh{font-size:.75rem;color:#ffffff80;margin:0 0 .5rem;text-transform:uppercase;letter-spacing:.05em}
+.popup .list a{display:flex;align-items:center;gap:.55rem;padding:.55rem .55rem;border-radius:8px;text-decoration:none;color:#fff;font-size:.88rem;border-bottom:1px solid #ffffff10}
+.popup .list a:active{background:#ffffff14}
+.popup .list a .dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.popup .list a .n{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.popup .list a .g{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em;flex-shrink:0}
+.popup .list .nl{padding:.6rem;color:#ffffff70;font-size:.85rem;font-style:italic}
+.zoom{position:absolute;right:.7rem;bottom:.7rem;display:flex;flex-direction:column;gap:.35rem;z-index:4}
+.zoom button{width:38px;height:38px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;color:#fff;font-size:1.2rem;font-weight:800;cursor:pointer}
+.zoom button:active{background:#1a2240}
+</style>
+</head>
+<body>
+<header>
+<a class="back" href="/europe-map/" aria-label="Înapoi">‹</a>
+<h1>Nauru hartă</h1>
+<div class="langs"><a class="lang" href="./?lang=de">DE</a><a class="lang" href="./?lang=hu">HU</a><span class="lang on">RO</span><a class="lang" href="./?lang=en">EN</a></div>
+</header>
+<div class="controls">
+<div class="chips"><button class="chip on g-city" data-g="city" aria-label="Orașe" title="Orașe (15)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#60a5fa" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21V8l5-3v3l5-3v16M3 12h2m4 0h2m-2 4h2m-2-8h2m4 4h2m-2 4h2m-2-8h2"/></svg></button><button class="chip on g-sight" data-g="sight" aria-label="Atracții" title="Atracții (27)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fbbf24" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1l2.09 4.74L15 6.4l-3.5 3.41.83 4.83L8 12.27 3.67 14.64 4.5 9.81 1 6.4l4.91-.66z"/></svg></button><button class="chip on g-nature" data-g="nature" aria-label="Natură" title="Natură (29)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#22c55e" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 14V9M8 9l-3 3M8 9l3 3M8 9V5l-3-2M8 5l3-2"/></svg></button><button class="chip on g-industry" data-g="industry" aria-label="Industrie" title="Industrie (12)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fb923c" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M2 13V6l4 2V6l4 2V6l4 2v5z"/></svg></button><button class="chip on g-other" data-g="other" aria-label="Altele" title="Altele (8)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#9ca3af" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="3"/></svg></button></div>
+<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="Caută…" autocomplete="off"><button id="searchX" aria-label="clear">×</button><div class="search-results" id="searchRes"></div></div>
+</div>
+<div id="stage">
+  <svg id="svg" viewBox="0 0 1000.00 1198.45" preserveAspectRatio="xMidYMid meet" aria-label="Nauru hartă">
+    <g id="gR"><path class="region" data-id="NRU-4978" d="M472.1,57.1L620.6,0L624,268.6L472.1,57.1Z"/><path class="region" data-id="NRU-4977" d="M353.7,102.7L472.1,57.1L624,268.6L605.7,392.2L353.7,102.7Z"/><path class="region" data-id="NRU-4976" d="M216,155.6L353.7,102.7L605.7,392.2L596.6,453.6L590,509.2L216,155.6Z"/><path class="region" data-id="NRU-4975" d="M125.4,190.5L216,155.6L590,509.2L581.3,581L125.4,190.5Z"/><path class="region" data-id="NRU-4974" d="M64.7,423.2L125.4,190.5L581.3,581L576.1,624.8L568.4,678.5L418.6,631.6L261,590.5L64.7,423.2Z"/><path class="region" data-id="NRU-4973" d="M0,671.5L64.7,423.2L261,590.5L192.6,659L0,671.5Z"/><path class="region" data-id="NRU-4972" d="M97.5,908.1L0,671.5L192.6,659L178.9,754.9L213.1,871.3L97.5,908.1Z"/><path class="region" data-id="NRU-4971" d="M182.5,1114.3L97.5,908.1L213.1,871.3L255.5,943.8L220,974.1L182.5,1114.3Z"/><path class="region" data-id="NRU-4983" d="M500.2,1175.3L182.5,1114.3L220,974.1L255.5,943.8L356.9,857.7L500.2,1175.3Z"/><path class="region" data-id="NRU-4982" d="M901.4,838.2L865.1,950.8L620.6,1198.5L500.2,1175.3L356.9,857.7L555.5,768.6L747.3,816.6L901.4,838.2Z"/><path class="region" data-id="NRU-4981" d="M983.1,408L1000,531.8L901.4,838.2L747.3,816.6L555.5,768.6L568.4,678.5L576.1,624.8L581.3,581L590,509.2L596.6,453.6L605.7,392.2L624,268.6L774.7,357.7L983.1,408Z"/><path class="region" data-id="NRU-4980" d="M947.6,147.6L983.1,408L774.7,357.7L624,268.6L947.6,147.6Z"/><path class="region" data-id="NRU-4979" d="M620.6,0L947.6,147.6L624,268.6L620.6,0Z"/><path class="region" data-id="NRU-4970" d="M568.4,678.5L555.5,768.6L356.9,857.7L255.5,943.8L213.1,871.3L178.9,754.9L192.6,659L261,590.5L418.6,631.6L568.4,678.5Z"/></g>
+    <g id="gL"></g>
+    <g id="gP"><g class="poi g-other in-cluster" data-id="nauru-yaren-cities-v2" data-name="Yaren" data-search="yaren" data-grp="other" data-url="/ro/nauru/nr/yaren/" transform="translate(189.3,1097.9)"><circle r="3.5"/></g><g class="poi g-city" data-id="nauru-aiwo-cities-v2" data-name="Aiwo" data-search="aiwo" data-grp="city" data-url="/ro/nauru/nr/aiwo/" transform="translate(189.3,836.6)"><circle r="5"/></g><g class="poi g-city" data-id="nauru-boe-cities-v2" data-name="Boe" data-search="boe" data-grp="city" data-url="/ro/nauru/nr/boe/" transform="translate(189.3,1000.4)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="nauru-denigomodu-cities-v2" data-name="Denigomodu" data-search="denigomodu" data-grp="city" data-url="/ro/nauru/nr/denigomodu/" transform="translate(97.7,674.7)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="nauru-meneng-cities-v2" data-name="Meneng" data-search="meneng" data-grp="city" data-url="/ro/nauru/nr/meneng/" transform="translate(604.8,1123.3)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="nauru-anibare-cities-v2" data-name="Anibare" data-search="anibare" data-grp="city" data-url="/ro/nauru/nr/anibare/" transform="translate(897.3,869.7)"><circle r="5"/></g><g class="poi g-city" data-id="nauru-buada-cities-v2" data-name="Buada" data-search="buada" data-grp="city" data-url="/ro/nauru/nr/buada/" transform="translate(351.2,830.7)"><circle r="5"/></g><g class="poi g-city" data-id="nauru-nibok-cities-v2" data-name="Nibok" data-search="nibok" data-grp="city" data-url="/ro/nauru/nr/nibok/" transform="translate(214.7,596.7)"><circle r="5"/></g><g class="poi g-city" data-id="nauru-uaboe-cities-v2" data-name="Uaboe" data-search="uaboe" data-grp="city" data-url="/ro/nauru/nr/uaboe/" transform="translate(292.7,479.6)"><circle r="5"/></g><g class="poi g-city" data-id="nauru-baitsi-cities-v2" data-name="Baitsi" data-search="baitsi" data-grp="city" data-url="/ro/nauru/nr/baitsi/" transform="translate(390.2,362.6)"><circle r="5"/></g><g class="poi g-city" data-id="nauru-ewa-cities-v2" data-name="Ewa" data-search="ewa" data-grp="city" data-url="/ro/nauru/nr/ewa/" transform="translate(565.8,226)"><circle r="5"/></g><g class="poi g-city" data-id="nauru-anetan-cities-v2" data-name="Anetan" data-search="anetan" data-grp="city" data-url="/ro/nauru/nr/anetan/" transform="translate(721.8,265.1)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="nauru-anabar-cities-v2" data-name="Anabar" data-search="anabar" data-grp="city" data-url="/ro/nauru/nr/anabar/" transform="translate(897.3,343.1)"><circle r="5"/></g><g class="poi g-city in-cluster" data-id="nauru-arenibek-cities-v2" data-name="Arenibek" data-search="arenibek" data-grp="city" data-url="/ro/nauru/nr/arenibek/" transform="translate(887.6,352.8)"><circle r="5"/></g><g class="poi g-industry" data-id="nauru-ronphos-hq-economic-v2" data-name="Sediul Central RONPHOS" data-search="ronphos-hauptquartier|ronphos kozpont|sediul central ronphos|ronphos headquarters" data-grp="industry" data-url="/ro/nauru/nr/sediul-central-ronphos/" transform="translate(125,834.6)"><circle r="3.5"/></g><g class="poi g-industry in-cluster" data-id="nauru-aiwo-port-economic-v2" data-name="Portul Aiwo" data-search="hafen von aiwo|aiwo kikoto|portul aiwo|aiwo port" data-grp="industry" data-url="/ro/nauru/nr/portul-aiwo/" transform="translate(82.1,891.2)"><circle r="3.5"/></g><g class="poi g-industry" data-id="nauru-anibare-harbour-economic-v2" data-name="Portul Anibare" data-search="bootshafen anibare|anibare kikoto|portul anibare|anibare boat harbour" data-grp="industry" data-url="/ro/nauru/nr/portul-anibare/" transform="translate(907.1,924.3)"><circle r="3.5"/></g><g class="poi g-industry in-cluster" data-id="nauru-solar-plant-economic-v2" data-name="Parcul Solar Nauru" data-search="nauru solarpark|nauru naperomu|parcul solar nauru|nauru solar plant" data-grp="industry" data-url="/ro/nauru/nr/parcul-solar-nauru/" transform="translate(255.6,1133)"><circle r="3.5"/></g><g class="poi g-industry" data-id="nauru-nrc-hq-economic-v2" data-name="Corporația de Reabilitare Nauru (NRC)" data-search="nauru rehabilitation corporation (nrc)|nauru rehabilitacios vallalat (nrc)|corporatia de reabilitare nauru (nrc)" data-grp="industry" data-url="/ro/nauru/nr/corporatia-de-reabilitare-nauru-nrc/" transform="translate(249.8,821)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-eigigu-supermarket-economic-v2" data-name="Supermarketul Eigigu" data-search="eigigu-supermarkt|eigigu szupermarket|supermarketul eigigu|eigigu supermarket" data-grp="sight" data-url="/ro/nauru/nr/supermarketul-eigigu/" transform="translate(140.6,684.4)"><circle r="3.5"/></g><g class="poi g-industry in-cluster" data-id="nauru-phosphate-cantilever-economic-v2" data-name="Cantileverul de Fofat" data-search="phosphat-verladebrucken|foszfatrakodo konzolok|cantileverul de fofat|phosphate cantilevers" data-grp="industry" data-url="/ro/nauru/nr/cantileverul-de-fofat/" transform="translate(68.4,885.3)"><circle r="3.5"/></g><g class="poi g-industry" data-id="nauru-utilities-corp-economic-v2" data-name="Corporația de Utilități Nauru (NUC)" data-search="nauru utilities corporation (nuc)|nauru kozmuvallalat (nuc)|corporatia de utilitati nauru (nuc)" data-grp="industry" data-url="/ro/nauru/nr/corporatia-de-utilitati-nauru-nuc/" transform="translate(107.4,860)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-nfmra-economic-v2" data-name="Autoritatea de Pescuit (NFMRA)" data-search="fischereibehorde (nfmra)|halaszati hatosag (nfmra)|autoritatea de pescuit (nfmra)|fisheries authority (nfmra)" data-grp="sight" data-url="/ro/nauru/nr/autoritatea-de-pescuit-nfmra/" transform="translate(893.4,938)"><circle r="3.5"/></g><g class="poi g-city" data-id="nauru-denig-settlement-economic-v2" data-name="Așezarea Denigomodu" data-search="siedlung denigomodu|denigomodu telepules|asezarea denigomodu|denigomodu settlement" data-grp="city" data-url="/ro/nauru/nr/asezarea-denigomodu/" transform="translate(165.9,664.9)"><circle r="5"/></g><g class="poi g-sight" data-id="nauru-command-ridge-guns-history-v2" data-name="Tunurile de pe Command Ridge" data-search="geschutze am command ridge|command ridge agyuk|tunurile de pe command ridge|command ridge guns" data-grp="sight" data-url="/ro/nauru/nr/tunurile-de-pe-command-ridge/" transform="translate(158.1,795.6)"><circle r="3.5"/></g><g class="poi g-industry in-cluster" data-id="nauru-old-cantilever-history-v2" data-name="Vechiul cantilever de fosfat" data-search="alter phosphat-ausleger|regi foszfatrakodo|vechiul cantilever de fosfat|old phosphate cantilever" data-grp="industry" data-url="/ro/nauru/nr/vechiul-cantilever-de-fosfat/" transform="translate(62.6,899)"><circle r="3.5"/></g><g class="poi g-sight in-cluster" data-id="nauru-pow-memorial-history-v2" data-name="Monumentul prizonierilor de război" data-search="kriegsgefangenen-denkmal|hadifogoly emlekmu|monumentul prizonierilor de razboi|pow memorial" data-grp="sight" data-url="/ro/nauru/nr/monumentul-prizonierilor-de-razboi/" transform="translate(263.4,1127.2)"><circle r="3.5"/></g><g class="poi g-other" data-id="nauru-naoero-museum-history-v2" data-name="Muzeul Naoero" data-search="naoero museum|naoero muzeum|muzeul naoero" data-grp="other" data-url="/ro/nauru/nr/muzeul-naoero/" transform="translate(238.1,1086.2)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-anabar-caves-history-v2" data-name="Peșterile Anabar" data-search="anabar-hohlen|anabar-barlangok|pesterile anabar|anabar caves" data-grp="sight" data-url="/ro/nauru/nr/pesterile-anabar/" transform="translate(756.9,391.8)"><circle r="3.5"/></g><g class="poi g-city" data-id="nauru-buada-settlement-site-history-v2" data-name="Așezarea istorică Buada" data-search="historische siedlung buada|buada tortenelmi telepules|asezarea istorica buada|buada historic settlement" data-grp="city" data-url="/ro/nauru/nr/asezarea-istorica-buada/" transform="translate(314.2,854.1)"><circle r="5"/></g><g class="poi g-sight" data-id="nauru-phosphate-discovery-site-history-v2" data-name="Locul descoperirii fosfatului" data-search="stelle der phosphat-entdeckung|a foszfat felfedezesenek helye|locul descoperirii fosfatului|phosphate discovery site" data-grp="sight" data-url="/ro/nauru/nr/locul-descoperirii-fosfatului/" transform="translate(456.5,774.1)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-state-house-history-v2" data-name="Vechea Casă de Stat" data-search="altes state house|regi allami haz|vechea casa de stat|old state house" data-grp="sight" data-url="/ro/nauru/nr/vechea-casa-de-stat/" transform="translate(171.8,1146.7)"><circle r="3.5"/></g><g class="poi g-other" data-id="nauru-japanese-hospital-ruins-history-v2" data-name="Ruinele spitalului japonez" data-search="ruinen des japanischen lazaretts|japan katonai korhaz romjai|ruinele spitalului japonez|japanese hospital ruins" data-grp="other" data-url="/ro/nauru/nr/ruinele-spitalului-japonez/" transform="translate(203,885.3)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-bpc-office-history-v2" data-name="Clădirea administrativă BPC" data-search="bpc-verwaltungsgebaude|bpc adminisztracios epulet|cladirea administrativa bpc|bpc administration building" data-grp="sight" data-url="/ro/nauru/nr/cladirea-administrativa-bpc/" transform="translate(99.6,932.1)"><circle r="3.5"/></g><g class="poi g-industry" data-id="nauru-anibare-landing-site-history-v2" data-name="Locul de debarcare Anibare" data-search="anibare-landungsstelle|anibare partraszallasi hely|locul de debarcare anibare|anibare landing site" data-grp="industry" data-url="/ro/nauru/nr/locul-de-debarcare-anibare/" transform="translate(899.3,906.8)"><circle r="3.5"/></g><g class="poi g-other" data-id="nauru-aiwo-church-history-v2" data-name="Biserica istorică din Aiwo" data-search="historische kirche von aiwo|aiwo tortenelmi temploma|biserica istorica din aiwo|aiwo historic church" data-grp="other" data-url="/ro/nauru/nr/biserica-istorica-din-aiwo/" transform="translate(87.9,912.6)"><circle r="3.5"/></g><g class="poi g-other" data-id="nauru-civil-administration-ruins-history-v2" data-name="Ruinele administrației civile" data-search="ruinen der zivilverwaltung|polgari kozigazgatas romjai|ruinele administratiei civile|civil administration ruins" data-grp="other" data-url="/ro/nauru/nr/ruinele-administratiei-civile/" transform="translate(181.5,1113.5)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-centenary-complex-history-v2" data-name="Complexul Centenar" data-search="centenary complex|centenariumi komplexum|complexul centenar" data-grp="sight" data-url="/ro/nauru/nr/complexul-centenar/" transform="translate(216.6,1068.7)"><circle r="3.5"/></g><g class="poi g-sight in-cluster" data-id="nauru-parliament-house-landmarks-v2" data-name="Casa Parlamentului din Nauru" data-search="parlamentsgebaude von nauru|naurui orszaghaz|casa parlamentului din nauru|parliament house of nauru" data-grp="sight" data-url="/ro/nauru/nr/casa-parlamentului-din-nauru/" transform="translate(175.7,1103.8)"><circle r="3.5"/></g><g class="poi g-other" data-id="nauru-museum-landmarks-v2" data-name="Muzeul Național Nauru" data-search="nauru museum|naurui muzeum|muzeul national nauru" data-grp="other" data-url="/ro/nauru/nr/muzeul-national-nauru/" transform="translate(468.2,1064.8)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-command-ridge-landmarks-v2" data-name="Creasta Command" data-search="command ridge|command ridge kilatohely|creasta command" data-grp="sight" data-url="/ro/nauru/nr/creasta-command/" transform="translate(214.7,791.7)"><circle r="3.5"/></g><g class="poi g-industry" data-id="nauru-phosphate-cantilever-landmarks-v2" data-name="Terminalul de fosfat" data-search="phosphat-verladearm|foszfatrakodo daru|terminalul de fosfat|phosphate cantilever" data-grp="industry" data-url="/ro/nauru/nr/terminalul-de-fosfat/" transform="translate(78.2,733.2)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-civic-centre-landmarks-v2" data-name="Centrul Civic Aiwo" data-search="burgerzentrum aiwo|aiwo kozossegi kozpont|centrul civic aiwo|aiwo civic centre" data-grp="sight" data-url="/ro/nauru/nr/centrul-civic-aiwo/" transform="translate(117.2,791.7)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-yaren-police-station-landmarks-v2" data-name="Secția de Poliție Yaren" data-search="polizeistation yaren|yaren rendorseg|sectia de politie yaren|yaren police station" data-grp="sight" data-url="/ro/nauru/nr/sectia-de-politie-yaren/" transform="translate(195.2,1123.3)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-menen-hotel-landmarks-v2" data-name="Hotelul Menen" data-search="menen hotel|hotelul menen" data-grp="sight" data-url="/ro/nauru/nr/hotelul-menen/" transform="translate(858.3,967.3)"><circle r="3.5"/></g><g class="poi g-industry" data-id="nauru-airport-terminal-landmarks-v2" data-name="Terminalul Aeroportului Nauru" data-search="nauru flughafen terminal|naurui repuloter terminal|terminalul aeroportului nauru|nauru airport terminal" data-grp="industry" data-url="/ro/nauru/nr/terminalul-aeroportului-nauru/" transform="translate(214.7,1103.8)"><circle r="3.5"/></g><g class="poi g-sight in-cluster" data-id="nauru-moqua-well-landmarks-v2" data-name="Puțul Moqua" data-search="moqua well|moqua-kut|putul moqua" data-grp="sight" data-url="/ro/nauru/nr/putul-moqua/" transform="translate(253.7,1142.8)"><circle r="3.5"/></g><g class="poi g-other" data-id="nauru-japanese-prison-ruins-landmarks-v2" data-name="Ruinele închisorii japoneze" data-search="ruinen des japanischen gefangnisses|japan bortonromok|ruinele inchisorii japoneze|japanese prison ruins" data-grp="other" data-url="/ro/nauru/nr/ruinele-inchisorii-japoneze/" transform="translate(702.3,362.6)"><circle r="3.5"/></g><g class="poi g-other" data-id="nauru-state-house-landmarks-v2" data-name="Casa de Stat din Nauru" data-search="staatshaus von nauru|naurui allami haz|casa de stat din nauru|nauru state house" data-grp="other" data-url="/ro/nauru/nr/casa-de-stat-din-nauru/" transform="translate(741.3,947.7)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-general-hospital-landmarks-v2" data-name="Spitalul General Nauru" data-search="nauru allgemeines krankenhaus|naurui altalanos korhaz|spitalul general nauru|nauru general hospital" data-grp="sight" data-url="/ro/nauru/nr/spitalul-general-nauru/" transform="translate(156.2,733.2)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-central-pacific-bank-landmarks-v2" data-name="Banca Centrală a Pacificului" data-search="zentralpazifik-bank|kozep-csendes-oceani bank|banca centrala a pacificului|central pacific bank" data-grp="sight" data-url="/ro/nauru/nr/banca-centrala-a-pacificului/" transform="translate(97.7,772.2)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-post-office-landmarks-v2" data-name="Oficiul Poștal Nauru" data-search="nauru postamt|naurui postahivatal|oficiul postal nauru|nauru post office" data-grp="sight" data-url="/ro/nauru/nr/oficiul-postal-nauru/" transform="translate(117.2,811.2)"><circle r="3.5"/></g><g class="poi g-industry" data-id="nauru-cantilever-two-landmarks-v2" data-name="Al doilea terminal de fosfat" data-search="zweiter verladearm|masodik rakodokar|al doilea terminal de fosfat|second cantilever" data-grp="industry" data-url="/ro/nauru/nr/al-doilea-terminal-de-fosfat/" transform="translate(78.2,791.7)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-buada-lagoon-life-v2" data-name="Laguna Buada" data-search="buada-lagune|buada-laguna|laguna buada|buada lagoon" data-grp="nature" data-url="/ro/nauru/nr/laguna-buada/" transform="translate(314.2,836.6)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="nauru-anibare-bay-reef-life-v2" data-name="Reciful din Golful Anibare" data-search="anibare-bucht-riff|anibare-obol zatony|reciful din golful anibare|anibare bay reef" data-grp="nature" data-url="/ro/nauru/nr/reciful-din-golful-anibare/" transform="translate(907.1,873.6)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-topside-plateau-ferns-life-v2" data-name="Ferigile de pe Platoul Central" data-search="farne des zentralplateaus|kozponti-fennsik pafranyai|ferigile de pe platoul central|central plateau ferns" data-grp="nature" data-url="/ro/nauru/nr/ferigile-de-pe-platoul-central/" transform="translate(550.2,742.9)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-command-ridge-forest-life-v2" data-name="Pădurea Command Ridge" data-search="command-ridge-wald|command ridge erdo|padurea command ridge|command ridge forest" data-grp="nature" data-url="/ro/nauru/nr/padurea-command-ridge/" transform="translate(165.9,774.1)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-moqua-well-area-life-v2" data-name="Zona Moqua Well" data-search="moqua-well-gebiet|moqua well kornyeke|zona moqua well|moqua well area" data-grp="sight" data-url="/ro/nauru/nr/zona-moqua-well/" transform="translate(472.1,1127.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-ijuw-mangroves-life-v2" data-name="Mangrovele din Ijuw" data-search="ijuw-mangroven|ijuw-mangroveerdo|mangrovele din ijuw|ijuw mangroves" data-grp="nature" data-url="/ro/nauru/nr/mangrovele-din-ijuw/" transform="translate(938.3,547.9)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-nibok-shrubland-life-v2" data-name="Zona de arbuști din Nibok" data-search="nibok-buschland|nibok cserjes|zona de arbusti din nibok|nibok shrubland" data-grp="nature" data-url="/ro/nauru/nr/zona-de-arbusti-din-nibok/" transform="translate(218.6,391.8)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-meneng-pandanus-groves-life-v2" data-name="Crângurile de pandanus din Meneng" data-search="meneng-pandanus-haine|meneng pandanus ligetek|crangurile de pandanus din meneng|meneng pandanus groves" data-grp="nature" data-url="/ro/nauru/nr/crangurile-de-pandanus-din-meneng/" transform="translate(751.1,1068.7)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-anetan-frigatebird-nesting-life-v2" data-name="Locul de cuibărit din Anetan" data-search="anetan-vogelbrutstatte|anetan madarfeszkelo hely|locul de cuibarit din anetan|anetan bird nesting site" data-grp="nature" data-url="/ro/nauru/nr/locul-de-cuibarit-din-anetan/" transform="translate(684.7,288.5)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="nauru-buada-district-gardens-life-v2" data-name="Grădinile din Buada" data-search="garten von buada|buada kertjei|gradinile din buada|buada district gardens" data-grp="nature" data-url="/ro/nauru/nr/gradinile-din-buada/" transform="translate(263.4,879.5)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="nauru-denigomodu-casuarinas-life-v2" data-name="Casuarinele din Denigomodu" data-search="denigomodu-kasuarinen|denigomodu kazuarfak|casuarinele din denigomodu|denigomodu casuarinas" data-grp="nature" data-url="/ro/nauru/nr/casuarinele-din-denigomodu/" transform="translate(107.4,684.4)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="nauru-aiwo-mangroves-life-v2" data-name="Mangrovele din Aiwo" data-search="aiwo-mangroven|aiwo-mangrove|mangrovele din aiwo|aiwo mangroves" data-grp="nature" data-url="/ro/nauru/nr/mangrovele-din-aiwo/" transform="translate(62.6,821)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-boe-coastal-flora-life-v2" data-name="Flora din Boe" data-search="flora von boe|boe floraja|flora din boe|boe coastal flora" data-grp="nature" data-url="/ro/nauru/nr/flora-din-boe/" transform="translate(165.9,971.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-yaren-greenbelt-life-v2" data-name="Centura verde din Yaren" data-search="grungurtel von yaren|yaren zoldovezete|centura verde din yaren|yaren greenbelt" data-grp="nature" data-url="/ro/nauru/nr/centura-verde-din-yaren/" transform="translate(296.6,1113.5)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-conservation-nursery-life-v2" data-name="Pepiniera de conservare" data-search="naturschutz-baumschule|termeszetvedelmi faiskola|pepiniera de conservare|conservation nursery" data-grp="nature" data-url="/ro/nauru/nr/pepiniera-de-conservare/" transform="translate(458.5,625.9)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-anibare-bay-nature-v2" data-name="Golful Anibare" data-search="anibare-bucht|anibare-obol|golful anibare|anibare bay" data-grp="nature" data-url="/ro/nauru/nr/golful-anibare/" transform="translate(838.8,908.7)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-anibare-pinnacles-nature-v2" data-name="Coloanele Anibare" data-search="anibare-felsnadeln|anibare-sziklatornyok|coloanele anibare|anibare pinnacles" data-grp="sight" data-url="/ro/nauru/nr/coloanele-anibare/" transform="translate(858.3,928.2)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-moqua-caves-nature-v2" data-name="Peșterile Moqua" data-search="moqua-hohlen|moqua-barlangok|pesterile moqua|moqua caves" data-grp="sight" data-url="/ro/nauru/nr/pesterile-moqua/" transform="translate(156.2,1123.3)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-ijuw-coastline-nature-v2" data-name="Coasta Ijuw" data-search="ijuw-kuste|ijuw-partvidek|coasta ijuw|ijuw coastline" data-grp="nature" data-url="/ro/nauru/nr/coasta-ijuw/" transform="translate(897.3,616.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-anabar-lagoon-nature-v2" data-name="Laguna Anabar" data-search="anabar-lagune|anabar-laguna|laguna anabar|anabar lagoon" data-grp="nature" data-url="/ro/nauru/nr/laguna-anabar/" transform="translate(741.3,401.6)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="nauru-meneng-beach-nature-v2" data-name="Plaja Meneng" data-search="meneng-strand|plaja meneng|meneng beach" data-grp="nature" transform="translate(604.8,1123.3)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-ewa-reef-nature-v2" data-name="Reciful Ewa" data-search="ewa-riff|ewa-zatony|reciful ewa|ewa reef" data-grp="nature" data-url="/ro/nauru/nr/reciful-ewa/" transform="translate(604.8,284.6)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-yangor-cliffs-nature-v2" data-name="Stâncile Yangor" data-search="yangor-klippen|yangor-sziklak|stancile yangor|yangor cliffs" data-grp="sight" data-url="/ro/nauru/nr/stancile-yangor/" transform="translate(39.1,889.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-boe-coral-belt-nature-v2" data-name="Centura de Corali Boe" data-search="boe-korallengurtel|boe-korallov|centura de corali boe|boe coral belt" data-grp="nature" data-url="/ro/nauru/nr/centura-de-corali-boe/" transform="translate(97.7,1006.3)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-nibok-palms-nature-v2" data-name="Palmierii Nibok" data-search="nibok-palmenhaine|nibok-palmaligetek|palmierii nibok|nibok palms" data-grp="nature" data-url="/ro/nauru/nr/palmierii-nibok/" transform="translate(253.7,538.1)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="nauru-denigomodu-coast-nature-v2" data-name="Coasta Denigomodu" data-search="denigomodu-kuste|denigomodu-part|coasta denigomodu|denigomodu coast" data-grp="nature" data-url="/ro/nauru/nr/coasta-denigomodu/" transform="translate(97.7,694.2)"><circle r="3.5"/></g><g class="poi g-sight in-cluster" data-id="nauru-aiwo-pinnacles-nature-v2" data-name="Coloanele Aiwo" data-search="aiwo-felsnadeln|aiwo-sziklatornyok|coloanele aiwo|aiwo pinnacles" data-grp="sight" data-url="/ro/nauru/nr/coloanele-aiwo/" transform="translate(58.7,830.7)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-buada-pandanus-groves-nature-v2" data-name="Crângurile de Pandanus Buada" data-search="buada-pandanus-haine|buada-pandanuszligetek|crangurile de pandanus buada|buada pandanus groves" data-grp="nature" data-url="/ro/nauru/nr/crangurile-de-pandanus-buada/" transform="translate(292.7,869.7)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-anibare-forest-nature-v2" data-name="Pădurea Anibare" data-search="anibare-wald|anibare-erdo|padurea anibare|anibare forest" data-grp="nature" data-url="/ro/nauru/nr/padurea-anibare/" transform="translate(780.3,811.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-north-cape-nature-v2" data-name="Capul de Nord Nauru" data-search="nordkap nauru|nauru eszaki foka|capul de nord nauru|north cape nauru" data-grp="nature" data-url="/ro/nauru/nr/capul-de-nord-nauru/" transform="translate(507.3,265.1)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-anibare-escarpment-relief-v2" data-name="Escarpamentul Anibare" data-search="anibare-abhang|anibare-sziklafal|escarpamentul anibare|anibare escarpment" data-grp="sight" data-url="/ro/nauru/nr/escarpamentul-anibare/" transform="translate(799.8,869.7)"><circle r="3.5"/></g><g class="poi g-nature in-cluster" data-id="nauru-buada-basin-relief-v2" data-name="Bazinul Buada" data-search="buada-becken|buada-medence|bazinul buada|buada basin" data-grp="nature" data-url="/ro/nauru/nr/bazinul-buada/" transform="translate(273.2,889.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-western-slopes-relief-v2" data-name="Pantele Vestice" data-search="westliche hange|nyugati lejtok|pantele vestice|western slopes" data-grp="nature" data-url="/ro/nauru/nr/pantele-vestice/" transform="translate(97.7,733.2)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-northern-uplands-relief-v2" data-name="Ținuturile Înalte de Nord" data-search="nordliches hochland|eszaki-fennsikvidek|tinuturile inalte de nord|northern uplands" data-grp="nature" data-url="/ro/nauru/nr/tinuturile-inalte-de-nord/" transform="translate(487.8,421.1)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-meneng-terrace-relief-v2" data-name="Terasa Meneng" data-search="meneng-terrasse|meneng-terasz|terasa meneng|meneng terrace" data-grp="sight" data-url="/ro/nauru/nr/terasa-meneng/" transform="translate(546.3,1064.8)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-phosphate-pinnacles-relief-v2" data-name="Pinnacles de Fosfat" data-search="phosphat-zinnenturme|foszfat-sziklatuk|pinnacles de fosfat|phosphate pinnacles" data-grp="sight" data-url="/ro/nauru/nr/pinnacles-de-fosfat/" transform="translate(546.3,772.2)"><circle r="3.5"/></g><g class="poi g-sight" data-id="nauru-eastern-rim-relief-v2" data-name="Marginea Estică a Podișului" data-search="ostlicher plateaurand|keleti fennsikperem|marginea estica a podisului|eastern plateau rim" data-grp="sight" data-url="/ro/nauru/nr/marginea-estica-a-podisului/" transform="translate(838.8,674.7)"><circle r="3.5"/></g><g class="poi g-nature" data-id="nauru-interior-lowland-relief-v2" data-name="Depresiunea Interioară" data-search="inneres tiefland|belso melyfold|depresiunea interioara|interior lowland" data-grp="nature" data-url="/ro/nauru/nr/depresiunea-interioara/" transform="translate(253.7,967.3)"><circle r="3.5"/></g></g>
+    <g id="gC"><g class="cluster" data-i="0" data-grps="other,sight" data-cx="182.5" data-cy="1100.8" transform="translate(182.5,1100.8)"><circle r="8.0" fill="#9ca3af" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g><g class="cluster" data-i="1" data-grps="city,nature" data-cx="100.9" data-cy="684.4" transform="translate(100.9,684.4)"><circle r="9.2" fill="#22c55e" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="10.1" font-weight="800" fill="#0a0a1f">3</text></g><g class="cluster" data-i="2" data-grps="city,nature" data-cx="604.8" data-cy="1123.3" transform="translate(604.8,1123.3)"><circle r="8.0" fill="#60a5fa" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g><g class="cluster" data-i="3" data-grps="city,nature" data-cx="902.2" data-cy="871.7" transform="translate(902.2,871.7)"><circle r="8.0" fill="#60a5fa" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g><g class="cluster" data-i="4" data-grps="city" data-cx="892.5" data-cy="348.0" transform="translate(892.5,348.0)"><circle r="8.0" fill="#60a5fa" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g><g class="cluster" data-i="5" data-grps="industry" data-cx="71.0" data-cy="891.8" transform="translate(71.0,891.8)"><circle r="9.2" fill="#fb923c" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="10.1" font-weight="800" fill="#0a0a1f">3</text></g><g class="cluster" data-i="6" data-grps="industry,sight" data-cx="257.6" data-cy="1134.3" transform="translate(257.6,1134.3)"><circle r="9.2" fill="#fbbf24" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="10.1" font-weight="800" fill="#0a0a1f">3</text></g><g class="cluster" data-i="7" data-grps="nature" data-cx="268.3" data-cy="884.4" transform="translate(268.3,884.4)"><circle r="8.0" fill="#22c55e" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g><g class="cluster" data-i="8" data-grps="nature,sight" data-cx="60.7" data-cy="825.9" transform="translate(60.7,825.9)"><circle r="8.0" fill="#22c55e" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="8.8" font-weight="800" fill="#0a0a1f">2</text></g></g>
+  </svg>
+  <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
+</div>
+<div class="hint">Atinge un loc pentru detalii</div>
+<div class="popup" id="popup" role="dialog" aria-modal="false">
+  <button class="x" id="px" aria-label="close">×</button>
+  <div class="single">
+    <div class="type" id="ptype"></div>
+    <h2 id="pname"></h2>
+    <a class="more" id="pmore" href="#">Detalii →</a>
+  </div>
+  <div class="list" id="plist"></div>
+</div>
+<script>
+const LANG="ro",W=1000,H=1198.45;
+const CLUSTERS=[[{"id":"nauru-yaren-cities-v2","name":"Yaren","grp":"other","url":"/ro/nauru/nr/yaren/","cx":189.3,"cy":1097.9},{"id":"nauru-parliament-house-landmarks-v2","name":"Casa Parlamentului din Nauru","grp":"sight","url":"/ro/nauru/nr/casa-parlamentului-din-nauru/","cx":175.7,"cy":1103.8}],[{"id":"nauru-denigomodu-cities-v2","name":"Denigomodu","grp":"city","url":"/ro/nauru/nr/denigomodu/","cx":97.7,"cy":674.7},{"id":"nauru-denigomodu-casuarinas-life-v2","name":"Casuarinele din Denigomodu","grp":"nature","url":"/ro/nauru/nr/casuarinele-din-denigomodu/","cx":107.4,"cy":684.4},{"id":"nauru-denigomodu-coast-nature-v2","name":"Coasta Denigomodu","grp":"nature","url":"/ro/nauru/nr/coasta-denigomodu/","cx":97.7,"cy":694.2}],[{"id":"nauru-meneng-cities-v2","name":"Meneng","grp":"city","url":"/ro/nauru/nr/meneng/","cx":604.8,"cy":1123.3},{"id":"nauru-meneng-beach-nature-v2","name":"Plaja Meneng","grp":"nature","url":null,"cx":604.8,"cy":1123.3}],[{"id":"nauru-anibare-cities-v2","name":"Anibare","grp":"city","url":"/ro/nauru/nr/anibare/","cx":897.3,"cy":869.7},{"id":"nauru-anibare-bay-reef-life-v2","name":"Reciful din Golful Anibare","grp":"nature","url":"/ro/nauru/nr/reciful-din-golful-anibare/","cx":907.1,"cy":873.6}],[{"id":"nauru-anabar-cities-v2","name":"Anabar","grp":"city","url":"/ro/nauru/nr/anabar/","cx":897.3,"cy":343.1},{"id":"nauru-arenibek-cities-v2","name":"Arenibek","grp":"city","url":"/ro/nauru/nr/arenibek/","cx":887.6,"cy":352.8}],[{"id":"nauru-aiwo-port-economic-v2","name":"Portul Aiwo","grp":"industry","url":"/ro/nauru/nr/portul-aiwo/","cx":82.1,"cy":891.2},{"id":"nauru-phosphate-cantilever-economic-v2","name":"Cantileverul de Fofat","grp":"industry","url":"/ro/nauru/nr/cantileverul-de-fofat/","cx":68.4,"cy":885.3},{"id":"nauru-old-cantilever-history-v2","name":"Vechiul cantilever de fosfat","grp":"industry","url":"/ro/nauru/nr/vechiul-cantilever-de-fosfat/","cx":62.6,"cy":899}],[{"id":"nauru-solar-plant-economic-v2","name":"Parcul Solar Nauru","grp":"industry","url":"/ro/nauru/nr/parcul-solar-nauru/","cx":255.6,"cy":1133},{"id":"nauru-pow-memorial-history-v2","name":"Monumentul prizonierilor de război","grp":"sight","url":"/ro/nauru/nr/monumentul-prizonierilor-de-razboi/","cx":263.4,"cy":1127.2},{"id":"nauru-moqua-well-landmarks-v2","name":"Puțul Moqua","grp":"sight","url":"/ro/nauru/nr/putul-moqua/","cx":253.7,"cy":1142.8}],[{"id":"nauru-buada-district-gardens-life-v2","name":"Grădinile din Buada","grp":"nature","url":"/ro/nauru/nr/gradinile-din-buada/","cx":263.4,"cy":879.5},{"id":"nauru-buada-basin-relief-v2","name":"Bazinul Buada","grp":"nature","url":"/ro/nauru/nr/bazinul-buada/","cx":273.2,"cy":889.2}],[{"id":"nauru-aiwo-mangroves-life-v2","name":"Mangrovele din Aiwo","grp":"nature","url":"/ro/nauru/nr/mangrovele-din-aiwo/","cx":62.6,"cy":821},{"id":"nauru-aiwo-pinnacles-nature-v2","name":"Coloanele Aiwo","grp":"sight","url":"/ro/nauru/nr/coloanele-aiwo/","cx":58.7,"cy":830.7}]];
+const svg=document.getElementById('svg'),stage=document.getElementById('stage');
+const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
+const EXPAND_SCALE=6;
+let s=1,tx=0,ty=0;
+function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE)}
+function clmp(v){return Math.max(.5,Math.min(8,v))}
+function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
+function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
+function zoomCenter(f){const r=svg.getBoundingClientRect();zoomAt(f,r.left+r.width/2,r.top+r.height/2)}
+let dr=false,dx=0,dy=0;
+svg.addEventListener('pointerdown',e=>{if(e.target.closest('.poi'))return;if(e.isPrimary===false)return;dr=true;dx=e.clientX;dy=e.clientY;svg.classList.add('drag');svg.setPointerCapture(e.pointerId)});
+svg.addEventListener('pointermove',e=>{if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()});
+svg.addEventListener('pointerup',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('pointercancel',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('wheel',e=>{e.preventDefault();zoomAt(e.deltaY<0?1.15:1/1.15,e.clientX,e.clientY)},{passive:false});
+document.getElementById('zin').onclick=()=>zoomCenter(1.3);
+document.getElementById('zout').onclick=()=>zoomCenter(1/1.3);
+let pD=0,pS=1;
+svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
+svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
+const pop=document.getElementById('popup');
+const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function clearMode(){pop.classList.remove('mode-single','mode-list')}
+function openPopup(el){document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));el.classList.add('active');const t=el.getAttribute('data-grp')||'';document.getElementById('ptype').textContent=t;document.getElementById('pname').textContent=el.getAttribute('data-name')||el.getAttribute('data-id');const u=el.getAttribute('data-url');const moreBtn=document.getElementById('pmore');if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}clearMode();pop.classList.add('mode-single','open')}
+function openClusterList(i){const all=CLUSTERS[i];if(!all)return;const list=all.filter(p=>activeGrps.has(p.grp));const el=document.getElementById('plist');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(p=>p.url?'<a href="'+p.url+'"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+'"></span><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></a>':'<div class="nl"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+';display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:.5rem"></span>'+escAttrJs(p.name)+'</div>').join('');clearMode();pop.classList.add('mode-list','open')}
+function escAttrJs(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
+if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openClusterList(+cl.getAttribute('data-i'))})}
+function closePopup(){pop.classList.remove('open');clearMode();document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}
+document.getElementById('px').onclick=closePopup;
+stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.cluster')&&!e.target.closest('.popup')){closePopup()}});
+// Chip toggle: hide POIs of disabled group
+const activeGrps=new Set(["city","sight","nature","industry","other"]);
+function applyGrpFilter(){
+  gP.querySelectorAll('.poi').forEach(p=>{const g=p.getAttribute('data-grp');p.classList.toggle('hidden',!activeGrps.has(g))});
+  // Cluster + reveal-id computation moved to applySearch() so chip + search
+  // combine consistently. Just re-trigger applySearch (it reads activeGrps).
+  if(typeof applySearch==='function')applySearch();
+}
+document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
+// Search: dim non-matching POIs + recompute cluster visibility (only count matches)
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap'),sRes=document.getElementById('searchRes');
+function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
+// Quick lookup of POI's normalized search text + display name + group + coords by id
+const POI_INDEX={};
+gP.querySelectorAll('.poi').forEach(p=>{
+  const id=p.getAttribute('data-id');
+  const t=p.getAttribute('transform')||'';
+  const m=t.match(/translate\(([-\d.]+),([-\d.]+)\)/);
+  POI_INDEX[id]={
+    search:p.getAttribute('data-search')||'',
+    name:p.getAttribute('data-name')||id,
+    grp:p.getAttribute('data-grp')||'other',
+    url:p.getAttribute('data-url')||null,
+    cx:m?+m[1]:0,cy:m?+m[2]:0
+  };
+});
+const POI_SEARCH_BY_ID={};
+for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function applySearch(){
+  const q=norm(sIn.value.trim());
+  sW.classList.toggle('has-q',!!q);
+  // Phase 1: per-POI dim/match
+  gP.querySelectorAll('.poi').forEach(p=>{
+    if(!q){p.classList.remove('dim');p.classList.remove('match');return}
+    const t=p.getAttribute('data-search')||'';
+    const m=t.includes(q);
+    p.classList.toggle('match',m);
+    p.classList.toggle('dim',!m);
+  });
+  // Phase 2: cluster visibility — combine search match WITH group filter
+  if(!gC)return;
+  const revealIds=new Set();
+  gC.querySelectorAll('.cluster').forEach(c=>{
+    const i=+c.getAttribute('data-i');
+    const list=CLUSTERS[i]||[];
+    // POI counts as "visible" if: group active AND (no query OR matches query)
+    const vis=list.filter(p=>{
+      if(!activeGrps.has(p.grp))return false;
+      if(!q)return true;
+      return (POI_SEARCH_BY_ID[p.id]||'').includes(q);
+    });
+    const txt=c.querySelector('text');
+    if(vis.length===0){c.classList.add('hidden')}
+    else if(vis.length===1){c.classList.add('hidden');revealIds.add(vis[0].id)}
+    else{c.classList.remove('hidden');if(txt)txt.textContent=String(vis.length)}
+  });
+  gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
+    p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
+  });
+  // Phase 3: dropdown list of top matches (count ALL matching for auto-zoom decision)
+  if(!q){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  const hits=[];
+  for(const id in POI_INDEX){
+    const e=POI_INDEX[id];
+    if(!activeGrps.has(e.grp))continue;
+    if(!e.search.includes(q))continue;
+    if(hits.length<50)hits.push({id,...e});
+  }
+  // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
+  // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
+  // Compute by examining current cluster visibility (already set in Phase 2 above).
+  if(hits.length>0){
+    // Map: poi-id -> cluster index it belongs to (if any)
+    const poiToCluster={};
+    for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
+    // Group matches by their visible "thing": either a visible cluster (id of cluster) or 'solo' + poi-id.
+    // A cluster is "visible" if its DOM .cluster element does NOT have .hidden.
+    // A POI is "shown solo" if either: not in any cluster, OR in a cluster whose .cluster element IS hidden (= cluster collapsed to <=1 match).
+    const visibleClusterIdx=new Set();
+    if(gC){
+      gC.querySelectorAll('.cluster:not(.hidden)').forEach(c=>visibleClusterIdx.add(+c.getAttribute('data-i')));
+    }
+    const visibleThings=new Set();
+    for(const h of hits){
+      const ci=poiToCluster[h.id];
+      if(ci!==undefined && visibleClusterIdx.has(ci)){
+        visibleThings.add('c'+ci);
+      }else{
+        visibleThings.add('p'+h.id);
+      }
+    }
+    const onlyOneThing=visibleThings.size===1;
+    if(onlyOneThing){
+      const thing=Array.from(visibleThings)[0];
+      let cx,cy;
+      if(thing[0]==='p'){
+        // Solo POI (or revealed cluster-POI)
+        const id=thing.slice(1);
+        const e=POI_INDEX[id];
+        if(e){cx=e.cx;cy=e.cy}
+      }else{
+        // Visible cluster (c<idx>) — center = avg of cluster's POI coords
+        const ci=+thing.slice(1);
+        const cl=CLUSTERS[ci]||[];
+        let sx=0,sy=0,n=0;
+        for(const p of cl){sx+=p.cx||0;sy+=p.cy||0;n++}
+        if(n>0){cx=sx/n;cy=sy/n}
+      }
+      if(cx!==undefined){
+        // Use 4× zoom (below EXPAND_SCALE=6 so clusters stay collapsed as numbers,
+        // POI doesn't disappear into expanded form)
+        s=4;
+        tx=W/2-cx*s;
+        // Bias the target 20% above viewBox center so it's not hidden behind the search dropdown / header
+        ty=H*0.32-cy*s;
+        ap();
+        sRes.innerHTML='';
+        sRes.classList.remove('has-hits');
+        return;
+      }
+    }
+  }
+  if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  sRes.innerHTML=hits.map(h=>{
+    const grpLabel=String(h.grp);
+    return '<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+grpLabel+'</span></a>';
+  }).join('');
+  sRes.classList.add('has-hits');
+}
+sIn.addEventListener('input',applySearch);
+sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
+// Click on dropdown item: zoom-pan to POI, do NOT auto-navigate (user can click again on map dot for that)
+sRes.addEventListener('click',e=>{
+  const a=e.target.closest('a[data-id]');
+  if(!a)return;
+  e.preventDefault();
+  const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
+  s=4;
+  tx=W/2-cx*s;
+  ty=H*0.32-cy*s;
+  ap();
+  sRes.classList.remove('has-hits');
+  sIn.blur();
+});
+// Close dropdown on outside click
+document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
+</script>
+</body>
+</html>

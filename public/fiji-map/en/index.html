@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=3">
+<title>Fiji map — Plizio</title>
+<meta name="description" content="Tap a place for details">
+<link rel="canonical" href="https://plizio.com/fiji-map/en/">
+<link rel="alternate" hreflang="de" href="https://plizio.com/fiji-map/de/">
+<link rel="alternate" hreflang="hu" href="https://plizio.com/fiji-map/">
+<link rel="alternate" hreflang="ro" href="https://plizio.com/fiji-map/ro/">
+<link rel="alternate" hreflang="en" href="https://plizio.com/fiji-map/en/">
+<link rel="alternate" hreflang="x-default" href="https://plizio.com/fiji-map/">
+<meta property="og:title" content="Fiji map — Plizio">
+<meta property="og:description" content="Tap a place for details">
+<meta property="og:url" content="https://plizio.com/fiji-map/en/">
+<meta property="og:type" content="website">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;height:100%;background:#060614;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
+header{display:flex;align-items:center;gap:.6rem;padding:.65rem .9rem;background:#0a0a1f;border-bottom:1px solid #ffffff14;position:relative;z-index:5}
+header a.back{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;background:#ffffff14;color:#fff;text-decoration:none;font-weight:700}
+header a.back:active{background:#ffffff28}
+header h1{margin:0;font-size:1rem;font-weight:800;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+header .langs{display:flex;gap:.25rem}
+.lang{font-size:.7rem;font-weight:700;padding:.25rem .45rem;border-radius:6px;color:#ffffffb0;text-decoration:none;background:#ffffff10}
+.lang.on{background:#3b82f6;color:#fff}
+#stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
+#svg{width:100%;height:100%;display:block;cursor:grab}
+#svg.drag{cursor:grabbing}
+.region{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s}
+.region:hover{fill:#2d3a78}
+.label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
+.poi{cursor:pointer}
+.poi circle{fill:#9ca3af;stroke:#000;stroke-width:.5;transition:r .12s,opacity .12s}
+.poi.g-city circle{fill:#60a5fa}
+.poi.g-sight circle{fill:#fbbf24}
+.poi.g-nature circle{fill:#22c55e}
+.poi.g-history circle{fill:#c084fc}
+.poi.g-industry circle{fill:#fb923c}
+.poi.g-other circle{fill:#9ca3af}
+.poi.dim{opacity:.18}
+.poi.match circle{stroke:#fff;stroke-width:1.4}
+.poi:hover circle,.poi.active circle{r:7;fill:#fff;opacity:1}
+.controls{position:absolute;top:53px;left:0;right:0;z-index:4;padding:.4rem .55rem;display:flex;gap:.3rem;align-items:center;background:linear-gradient(180deg,#060614 0%,#06061400 100%)}
+.chips{display:flex;gap:.25rem;flex-shrink:0}
+.chip{flex-shrink:0;width:30px;height:30px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;user-select:none;padding:0;opacity:.45;transition:opacity .12s,background .12s,border-color .12s}
+.chip.on{opacity:1}
+.chip.on.g-city{background:#60a5fa22;border-color:#60a5fa70}
+.chip.on.g-sight{background:#fbbf2422;border-color:#fbbf2470}
+.chip.on.g-nature{background:#22c55e22;border-color:#22c55e70}
+.chip.on.g-history{background:#c084fc22;border-color:#c084fc70}
+.chip.on.g-industry{background:#fb923c22;border-color:#fb923c70}
+.chip.on.g-other{background:#9ca3af22;border-color:#9ca3af70}
+.chip svg{display:block}
+.search{flex:1;min-width:0;display:flex;align-items:center;gap:.3rem;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;padding:.15rem .5rem .15rem .6rem;height:30px}
+.search input{flex:1;border:none;outline:none;background:transparent;color:#fff;font-size:.82rem;padding:.25rem 0;min-width:0;font-family:inherit}
+.search input::placeholder{color:#ffffff70}
+.search-results{position:absolute;top:34px;left:0;right:0;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;max-height:280px;overflow-y:auto;display:none;z-index:10;box-shadow:0 4px 16px #00000060}
+.search.has-q .search-results.has-hits{display:block}
+.search-results a{display:flex;align-items:center;gap:.4rem;padding:.45rem .55rem;color:#fff;text-decoration:none;font-size:.8rem;border-bottom:1px solid #ffffff10;cursor:pointer}
+.search-results a:last-child{border-bottom:none}
+.search-results a:hover,.search-results a.active{background:#1a2055}
+.search-results .dot{width:8px;height:8px;border-radius:50%;flex:none}
+.search-results .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.search-results .gr{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em}
+.search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
+.search.has-q button{display:block}
+.poi.hidden{display:none !important}
+.poi.reveal{display:initial}
+.cluster.hidden{display:none !important}
+.cluster{cursor:pointer}
+.cluster circle{transition:r .12s}
+.cluster:hover circle{r:14}
+/* At default zoom: clusters visible, in-cluster POIs hidden */
+.poi.in-cluster{display:none}
+/* At higher zoom: clusters hide, in-cluster POIs become visible */
+#svg.expand .cluster{display:none}
+#svg.expand .poi.in-cluster{display:initial}
+.hint{position:absolute;top:102px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
+@keyframes fadeOut{to{opacity:0}}
+.popup{position:absolute;bottom:0;left:0;right:0;background:#0d1230;border-top:1px solid #ffffff20;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -10px 40px #00000080}
+.popup.open{transform:translateY(0)}
+.popup .x{position:absolute;top:.5rem;right:.7rem;width:32px;height:32px;border-radius:50%;background:#ffffff14;border:none;color:#fff;font-size:1.1rem;cursor:pointer;z-index:2}
+.popup h2{margin:0 0 .3rem;font-size:1.1rem;font-weight:800}
+.popup .type{font-size:.7rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.5rem}
+.popup p{margin:0 0 .8rem;font-size:.85rem;line-height:1.45;color:#ffffffc8}
+.popup a.more{display:inline-block;background:#3b82f6;color:#fff;text-decoration:none;font-weight:700;padding:.55rem 1rem;border-radius:8px;font-size:.85rem}
+.popup .single{display:none}.popup .list{display:none}
+.popup.mode-single .single{display:block}
+.popup.mode-list .list{display:block;max-height:60vh;overflow-y:auto;margin-right:-.5rem;padding-right:.5rem}
+.popup .list .lh{font-size:.75rem;color:#ffffff80;margin:0 0 .5rem;text-transform:uppercase;letter-spacing:.05em}
+.popup .list a{display:flex;align-items:center;gap:.55rem;padding:.55rem .55rem;border-radius:8px;text-decoration:none;color:#fff;font-size:.88rem;border-bottom:1px solid #ffffff10}
+.popup .list a:active{background:#ffffff14}
+.popup .list a .dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.popup .list a .n{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.popup .list a .g{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em;flex-shrink:0}
+.popup .list .nl{padding:.6rem;color:#ffffff70;font-size:.85rem;font-style:italic}
+.zoom{position:absolute;right:.7rem;bottom:.7rem;display:flex;flex-direction:column;gap:.35rem;z-index:4}
+.zoom button{width:38px;height:38px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;color:#fff;font-size:1.2rem;font-weight:800;cursor:pointer}
+.zoom button:active{background:#1a2240}
+</style>
+</head>
+<body>
+<header>
+<a class="back" href="/europe-map/" aria-label="Back">‹</a>
+<h1>Fiji map</h1>
+<div class="langs"><a class="lang" href="./?lang=de">DE</a><a class="lang" href="./?lang=hu">HU</a><a class="lang" href="./?lang=ro">RO</a><span class="lang on">EN</span></div>
+</header>
+<div class="controls">
+<div class="chips"></div>
+<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="Search…" autocomplete="off"><button id="searchX" aria-label="clear">×</button><div class="search-results" id="searchRes"></div></div>
+</div>
+<div id="stage">
+  <svg id="svg" viewBox="0 0 1000.00 1342.97" preserveAspectRatio="xMidYMid meet" aria-label="Fiji map">
+    <g id="gR"><path class="region" data-id="FJI-2618" d="M948.2,966.6L949.2,968.7L951.3,970.7L953.9,971.9L955.9,971.6L955.4,974.5L952.8,974.2L947.8,971.6L946.6,970.2L947.1,967.4L949.2,965L953.1,964.6L952.3,966L951.3,966.3L950.1,966.3L948.2,966.6ZM894.9,943.7L895.4,940.4L896.9,938.3L898.9,938L900.6,940.6L900.7,944.6L898.8,946.9L896.4,946.8L894.9,943.7ZM771.1,943.8L773,937.6L778.1,938.2L781.7,942.3L778.7,946.8L777.5,941.8L774.6,941.3L772.2,943.4L772.5,946.2L773.7,949.1L771.8,949.6L769.9,947.8L771.1,943.8ZM923.5,831.2L925.9,832.9L926.4,835.6L925.6,838L924,839.1L919.2,839.1L917.9,838.8L916.9,838.1L916,837.4L915.4,837.1L912.5,835L915.4,830.9L920.3,828.4L923.5,831.1ZM884.1,796.9L886.6,798.5L887.2,801.9L887.2,803.8L884.6,804.4L882.8,803.4L881.4,801.8L880.1,798.5L882.8,796.4L884.1,796.9ZM989.3,786.3L991,787.2L993.5,789L995.8,791.4L996.8,793.8L995.5,796.5L992.3,797.8L988.6,798L985.4,797.3L981.1,795.5L980.3,790.9L983.1,786.8L989.3,786.3ZM896,683.7L900.4,685.8L902.5,687.2L903.5,689.1L901.3,693.9L901.1,694.7L898.5,695.6L895.8,697.9L893.7,700.8L893,703.5L891,701.9L891.4,699.1L893.1,696.3L894.9,694.7L894.4,692.8L895.1,691.9L896.2,691.4L896.8,690.6L896.9,688.7L896.6,687.8L894.9,686.6L893.6,685.9L890.5,685.4L889.2,684.7L888.7,683.6L888.5,680.8L888.3,679.6L890.2,680.4L891.5,682.1L893.1,683.5L896,683.7ZM721.2,966.6L722.7,967.7L723.5,970.3L723.9,973.2L724.6,975.5L720.4,976.6L718.8,976.7L716.8,976.4L716.2,975.8L715.9,974.6L716.9,974L717.7,972.6L718.4,972.9L720,973.3L720.7,973.6L719.8,971.4L718.4,969.1L718.2,967.3L721.2,966.6ZM533.9,942.3L535,942.2L540.1,943L541.6,943.7L542.6,945.6L543.4,948.3L543.1,950.7L540.2,952.1L538.2,953.5L537.2,952.7L535.8,952.2L533,951.7L533.7,953L533.7,954.1L533.2,955L532,955.7L530.4,955.2L527.3,955L523.9,955.1L521.6,955.7L521.9,954.7L522.2,952.7L522.5,951.7L521.3,952.3L520.4,952.5L519.6,952.3L518.6,951.7L519.3,951.1L520,950.1L520.5,949.7L516.8,948.3L513.2,949.8L507.3,954.7L505.1,955.3L502.9,955.3L501.2,955.7L500.5,957.1L500.6,960.2L500.3,960.9L499.7,958.8L498.3,959.8L497.9,961.4L498.2,963L499.1,963.6L501.2,964.1L501.8,965.3L501.6,969L501.2,970.1L500.2,971L499,971.7L497.8,971.6L496.6,970.7L496.4,969.4L496.7,965.6L494.7,967.3L494,967.6L492,967.6L490.7,969.1L489.9,970.3L488.9,971.2L486.8,971.6L484.7,971.3L481.1,969.8L479.3,969.5L476.2,971.4L474.6,971.7L473.9,969.5L473,969.5L471.9,970.1L470.5,969.8L468.9,968.8L467.3,967.6L471.5,963.5L474,962.5L476.8,963.6L478.2,962.4L478.8,959.2L479.8,957.7L481.3,957L482.9,957L490.7,959L492,958.8L492.9,957.7L493.1,956.3L493.5,954.9L494.9,953.7L496.8,955.2L498,953.9L498.6,951.3L498.6,948.7L500.6,945.4L505.5,943.5L511.1,943.2L514.9,944.8L516.1,940.6L517,940L519.1,939.8L519.8,939.5L520.3,938.8L520.9,938.1L522,937.8L523.4,938.1L524.6,938.5L525.8,938.6L527.3,937.8L528.3,939.8L532.9,940L533.9,942.3ZM547.3,930.8L548.4,932L548.9,933.1L548.8,934.3L548.3,935.8L546.4,935.1L545.5,936.5L544.7,938.1L543.5,937.8L539.7,935.3L540,933.5L541.3,931.4L541.6,930.3L543,928.8L545.9,928L548,928.5L547.3,930.8ZM744.2,884.2L744.9,885.3L745.5,886L744.4,887.8L741.1,888.6L739.5,890L737,892L738,893.1L740,892.3L740.6,892.3L741.1,893.9L738.4,896.1L738.3,899.1L735.8,899.7L734.3,897.3L734.2,894.8L732.7,893.7L731.6,892.2L728.9,890.6L728.5,889L731.3,887.8L736.5,885.8L742,884.5L744.2,884.2ZM661.1,803.2L663.2,807.1L663.5,814.9L661.8,820.6L657.7,818.2L656.3,816.4L655.2,812.4L654.4,810.7L651.8,807.4L650.9,805.6L650.2,803.2L649.6,804.7L650,807.7L649.6,808.7L648.4,809L647.8,808L647.2,803.9L647.3,799.7L647.1,799L645.8,796.8L645.4,795.3L646.9,796.2L647.9,796.3L650.9,793.8L651.7,793.8L652.6,794.1L654.4,794.3L656.5,795.7L659.9,801.8L661.1,803.2ZM673,773.4L673,774.1L672,775.3L672.5,776.3L672.9,777.6L673.2,779L673,780.2L671.8,781.6L671,780.9L670.1,778.3L669.1,777L668,775.2L667.5,773.3L668.2,771.4L670.6,772.7L673,773.4ZM575,763.3L577.2,766.9L580.1,768.7L582.4,769.3L582.1,770.4L581.9,770.8L581.5,771.4L580.5,770.3L579.6,771L578.7,770.8L578,769.9L576.2,769.6L574.1,764.1L573.2,761.3L575,763.3ZM582,749.4L582.9,748.5L585,747.9L587.6,749.4L588.9,752.8L589.5,754.7L589.7,756.7L590.2,758.7L589.9,760.8L589.4,762.5L588.5,764L585,765L583.2,765.6L580.9,766.6L579.5,764.1L578.7,761.6L576.9,755.8L578.5,751.5L582,749.4ZM613.8,748.3L612.7,746.3L612.9,744.8L614,744.2L615.8,745.3L616.7,746.7L618.4,751.3L618.8,753.4L617.7,753.4L617.1,751.6L616.3,750.3L615.3,749.3L613.8,748.3ZM675.9,700.2L675.6,703.9L674.7,707.2L673.3,710L671.2,712.6L667.4,715.6L666.4,714.7L666.4,706.1L666.1,703.8L665.4,701.6L664.3,699.6L664.8,697.7L664.7,695.7L665.7,694.2L671.4,693.4L672.7,693L673.9,693.1L675.4,694.2L675.4,695L675.9,700.2ZM930.1,1191.7L929,1190.8L928.4,1189.8L928.5,1188.7L929.3,1187.6L929.4,1188.8L929.9,1190L930.6,1191L931.6,1191.8L930.1,1191.7ZM998.5,1070.9L998,1070.2L998.2,1069.3L999,1068.3L1000,1067.3L999.8,1068.3L999.5,1069.1L998.5,1070.9ZM971.7,973.1L974.3,968.2L975.4,967.3L975.9,970L975.6,972.9L974.5,973.6L973.1,973.7L971.8,974.7L971.4,974.4L971.7,973.1ZM905,930.9L904,931.5L902.9,931.9L901.8,931.9L900.7,931.6L902.2,930.2L903.9,929L905.8,928.1L907.8,927.6L907.2,928.5L906.6,929.4L905.8,930.2L905,930.9ZM959.6,900.1L958.3,897.9L959,896.1L960.7,895.5L962.2,896.6L962.5,898.1L961.9,899.4L960.8,900.2L959.6,900.1ZM846.2,769.9L844.3,768.2L844.6,765.5L846.5,763.3L849.6,763.1L852.2,765.5L852,768.5L849.9,770.5L846.2,769.9ZM869.3,726.5L867,724.5L866.7,721.9L868,719.8L870.8,719.6L872.3,721.2L872.9,723.9L872,726.1L869.3,726.5ZM869.2,697.6L869.3,694.9L870.7,694L872.4,694.6L873.3,696.5L872.9,698.2L871.7,699.1L870.3,699L869.2,697.6Z"/><path class="region" data-id="FJI-2620" d="M425.3,875L426,876.6L426.3,878.5L426.3,882L427.3,888.9L425.3,887.6L423.6,885.2L422.3,882.4L421.5,880L421.1,877.8L421.4,876.6L423.4,874L423.9,874.6L424.8,874.8L425.3,875ZM444,835.8L432.2,832.6L428.7,832.1L424.8,831.1L417.3,827.6L414,828.1L409.7,826.2L408.1,825.9L401.1,826.3L399.8,826.1L398.3,825.4L397.3,824.6L396.6,823.7L395.9,823.1L386.1,820.7L381.8,818.7L378.7,814.1L377.8,815.2L377.1,813.7L377,810.8L376.8,809.1L376.3,808.3L375.7,807.6L375.1,806.6L374.8,804.7L374.2,803.9L371.7,802.5L371.6,801.7L372.1,800.4L371.5,799.2L370.6,797.9L370.1,796.4L370.5,795.3L372.4,792.8L372.9,791.3L372.9,789.4L372.2,788.3L371.5,787.3L371.1,785.8L372,782.9L374.3,781.8L380.6,781.3L384.3,779.9L385.4,779.3L386.7,777.7L386.9,776.5L386.6,775.4L386.4,773.9L386.4,768.8L386.6,767L387.1,766.6L388.1,767L392.9,768.4L394,768.3L395.5,767L395.6,766L395.2,765L394.8,763.8L394.7,762.2L394.1,759.4L394,757.9L393.6,756.6L392.6,756L391.3,755.4L390.1,754.3L389.2,751.1L391,749.6L393.5,748.4L394.8,745.9L395.5,744.9L398.6,744.1L399.8,743.4L400.3,741.7L400,740.1L400.1,738.7L401.6,737.4L403.2,739.2L404.5,738.8L405.2,737.1L404.5,735.4L405.5,733.2L406.7,731.4L408,730.8L409.2,732.4L410.1,732.4L415.9,727.5L421.6,724.1L422,723.5L422.4,723.2L422.5,722.5L422.8,721.8L423.9,721.5L424.8,721.7L425.8,722L426.3,722.3L425.8,722.5L425,723.6L425.5,726.2L426.5,728.9L427.3,730.4L428.1,729.5L427.3,727.7L426.7,726L426.7,724.3L427.3,722.5L428.3,721.7L433,719.1L433.8,718.7L439.2,720.5L439.9,719.7L440.2,718L440.9,716.3L441.5,715.6L442.6,715L443.6,714.4L444.5,713.9L447.4,713.3L447.9,712.6L448.3,711.9L449.8,711.3L450.5,710.9L450.9,711.2L451.1,713.1L451,714.7L450.6,716.1L450,717.4L449.1,718.6L451.3,719.2L453.2,718L455,716.1L456.9,714.6L459.8,716.5L463.9,717L468,716.5L471.1,715.6L475.1,713.7L476.8,712.5L478.3,711.1L480,709.8L483.3,709.7L485.4,708.6L489.9,709.3L495.1,708.4L499.2,705.8L500.5,701.6L503.5,702.7L507.3,704.5L510.6,706.7L512,709.1L512.4,710.8L513.9,713.7L513.9,715.6L513,717.2L509.5,720.7L508.2,722.5L509.7,723.3L510,724.5L509.4,725.6L508.2,726.5L510,726.1L513.8,721.6L516.3,720.5L519.6,720.9L522.5,721.9L524.8,723.8L526.3,726.5L526.5,727.7L526.1,729.4L526.3,730.4L526.8,730.7L529.3,732.9L529.7,733.4L530.2,733.9L536,737.9L536.5,739L536.2,745.4L534.9,752L534.3,753.5L533.4,754.5L532.3,754.7L530.7,754.5L527.6,753.2L526.4,752.6L525.4,752.2L524.2,752L521.6,752.1L520.2,752L518.9,751.5L515.4,749L514.4,748.5L513.4,748.4L512.9,748.9L512.6,749.4L512.5,750.3L512.3,751.3L511.9,752.1L510.4,753.3L508.2,754L503.7,755.1L496,755.4L493.5,755.1L491.3,754.5L490,753.6L488.8,752.5L487.7,751.3L484.1,745.5L481.1,742.1L479.9,741L478.4,740.5L477.7,741.2L477.4,742.4L477.7,744L478.7,746.7L478.8,748.1L478.6,749.5L478.1,750.8L476.1,753.8L475.4,755.2L475.1,756.7L474.8,764.8L475,765.6L475.2,766L476.2,766.2L476.9,765.8L477.5,765.3L481.6,760.6L482.9,759.5L484.2,758.6L485.5,758L486.5,757.8L487.3,758.1L487.8,758.8L488,760L487.7,761.3L486.8,762.6L485,764.4L482.3,765.8L479.3,768.3L472.8,775.4L472.3,776.3L472,778.1L471.6,779.2L470.9,780.3L470.3,781.4L470,782.4L470.1,783.4L470.8,784.5L471.8,785.4L472.8,786.5L473.1,787.7L472.4,789.7L472.1,790.9L472.2,792.1L473,792.9L473.9,793.7L474.7,794.5L475.1,795.6L475.2,796.6L473.7,800.9L472.6,801.8L471.4,802.5L468.2,803.3L466.5,803.5L465.1,803.4L454.4,800.6L452.7,800.4L450.9,800.5L448.4,801.2L447.1,802.3L446.2,803.6L445.2,806.5L444.6,807.9L442.6,810.7L442,811.7L441.9,812.9L442.1,814.3L442.9,817.2L443.4,818.3L443.9,818.9L444.6,819.2L445.6,819.4L448.9,819.5L449.6,819.7L450,820.3L449.9,821.2L446.8,826L446.2,827.1L445.9,828.1L445.5,832.1L445.1,833.9L444,835.8ZM348.2,693.6L351.8,695.1L353.5,694.9L355.9,693.6L357.8,696.6L356.8,696.8L356.4,697.3L356.2,697.9L354.3,700.8L352.4,702.6L350.7,703.1L349.2,701.6L348.9,699.2L349.6,697.2L349.7,695.7L348.2,694.7L348.2,693.6ZM372.9,669.7L373.5,668.7L374.8,664.7L375.7,666.4L375.8,668.5L375.1,670.3L374,671.7L372.9,674.3L368.7,677.2L368.2,679.6L367.6,679.1L367.1,678.9L366.7,678.5L366.3,677.6L364.9,678.5L364,679.5L363.4,680.8L363.4,682.6L359.6,681.7L359.6,680.6L361.1,680.7L361,679.2L360.7,677.2L361,675.4L362,674.7L363.3,674.1L363.8,672.7L364,671.1L364.5,669.7L365.5,668.7L368.6,666.2L369.7,665.7L369.8,666.3L371.4,669L372.1,669.7L372.9,669.7ZM396.8,638.7L392.5,642.1L391.2,643.8L393,644.8L392.6,645.9L391.9,647L391.1,647.9L390.1,648.7L389.7,648L388.7,646.7L387,643.8L387.8,642.5L391.1,640.7L390.1,638.5L391.9,637.7L394.6,638L396.8,638.7ZM413,611L415.7,611.1L417.3,612.3L417.7,614.3L416.8,616.9L415.8,618.5L413.5,620.1L413,621.4L412.5,622.1L403.7,629.2L401.7,631.3L400.6,633.9L399.2,633.2L398.7,632.9L398.1,633.7L397,634.5L395.9,634.7L394.8,633.9L394.9,633L395.8,629.4L395.9,627.9L396.8,627.9L398.6,629.7L401.2,628.4L406.4,622.9L412.8,617.4L414.7,614.2L413,611ZM3.8,1343L1.1,1341.1L0,1338.7L0.7,1336.8L3.5,1336.7L5.3,1337.9L5.9,1339.9L5.4,1341.7L3.8,1343Z"/><path class="region" data-id="FJI-2617" d="M491.1,857L491.8,854.5L493.4,854.1L495,855.4L495.8,858L495.3,861.1L493.9,863.2L491.7,863.8L489.2,862L490.5,861.7L491,861.4L490.9,860.9L490.3,860L490.8,859.3L491,858.7L491,857.9L491.1,857ZM536.4,738L537.4,738.1L538.9,738.1L540.6,738.4L543.1,740.1L546.8,745.3L547.8,746.4L550.8,746.8L553.7,747.8L556.2,749.7L557.8,752.5L557.9,756L556.5,758.8L554.8,761.2L553.9,763.8L553.7,765.2L553.2,766.5L553,767.7L553.5,768.8L554.6,769.8L557.1,771.6L557.8,772.3L557.9,774L557.4,775.6L557.3,777.1L558.7,778.3L560.4,777.7L561.3,778.2L561.2,779.2L559.7,780.2L561.4,780.9L562.4,782L562.5,783.5L561.6,785.3L561.1,785L559.7,784.3L560,785L560.7,787.4L556.3,788.5L556.8,792.6L559.3,797.1L561.1,799.2L563.9,799.5L565,800.2L565.8,801.5L567.3,803.2L567.8,804L567.9,804.6L568.2,805L569.7,805.1L570.5,804.8L571.3,803.9L571.9,802.9L572.1,802.2L573,802.2L572.6,803.2L571.5,805.2L571.2,806.2L571.1,808.3L571.2,809.6L570.6,811.6L569.2,813.6L567.7,815.2L566.3,816.2L559.3,819.7L555.9,823.1L555.9,820.1L551.9,821.8L550.2,822.1L551.8,819.7L552,819.1L551.2,817.8L550.7,817.6L549.9,817.5L548.7,816.6L547.4,816.4L543.4,818.5L541.6,819.1L541.9,822.1L539.5,824L536.4,824.8L534.9,824.7L535.1,822.5L535.2,821.7L535,821.2L532.7,819.1L531.5,818.4L530.1,818.1L528.3,818.2L528.7,818.8L529.2,819.1L528.5,820.5L527.7,821.3L526.7,821.8L525.4,822.1L525,821.1L524.3,820.4L523.5,820.1L522.5,820.3L520.9,821L520.1,821.1L519,821.6L518.1,822.7L517.1,823.7L515.4,824.2L513.6,824.3L512.6,824.6L511.9,825.2L511.1,826.1L510.5,827L509.8,829.2L509.2,830.1L507.9,830.8L505.1,831.9L503.9,832.6L499.9,837.3L497.5,839.5L494.9,840.1L493.8,840.1L492.9,841.1L489.8,838.2L479.5,841.9L475,841.1L472.9,841L472,840.8L471.1,840.1L470.2,841L468.5,842L466.6,842.4L464.9,841.6L463.1,841.3L461.1,842.5L459.4,843.1L458.7,840.6L458.2,839.9L457.2,840.2L456.1,840.9L455.4,841.6L454.6,842L453.8,841.6L451.1,839.2L450.7,838.2L450.1,837.4L444,835.8L445.1,833.9L445.5,832.1L445.9,828.1L446.2,827.1L446.8,826L449.9,821.2L450,820.3L449.6,819.7L448.9,819.5L445.6,819.4L444.6,819.2L443.9,818.9L443.4,818.3L442.9,817.2L442.1,814.3L441.9,812.9L442,811.7L442.6,810.7L444.6,807.9L445.2,806.5L446.2,803.6L447.1,802.3L448.4,801.2L450.9,800.5L452.7,800.4L454.4,800.6L465.1,803.4L466.5,803.5L468.2,803.3L471.4,802.5L472.6,801.8L473.7,800.9L475.2,796.6L475.1,795.6L474.7,794.5L473.9,793.7L473,792.9L472.2,792.1L472.1,790.9L472.4,789.7L473.1,787.7L472.8,786.5L471.8,785.4L470.8,784.5L470.1,783.4L470,782.4L470.3,781.4L470.9,780.3L471.6,779.2L472,778.1L472.3,776.3L472.8,775.4L479.3,768.3L482.3,765.8L485,764.4L486.8,762.6L487.7,761.3L488,760L487.8,758.8L487.3,758.1L486.5,757.8L485.5,758L484.2,758.6L482.9,759.5L481.6,760.6L477.5,765.3L476.9,765.8L476.2,766.2L475.7,766.2L475,765.6L474.8,764.8L475.1,756.7L475.4,755.2L476.1,753.8L478.1,750.8L478.6,749.5L478.8,748.1L478.7,746.7L477.7,744L477.4,742.4L477.7,741.2L478.4,740.5L479.9,741L481.1,742.1L484.1,745.5L487.7,751.3L488.8,752.5L490,753.6L491.3,754.5L493.5,755.1L496,755.4L503.7,755.1L508.2,754L510.4,753.3L511.9,752.1L512.3,751.3L512.4,750.7L512.6,749.4L512.9,748.9L513.4,748.4L514.4,748.5L515.4,749L518.9,751.5L520.2,752L521.6,752.1L524.2,752L525.4,752.2L526.4,752.6L527.6,753.2L530.7,754.5L532.3,754.7L533.4,754.5L534.3,753.5L534.9,752L536.2,745.4L536.5,739L536.4,738Z"/><path class="region" data-id="FJI-2619" d="M520.5,627.9L520,630.9L520.7,632.5L520.5,633.1L516.8,632.9L514.4,633.9L513.4,632.1L513,626.9L513.9,626.9L515.1,627.7L516.7,628L520.5,627.9ZM752.1,626.9L753.5,624.7L763.8,613.5L766.3,611.9L769.1,611.1L771,611.6L772.1,613.3L773.4,617.4L773.9,619.9L774,621.4L775.7,622.5L777,623.5L777.7,624.8L777,625.9L772,630.9L770.6,633.5L770.2,634.8L769.9,638.1L769.4,638.4L768.5,638.2L767.3,638.7L758.9,644.3L754.5,648.1L752.1,652.7L752.1,626.9ZM740.6,607.9L735.9,607.9L738.2,607.1L739.2,607L739.7,606.5L739.6,604.4L740.1,604L741.4,603.9L743,603.4L744.4,602.5L745.4,600.9L745.5,603.9L744.8,606.2L743.2,607.6L740.6,607.9ZM555.9,595.9L557,596.6L558.2,596.9L559.4,596.6L560.6,595.9L559.7,597.4L558.3,598.6L556.4,599.1L553.9,598.9L552.9,598.7L552,597.9L555.9,595.9ZM752.1,583.8L753.3,581.7L757,579L757.8,577.5L758.9,577L764.3,575.3L766.3,575L766.3,576L765,576.3L764.4,576.7L764.6,577.2L765.4,578L765.4,579.1L764.6,579.4L764,579.7L763.2,579.9L762,580L761.3,580.6L760.8,582L760.8,583.3L762,583.9L762.9,584.9L761.1,586.8L758.7,588.6L752.1,591.2L752.1,583.8ZM663.4,560L665.4,560.4L667.2,561L665.5,561.8L663.3,562.1L660.9,561.8L658.7,561L658.7,560L663.4,560ZM752.1,534.2L753.8,532.6L755.8,531.6L760.6,530.2L759.2,533.2L757.4,535L755,536.2L752.1,537.2L752.1,534.2ZM752.1,652.5L751,654.3L749.5,655.7L747.5,657L745.7,657.8L743.9,658.2L742.2,658.2L740.6,657.8L739.9,655.5L737.4,653.2L736.8,651.2L737.5,649.1L739.2,647.3L742.5,644.8L747.5,637.3L748.3,635.4L749,633L752,626.9L752.1,652.5ZM752.1,591.2L751,591.5L750.3,591.4L749.9,590.8L749.9,589.6L750.3,587.9L752,584L752.1,587.6L752.1,591.2ZM752.1,537.1L743.5,545.1L742.3,545.6L739.9,545.7L738.7,546.1L737.6,547.2L736.3,549.5L735.3,550.6L733.4,552.4L732.4,553.6L732.5,554.2L731.4,554.8L729.6,558.2L724,566.3L721.6,568L721.6,571.1L719.2,575.5L715.7,579.3L712.6,581L709.5,581.9L696.2,591L695.3,591.8L694.8,592.9L694,595L693.8,596.8L693.8,599L693.6,601.4L692.5,603.5L690.9,604.8L687.4,607.1L685.9,608.3L685.2,609.2L683.5,611.9L682.7,612.5L680.4,613.3L679.6,613.9L681,615.4L681.5,618L681,620.7L679.6,622.9L680.6,623.9L682.9,622.3L685.4,621.5L687.7,622L689.3,623.9L691.3,622.3L694.4,618.6L696.4,617.9L697.8,617.6L699.5,616.9L701,615.8L701.6,614.4L702.2,612.5L703.5,611.7L705.1,611.4L706.4,611L706.6,610.4L707.1,608.4L707.3,607.9L707.9,607.6L709.6,607.3L710.2,607L711.2,605.3L712.6,601.7L713.5,600.4L714.8,599.7L716.2,599.2L717.3,598.7L717.7,597.4L718.3,596.4L719.5,595.7L721.6,595L726.2,592L728.9,589.7L730.1,587.4L731.4,586.5L738.7,583L739.4,582.1L739.9,581.2L740.6,580.4L741.6,580L743.7,579.9L744.1,580.5L744.1,581.7L745.6,585.2L745,586.6L744,587.6L743.2,588.8L741.6,593L736.8,601.9L736.7,602.6L736.9,604.3L736.8,605L736.3,605.1L734.5,604.8L734,605L731,608.8L734.7,609.1L737.1,610.8L738.3,613.6L738.7,616.9L740.6,616.7L743.1,617.3L745.1,618.7L745.4,621L744,622L741.9,621.5L737.7,619.9L738.2,620.7L739.2,623L739.7,623.9L737.6,623.3L736.8,622.9L734.8,624.4L733.1,623.7L732.3,621.9L732.9,619.9L727.9,619.7L725.9,618.9L724.6,616.9L721.6,618L718.6,617.8L716,617.1L714,616.9L712.7,617.5L710.4,619.4L708.8,619.9L707,619.9L705.7,620.2L704.8,621.1L704.4,622.9L703.7,621.5L703.5,621L702.6,621L701.1,623.9L696,627.2L694,629.9L691.6,627.6L688.8,627.5L683,628.9L678.6,629L676.2,629.6L674,630.9L669.2,629.2L665.3,629L654.4,629.8L655.9,628.5L656.8,626.4L658,624.7L660.5,623.8L662.4,622.8L661.6,621L661.9,618.9L660.3,617.9L655.9,616.9L652.4,614.2L650.1,612.8L649.1,613.4L647.6,613.5L637,617.6L634.3,619.3L630.2,622.9L631.1,625.3L630.2,627.4L628.4,628.9L626.4,629.9L622.2,628.7L619.3,632.3L615.8,642.7L619.4,640.5L621,640.2L623.5,640.7L622.2,642.5L618.3,645.2L616.8,646.8L615.8,646.8L614,646L608.6,644.3L606.8,643.3L606.2,642L606,640.9L605.5,640.1L602.8,639.5L602,638.6L601.6,637.3L601.6,635.8L600.6,635.8L600.6,638.7L598.4,637.5L596.9,637.2L595.6,637.7L593.9,638.7L588.3,643.8L587.7,645.1L586.3,650.7L585.2,651.7L583.9,652.4L583.6,653.3L585.4,654.7L580.5,658.1L580.1,658.7L576.1,659L574.3,658.7L572.1,657.8L570.3,655.9L568.7,651.9L567.7,647.2L567.3,643.3L565.9,640.4L563.1,637.7L561.3,634.3L562.6,629.9L559.6,628.8L558.4,627.8L557.8,625.9L549.3,630.2L545.2,630.9L541.6,627.9L542.2,627.6L542.5,626.9L541,625.6L540.7,623.9L541.3,623L542.5,623.9L543.5,623.9L543.1,621.2L544.5,618.7L549.2,614.9L549.2,617.9L550.3,616.7L550.9,615L551.5,614.1L553.1,614.9L553.7,612.7L555.5,609.2L555.9,607L552.9,608.5L550.9,608.3L549.5,606.7L548.3,604L553.6,602L555,601.9L556,602.6L557.6,604.9L558.7,605.9L560.1,606.3L564.5,607L568.7,609.7L570.2,609.9L572,609.5L572.6,608.9L573,608.1L573.8,607L581.6,600.3L583.7,599.3L585,600.7L585.4,605L587.2,604.1L587.7,603.1L587.2,599.4L587.8,597.9L592.1,592L592.3,592.7L592.9,594L593,595L594.1,594.3L594.7,593.5L595,592.5L594.9,591L595.9,591L597.3,592.8L598.9,591.5L600.5,589.1L602,587.8L603.5,587.1L603.1,585.2L602,583L601.6,581L602.1,581.3L603.8,581.8L604.4,582.1L605.1,579.5L606.4,579.4L607.7,580.3L608.2,581L610.3,580.6L614.2,579.4L620.6,578.6L627.9,575.9L632.1,575L636.4,575.2L637.8,575L638.1,574.5L639.2,572.5L639.7,571.9L640.7,571.5L643.2,571L644,570.6L646.5,570.4L650.6,571.5L654.6,572L656.8,570.1L658.9,571.9L660.1,571.3L661.2,569.8L662.9,569L663.9,569.4L664.8,571.4L665.9,571.9L667,571.7L667.6,571.6L668.2,571.5L669.2,571.9L669,569.7L668.1,567.6L666.8,566L665.4,565L666.8,563.6L668.4,563.1L669.9,563.3L671.2,564L671.8,561.5L673,558.9L674.7,557.6L676.8,559L677.7,556.5L678,554.2L678.6,552.4L680.6,551.1L685.6,551.5L687.5,550.7L685.4,548.1L687.2,548.1L688.5,549L689.4,550.4L690.1,552.2L691.4,547.1L692,545.1L692.7,546.9L694,547.7L695.5,548.3L696.9,549.2L698.1,547.9L699.1,547.8L699.9,548.6L700.7,550.2L700.7,547.9L701.2,547.1L702.1,547.1L703,547.2L703.9,546.7L704.3,545.7L704.3,544.6L705.3,544.3L705.9,544.6L706.3,545L706.8,545.1L709.5,545.4L710.6,545L711.1,543.7L711.8,542.7L715.2,541.3L719.3,538.9L720.2,541.1L720.5,544.4L721.6,546.1L723.3,545.5L726.3,542.7L728.3,542.2L729.8,542.7L730,543.6L729.4,544.4L728.3,545.1L729.8,545.7L731.3,545.7L732.1,546.1L733.8,543.9L738.6,540L739.7,538.7L749.7,534.2L751.9,534.2L752.1,537.1Z"/><path class="region" data-id="FJI-2658" d="M352.5,1.6L353.1,3.8L350.9,5.3L347.8,6L345.3,6.1L343.4,5.3L341.2,4.8L338.9,4.7L336.7,5L336,2.8L335.9,2.1L338,2.7L339.7,2.3L343.4,0L345.6,0.8L350.6,0.8L352.5,1.6Z"/></g>
+    <g id="gL"></g>
+    <g id="gP"></g>
+    <g id="gC"></g>
+  </svg>
+  <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
+</div>
+<div class="hint">Tap a place for details</div>
+<div class="popup" id="popup" role="dialog" aria-modal="false">
+  <button class="x" id="px" aria-label="close">×</button>
+  <div class="single">
+    <div class="type" id="ptype"></div>
+    <h2 id="pname"></h2>
+    <a class="more" id="pmore" href="#">Read more →</a>
+  </div>
+  <div class="list" id="plist"></div>
+</div>
+<script>
+const LANG="en",W=1000,H=1342.97;
+const CLUSTERS=[];
+const svg=document.getElementById('svg'),stage=document.getElementById('stage');
+const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
+const EXPAND_SCALE=6;
+let s=1,tx=0,ty=0;
+function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE)}
+function clmp(v){return Math.max(.5,Math.min(8,v))}
+function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
+function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
+function zoomCenter(f){const r=svg.getBoundingClientRect();zoomAt(f,r.left+r.width/2,r.top+r.height/2)}
+let dr=false,dx=0,dy=0;
+svg.addEventListener('pointerdown',e=>{if(e.target.closest('.poi'))return;if(e.isPrimary===false)return;dr=true;dx=e.clientX;dy=e.clientY;svg.classList.add('drag');svg.setPointerCapture(e.pointerId)});
+svg.addEventListener('pointermove',e=>{if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()});
+svg.addEventListener('pointerup',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('pointercancel',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('wheel',e=>{e.preventDefault();zoomAt(e.deltaY<0?1.15:1/1.15,e.clientX,e.clientY)},{passive:false});
+document.getElementById('zin').onclick=()=>zoomCenter(1.3);
+document.getElementById('zout').onclick=()=>zoomCenter(1/1.3);
+let pD=0,pS=1;
+svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
+svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
+const pop=document.getElementById('popup');
+const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function clearMode(){pop.classList.remove('mode-single','mode-list')}
+function openPopup(el){document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));el.classList.add('active');const t=el.getAttribute('data-grp')||'';document.getElementById('ptype').textContent=t;document.getElementById('pname').textContent=el.getAttribute('data-name')||el.getAttribute('data-id');const u=el.getAttribute('data-url');const moreBtn=document.getElementById('pmore');if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}clearMode();pop.classList.add('mode-single','open')}
+function openClusterList(i){const all=CLUSTERS[i];if(!all)return;const list=all.filter(p=>activeGrps.has(p.grp));const el=document.getElementById('plist');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(p=>p.url?'<a href="'+p.url+'"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+'"></span><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></a>':'<div class="nl"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+';display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:.5rem"></span>'+escAttrJs(p.name)+'</div>').join('');clearMode();pop.classList.add('mode-list','open')}
+function escAttrJs(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
+if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openClusterList(+cl.getAttribute('data-i'))})}
+function closePopup(){pop.classList.remove('open');clearMode();document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}
+document.getElementById('px').onclick=closePopup;
+stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.cluster')&&!e.target.closest('.popup')){closePopup()}});
+// Chip toggle: hide POIs of disabled group
+const activeGrps=new Set([]);
+function applyGrpFilter(){
+  gP.querySelectorAll('.poi').forEach(p=>{const g=p.getAttribute('data-grp');p.classList.toggle('hidden',!activeGrps.has(g))});
+  // Cluster + reveal-id computation moved to applySearch() so chip + search
+  // combine consistently. Just re-trigger applySearch (it reads activeGrps).
+  if(typeof applySearch==='function')applySearch();
+}
+document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
+// Search: dim non-matching POIs + recompute cluster visibility (only count matches)
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap'),sRes=document.getElementById('searchRes');
+function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
+// Quick lookup of POI's normalized search text + display name + group + coords by id
+const POI_INDEX={};
+gP.querySelectorAll('.poi').forEach(p=>{
+  const id=p.getAttribute('data-id');
+  const t=p.getAttribute('transform')||'';
+  const m=t.match(/translate\(([-\d.]+),([-\d.]+)\)/);
+  POI_INDEX[id]={
+    search:p.getAttribute('data-search')||'',
+    name:p.getAttribute('data-name')||id,
+    grp:p.getAttribute('data-grp')||'other',
+    url:p.getAttribute('data-url')||null,
+    cx:m?+m[1]:0,cy:m?+m[2]:0
+  };
+});
+const POI_SEARCH_BY_ID={};
+for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function applySearch(){
+  const q=norm(sIn.value.trim());
+  sW.classList.toggle('has-q',!!q);
+  // Phase 1: per-POI dim/match
+  gP.querySelectorAll('.poi').forEach(p=>{
+    if(!q){p.classList.remove('dim');p.classList.remove('match');return}
+    const t=p.getAttribute('data-search')||'';
+    const m=t.includes(q);
+    p.classList.toggle('match',m);
+    p.classList.toggle('dim',!m);
+  });
+  // Phase 2: cluster visibility — combine search match WITH group filter
+  if(!gC)return;
+  const revealIds=new Set();
+  gC.querySelectorAll('.cluster').forEach(c=>{
+    const i=+c.getAttribute('data-i');
+    const list=CLUSTERS[i]||[];
+    // POI counts as "visible" if: group active AND (no query OR matches query)
+    const vis=list.filter(p=>{
+      if(!activeGrps.has(p.grp))return false;
+      if(!q)return true;
+      return (POI_SEARCH_BY_ID[p.id]||'').includes(q);
+    });
+    const txt=c.querySelector('text');
+    if(vis.length===0){c.classList.add('hidden')}
+    else if(vis.length===1){c.classList.add('hidden');revealIds.add(vis[0].id)}
+    else{c.classList.remove('hidden');if(txt)txt.textContent=String(vis.length)}
+  });
+  gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
+    p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
+  });
+  // Phase 3: dropdown list of top matches (count ALL matching for auto-zoom decision)
+  if(!q){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  const hits=[];
+  for(const id in POI_INDEX){
+    const e=POI_INDEX[id];
+    if(!activeGrps.has(e.grp))continue;
+    if(!e.search.includes(q))continue;
+    if(hits.length<50)hits.push({id,...e});
+  }
+  // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
+  // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
+  // Compute by examining current cluster visibility (already set in Phase 2 above).
+  if(hits.length>0){
+    // Map: poi-id -> cluster index it belongs to (if any)
+    const poiToCluster={};
+    for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
+    // Group matches by their visible "thing": either a visible cluster (id of cluster) or 'solo' + poi-id.
+    // A cluster is "visible" if its DOM .cluster element does NOT have .hidden.
+    // A POI is "shown solo" if either: not in any cluster, OR in a cluster whose .cluster element IS hidden (= cluster collapsed to <=1 match).
+    const visibleClusterIdx=new Set();
+    if(gC){
+      gC.querySelectorAll('.cluster:not(.hidden)').forEach(c=>visibleClusterIdx.add(+c.getAttribute('data-i')));
+    }
+    const visibleThings=new Set();
+    for(const h of hits){
+      const ci=poiToCluster[h.id];
+      if(ci!==undefined && visibleClusterIdx.has(ci)){
+        visibleThings.add('c'+ci);
+      }else{
+        visibleThings.add('p'+h.id);
+      }
+    }
+    const onlyOneThing=visibleThings.size===1;
+    if(onlyOneThing){
+      const thing=Array.from(visibleThings)[0];
+      let cx,cy;
+      if(thing[0]==='p'){
+        // Solo POI (or revealed cluster-POI)
+        const id=thing.slice(1);
+        const e=POI_INDEX[id];
+        if(e){cx=e.cx;cy=e.cy}
+      }else{
+        // Visible cluster (c<idx>) — center = avg of cluster's POI coords
+        const ci=+thing.slice(1);
+        const cl=CLUSTERS[ci]||[];
+        let sx=0,sy=0,n=0;
+        for(const p of cl){sx+=p.cx||0;sy+=p.cy||0;n++}
+        if(n>0){cx=sx/n;cy=sy/n}
+      }
+      if(cx!==undefined){
+        // Use 4× zoom (below EXPAND_SCALE=6 so clusters stay collapsed as numbers,
+        // POI doesn't disappear into expanded form)
+        s=4;
+        tx=W/2-cx*s;
+        // Bias the target 20% above viewBox center so it's not hidden behind the search dropdown / header
+        ty=H*0.32-cy*s;
+        ap();
+        sRes.innerHTML='';
+        sRes.classList.remove('has-hits');
+        return;
+      }
+    }
+  }
+  if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  sRes.innerHTML=hits.map(h=>{
+    const grpLabel=String(h.grp);
+    return '<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+grpLabel+'</span></a>';
+  }).join('');
+  sRes.classList.add('has-hits');
+}
+sIn.addEventListener('input',applySearch);
+sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
+// Click on dropdown item: zoom-pan to POI, do NOT auto-navigate (user can click again on map dot for that)
+sRes.addEventListener('click',e=>{
+  const a=e.target.closest('a[data-id]');
+  if(!a)return;
+  e.preventDefault();
+  const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
+  s=4;
+  tx=W/2-cx*s;
+  ty=H*0.32-cy*s;
+  ap();
+  sRes.classList.remove('has-hits');
+  sIn.blur();
+});
+// Close dropdown on outside click
+document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
+</script>
+</body>
+</html>
