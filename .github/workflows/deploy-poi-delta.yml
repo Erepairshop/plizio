@@ -75,7 +75,9 @@ jobs:
           # generate-poi-html.mts imports _all_v2_pois_*.json chunks that
           # prepare_v2_data.mjs writes from poiExtra*V2.ts. Re-run on each delta
           # so the latest source data is reflected.
-          node scripts/prepare_v2_data.mjs 2>&1 | tail -10
+          # Must use tsx (not bare node): Node 20 cannot import .ts files natively,
+          # and prepare_v2_data does `await import('./poiExtra*V2.ts')` per file.
+          npx tsx scripts/prepare_v2_data.mjs 2>&1 | tail -15
 
       - name: Generate targeted POI HTMLs into a staging out/
         run: |
