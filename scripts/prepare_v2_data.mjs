@@ -51,9 +51,34 @@ const all = [];
 const seenIds = new Set();
 let loaded = 0;
 let dupSkipped = 0;
+let recoveredViaStrip = 0;
 for (const f of files) {
+  const fp = path.join(DATA, f);
+  let mod;
   try {
-    const mod = await import(pathToFileURL(path.join(DATA, f)).href);
+    mod = await import(pathToFileURL(fp).href);
+  } catch (e) {
+    // 474 V2 files use `import { POI } from './poi'` (value-import) instead of
+    // `import type { POI }` — Node ESM cannot resolve the bare `./poi` so the
+    // whole file is silently skipped. Fallback: strip that import line, write
+    // to a temp file, retry. Recovers ~474 POI files worth (~thousands of POIs).
+    try {
+      const raw = fs.readFileSync(fp, "utf-8");
+      const stripped = raw.replace(/^\s*import\s+(?:type\s+)?\{?[^}]*\}?\s+from\s+["']\.\/poi["'];?/m, "");
+      const tmp = fp + ".prep.tmp.ts";
+      fs.writeFileSync(tmp, stripped);
+      try {
+        mod = await import(pathToFileURL(tmp).href);
+        recoveredViaStrip++;
+      } finally {
+        fs.unlinkSync(tmp);
+      }
+    } catch (e2) {
+      console.warn(`  ${f}: ERR ${String(e).slice(0, 120)}`);
+      continue;
+    }
+  }
+  try {
     const arrName = Object.keys(mod).find((k) => k !== "default" && Array.isArray(mod[k]));
     if (!arrName) continue;
     for (const p of mod[arrName]) {
@@ -66,9 +91,10 @@ for (const f of files) {
     loaded++;
     if (loaded % 200 === 0) console.log(`  [${loaded}/${files.length}] +${all.length} POIs (skipped ${dupSkipped} dups)`);
   } catch (e) {
-    console.warn(`  ${f}: ERR ${String(e).slice(0, 120)}`);
+    console.warn(`  ${f}: ITER ERR ${String(e).slice(0, 120)}`);
   }
 }
+console.log(`Recovered via import-strip fallback: ${recoveredViaStrip} files`);
 console.log(`Dedup: skipped ${dupSkipped} duplicate-id POIs during aggregation`);
 
 // === STEP 3: Fix country-only parents ===
