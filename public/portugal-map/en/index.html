@@ -28,8 +28,8 @@ header .langs{display:flex;gap:.25rem}
 #stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
 #svg{width:100%;height:100%;display:block;cursor:grab}
 #svg.drag{cursor:grabbing}
-.region{fill:#1a2240;stroke:#ffffff30;stroke-width:.6;transition:fill .15s}
-.region:hover{fill:#243066}
+.region{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s}
+.region:hover{fill:#2d3a78}
 .label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
 .poi{cursor:pointer}
 .poi circle{fill:#9ca3af;stroke:#000;stroke-width:.5;transition:r .12s,opacity .12s}
@@ -56,6 +56,14 @@ header .langs{display:flex;gap:.25rem}
 .search{flex:1;min-width:0;display:flex;align-items:center;gap:.3rem;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;padding:.15rem .5rem .15rem .6rem;height:30px}
 .search input{flex:1;border:none;outline:none;background:transparent;color:#fff;font-size:.82rem;padding:.25rem 0;min-width:0;font-family:inherit}
 .search input::placeholder{color:#ffffff70}
+.search-results{position:absolute;top:34px;left:0;right:0;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;max-height:280px;overflow-y:auto;display:none;z-index:10;box-shadow:0 4px 16px #00000060}
+.search.has-q .search-results.has-hits{display:block}
+.search-results a{display:flex;align-items:center;gap:.4rem;padding:.45rem .55rem;color:#fff;text-decoration:none;font-size:.8rem;border-bottom:1px solid #ffffff10;cursor:pointer}
+.search-results a:last-child{border-bottom:none}
+.search-results a:hover,.search-results a.active{background:#1a2055}
+.search-results .dot{width:8px;height:8px;border-radius:50%;flex:none}
+.search-results .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.search-results .gr{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em}
 .search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
 .search.has-q button{display:block}
 .poi.hidden{display:none !important}
@@ -101,7 +109,7 @@ header .langs{display:flex;gap:.25rem}
 </header>
 <div class="controls">
 <div class="chips"><button class="chip on g-city" data-g="city" aria-label="Cities" title="Cities (66)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#60a5fa" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21V8l5-3v3l5-3v16M3 12h2m4 0h2m-2 4h2m-2-8h2m4 4h2m-2 4h2m-2-8h2"/></svg></button><button class="chip on g-sight" data-g="sight" aria-label="Sights" title="Sights (4)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fbbf24" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1l2.09 4.74L15 6.4l-3.5 3.41.83 4.83L8 12.27 3.67 14.64 4.5 9.81 1 6.4l4.91-.66z"/></svg></button><button class="chip on g-nature" data-g="nature" aria-label="Nature" title="Nature (69)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#22c55e" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 14V9M8 9l-3 3M8 9l3 3M8 9V5l-3-2M8 5l3-2"/></svg></button><button class="chip on g-industry" data-g="industry" aria-label="Industry" title="Industry (22)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fb923c" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M2 13V6l4 2V6l4 2V6l4 2v5z"/></svg></button><button class="chip on g-other" data-g="other" aria-label="Other" title="Other (44)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#9ca3af" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="3"/></svg></button></div>
-<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="Search…" autocomplete="off"><button id="searchX" aria-label="clear">×</button></div>
+<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="Search…" autocomplete="off"><button id="searchX" aria-label="clear">×</button><div class="search-results" id="searchRes"></div></div>
 </div>
 <div id="stage">
   <svg id="svg" viewBox="0 0 1000 2044" preserveAspectRatio="xMidYMid meet" aria-label="Portugal map">
@@ -124,7 +132,7 @@ header .langs{display:flex;gap:.25rem}
 </div>
 <script>
 const LANG="en",W=1000,H=2044;
-const CLUSTERS=[[{"id":"portugal-figueira-da-foz-cities-v2","name":"Figueira da Foz","grp":"city","url":"/en/portugal/pt/figueira-da-foz/"},{"id":"portugal-figueira-da-foz-cork-economic-v2","name":"Figueira da Foz Cork Processing","grp":"industry","url":"/en/portugal/pt/figueira-da-foz-cork-processing/"},{"id":"portugal-castelo-de-figueira-da-foz-landmarks-v2","name":"Figueira Fortress","grp":"other","url":"/en/portugal/pt/figueira-fortress/"}],[{"id":"portugal-vila-nova-de-gaia-cities-v2","name":"Vila Nova de Gaia","grp":"city","url":"/en/portugal/pt/vila-nova-de-gaia/"},{"id":"portugal-castelo-de-valadares-history-v2","name":"Valadares Castle","grp":"other","url":"/en/portugal/pt/valadares-castle/"},{"id":"portugal-torre-de-clerigos-landmarks-v2","name":"Clerigos Tower","grp":"other","url":"/en/portugal/pt/clerigos-tower/"},{"id":"portugal-igreja-sao-fransisco-landmarks-v2","name":"Church of Saint Francis","grp":"other","url":"/en/portugal/pt/church-of-saint-francis/"},{"id":"portugal-ponte-de-dom-pedro-landmarks-v2","name":"Dom Pedro Bridge","grp":"other","url":"/en/portugal/pt/dom-pedro-bridge/"},{"id":"portugal-palacio-do-freixo-landmarks-v2","name":"Freixo Palace","grp":"other","url":"/en/portugal/pt/freixo-palace/"},{"id":"portugal-jardim-botanico-do-porto-life-v2","name":"Porto Botanical Garden","grp":"nature","url":"/en/portugal/pt/porto-botanical-garden/"}],[{"id":"portugal-matosinhos-cities-v2","name":"Matosinhos","grp":"city","url":"/en/portugal/pt/matosinhos/"},{"id":"portugal-parque-da-cidade-do-porto-life-v2","name":"Porto City Park","grp":"nature","url":"/en/portugal/pt/porto-city-park/"}],[{"id":"portugal-almada-cities-v2","name":"Almada","grp":"city","url":"/en/portugal/pt/almada/"},{"id":"portugal-paco-de-sao-roque-history-v2","name":"Paço de São Roque","grp":"other","url":"/en/portugal/pt/paco-de-sao-roque/"},{"id":"portugal-igreja-do-carmo-landmarks-v2","name":"Carmo Convent","grp":"other","url":"/en/portugal/pt/carmo-convent/"},{"id":"portugal-palacio-de-sao-bento-landmarks-v2","name":"Sao Bento Palace","grp":"other","url":"/en/portugal/pt/sao-bento-palace/"},{"id":"portugal-teatro-nacional-sao-carlos-landmarks-v2","name":"National Theater of Sao Carlos","grp":"other","url":"/en/portugal/pt/national-theater-of-sao-carlos/"},{"id":"portugal-palacio-valadares-landmarks-v2","name":"Valadares Palace","grp":"other","url":"/en/portugal/pt/valadares-palace/"},{"id":"portugal-igreja-do-santo-condestavel-landmarks-v2","name":"Santo Condestavel Church","grp":"other","url":"/en/portugal/pt/santo-condestavel-church/"},{"id":"portugal-tapada-das-necessidades-life-v2","name":"Tapada das Necessidades","grp":"nature","url":"/en/portugal/pt/tapada-das-necessidades/"}],[{"id":"portugal-amadora-cities-v2","name":"Amadora","grp":"city","url":"/en/portugal/pt/amadora/"},{"id":"portugal-palacio-de-queluz-landmarks-v2","name":"Queluz Palace","grp":"other","url":"/en/portugal/pt/queluz-palace/"}],[{"id":"portugal-seixal-cities-v2","name":"Seixal","grp":"city","url":"/en/portugal/pt/seixal/"},{"id":"portugal-parque-de-monterreo-life-v2","name":"Monterreo Park","grp":"nature","url":"/en/portugal/pt/monterreo-park/"}],[{"id":"portugal-mirandela-cities-v2","name":"Mirandela","grp":"city","url":"/en/portugal/pt/mirandela/"},{"id":"portugal-mirandela-olive-oil-economic-v2","name":"Mirandela Olive Oil Center","grp":"industry","url":"/en/portugal/pt/mirandela-olive-oil-center/"}],[{"id":"portugal-povoa-de-varzim-cities-v2","name":"Póvoa de Varzim","grp":"city","url":"/en/portugal/pt/povoa-de-varzim/"},{"id":"portugal-vila-do-conde-cities-v2","name":"Vila do Conde","grp":"city","url":"/en/portugal/pt/vila-do-conde/"}],[{"id":"portugal-oia-cities-v2","name":"Oia","grp":"city","url":"/en/portugal/pt/oia/"},{"id":"portugal-murtosa-cities-v2","name":"Murtosa","grp":"city","url":"/en/portugal/pt/murtosa/"},{"id":"portugal-murtosa-shipbuilding-economic-v2","name":"Murtosa Shipbuilding","grp":"industry","url":"/en/portugal/pt/murtosa-shipbuilding/"}],[{"id":"portugal-maia-cities-v2","name":"Maia","grp":"city","url":"/en/portugal/pt/maia/"},{"id":"portugal-mosteiro-de-leca-do-balio-landmarks-v2","name":"Leça do Balio Monastery","grp":"other","url":"/en/portugal/pt/leca-do-balio-monastery/"}],[{"id":"portugal-penafiel-cities-v2","name":"Penafiel","grp":"city","url":"/en/portugal/pt/penafiel/"},{"id":"portugal-paredes-furniture-economic-v2","name":"Paredes Furniture Cluster","grp":"industry","url":"/en/portugal/pt/paredes-furniture-cluster/"}],[{"id":"portugal-valenca-cities-v2","name":"Valença","grp":"city","url":"/en/portugal/pt/valenca/"},{"id":"portugal-valenca-trade-economic-v2","name":"Valença Trade Center","grp":"industry","url":"/en/portugal/pt/valenca-trade-center/"},{"id":"portugal-fortaleza-de-valenca-history-v2","name":"Valença Fortress","grp":"other","url":"/en/portugal/pt/valenca-fortress/"}],[{"id":"portugal-oaz-cities-v2","name":"Oliveira de Azeméis","grp":"city","url":"/en/portugal/pt/oliveira-de-azemeis/"},{"id":"portugal-oliveira-de-azemeis-metallurgy-economic-v2","name":"Oliveira de Azeméis Metallurgy","grp":"industry","url":"/en/portugal/pt/oliveira-de-azemeis-metallurgy/"}],[{"id":"portugal-viseu-dist-cities-v2","name":"Tondela","grp":"city","url":"/en/portugal/pt/tondela/"},{"id":"portugal-serra-do-caramulo-east-relief-v2","name":"Serra do Caramulo East","grp":"nature","url":"/en/portugal/pt/serra-do-caramulo-east/"}],[{"id":"portugal-fundao-cities-v2","name":"Fundão","grp":"city","url":"/en/portugal/pt/fundao/"},{"id":"portugal-serra-da-gardunha-relief-v2","name":"Serra da Gardunha","grp":"nature","url":"/en/portugal/pt/serra-da-gardunha/"},{"id":"portugal-serra-da-gardunha-north-relief-v2","name":"Serra da Gardunha North","grp":"nature","url":"/en/portugal/pt/serra-da-gardunha-north/"}],[{"id":"portugal-lousa-cities-v2","name":"Lousã","grp":"city","url":"/en/portugal/pt/lousa/"},{"id":"portugal-lousa-paper-mill-economic-v2","name":"Lousã Paper Mill","grp":"industry","url":"/en/portugal/pt/lousa-paper-mill/"}],[{"id":"portugal-tavira-dist-cities-v2","name":"Vila Real de Santo António","grp":"city","url":"/en/portugal/pt/vila-real-de-santo-antonio/"},{"id":"portugal-sapal-de-castro-marim-life-v2","name":"Sapal de Castro Marim Nature Reserve","grp":"nature","url":"/en/portugal/pt/sapal-de-castro-marim-nature-reserve/"}],[{"id":"portugal-alverca-aerospace-economic-v2","name":"Alverca Aerospace Cluster","grp":"industry","url":"/en/portugal/pt/alverca-aerospace-cluster/"},{"id":"portugal-reserva-natural-do-estuario-do-tejo-life-v2","name":"Tejo Estuary Nature Reserve","grp":"nature","url":"/en/portugal/pt/tejo-estuary-nature-reserve/"}],[{"id":"portugal-marinha-grande-glass-economic-v2","name":"Marinha Grande Glass Industry","grp":"industry","url":"/en/portugal/pt/marinha-grande-glass-industry/"},{"id":"portugal-fortaleza-de-marinha-grande-history-v2","name":"Marinha Grande Fortress","grp":"other","url":"/en/portugal/pt/marinha-grande-fortress/"}],[{"id":"portugal-esposende-fishery-economic-v2","name":"Esposende Fisheries","grp":"industry","url":"/en/portugal/pt/esposende-fisheries/"},{"id":"portugal-parque-natural-do-litoral-norte-life-v2","name":"Litoral Norte Natural Park","grp":"nature","url":"/en/portugal/pt/litoral-norte-natural-park/"}],[{"id":"portugal-vagos-renewables-economic-v2","name":"Vagos Renewable Energy","grp":"industry","url":"/en/portugal/pt/vagos-renewable-energy/"},{"id":"portugal-paco-de-valadares-history-v2","name":"Paço de Valadares","grp":"other","url":"/en/portugal/pt/paco-de-valadares/"}],[{"id":"portugal-castelo-de-palmela-history-v2","name":"Palmela Castle","grp":"other","url":"/en/portugal/pt/palmela-castle/"},{"id":"portugal-fortaleza-de-sao-felipe-history-v2","name":"São Felipe Fortress","grp":"other","url":"/en/portugal/pt/sao-felipe-fortress/"}],[{"id":"portugal-palacio-nacional-ajuda-landmarks-v2","name":"Ajuda National Palace","grp":"other","url":"/en/portugal/pt/ajuda-national-palace/"},{"id":"portugal-jardim-botanico-da-ajuda-life-v2","name":"Ajuda Botanical Garden","grp":"nature","url":"/en/portugal/pt/ajuda-botanical-garden/"},{"id":"portugal-jardim-botanico-tropical-life-v2","name":"Tropical Botanical Garden","grp":"nature","url":"/en/portugal/pt/tropical-botanical-garden/"}],[{"id":"portugal-jardim-botanico-de-coimbra-life-v2","name":"Coimbra Botanical Garden","grp":"nature","url":"/en/portugal/pt/coimbra-botanical-garden/"},{"id":"kid-landmark-portugal-dos-pequenitos-coimbra-extra","name":"Portugal dos Pequenitos, Coimbra","grp":"sight","url":"/en/portugal/pt-06/portugal-dos-pequenitos-coimbra/"}],[{"id":"portugal-mata-da-margaraça-nature-v2","name":"Mata da Margaraça","grp":"nature","url":"/en/portugal/pt/mata-da-margaraca/"},{"id":"portugal-serra-do-aco-relief-v2","name":"Serra do Açor","grp":"nature","url":"/en/portugal/pt/serra-do-acor/"}],[{"id":"portugal-lagoa-da-lapa-nature-v2","name":"Lagoa da Lapa","grp":"nature","url":"/en/portugal/pt/lagoa-da-lapa/"},{"id":"portugal-serra-da-lapa-relief-v2","name":"Serra da Lapa","grp":"nature","url":null}],[{"id":"portugal-serra-de-monchique-relief-v2","name":"Serra de Monchique","grp":"nature","url":"/en/portugal/pt/serra-de-monchique/"},{"id":"portugal-serra-de-monchique-north-relief-v2","name":"Serra de Monchique North","grp":"nature","url":"/en/portugal/pt/serra-de-monchique-north/"}],[{"id":"portugal-serra-da-nogueira-relief-v2","name":"Serra da Nogueira","grp":"nature","url":"/en/portugal/pt/serra-da-nogueira/"},{"id":"portugal-serra-da-nogueira-north-relief-v2","name":"Serra da Nogueira North","grp":"nature","url":"/en/portugal/pt/serra-da-nogueira-north/"}]];
+const CLUSTERS=[[{"id":"portugal-figueira-da-foz-cities-v2","name":"Figueira da Foz","grp":"city","url":"/en/portugal/pt/figueira-da-foz/","cx":194.2,"cy":789.1},{"id":"portugal-figueira-da-foz-cork-economic-v2","name":"Figueira da Foz Cork Processing","grp":"industry","url":"/en/portugal/pt/figueira-da-foz-cork-processing/","cx":196,"cy":789.2},{"id":"portugal-castelo-de-figueira-da-foz-landmarks-v2","name":"Figueira Fortress","grp":"other","url":"/en/portugal/pt/figueira-fortress/","cx":195.3,"cy":789.1}],[{"id":"portugal-vila-nova-de-gaia-cities-v2","name":"Vila Nova de Gaia","grp":"city","url":"/en/portugal/pt/vila-nova-de-gaia/","cx":270.1,"cy":405.1},{"id":"portugal-castelo-de-valadares-history-v2","name":"Valadares Castle","grp":"other","url":"/en/portugal/pt/valadares-castle/","cx":265.8,"cy":409.5},{"id":"portugal-torre-de-clerigos-landmarks-v2","name":"Clerigos Tower","grp":"other","url":"/en/portugal/pt/clerigos-tower/","cx":269.1,"cy":396.3},{"id":"portugal-igreja-sao-fransisco-landmarks-v2","name":"Church of Saint Francis","grp":"other","url":"/en/portugal/pt/church-of-saint-francis/","cx":268.9,"cy":397.9},{"id":"portugal-ponte-de-dom-pedro-landmarks-v2","name":"Dom Pedro Bridge","grp":"other","url":"/en/portugal/pt/dom-pedro-bridge/","cx":271,"cy":396.8},{"id":"portugal-palacio-do-freixo-landmarks-v2","name":"Freixo Palace","grp":"other","url":"/en/portugal/pt/freixo-palace/","cx":278.4,"cy":398.7},{"id":"portugal-jardim-botanico-do-porto-life-v2","name":"Porto Botanical Garden","grp":"nature","url":"/en/portugal/pt/porto-botanical-garden/","cx":260.9,"cy":391.9}],[{"id":"portugal-matosinhos-cities-v2","name":"Matosinhos","grp":"city","url":"/en/portugal/pt/matosinhos/","cx":245.8,"cy":381},{"id":"portugal-parque-da-cidade-do-porto-life-v2","name":"Porto City Park","grp":"nature","url":"/en/portugal/pt/porto-city-park/","cx":253.3,"cy":388}],[{"id":"portugal-almada-cities-v2","name":"Almada","grp":"city","url":"/en/portugal/pt/almada/","cx":104.6,"cy":1370.8},{"id":"portugal-paco-de-sao-roque-history-v2","name":"Paço de São Roque","grp":"other","url":"/en/portugal/pt/paco-de-sao-roque/","cx":108.4,"cy":1355.6},{"id":"portugal-igreja-do-carmo-landmarks-v2","name":"Carmo Convent","grp":"other","url":"/en/portugal/pt/carmo-convent/","cx":109.7,"cy":1356.7},{"id":"portugal-palacio-de-sao-bento-landmarks-v2","name":"Sao Bento Palace","grp":"other","url":"/en/portugal/pt/sao-bento-palace/","cx":105.9,"cy":1356.7},{"id":"portugal-teatro-nacional-sao-carlos-landmarks-v2","name":"National Theater of Sao Carlos","grp":"other","url":"/en/portugal/pt/national-theater-of-sao-carlos/","cx":109,"cy":1357.7},{"id":"portugal-palacio-valadares-landmarks-v2","name":"Valadares Palace","grp":"other","url":"/en/portugal/pt/valadares-palace/","cx":110.9,"cy":1357},{"id":"portugal-igreja-do-santo-condestavel-landmarks-v2","name":"Santo Condestavel Church","grp":"other","url":"/en/portugal/pt/santo-condestavel-church/","cx":101.3,"cy":1355.7},{"id":"portugal-tapada-das-necessidades-life-v2","name":"Tapada das Necessidades","grp":"nature","url":"/en/portugal/pt/tapada-das-necessidades/","cx":101.3,"cy":1358.1}],[{"id":"portugal-amadora-cities-v2","name":"Amadora","grp":"city","url":"/en/portugal/pt/amadora/","cx":81.7,"cy":1338.1},{"id":"portugal-palacio-de-queluz-landmarks-v2","name":"Queluz Palace","grp":"other","url":"/en/portugal/pt/queluz-palace/","cx":73.1,"cy":1341.4}],[{"id":"portugal-seixal-cities-v2","name":"Seixal","grp":"city","url":"/en/portugal/pt/seixal/","cx":120.5,"cy":1384.5},{"id":"portugal-parque-de-monterreo-life-v2","name":"Monterreo Park","grp":"nature","url":"/en/portugal/pt/monterreo-park/","cx":121.6,"cy":1381.1}],[{"id":"portugal-mirandela-cities-v2","name":"Mirandela","grp":"city","url":"/en/portugal/pt/mirandela/","cx":703.1,"cy":262},{"id":"portugal-mirandela-olive-oil-economic-v2","name":"Mirandela Olive Oil Center","grp":"industry","url":"/en/portugal/pt/mirandela-olive-oil-center/","cx":703.6,"cy":261.6}],[{"id":"portugal-povoa-de-varzim-cities-v2","name":"Póvoa de Varzim","grp":"city","url":"/en/portugal/pt/povoa-de-varzim/","cx":224.6,"cy":303.8},{"id":"portugal-vila-do-conde-cities-v2","name":"Vila do Conde","grp":"city","url":"/en/portugal/pt/vila-do-conde/","cx":230,"cy":314.4}],[{"id":"portugal-oia-cities-v2","name":"Oia","grp":"city","url":"/en/portugal/pt/oia/","cx":265.1,"cy":558.9},{"id":"portugal-murtosa-cities-v2","name":"Murtosa","grp":"city","url":"/en/portugal/pt/murtosa/","cx":263.4,"cy":559},{"id":"portugal-murtosa-shipbuilding-economic-v2","name":"Murtosa Shipbuilding","grp":"industry","url":"/en/portugal/pt/murtosa-shipbuilding/","cx":263.5,"cy":559.1}],[{"id":"portugal-maia-cities-v2","name":"Maia","grp":"city","url":"/en/portugal/pt/maia/","cx":268.5,"cy":361.7},{"id":"portugal-mosteiro-de-leca-do-balio-landmarks-v2","name":"Leça do Balio Monastery","grp":"other","url":"/en/portugal/pt/leca-do-balio-monastery/","cx":267.9,"cy":367.6}],[{"id":"portugal-penafiel-cities-v2","name":"Penafiel","grp":"city","url":"/en/portugal/pt/penafiel/","cx":369.8,"cy":374.9},{"id":"portugal-paredes-furniture-economic-v2","name":"Paredes Furniture Cluster","grp":"industry","url":"/en/portugal/pt/paredes-furniture-cluster/","cx":355,"cy":372.9}],[{"id":"portugal-valenca-cities-v2","name":"Valença","grp":"city","url":"/en/portugal/pt/valenca/","cx":263.4,"cy":46},{"id":"portugal-valenca-trade-economic-v2","name":"Valença Trade Center","grp":"industry","url":"/en/portugal/pt/valenca-trade-center/","cx":260.5,"cy":49.3},{"id":"portugal-fortaleza-de-valenca-history-v2","name":"Valença Fortress","grp":"other","url":"/en/portugal/pt/valenca-fortress/","cx":260.9,"cy":47.6}],[{"id":"portugal-oaz-cities-v2","name":"Oliveira de Azeméis","grp":"city","url":"/en/portugal/pt/oliveira-de-azemeis/","cx":309,"cy":519.6},{"id":"portugal-oliveira-de-azemeis-metallurgy-economic-v2","name":"Oliveira de Azeméis Metallurgy","grp":"industry","url":"/en/portugal/pt/oliveira-de-azemeis-metallurgy/","cx":309.1,"cy":518.9}],[{"id":"portugal-viseu-dist-cities-v2","name":"Tondela","grp":"city","url":"/en/portugal/pt/tondela/","cx":430.6,"cy":644.5},{"id":"portugal-serra-do-caramulo-east-relief-v2","name":"Serra do Caramulo East","grp":"nature","url":"/en/portugal/pt/serra-do-caramulo-east/","cx":425.5,"cy":651.1}],[{"id":"portugal-fundao-cities-v2","name":"Fundão","grp":"city","url":"/en/portugal/pt/fundao/","cx":607.9,"cy":795.8},{"id":"portugal-serra-da-gardunha-relief-v2","name":"Serra da Gardunha","grp":"nature","url":"/en/portugal/pt/serra-da-gardunha/","cx":617,"cy":801},{"id":"portugal-serra-da-gardunha-north-relief-v2","name":"Serra da Gardunha North","grp":"nature","url":"/en/portugal/pt/serra-da-gardunha-north/","cx":623.1,"cy":789.2}],[{"id":"portugal-lousa-cities-v2","name":"Lousã","grp":"city","url":"/en/portugal/pt/lousa/","cx":379.9,"cy":802.3},{"id":"portugal-lousa-paper-mill-economic-v2","name":"Lousã Paper Mill","grp":"industry","url":"/en/portugal/pt/lousa-paper-mill/","cx":382.1,"cy":802.6}],[{"id":"portugal-tavira-dist-cities-v2","name":"Vila Real de Santo António","grp":"city","url":"/en/portugal/pt/vila-real-de-santo-antonio/","cx":633.2,"cy":1953.2},{"id":"portugal-sapal-de-castro-marim-life-v2","name":"Sapal de Castro Marim Nature Reserve","grp":"nature","url":"/en/portugal/pt/sapal-de-castro-marim-nature-reserve/","cx":623.1,"cy":1946.7}],[{"id":"portugal-alverca-aerospace-economic-v2","name":"Alverca Aerospace Cluster","grp":"industry","url":"/en/portugal/pt/alverca-aerospace-cluster/","cx":141.3,"cy":1287.6},{"id":"portugal-reserva-natural-do-estuario-do-tejo-life-v2","name":"Tejo Estuary Nature Reserve","grp":"nature","url":"/en/portugal/pt/tejo-estuary-nature-reserve/","cx":146.9,"cy":1295.6}],[{"id":"portugal-marinha-grande-glass-economic-v2","name":"Marinha Grande Glass Industry","grp":"industry","url":"/en/portugal/pt/marinha-grande-glass-industry/","cx":172.6,"cy":946.2},{"id":"portugal-fortaleza-de-marinha-grande-history-v2","name":"Marinha Grande Fortress","grp":"other","url":"/en/portugal/pt/marinha-grande-fortress/","cx":172.5,"cy":945.4}],[{"id":"portugal-esposende-fishery-economic-v2","name":"Esposende Fisheries","grp":"industry","url":"/en/portugal/pt/esposende-fisheries/","cx":217.9,"cy":244.6},{"id":"portugal-parque-natural-do-litoral-norte-life-v2","name":"Litoral Norte Natural Park","grp":"nature","url":"/en/portugal/pt/litoral-norte-natural-park/","cx":217.8,"cy":249.9}],[{"id":"portugal-vagos-renewables-economic-v2","name":"Vagos Renewable Energy","grp":"industry","url":"/en/portugal/pt/vagos-renewable-energy/","cx":250.8,"cy":631.4},{"id":"portugal-paco-de-valadares-history-v2","name":"Paço de Valadares","grp":"other","url":"/en/portugal/pt/paco-de-valadares/","cx":250.6,"cy":634}],[{"id":"portugal-castelo-de-palmela-history-v2","name":"Palmela Castle","grp":"other","url":"/en/portugal/pt/palmela-castle/","cx":181.9,"cy":1413.6},{"id":"portugal-fortaleza-de-sao-felipe-history-v2","name":"São Felipe Fortress","grp":"other","url":"/en/portugal/pt/sao-felipe-fortress/","cx":183.9,"cy":1429}],[{"id":"portugal-palacio-nacional-ajuda-landmarks-v2","name":"Ajuda National Palace","grp":"other","url":"/en/portugal/pt/ajuda-national-palace/","cx":90,"cy":1356.4},{"id":"portugal-jardim-botanico-da-ajuda-life-v2","name":"Ajuda Botanical Garden","grp":"nature","url":"/en/portugal/pt/ajuda-botanical-garden/","cx":90.3,"cy":1355.9},{"id":"portugal-jardim-botanico-tropical-life-v2","name":"Tropical Botanical Garden","grp":"nature","url":"/en/portugal/pt/tropical-botanical-garden/","cx":89.5,"cy":1363.6}],[{"id":"portugal-jardim-botanico-de-coimbra-life-v2","name":"Coimbra Botanical Garden","grp":"nature","url":"/en/portugal/pt/coimbra-botanical-garden/","cx":327.6,"cy":767.2},{"id":"kid-landmark-portugal-dos-pequenitos-coimbra-extra","name":"Portugal dos Pequenitos, Coimbra","grp":"sight","url":"/en/portugal/pt-06/portugal-dos-pequenitos-coimbra/","cx":325.2,"cy":769.5}],[{"id":"portugal-mata-da-margaraça-nature-v2","name":"Mata da Margaraça","grp":"nature","url":"/en/portugal/pt/mata-da-margaraca/","cx":489.4,"cy":757.6},{"id":"portugal-serra-do-aco-relief-v2","name":"Serra do Açor","grp":"nature","url":"/en/portugal/pt/serra-do-acor/","cx":498.5,"cy":757.6}],[{"id":"portugal-lagoa-da-lapa-nature-v2","name":"Lagoa da Lapa","grp":"nature","url":"/en/portugal/pt/lagoa-da-lapa/","cx":583.6,"cy":513},{"id":"portugal-serra-da-lapa-relief-v2","name":"Serra da Lapa","grp":"nature","url":null,"cx":583.6,"cy":513}],[{"id":"portugal-serra-de-monchique-relief-v2","name":"Serra de Monchique","grp":"nature","url":"/en/portugal/pt/serra-de-monchique/","cx":276.6,"cy":1909.8},{"id":"portugal-serra-de-monchique-north-relief-v2","name":"Serra de Monchique North","grp":"nature","url":"/en/portugal/pt/serra-de-monchique-north/","cx":273.6,"cy":1894.1}],[{"id":"portugal-serra-da-nogueira-relief-v2","name":"Serra da Nogueira","grp":"nature","url":"/en/portugal/pt/serra-da-nogueira/","cx":814.6,"cy":169.7},{"id":"portugal-serra-da-nogueira-north-relief-v2","name":"Serra da Nogueira North","grp":"nature","url":"/en/portugal/pt/serra-da-nogueira-north/","cx":820.7,"cy":157.8}]];
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=6;
@@ -166,11 +174,25 @@ function applyGrpFilter(){
 }
 document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
 // Search: dim non-matching POIs + recompute cluster visibility (only count matches)
-const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap');
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap'),sRes=document.getElementById('searchRes');
 function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
-// Quick lookup of POI's normalized search text by id (for cluster filtering)
+// Quick lookup of POI's normalized search text + display name + group + coords by id
+const POI_INDEX={};
+gP.querySelectorAll('.poi').forEach(p=>{
+  const id=p.getAttribute('data-id');
+  const t=p.getAttribute('transform')||'';
+  const m=t.match(/translate\(([-\d.]+),([-\d.]+)\)/);
+  POI_INDEX[id]={
+    search:p.getAttribute('data-search')||'',
+    name:p.getAttribute('data-name')||id,
+    grp:p.getAttribute('data-grp')||'other',
+    url:p.getAttribute('data-url')||null,
+    cx:m?+m[1]:0,cy:m?+m[2]:0
+  };
+});
 const POI_SEARCH_BY_ID={};
-gP.querySelectorAll('.poi').forEach(p=>{POI_SEARCH_BY_ID[p.getAttribute('data-id')]=p.getAttribute('data-search')||''});
+for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
 function applySearch(){
   const q=norm(sIn.value.trim());
   sW.classList.toggle('has-q',!!q);
@@ -202,9 +224,93 @@ function applySearch(){
   gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
     p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
   });
+  // Phase 3: dropdown list of top matches (count ALL matching for auto-zoom decision)
+  if(!q){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  const hits=[];
+  for(const id in POI_INDEX){
+    const e=POI_INDEX[id];
+    if(!activeGrps.has(e.grp))continue;
+    if(!e.search.includes(q))continue;
+    if(hits.length<50)hits.push({id,...e});
+  }
+  // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
+  // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
+  // Compute by examining current cluster visibility (already set in Phase 2 above).
+  if(hits.length>0){
+    // Map: poi-id -> cluster index it belongs to (if any)
+    const poiToCluster={};
+    for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
+    // Group matches by their visible "thing": either a visible cluster (id of cluster) or 'solo' + poi-id.
+    // A cluster is "visible" if its DOM .cluster element does NOT have .hidden.
+    // A POI is "shown solo" if either: not in any cluster, OR in a cluster whose .cluster element IS hidden (= cluster collapsed to <=1 match).
+    const visibleClusterIdx=new Set();
+    if(gC){
+      gC.querySelectorAll('.cluster:not(.hidden)').forEach(c=>visibleClusterIdx.add(+c.getAttribute('data-i')));
+    }
+    const visibleThings=new Set();
+    for(const h of hits){
+      const ci=poiToCluster[h.id];
+      if(ci!==undefined && visibleClusterIdx.has(ci)){
+        visibleThings.add('c'+ci);
+      }else{
+        visibleThings.add('p'+h.id);
+      }
+    }
+    const onlyOneThing=visibleThings.size===1;
+    if(onlyOneThing){
+      const thing=Array.from(visibleThings)[0];
+      let cx,cy;
+      if(thing[0]==='p'){
+        // Solo POI (or revealed cluster-POI)
+        const id=thing.slice(1);
+        const e=POI_INDEX[id];
+        if(e){cx=e.cx;cy=e.cy}
+      }else{
+        // Visible cluster (c<idx>) — center = avg of cluster's POI coords
+        const ci=+thing.slice(1);
+        const cl=CLUSTERS[ci]||[];
+        let sx=0,sy=0,n=0;
+        for(const p of cl){sx+=p.cx||0;sy+=p.cy||0;n++}
+        if(n>0){cx=sx/n;cy=sy/n}
+      }
+      if(cx!==undefined){
+        // Use 4× zoom (below EXPAND_SCALE=6 so clusters stay collapsed as numbers,
+        // POI doesn't disappear into expanded form)
+        s=4;
+        tx=W/2-cx*s;
+        // Bias the target 20% above viewBox center so it's not hidden behind the search dropdown / header
+        ty=H*0.32-cy*s;
+        ap();
+        sRes.innerHTML='';
+        sRes.classList.remove('has-hits');
+        return;
+      }
+    }
+  }
+  if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  sRes.innerHTML=hits.map(h=>{
+    const grpLabel=String(h.grp);
+    return '<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+grpLabel+'</span></a>';
+  }).join('');
+  sRes.classList.add('has-hits');
 }
 sIn.addEventListener('input',applySearch);
 sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
+// Click on dropdown item: zoom-pan to POI, do NOT auto-navigate (user can click again on map dot for that)
+sRes.addEventListener('click',e=>{
+  const a=e.target.closest('a[data-id]');
+  if(!a)return;
+  e.preventDefault();
+  const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
+  s=4;
+  tx=W/2-cx*s;
+  ty=H*0.32-cy*s;
+  ap();
+  sRes.classList.remove('has-hits');
+  sIn.blur();
+});
+// Close dropdown on outside click
+document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
 </script>
 </body>
 </html>

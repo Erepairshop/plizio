@@ -98,6 +98,40 @@ const COUNTRIES: Country[] = [
     names:{ de:"Zypern", hu:"Ciprus", ro:"Cipru", en:"Cyprus" } },
   { iso:"lu", slug:"luxembourg", svgFile:"luxembourg.svg.ts", mapVar:"luxembourgMap", vbVar:"luxembourgViewBox", projFn:"projectCoordsLU",
     names:{ de:"Luxemburg", hu:"Luxemburg", ro:"Luxemburg", en:"Luxembourg" } },
+
+  // === North America (2026-05-27) ===
+  { iso:"us", slug:"usa", svgFile:"usa.svg.ts", mapVar:"usaMap", vbVar:"usaViewBox", projFn:"projectCoordsUS",
+    names:{ de:"USA", hu:"Egyesült Államok", ro:"SUA", en:"United States" } },
+  { iso:"ca", slug:"canada", svgFile:"canada.svg.ts", mapVar:"canadaMap", vbVar:"canadaViewBox", projFn:"projectCoordsCA",
+    names:{ de:"Kanada", hu:"Kanada", ro:"Canada", en:"Canada" } },
+  { iso:"mx", slug:"mexico", svgFile:"mexico.svg.ts", mapVar:"mexicoMap", vbVar:"mexicoViewBox", projFn:"projectCoordsMX",
+    names:{ de:"Mexiko", hu:"Mexikó", ro:"Mexic", en:"Mexico" } },
+  { iso:"gt", slug:"guatemala", svgFile:"guatemala.svg.ts", mapVar:"guatemalaMap", vbVar:"guatemalaViewBox", projFn:"projectCoordsGT",
+    names:{ de:"Guatemala", hu:"Guatemala", ro:"Guatemala", en:"Guatemala" } },
+  { iso:"hn", slug:"honduras", svgFile:"honduras.svg.ts", mapVar:"hondurasMap", vbVar:"hondurasViewBox", projFn:"projectCoordsHN",
+    names:{ de:"Honduras", hu:"Honduras", ro:"Honduras", en:"Honduras" } },
+  { iso:"sv", slug:"elsalvador", svgFile:"elsalvador.svg.ts", mapVar:"elsalvadorMap", vbVar:"elsalvadorViewBox", projFn:"projectCoordsSV",
+    names:{ de:"El Salvador", hu:"Salvador", ro:"El Salvador", en:"El Salvador" } },
+  { iso:"ni", slug:"nicaragua", svgFile:"nicaragua.svg.ts", mapVar:"nicaraguaMap", vbVar:"nicaraguaViewBox", projFn:"projectCoordsNI",
+    names:{ de:"Nicaragua", hu:"Nicaragua", ro:"Nicaragua", en:"Nicaragua" } },
+  { iso:"cr", slug:"costarica", svgFile:"costarica.svg.ts", mapVar:"costaricaMap", vbVar:"costaricaViewBox", projFn:"projectCoordsCR",
+    names:{ de:"Costa Rica", hu:"Costa Rica", ro:"Costa Rica", en:"Costa Rica" } },
+  { iso:"pa", slug:"panama", svgFile:"panama.svg.ts", mapVar:"panamaMap", vbVar:"panamaViewBox", projFn:"projectCoordsPA",
+    names:{ de:"Panama", hu:"Panama", ro:"Panama", en:"Panama" } },
+  { iso:"bz", slug:"belize", svgFile:"belize.svg.ts", mapVar:"belizeMap", vbVar:"belizeViewBox", projFn:"projectCoordsBZ",
+    names:{ de:"Belize", hu:"Belize", ro:"Belize", en:"Belize" } },
+  { iso:"cu", slug:"cuba", svgFile:"cuba.svg.ts", mapVar:"cubaMap", vbVar:"cubaViewBox", projFn:"projectCoordsCU",
+    names:{ de:"Kuba", hu:"Kuba", ro:"Cuba", en:"Cuba" } },
+  { iso:"jm", slug:"jamaica", svgFile:"jamaica.svg.ts", mapVar:"jamaicaMap", vbVar:"jamaicaViewBox", projFn:"projectCoordsJM",
+    names:{ de:"Jamaika", hu:"Jamaica", ro:"Jamaica", en:"Jamaica" } },
+  { iso:"ht", slug:"haiti", svgFile:"haiti.svg.ts", mapVar:"haitiMap", vbVar:"haitiViewBox", projFn:"projectCoordsHT",
+    names:{ de:"Haiti", hu:"Haiti", ro:"Haiti", en:"Haiti" } },
+  { iso:"do", slug:"dominicanrepublic", svgFile:"dominicanrepublic.svg.ts", mapVar:"dominicanrepublicMap", vbVar:"dominicanrepublicViewBox", projFn:"projectCoordsDO",
+    names:{ de:"Dominikanische Republik", hu:"Dominikai Köztársaság", ro:"Republica Dominicană", en:"Dominican Republic" } },
+  { iso:"bs", slug:"bahamas", svgFile:"bahamas.svg.ts", mapVar:"bahamasMap", vbVar:"bahamasViewBox", projFn:"projectCoordsBS",
+    names:{ de:"Bahamas", hu:"Bahama-szigetek", ro:"Bahamas", en:"Bahamas" } },
+  { iso:"tt", slug:"trinidad", svgFile:"trinidad.svg.ts", mapVar:"trinidadMap", vbVar:"trinidadViewBox", projFn:"projectCoordsTT",
+    names:{ de:"Trinidad", hu:"Trinidad", ro:"Trinidad", en:"Trinidad" } },
 ];
 
 const HINT: Record<Lang, string> = {
@@ -294,8 +328,8 @@ header .langs{display:flex;gap:.25rem}
 #stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
 #svg{width:100%;height:100%;display:block;cursor:grab}
 #svg.drag{cursor:grabbing}
-.region{fill:#1a2240;stroke:#ffffff30;stroke-width:.6;transition:fill .15s}
-.region:hover{fill:#243066}
+.region{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s}
+.region:hover{fill:#2d3a78}
 .label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
 .poi{cursor:pointer}
 .poi circle{fill:#9ca3af;stroke:#000;stroke-width:.5;transition:r .12s,opacity .12s}
@@ -322,6 +356,14 @@ header .langs{display:flex;gap:.25rem}
 .search{flex:1;min-width:0;display:flex;align-items:center;gap:.3rem;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;padding:.15rem .5rem .15rem .6rem;height:30px}
 .search input{flex:1;border:none;outline:none;background:transparent;color:#fff;font-size:.82rem;padding:.25rem 0;min-width:0;font-family:inherit}
 .search input::placeholder{color:#ffffff70}
+.search-results{position:absolute;top:34px;left:0;right:0;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;max-height:280px;overflow-y:auto;display:none;z-index:10;box-shadow:0 4px 16px #00000060}
+.search.has-q .search-results.has-hits{display:block}
+.search-results a{display:flex;align-items:center;gap:.4rem;padding:.45rem .55rem;color:#fff;text-decoration:none;font-size:.8rem;border-bottom:1px solid #ffffff10;cursor:pointer}
+.search-results a:last-child{border-bottom:none}
+.search-results a:hover,.search-results a.active{background:#1a2055}
+.search-results .dot{width:8px;height:8px;border-radius:50%;flex:none}
+.search-results .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.search-results .gr{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em}
 .search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
 .search.has-q button{display:block}
 .poi.hidden{display:none !important}
@@ -367,7 +409,7 @@ header .langs{display:flex;gap:.25rem}
 </header>
 <div class="controls">
 <div class="chips">${chipsHtml}</div>
-<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="${searchPh}" autocomplete="off"><button id="searchX" aria-label="clear">×</button></div>
+<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="${searchPh}" autocomplete="off"><button id="searchX" aria-label="clear">×</button><div class="search-results" id="searchRes"></div></div>
 </div>
 <div id="stage">
   <svg id="svg" viewBox="${viewBox}" preserveAspectRatio="xMidYMid meet" aria-label="${t}">
@@ -404,7 +446,7 @@ header .langs{display:flex;gap:.25rem}
 </div>
 <script>
 const LANG=${JSON.stringify(lang)},W=${W},H=${H};
-const CLUSTERS=${JSON.stringify(multiClusters.map(cl => cl.pois.map(p => ({id:p.id, name:p.name[lang]||p.name.en||p.id, grp:p.grp, url:p.urls?.[lang]||null}))))};
+const CLUSTERS=${JSON.stringify(multiClusters.map(cl => cl.pois.map(p => ({id:p.id, name:p.name[lang]||p.name.en||p.id, grp:p.grp, url:p.urls?.[lang]||null, cx:p.cx, cy:p.cy}))))};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=6;
@@ -446,11 +488,25 @@ function applyGrpFilter(){
 }
 document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
 // Search: dim non-matching POIs + recompute cluster visibility (only count matches)
-const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap');
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap'),sRes=document.getElementById('searchRes');
 function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
-// Quick lookup of POI's normalized search text by id (for cluster filtering)
+// Quick lookup of POI's normalized search text + display name + group + coords by id
+const POI_INDEX={};
+gP.querySelectorAll('.poi').forEach(p=>{
+  const id=p.getAttribute('data-id');
+  const t=p.getAttribute('transform')||'';
+  const m=t.match(/translate\\(([-\\d.]+),([-\\d.]+)\\)/);
+  POI_INDEX[id]={
+    search:p.getAttribute('data-search')||'',
+    name:p.getAttribute('data-name')||id,
+    grp:p.getAttribute('data-grp')||'other',
+    url:p.getAttribute('data-url')||null,
+    cx:m?+m[1]:0,cy:m?+m[2]:0
+  };
+});
 const POI_SEARCH_BY_ID={};
-gP.querySelectorAll('.poi').forEach(p=>{POI_SEARCH_BY_ID[p.getAttribute('data-id')]=p.getAttribute('data-search')||''});
+for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
 function applySearch(){
   const q=norm(sIn.value.trim());
   sW.classList.toggle('has-q',!!q);
@@ -482,9 +538,93 @@ function applySearch(){
   gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
     p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
   });
+  // Phase 3: dropdown list of top matches (count ALL matching for auto-zoom decision)
+  if(!q){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  const hits=[];
+  for(const id in POI_INDEX){
+    const e=POI_INDEX[id];
+    if(!activeGrps.has(e.grp))continue;
+    if(!e.search.includes(q))continue;
+    if(hits.length<50)hits.push({id,...e});
+  }
+  // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
+  // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
+  // Compute by examining current cluster visibility (already set in Phase 2 above).
+  if(hits.length>0){
+    // Map: poi-id -> cluster index it belongs to (if any)
+    const poiToCluster={};
+    for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
+    // Group matches by their visible "thing": either a visible cluster (id of cluster) or 'solo' + poi-id.
+    // A cluster is "visible" if its DOM .cluster element does NOT have .hidden.
+    // A POI is "shown solo" if either: not in any cluster, OR in a cluster whose .cluster element IS hidden (= cluster collapsed to <=1 match).
+    const visibleClusterIdx=new Set();
+    if(gC){
+      gC.querySelectorAll('.cluster:not(.hidden)').forEach(c=>visibleClusterIdx.add(+c.getAttribute('data-i')));
+    }
+    const visibleThings=new Set();
+    for(const h of hits){
+      const ci=poiToCluster[h.id];
+      if(ci!==undefined && visibleClusterIdx.has(ci)){
+        visibleThings.add('c'+ci);
+      }else{
+        visibleThings.add('p'+h.id);
+      }
+    }
+    const onlyOneThing=visibleThings.size===1;
+    if(onlyOneThing){
+      const thing=Array.from(visibleThings)[0];
+      let cx,cy;
+      if(thing[0]==='p'){
+        // Solo POI (or revealed cluster-POI)
+        const id=thing.slice(1);
+        const e=POI_INDEX[id];
+        if(e){cx=e.cx;cy=e.cy}
+      }else{
+        // Visible cluster (c<idx>) — center = avg of cluster's POI coords
+        const ci=+thing.slice(1);
+        const cl=CLUSTERS[ci]||[];
+        let sx=0,sy=0,n=0;
+        for(const p of cl){sx+=p.cx||0;sy+=p.cy||0;n++}
+        if(n>0){cx=sx/n;cy=sy/n}
+      }
+      if(cx!==undefined){
+        // Use 4× zoom (below EXPAND_SCALE=6 so clusters stay collapsed as numbers,
+        // POI doesn't disappear into expanded form)
+        s=4;
+        tx=W/2-cx*s;
+        // Bias the target 20% above viewBox center so it's not hidden behind the search dropdown / header
+        ty=H*0.32-cy*s;
+        ap();
+        sRes.innerHTML='';
+        sRes.classList.remove('has-hits');
+        return;
+      }
+    }
+  }
+  if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  sRes.innerHTML=hits.map(h=>{
+    const grpLabel=String(h.grp);
+    return '<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+grpLabel+'</span></a>';
+  }).join('');
+  sRes.classList.add('has-hits');
 }
 sIn.addEventListener('input',applySearch);
 sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
+// Click on dropdown item: zoom-pan to POI, do NOT auto-navigate (user can click again on map dot for that)
+sRes.addEventListener('click',e=>{
+  const a=e.target.closest('a[data-id]');
+  if(!a)return;
+  e.preventDefault();
+  const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
+  s=4;
+  tx=W/2-cx*s;
+  ty=H*0.32-cy*s;
+  ap();
+  sRes.classList.remove('has-hits');
+  sIn.blur();
+});
+// Close dropdown on outside click
+document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
 </script>
 </body>
 </html>`;

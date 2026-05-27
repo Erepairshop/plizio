@@ -28,8 +28,8 @@ header .langs{display:flex;gap:.25rem}
 #stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
 #svg{width:100%;height:100%;display:block;cursor:grab}
 #svg.drag{cursor:grabbing}
-.region{fill:#1a2240;stroke:#ffffff30;stroke-width:.6;transition:fill .15s}
-.region:hover{fill:#243066}
+.region{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s}
+.region:hover{fill:#2d3a78}
 .label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
 .poi{cursor:pointer}
 .poi circle{fill:#9ca3af;stroke:#000;stroke-width:.5;transition:r .12s,opacity .12s}
@@ -56,6 +56,14 @@ header .langs{display:flex;gap:.25rem}
 .search{flex:1;min-width:0;display:flex;align-items:center;gap:.3rem;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;padding:.15rem .5rem .15rem .6rem;height:30px}
 .search input{flex:1;border:none;outline:none;background:transparent;color:#fff;font-size:.82rem;padding:.25rem 0;min-width:0;font-family:inherit}
 .search input::placeholder{color:#ffffff70}
+.search-results{position:absolute;top:34px;left:0;right:0;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;max-height:280px;overflow-y:auto;display:none;z-index:10;box-shadow:0 4px 16px #00000060}
+.search.has-q .search-results.has-hits{display:block}
+.search-results a{display:flex;align-items:center;gap:.4rem;padding:.45rem .55rem;color:#fff;text-decoration:none;font-size:.8rem;border-bottom:1px solid #ffffff10;cursor:pointer}
+.search-results a:last-child{border-bottom:none}
+.search-results a:hover,.search-results a.active{background:#1a2055}
+.search-results .dot{width:8px;height:8px;border-radius:50%;flex:none}
+.search-results .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.search-results .gr{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em}
 .search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
 .search.has-q button{display:block}
 .poi.hidden{display:none !important}
@@ -101,7 +109,7 @@ header .langs{display:flex;gap:.25rem}
 </header>
 <div class="controls">
 <div class="chips"><button class="chip on g-city" data-g="city" aria-label="Városok" title="Városok (84)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#60a5fa" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21V8l5-3v3l5-3v16M3 12h2m4 0h2m-2 4h2m-2-8h2m4 4h2m-2 4h2m-2-8h2"/></svg></button><button class="chip on g-sight" data-g="sight" aria-label="Látnivalók" title="Látnivalók (8)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fbbf24" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1l2.09 4.74L15 6.4l-3.5 3.41.83 4.83L8 12.27 3.67 14.64 4.5 9.81 1 6.4l4.91-.66z"/></svg></button><button class="chip on g-nature" data-g="nature" aria-label="Természet" title="Természet (67)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#22c55e" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 14V9M8 9l-3 3M8 9l3 3M8 9V5l-3-2M8 5l3-2"/></svg></button><button class="chip on g-industry" data-g="industry" aria-label="Ipar" title="Ipar (20)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#fb923c" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M2 13V6l4 2V6l4 2V6l4 2v5z"/></svg></button><button class="chip on g-other" data-g="other" aria-label="Egyéb" title="Egyéb (47)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#9ca3af" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="3"/></svg></button></div>
-<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="Keresés…" autocomplete="off"><button id="searchX" aria-label="clear">×</button></div>
+<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="Keresés…" autocomplete="off"><button id="searchX" aria-label="clear">×</button><div class="search-results" id="searchRes"></div></div>
 </div>
 <div id="stage">
   <svg id="svg" viewBox="0 0 1000 1474" preserveAspectRatio="xMidYMid meet" aria-label="Írország térkép">
@@ -124,7 +132,7 @@ header .langs{display:flex;gap:.25rem}
 </div>
 <script>
 const LANG="hu",W=1000,H=1474;
-const CLUSTERS=[[{"id":"ireland-arklow-cities-v2","name":"Arklow","grp":"city","url":"/hu/irorszag/ie/arklow/"},{"id":"ireland-arklow-low-cities-v2","name":"Arklow-Lower","grp":"city","url":"/hu/irorszag/ie/arklow-lower/"}],[{"id":"ireland-ashbourne-cities-v2","name":"Ashbourne","grp":"city","url":"/hu/irorszag/ie/ashbourne/"},{"id":"ireland-ashbourne-business-park-economic-v2","name":"Ashbourne üzleti park","grp":"industry","url":"/hu/irorszag/ie/ashbourne-uezleti-park/"},{"id":"ireland-ashbourne-battlefield-history-v2","name":"Ashbourne csatatér","grp":"other","url":"/hu/irorszag/ie/ashbourne-csatater/"}],[{"id":"ireland-ballincollig-cities-v2","name":"Ballincollig","grp":"city","url":"/hu/irorszag/ie/ballincollig/"},{"id":"ireland-blarney-house-landmarks-v2","name":"Blarney Ház","grp":"other","url":"/hu/irorszag/ie/blarney-haz/"}],[{"id":"ireland-bantry-cities-v2","name":"Bantry","grp":"city","url":"/hu/irorszag/ie/bantry/"},{"id":"ireland-bantry-house-landmarks-v2","name":"Bantry Ház","grp":"other","url":"/hu/irorszag/ie/bantry-haz/"}],[{"id":"ireland-cashel-cities-v2","name":"Cashel","grp":"city","url":"/hu/irorszag/ie/cashel/"},{"id":"ireland-cashel-cathedral-landmarks-v2","name":"St. John székesegyház","grp":"other","url":"/hu/irorszag/ie/st-john-szekesegyhaz/"}],[{"id":"ireland-cobh-cities-v2","name":"Cobh","grp":"city","url":"/hu/irorszag/ie/cobh/"},{"id":"ireland-ringaskiddy-port-economic-v2","name":"Ringaskiddy kikötő","grp":"industry","url":"/hu/irorszag/ie/ringaskiddy-kikoeto/"},{"id":"ireland-fota-gardens-life-v2","name":"Fota Arborétum és Kertek","grp":"nature","url":"/hu/irorszag/ie/fota-arboretum-es-kertek/"},{"id":"animal-habitat-fota-wildlife-extra","name":"Fota Vadaspark","grp":"nature","url":"/hu/irorszag/ie/fota-vadaspark/"}],[{"id":"ireland-cratloe-cities-v2","name":"Cratloe","grp":"city","url":"/hu/irorszag/ie/cratloe/"},{"id":"ireland-bunratty-castle-landmarks-v2","name":"Bunratty kastély","grp":"other","url":"/hu/irorszag/ie/bunratty-kastely/"}],[{"id":"ireland-dalkey-cities-v2","name":"Dalkey","grp":"city","url":"/hu/irorszag/ie/dalkey/"},{"id":"ireland-monkstown-cities-v2","name":"Monkstown","grp":"city","url":"/hu/irorszag/ie/monkstown/"}],[{"id":"ireland-enos-cities-v2","name":"Enniskillen","grp":"city","url":"/hu/irorszag/ie/enniskillen/"},{"id":"ireland-devenish-island-history-v2","name":"Devenish sziget","grp":"other","url":"/hu/irorszag/ie/devenish-sziget/"},{"id":"ireland-enniskillen-castle-history-v2","name":"Enniskillen kastély","grp":"other","url":"/hu/irorszag/ie/enniskillen-kastely/"},{"id":"ireland-fermanagh-lakelands-life-v2","name":"Fermanagh tóvidék","grp":"nature","url":"/hu/irorszag/ie/fermanagh-tovidek/"}],[{"id":"ireland-fermoy-cities-v2","name":"Fermoy","grp":"city","url":"/hu/irorszag/ie/fermoy/"},{"id":"ireland-fermoy-agri-hub-economic-v2","name":"Fermoy mezőgazdasági központ","grp":"industry","url":"/hu/irorszag/ie/fermoy-mezogazdasagi-koezpont/"}],[{"id":"ireland-malahide-cities-v2","name":"Malahide","grp":"city","url":"/hu/irorszag/ie/malahide/"},{"id":"city-swords-extra","name":"Swords","grp":"city","url":"/hu/irorszag/ie-l/swords/"}],[{"id":"ireland-maynooth-cities-v2","name":"Maynooth","grp":"city","url":"/hu/irorszag/ie/maynooth/"},{"id":"ireland-maynooth-research-park-economic-v2","name":"Maynooth Technológiai Park","grp":"industry","url":"/hu/irorszag/ie/maynooth-technologiai-park/"},{"id":"ireland-maynooth-castle-history-v2","name":"Maynooth kastély","grp":"other","url":"/hu/irorszag/ie/maynooth-kastely/"}],[{"id":"ireland-muine-bheag-cities-v2","name":"Muine Bheag","grp":"city","url":"/hu/irorszag/ie/muine-bheag/"},{"id":"ireland-muin-bheag-cities-v2","name":"Bagenalstown","grp":"city","url":null}],[{"id":"ireland-nena-cities-v2","name":"Nenagh","grp":"city","url":"/hu/irorszag/ie/nenagh/"},{"id":"ireland-nenagh-agri-economic-v2","name":"Nenagh agrárgazdaság","grp":"industry","url":"/hu/irorszag/ie/nenagh-agrargazdasag/"}],[{"id":"ireland-rosslare-cities-v2","name":"Rosslare","grp":"city","url":"/hu/irorszag/ie/rosslare/"},{"id":"ireland-rosslare-harbour-economic-v2","name":"Rosslare kikötő","grp":"industry","url":"/hu/irorszag/ie/rosslare-kikoeto/"},{"id":"ireland-lady-island-lake-life-v2","name":"Lady's Island-tó","grp":"nature","url":"/hu/irorszag/ie/lady-s-island-to/"}],[{"id":"ireland-adare-cities-v2","name":"Adare","grp":"city","url":"/hu/irorszag/ie/adare/"},{"id":"ireland-adare-friary-history-v2","name":"Adare kolostor","grp":"other","url":"/hu/irorszag/ie/adare-kolostor/"},{"id":"ireland-adare-manor-landmarks-v2","name":"Adare kúria","grp":"other","url":null}],[{"id":"ireland-cahir-cities-v2","name":"Cahir","grp":"city","url":"/hu/irorszag/ie/cahir/"},{"id":"ireland-slieve-guilty-relief-v2","name":"Slieve Guilty","grp":"nature","url":"/hu/irorszag/ie/slieve-guilty/"}],[{"id":"ireland-ballymahon-fiber-economic-v2","name":"Ballymahon adatközpont","grp":"industry","url":"/hu/irorszag/ie/ballymahon-adatkoezpont/"},{"id":"ireland-ballymore-abbey-history-v2","name":"Ballymore apátság","grp":"other","url":"/hu/irorszag/ie/ballymore-apatsag/"},{"id":"ireland-ballymore-fort-history-v2","name":"Ballymore erőd","grp":"sight","url":"/hu/irorszag/ie/ballymore-erod/"},{"id":"ireland-ballymore-monastery-history-v2","name":"Ballymore kolostor","grp":"other","url":"/hu/irorszag/ie/ballymore-kolostor/"},{"id":"ireland-ballymore-church-history-v2","name":"Ballymore templom","grp":"other","url":"/hu/irorszag/ie/ballymore-templom/"}],[{"id":"ireland-tralee-enterprise-park-economic-v2","name":"Tralee ipari park","grp":"industry","url":"/hu/irorszag/ie/tralee-ipari-park/"},{"id":"ireland-tralee-friary-landmarks-v2","name":"Tralee kolostor","grp":"other","url":"/hu/irorszag/ie/tralee-kolostor/"}],[{"id":"ireland-ross-castle-history-v2","name":"Ross kastély","grp":"other","url":"/hu/irorszag/ie/ross-kastely/"},{"id":"ireland-muckross-house-landmarks-v2","name":"Muckross Ház","grp":"other","url":"/hu/irorszag/ie/muckross-haz/"},{"id":"ireland-killarney-national-park-life-v2","name":"Killarney Nemzeti Park","grp":"nature","url":"/hu/irorszag/ie/killarney-nemzeti-park/"},{"id":"ireland-killarney-oak-forest-life-v2","name":"Killarney tölgyerdők","grp":"nature","url":"/hu/irorszag/ie/killarney-toelgyerdok/"}],[{"id":"ireland-glendalough-history-v2","name":"Glendalough","grp":"other","url":"/hu/irorszag/ie/glendalough/"},{"id":"ireland-wicklow-mountains-national-park-life-v2","name":"Wicklow-hegység Nemzeti Park","grp":"nature","url":"/hu/irorszag/ie/wicklow-hegyseg-nemzeti-park/"},{"id":"ireland-glendalough-valley-life-v2","name":"Glendalough-völgy","grp":"nature","url":"/hu/irorszag/ie/glendalough-voelgy/"}],[{"id":"ireland-kilcash-castle-history-v2","name":"Kilcash kastély","grp":"other","url":"/hu/irorszag/ie/kilcash-kastely/"},{"id":"ireland-slieve-na-mon-relief-v2","name":"Slieve na mon","grp":"nature","url":"/hu/irorszag/ie/slieve-na-mon/"}],[{"id":"ireland-tall-ship-jeanie-johnston-landmarks-v2","name":"Jeanie Johnston","grp":"sight","url":"/hu/irorszag/ie/jeanie-johnston/"},{"id":"ireland-dublin-custom-house-landmarks-v2","name":"Vámház","grp":"sight","url":"/hu/irorszag/ie/vamhaz/"},{"id":"ireland-eason-store-landmarks-v2","name":"Eason O'Connell utca","grp":"sight","url":"/hu/irorszag/ie/eason-o-connell-utca/"},{"id":"ireland-graceland-bridge-landmarks-v2","name":"Grattan híd","grp":"other","url":"/hu/irorszag/ie/grattan-hid/"},{"id":"ireland-gpo-dublin-landmarks-v2","name":"Főposta","grp":"sight","url":"/hu/irorszag/ie/foposta/"},{"id":"ireland-national-library-landmarks-v2","name":"Írország Nemzeti Könyvtára","grp":"other","url":"/hu/irorszag/ie/irorszag-nemzeti-koenyvtara/"},{"id":"ireland-four-courts-landmarks-v2","name":"Four Courts","grp":"sight","url":"/hu/irorszag/ie/four-courts/"},{"id":"ireland-dublin-botanic-gardens-life-v2","name":"Glasnevin Nemzeti Botanikus Kert","grp":"nature","url":"/hu/irorszag/ie/glasnevin-nemzeti-botanikus-kert/"},{"id":"animal-habitat-dublin-zoo-extra","name":"Dublini Állatkert","grp":"nature","url":"/hu/irorszag/ie/dublini-allatkert/"}],[{"id":"ireland-parkes-castle-landmarks-v2","name":"Parke kastély","grp":"other","url":"/hu/irorszag/ie/parke-kastely/"},{"id":"ireland-dartry-mountains-relief-v2","name":"Dartry-hegység","grp":"nature","url":"/hu/irorszag/ie/dartry-hegyseg/"}],[{"id":"ireland-cathedral-of-our-lady-landmarks-v2","name":"Galway székesegyház","grp":"other","url":"/hu/irorszag/ie/galway-szekesegyhaz/"},{"id":"ireland-st-nicholas-church-landmarks-v2","name":"St. Nicholas Kollégiumi templom","grp":"other","url":"/hu/irorszag/ie/st-nicholas-kollegiumi-templom/"}],[{"id":"ireland-slieve-bloom-mountains-life-v2","name":"Slieve Bloom-hegység","grp":"nature","url":"/hu/irorszag/ie/slieve-bloom-hegyseg/"},{"id":"ireland-slieve-bloom-relief-v2","name":"Slieve Bloom","grp":"nature","url":"/hu/irorszag/ie/slieve-bloom/"}],[{"id":"ireland-derryclare-wood-life-v2","name":"Derryclare erdő","grp":"nature","url":"/hu/irorszag/ie/derryclare-erdo/"},{"id":"ireland-Twelve-Bens-relief-v2","name":"Twelve Bens","grp":"nature","url":"/hu/irorszag/ie/twelve-bens/"}],[{"id":"ireland-slieve-league-cliffs-life-v2","name":"Slieve League sziklák","grp":"sight","url":"/hu/irorszag/ie/slieve-league-sziklak/"},{"id":"ireland-slieve-league-relief-v2","name":"Slieve League","grp":"nature","url":null},{"id":"ireland-slieve-league-peak-relief-v2","name":"Slieve League csúcs","grp":"nature","url":"/hu/irorszag/ie/slieve-league-csucs/"}],[{"id":"ireland-galtee-mountains-nature-v2","name":"Galtee-hegység","grp":"nature","url":"/hu/irorszag/ie/galtee-hegyseg/"},{"id":"ireland-mount-galtymore-relief-v2","name":"Galtymore","grp":"nature","url":"/hu/irorszag/ie/galtymore/"}],[{"id":"ireland-slieve-gamph-relief-v2","name":"Slieve Gamph","grp":"nature","url":"/hu/irorszag/ie/slieve-gamph/"},{"id":"ireland-ox-mountains-relief-v2","name":"Ox-hegység","grp":"nature","url":"/hu/irorszag/ie/ox-hegyseg/"}],[{"id":"ireland-slieve-mish-relief-v2","name":"Slieve Mish","grp":"nature","url":"/hu/irorszag/ie/slieve-mish/"},{"id":"ireland-slieve-mis-relief-v2","name":"Slieve Mis","grp":"nature","url":"/hu/irorszag/ie/slieve-mis/"}]];
+const CLUSTERS=[[{"id":"ireland-arklow-cities-v2","name":"Arklow","grp":"city","url":"/hu/irorszag/ie/arklow/","cx":961.2,"cy":972.4},{"id":"ireland-arklow-low-cities-v2","name":"Arklow-Lower","grp":"city","url":"/hu/irorszag/ie/arklow-lower/","cx":959.9,"cy":972.7}],[{"id":"ireland-ashbourne-cities-v2","name":"Ashbourne","grp":"city","url":"/hu/irorszag/ie/ashbourne/","cx":910.2,"cy":702},{"id":"ireland-ashbourne-business-park-economic-v2","name":"Ashbourne üzleti park","grp":"industry","url":"/hu/irorszag/ie/ashbourne-uezleti-park/","cx":909.1,"cy":702.2},{"id":"ireland-ashbourne-battlefield-history-v2","name":"Ashbourne csatatér","grp":"other","url":"/hu/irorszag/ie/ashbourne-csatater/","cx":909,"cy":702}],[{"id":"ireland-ballincollig-cities-v2","name":"Ballincollig","grp":"city","url":"/hu/irorszag/ie/ballincollig/","cx":422.4,"cy":1309.9},{"id":"ireland-blarney-house-landmarks-v2","name":"Blarney Ház","grp":"other","url":"/hu/irorszag/ie/blarney-haz/","cx":426,"cy":1294.9}],[{"id":"ireland-bantry-cities-v2","name":"Bantry","grp":"city","url":"/hu/irorszag/ie/bantry/","cx":228.8,"cy":1386.3},{"id":"ireland-bantry-house-landmarks-v2","name":"Bantry Ház","grp":"other","url":"/hu/irorszag/ie/bantry-haz/","cx":227.9,"cy":1387.5}],[{"id":"ireland-cashel-cities-v2","name":"Cashel","grp":"city","url":"/hu/irorszag/ie/cashel/","cx":576.4,"cy":1075.6},{"id":"ireland-cashel-cathedral-landmarks-v2","name":"St. John székesegyház","grp":"other","url":"/hu/irorszag/ie/st-john-szekesegyhaz/","cx":577.5,"cy":1064.1}],[{"id":"ireland-cobh-cities-v2","name":"Cobh","grp":"city","url":"/hu/irorszag/ie/cobh/","cx":486.2,"cy":1324},{"id":"ireland-ringaskiddy-port-economic-v2","name":"Ringaskiddy kikötő","grp":"industry","url":"/hu/irorszag/ie/ringaskiddy-kikoeto/","cx":480.2,"cy":1333.3},{"id":"ireland-fota-gardens-life-v2","name":"Fota Arborétum és Kertek","grp":"nature","url":"/hu/irorszag/ie/fota-arboretum-es-kertek/","cx":485.5,"cy":1318.1},{"id":"animal-habitat-fota-wildlife-extra","name":"Fota Vadaspark","grp":"nature","url":"/hu/irorszag/ie/fota-vadaspark/","cx":482.9,"cy":1309.2}],[{"id":"ireland-cratloe-cities-v2","name":"Cratloe","grp":"city","url":"/hu/irorszag/ie/cratloe/","cx":381.7,"cy":1004.5},{"id":"ireland-bunratty-castle-landmarks-v2","name":"Bunratty kastély","grp":"other","url":"/hu/irorszag/ie/bunratty-kastely/","cx":370.9,"cy":1007}],[{"id":"ireland-dalkey-cities-v2","name":"Dalkey","grp":"city","url":"/hu/irorszag/ie/dalkey/","cx":972.6,"cy":791.2},{"id":"ireland-monkstown-cities-v2","name":"Monkstown","grp":"city","url":"/hu/irorszag/ie/monkstown/","cx":966.6,"cy":785.6}],[{"id":"ireland-enos-cities-v2","name":"Enniskillen","grp":"city","url":"/hu/irorszag/ie/enniskillen/","cx":632.7,"cy":390.6},{"id":"ireland-devenish-island-history-v2","name":"Devenish sziget","grp":"other","url":"/hu/irorszag/ie/devenish-sziget/","cx":633.3,"cy":399},{"id":"ireland-enniskillen-castle-history-v2","name":"Enniskillen kastély","grp":"other","url":"/hu/irorszag/ie/enniskillen-kastely/","cx":631.8,"cy":390.7},{"id":"ireland-fermanagh-lakelands-life-v2","name":"Fermanagh tóvidék","grp":"nature","url":"/hu/irorszag/ie/fermanagh-tovidek/","cx":634,"cy":395.3}],[{"id":"ireland-fermoy-cities-v2","name":"Fermoy","grp":"city","url":"/hu/irorszag/ie/fermoy/","cx":489.3,"cy":1216.6},{"id":"ireland-fermoy-agri-hub-economic-v2","name":"Fermoy mezőgazdasági központ","grp":"industry","url":"/hu/irorszag/ie/fermoy-mezogazdasagi-koezpont/","cx":491.3,"cy":1215.5}],[{"id":"ireland-malahide-cities-v2","name":"Malahide","grp":"city","url":"/hu/irorszag/ie/malahide/","cx":964.4,"cy":725.8},{"id":"city-swords-extra","name":"Swords","grp":"city","url":"/hu/irorszag/ie-l/swords/","cx":949.2,"cy":722.1}],[{"id":"ireland-maynooth-cities-v2","name":"Maynooth","grp":"city","url":"/hu/irorszag/ie/maynooth/","cx":866.4,"cy":752},{"id":"ireland-maynooth-research-park-economic-v2","name":"Maynooth Technológiai Park","grp":"industry","url":"/hu/irorszag/ie/maynooth-technologiai-park/","cx":865.5,"cy":752.3},{"id":"ireland-maynooth-castle-history-v2","name":"Maynooth kastély","grp":"other","url":"/hu/irorszag/ie/maynooth-kastely/","cx":865.9,"cy":752.2}],[{"id":"ireland-muine-bheag-cities-v2","name":"Muine Bheag","grp":"city","url":"/hu/irorszag/ie/muine-bheag/","cx":786.2,"cy":1010.1},{"id":"ireland-muin-bheag-cities-v2","name":"Bagenalstown","grp":"city","url":null,"cx":786.2,"cy":1010.1}],[{"id":"ireland-nena-cities-v2","name":"Nenagh","grp":"city","url":"/hu/irorszag/ie/nenagh/","cx":507.8,"cy":946.5},{"id":"ireland-nenagh-agri-economic-v2","name":"Nenagh agrárgazdaság","grp":"industry","url":"/hu/irorszag/ie/nenagh-agrargazdasag/","cx":508.7,"cy":945.8}],[{"id":"ireland-rosslare-cities-v2","name":"Rosslare","grp":"city","url":"/hu/irorszag/ie/rosslare/","cx":915.4,"cy":1174.7},{"id":"ireland-rosslare-harbour-economic-v2","name":"Rosslare kikötő","grp":"industry","url":"/hu/irorszag/ie/rosslare-kikoeto/","cx":920.5,"cy":1173.6},{"id":"ireland-lady-island-lake-life-v2","name":"Lady's Island-tó","grp":"nature","url":"/hu/irorszag/ie/lady-s-island-to/","cx":908.7,"cy":1181}],[{"id":"ireland-adare-cities-v2","name":"Adare","grp":"city","url":"/hu/irorszag/ie/adare/","cx":376.4,"cy":1058.7},{"id":"ireland-adare-friary-history-v2","name":"Adare kolostor","grp":"other","url":"/hu/irorszag/ie/adare-kolostor/","cx":377.6,"cy":1057.3},{"id":"ireland-adare-manor-landmarks-v2","name":"Adare kúria","grp":"other","url":null,"cx":377.6,"cy":1057.3}],[{"id":"ireland-cahir-cities-v2","name":"Cahir","grp":"city","url":"/hu/irorszag/ie/cahir/","cx":570.2,"cy":1129.8},{"id":"ireland-slieve-guilty-relief-v2","name":"Slieve Guilty","grp":"nature","url":"/hu/irorszag/ie/slieve-guilty/","cx":563.5,"cy":1137.3}],[{"id":"ireland-ballymahon-fiber-economic-v2","name":"Ballymahon adatközpont","grp":"industry","url":"/hu/irorszag/ie/ballymahon-adatkoezpont/","cx":601.1,"cy":685},{"id":"ireland-ballymore-abbey-history-v2","name":"Ballymore apátság","grp":"other","url":"/hu/irorszag/ie/ballymore-apatsag/","cx":601,"cy":700.1},{"id":"ireland-ballymore-fort-history-v2","name":"Ballymore erőd","grp":"sight","url":"/hu/irorszag/ie/ballymore-erod/","cx":599.6,"cy":702.1},{"id":"ireland-ballymore-monastery-history-v2","name":"Ballymore kolostor","grp":"other","url":"/hu/irorszag/ie/ballymore-kolostor/","cx":600.4,"cy":699.6},{"id":"ireland-ballymore-church-history-v2","name":"Ballymore templom","grp":"other","url":"/hu/irorszag/ie/ballymore-templom/","cx":600.6,"cy":701.3}],[{"id":"ireland-tralee-enterprise-park-economic-v2","name":"Tralee ipari park","grp":"industry","url":"/hu/irorszag/ie/tralee-ipari-park/","cx":173.3,"cy":1166.9},{"id":"ireland-tralee-friary-landmarks-v2","name":"Tralee kolostor","grp":"other","url":"/hu/irorszag/ie/tralee-kolostor/","cx":173.1,"cy":1166.9}],[{"id":"ireland-ross-castle-history-v2","name":"Ross kastély","grp":"other","url":"/hu/irorszag/ie/ross-kastely/","cx":211.5,"cy":1254.5},{"id":"ireland-muckross-house-landmarks-v2","name":"Muckross Ház","grp":"other","url":"/hu/irorszag/ie/muckross-haz/","cx":218.8,"cy":1262.6},{"id":"ireland-killarney-national-park-life-v2","name":"Killarney Nemzeti Park","grp":"nature","url":"/hu/irorszag/ie/killarney-nemzeti-park/","cx":218.3,"cy":1262},{"id":"ireland-killarney-oak-forest-life-v2","name":"Killarney tölgyerdők","grp":"nature","url":"/hu/irorszag/ie/killarney-toelgyerdok/","cx":214.5,"cy":1274.5}],[{"id":"ireland-glendalough-history-v2","name":"Glendalough","grp":"other","url":"/hu/irorszag/ie/glendalough/","cx":925,"cy":889.9},{"id":"ireland-wicklow-mountains-national-park-life-v2","name":"Wicklow-hegység Nemzeti Park","grp":"nature","url":"/hu/irorszag/ie/wicklow-hegyseg-nemzeti-park/","cx":923.5,"cy":875.4},{"id":"ireland-glendalough-valley-life-v2","name":"Glendalough-völgy","grp":"nature","url":"/hu/irorszag/ie/glendalough-voelgy/","cx":924,"cy":889.7}],[{"id":"ireland-kilcash-castle-history-v2","name":"Kilcash kastély","grp":"other","url":"/hu/irorszag/ie/kilcash-kastely/","cx":656,"cy":1126.5},{"id":"ireland-slieve-na-mon-relief-v2","name":"Slieve na mon","grp":"nature","url":"/hu/irorszag/ie/slieve-na-mon/","cx":656.3,"cy":1112.3}],[{"id":"ireland-tall-ship-jeanie-johnston-landmarks-v2","name":"Jeanie Johnston","grp":"sight","url":"/hu/irorszag/ie/jeanie-johnston/","cx":942.5,"cy":763.7},{"id":"ireland-dublin-custom-house-landmarks-v2","name":"Vámház","grp":"sight","url":"/hu/irorszag/ie/vamhaz/","cx":942,"cy":763.1},{"id":"ireland-eason-store-landmarks-v2","name":"Eason O'Connell utca","grp":"sight","url":"/hu/irorszag/ie/eason-o-connell-utca/","cx":939.8,"cy":763.4},{"id":"ireland-graceland-bridge-landmarks-v2","name":"Grattan híd","grp":"other","url":"/hu/irorszag/ie/grattan-hid/","cx":938.7,"cy":764.8},{"id":"ireland-gpo-dublin-landmarks-v2","name":"Főposta","grp":"sight","url":"/hu/irorszag/ie/foposta/","cx":939.8,"cy":763.5},{"id":"ireland-national-library-landmarks-v2","name":"Írország Nemzeti Könyvtára","grp":"other","url":"/hu/irorszag/ie/irorszag-nemzeti-koenyvtara/","cx":940.9,"cy":767.1},{"id":"ireland-four-courts-landmarks-v2","name":"Four Courts","grp":"sight","url":"/hu/irorszag/ie/four-courts/","cx":936.3,"cy":764.6},{"id":"ireland-dublin-botanic-gardens-life-v2","name":"Glasnevin Nemzeti Botanikus Kert","grp":"nature","url":"/hu/irorszag/ie/glasnevin-nemzeti-botanikus-kert/","cx":937.5,"cy":755.1},{"id":"animal-habitat-dublin-zoo-extra","name":"Dublini Állatkert","grp":"nature","url":"/hu/irorszag/ie/dublini-allatkert/","cx":929.7,"cy":761.1}],[{"id":"ireland-parkes-castle-landmarks-v2","name":"Parke kastély","grp":"other","url":"/hu/irorszag/ie/parke-kastely/","cx":480.2,"cy":419.3},{"id":"ireland-dartry-mountains-relief-v2","name":"Dartry-hegység","grp":"nature","url":"/hu/irorszag/ie/dartry-hegyseg/","cx":485.5,"cy":407.8}],[{"id":"ireland-cathedral-of-our-lady-landmarks-v2","name":"Galway székesegyház","grp":"other","url":"/hu/irorszag/ie/galway-szekesegyhaz/","cx":317.1,"cy":790.9},{"id":"ireland-st-nicholas-church-landmarks-v2","name":"St. Nicholas Kollégiumi templom","grp":"other","url":"/hu/irorszag/ie/st-nicholas-kollegiumi-templom/","cx":317.7,"cy":792.6}],[{"id":"ireland-slieve-bloom-mountains-life-v2","name":"Slieve Bloom-hegység","grp":"nature","url":"/hu/irorszag/ie/slieve-bloom-hegyseg/","cx":626.6,"cy":863},{"id":"ireland-slieve-bloom-relief-v2","name":"Slieve Bloom","grp":"nature","url":"/hu/irorszag/ie/slieve-bloom/","cx":634,"cy":863}],[{"id":"ireland-derryclare-wood-life-v2","name":"Derryclare erdő","grp":"nature","url":"/hu/irorszag/ie/derryclare-erdo/","cx":173.7,"cy":713.3},{"id":"ireland-Twelve-Bens-relief-v2","name":"Twelve Bens","grp":"nature","url":"/hu/irorszag/ie/twelve-bens/","cx":166.3,"cy":713.3}],[{"id":"ireland-slieve-league-cliffs-life-v2","name":"Slieve League sziklák","grp":"sight","url":"/hu/irorszag/ie/slieve-league-sziklak/","cx":400.2,"cy":283.1},{"id":"ireland-slieve-league-relief-v2","name":"Slieve League","grp":"nature","url":null,"cx":400.2,"cy":283.1},{"id":"ireland-slieve-league-peak-relief-v2","name":"Slieve League csúcs","grp":"nature","url":"/hu/irorszag/ie/slieve-league-csucs/","cx":400.9,"cy":284.3}],[{"id":"ireland-galtee-mountains-nature-v2","name":"Galtee-hegység","grp":"nature","url":"/hu/irorszag/ie/galtee-hegyseg/","cx":522.7,"cy":1131.3},{"id":"ireland-mount-galtymore-relief-v2","name":"Galtymore","grp":"nature","url":"/hu/irorszag/ie/galtymore/","cx":518.9,"cy":1129.8}],[{"id":"ireland-slieve-gamph-relief-v2","name":"Slieve Gamph","grp":"nature","url":"/hu/irorszag/ie/slieve-gamph/","cx":359.3,"cy":488.9},{"id":"ireland-ox-mountains-relief-v2","name":"Ox-hegység","grp":"nature","url":"/hu/irorszag/ie/ox-hegyseg/","cx":374.2,"cy":482.6}],[{"id":"ireland-slieve-mish-relief-v2","name":"Slieve Mish","grp":"nature","url":"/hu/irorszag/ie/slieve-mish/","cx":162.6,"cy":1199.7},{"id":"ireland-slieve-mis-relief-v2","name":"Slieve Mis","grp":"nature","url":"/hu/irorszag/ie/slieve-mis/","cx":151.4,"cy":1193.4}]];
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=6;
@@ -166,11 +174,25 @@ function applyGrpFilter(){
 }
 document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
 // Search: dim non-matching POIs + recompute cluster visibility (only count matches)
-const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap');
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap'),sRes=document.getElementById('searchRes');
 function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
-// Quick lookup of POI's normalized search text by id (for cluster filtering)
+// Quick lookup of POI's normalized search text + display name + group + coords by id
+const POI_INDEX={};
+gP.querySelectorAll('.poi').forEach(p=>{
+  const id=p.getAttribute('data-id');
+  const t=p.getAttribute('transform')||'';
+  const m=t.match(/translate\(([-\d.]+),([-\d.]+)\)/);
+  POI_INDEX[id]={
+    search:p.getAttribute('data-search')||'',
+    name:p.getAttribute('data-name')||id,
+    grp:p.getAttribute('data-grp')||'other',
+    url:p.getAttribute('data-url')||null,
+    cx:m?+m[1]:0,cy:m?+m[2]:0
+  };
+});
 const POI_SEARCH_BY_ID={};
-gP.querySelectorAll('.poi').forEach(p=>{POI_SEARCH_BY_ID[p.getAttribute('data-id')]=p.getAttribute('data-search')||''});
+for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
 function applySearch(){
   const q=norm(sIn.value.trim());
   sW.classList.toggle('has-q',!!q);
@@ -202,9 +224,93 @@ function applySearch(){
   gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
     p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
   });
+  // Phase 3: dropdown list of top matches (count ALL matching for auto-zoom decision)
+  if(!q){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  const hits=[];
+  for(const id in POI_INDEX){
+    const e=POI_INDEX[id];
+    if(!activeGrps.has(e.grp))continue;
+    if(!e.search.includes(q))continue;
+    if(hits.length<50)hits.push({id,...e});
+  }
+  // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
+  // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
+  // Compute by examining current cluster visibility (already set in Phase 2 above).
+  if(hits.length>0){
+    // Map: poi-id -> cluster index it belongs to (if any)
+    const poiToCluster={};
+    for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
+    // Group matches by their visible "thing": either a visible cluster (id of cluster) or 'solo' + poi-id.
+    // A cluster is "visible" if its DOM .cluster element does NOT have .hidden.
+    // A POI is "shown solo" if either: not in any cluster, OR in a cluster whose .cluster element IS hidden (= cluster collapsed to <=1 match).
+    const visibleClusterIdx=new Set();
+    if(gC){
+      gC.querySelectorAll('.cluster:not(.hidden)').forEach(c=>visibleClusterIdx.add(+c.getAttribute('data-i')));
+    }
+    const visibleThings=new Set();
+    for(const h of hits){
+      const ci=poiToCluster[h.id];
+      if(ci!==undefined && visibleClusterIdx.has(ci)){
+        visibleThings.add('c'+ci);
+      }else{
+        visibleThings.add('p'+h.id);
+      }
+    }
+    const onlyOneThing=visibleThings.size===1;
+    if(onlyOneThing){
+      const thing=Array.from(visibleThings)[0];
+      let cx,cy;
+      if(thing[0]==='p'){
+        // Solo POI (or revealed cluster-POI)
+        const id=thing.slice(1);
+        const e=POI_INDEX[id];
+        if(e){cx=e.cx;cy=e.cy}
+      }else{
+        // Visible cluster (c<idx>) — center = avg of cluster's POI coords
+        const ci=+thing.slice(1);
+        const cl=CLUSTERS[ci]||[];
+        let sx=0,sy=0,n=0;
+        for(const p of cl){sx+=p.cx||0;sy+=p.cy||0;n++}
+        if(n>0){cx=sx/n;cy=sy/n}
+      }
+      if(cx!==undefined){
+        // Use 4× zoom (below EXPAND_SCALE=6 so clusters stay collapsed as numbers,
+        // POI doesn't disappear into expanded form)
+        s=4;
+        tx=W/2-cx*s;
+        // Bias the target 20% above viewBox center so it's not hidden behind the search dropdown / header
+        ty=H*0.32-cy*s;
+        ap();
+        sRes.innerHTML='';
+        sRes.classList.remove('has-hits');
+        return;
+      }
+    }
+  }
+  if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  sRes.innerHTML=hits.map(h=>{
+    const grpLabel=String(h.grp);
+    return '<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+grpLabel+'</span></a>';
+  }).join('');
+  sRes.classList.add('has-hits');
 }
 sIn.addEventListener('input',applySearch);
 sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
+// Click on dropdown item: zoom-pan to POI, do NOT auto-navigate (user can click again on map dot for that)
+sRes.addEventListener('click',e=>{
+  const a=e.target.closest('a[data-id]');
+  if(!a)return;
+  e.preventDefault();
+  const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
+  s=4;
+  tx=W/2-cx*s;
+  ty=H*0.32-cy*s;
+  ap();
+  sRes.classList.remove('has-hits');
+  sIn.blur();
+});
+// Close dropdown on outside click
+document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
 </script>
 </body>
 </html>
