@@ -522,6 +522,32 @@ const REG_PREFIX_TO_COUNTRY: Record<string, string> = {
   "reg-sicilia": "italy",
   // Portugal
   "reg-algarve": "portugal",
+  // Belgium
+  "reg-flanders": "belgium", "reg-wallonia": "belgium",
+  // Denmark
+  "reg-jutland": "denmark", "reg-zealand": "denmark",
+  // Greece
+  "reg-crete": "greece",
+  // Finland / Norway
+  "reg-lapland": "finland", "reg-lapland-no": "norway",
+};
+
+// Spanish-language relief region IDs → Chile
+const RELIEF_V2_TO_COUNTRY: Record<string, string> = {
+  "desierto-de-atacama-relief-v2": "chile",
+  "valle-central-relief-v2": "chile",
+  "fjorde-patagonien-relief-v2": "chile",
+  "pampa-del-tamargal-relief-v2": "chile",
+};
+
+// One-off region IDs
+const MISC_PARENT_TO_COUNTRY: Record<string, string> = {
+  "mauritania-trarza-agro-economic-v2": "mauritania",
+  "northmacedonia-negotino-orchard-region-economic-v2": "north-macedonia",
+  "nature-madriu": "andorra",
+  "landscape-karpasia-peninsula-extra": "cyprus",
+  bosnia: "bosnia-and-herzegovina",
+  italy: "italy",
 };
 
 // city-* / cult-* parent prefix → country
@@ -555,12 +581,16 @@ export function getCountryId(id: string) {
   if (IT_CITY_AS_PARENT.has(id)) return id === "vatican-city" ? "vatican" : "italy";
   if (REGION_PREFIX_TO_COUNTRY[id]) return REGION_PREFIX_TO_COUNTRY[id];
   if (REG_PREFIX_TO_COUNTRY[id]) return REG_PREFIX_TO_COUNTRY[id];
+  if (RELIEF_V2_TO_COUNTRY[id]) return RELIEF_V2_TO_COUNTRY[id];
+  if (MISC_PARENT_TO_COUNTRY[id]) return MISC_PARENT_TO_COUNTRY[id];
   if (CITY_CULT_PREFIX_TO_COUNTRY[id]) return CITY_CULT_PREFIX_TO_COUNTRY[id];
   if (COUNTRY_NAME_AS_PARENT[id]) return COUNTRY_NAME_AS_PARENT[id];
   // Pattern: *-district → Hungary (administrative districts, ~100 of them)
   if (id.endsWith("-district")) return "hungary";
   // Pattern: reg-*-fi → Finland
   if (id.startsWith("reg-") && id.endsWith("-fi")) return "finland";
+  // Pattern: folk-* → Romania (Romanian folk-cultural region slugs)
+  if (id.startsWith("folk-")) return "romania";
   // HU regions: legacy slug ("budapest", "fejer") VAGY uj parent="HU-XX" -> hungary
   const huMatch = regions.some(r => r.id === id && (r.parent === "HU" || r.parent?.startsWith("HU-")));
   if (huMatch) return "hungary";
