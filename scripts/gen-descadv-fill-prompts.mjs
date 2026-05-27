@@ -85,7 +85,7 @@ fs.mkdirSync(PROMPTS_DIR, { recursive: true });
 const queue = JSON.parse(fs.readFileSync(QUEUE_PATH, "utf-8"));
 const newTasks = [];
 
-const KEY = "descadv-fill-v1";
+const KEY = "descadv-fill-v2";
 let bnum = 0;
 for (let i = 0; i < work.length; i += PER_BATCH) {
   bnum++;

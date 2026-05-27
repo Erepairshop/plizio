@@ -8,6 +8,7 @@ import {
   buildCountryPath,
   buildPoiPath,
   buildStatePath,
+  extraLangsFor,
   pois,
   regions,
 } from "@/lib/seo/slugs";
@@ -124,6 +125,17 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
       const p = buildPoiPath(lang, poi);
       if (BAD_URLS.has(p)) continue;
       poiUrls.push(createEntry(p, "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.6));
+    }
+  }
+  // Extra langs per POI (fr / tr) — only when descAdv is ≥700 chars in that lang
+  // (frLong / trLong flags from build-seo-index) OR when the POI's parent country
+  // matches the lang's target (FR-* for fr, DE-* for tr).
+  for (const poi of indexablePois) {
+    const extras = extraLangsFor(poi);
+    for (const lang of extras) {
+      const p = buildPoiPath(lang, poi);
+      if (BAD_URLS.has(p)) continue;
+      poiUrls.push(createEntry(p, "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.55));
     }
   }
 

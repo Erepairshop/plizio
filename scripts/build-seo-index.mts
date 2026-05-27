@@ -109,6 +109,13 @@ async function main() {
     return false;
   }
 
+  // Per-lang "has long content" flags for sitemap inclusion of fr/tr.
+  // Threshold: 700 chars in descriptionAdvanced[lang] — short pages risk Google soft-404.
+  function longLang(p: POI, lang: string): boolean {
+    const da = p.descriptionAdvanced as Record<string, string> | undefined;
+    return typeof da?.[lang] === "string" && da[lang].length >= 700;
+  }
+
   // Lite shape — only what slugs.ts / sitemap.ts / page generators need.
   const lite = finalPois.map((p) => ({
     id: p.id,
@@ -116,6 +123,8 @@ async function main() {
     parent: p.parent,
     coords: p.coords,
     image: p.image,
+    frLong: longLang(p, "fr"),
+    trLong: longLang(p, "tr"),
     coa: p.coa,
     name: p.name,
     hasIndexable: hasIndexable(p),

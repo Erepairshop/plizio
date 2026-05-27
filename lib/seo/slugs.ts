@@ -21,10 +21,16 @@ export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr";
 export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
 export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr"];
 
-export function extraLangsFor(poi: { parent?: string }): Lang[] {
-  if (poi.parent?.startsWith("FR")) return ["fr"];
-  if (poi.parent?.startsWith("DE")) return ["tr"];
-  return [];
+// Emit the extra lang URL in the sitemap when EITHER:
+//   - the POI lives in the lang's target country (FR-parent for fr, DE-parent for tr)
+//   - OR the POI has a real ≥700-char descriptionAdvanced in that lang
+//     (frLong / trLong, computed at build-seo-index time).
+// Short pages stay out so Google doesn't soft-404 them.
+export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?: boolean }): Lang[] {
+  const extras: Lang[] = [];
+  if (poi.frLong || poi.parent?.startsWith("FR")) extras.push("fr");
+  if (poi.trLong || poi.parent?.startsWith("DE")) extras.push("tr");
+  return extras;
 }
 
 function isDefinedPoi(poi: POI | null | undefined): poi is POI {

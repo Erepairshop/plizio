@@ -7,7 +7,10 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.resolve(__dirname, "..", "lib", "visualLab", "data");
 const THRESH = parseInt(process.argv[2] || "700", 10);
-const LANGS = ["de", "hu", "ro", "en"];
+// Base 4 langs + per-country 5th lang (FR for France PlizioGo, TR for DE cities).
+// Only flagged if the key actually exists in the POI's descAdv — POIs without
+// these extra langs are not affected.
+const LANGS = ["de", "hu", "ro", "en", "fr", "tr"];
 
 const files = fs.readdirSync(DATA_DIR)
   .filter(f => f.startsWith("poiExtra") && f.endsWith(".ts"))
