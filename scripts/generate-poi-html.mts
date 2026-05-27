@@ -21,6 +21,10 @@ import path from "node:path";
 import zlib from "node:zlib";
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
+import * as _exploreNs from "../lib/explore/explore-block";
+const _expl: any = (_exploreNs as any).default ?? _exploreNs;
+const renderExploreBlock = _expl.renderExploreBlock as (o: any) => string;
+const EXPLORE_CSS = _expl.EXPLORE_CSS as string;
 // timing-config loaded dynamically below to avoid Node 24 ESM static-resolver issue
 let recomputeItineraryTimings: (itin: any, tier?: number) => void = () => {};
 try {
@@ -1458,6 +1462,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
     ${osmLink}
   </section>
+  ${renderExploreBlock({ poiId: poi.id, countryId, countryName: countrySlugFor(lang, countryId).replace(/-/g, " "), countryMapUrl: countryMapUrl(countryId), lang: lang as any })}
   ${relatedItems}
   ${renderMobileFab(poi, lang, name)}
 </main>
@@ -1471,6 +1476,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
 .plz-lightbox-close{position:absolute;top:max(12px,env(safe-area-inset-top));right:max(12px,env(safe-area-inset-right));width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,.6);color:#fff;border:1px solid rgba(255,255,255,.2);font-size:1.6rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
 .plz-lightbox-close:hover{background:rgba(0,0,0,.8)}
 @media (max-width:640px){.plz-lightbox img{max-width:95vw;max-height:80vh}}
+${EXPLORE_CSS}
 </style>
 <script>(function(){var box=document.getElementById('plz-lightbox');if(!box)return;var img=box.querySelector('img');var btn=box.querySelector('.plz-lightbox-close');function open(src,alt){img.src=src;img.alt=alt||'';box.classList.add('open');box.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';}function close(){box.classList.remove('open');box.setAttribute('aria-hidden','true');img.src='';document.body.style.overflow='';}document.addEventListener('click',function(e){var t=e.target.closest('.plz-sight-img-btn');if(t){e.preventDefault();open(t.dataset.plzimg,t.dataset.plzalt);}});btn.addEventListener('click',close);box.addEventListener('click',function(e){if(e.target===box)close();});document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});})();</script>
 <footer>

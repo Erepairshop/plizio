@@ -830,12 +830,12 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
 
 /* Planet positions in the 500x900 viewBox — optimized for mobile */
 const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
-  maps:       { cx: 250, cy: 130, color: "#4FC3F7", glow: "rgba(79,195,247,0.45)" },
-  quizreflex: { cx: 155, cy: 250, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
-  adventure:  { cx: 365, cy: 320, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
-  brain:      { cx: 145, cy: 450, color: "#4ECDC4", glow: "rgba(78,205,196,0.4)" },
-  logic:      { cx: 355, cy: 530, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
-  sport:      { cx: 250, cy: 650, color: "#FF6B00", glow: "rgba(255,107,0,0.4)" },
+  maps:       { cx: 250, cy: 230, color: "#4FC3F7", glow: "rgba(79,195,247,0.45)" },
+  quizreflex: { cx: 155, cy: 350, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
+  adventure:  { cx: 365, cy: 420, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
+  brain:      { cx: 145, cy: 550, color: "#4ECDC4", glow: "rgba(78,205,196,0.4)" },
+  logic:      { cx: 355, cy: 630, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
+  sport:      { cx: 250, cy: 750, color: "#FF6B00", glow: "rgba(255,107,0,0.4)" },
 };
 
 function categoriesToIslands(categories: CategoryDef[]): Island[] {
