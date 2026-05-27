@@ -131,7 +131,8 @@ export default function HamburgerMenu() {
               animate={{ x: 0 }}
               exit={{ x: "-100%" }}
               transition={{ type: "spring", damping: 26, stiffness: 260 }}
-              className="fixed top-0 left-0 z-[101] h-full w-[85%] max-w-sm bg-[#0A0A1A] border-r border-white/10 flex flex-col"
+              className="fixed top-0 left-0 z-[101] h-full w-[85%] max-w-sm border-r border-white/10 flex flex-col"
+              style={{ background: "#0A0A1A" }}
             >
               <header className="flex items-center justify-between px-5 py-4 border-b border-white/10">
                 <h2 className="text-white/90 font-black text-lg">{TITLE[l]}</h2>
@@ -143,8 +144,8 @@ export default function HamburgerMenu() {
                   <X size={18} className="text-white/70" />
                 </button>
               </header>
-              <nav className="flex-1 overflow-y-auto px-3 py-3">
-                <ul className="space-y-1">
+              <nav className="overflow-y-auto px-3 py-3" style={{ flex: "1 1 auto", minHeight: 0 }}>
+                <ul style={{ display: "flex", flexDirection: "column", gap: "4px", margin: 0, padding: 0, listStyle: "none" }}>
                   {ITEMS.map((item) => {
                     const Icon = item.icon;
                     return (
@@ -152,15 +153,14 @@ export default function HamburgerMenu() {
                         <Link
                           href={item.href}
                           onClick={() => setOpen(false)}
-                          className="flex items-center gap-3 px-3 py-3 rounded-xl hover:bg-white/5 transition"
+                          style={{ display: "flex", alignItems: "center", gap: "12px", padding: "12px", borderRadius: "12px", color: "rgba(255,255,255,0.9)", textDecoration: "none" }}
                         >
                           <span
-                            className="w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0"
-                            style={{ background: `${item.color}15`, border: `1px solid ${item.color}30` }}
+                            style={{ width: "36px", height: "36px", borderRadius: "8px", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, background: `${item.color}22`, border: `1px solid ${item.color}40` }}
                           >
                             <Icon size={18} style={{ color: item.color }} />
                           </span>
-                          <span className="text-white/85 font-medium text-sm">
+                          <span style={{ fontWeight: 500, fontSize: "14px", color: "rgba(255,255,255,0.9)" }}>
                             {item.label[l] ?? item.label.de}
                           </span>
                         </Link>
