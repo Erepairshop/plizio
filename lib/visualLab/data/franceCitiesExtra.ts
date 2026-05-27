@@ -14323,7 +14323,7 @@ const citySeeds: CitySeed[] = [
             }
       ,
             { "name": "Musée du Jouet", "text": "A Játékmúzeum egy 1950-es évekbeli egykori moziban található, és lenyűgöző gyűjteményt mutat be régi játékokból és vonatokból.", "category": "museum", "confidence": "high" },
-            { "name": "Dominikánus templom", "text": "Ez a 13. századi gótikus dominikánus templom ad otthont Martin Schongauer híres \"Mária a rózsalugasban\" című festményének.", "category": "religious", "confidence": "high" },
+            
             { "name": "Quartier des Tanneurs", "text": "A Cserzővarga-negyedet a 17. és 18. századi magas, fagerendás házak jellemzik, ahol egykor a bőröket szárították a padlásokon.", "category": "historical", "confidence": "high" },
             { "name": "Marché Couvert", "text": "Az 1865-ben épült, tégla- és vasszerkezetes vásárcsarnok regionális elzászi termékeket és különlegességeket kínál a város szívében.", "category": "culinary", "confidence": "high" },
             { "name": "Szabadság-szobor másolat", "text": "A Szabadság-szobor 12 méter magas másolata a Colmarban született szobrász, Auguste Bartholdi előtt tiszteleg a város északi bejáratánál.", "category": "historical", "confidence": "high" },
