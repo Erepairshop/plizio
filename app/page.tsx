@@ -15,7 +15,6 @@ import { getUser, onAuthChange } from "@/lib/auth";
 import { syncToSupabase } from "@/lib/sync";
 import { getUsername, hasUsername } from "@/lib/username";
 import { useLang } from "@/components/LanguageProvider";
-import HomeHero from "@/components/HomeHero";
 import { getGender, type AvatarGender } from "@/lib/gender";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
@@ -1240,8 +1239,6 @@ export default function Home() {
       })()}
       </main>
 
-      {/* SEO content below — visible when user scrolls down. Google reads the full HTML regardless. */}
-      <HomeHero />
     </>
   );
 }
