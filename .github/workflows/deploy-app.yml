@@ -126,6 +126,9 @@ jobs:
           if [ -d "${{ env.RELEASE_BASE }}/shared/sight-images" ]; then
             ln -sfn "${{ env.RELEASE_BASE }}/shared/sight-images" "$REL_DIR/sight-images"
           fi
+          if [ -d "${{ env.RELEASE_BASE }}/shared/poi-images" ]; then
+            ln -sfn "${{ env.RELEASE_BASE }}/shared/poi-images" "$REL_DIR/poi-images"
+          fi
           ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
           mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
           CURRENT_TARGET=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")

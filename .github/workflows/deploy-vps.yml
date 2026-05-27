@@ -201,10 +201,13 @@ jobs:
           # only fix-up needed if a stray perm slipped in (cheap metadata-only walk).
           find "$REL_DIR" -type d ! -perm 755 -exec chmod 755 {} + || true
           find "$REL_DIR" -type f ! -perm 644 -exec chmod 644 {} + || true
-          # Symlink shared sight-images dir into release (lives at shared/ outside
-          # the release rotation so images survive across deploys).
+          # Symlink shared image dirs into release (live at shared/ outside the
+          # release rotation so images survive across deploys).
           if [ -d "${{ env.RELEASE_BASE }}/shared/sight-images" ]; then
             ln -sfn "${{ env.RELEASE_BASE }}/shared/sight-images" "$REL_DIR/sight-images"
+          fi
+          if [ -d "${{ env.RELEASE_BASE }}/shared/poi-images" ]; then
+            ln -sfn "${{ env.RELEASE_BASE }}/shared/poi-images" "$REL_DIR/poi-images"
           fi
           ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
           mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
