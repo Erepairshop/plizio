@@ -440,29 +440,49 @@ stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.close
 const activeGrps=new Set(${JSON.stringify(GROUPS.filter(g => grpCount[g] > 0))});
 function applyGrpFilter(){
   gP.querySelectorAll('.poi').forEach(p=>{const g=p.getAttribute('data-grp');p.classList.toggle('hidden',!activeGrps.has(g))});
-  if(!gC) return;
-  const clNodes=gC.querySelectorAll('.cluster');
-  // Track which POI ids should be revealed (cluster collapsed to <=1)
+  // Cluster + reveal-id computation moved to applySearch() so chip + search
+  // combine consistently. Just re-trigger applySearch (it reads activeGrps).
+  if(typeof applySearch==='function')applySearch();
+}
+document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
+// Search: dim non-matching POIs + recompute cluster visibility (only count matches)
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap');
+function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
+// Quick lookup of POI's normalized search text by id (for cluster filtering)
+const POI_SEARCH_BY_ID={};
+gP.querySelectorAll('.poi').forEach(p=>{POI_SEARCH_BY_ID[p.getAttribute('data-id')]=p.getAttribute('data-search')||''});
+function applySearch(){
+  const q=norm(sIn.value.trim());
+  sW.classList.toggle('has-q',!!q);
+  // Phase 1: per-POI dim/match
+  gP.querySelectorAll('.poi').forEach(p=>{
+    if(!q){p.classList.remove('dim');p.classList.remove('match');return}
+    const t=p.getAttribute('data-search')||'';
+    const m=t.includes(q);
+    p.classList.toggle('match',m);
+    p.classList.toggle('dim',!m);
+  });
+  // Phase 2: cluster visibility — combine search match WITH group filter
+  if(!gC)return;
   const revealIds=new Set();
-  clNodes.forEach((c,idx)=>{
+  gC.querySelectorAll('.cluster').forEach(c=>{
     const i=+c.getAttribute('data-i');
     const list=CLUSTERS[i]||[];
-    const vis=list.filter(p=>activeGrps.has(p.grp));
+    // POI counts as "visible" if: group active AND (no query OR matches query)
+    const vis=list.filter(p=>{
+      if(!activeGrps.has(p.grp))return false;
+      if(!q)return true;
+      return (POI_SEARCH_BY_ID[p.id]||'').includes(q);
+    });
     const txt=c.querySelector('text');
     if(vis.length===0){c.classList.add('hidden')}
     else if(vis.length===1){c.classList.add('hidden');revealIds.add(vis[0].id)}
     else{c.classList.remove('hidden');if(txt)txt.textContent=String(vis.length)}
   });
-  // Reveal singletons + de-reveal others
   gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
     p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
   });
 }
-document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
-// Search: dim non-matching POIs, highlight matches
-const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap');
-function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
-function applySearch(){const q=norm(sIn.value.trim());sW.classList.toggle('has-q',!!q);gP.querySelectorAll('.poi').forEach(p=>{if(!q){p.classList.remove('dim');p.classList.remove('match');return}const t=p.getAttribute('data-search')||'';const m=t.includes(q);p.classList.toggle('match',m);p.classList.toggle('dim',!m)})}
 sIn.addEventListener('input',applySearch);
 sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
 </script>
