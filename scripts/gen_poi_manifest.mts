@@ -11,7 +11,7 @@ const OUT = path.join(DATA, "_all_poi_sources.generated.ts");
 
 const SKIP_PATTERNS = [
   /\.bak/, /\.before/, /^_/, /\.generated\./,
-  /\.json$/, /\.tmp/, /^poi\.ts$/,  // poi.ts is the type def, not data
+  /\.json$/, /\.tmp/,
   /^index\.ts$/,
   /^\./,  // hidden dot-files (e.g. .hungaryPoi.backup)
   /\.backup$/i, /\.backup\.ts$/i, /\.old\.ts$/i,

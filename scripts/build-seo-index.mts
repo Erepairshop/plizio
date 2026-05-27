@@ -82,7 +82,12 @@ async function main() {
   const seenCoords = new Map<string, POI>();
   const passthrough: POI[] = [];
   for (const p of _poiById.values()) {
-    if (!p || p.type === "region" || p.type === "country") { passthrough.push(p); continue; }
+    // Passthrough types: identity supersedes coord proximity, so a state/national
+    // capital is never collapsed with a nearby district or landmark POI.
+    if (!p || p.type === "region" || p.type === "country" ||
+             p.type === "state-capital" || p.type === "capital") {
+      passthrough.push(p); continue;
+    }
     const xy = poiCoords(p);
     if (!xy) { passthrough.push(p); continue; }
     const key = `${Math.round(xy[1] / 0.0005)}:${Math.round(xy[0] / 0.0005)}`;

@@ -143,6 +143,7 @@ import * as _src_norwayPoi_lite from "./norwayPoi.lite";
 import * as _src_norwayPoi from "./norwayPoi";
 import * as _src_panamaPoi_lite from "./panamaPoi.lite";
 import * as _src_panamaPoi from "./panamaPoi";
+import * as _src_poi from "./poi";
 import * as _src_poiExtraAfghanistanCitiesV2 from "./poiExtraAfghanistanCitiesV2";
 import * as _src_poiExtraAfghanistanEconomicV2 from "./poiExtraAfghanistanEconomicV2";
 import * as _src_poiExtraAfghanistanHistoryV2 from "./poiExtraAfghanistanHistoryV2";
@@ -1901,6 +1902,8 @@ const _raw: any[] = [
   ...((_src_panamaPoi as any).panamaCities as any[]),
   ...((_src_panamaPoi as any).panamaLandmarks as any[]),
   ...((_src_panamaPoi as any).panamaAllPoi as any[]),
+  ...((_src_poi as any).regions as any[]),
+  ...((_src_poi as any).pois as any[]),
   ...((_src_poiExtraAfghanistanCitiesV2 as any).poiExtraAfghanistanCitiesV2 as any[]),
   ...((_src_poiExtraAfghanistanEconomicV2 as any).poiExtraAfghanistanEconomicV2 as any[]),
   ...((_src_poiExtraAfghanistanHistoryV2 as any).poiExtraAfghanistanHistoryV2 as any[]),
