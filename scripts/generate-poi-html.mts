@@ -123,9 +123,27 @@ try {
 }
 function lookupFallbackImage(poiId: string): string | null {
   if (IMG_SET.has(`${poiId}.webp`)) return `/poi-images/${poiId}.webp`;
-  // Try geo-images
+  // German umlaut transliteration mismatch: POI id uses one convention
+  // (nuernberg / koeln / muenchen / wuerzburg), VPS file may use the simpler
+  // (nurnberg / koln / munchen / wurzburg) or vice versa. Try both forms.
+  const variants = new Set<string>();
+  // Direction: ae/oe/ue/ss → a/o/u/s (POI id likely the ae-form,
+  // file likely the stripped form). The reverse (a → ae) cannot be done
+  // safely since it would mangle non-German names like "paris" or "baunatal".
+  variants.add(poiId.replace(/ae/g, "a").replace(/oe/g, "o").replace(/ue/g, "u").replace(/ss/g, "s"));
+  // Strip combining diacritics
+  variants.add(poiId.normalize("NFD").replace(/[̀-ͯ]/g, ""));
+  variants.delete(poiId);
+  for (const v of variants) {
+    if (v && IMG_SET.has(`${v}.webp`)) return `/poi-images/${v}.webp`;
+  }
+  // Geo-images stem
   const geo = IMG_BY_STEM.get(poiId);
   if (geo) return geo;
+  for (const v of variants) {
+    const g = IMG_BY_STEM.get(v);
+    if (g) return g;
+  }
   return null;
 }
 
