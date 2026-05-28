@@ -67,6 +67,11 @@ type YHEvent = {
   summary: Partial<Record<string, string>>;
   source_url?: string;
   date?: string;
+  image_url?: string;
+  image_credit?: string;
+  category?: Partial<Record<string, string>> | string;
+  price?: Partial<Record<string, string>> | string;
+  period?: { start_time?: string; end_time?: string; applies_on_day?: string; recurrent?: boolean } | string;
 };
 let YEARLY_HIGHLIGHTS: Record<string, YHEvent[]> = {};
 try {
@@ -1397,7 +1402,34 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const isHttp = typeof ev.source_url === "string" && /^https?:\/\//i.test(ev.source_url);
         const linkOpen = isHttp ? `<a href="${escapeHtml(ev.source_url!)}" target="_blank" rel="noopener nofollow" class="plz-yh-link">` : "";
         const linkClose = isHttp ? "</a>" : "";
-        return `<article class="plz-yh-card">${linkOpen}<div class="plz-yh-meta">${d ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(d)}</time>` : ""}</div><h3 class="plz-yh-title">${escapeHtml(t)}</h3><p class="plz-yh-summary">${escapeHtml(s)}</p>${linkClose}</article>`;
+        // Optional thumbnail. Use loading="lazy" so the list doesn't block render.
+        const imgHtml = (typeof ev.image_url === "string" && /^https?:\/\//.test(ev.image_url))
+          ? `<img class="plz-yh-img" src="${escapeHtml(ev.image_url)}" alt="" loading="lazy" decoding="async"/>` : "";
+        // Optional badges in the meta row: category, price, period
+        const pickL = (v: any): string => {
+          if (!v) return "";
+          if (typeof v === "string") return v;
+          if (typeof v === "object") return v[lang] || v.en || v.de || v.fr || Object.values(v)[0] as string || "";
+          return "";
+        };
+        const cat = pickL(ev.category);
+        const price = pickL(ev.price);
+        let periodTxt = "";
+        if (ev.period) {
+          if (typeof ev.period === "string") periodTxt = ev.period;
+          else if (ev.period.applies_on_day || ev.period.start_time) {
+            periodTxt = [ev.period.applies_on_day, ev.period.start_time?.slice(0,5)].filter(Boolean).join(" ");
+          }
+        }
+        const badges = [
+          cat   ? `<span class="plz-yh-badge plz-yh-cat">${escapeHtml(cat)}</span>` : "",
+          price ? `<span class="plz-yh-badge plz-yh-price">${escapeHtml(price)}</span>` : "",
+          periodTxt ? `<span class="plz-yh-badge plz-yh-period">${escapeHtml(periodTxt)}</span>` : "",
+        ].filter(Boolean).join("");
+        const meta = (d || badges)
+          ? `<div class="plz-yh-meta">${d ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(d)}</time>` : ""}${badges}</div>`
+          : "";
+        return `<article class="plz-yh-card${imgHtml ? " plz-yh-has-img" : ""}">${linkOpen}${imgHtml}<div class="plz-yh-body-card">${meta}<h3 class="plz-yh-title">${escapeHtml(t)}</h3><p class="plz-yh-summary">${escapeHtml(s)}</p></div>${linkClose}</article>`;
       };
       const VISIBLE = 6;
       const visible = sorted.slice(0, VISIBLE).map(renderCard).join("");

@@ -686,6 +686,19 @@ main > section:not(.plz-itin):not(.plz-news):not(.plz-sights):not(.plz-pract):no
 .plz-yh-summary { margin: 0.15rem 0 0 0; font-size: 0.74rem; color: rgba(255,255,255,0.62); line-height: 1.4; flex: 1 1 100%; }
 .plz-yh-more { margin-top: 0.25rem; padding: 0.35rem 0.6rem; background: rgba(251,191,36,0.08); color: #fbbf24; border: 1px solid rgba(251,191,36,0.2); border-radius: 0.35rem; font-size: 0.72rem; font-weight: 600; cursor: pointer; align-self: flex-start; transition: background 0.15s; }
 .plz-yh-more:hover { background: rgba(251,191,36,0.15); }
+/* Thumbnail + badges (DATAtourisme FR events; safely no-op when fields absent) */
+.plz-yh-card.plz-yh-has-img { align-items: stretch; }
+.plz-yh-img { width: 84px; height: 84px; object-fit: cover; border-radius: 0.35rem; flex-shrink: 0; background: rgba(255,255,255,0.04); }
+.plz-yh-body-card { display: contents; }
+.plz-yh-card.plz-yh-has-img .plz-yh-body-card { display: flex; flex-direction: column; flex: 1 1 60%; min-width: 0; gap: 0.2rem; }
+.plz-yh-card.plz-yh-has-img .plz-yh-meta { order: initial; margin-left: 0; display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center; }
+.plz-yh-badge { display: inline-block; font-size: 0.62rem; font-weight: 600; padding: 0.1rem 0.4rem; border-radius: 999px; line-height: 1.4; }
+.plz-yh-cat { background: rgba(96,165,250,0.16); color: #93c5fd; }
+.plz-yh-price { background: rgba(34,197,94,0.16); color: #86efac; }
+.plz-yh-period { background: rgba(168,85,247,0.16); color: #d8b4fe; }
+@media (max-width: 480px) {
+  .plz-yh-img { width: 64px; height: 64px; }
+}
 
 /* === City Itinerary widget (4-mode day-trip) v=20260524c === */
 .plz-itin{margin:1.4rem 0;border-radius:14px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);padding:1.1rem}
