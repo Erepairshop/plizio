@@ -64,6 +64,9 @@ header .langs{display:flex;gap:.25rem}
 .search-results .dot{width:8px;height:8px;border-radius:50%;flex:none}
 .search-results .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .search-results .gr{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em}
+.search-results .smore{display:flex;align-items:center;justify-content:center;width:100%;padding:.45rem;background:#1a2055;color:#fff;border:none;border-top:1px solid #ffffff10;cursor:pointer;font-size:.75rem;font-weight:600}
+.search-results .smore:hover{background:#252b6a}
+.search-results .srest a{background:#0a0e23}
 .search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
 .search.has-q button{display:block}
 .poi.hidden{display:none !important}
@@ -86,6 +89,14 @@ header .langs{display:flex;gap:.25rem}
 .popup .type{font-size:.7rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.5rem}
 .popup p{margin:0 0 .8rem;font-size:.85rem;line-height:1.45;color:#ffffffc8}
 .popup a.more{display:inline-block;background:#3b82f6;color:#fff;text-decoration:none;font-weight:700;padding:.55rem 1rem;border-radius:8px;font-size:.85rem}
+.popup .pcard{margin:-1rem -1rem .75rem;border-radius:12px 12px 0 0;overflow:hidden;display:none}
+.popup .pcard.has-img{display:block;aspect-ratio:16/9;background-color:#1a2055;background-position:center;background-size:cover;background-repeat:no-repeat}
+.popup .pdesc{margin:.5rem 0 .75rem;color:#ffffffc0;font-size:.88rem;line-height:1.4;display:none}
+.popup .pdesc.show{display:block}
+.popup .pfacts{margin:.2rem 0 .85rem;padding:0;list-style:none;display:none}
+.popup .pfacts.show{display:block}
+.popup .pfacts li{position:relative;padding:.2rem 0 .2rem 1rem;color:#ffffff95;font-size:.8rem;line-height:1.35}
+.popup .pfacts li::before{content:"•";position:absolute;left:.15rem;color:#3b82f6;font-weight:700}
 .popup .single{display:none}.popup .list{display:none}
 .popup.mode-single .single{display:block}
 .popup.mode-list .list{display:block;max-height:60vh;overflow-y:auto;margin-right:-.5rem;padding-right:.5rem}
@@ -124,8 +135,11 @@ header .langs{display:flex;gap:.25rem}
 <div class="popup" id="popup" role="dialog" aria-modal="false">
   <button class="x" id="px" aria-label="close">×</button>
   <div class="single">
+    <div class="pcard" id="pcard"></div>
     <div class="type" id="ptype"></div>
     <h2 id="pname"></h2>
+    <p class="pdesc" id="pdesc"></p>
+    <ul class="pfacts" id="pfacts"></ul>
     <a class="more" id="pmore" href="#">Read more →</a>
   </div>
   <div class="list" id="plist"></div>
@@ -133,6 +147,7 @@ header .langs{display:flex;gap:.25rem}
 <script>
 const LANG="en",W=1000,H=1583.56;
 const CLUSTERS=[];
+const POI_CARD={};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=6;
@@ -156,8 +171,27 @@ svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touch
 const pop=document.getElementById('popup');
 const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
 function clearMode(){pop.classList.remove('mode-single','mode-list')}
-function openPopup(el){document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));el.classList.add('active');const t=el.getAttribute('data-grp')||'';document.getElementById('ptype').textContent=t;document.getElementById('pname').textContent=el.getAttribute('data-name')||el.getAttribute('data-id');const u=el.getAttribute('data-url');const moreBtn=document.getElementById('pmore');if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}clearMode();pop.classList.add('mode-single','open')}
-function openClusterList(i){const all=CLUSTERS[i];if(!all)return;const list=all.filter(p=>activeGrps.has(p.grp));const el=document.getElementById('plist');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(p=>p.url?'<a href="'+p.url+'"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+'"></span><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></a>':'<div class="nl"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+';display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:.5rem"></span>'+escAttrJs(p.name)+'</div>').join('');clearMode();pop.classList.add('mode-list','open')}
+function openPopup(el){
+  document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'));
+  el.classList.add('active');
+  const t=el.getAttribute('data-grp')||'';
+  const id=el.getAttribute('data-id');
+  document.getElementById('ptype').textContent=t;
+  document.getElementById('pname').textContent=el.getAttribute('data-name')||id;
+  const u=el.getAttribute('data-url');
+  const moreBtn=document.getElementById('pmore');
+  if(u){moreBtn.href=u;moreBtn.style.display=''}else{moreBtn.style.display='none'}
+  // Card data (image + 1-sentence desc + 2 facts) — only when we have it for this POI.
+  const c=POI_CARD[id]||{};
+  const card=document.getElementById('pcard');
+  if(c.i){card.style.backgroundImage='url("'+c.i.replace(/"/g,'\"')+'")';card.classList.add('has-img')}else{card.classList.remove('has-img');card.style.backgroundImage=''}
+  const pd=document.getElementById('pdesc');
+  if(c.s){pd.textContent=c.s;pd.classList.add('show')}else{pd.textContent='';pd.classList.remove('show')}
+  const pf=document.getElementById('pfacts');
+  if(c.f&&c.f.length){pf.innerHTML=c.f.map(s=>'<li>'+String(s).replace(/[<>]/g,'')+'</li>').join('');pf.classList.add('show')}else{pf.innerHTML='';pf.classList.remove('show')}
+  clearMode();pop.classList.add('mode-single','open');
+}
+function openClusterList(i){const all=CLUSTERS[i];if(!all)return;const sInEl=document.getElementById('searchIn');const q=sInEl?norm(sInEl.value.trim()):'';const list=all.filter(p=>{if(!activeGrps.has(p.grp))return false;if(q&&!((POI_SEARCH_BY_ID[p.id]||'').includes(q)))return false;return true});const el=document.getElementById('plist');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(p=>p.url?'<a href="'+p.url+'"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+'"></span><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></a>':'<div class="nl"><span class="dot" style="background:'+(GCOL2[p.grp]||'#9ca3af')+';display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:.5rem"></span>'+escAttrJs(p.name)+'</div>').join('');clearMode();pop.classList.add('mode-list','open')}
 function escAttrJs(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
 gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
 if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openClusterList(+cl.getAttribute('data-i'))})}
@@ -288,11 +322,21 @@ function applySearch(){
     }
   }
   if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
-  sRes.innerHTML=hits.map(h=>{
-    const grpLabel=String(h.grp);
-    return '<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+grpLabel+'</span></a>';
-  }).join('');
+  // Show first N by default; rest behind a "+more" button so the dropdown
+  // stops covering the map when a query has many matches.
+  const FIRST_N=8;
+  const row=h=>'<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+String(h.grp)+'</span></a>';
+  let html=hits.slice(0,FIRST_N).map(row).join('');
+  if(hits.length>FIRST_N){
+    const rest=hits.slice(FIRST_N).map(row).join('');
+    const moreLabel=LANG==='hu'?'Még':LANG==='de'?'Mehr':LANG==='ro'?'Mai mult':'More';
+    html+='<div class="srest" hidden>'+rest+'</div>'
+        +'<button type="button" class="smore" aria-expanded="false">▾ '+moreLabel+' (+'+(hits.length-FIRST_N)+')</button>';
+  }
+  sRes.innerHTML=html;
   sRes.classList.add('has-hits');
+  const moreBtn=sRes.querySelector('.smore');
+  if(moreBtn){moreBtn.addEventListener('click',function(e){e.preventDefault();const r=sRes.querySelector('.srest');const open=!r.hasAttribute('hidden');if(open){r.setAttribute('hidden','');this.setAttribute('aria-expanded','false');this.firstChild.nodeValue='▾ '}else{r.removeAttribute('hidden');this.setAttribute('aria-expanded','true');this.firstChild.nodeValue='▴ '}})}
 }
 sIn.addEventListener('input',applySearch);
 sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
