@@ -489,7 +489,23 @@ function slimPoi(p: any, proj: (lon:number,lat:number)=>[number,number], W:numbe
     if (p.name?.[l]) name[l] = p.name[l];
   }
   if (!Object.keys(name).length) return null;
-  const urls = POI_URLS[p.id];
+  // URL lookup with dedup-aware fallback: tons of POIs exist as `<name>` AND
+  // `<name>-poi` variants but only one of them is registered in the URL index.
+  // Cluster popup shows the unregistered ones as italic "no-link" (#ffffff70)
+  // which looks like a "grey/dead" entry. Try common alias forms here.
+  let urls = POI_URLS[p.id];
+  if (!urls) {
+    const id = p.id as string;
+    const aliases: string[] = [];
+    if (id.endsWith("-poi")) aliases.push(id.slice(0, -4));
+    else aliases.push(`${id}-poi`);
+    if (id.endsWith("-extra")) aliases.push(id.slice(0, -6));
+    // City self-page sits at state-slug, not POI-slug
+    if (id.endsWith("-city")) aliases.push(id.slice(0, -5));
+    for (const a of aliases) {
+      if (POI_URLS[a]) { urls = POI_URLS[a]; break; }
+    }
+  }
   const t = p.type ?? "city";
   // Card preview snippet: first sentence of descriptionAdvanced (fallback description), per lang.
   // Capped at ~200 chars to keep map HTML lean.
@@ -565,6 +581,27 @@ function escAttr(s: string): string {
 }
 function escText(s: string): string {
   return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+}
+
+// Coord-based URL backfill: if two POIs sit on identical coords and one has
+// no URL (typical for `<name>` vs `<name>-poi` duplicates not caught by the
+// suffix-alias logic in slimPoi), copy the URLs from its sibling so the
+// cluster popup doesn't render it as an italic "no-link" entry.
+function backfillUrlsByCoord(pois: SlimPoi[]): void {
+  const byCoord = new Map<string, SlimPoi[]>();
+  for (const p of pois) {
+    const k = `${p.cx.toFixed(1)},${p.cy.toFixed(1)}`;
+    let arr = byCoord.get(k); if (!arr) { arr = []; byCoord.set(k, arr); }
+    arr.push(p);
+  }
+  for (const group of byCoord.values()) {
+    if (group.length < 2) continue;
+    const donor = group.find(g => g.urls && Object.keys(g.urls).length > 0);
+    if (!donor) continue;
+    for (const g of group) {
+      if (!g.urls || Object.keys(g.urls).length === 0) g.urls = donor.urls;
+    }
+  }
 }
 
 function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], viewBox: string, W: number, H: number): string {
@@ -1034,6 +1071,7 @@ async function buildOne(c: Country): Promise<boolean> {
     const s = slimPoi(p, proj, W, H);
     if (s) pois.push(s);
   }
+  backfillUrlsByCoord(pois);
   const regions = map.map((r: any) => ({
     id: r.id, name: r.name,
     labelX: r.labelX, labelY: r.labelY,
